@@ -1,0 +1,927 @@
+{
+ "note": "BN 第五批词表：单件法规（第 3 段，281-441）。S-1/S-3/S-4/S-5/S-6/S-7_2026-E、S54、S022- 共 8 条源文残缺，不译。",
+ "terms": {
+  "NOTIFICATION MADE UNDER SECTION": {
+   "vi": "Công bố theo điều luật",
+   "th": "ประกาศตามบทบัญญัติ",
+   "id": "Pemberitahuan menurut Pasal",
+   "ms": "Pemberitahuan menurut Seksyen"
+  },
+  "NOTIFICATION MADE UNDER SECTION 172A": {
+   "vi": "Công bố theo Điều 172A",
+   "th": "ประกาศตามมาตรา 172A",
+   "id": "Pemberitahuan menurut Pasal 172A",
+   "ms": "Pemberitahuan menurut Seksyen 172A"
+  },
+  "NOTIFICATION OF APPOINTMENT OF CHAIRMAN AND MEMBERS OF THE BRUNEI ECONOMIC DEVELOPMENT BOARD": {
+   "vi": "Công bố bổ nhiệm Chủ tịch và thành viên Hội đồng Phát triển Kinh tế Brunei",
+   "th": "ประกาศการแต่งตั้งประธานและกรรมการคณะกรรมการพัฒนเศรษฐกิจบรูไน",
+   "id": "Pemberitahuan Pengangkatan Ketua dan Anggota Dewan Pembangunan Ekonomi Brunei",
+   "ms": "Pemberitahuan Pelantikan Pengerusi dan Anggota Lembaga Pembangunan Ekonomi Brunei"
+  },
+  "NOTIFICATION OF APPOINTMENT OF DEPUTY REGISTRARS OF BIRTHS AND DEATH UNDER SECTION 32": {
+   "vi": "Công bố bổ nhiệm Phó đăng ký viên khai sinh, khai tử theo Điều 32",
+   "th": "ประกาศการแต่งตั้งรองนายทะเบียนการเกิดและการตายตามมาตรา 32",
+   "id": "Pemberitahuan Pengangkatan Wakil Pendaftar Kelahiran dan Kematian menurut Pasal 32",
+   "ms": "Pemberitahuan Pelantikan Penolong Pendaftar Kelahiran dan Kematian menurut Seksyen 32"
+  },
+  "NOTIFICATION OF APPOINTMENT OF INSPECTING OFFICERS UNDER SECTION": {
+   "vi": "Công bố bổ nhiệm thanh tra viên theo điều luật",
+   "th": "ประกาศการแต่งตั้งเจ้าหน้าที่ตรวจการตามบทบัญญัติ",
+   "id": "Pemberitahuan Pengangkatan Pejabat Pemeriksa menurut Pasal",
+   "ms": "Pemberitahuan Pelantikan Pegawai Pemeriksa menurut Seksyen"
+  },
+  "NOTIFICATION OF APPROVED INSTITUTIONS": {
+   "vi": "Công bố cơ sở được công nhận",
+   "th": "ประกาศสถานที่ที่ได้รับอนุมัติ",
+   "id": "Pemberitahuan Lembaga yang Disetujui",
+   "ms": "Pemberitahuan Institusi Diluluskan"
+  },
+  "NOTIFICATION OF COMMENCEMENT S": {
+   "vi": "Công bố ngày có hiệu lực (S 5)",
+   "th": "ประกาศวันมีผลใช้บังคับ (S 5)",
+   "id": "Pemberitahuan Mulai Berlaku (S 5)",
+   "ms": "Pemberitahuan Mula Kuat Kuasa (S 5)"
+  },
+  "NOTIFICATION OF COMMENCEMENT S 42": {
+   "vi": "Công bố ngày có hiệu lực (S 42)",
+   "th": "ประกาศวันมีผลใช้บังคับ (S 42)",
+   "id": "Pemberitahuan Mulai Berlaku (S 42)",
+   "ms": "Pemberitahuan Mula Kuat Kuasa (S 42)"
+  },
+  "NOTIFICATION OF COMMENCEMENT SYARIAH COURTS CIVIL PROCEDURE SULH": {
+   "full": {
+    "vi": "Thông báo ngày có hiệu lực của Quy tắc tố tụng dân sự hòa giải Tòa án Syariah",
+    "th": "ประกาศวันมีผลใช้บังคับของข้อกำหนดวิธีพิจารณาความแพ่งการประนีประนอมศาลชะรีอะฮ์",
+    "id": "Pemberitahuan Mulai Berlakunya Peraturan Acara Perdata Perdamaian Pengadilan Syariah",
+    "ms": "Pemberitahuan Mula Kuat Kuasa Kaedah Tatacara Sivil Sulh Mahkamah Syariah"
+   }
+  },
+  "NOTIFICATION OF COMMENCEMENT UNDER PARAGRAPH": {
+   "vi": "Công bố ngày có hiệu lực theo khoản",
+   "th": "ประกาศวันมีผลใช้บังคับตามวรรค",
+   "id": "Pemberitahuan Mulai Berlaku menurut Ayat",
+   "ms": "Pemberitahuan Mula Kuat Kuasa menurut Perenggan"
+  },
+  "NOTIFICATION OF COMMENCEMENT UNDER SECTION 11": {
+   "vi": "Công bố ngày có hiệu lực theo Điều 11",
+   "th": "ประกาศวันมีผลใช้บังคับตามมาตรา 11",
+   "id": "Pemberitahuan Mulai Berlaku menurut Pasal 11",
+   "ms": "Pemberitahuan Mula Kuat Kuasa menurut Seksyen 11"
+  },
+  "NOTIFICATION OF COMMENCEMTN": {
+   "vi": "Công bố ngày có hiệu lực",
+   "th": "ประกาศวันมีผลใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlaku",
+   "ms": "Pemberitahuan Mula Kuat Kuasa"
+  },
+  "NOTIFICATION OF COMMENCMENT": {
+   "vi": "Công bố ngày có hiệu lực",
+   "th": "ประกาศวันมีผลใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlaku",
+   "ms": "Pemberitahuan Mula Kuat Kuasa"
+  },
+  "NOTIFICATION OF COMMENCMENT OF BILL OF EXCHANGE": {
+   "full": {
+    "vi": "Thông báo ngày có hiệu lực của Sắc lệnh sửa đổi Luật Hối phiếu",
+    "th": "ประกาศวันมีผลใช้บังคับของคำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติตั๋วแลกเงิน",
+    "id": "Pemberitahuan Mulai Berlakunya Perintah Perubahan Undang-Undang Surat Wesel",
+    "ms": "Pemberitahuan Mula Kuat Kuasa Perintah Pindaan Akta Bil Pertukaran"
+   }
+  },
+  "NOTIFICATION ON FREE TRADE ZONES (DECLARATION OF AREAS)": {
+   "vi": "Công bố về khu thương mại tự do (tuyên bố khu vực)",
+   "th": "ประกาศเกี่ยวกับเขตการค้าเสรี (การประกาศเขตพื้นที่)",
+   "id": "Pemberitahuan tentang Kawasan Perdagangan Bebas (Pernyataan Wilayah)",
+   "ms": "Pemberitahuan tentang Zon Perdagangan Bebas (Perisytiharan Kawasan)"
+  },
+  "NOTIFICATION UNDER SECTION 12 MALAYSIA": {
+   "vi": "Công bố theo Điều 12: Malaysia",
+   "th": "ประกาศตามมาตรา 12: มาเลเซีย",
+   "id": "Pemberitahuan menurut Pasal 12: Malaysia",
+   "ms": "Pemberitahuan menurut Seksyen 12: Malaysia"
+  },
+  "NOTIFICATION UNDER SECTION 12 SINGAPORE": {
+   "vi": "Công bố theo Điều 12: Singapore",
+   "th": "ประกาศตามมาตรา 12: สิงคโปร์",
+   "id": "Pemberitahuan menurut Pasal 12: Singapura",
+   "ms": "Pemberitahuan menurut Seksyen 12: Singapura"
+  },
+  "NURSES REGISTRATION COMMITTEES": {
+   "vi": "Đăng ký y tá: các ủy ban",
+   "th": "การขึ้นทะเบียนพยาบาล: คณะกรรมการ",
+   "id": "Pendaftaran Perawat: Komite",
+   "ms": "Pendaftaran Jururawat: Jawatankuasa"
+  },
+  "NURSES REGISTRATION NURSING BOARD FOR BRUNEI": {
+   "vi": "Đăng ký y tá: Hội đồng Điều dưỡng Brunei",
+   "th": "การขึ้นทะเบียนพยาบาล: สภาการพยาบาลบรูไน",
+   "id": "Pendaftaran Perawat: Dewan Keperawatan Brunei",
+   "ms": "Pendaftaran Jururawat: Lembaga Kejururawatan Brunei"
+  },
+  "O 1 2013 ED APPEALS FROM THE SUPREME COURT": {
+   "vi": "Kháng án từ Tòa án Tối cao (O 1/2013)",
+   "th": "การอุทธรณ์จากศาลสูงสุด (O 1/2013)",
+   "id": "Banding dari Mahkamah Agung (O 1/2013)",
+   "ms": "Rayuan daripada Mahkamah Agung (O 1/2013)"
+  },
+  "O 1 2013 ED NEWSPAPER EXEMPTION": {
+   "vi": "Miễn trừ đối với báo chí (O 1/2013)",
+   "th": "การยกเว้นสำหรับหนังสือพิมพ์ (O 1/2013)",
+   "id": "Pengecualian Surat Kabar (O 1/2013)",
+   "ms": "Pengecualian Akhbar (O 1/2013)"
+  },
+  "O 1 2014 ED PRICE CONTROL DISPLAY OF PRICES": {
+   "vi": "Kiểm soát giá: niêm yết giá (O 1/2014)",
+   "th": "การควบคุมราคา: การแสดงราคา (O 1/2014)",
+   "id": "Pengendalian Harga: Penayangan Harga (O 1/2014)",
+   "ms": "Kawalan Harga: Pemaparan Harga (O 1/2014)"
+  },
+  "O 1 2015 ED POISONS ANTIBIOTICS EXEMPTION": {
+   "vi": "Chất độc: miễn trừ kháng sinh (O 1/2015)",
+   "th": "วัตถุมีพิษ: การยกเว้นยาปฏิชีวนะ (O 1/2015)",
+   "id": "Racun: Pengecualian Antibiotik (O 1/2015)",
+   "ms": "Racun: Pengecualian Antibiotik (O 1/2015)"
+  },
+  "O 1 2017 ED PROTECTED PLACES CONSOLIDATION": {
+   "vi": "Địa điểm được bảo vệ: hợp nhất (O 1/2017)",
+   "th": "สถานที่ที่ได้รับการคุ้มครอง: การรวบรวม (O 1/2017)",
+   "id": "Tempat Terlindung: Konsolidasi (O 1/2017)",
+   "ms": "Tempat Dilindungi: Penggabungan (O 1/2017)"
+  },
+  "O 1 2024 ED SUPPLEMENTAL CONTRIBUTORY PENSIONS NON EMPLOYEE": {
+   "vi": "Lương hưu đóng góp bổ sung: người không phải lao động làm công (O 1/2024)",
+   "th": "บำนาญสมทบเพิ่มเติม: ผู้ที่ไม่ใช่ลูกจ้าง (O 1/2024)",
+   "id": "Pensiun Iuran Tambahan: Bukan Pegawai (O 1/2024)",
+   "ms": "Pencen Caruman Tambahan: Bukan Pekerja (O 1/2024)"
+  },
+  "O 1 BRUNEI DARUSSALAM FISHERY LIMITS": {
+   "vi": "Giới hạn nghề cá Brunei Darussalam (O 1)",
+   "th": "เขตจำกัดการประมงบรูไนดารุสซาลาม (O 1)",
+   "id": "Batas Perikanan Brunei Darussalam (O 1)",
+   "ms": "Had Perikanan Brunei Darussalam (O 1)"
+  },
+  "O 1 IMMIGRATION PROHIBITION OF ENTRY": {
+   "vi": "Nhập cư: cấm nhập cảnh (O 1)",
+   "th": "คนเข้าเมือง: การห้ามเข้าประเทศ (O 1)",
+   "id": "Keimigrasian: Larangan Masuk (O 1)",
+   "ms": "Imigresen: Larangan Masuk (O 1)"
+  },
+  "O 1 INCOME TAX DOUBLE TAXATION RELIEF UNITED KINGDOM": {
+   "vi": "Thuế thu nhập: giảm trừ đánh thuế hai lần với Vương quốc Anh (O 1)",
+   "th": "ภาษีเงินได้: การบรรเทาการเก็บภาษีซ้อนกับสหราชอาณาจักร (O 1)",
+   "id": "Pajak Penghasilan: Keringanan Pajak Berganda dengan Inggris (O 1)",
+   "ms": "Cukai Pendapatan: Pelepasan Cukai Dua Kali dengan United Kingdom (O 1)"
+  },
+  "O 2 2023 ED PRICE CONTROL MAXIMUM PRICES AND CHARGES": {
+   "vi": "Kiểm soát giá: giá và phí tối đa (O 2/2023)",
+   "th": "การควบคุมราคา: ราคาและค่าบริการสูงสุด (O 2/2023)",
+   "id": "Pengendalian Harga: Harga dan Biaya Maksimum (O 2/2023)",
+   "ms": "Kawalan Harga: Harga dan Caj Maksimum (O 2/2023)"
+  },
+  "O 2 IMMIGRATION EXEMPTION": {
+   "vi": "Nhập cư: miễn trừ (O 2)",
+   "th": "คนเข้าเมือง: การยกเว้น (O 2)",
+   "id": "Keimigrasian: Pengecualian (O 2)",
+   "ms": "Imigresen: Pengecualian (O 2)"
+  },
+  "O 2 INCOME TAX DEVELOPMENT OF MINERAL RESOURCES ENCOURAGEMENT": {
+   "vi": "Thuế thu nhập: khuyến khích phát triển tài nguyên khoáng sản (O 2)",
+   "th": "ภาษีเงินได้: การส่งเสริมการพัฒนาทรัพยากรแร่ (O 2)",
+   "id": "Pajak Penghasilan: Dorongan Pengembangan Sumber Daya Mineral (O 2)",
+   "ms": "Cukai Pendapatan: Galakan Pembangunan Sumber Mineral (O 2)"
+  },
+  "O 4 2014 ED PRICE CONTROL CONTROLLED ARTICLES": {
+   "vi": "Kiểm soát giá: mặt hàng thuộc diện kiểm soát (O 4/2014)",
+   "th": "การควบคุมราคา: สินค้าควบคุม (O 4/2014)",
+   "id": "Pengendalian Harga: Barang yang Dikendalikan (O 4/2014)",
+   "ms": "Kawalan Harga: Barang Dikawal (O 4/2014)"
+  },
+  "O 5 2014 ED ORDER RELATING TO CONTROLLED ARTICLES UNDER SECTION 71": {
+   "vi": "Mặt hàng thuộc diện kiểm soát theo Điều 71 (O 5/2014)",
+   "th": "สินค้าควบคุมตามมาตรา 71 (O 5/2014)",
+   "id": "Barang yang Dikendalikan menurut Pasal 71 (O 5/2014)",
+   "ms": "Barang Dikawal menurut Seksyen 71 (O 5/2014)"
+  },
+  "O1 EMPLOYMENT MINIMUM WAGE": {
+   "vi": "Việc làm: tiền lương tối thiểu (O 1)",
+   "th": "การจ้างงาน: ค่าจ้างขั้นต่ำ (O 1)",
+   "id": "Ketenagakerjaan: Upah Minimum (O 1)",
+   "ms": "Pekerjaan: Gaji Minimum (O 1)"
+  },
+  "O1 ORDERS TO PROHIBIT IMPORTATION SALE OR CIRCULATION OF PUBLICATIONS": {
+   "vi": "Cấm nhập khẩu, bán hoặc lưu hành ấn phẩm (O 1)",
+   "th": "การห้ามนำเข้า จำหน่าย หรือเผยแพร่สิ่งพิมพ์ (O 1)",
+   "id": "Larangan Impor, Penjualan, atau Peredaran Terbitan (O 1)",
+   "ms": "Larangan Import, Jualan atau Pengedaran Penerbitan (O 1)"
+  },
+  "O1 PROPERTIES RIGHTS AND LIABILITIES EXCLUSION FROM TRANSFER": {
+   "vi": "Quyền và nghĩa vụ tài sản: loại trừ chuyển giao (O 1)",
+   "th": "สิทธิและหน้าที่ในทรัพย์สิน: การยกเว้นจากการโอน (O 1)",
+   "id": "Hak dan Kewajiban atas Harta: Pengecualian dari Pengalihan (O 1)",
+   "ms": "Hak dan Liabiliti Harta: Pengecualian daripada Pemindahan (O 1)"
+  },
+  "O1 RECIPROCAL ENFORCEMENT OF FOREIGN JUDGMENTS": {
+   "vi": "Thi hành tương hỗ bản án nước ngoài (O 1)",
+   "th": "การบังคับตามคำพิพากษาต่างประเทศซึ่งกันและกัน (O 1)",
+   "id": "Pelaksanaan Timbal Balik Putusan Asing (O 1)",
+   "ms": "Penguatkuasaan Timbal Balik Penghakiman Asing (O 1)"
+  },
+  "O2 PROPERTIES RIGHTS AND LIABILITIES APPOINTED DAY": {
+   "vi": "Quyền và nghĩa vụ tài sản: ngày được ấn định (O 2)",
+   "th": "สิทธิและหน้าที่ในทรัพย์สิน: วันที่กำหนด (O 2)",
+   "id": "Hak dan Kewajiban atas Harta: Hari yang Ditetapkan (O 2)",
+   "ms": "Hak dan Liabiliti Harta: Hari Ditetapkan (O 2)"
+  },
+  "O3 PRIME MINISTER CORPORATION DISSOLUTION": {
+   "vi": "Giải thể Tổng công ty Thủ tướng (O 3)",
+   "th": "การยุบเลิกบรรษัทนายกรัฐมนตรี (O 3)",
+   "id": "Pembubaran Korporasi Perdana Menteri (O 3)",
+   "ms": "Pembubaran Perbadanan Perdana Menteri (O 3)"
+  },
+  "OATH AND AFFIRMATIONS": {
+   "vi": "Tuyên thệ và xác nhận",
+   "th": "คำปฏิญาณและการยืนยัน",
+   "id": "Sumpah dan Pernyataan",
+   "ms": "Sumpah dan Afirmasi"
+  },
+  "OLD AGE PENSIONS AND DISABILITY ALLOWANCES ADVISORY COMMITTEE": {
+   "vi": "Lương hưu tuổi già và trợ cấp khuyết tật: Ủy ban tư vấn",
+   "th": "บำนาญชราภาพและเงินช่วยเหลือผู้ทุพพลภาพ: คณะกรรมการที่ปรึกษา",
+   "id": "Pensiun Hari Tua dan Tunjangan Disabilitas: Komite Penasihat",
+   "ms": "Pencen Hari Tua dan Elaun Hilang Upaya: Jawatankuasa Penasihat"
+  },
+  "OLD AGE PENSIONS AND DISABILITY PENSIONS": {
+   "vi": "Lương hưu tuổi già và lương hưu khuyết tật",
+   "th": "บำนาญชราภาพและบำนาญผู้ทุพพลภาพ",
+   "id": "Pensiun Hari Tua dan Pensiun Disabilitas",
+   "ms": "Pencen Hari Tua dan Pencen Hilang Upaya"
+  },
+  "OPT OUT PRACTICES": {
+   "vi": "Thông lệ chọn không tham gia",
+   "th": "แนวปฏิบัติการเลือกไม่ใช้บริการ",
+   "id": "Praktik Penolakan Keikutsertaan",
+   "ms": "Amalan Tarik Diri"
+  },
+  "ORDER UNDER REGULATION 25": {
+   "vi": "Quy định 25",
+   "th": "ข้อบังคับ 25",
+   "id": "Peraturan 25",
+   "ms": "Peraturan 25"
+  },
+  "ORDER UNDER SEC 2 – SUCCESSION DATE FOR SEC 3 FOR TELECOMMUNICATION SUCCESSOR COMPANY": {
+   "vi": "Ngày chuyển tiếp Điều 3 đối với công ty kế thừa viễn thông (theo Điều 2)",
+   "th": "วันสืบทอดตามมาตรา 3 ของบริษัทผู้สืบทอดกิจการโทรคมนาคม (ตามมาตรา 2)",
+   "id": "Tanggal Pengalihan Pasal 3 bagi Perusahaan Penerus Telekomunikasi (menurut Pasal 2)",
+   "ms": "Tarikh Pewarisan Seksyen 3 bagi Syarikat Pengganti Telekomunikasi (menurut Seksyen 2)"
+  },
+  "ORDER UNDER SECTION 152": {
+   "vi": "Điều 152",
+   "th": "มาตรา 152",
+   "id": "Pasal 152",
+   "ms": "Seksyen 152"
+  },
+  "ORDER UNDER SECTION 45": {
+   "vi": "Điều 45",
+   "th": "มาตรา 45",
+   "id": "Pasal 45",
+   "ms": "Seksyen 45"
+  },
+  "PASSPORT LAW (VISA EXEMPTION) (AMENDMENT)": {
+   "vi": "Luật Hộ chiếu (miễn thị thực) (sửa đổi)",
+   "th": "กฎหมายหนังสือเดินทาง (การยกเว้นวีซ่า) (แก้ไข)",
+   "id": "Undang-Undang Paspor (Pengecualian Visa) (Perubahan)",
+   "ms": "Undang-Undang Pasport (Pengecualian Visa) (Pindaan)"
+  },
+  "PERSA TUAN BULAN SABIT MERAH NEGARA BRUNEI DARUSSALAM INCORPORATION": {
+   "vi": "Persatuan Bulan Sabit Merah Negara Brunei Darussalam",
+   "th": "Persatuan Bulan Sabit Merah Negara Brunei Darussalam",
+   "id": "Persatuan Bulan Sabit Merah Negara Brunei Darussalam",
+   "ms": "Persatuan Bulan Sabit Merah Negara Brunei Darussalam"
+  },
+  "PETROLEUM MINING": {
+   "vi": "Khai thác dầu khí",
+   "th": "การทำเหมืองปิโตรเลียม",
+   "id": "Pertambangan Minyak dan Gas",
+   "ms": "Perlombongan Petroleum"
+  },
+  "PIONEER INDUSTRIES AND PIONEER PRODUCTS LAW": {
+   "vi": "Luật Ngành tiên phong và Sản phẩm tiên phong",
+   "th": "กฎหมายอุตสาหกรรมบุกเบิกและผลิตภัณฑ์บุกเบิก",
+   "id": "Undang-Undang Industri Perintis dan Produk Perintis",
+   "ms": "Undang-Undang Industri Perintis dan Produk Perintis"
+  },
+  "PLANT VARIETIES PROTECTION AMENDMENT ORDER 2016": {
+   "vi": "Bảo hộ giống cây trồng (sửa đổi 2016)",
+   "th": "การคุ้มครองพันธุ์พืช (แก้ไข 2016)",
+   "id": "Perlindungan Varietas Tanaman (Perubahan 2016)",
+   "ms": "Perlindungan Varieti Tanaman (Pindaan 2016)"
+  },
+  "POLICE CONSTITUTION OF POLICE DISTRICTS": {
+   "vi": "Cảnh sát: thành lập các quận cảnh sát",
+   "th": "ตำรวจ: การจัดตั้งเขตตำรวจ",
+   "id": "Kepolisian: Pembentukan Distrik Kepolisian",
+   "ms": "Polis: Penubuhan Daerah Polis"
+  },
+  "POST OFFICE EXPRESS MAIL SERVICE SPEEDPOST OVERSEAS RATE FOR CONTRACT SERVICE": {
+   "vi": "Bưu điện: dịch vụ chuyển phát nhanh — cước hợp đồng gửi ra nước ngoài",
+   "th": "ที่ทำการไปรษณีย์: บริการไปรษณีย์ด่วนพิเศษ — อัตราค่าบริการตามสัญญาต่างประเทศ",
+   "id": "Kantor Pos: Layanan Pos Kilat Khusus — Tarif Kontrak ke Luar Negeri",
+   "ms": "Pejabat Pos: Perkhidmatan Pos Laju — Kadar Kontrak ke Luar Negara"
+  },
+  "POST OFFICE SPEED POST RATES": {
+   "vi": "Bưu điện: cước chuyển phát nhanh",
+   "th": "ที่ทำการไปรษณีย์: อัตราค่าไปรษณีย์ด่วนพิเศษ",
+   "id": "Kantor Pos: Tarif Pos Kilat",
+   "ms": "Pejabat Pos: Kadar Pos Laju"
+  },
+  "POSTAL AIRMAIL RATES": {
+   "vi": "Bưu chính: cước thư hàng không",
+   "th": "ไปรษณีย์: อัตราค่าฝากส่งทางอากาศ",
+   "id": "Pos: Tarif Pos Udara",
+   "ms": "Pos: Kadar Mel Udara"
+  },
+  "POSTAL ARTICLES SURFACE RATES TO FOREIGN COUNTRIES": {
+   "vi": "Bưu chính: cước bưu phẩm đường bộ, đường biển gửi ra nước ngoài",
+   "th": "ไปรษณีย์: อัตราค่าสิ่งส่งทางพื้นดินไปต่างประเทศ",
+   "id": "Pos: Tarif Kiriman Permukaan ke Luar Negeri",
+   "ms": "Pos: Kadar Kiriman Permukaan ke Negara Asing"
+  },
+  "POSTAL FEES": {
+   "vi": "Bưu chính: lệ phí",
+   "th": "ไปรษณีย์: ค่าธรรมเนียม",
+   "id": "Pos: Biaya",
+   "ms": "Pos: Fi"
+  },
+  "POSTAL PARCEL AIRMAIL RATES": {
+   "vi": "Bưu chính: cước bưu kiện hàng không",
+   "th": "ไปรษณีย์: อัตราค่าพัสดุไปรษณีย์ทางอากาศ",
+   "id": "Pos: Tarif Paket Pos Udara",
+   "ms": "Pos: Kadar Bungkusan Udara"
+  },
+  "POSTAL SURFACE LETTER RATES LOCAL AND COMMONWEALTH": {
+   "vi": "Bưu chính: cước thư đường bộ, đường biển nội địa và Khối Thịnh vượng chung",
+   "th": "ไปรษณีย์: อัตราค่าจดหมายทางพื้นดินภายในประเทศและเครือจักรภพ",
+   "id": "Pos: Tarif Surat Permukaan Domestik dan Persemakmuran",
+   "ms": "Pos: Kadar Surat Permukaan Tempatan dan Komanwel"
+  },
+  "POSTAL SURFACE PARCEL RATES": {
+   "vi": "Bưu chính: cước bưu kiện đường bộ, đường biển",
+   "th": "ไปรษณีย์: อัตราค่าพัสดุไปรษณีย์ทางพื้นดิน",
+   "id": "Pos: Tarif Paket Pos Permukaan",
+   "ms": "Pos: Kadar Bungkusan Permukaan"
+  },
+  "POWERS OF ATTORNEY": {
+   "vi": "Giấy ủy quyền",
+   "th": "หนังสือมอบอำนาจ",
+   "id": "Surat Kuasa",
+   "ms": "Surat Kuasa Wakil"
+  },
+  "PRESCRIBTION OF FEES": {
+   "vi": "Quy định về lệ phí",
+   "th": "การกำหนดค่าธรรมเนียม",
+   "id": "Penetapan Biaya",
+   "ms": "Penetapan Fi"
+  },
+  "PRESCRIPTION OF IDENTIFICATION CARD UNDER SECTION 42": {
+   "vi": "Quy định về thẻ căn cước theo Điều 42",
+   "th": "การกำหนดบัตรประจำตัวตามมาตรา 42",
+   "id": "Penetapan Kartu Identitas menurut Pasal 42",
+   "ms": "Penetapan Kad Pengenalan menurut Seksyen 42"
+  },
+  "PREVENTION OF POLLUTION OF THE SEA AUTHORISED ORGANISATIONS": {
+   "vi": "Phòng ngừa ô nhiễm biển: tổ chức được ủy quyền",
+   "th": "การป้องกันมลพิษทางทะเล: องค์กรที่ได้รับอนุญาต",
+   "id": "Pencegahan Pencemaran Laut: Organisasi Berwenang",
+   "ms": "Pencegahan Pencemaran Laut: Organisasi Dibenarkan"
+  },
+  "PREVENTION OF POLLUTION OF THE SEA COMPOUNDABLE OFFENCES": {
+   "vi": "Phòng ngừa ô nhiễm biển: hành vi vi phạm có thể hòa giải",
+   "th": "การป้องกันมลพิษทางทะเล: ความผิดที่สามารถประนีประนอมได้",
+   "id": "Pencegahan Pencemaran Laut: Pelanggaran yang Dapat Diselesaikan",
+   "ms": "Pencegahan Pencemaran Laut: Kesalahan Boleh Kompaun"
+  },
+  "PREVENTION OF POLLUTION OF THE SEA GARBAGE": {
+   "vi": "Phòng ngừa ô nhiễm biển: rác thải",
+   "th": "การป้องกันมลพิษทางทะเล: ขยะ",
+   "id": "Pencegahan Pencemaran Laut: Sampah",
+   "ms": "Pencegahan Pencemaran Laut: Sampah Sarap"
+  },
+  "PREVENTION OF POLLUTION OF THE SEA NOXIOUS LIQUID SUBSTANCES IN BULK": {
+   "vi": "Phòng ngừa ô nhiễm biển: chất lỏng độc hại vận chuyển rời",
+   "th": "การป้องกันมลพิษทางทะเล: ของเหลวอันตรายบรรจุเป็นจำนวนมาก",
+   "id": "Pencegahan Pencemaran Laut: Zat Cair Berbahaya dalam Bentuk Curah",
+   "ms": "Pencegahan Pencemaran Laut: Bahan Cecair Berbahaya dalam Bentuk Pukal"
+  },
+  "PREVENTION OF POLLUTION OF THE SEA ORDER 2005": {
+   "vi": "Phòng ngừa ô nhiễm biển 2005",
+   "th": "การป้องกันมลพิษทางทะเล 2005",
+   "id": "Pencegahan Pencemaran Laut 2005",
+   "ms": "Pencegahan Pencemaran Laut 2005"
+  },
+  "PREVENTION OF POLLUTION OF THE SEA REPORTING OF POLLUTION INCIDENTS": {
+   "vi": "Phòng ngừa ô nhiễm biển: báo cáo sự cố ô nhiễm",
+   "th": "การป้องกันมลพิษทางทะเล: การรายงานเหตุการณ์มลพิษ",
+   "id": "Pencegahan Pencemaran Laut: Pelaporan Insiden Pencemaran",
+   "ms": "Pencegahan Pencemaran Laut: Pelaporan Insiden Pencemaran"
+  },
+  "PRICE CONTROL COMPOUNDABLE OFFENCES": {
+   "vi": "Kiểm soát giá: hành vi vi phạm có thể hòa giải",
+   "th": "การควบคุมราคา: ความผิดที่สามารถประนีประนอมได้",
+   "id": "Pengendalian Harga: Pelanggaran yang Dapat Diselesaikan",
+   "ms": "Kawalan Harga: Kesalahan Boleh Kompaun"
+  },
+  "PROBATE AND ADMINISTRATION": {
+   "vi": "Di chúc và quản lý di sản",
+   "th": "การพิสูจน์พินัยกรรมและการจัดการมรดก",
+   "id": "Pembuktian Wasiat dan Pengurusan Harta",
+   "ms": "Probait dan Pentadbiran Harta Pusaka"
+  },
+  "PROCLAMATION DISSOLUTION OF THE LEGISLATIVE COUNCIL SECTION 55": {
+   "vi": "Công bố giải tán Hội đồng Lập pháp theo Điều 55",
+   "th": "การประกาศยุบสภานิติบัญญัติตามมาตรา 55",
+   "id": "Proklamasi Pembubaran Dewan Legislatif menurut Pasal 55",
+   "ms": "Pengisytiharan Pembubaran Majlis Mesyuarat Negara menurut Seksyen 55"
+  },
+  "PUBLIC SERVICE COMMISSION": {
+   "vi": "Ủy ban Công vụ",
+   "th": "คณะกรรมการข้าราชการพลเรือน",
+   "id": "Komisi Kepegawaian",
+   "ms": "Suruhanjaya Perkhidmatan Awam"
+  },
+  "REGISTRATION OF DOGS FEES": {
+   "vi": "Đăng ký chó: lệ phí",
+   "th": "การขึ้นทะเบียนสุนัข: ค่าธรรมเนียม",
+   "id": "Pendaftaran Anjing: Biaya",
+   "ms": "Pendaftaran Anjing: Fi"
+  },
+  "REGISTRATION OF GUESTS": {
+   "vi": "Đăng ký khách trọ",
+   "th": "การขึ้นทะเบียนผู้เข้าพัก",
+   "id": "Pendaftaran Tamu",
+   "ms": "Pendaftaran Tetamu"
+  },
+  "REGISTRATION OF GUESTS FURNISHING OF RETURNS": {
+   "vi": "Đăng ký khách trọ: khai báo",
+   "th": "การขึ้นทะเบียนผู้เข้าพัก: การยื่นแบบรายงาน",
+   "id": "Pendaftaran Tamu: Penyampaian Laporan",
+   "ms": "Pendaftaran Tetamu: Pengemukaan Laporan"
+  },
+  "RELIGIOUS COUNCIL AND KADIS COURTS ASCERTAINMENT OF RELIGIOUS": {
+   "vi": "Hội đồng Tôn giáo và Tòa án Kadi: xác định tôn giáo",
+   "th": "สภากิจการศาสนาและศาลกาดี: การวินิจฉัยศาสนา",
+   "id": "Dewan Agama dan Pengadilan Kadi: Penetapan Agama",
+   "ms": "Majlis Agama dan Mahkamah Kadi: Penentuan Agama"
+  },
+  "RELIGIOUS COUNCIL AND KADIS COURTS LAW (AMENDMENT)": {
+   "vi": "Luật Hội đồng Tôn giáo và Tòa án Kadi (sửa đổi)",
+   "th": "กฎหมายสภากิจการศาสนาและศาลกาดี (แก้ไข)",
+   "id": "Undang-Undang Dewan Agama dan Pengadilan Kadi (Perubahan)",
+   "ms": "Undang-Undang Majlis Agama dan Mahkamah Kadi (Pindaan)"
+  },
+  "RELIGIOUS COUNCIL AND KADIS COURTS NAMING OF MOSQUES": {
+   "vi": "Hội đồng Tôn giáo và Tòa án Kadi: đặt tên nhà thờ Hồi giáo",
+   "th": "สภากิจการศาสนาและศาลกาดี: การตั้งชื่อมัสยิด",
+   "id": "Dewan Agama dan Pengadilan Kadi: Penamaan Masjid",
+   "ms": "Majlis Agama dan Mahkamah Kadi: Penamaan Masjid"
+  },
+  "RELIGIOUS COUNCIL AND KADIS COURTS PEGAWAI MASJID": {
+   "vi": "Hội đồng Tôn giáo và Tòa án Kadi: nhân viên nhà thờ Hồi giáo",
+   "th": "สภากิจการศาสนาและศาลกาดี: เจ้าหน้าที่มัสยิด",
+   "id": "Dewan Agama dan Pengadilan Kadi: Petugas Masjid",
+   "ms": "Majlis Agama dan Mahkamah Kadi: Pegawai Masjid"
+  },
+  "RELIGIOUS COUNCIL AND KADIS COURTS WAQAF OF MOSQUES SITES": {
+   "vi": "Hội đồng Tôn giáo và Tòa án Kadi: đất waqf của nhà thờ Hồi giáo",
+   "th": "สภากิจการศาสนาและศาลกาดี: ที่ดินวักฟ์ของมัสยิด",
+   "id": "Dewan Agama dan Pengadilan Kadi: Wakaf Tanah Masjid",
+   "ms": "Majlis Agama dan Mahkamah Kadi: Wakaf Tapak Masjid"
+  },
+  "RESL 1956 CUSTOMS": {
+   "vi": "Hải quan (RESL 1956)",
+   "th": "ศุลกากร (RESL 1956)",
+   "id": "Kepabeanan (RESL 1956)",
+   "ms": "Kastam (RESL 1956)"
+  },
+  "RESL 1956 CUSTOMS COMPOUNDABLE OFFENCES": {
+   "vi": "Hải quan: hành vi vi phạm có thể hòa giải (RESL 1956)",
+   "th": "ศุลกากร: ความผิดที่สามารถประนีประนอมได้ (RESL 1956)",
+   "id": "Kepabeanan: Pelanggaran yang Dapat Diselesaikan (RESL 1956)",
+   "ms": "Kastam: Kesalahan Boleh Kompaun (RESL 1956)"
+  },
+  "RESL 1956 CUSTOMS ESTABLISHMENTS OF CUSTOMS WAREHOUSE AND WAREHOUSE RENT": {
+   "vi": "Hải quan: thành lập kho ngoại quan và tiền thuê kho (RESL 1956)",
+   "th": "ศุลกากร: การจัดตั้งคลังสินค้าทัณฑ์บนและค่าเช่าคลัง (RESL 1956)",
+   "id": "Kepabeanan: Pendirian Gudang Berikat dan Sewa Gudang (RESL 1956)",
+   "ms": "Kastam: Penubuhan Gudang Kastam dan Sewa Gudang (RESL 1956)"
+  },
+  "RESL 1956 DIPLOMATIC PRIVILEGES FOOD AND AGRICULTURE ORGANISATION": {
+   "vi": "Đặc quyền ngoại giao: Tổ chức Lương thực và Nông nghiệp (RESL 1956)",
+   "th": "เอกสิทธิ์ทางการทูต: องค์การอาหารและเกษตร (RESL 1956)",
+   "id": "Hak Istimewa Diplomatik: Organisasi Pangan dan Pertanian (RESL 1956)",
+   "ms": "Keistimewaan Diplomatik: Pertubuhan Makanan dan Pertanian (RESL 1956)"
+  },
+  "RESL 1956 DIPLOMATIC PRIVILEGES INTERNATIONAL LABOUR ORGANISATION": {
+   "vi": "Đặc quyền ngoại giao: Tổ chức Lao động Quốc tế (RESL 1956)",
+   "th": "เอกสิทธิ์ทางการทูต: องค์การแรงงานระหว่างประเทศ (RESL 1956)",
+   "id": "Hak Istimewa Diplomatik: Organisasi Perburuhan Internasional (RESL 1956)",
+   "ms": "Keistimewaan Diplomatik: Pertubuhan Buruh Antarabangsa (RESL 1956)"
+  },
+  "RESL 1956 DIPLOMATIC PRIVILEGES INTERNATIONAL REFUGEE ORGANISATION": {
+   "vi": "Đặc quyền ngoại giao: Tổ chức Người tị nạn Quốc tế (RESL 1956)",
+   "th": "เอกสิทธิ์ทางการทูต: องค์การผู้ลี้ภัยระหว่างประเทศ (RESL 1956)",
+   "id": "Hak Istimewa Diplomatik: Organisasi Pengungsi Internasional (RESL 1956)",
+   "ms": "Keistimewaan Diplomatik: Pertubuhan Pelarian Antarabangsa (RESL 1956)"
+  },
+  "RESL 1956 DIPLOMATIC PRIVILEGES UNITED NATIONS AND INTERNATIONAL COURT OF JUSTICE": {
+   "vi": "Đặc quyền ngoại giao: Liên Hợp Quốc và Tòa án Công lý Quốc tế (RESL 1956)",
+   "th": "เอกสิทธิ์ทางการทูต: สหประชาชาติและศาลยุติธรรมระหว่างประเทศ (RESL 1956)",
+   "id": "Hak Istimewa Diplomatik: Perserikatan Bangsa-Bangsa dan Mahkamah Internasional (RESL 1956)",
+   "ms": "Keistimewaan Diplomatik: Bangsa-Bangsa Bersatu dan Mahkamah Keadilan Antarabangsa (RESL 1956)"
+  },
+  "RESL 1956 DIPLOMATIC PRIVILEGES UNITED NATIONS EDUCATIONAL SCIENTIFIC AND CULTURAL ORGANISATION": {
+   "vi": "Đặc quyền ngoại giao: Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc (RESL 1956)",
+   "th": "เอกสิทธิ์ทางการทูต: องค์การการศึกษา วิทยาศาสตร์ และวัฒนธรรมแห่งสหประชาชาติ (RESL 1956)",
+   "id": "Hak Istimewa Diplomatik: Organisasi Pendidikan, Ilmu Pengetahuan, dan Kebudayaan PBB (RESL 1956)",
+   "ms": "Keistimewaan Diplomatik: Pertubuhan Pendidikan, Saintifik dan Kebudayaan Bangsa-Bangsa Bersatu (RESL 1956)"
+  },
+  "RESL 1956 DIPLOMATIC PRIVILEGES WORLD HEALTH ORGANISATION": {
+   "vi": "Đặc quyền ngoại giao: Tổ chức Y tế Thế giới (RESL 1956)",
+   "th": "เอกสิทธิ์ทางการทูต: องค์การอนามัยโลก (RESL 1956)",
+   "id": "Hak Istimewa Diplomatik: Organisasi Kesehatan Dunia (RESL 1956)",
+   "ms": "Keistimewaan Diplomatik: Pertubuhan Kesihatan Sedunia (RESL 1956)"
+  },
+  "RG AIRPORT FEES AND CHARGES": {
+   "vi": "Phí và lệ phí sân bay",
+   "th": "ค่าธรรมเนียมและค่าบริการสนามบิน",
+   "id": "Biaya dan Retribusi Bandar Udara",
+   "ms": "Fi dan Caj Lapangan Terbang"
+  },
+  "ROYAL BRUNEI POLICE FORCE POLICE COMMISSION": {
+   "vi": "Lực lượng Cảnh sát Hoàng gia Brunei: Ủy ban Cảnh sát",
+   "th": "กองกำลังตำรวจหลวงบรูไน: คณะกรรมการตำรวจ",
+   "id": "Kepolisian Kerajaan Brunei: Komisi Kepolisian",
+   "ms": "Pasukan Polis Diraja Brunei: Suruhanjaya Polis"
+  },
+  "RS 1 2021 ED RESOLUTION UNDER SECTION 1832 PERMITTING PLEA OF GUILTY BY POST": {
+   "vi": "Nghị quyết theo Điều 1832 cho phép nhận tội qua đường bưu điện",
+   "th": "มติตามมาตรา 1832 ที่อนุญาตให้รับสารภาพทางไปรษณีย์",
+   "id": "Resolusi menurut Pasal 1832 yang Mengizinkan Pengakuan Bersalah melalui Pos",
+   "ms": "Resolusi menurut Seksyen 1832 yang Membenarkan Pengakuan Bersalah melalui Pos"
+  },
+  "RUBBER DEALERS": {
+   "vi": "Người buôn cao su",
+   "th": "ผู้ค้ายางพารา",
+   "id": "Pedagang Karet",
+   "ms": "Peniaga Getah"
+  },
+  "RULES OF THE SUPREME COURT DELEGATION OF POWERS": {
+   "vi": "Quy tắc Tòa án Tối cao: ủy quyền",
+   "th": "ข้อกำหนดของศาลสูงสุด: การมอบอำนาจ",
+   "id": "Peraturan Mahkamah Agung: Pelimpahan Wewenang",
+   "ms": "Kaedah Mahkamah Agung: Pendelegasian Kuasa"
+  },
+  "S 67 NOTIFICATION OF COMMENCEMENT": {
+   "vi": "Công bố ngày có hiệu lực (S 67)",
+   "th": "ประกาศวันมีผลใช้บังคับ (S 67)",
+   "id": "Pemberitahuan Mulai Berlaku (S 67)",
+   "ms": "Pemberitahuan Mula Kuat Kuasa (S 67)"
+  },
+  "S 81 NOTIFICATION OF COMMENCEMENT": {
+   "vi": "Công bố ngày có hiệu lực (S 81)",
+   "th": "ประกาศวันมีผลใช้บังคับ (S 81)",
+   "id": "Pemberitahuan Mulai Berlaku (S 81)",
+   "ms": "Pemberitahuan Mula Kuat Kuasa (S 81)"
+  },
+  "SCHEDULE 4 OF MARITIME AND PORT AUTHORITY OF BRUNEI DARUSSALAM": {
+   "vi": "Phụ lục 4 của Cơ quan Hàng hải và Cảng vụ Brunei Darussalam",
+   "th": "ภาคผนวก 4 ของหน่วยงานการเดินเรือและท่าเรือบรูไนดารุสซาลาม",
+   "id": "Lampiran 4 Badan Pelayaran dan Pelabuhan Brunei Darussalam",
+   "ms": "Jadual 4 Pihak Berkuasa Perkapalan dan Pelabuhan Brunei Darussalam"
+  },
+  "SCHEDULE 4 OF PETROLEUM AUTHORITY OF BRUNEI DARUSSALAM": {
+   "vi": "Phụ lục 4 của Cơ quan Dầu khí Brunei Darussalam",
+   "th": "ภาคผนวก 4 ของหน่วยงานปิโตรเลียมบรูไนดารุสซาลาม",
+   "id": "Lampiran 4 Badan Minyak dan Gas Brunei Darussalam",
+   "ms": "Jadual 4 Pihak Berkuasa Petroleum Brunei Darussalam"
+  },
+  "SEAMENS UNEMPLOYMENT INDEMNITY": {
+   "vi": "Bồi thường thất nghiệp cho thuyền viên",
+   "th": "การชดเชยการว่างงานของลูกเรือ",
+   "id": "Santunan Pengangguran Pelaut",
+   "ms": "Pampasan Pengangguran Kelasi"
+  },
+  "SEC 238 OF PERINTAH ACARA MAL MAHKAMAH SYARIAH": {
+   "vi": "Điều 238 Bộ luật Tố tụng Dân sự Tòa án Syariah",
+   "th": "มาตรา 238 ของประมวลวิธีพิจารณาความแพ่งศาลชะรีอะฮ์",
+   "id": "Pasal 238 Kitab Acara Perdata Pengadilan Syariah",
+   "ms": "Seksyen 238 Kanun Tatacara Sivil Mahkamah Syariah"
+  },
+  "SEDITION": {
+   "vi": "Xúi giục nổi loạn",
+   "th": "การยุยงปลุกปั่น",
+   "id": "Hasutan",
+   "ms": "Hasutan"
+  },
+  "STAMP ACT (AMENDMENT) ORDER, 2026 (S 10/2026)": {
+   "vi": "Luật Tem trước bạ (sửa đổi) 2026 (S 10/2026)",
+   "th": "พระราชบัญญัติอากรแสตมป์ (แก้ไข) 2026 (S 10/2026)",
+   "id": "Undang-Undang Bea Meterai (Perubahan) 2026 (S 10/2026)",
+   "ms": "Akta Setem (Pindaan) 2026 (S 10/2026)"
+  },
+  "STATISTICS": {
+   "vi": "Thống kê",
+   "th": "สถิติ",
+   "id": "Statistik",
+   "ms": "Perangkaan"
+  },
+  "STATUTORY CORPORATIONS CONTRIBUTIONS TO CONSOLIDATED FUND": {
+   "vi": "Các tổ chức pháp định: đóng góp vào Quỹ Hợp nhất",
+   "th": "องค์กรตามกฎหมาย: เงินสมทบเข้ากองทุนรวม",
+   "id": "Badan Hukum Statuter: Iuran ke Dana Konsolidasi",
+   "ms": "Perbadanan Berkanun: Caruman ke Tabung Disatukan"
+  },
+  "STATUTORY DECLARATIONS": {
+   "vi": "Tuyên bố theo luật định",
+   "th": "คำแถลงตามกฎหมาย",
+   "id": "Pernyataan Statuter",
+   "ms": "Perakuan Berkanun"
+  },
+  "SUBSCRIPTIONS CONTROL": {
+   "vi": "Kiểm soát quyên góp",
+   "th": "การควบคุมการเรี่ยไร",
+   "id": "Pengendalian Iuran Dana",
+   "ms": "Kawalan Derma Langganan"
+  },
+  "SUMMONSES AND WARRANTS SPECIAL PROVISIONS": {
+   "vi": "Triệu tập và lệnh: quy định đặc biệt",
+   "th": "หมายเรียกและหมาย: บทบัญญัติพิเศษ",
+   "id": "Surat Panggilan dan Surat Perintah: Ketentuan Khusus",
+   "ms": "Saman dan Waran: Peruntukan Khas"
+  },
+  "SUP I TREATY OF FRIENDSHIP AND CO OPERATION BETWEEN BRUNEI DAN UK": {
+   "vi": "Hiệp ước Hữu nghị và Hợp tác giữa Brunei và Vương quốc Anh (SUP I)",
+   "th": "สนธิสัญญามิตรภาพและความร่วมมือระหว่างบรูไนกับสหราชอาณาจักร (SUP I)",
+   "id": "Perjanjian Persahabatan dan Kerja Sama antara Brunei dan Inggris (SUP I)",
+   "ms": "Perjanjian Persahabatan dan Kerjasama antara Brunei dan United Kingdom (SUP I)"
+  },
+  "SUP IIA EXCLUSIVE ECONOMIC ZONE": {
+   "vi": "Vùng đặc quyền kinh tế (SUP IIA)",
+   "th": "เขตเศรษฐกิจจำเพาะ (SUP IIA)",
+   "id": "Zona Ekonomi Eksklusif (SUP IIA)",
+   "ms": "Zon Ekonomi Eksklusif (SUP IIA)"
+  },
+  "SUP III 1984 ED NORTH BORNEO DEFINITION OF BOUNDARIES ORDER IN COUNCIL": {
+   "vi": "Cơ mật viện xác định ranh giới Bắc Borneo (SUP III)",
+   "th": "คณะองคมนตรีกำหนดเขตแดนบอร์เนียวเหนือ (SUP III)",
+   "id": "Dewan Penasihat Penetapan Batas Borneo Utara (SUP III)",
+   "ms": "Majlis Privy Penetapan Sempadan Borneo Utara (SUP III)"
+  },
+  "SUP IV 1984 ED SARAWAK DEFINITION OF BOUNDARIES ORDER IN COUNCIL": {
+   "vi": "Cơ mật viện xác định ranh giới Sarawak (SUP IV)",
+   "th": "คณะองคมนตรีกำหนดเขตแดนซาราวัก (SUP IV)",
+   "id": "Dewan Penasihat Penetapan Batas Sarawak (SUP IV)",
+   "ms": "Majlis Privy Penetapan Sempadan Sarawak (SUP IV)"
+  },
+  "SUP V ROYAL ORDERS AND DECORATIONS": {
+   "vi": "Huân chương và vinh dự của Hoàng gia (SUP V)",
+   "th": "เครื่องราชอิสริยาภรณ์และเหรียญราชอิสริยาภรณ์ (SUP V)",
+   "id": "Tanda Kehormatan dan Bintang Jasa Kerajaan (SUP V)",
+   "ms": "Darjah Kebesaran dan Pingat Diraja (SUP V)"
+  },
+  "SUP. II 1984 ED CONTINENTAL SHELF": {
+   "vi": "Thềm lục địa (SUP II)",
+   "th": "ไหล่ทวีป (SUP II)",
+   "id": "Landas Kontinen (SUP II)",
+   "ms": "Pelantar Benua (SUP II)"
+  },
+  "SUPPLEMENTAL CONTRIBUTORY PENSIONS": {
+   "vi": "Lương hưu đóng góp bổ sung",
+   "th": "บำนาญสมทบเพิ่มเติม",
+   "id": "Pensiun Iuran Tambahan",
+   "ms": "Pencen Caruman Tambahan"
+  },
+  "SUPPLEMENTAL CONTRIBUTORY PENSIONS AMENDMENT ORDER 2014": {
+   "vi": "Lương hưu đóng góp bổ sung (sửa đổi 2014)",
+   "th": "บำนาญสมทบเพิ่มเติม (แก้ไข 2014)",
+   "id": "Pensiun Iuran Tambahan (Perubahan 2014)",
+   "ms": "Pencen Caruman Tambahan (Pindaan 2014)"
+  },
+  "SUPREME COURT APPEALS TO PRIVY COUNCIL": {
+   "vi": "Kháng án từ Tòa án Tối cao lên Hội đồng Cơ mật",
+   "th": "การอุทธรณ์จากศาลสูงสุดต่อคณะองคมนตรี",
+   "id": "Banding dari Mahkamah Agung ke Dewan Penasihat",
+   "ms": "Rayuan daripada Mahkamah Agung ke Majlis Privy"
+  },
+  "SYARIAH COURTS CIVIL PROCEDURE SULH": {
+   "vi": "Tòa án Syariah: tố tụng dân sự hòa giải (sulh)",
+   "th": "ศาลชะรีอะฮ์: วิธีพิจารณาความแพ่งการประนีประนอม (สุลห์)",
+   "id": "Pengadilan Syariah: Acara Perdata Perdamaian (Sulh)",
+   "ms": "Mahkamah Syariah: Tatacara Sivil Sulh"
+  },
+  "TELECOMMUNICATION SUCCESSOR COMPANY": {
+   "vi": "Công ty kế thừa viễn thông",
+   "th": "บริษัทผู้สืบทอดกิจการโทรคมนาคม",
+   "id": "Perusahaan Penerus Telekomunikasi",
+   "ms": "Syarikat Pengganti Telekomunikasi"
+  },
+  "TELECOMMUNICATIONS COMPOSITION OF OFFENCES": {
+   "vi": "Viễn thông: cấu thành hành vi vi phạm",
+   "th": "โทรคมนาคม: องค์ประกอบความผิด",
+   "id": "Telekomunikasi: Perumusan Pelanggaran",
+   "ms": "Telekomunikasi: Perumusan Kesalahan"
+  },
+  "TELECOMMUNICATIONS EXEMPTION FROM SECTIONS 33 34": {
+   "vi": "Viễn thông: miễn trừ Điều 33 và 34",
+   "th": "โทรคมนาคม: การยกเว้นมาตรา 33 และ 34",
+   "id": "Telekomunikasi: Pengecualian Pasal 33 dan 34",
+   "ms": "Telekomunikasi: Pengecualian Seksyen 33 dan 34"
+  },
+  "TERRITORIAL WATERS OF BRUNEI": {
+   "vi": "Lãnh hải Brunei",
+   "th": "น่านน้ำอาณาเขตของบรูไน",
+   "id": "Perairan Teritorial Brunei",
+   "ms": "Perairan Wilayah Brunei"
+  },
+  "THE CONSTITUTION TRANSFER OF FUNCTIONS AND CONSEQUENTIAL PROVISIONS ORDER 1959 BANISHMENT": {
+   "vi": "Chuyển giao chức năng và các quy định kèm theo của Hiến pháp 1959 — trục xuất",
+   "th": "การโอนหน้าที่และบทบัญญัติที่เกี่ยวข้องตามรัฐธรรมนูญ 1959 — การเนรเทศ",
+   "id": "Pengalihan Fungsi dan Ketentuan Ikutan Konstitusi 1959 — Pembuangan",
+   "ms": "Pemindahan Fungsi dan Peruntukan Bersampingan Perlembagaan 1959 — Pembuangan Negeri"
+  },
+  "THE EMERGENCY PRIME MINISTER INCORPORATION": {
+   "vi": "Tình trạng khẩn cấp: thể nhân hóa Thủ tướng",
+   "th": "ภาวะฉุกเฉิน: การก่อตั้งนิติบุคคลนายกรัฐมนตรี",
+   "id": "Keadaan Darurat: Penggabungan Perdana Menteri",
+   "ms": "Keadaan Darurat: Pemerbadanan Perdana Menteri"
+  },
+  "THE FINGERPRINTS AMENDMENT": {
+   "vi": "Dấu vân tay",
+   "th": "ลายพิมพ์นิ้วมือ",
+   "id": "Sidik Jari",
+   "ms": "Cap Jari"
+  },
+  "THE SECURITY AND DEFENCE FUND": {
+   "vi": "Quỹ An ninh và Quốc phòng",
+   "th": "กองทุนความมั่นคงและการป้องกันประเทศ",
+   "id": "Dana Keamanan dan Pertahanan",
+   "ms": "Tabung Keselamatan dan Pertahanan"
+  },
+  "THEATRE CINEMA AND ENTERTAINMENTS BY LAWS": {
+   "vi": "Quy chế về nhà hát, rạp chiếu phim và hoạt động giải trí",
+   "th": "ข้อบัญญัติว่าด้วยโรงละคร โรงภาพยนตร์ และความบันเทิง",
+   "id": "Peraturan tentang Teater, Bioskop, dan Hiburan",
+   "ms": "Undang-Undang Kecil tentang Panggung Wayang, Pawagam dan Hiburan"
+  },
+  "TOKYO": {
+   "vi": "Công ước Tokyo",
+   "th": "อนุสัญญาโตเกียว",
+   "id": "Konvensi Tokyo",
+   "ms": "Konvensyen Tokyo"
+  },
+  "TOWN AND COUNTRY PLANNING COMPOSITION OF OFFENCES": {
+   "vi": "Quy hoạch thị trấn và nông thôn: cấu thành hành vi vi phạm",
+   "th": "การผังเมืองและชนบท: องค์ประกอบความผิด",
+   "id": "Tata Ruang Kota dan Desa: Perumusan Pelanggaran",
+   "ms": "Perancangan Bandar dan Desa: Perumusan Kesalahan"
+  },
+  "TOWN AND COUNTRY PLANNING REPEAL": {
+   "vi": "Bãi bỏ quy định quy hoạch thị trấn và nông thôn",
+   "th": "การยกเลิกข้อกำหนดการผังเมืองและชนบท",
+   "id": "Pencabutan Ketentuan Tata Ruang Kota dan Desa",
+   "ms": "Pembatalan Peruntukan Perancangan Bandar dan Desa"
+  },
+  "TRANSFER OF FUNCTIONS": {
+   "vi": "Chuyển giao chức năng",
+   "th": "การโอนหน้าที่",
+   "id": "Pengalihan Fungsi",
+   "ms": "Pemindahan Fungsi"
+  },
+  "TRANSFER OF FUNCTIONS OF MINISTER OF LAW TO PERMANENT SECRETARY OF PRIME MINISTERS OFFICE": {
+   "vi": "Chuyển giao chức năng của Bộ trưởng Tư pháp cho Thư ký thường trực Văn phòng Thủ tướng",
+   "th": "การโอนหน้าที่ของรัฐมนตรีว่าการกระทรวงกฎหมายให้ปลัดกระทรวงสำนักนายกรัฐมนตรี",
+   "id": "Pengalihan Fungsi Menteri Hukum kepada Sekretaris Tetap Kantor Perdana Menteri",
+   "ms": "Pemindahan Fungsi Menteri Undang-Undang kepada Setiausaha Tetap Pejabat Perdana Menteri"
+  },
+  "TRANSFER OF FUNCTIONS OF MINISTER OF LAW TO REGISTRAR OF BUSINESS NAMES": {
+   "vi": "Chuyển giao chức năng của Bộ trưởng Tư pháp cho Đăng ký viên tên doanh nghiệp",
+   "th": "การโอนหน้าที่ของรัฐมนตรีว่าการกระทรวงกฎหมายให้นายทะเบียนชื่อธุรกิจ",
+   "id": "Pengalihan Fungsi Menteri Hukum kepada Pendaftar Nama Usaha",
+   "ms": "Pemindahan Fungsi Menteri Undang-Undang kepada Pendaftar Nama Perniagaan"
+  },
+  "TRAVEL AGENTS ACT": {
+   "vi": "Luật Đại lý du lịch",
+   "th": "พระราชบัญญัติตัวแทนท่องเที่ยว",
+   "id": "Undang-Undang Agen Perjalanan Wisata",
+   "ms": "Akta Ejen Pelancongan"
+  },
+  "UNLAWFUL CARNAL KNOWLEDGE": {
+   "vi": "Giao cấu bất hợp pháp",
+   "th": "การร่วมประเวณีโดยมิชอบด้วยกฎหมาย",
+   "id": "Persetubuhan Tidak Sah",
+   "ms": "Persetubuhan Haram"
+  },
+  "VALUERS AND ESTATE AGENT": {
+   "vi": "Thẩm định viên và đại lý bất động sản",
+   "th": "ผู้ประเมินราคาและตัวแทนอสังหาริมทรัพย์",
+   "id": "Penilai dan Agen Properti",
+   "ms": "Penilai dan Ejen Harta Tanah"
+  },
+  "VETERINARY SURGEONS AMENDMENT OF SCHEDULE": {
+   "vi": "Bác sĩ thú y: sửa đổi phụ lục",
+   "th": "สัตวแพทย์: การแก้ไขภาคผนวก",
+   "id": "Dokter Hewan: Perubahan Lampiran",
+   "ms": "Doktor Veterinar: Pindaan Jadual"
+  },
+  "VICAR APOSTOLIC OF KUCHING INCORPORATION": {
+   "vi": "Thể nhân Đại diện Tông tòa Kuching",
+   "th": "การก่อตั้งนิติบุคคลผู้แทนพระสันตะปาปาแห่งกูชิง",
+   "id": "Penggabungan Vikaris Apostolik Kuching",
+   "ms": "Pemerbadanan Vikaris Apostolik Kuching"
+  },
+  "VIDENCE": {
+   "vi": "Chứng cứ",
+   "th": "พยานหลักฐาน",
+   "id": "Alat Bukti",
+   "ms": "Keterangan"
+  },
+  "WEIGHTS AND": {
+   "vi": "Đo lường",
+   "th": "การชั่งตวงวัด",
+   "id": "Metrologi",
+   "ms": "Timbang dan Sukat"
+  },
+  "WEIGHTS AND MEASURES FEES": {
+   "vi": "Đo lường: lệ phí",
+   "th": "การชั่งตวงวัด: ค่าธรรมเนียม",
+   "id": "Metrologi: Biaya",
+   "ms": "Timbang dan Sukat: Fi"
+  },
+  "WEIGHTS AND MEASURES VERIFICATION": {
+   "vi": "Đo lường: kiểm định",
+   "th": "การชั่งตวงวัด: การตรวจสอบรับรอง",
+   "id": "Metrologi: Verifikasi",
+   "ms": "Timbang dan Sukat: Pengesahan"
+  },
+  "WHOLESOME MEAT FEES": {
+   "vi": "Thịt an toàn: lệ phí",
+   "th": "เนื้อสัตว์ปลอดภัย: ค่าธรรมเนียม",
+   "id": "Daging Sehat: Biaya",
+   "ms": "Daging Bersih: Fi"
+  },
+  "WHOLESOME MEAT IMPORT EXPORT AND TRANSHIPMENT": {
+   "vi": "Thịt an toàn: nhập khẩu, xuất khẩu và chuyển tải",
+   "th": "เนื้อสัตว์ปลอดภัย: การนำเข้า ส่งออก และการขนถ่าย",
+   "id": "Daging Sehat: Impor, Ekspor, dan Transhipment",
+   "ms": "Daging Bersih: Import, Eksport dan Pemindahan Kapal"
+  },
+  "WHOLESOME MEAT SLAUGHTERING CENTRE": {
+   "vi": "Thịt an toàn: trung tâm giết mổ",
+   "th": "เนื้อสัตว์ปลอดภัย: ศูนย์ฆ่าสัตว์",
+   "id": "Daging Sehat: Pusat Pemotongan",
+   "ms": "Daging Bersih: Pusat Penyembelihan"
+  },
+  "WHOLESOME MEAT TRANSPORTATION": {
+   "vi": "Thịt an toàn: vận chuyển",
+   "th": "เนื้อสัตว์ปลอดภัย: การขนส่ง",
+   "id": "Daging Sehat: Pengangkutan",
+   "ms": "Daging Bersih: Pengangkutan"
+  },
+  "WILD FAUNA AND FLORA FEES AND MISCELLANEOUS PROVISIONS": {
+   "vi": "Động thực vật hoang dã: lệ phí và quy định khác",
+   "th": "สัตว์ป่าและพืชป่า: ค่าธรรมเนียมและบทบัญญัติเบ็ดเตล็ด",
+   "id": "Satwa dan Tumbuhan Liar: Biaya dan Ketentuan Lain",
+   "ms": "Hidupan Liar: Fi dan Peruntukan Lain"
+  },
+  "WORKPLACE SAFETY AND HEALTH FIRST AID": {
+   "vi": "An toàn và sức khỏe lao động: sơ cứu",
+   "th": "ความปลอดภัยและอาชีวอนามัย: การปฐมพยาบาล",
+   "id": "Keselamatan dan Kesehatan Kerja: Pertolongan Pertama",
+   "ms": "Keselamatan dan Kesihatan Pekerjaan: Bantuan Kecemasan"
+  },
+  "WORKPLACE SAFETY AND HEALTH RISK MANAGEMENT": {
+   "vi": "An toàn và sức khỏe lao động: quản lý rủi ro",
+   "th": "ความปลอดภัยและอาชีวอนามัย: การบริหารความเสี่ยง",
+   "id": "Keselamatan dan Kesehatan Kerja: Manajemen Risiko",
+   "ms": "Keselamatan dan Kesihatan Pekerjaan: Pengurusan Risiko"
+  },
+  "WSAH COMPOUNDABLE OFFENCES": {
+   "vi": "An toàn và sức khỏe lao động: hành vi vi phạm có thể hòa giải",
+   "th": "ความปลอดภัยและอาชีวอนามัย: ความผิดที่สามารถประนีประนอมได้",
+   "id": "Keselamatan dan Kesehatan Kerja: Pelanggaran yang Dapat Diselesaikan",
+   "ms": "Keselamatan dan Kesihatan Pekerjaan: Kesalahan Boleh Kompaun"
+  },
+  "WSAH INCIDENT REPORTING": {
+   "vi": "An toàn và sức khỏe lao động: báo cáo sự cố",
+   "th": "ความปลอดภัยและอาชีวอนามัย: การรายงานอุบัติการณ์",
+   "id": "Keselamatan dan Kesehatan Kerja: Pelaporan Insiden",
+   "ms": "Keselamatan dan Kesihatan Pekerjaan: Pelaporan Insiden"
+  },
+  "WSAH OFFICERS": {
+   "vi": "An toàn và sức khỏe lao động: cán bộ",
+   "th": "ความปลอดภัยและอาชีวอนามัย: เจ้าหน้าที่",
+   "id": "Keselamatan dan Kesehatan Kerja: Petugas",
+   "ms": "Keselamatan dan Kesihatan Pekerjaan: Pegawai"
+  }
+ }
+}

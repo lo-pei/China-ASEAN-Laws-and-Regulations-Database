@@ -1,0 +1,26 @@
+{
+"batch": "orig-backfill-r3-2026-10-28",
+"scope": "剩余 20 部 orig：LA/MM/KH 沿用既有英文 orig 形态；TL 葡文、VN 越南文、ID 印尼文的法定原名",
+"items": {
+"ID-H031": {"orig": "Undang-Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan"},
+"KH-H3894": {"orig": "Civil Code of Cambodia"},
+"KH-H3895": {"orig": "Civil Procedure Code of Cambodia"},
+"LA-H004": {"orig": "Law on Commercial Banks"},
+"LA-H008": {"orig": "Law on Income Tax"},
+"LA-H015": {"orig": "Law on Foreign Exchange Management"},
+"LA-H017": {"orig": "Law on Consumer Protection"},
+"LA-H044": {"orig": "Decree Implementing the Investment Promotion Law (Extract, 2016)"},
+"LA-H416": {"orig": "Law on Resolution of Economic Disputes 2018"},
+"LA-H450": {"orig": "Law on Investment Promotion 2016"},
+"MM-H081": {"orig": "Arbitration Law 2016"},
+"MM-H082": {"orig": "Code of Civil Procedure"},
+"MM-H083": {"orig": "Companies Law 2017"},
+"MM-H084": {"orig": "Export and Import Law 2012"},
+"MM-H087": {"orig": "Labour Dispute Resolution Law 2012"},
+"TL-CIVIL-2011": {"orig": "Código Civil"},
+"TL-INVESTMENT-2017": {"orig": "Lei do Investimento Privado"},
+"TL-LABOR-2012": {"orig": "Código do Trabalho"},
+"VN-H006": {"orig": "Luật An ninh mạng số 24/2018/QH14"},
+"VN-H008": {"orig": "Luật Giao dịch điện tử số 20/2023/QH15"}
+}
+}

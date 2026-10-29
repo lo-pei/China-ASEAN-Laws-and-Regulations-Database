@@ -1,0 +1,255 @@
+// self-ID-06 译文表：仅含五语译文，印尼语原题由 _self/id06_build.js 从 pending-ID.json 回填
+module.exports = {
+  'ID-H2196': {
+    zh: '对1985年第34号政府条例《关于向印度尼西亚共和国退伍军人发放退伍军人津贴》的第八次修正',
+    en: "Eighth Amendment to Government Regulation No. 34 of 1985 on the Granting of Veterans' Allowances to Veterans of the Republic of Indonesia",
+    vi: 'Sửa đổi lần thứ tám Nghị định Chính phủ số 34 năm 1985 về việc cấp phụ cấp cựu chiến binh cho cựu chiến binh Cộng hòa Indonesia',
+    th: 'การแก้ไขครั้งที่แปดของพระราชกฤษฎีกาเลขที่ 34 ปี 1985 ว่าด้วยการจ่ายเงินช่วยเหลือทหารผ่านศึกแก่ทหารผ่านศึกแห่งสาธารณรัฐอินโดนีเซีย',
+    ms: 'Pindaan Kelapan Peraturan Kerajaan No. 34 Tahun 1985 tentang Pemberian Elaun Veteran kepada Veteran Republik Indonesia'
+  },
+  'ID-H2198': {
+    zh: '对1980年第10号政府条例《关于向印度尼西亚中央国民委员会前成员及其遗孀或鳏夫发放荣誉津贴》的第十一次修正',
+    en: 'Eleventh Amendment to Government Regulation No. 10 of 1980 on the Granting of Honorary Allowances to Former Members of the Central Indonesian National Committee and Their Widows/Widowers',
+    vi: 'Sửa đổi lần thứ mười một Nghị định Chính phủ số 10 năm 1980 về việc cấp phụ cấp danh dự cho cựu thành viên Ủy ban Quốc gia Trung ương Indonesia và vợ hoặc chồng góa của họ',
+    th: 'การแก้ไขครั้งที่สิบเอ็ดของพระราชกฤษฎีกาเลขที่ 10 ปี 1980 ว่าด้วยการจ่ายเงินช่วยเหลือเกียรติยศแก่อดีตสมาชิกคณะกรรมการแห่งชาติอินโดนีเซียส่วนกลางและคู่สมรสที่รอดชีวิต',
+    ms: 'Pindaan Kesebelas Peraturan Kerajaan No. 10 Tahun 1980 tentang Pemberian Elaun Kehormatan kepada Bekas Anggota Jawatankuasa Nasional Indonesia Pusat dan Balu/Duda Mereka'
+  },
+  'ID-H2199': {
+    zh: '对1985年第14号政府条例《关于向民族运动与独立运动先驱发放津贴》的第十次修正',
+    en: 'Tenth Amendment to Government Regulation No. 14 of 1985 on the Granting of Allowances to Pioneers of the National and Independence Movements',
+    vi: 'Sửa đổi lần thứ mười Nghị định Chính phủ số 14 năm 1985 về việc cấp phụ cấp cho những người tiên phong trong phong trào dân tộc và phong trào giành độc lập',
+    th: 'การแก้ไขครั้งที่สิบของพระราชกฤษฎีกาเลขที่ 14 ปี 1985 ว่าด้วยการจ่ายเงินช่วยเหลือแก่ผู้บุกเบิกขบวนการแห่งชาติและขบวนการเอกราช',
+    ms: 'Pindaan Kesepuluh Peraturan Kerajaan No. 14 Tahun 1985 tentang Pemberian Elaun kepada Perintis Pergerakan Kebangsaan/Kemerdekaan'
+  },
+  'ID-H2291': {
+    zh: '对1980年第10号政府条例《关于向印度尼西亚中央国民委员会前成员及其遗孀或鳏夫发放荣誉津贴》的第十二次修正',
+    en: 'Twelfth Amendment to Government Regulation No. 10 of 1980 on the Granting of Honorary Allowances to Former Members of the Central Indonesian National Committee and Their Widows/Widowers',
+    vi: 'Sửa đổi lần thứ mười hai Nghị định Chính phủ số 10 năm 1980 về việc cấp phụ cấp danh dự cho cựu thành viên Ủy ban Quốc gia Trung ương Indonesia và vợ hoặc chồng góa của họ',
+    th: 'การแก้ไขครั้งที่สิบสองของพระราชกฤษฎีกาเลขที่ 10 ปี 1980 ว่าด้วยการจ่ายเงินช่วยเหลือเกียรติยศแก่อดีตสมาชิกคณะกรรมการแห่งชาติอินโดนีเซียส่วนกลางและคู่สมรสที่รอดชีวิต',
+    ms: 'Pindaan Kedua Belas Peraturan Kerajaan No. 10 Tahun 1980 tentang Pemberian Elaun Kehormatan kepada Bekas Anggota Jawatankuasa Nasional Indonesia Pusat dan Balu/Duda Mereka'
+  },
+  'ID-H2292': {
+    zh: '对1993年第14号政府条例《关于实施劳动者社会保险计划》的第九次修正',
+    en: "Ninth Amendment to Government Regulation No. 14 of 1993 on the Implementation of the Workers' Social Security Programme",
+    vi: 'Sửa đổi lần thứ chín Nghị định Chính phủ số 14 năm 1993 về việc triển khai Chương trình Bảo hiểm Xã hội cho Người lao động',
+    th: 'การแก้ไขครั้งที่เก้าของพระราชกฤษฎีกาเลขที่ 14 ปี 1993 ว่าด้วยการดำเนินการตามโครงการประกันสังคมสำหรับแรงงาน',
+    ms: 'Pindaan Kesembilan Peraturan Kerajaan No. 14 Tahun 1993 tentang Pelaksanaan Program Jaminan Sosial Tenaga Kerja'
+  },
+  'ID-H2293': {
+    zh: '对1985年第34号政府条例《关于向印度尼西亚共和国退伍军人发放退伍军人津贴》的第九次修正',
+    en: "Ninth Amendment to Government Regulation No. 34 of 1985 on the Granting of Veterans' Allowances to Veterans of the Republic of Indonesia",
+    vi: 'Sửa đổi lần thứ chín Nghị định Chính phủ số 34 năm 1985 về việc cấp phụ cấp cựu chiến binh cho cựu chiến binh Cộng hòa Indonesia',
+    th: 'การแก้ไขครั้งที่เก้าของพระราชกฤษฎีกาเลขที่ 34 ปี 1985 ว่าด้วยการจ่ายเงินช่วยเหลือทหารผ่านศึกแก่ทหารผ่านศึกแห่งสาธารณรัฐอินโดนีเซีย',
+    ms: 'Pindaan Kesembilan Peraturan Kerajaan No. 34 Tahun 1985 tentang Pemberian Elaun Veteran kepada Veteran Republik Indonesia'
+  },
+  'ID-H2294': {
+    zh: '将东加里曼丹省帕塞尔县首府名称由塔纳格罗戈特改为塔纳帕塞尔',
+    en: 'Law No. 7 of 2013 on the Change of the Name of the Capital of Paser Regency, East Kalimantan Province, from Tanah Grogot to Tana Paser',
+    vi: 'Luật số 7 năm 2013 về việc đổi tên thủ phủ huyện Paser, tỉnh Đông Kalimantan, từ Tanah Grogot thành Tana Paser',
+    th: 'พระราชบัญญัติเลขที่ 7 ปี 2013 ว่าด้วยการเปลี่ยนชื่อเมืองหลวงของอำเภอปาเซอร์ จังหวัดกาลีมันตันตะวันออก จากตานาห์โกรโกตเป็นตานาปาเซอร์',
+    ms: 'Akta No. 7 Tahun 2013 tentang Perubahan Nama Ibu Kota Kabupaten Paser, Provinsi Kalimantan Timur, daripada Tanah Grogot kepada Tana Paser'
+  },
+  'ID-H2365': {
+    zh: '确定泗水理工学院为法人制国立高等学校',
+    en: 'Designation of Institut Teknologi Sepuluh Nopember as a State University with Legal Entity Status',
+    vi: 'Việc xác định Học viện Công nghệ Sepuluh Nopember là trường đại học công lập có tư cách pháp nhân',
+    th: 'การกำหนดให้สถาบันเทคโนโลยีเซปูลุฮ์โนเปมเบอร์เป็นมหาวิทยาลัยของรัฐที่มีสถานะนิติบุคคล',
+    ms: 'Penetapan Institut Teknologi Sepuluh Nopember sebagai Universiti Negeri Berbadan Hukum'
+  },
+  'ID-H2369': {
+    zh: '确定迪波内戈罗大学为法人制国立高等学校',
+    en: 'Designation of Diponegoro University as a State University with Legal Entity Status',
+    vi: 'Việc xác định Đại học Diponegoro là trường đại học công lập có tư cách pháp nhân',
+    th: 'การกำหนดให้มหาวิทยาลัยดีโปเนอโกโรเป็นมหาวิทยาลัยของรัฐที่มีสถานะนิติบุคคล',
+    ms: 'Penetapan Universiti Diponegoro sebagai Universiti Negeri Berbadan Hukum'
+  },
+  'ID-H2374': {
+    zh: '批准《东盟跨界烟霾污染协定》',
+    en: 'Ratification of the ASEAN Agreement on Transboundary Haze Pollution',
+    vi: 'Phê chuẩn Hiệp định ASEAN về Ô nhiễm Khói mù Xuyên biên giới',
+    th: 'การให้สัตยาบันความตกลงอาเซียนว่าด้วยมลพิษหมอกควันข้ามพรมแดน',
+    ms: 'Pengesahan Persetujuan ASEAN tentang Pencemaran Jerebu Merentas Sempadan'
+  },
+  'ID-H2375': {
+    zh: '批准《制止核恐怖主义行为国际公约》',
+    en: 'Ratification of the International Convention for the Suppression of Acts of Nuclear Terrorism',
+    vi: 'Phê chuẩn Công ước Quốc tế về Trấn áp các Hành vi Khủng bố Hạt nhân',
+    th: 'การให้สัตยาบันอนุสัญญาระหว่างประเทศว่าด้วยการปราบปรามการกระทำก่อการร้ายทางนิวเคลียร์',
+    ms: 'Pengesahan Konvensyen Antarabangsa bagi Menumpaskan Perbuatan Keganasan Nuklear'
+  },
+  'ID-H2377': {
+    zh: '批准印度尼西亚共和国政府与土耳其共和国政府《国防工业合作协定》',
+    en: 'Ratification of the Agreement on Defence Industry Cooperation between the Government of the Republic of Indonesia and the Government of the Republic of Türkiye',
+    vi: 'Phê chuẩn Hiệp định về Hợp tác Công nghiệp Quốc phòng giữa Chính phủ nước Cộng hòa Indonesia và Chính phủ nước Cộng hòa Thổ Nhĩ Kỳ',
+    th: 'การให้สัตยาบันความตกลงว่าด้วยความร่วมมืออุตสาหกรรมป้องกันประเทศระหว่างรัฐบาลสาธารณรัฐอินโดนีเซียและรัฐบาลสาธารณรัฐตุรกี',
+    ms: 'Pengesahan Persetujuan tentang Kerjasama Industri Pertahanan antara Kerajaan Republik Indonesia dan Kerajaan Republik Türkiye'
+  },
+  'ID-H2397': {
+    zh: '对1985年第14号政府条例《关于向民族运动与独立运动先驱发放津贴》的第十二次修正',
+    en: 'Twelfth Amendment to Government Regulation No. 14 of 1985 on the Granting of Allowances to Pioneers of the National and Independence Movements',
+    vi: 'Sửa đổi lần thứ mười hai Nghị định Chính phủ số 14 năm 1985 về việc cấp phụ cấp cho những người tiên phong trong phong trào dân tộc và phong trào giành độc lập',
+    th: 'การแก้ไขครั้งที่สิบสองของพระราชกฤษฎีกาเลขที่ 14 ปี 1985 ว่าด้วยการจ่ายเงินช่วยเหลือแก่ผู้บุกเบิกขบวนการแห่งชาติและขบวนการเอกราช',
+    ms: 'Pindaan Kedua Belas Peraturan Kerajaan No. 14 Tahun 1985 tentang Pemberian Elaun kepada Perintis Pergerakan Kebangsaan/Kemerdekaan'
+  },
+  'ID-H2398': {
+    zh: '对1985年第34号政府条例《关于向印度尼西亚共和国退伍军人发放退伍军人津贴》的第十次修正',
+    en: "Tenth Amendment to Government Regulation No. 34 of 1985 on the Granting of Veterans' Allowances to Veterans of the Republic of Indonesia",
+    vi: 'Sửa đổi lần thứ mười Nghị định Chính phủ số 34 năm 1985 về việc cấp phụ cấp cựu chiến binh cho cựu chiến binh Cộng hòa Indonesia',
+    th: 'การแก้ไขครั้งที่สิบของพระราชกฤษฎีกาเลขที่ 34 ปี 1985 ว่าด้วยการจ่ายเงินช่วยเหลือทหารผ่านศึกแก่ทหารผ่านศึกแห่งสาธารณรัฐอินโดนีเซีย',
+    ms: 'Pindaan Kesepuluh Peraturan Kerajaan No. 34 Tahun 1985 tentang Pemberian Elaun Veteran kepada Veteran Republik Indonesia'
+  },
+  'ID-H2400': {
+    zh: '对1980年第10号政府条例《关于向印度尼西亚中央国民委员会前成员及其遗孀或鳏夫发放荣誉津贴》的第十三次修正',
+    en: 'Thirteenth Amendment to Government Regulation No. 10 of 1980 on the Granting of Honorary Allowances to Former Members of the Central Indonesian National Committee and Their Widows/Widowers',
+    vi: 'Sửa đổi lần thứ mười ba Nghị định Chính phủ số 10 năm 1980 về việc cấp phụ cấp danh dự cho cựu thành viên Ủy ban Quốc gia Trung ương Indonesia và vợ hoặc chồng góa của họ',
+    th: 'การแก้ไขครั้งที่สิบสามของพระราชกฤษฎีกาเลขที่ 10 ปี 1980 ว่าด้วยการจ่ายเงินช่วยเหลือเกียรติยศแก่อดีตสมาชิกคณะกรรมการแห่งชาติอินโดนีเซียส่วนกลางและคู่สมรสที่รอดชีวิต',
+    ms: 'Pindaan Ketiga Belas Peraturan Kerajaan No. 10 Tahun 1980 tentang Pemberian Elaun Kehormatan kepada Bekas Anggota Jawatankuasa Nasional Indonesia Pusat dan Balu/Duda Mereka'
+  },
+  'ID-H2477': {
+    zh: '批准印度尼西亚共和国与越南社会主义共和国《刑事司法协助条约》',
+    en: 'Ratification of the Treaty on Mutual Legal Assistance in Criminal Matters between the Republic of Indonesia and the Socialist Republic of Viet Nam',
+    vi: 'Phê chuẩn Hiệp định Tương trợ Tư pháp về các Vấn đề Hình sự giữa nước Cộng hòa Indonesia và nước Cộng hòa Xã hội Chủ nghĩa Việt Nam',
+    th: 'การให้สัตยาบันสนธิสัญญาว่าด้วยความช่วยเหลือทางกฎหมายซึ่งกันและกันในเรื่องทางอาญาระหว่างสาธารณรัฐอินโดนีเซียและสาธารณรัฐสังคมนิยมเวียดนาม',
+    ms: 'Pengesahan Perjanjian Bantuan Undang-Undang Bersama dalam Perkara Jenayah antara Republik Indonesia dan Republik Sosialis Viet Nam'
+  },
+  'ID-H2498': {
+    zh: '对1980年第10号政府条例《关于向印度尼西亚中央国民委员会前成员及其遗孀或鳏夫发放荣誉津贴》的第十四次修正',
+    en: 'Fourteenth Amendment to Government Regulation No. 10 of 1980 on the Granting of Honorary Allowances to Former Members of the Central Indonesian National Committee and Their Widows/Widowers',
+    vi: 'Sửa đổi lần thứ mười bốn Nghị định Chính phủ số 10 năm 1980 về việc cấp phụ cấp danh dự cho cựu thành viên Ủy ban Quốc gia Trung ương Indonesia và vợ hoặc chồng góa của họ',
+    th: 'การแก้ไขครั้งที่สิบสี่ของพระราชกฤษฎีกาเลขที่ 10 ปี 1980 ว่าด้วยการจ่ายเงินช่วยเหลือเกียรติยศแก่อดีตสมาชิกคณะกรรมการแห่งชาติอินโดนีเซียส่วนกลางและคู่สมรสที่รอดชีวิต',
+    ms: 'Pindaan Keempat Belas Peraturan Kerajaan No. 10 Tahun 1980 tentang Pemberian Elaun Kehormatan kepada Bekas Anggota Jawatankuasa Nasional Indonesia Pusat dan Balu/Duda Mereka'
+  },
+  'ID-H2499': {
+    zh: '对1985年第14号政府条例《关于向民族运动与独立运动先驱发放津贴》的第十三次修正',
+    en: 'Thirteenth Amendment to Government Regulation No. 14 of 1985 on the Granting of Allowances to Pioneers of the National and Independence Movements',
+    vi: 'Sửa đổi lần thứ mười ba Nghị định Chính phủ số 14 năm 1985 về việc cấp phụ cấp cho những người tiên phong trong phong trào dân tộc và phong trào giành độc lập',
+    th: 'การแก้ไขครั้งที่สิบสามของพระราชกฤษฎีกาเลขที่ 14 ปี 1985 ว่าด้วยการจ่ายเงินช่วยเหลือแก่ผู้บุกเบิกขบวนการแห่งชาติและขบวนการเอกราช',
+    ms: 'Pindaan Ketiga Belas Peraturan Kerajaan No. 14 Tahun 1985 tentang Pemberian Elaun kepada Perintis Pergerakan Kebangsaan/Kemerdekaan'
+  },
+  'ID-H2568': {
+    zh: '批准印度尼西亚共和国政府与越南社会主义共和国政府《关于加强国防官员及国防相关活动合作的谅解备忘录》',
+    en: 'Ratification of the Memorandum of Understanding between the Government of the Republic of Indonesia and the Government of the Socialist Republic of Viet Nam on Strengthening Cooperation between Defence Officials and Related Defence Activities',
+    vi: 'Phê chuẩn Biên bản Ghi nhớ giữa Chính phủ nước Cộng hòa Indonesia và Chính phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam về việc tăng cường hợp tác giữa các quan chức quốc phòng và các hoạt động quốc phòng liên quan',
+    th: 'การให้สัตยาบันบันทึกความเข้าใจระหว่างรัฐบาลสาธารณรัฐอินโดนีเซียและรัฐบาลสาธารณรัฐสังคมนิยมเวียดนามว่าด้วยการเสริมสร้างความร่วมมือระหว่างเจ้าหน้าที่กลาโหมและกิจกรรมด้านกลาโหมที่เกี่ยวข้อง',
+    ms: 'Pengesahan Memorandum Persefahaman antara Kerajaan Republik Indonesia dan Kerajaan Republik Sosialis Viet Nam tentang Pengukuhan Kerjasama antara Pegawai Pertahanan dan Aktiviti Pertahanan Berkaitan'
+  },
+  'ID-H2569': {
+    zh: '批准印度尼西亚共和国国防部与德意志联邦共和国联邦国防部《防务领域合作谅解备忘录》',
+    en: 'Ratification of the Memorandum of Understanding (MoU) between the Ministry of Defence of the Republic of Indonesia and the Federal Ministry of Defence of the Federal Republic of Germany concerning Cooperation in the Field of Defence',
+    vi: 'Phê chuẩn Biên bản Ghi nhớ (MoU) giữa Bộ Quốc phòng nước Cộng hòa Indonesia và Bộ Quốc phòng Liên bang nước Cộng hòa Liên bang Đức về hợp tác trong lĩnh vực quốc phòng',
+    th: 'การให้สัตยาบันบันทึกความเข้าใจ (MoU) ระหว่างกระทรวงกลาโหมสาธารณรัฐอินโดนีเซียและกระทรวงกลาโหมสหพันธ์สาธารณรัฐเยอรมนีว่าด้วยความร่วมมือในด้านกลาโหม',
+    ms: 'Pengesahan Nota Persefahaman (MoU) antara Kementerian Pertahanan Republik Indonesia dan Kementerian Pertahanan Persekutuan Republik Persekutuan Jerman mengenai Kerjasama dalam Bidang Pertahanan'
+  },
+  'ID-H2637': {
+    zh: '批准《东盟打击人口贩运特别是妇女和儿童贩运公约》',
+    en: 'Ratification of the ASEAN Convention against Trafficking in Persons, Especially Women and Children',
+    vi: 'Phê chuẩn Công ước ASEAN về Chống Buôn bán Người, Đặc biệt là Phụ nữ và Trẻ em',
+    th: 'การให้สัตยาบันอนุสัญญาอาเซียนว่าด้วยการต่อต้านการค้ามนุษย์ โดยเฉพาะสตรีและเด็ก',
+    ms: 'Pengesahan Konvensyen ASEAN menentang Pemerdagangan Orang, Terutama Wanita dan Kanak-Kanak'
+  },
+  'ID-H2656': {
+    zh: '确定农民层面收购参考价格与消费者层面销售参考价格',
+    en: 'Determination of the Reference Purchase Price at the Farmer Level and the Reference Selling Price at the Consumer Level',
+    vi: 'Việc xác định giá tham chiếu mua tại nông dân và giá tham chiếu bán tại người tiêu dùng',
+    th: 'การกำหนดราคาอ้างอิงการรับซื้อในระดับเกษตรกรและราคาอ้างอิงการจำหน่ายในระดับผู้บริโภค',
+    ms: 'Penetapan Harga Rujukan Pembelian di Peringkat Petani dan Harga Rujukan Penjualan di Peringkat Pengguna'
+  },
+  'ID-H2718': {
+    zh: '批准印度尼西亚共和国政府与沙特阿拉伯王国政府《国防合作协定》',
+    en: 'Ratification of the Defence Cooperation Agreement between the Government of the Republic of Indonesia and the Government of the Kingdom of Saudi Arabia',
+    vi: 'Phê chuẩn Hiệp định Hợp tác Quốc phòng giữa Chính phủ nước Cộng hòa Indonesia và Chính phủ Vương quốc Ả Rập Xê Út',
+    th: 'การให้สัตยาบันความตกลงความร่วมมือด้านกลาโหมระหว่างรัฐบาลสาธารณรัฐอินโดนีเซียและรัฐบาลราชอาณาจักรซาอุดีอาระเบีย',
+    ms: 'Pengesahan Persetujuan Kerjasama Pertahanan antara Kerajaan Republik Indonesia dan Kerajaan Arab Saudi'
+  },
+  'ID-H2803': {
+    zh: '2018年第1号《红十字会法》实施条例',
+    en: 'Implementing Regulation of Law No. 1 of 2018 on the Indonesian Red Cross',
+    vi: 'Quy định thi hành Luật số 1 năm 2018 về Hội Chữ thập đỏ Indonesia',
+    th: 'ข้อบังคับการปฏิบัติตามพระราชบัญญัติเลขที่ 1 ปี 2018 ว่าด้วยสภากาชาดอินโดนีเซีย',
+    ms: 'Peraturan Pelaksanaan Undang-Undang No. 1 Tahun 2018 tentang Palang Merah Indonesia'
+  },
+  'ID-H2804': {
+    zh: '2014年第33号《清真产品保障法》实施条例',
+    en: 'Implementing Regulation of Law No. 33 of 2014 on Halal Product Assurance',
+    vi: 'Quy định thi hành Luật số 33 năm 2014 về Bảo đảm Sản phẩm Halal',
+    th: 'ข้อบังคับการปฏิบัติตามพระราชบัญญัติเลขที่ 33 ปี 2014 ว่าด้วยการรับรองผลิตภัณฑ์ฮาลาล',
+    ms: 'Peraturan Pelaksanaan Undang-Undang No. 33 Tahun 2014 tentang Jaminan Produk Halal'
+  },
+  'ID-H2819': {
+    zh: '对1985年第14号政府条例《关于向民族运动与独立运动先驱发放津贴》的第十四次修正',
+    en: 'Fourteenth Amendment to Government Regulation No. 14 of 1985 on the Granting of Allowances to Pioneers of the National and Independence Movements',
+    vi: 'Sửa đổi lần thứ mười bốn Nghị định Chính phủ số 14 năm 1985 về việc cấp phụ cấp cho những người tiên phong trong phong trào dân tộc và phong trào giành độc lập',
+    th: 'การแก้ไขครั้งที่สิบสี่ของพระราชกฤษฎีกาเลขที่ 14 ปี 1985 ว่าด้วยการจ่ายเงินช่วยเหลือแก่ผู้บุกเบิกขบวนการแห่งชาติและขบวนการเอกราช',
+    ms: 'Pindaan Keempat Belas Peraturan Kerajaan No. 14 Tahun 1985 tentang Pemberian Elaun kepada Perintis Pergerakan Kebangsaan/Kemerdekaan'
+  },
+  'ID-H2831': {
+    zh: '贸易部2019年第63号条例《关于食盐进口的规定》',
+    en: 'Minister of Trade Regulation No. 63 of 2019 on the Provisions on Salt Imports',
+    vi: 'Quy định của Bộ trưởng Bộ Thương mại số 63 năm 2019 về các quy định nhập khẩu muối',
+    th: 'ข้อบังคับรัฐมนตรีว่าการกระทรวงการค้าเลขที่ 63 ปี 2019 ว่าด้วยข้อกำหนดการนำเข้าสินค้าเกลือ',
+    ms: 'Peraturan Menteri Perdagangan No. 63 Tahun 2019 tentang Ketentuan Import Garam'
+  },
+  'ID-H2894': {
+    zh: '将反腐败委员会工作人员转任为国家公务员',
+    en: 'Transfer of Employees of the Corruption Eradication Commission to the Status of Civil Servants',
+    vi: 'Việc chuyển đổi nhân viên Ủy ban Xóa bỏ Tham nhũng thành công chức nhà nước',
+    th: 'การโอนย้ายเจ้าหน้าที่คณะกรรมการปราบปรามการทุจริตให้เป็นข้าราชการพลเรือน',
+    ms: 'Pemindahan Pegawai Suruhanjaya Pencegahan Rasuah menjadi Pegawai Perkhidmatan Awam'
+  },
+  'ID-H2896': {
+    zh: '批准《执行〈东盟服务框架协定〉金融服务第七套承诺的议定书》',
+    en: 'Ratification of the Protocol to Implement the Seventh Package of Commitments on Financial Services under the ASEAN Framework Agreement on Services',
+    vi: 'Phê chuẩn Nghị định thư Thực hiện Gói Cam kết Thứ bảy về Dịch vụ Tài chính theo Hiệp định Khung ASEAN về Dịch vụ',
+    th: 'การให้สัตยาบันพิธีสารเพื่อดำเนินการตามชุดพันธกรณีที่เจ็ดว่าด้วยบริการทางการเงินภายใต้ความตกลงกรอบอาเซียนว่าด้วยบริการ',
+    ms: 'Pengesahan Protokol bagi Melaksanakan Pakej Komitmen Ketujuh mengenai Perkhidmatan Kewangan di bawah Persetujuan Rangka Kerja ASEAN mengenai Perkhidmatan'
+  },
+  'ID-H2978': {
+    zh: '设立西巴布亚、廖内群岛、西苏拉威西和北加里曼丹高等法院',
+    en: 'Establishment of the High Courts of West Papua, the Riau Islands, West Sulawesi and North Kalimantan',
+    vi: 'Thành lập Tòa án Cấp cao Tây Papua, Quần đảo Riau, Tây Sulawesi và Bắc Kalimantan',
+    th: 'การจัดตั้งศาลสูงปาปัวตะวันตก หมู่เกาะเรียว สุลาเวสีตะวันตก และกาลีมันตันเหนือ',
+    ms: 'Penubuhan Mahkamah Tinggi Papua Barat, Kepulauan Riau, Sulawesi Barat dan Kalimantan Utara'
+  },
+  'ID-H2979': {
+    zh: '设立巨港、马辰、马塔兰和万鸦老行政高等法院',
+    en: 'Establishment of the Administrative High Courts of Palembang, Banjarmasin, Mataram and Manado',
+    vi: 'Thành lập Tòa án Hành chính Cấp cao Palembang, Banjarmasin, Mataram và Manado',
+    th: 'การจัดตั้งศาลปกครองสูงปาเล็มบัง บันจาร์มาซิน มาตาราม และมานาโด',
+    ms: 'Penubuhan Mahkamah Tinggi Tata Usaha Negara Palembang, Banjarmasin, Mataram dan Manado'
+  },
+  'ID-H2988': {
+    zh: '批准《东盟电子商务协定》',
+    en: 'Ratification of the ASEAN Agreement on Electronic Commerce',
+    vi: 'Phê chuẩn Hiệp định ASEAN về Thương mại Điện tử',
+    th: 'การให้สัตยาบันความตกลงอาเซียนว่าด้วยพาณิชย์อิเล็กทรอนิกส์',
+    ms: 'Pengesahan Persetujuan ASEAN tentang Perdagangan Elektronik'
+  },
+  'ID-H2989': {
+    zh: '批准《印度尼西亚与欧洲自由贸易联盟全面经济伙伴关系协定》',
+    en: 'Ratification of the Comprehensive Economic Partnership Agreement between the Republic of Indonesia and the EFTA States',
+    vi: 'Phê chuẩn Hiệp định Đối tác Kinh tế Toàn diện giữa nước Cộng hòa Indonesia và các Quốc gia EFTA',
+    th: 'การให้สัตยาบันความตกลงหุ้นส่วนเศรษฐกิจที่ครอบคลุมระหว่างสาธารณรัฐอินโดนีเซียและรัฐสมาชิก EFTA',
+    ms: 'Pengesahan Persetujuan Perkongsian Ekonomi Komprehensif antara Republik Indonesia dan Negara-Negara EFTA'
+  },
+  'ID-H3004': {
+    zh: '2018年第13号《印刷作品与录音作品缴存法》实施条例',
+    en: 'Implementing Regulation of Law No. 13 of 2018 on the Deposit of Printed Works and Recorded Works',
+    vi: 'Quy định thi hành Luật số 13 năm 2018 về Lưu chiểu Tác phẩm In và Tác phẩm Ghi âm',
+    th: 'ข้อบังคับการปฏิบัติตามพระราชบัญญัติเลขที่ 13 ปี 2018 ว่าด้วยการส่งมอบงานสิ่งพิมพ์และงานบันทึก',
+    ms: 'Peraturan Pelaksanaan Undang-Undang No. 13 Tahun 2018 tentang Serah Simpan Karya Cetak dan Karya Rekam'
+  },
+  'ID-H3077': {
+    zh: '批准《区域全面经济伙伴关系协定》',
+    en: 'Ratification of the Regional Comprehensive Economic Partnership Agreement',
+    vi: 'Phê chuẩn Hiệp định Đối tác Kinh tế Toàn diện Khu vực',
+    th: 'การให้สัตยาบันความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาคที่ครอบคลุม',
+    ms: 'Pengesahan Persetujuan Perkongsian Ekonomi Komprehensif Serantau'
+  },
+  'ID-H3085': {
+    zh: '2019年第24号《创意经济法》实施条例',
+    en: 'Implementing Regulation of Law No. 24 of 2019 on the Creative Economy',
+    vi: 'Quy định thi hành Luật số 24 năm 2019 về Kinh tế Sáng tạo',
+    th: 'ข้อบังคับการปฏิบัติตามพระราชบัญญัติเลขที่ 24 ปี 2019 ว่าด้วยเศรษฐกิจสร้างสรรค์',
+    ms: 'Peraturan Pelaksanaan Undang-Undang No. 24 Tahun 2019 tentang Ekonomi Kreatif'
+  }
+};

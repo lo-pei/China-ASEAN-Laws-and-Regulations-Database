@@ -1,0 +1,425 @@
+{
+  "_note": "MY 附属法规括号术语 · add13（单缺括号剩余 1-65）",
+  "brackets": {
+    "SCALE OF RATES, DUES AND CHARGES": {
+      "zh": "费率、规费及收费表",
+      "vi": "Biểu mức phí, lệ phí và các khoản thu",
+      "th": "ตารางอัตราค่าธรรมเนียม ค่าบริการและค่าบำรุง",
+      "id": "Skala Tarif, Iuran, dan Biaya",
+      "ms": "Skala Kadar, Fi dan Caj"
+    },
+    "COMPLAINT HOTLINE MARKING": {
+      "zh": "投诉热线标识",
+      "vi": "Ghi nhãn đường dây nóng khiếu nại",
+      "th": "การทำเครื่องหมายสายด่วนรับเรื่องร้องเรียน",
+      "id": "Penandaan Saluran Pengaduan",
+      "ms": "Penandaan Talian Aduan"
+    },
+    "SMALL MEDIUM ENTERPRISE DEVELOPMENT BANK MALAYSIA BERHAD": {
+      "zh": "马来西亚中小企业发展银行有限公司",
+      "vi": "Ngân hàng Phát triển Doanh nghiệp Nhỏ và Vừa Malaysia Berhad",
+      "th": "ธนาคารเพื่อการพัฒนาวิสาหกิจขนาดกลางและขนาดย่อมมาเลเซียเบอร์ฮัด",
+      "id": "Bank Pembangunan Usaha Kecil dan Menengah Malaysia Berhad",
+      "ms": "Bank Pembangunan Perusahaan Kecil dan Sederhana Malaysia Berhad"
+    },
+    "RECTIFICATION OF SHORT TITLES": {
+      "zh": "简称的更正",
+      "vi": "Đính chính các tên gọi tắt",
+      "th": "การแก้ไขข้อผิดพลาดชื่อย่อ",
+      "id": "Koreksi Judul Singkat",
+      "ms": "Pembetulan Tajuk Ringkas"
+    },
+    "PANTAI SENTRAL INTERCHANGE": {
+      "zh": "班底中环立交",
+      "vi": "Nút giao Pantai Sentral",
+      "th": "ทางแยกต่างระดับบันไตเซินทรัล",
+      "id": "Simpang Susun Pantai Sentral",
+      "ms": "Persimpangan Bertingkat Pantai Sentral"
+    },
+    "EXEMPTION TO ETHYLENE MALAYSIA SDN. BHD., KERTEH, TERENGGANU": {
+      "zh": "豁免乙烯马来西亚私人有限公司（登嘉楼吉利地）",
+      "vi": "Miễn trừ cho Ethylene Malaysia Sdn. Bhd., Kerteh, Terengganu",
+      "th": "การยกเว้นให้ Ethylene Malaysia Sdn. Bhd., เกอเตะห์, ตรังกานู",
+      "id": "Pengecualian kepada Ethylene Malaysia Sdn. Bhd., Kerteh, Terengganu",
+      "ms": "Pengecualian kepada Ethylene Malaysia Sdn. Bhd., Kerteh, Terengganu"
+    },
+    "PROCEDURE OF MEETINGS FOR SPECIAL COMMITTEE ON CORRUPTION": {
+      "zh": "反腐败特别委员会会议程序",
+      "vi": "Thủ tục họp của Ủy ban Đặc biệt về Tham nhũng",
+      "th": "ระเบียบการประชุมของคณะกรรมการพิเศษด้านการทุจริต",
+      "id": "Tata Cara Rapat Komite Khusus Pemberantasan Korupsi",
+      "ms": "Tatacara Mesyuarat Jawatankuasa Khas Mengenai Rasuah"
+    },
+    "EXEMPTION TO KERTIH TERMINALS SDN. BHD., KERTEH, TERENGGANU": {
+      "zh": "豁免吉利地码头私人有限公司（登嘉楼吉利地）",
+      "vi": "Miễn trừ cho Kertih Terminals Sdn. Bhd., Kerteh, Terengganu",
+      "th": "การยกเว้นให้ Kertih Terminals Sdn. Bhd., เกอเตะห์, ตรังกานู",
+      "id": "Pengecualian kepada Kertih Terminals Sdn. Bhd., Kerteh, Terengganu",
+      "ms": "Pengecualian kepada Kertih Terminals Sdn. Bhd., Kerteh, Terengganu"
+    },
+    "EXEMPTION TO PETRONAS CHEMICALS MTBE SDN. BHD., KUANTAN, PAHANG": {
+      "zh": "豁免国家石油化学MTBE私人有限公司（彭亨关丹）",
+      "vi": "Miễn trừ cho Petronas Chemicals MTBE Sdn. Bhd., Kuantan, Pahang",
+      "th": "การยกเว้นให้ Petronas Chemicals MTBE Sdn. Bhd., กวนตัน, ปะหัง",
+      "id": "Pengecualian kepada Petronas Chemicals MTBE Sdn. Bhd., Kuantan, Pahang",
+      "ms": "Pengecualian kepada Petronas Chemicals MTBE Sdn. Bhd., Kuantan, Pahang"
+    },
+    "DUTY-FREE AREA AT PENGKALAN KUBOR": {
+      "zh": "彭加兰古堡免税区",
+      "vi": "Khu vực miễn thuế tại Pengkalan Kubor",
+      "th": "เขตปลอดอากร ณ เปองกาลันกูบอร์",
+      "id": "Kawasan Bebas Bea di Pengkalan Kubor",
+      "ms": "Kawasan Bebas Duti di Pengkalan Kubor"
+    },
+    "PETRONAS MARGINAL FIELD": {
+      "zh": "国家石油边际油田",
+      "vi": "Mỏ dầu cận biên Petronas",
+      "th": "แหล่งน้ำมันชายขอบเปโตรนาส",
+      "id": "Lapangan Minyak Marginal Petronas",
+      "ms": "Medan Minyak Marginal Petronas"
+    },
+    "TERMS OF EDUCATIONAL INSTITUTIONS YEAR 2016": {
+      "zh": "教育机构学期（2016年）",
+      "vi": "Thời hạn học kỳ của các cơ sở giáo dục năm 2016",
+      "th": "ภาคเรียนของสถานศึกษาปี 2016",
+      "id": "Terma Institusi Pendidikan Tahun 2016",
+      "ms": "Syarat Institusi Pendidikan Tahun 2016"
+    },
+    "ADVERTISING": {
+      "zh": "广告",
+      "vi": "Quảng cáo",
+      "th": "การโฆษณา",
+      "id": "Periklanan",
+      "ms": "Pengiklanan"
+    },
+    "IMPLEMENTATION OF THE UNITED NATIONS SECURITY COUNCIL RESOLUTIONS RELATING TO LIBYA": {
+      "zh": "执行联合国安全理事会关于利比亚的决议",
+      "vi": "Thực hiện các nghị quyết của Hội đồng Bảo an Liên Hợp Quốc liên quan đến Libya",
+      "th": "การดำเนินการตามมติคณะมนตรีความมั่นคงแห่งสหประชาชาติเกี่ยวกับลิเบีย",
+      "id": "Pelaksanaan Resolusi Dewan Keamanan Perserikatan Bangsa-Bangsa Terkait Libya",
+      "ms": "Pelaksanaan Resolusi Majlis Keselamatan Pertubuhan Bangsa-Bangsa Bersatu Berkaitan Libya"
+    },
+    "DUTIES AND OBLIGATIONS OF ESTABLISHMENTS": {
+      "zh": "场所的义务与责任",
+      "vi": "Nghĩa vụ và trách nhiệm của các cơ sở",
+      "th": "หน้าที่และความรับผิดชอบของสถานประกอบการ",
+      "id": "Kewajiban dan Tanggung Jawab Tempat Usaha",
+      "ms": "Kewajipan dan Tanggungjawab Premis"
+    },
+    "FEE FOR PURCHASE OF STRUCTURE PLAN": {
+      "zh": "结构规划图购买费",
+      "vi": "Phí mua quy hoạch cấu trúc",
+      "th": "ค่าธรรมเนียมการซื้อผังโครงสร้าง",
+      "id": "Biaya Pembelian Rencana Struktur",
+      "ms": "Fi Pembelian Rancangan Struktur"
+    },
+    "FEE AND CHARGE FOR ERECTING STRUCTURES FOR ADVERTISEMENT ON FEDERAL ROAD": {
+      "zh": "在联邦道路设置广告构筑物的费用",
+      "vi": "Phí và lệ phí dựng kết cấu quảng cáo trên đường liên bang",
+      "th": "ค่าธรรมเนียมและค่าบริการสำหรับการติดตั้งโครงสร้างโฆษณาบนทางหลวงสหพันธ์",
+      "id": "Biaya dan Pungutan Pendirian Bangunan Iklan di Jalan Federal",
+      "ms": "Fi dan Caj bagi Mendirikan Struktur Pengiklanan di Jalan Persekutuan"
+    },
+    "FOOD ANALYSIS FEES": {
+      "zh": "食品分析费",
+      "vi": "Phí phân tích thực phẩm",
+      "th": "ค่าธรรมเนียมการวิเคราะห์อาหาร",
+      "id": "Biaya Analisis Pangan",
+      "ms": "Fi Analisis Makanan"
+    },
+    "KUCHAI LINK 2 RAMP": {
+      "zh": "古柴连接道2号匝道",
+      "vi": "Đường dốc nối Kuchai 2",
+      "th": "ทางลาดเชื่อมกูไช 2",
+      "id": "Jalur Penghubung Kuchai 2",
+      "ms": "Lohong Penghubung Kuchai 2"
+    },
+    "EXEMPTION TO PETRONAS CARIGALI SDN. BHD., KERTEH, TERENGGANU": {
+      "zh": "豁免国家石油卡里加利私人有限公司（登嘉楼吉利地）",
+      "vi": "Miễn trừ cho Petronas Carigali Sdn. Bhd., Kerteh, Terengganu",
+      "th": "การยกเว้นให้ Petronas Carigali Sdn. Bhd., เกอเตะห์, ตรังกานู",
+      "id": "Pengecualian kepada Petronas Carigali Sdn. Bhd., Kerteh, Terengganu",
+      "ms": "Pengecualian kepada Petronas Carigali Sdn. Bhd., Kerteh, Terengganu"
+    },
+    "VISA TO THE CITIZEN OF THE REPUBLIC OF SERBIA": {
+      "zh": "塞尔维亚共和国公民签证",
+      "vi": "Thị thực cho công dân Cộng hòa Serbia",
+      "th": "วีซ่าสำหรับพลเมืองสาธารณรัฐเซอร์เบีย",
+      "id": "Visa bagi Warga Negara Republik Serbia",
+      "ms": "Visa kepada Warganegara Republik Serbia"
+    },
+    "EXPORT-IMPORT BANK OF MALAYSIA BERHAD": {
+      "zh": "马来西亚进出口银行有限公司",
+      "vi": "Ngân hàng Xuất Nhập khẩu Malaysia Berhad",
+      "th": "ธนาคารเพื่อการส่งออกและนำเข้ามาเลเซียเบอร์ฮัด",
+      "id": "Bank Ekspor Impor Malaysia Berhad",
+      "ms": "Bank Eksport Import Malaysia Berhad"
+    },
+    "ASSUMPTION OF CONTROL OF KOPERASI GURU-GURU DTC MALAYSIA BERHAD": {
+      "zh": "接管DTC马来西亚教师合作社有限公司",
+      "vi": "Tiếp nhận kiểm soát Hợp tác xã Giáo viên DTC Malaysia Berhad",
+      "th": "การเข้าควบคุมสหกรณ์ครู DTC มาเลเซียเบอร์ฮัด",
+      "id": "Pengambilalihan Kendali Koperasi Guru-Guru DTC Malaysia Berhad",
+      "ms": "Pengambilalihan Kawalan Koperasi Guru-Guru DTC Malaysia Berhad"
+    },
+    "PROTECTED BENEFITS LIMIT": {
+      "zh": "受保护利益限额",
+      "vi": "Giới hạn phúc lợi được bảo vệ",
+      "th": "วงเงินผลประโยชน์ที่ได้รับความคุ้มครอง",
+      "id": "Batas Manfaat yang Dilindungi",
+      "ms": "Had Faedah yang Dilindungi"
+    },
+    "PROVISIONAL SAFEGUARDS DUTIES": {
+      "zh": "临时保障措施关税",
+      "vi": "Thuế tự vệ tạm thời",
+      "th": "อากรมาตรการปกป้องชั่วคราว",
+      "id": "Bea Tindakan Pengamanan Sementara",
+      "ms": "Duti Langkah Perlindungan Sementara"
+    },
+    "PROTECTED BENEFITS": {
+      "zh": "受保护利益",
+      "vi": "Phúc lợi được bảo vệ",
+      "th": "ผลประโยชน์ที่ได้รับความคุ้มครอง",
+      "id": "Manfaat yang Dilindungi",
+      "ms": "Faedah yang Dilindungi"
+    },
+    "SOCIAL SECURITY TRIBUNAL": {
+      "zh": "社会保障法庭",
+      "vi": "Tòa án An sinh Xã hội",
+      "th": "ศาลประกันสังคม",
+      "id": "Pengadilan Jaminan Sosial",
+      "ms": "Tribunal Keselamatan Sosial"
+    },
+    "DISCIPLINE OF STUDENTS": {
+      "zh": "学生纪律",
+      "vi": "Kỷ luật học sinh",
+      "th": "วินัยของนักเรียน",
+      "id": "Disiplin Pelajar",
+      "ms": "Disiplin Pelajar"
+    },
+    "MARKING OF REPLACEMENT PART OF BRAKE LINING": {
+      "zh": "制动衬片替换件标记",
+      "vi": "Ghi nhãn phụ tùng thay thế của má phanh",
+      "th": "การทำเครื่องหมายชิ้นส่วนทดแทนของผ้าเบรก",
+      "id": "Penandaan Suku Cadang Pengganti Kampas Rem",
+      "ms": "Penandaan Bahagian Ganti Lapik Brek"
+    },
+    "DETERMINATION OF KNOWLEDGE WORKER AND QUALIFYING ACTIVITY IN THE EAST COAST ECONOMIC REGION": {
+      "zh": "东海岸经济区知识型员工及合格活动的认定",
+      "vi": "Xác định lao động tri thức và hoạt động đủ điều kiện tại Vùng Kinh tế Bờ Đông",
+      "th": "การกำหนดผู้ทำงานด้านความรู้และกิจกรรมที่เข้าเกณฑ์ในเขตเศรษฐกิจชายฝั่งตะวันออก",
+      "id": "Penetapan Pekerja Berpengetahuan dan Aktivitas Memenuhi Syarat di Kawasan Ekonomi Pantai Timur",
+      "ms": "Penentuan Pekerja Berpengetahuan dan Aktiviti Layak di Wilayah Ekonomi Pantai Timur"
+    },
+    "TERMS OF EDUCATIONAL INSTITUTIONS YEAR 2015": {
+      "zh": "教育机构学期（2015年）",
+      "vi": "Thời hạn học kỳ của các cơ sở giáo dục năm 2015",
+      "th": "ภาคเรียนของสถานศึกษาปี 2015",
+      "id": "Terma Institusi Pendidikan Tahun 2015",
+      "ms": "Syarat Institusi Pendidikan Tahun 2015"
+    },
+    "DEDUCTION FOR COST RELATING TO TRAINING FOR EMPLOYEES FOR THE IMPLEMENTATION OF GOODS AND SERVICES TAX": {
+      "zh": "为实施商品及服务税而培训雇员的成本扣除",
+      "vi": "Khấu trừ chi phí đào tạo nhân viên để triển khai thuế hàng hóa và dịch vụ",
+      "th": "การหักต้นทุนการฝึกอบรมพนักงานเพื่อการดำเนินการภาษีสินค้าและบริการ",
+      "id": "Pengurangan Biaya Pelatihan Karyawan untuk Pelaksanaan Pajak Barang dan Jasa",
+      "ms": "Potongan Kos Latihan Pekerja bagi Pelaksanaan Cukai Barang dan Perkhidmatan"
+    },
+    "SODIUM HYDROXIDE": {
+      "zh": "氢氧化钠",
+      "vi": "Natri hydroxit",
+      "th": "โซเดียมไฮดรอกไซด์",
+      "id": "Natrium Hidroksida",
+      "ms": "Natrium Hidroksida"
+    },
+    "MANUFACTURE OF ARMS AND AMMUNITION": {
+      "zh": "武器与弹药制造",
+      "vi": "Sản xuất vũ khí và đạn dược",
+      "th": "การผลิตอาวุธและกระสุน",
+      "id": "Pembuatan Senjata dan Amunisi",
+      "ms": "Pembuatan Senjata dan Peluru"
+    },
+    "AMENDMENT OF SCHEDULES 1, 2, 3 AND 4": {
+      "zh": "第1、2、3及4号附表修正",
+      "vi": "Sửa đổi các Phụ lục 1, 2, 3 và 4",
+      "th": "การแก้ไขตารางผนวกที่ 1, 2, 3 และ 4",
+      "id": "Pindaan Lampiran 1, 2, 3, dan 4",
+      "ms": "Pindaan Jadual 1, 2, 3 dan 4"
+    },
+    "CLASS OF DATA USERS": {
+      "zh": "数据使用者类别",
+      "vi": "Nhóm người sử dụng dữ liệu",
+      "th": "ประเภทผู้ใช้ข้อมูล",
+      "id": "Kelas Pengguna Data",
+      "ms": "Kelas Pengguna Data"
+    },
+    "INDEX WARRANTS": {
+      "zh": "指数认股权证",
+      "vi": "Chứng quyền chỉ số",
+      "th": "ใบสำคัญแสดงสิทธิ์ดัชนี",
+      "id": "Waran Indeks",
+      "ms": "Waran Indeks"
+    },
+    "EXEMPTION TO OPTIMAL GROUP OF COMPANIES, KERTIH, TERENGGANU": {
+      "zh": "豁免最优企业集团（登嘉楼吉利地）",
+      "vi": "Miễn trừ cho Optimal Group of Companies, Kertih, Terengganu",
+      "th": "การยกเว้นให้กลุ่มบริษัท Optimal, เกอริห์, ตรังกานู",
+      "id": "Pengecualian kepada Optimal Group of Companies, Kertih, Terengganu",
+      "ms": "Pengecualian kepada Optimal Group of Companies, Kertih, Terengganu"
+    },
+    "REGISTRATION OF DATA USER": {
+      "zh": "数据使用者登记",
+      "vi": "Đăng ký người sử dụng dữ liệu",
+      "th": "การจดทะเบียนผู้ใช้ข้อมูล",
+      "id": "Registrasi Pengguna Data",
+      "ms": "Pendaftaran Pengguna Data"
+    },
+    "WAIVER OF FEE TO MEMBER OF SOCIETY OF THE BLIND IN MALAYSIA, SARAWAK BRANCH": {
+      "zh": "马来西亚盲人协会砂拉越分会会员费用豁免",
+      "vi": "Miễn phí cho hội viên Hội Người mù Malaysia, Chi nhánh Sarawak",
+      "th": "การยกเว้นค่าธรรมเนียมสำหรับสมาชิกสมาคมคนตาบอดมาเลเซีย สาขาซาราวัก",
+      "id": "Pembebasan Biaya bagi Anggota Perhimpunan Tunanetra Malaysia Cabang Sarawak",
+      "ms": "Pengecualian Fi kepada Ahli Persatuan Orang Buta Malaysia Cawangan Sarawak"
+    },
+    "TERMS AND CONDITIONS OF MEMBERSHIP": {
+      "zh": "会员资格的条款与条件",
+      "vi": "Điều khoản và điều kiện hội viên",
+      "th": "ข้อกำหนดและเงื่อนไขการเป็นสมาชิก",
+      "id": "Syarat dan Ketentuan Keanggotaan",
+      "ms": "Terma dan Syarat Keahlian"
+    },
+    "EFFLUENT": {
+      "zh": "污水",
+      "vi": "Nước thải",
+      "th": "น้ำทิ้ง",
+      "id": "Air Limbah",
+      "ms": "Efluen"
+    },
+    "MONEY SERVICES BUSINESS AGENT": {
+      "zh": "货币服务业代理",
+      "vi": "Đại lý kinh doanh dịch vụ tiền tệ",
+      "th": "ตัวแทนธุรกิจบริการเงินตรา",
+      "id": "Agen Usaha Jasa Keuangan",
+      "ms": "Ejen Perniagaan Perkhidmatan Wang"
+    },
+    "REPUBLIC OF UZBEKISTAN": {
+      "zh": "乌兹别克斯坦共和国",
+      "vi": "Cộng hòa Uzbekistan",
+      "th": "สาธารณรัฐอุซเบกิสถาน",
+      "id": "Republik Uzbekistan",
+      "ms": "Republik Uzbekistan"
+    },
+    "DEDUCTION FOR CASH CONTRIBUTION TO BANTUAN PELAJAR MISKIN 1MALAYSIA FUND": {
+      "zh": "向一个马来西亚贫困学生援助基金现金捐款的扣除",
+      "vi": "Khấu trừ khoản đóng góp tiền mặt cho Quỹ Hỗ trợ Học sinh Nghèo 1Malaysia",
+      "th": "การหักเงินบริจาคเป็นเงินสดให้กองทุนช่วยเหลือนักเรียนยากจน 1Malaysia",
+      "id": "Pengurangan Sumbangan Tunai kepada Dana Bantuan Pelajar Miskin 1Malaysia",
+      "ms": "Potongan Sumbangan Tunai kepada Dana Bantuan Pelajar Miskin 1Malaysia"
+    },
+    "FEDERAL TERRITORY OF LABUAN PORT AND VICTORIA BAY PORT": {
+      "zh": "纳闽联邦直辖区港与维多利亚湾港",
+      "vi": "Cảng Lãnh thổ Liên bang Labuan và Cảng Vịnh Victoria",
+      "th": "ท่าเรือเขตปกครองสหพันธ์ลาบวนและท่าเรืออ่าววิกตอเรีย",
+      "id": "Pelabuhan Wilayah Persekutuan Labuan dan Pelabuhan Teluk Victoria",
+      "ms": "Pelabuhan Wilayah Persekutuan Labuan dan Pelabuhan Teluk Victoria"
+    },
+    "RECTIFICATION OF FARMERS' ORGANIZATION": {
+      "zh": "农民组织的更正",
+      "vi": "Đính chính về Tổ chức Nông dân",
+      "th": "การแก้ไขข้อผิดพลาดเกี่ยวกับองค์กรเกษตรกร",
+      "id": "Koreksi Organisasi Petani",
+      "ms": "Pembetulan Pertubuhan Peladang"
+    },
+    "BLASTING": {
+      "zh": "爆破",
+      "vi": "Nổ mìn",
+      "th": "การระเบิดหิน",
+      "id": "Peledakan",
+      "ms": "Letupan"
+    },
+    "APPLICATION FOR PERMIT": {
+      "zh": "许可证申请",
+      "vi": "Đơn xin giấy phép",
+      "th": "การยื่นคำขอใบอนุญาต",
+      "id": "Permohonan Izin",
+      "ms": "Permohonan Permit"
+    },
+    "EXEMPTION TO SULTAN AZLAN SHAH POWER PLANT, MANJUNG, PERAK": {
+      "zh": "豁免苏丹阿兹兰莎电厂（霹雳曼绒）",
+      "vi": "Miễn trừ cho Nhà máy Điện Sultan Azlan Shah, Manjung, Perak",
+      "th": "การยกเว้นให้โรงไฟฟ้าสุลต่านอัซลันชาห์, มันจุง, เประ",
+      "id": "Pengecualian kepada Pembangkit Listrik Sultan Azlan Shah, Manjung, Perak",
+      "ms": "Pengecualian kepada Loji Janakuasa Sultan Azlan Shah, Manjung, Perak"
+    },
+    "KL-KUALA-SELANGOR EXPRESSWAY": {
+      "zh": "吉隆坡—雪兰莪大道",
+      "vi": "Đường cao tốc KL-Kuala Selangor",
+      "th": "ทางด่วน KL-กัวลาสลังงอร์",
+      "id": "Jalan Tol KL-Kuala Selangor",
+      "ms": "Lebuhraya KL-Kuala Selangor"
+    },
+    "EXEMPTION OF VISA TO CITIZEN OF MOROCCO": {
+      "zh": "摩洛哥公民签证豁免",
+      "vi": "Miễn thị thực cho công dân Maroc",
+      "th": "การยกเว้นวีซ่าสำหรับพลเมืองโมร็อกโก",
+      "id": "Pembebasan Visa bagi Warga Negara Maroko",
+      "ms": "Pengecualian Visa kepada Warganegara Maghribi"
+    },
+    "KOPERASI SAHABAT AMANAH IKHTIAR MALAYSIA BERHAD": {
+      "zh": "马来西亚伊赫蒂亚尔友好信托合作社有限公司",
+      "vi": "Hợp tác xã Sahabat Amanah Ikhtiar Malaysia Berhad",
+      "th": "สหกรณ์ซาฮาบัตอามานะห์อิคเทียรมาเลเซียเบอร์ฮัด",
+      "id": "Koperasi Sahabat Amanah Ikhtiar Malaysia Berhad",
+      "ms": "Koperasi Sahabat Amanah Ikhtiar Malaysia Berhad"
+    },
+    "POSTPONEMENT OF LIABILITY": {
+      "zh": "责任的延期",
+      "vi": "Hoãn nghĩa vụ",
+      "th": "การเลื่อนกำหนดความรับผิด",
+      "id": "Penundaan Kewajiban",
+      "ms": "Penangguhan Liabiliti"
+    },
+    "FEES AND CHARGES EXEMPTION FOR APPLICATION OF ACCREDITATION OF NATIONAL DUAL TRAINING SYSTEM TRAINING PROVIDERS": {
+      "zh": "国家双轨培训体系培训机构认证申请的费用豁免",
+      "vi": "Miễn phí và lệ phí đối với hồ sơ công nhận cơ sở đào tạo của Hệ thống Đào tạo Song hành Quốc gia",
+      "th": "การยกเว้นค่าธรรมเนียมและค่าบริการสำหรับการยื่นขอรับรองผู้ให้การฝึกอบรมระบบทวิภาคีแห่งชาติ",
+      "id": "Pembebasan Biaya dan Pungutan atas Permohonan Akreditasi Penyedia Pelatihan Sistem Pelatihan Ganda Nasional",
+      "ms": "Pengecualian Fi dan Caj bagi Permohonan Akreditasi Penyedia Latihan Sistem Latihan Dual Kebangsaan"
+    },
+    "EXEMPTION TO PETRONAS CHEMICALS METHANOL SDN. BHD., FEDERAL TERRITORY OF LABUAN": {
+      "zh": "豁免国家石油化学甲醇私人有限公司（纳闽联邦直辖区）",
+      "vi": "Miễn trừ cho Petronas Chemicals Methanol Sdn. Bhd., Lãnh thổ Liên bang Labuan",
+      "th": "การยกเว้นให้ Petronas Chemicals Methanol Sdn. Bhd., เขตปกครองสหพันธ์ลาบวน",
+      "id": "Pengecualian kepada Petronas Chemicals Methanol Sdn. Bhd., Wilayah Persekutuan Labuan",
+      "ms": "Pengecualian kepada Petronas Chemicals Methanol Sdn. Bhd., Wilayah Persekutuan Labuan"
+    },
+    "OFFSHORE PERMIT AND LICENSING": {
+      "zh": "离岸许可与发牌",
+      "vi": "Giấy phép và cấp phép ngoài khơi",
+      "th": "ใบอนุญาตและการออกใบอนุญาตนอกชายฝั่ง",
+      "id": "Izin dan Perizinan Lepas Pantai",
+      "ms": "Permit dan Pelesenan Luar Pesisir"
+    },
+    "FEES AND CHARGES EXEMPTION TO MONFORT BOYS TOWN, SHAH ALAM, SELANGOR": {
+      "zh": "豁免蒙福特男童村（雪兰莪莎阿南）的费用",
+      "vi": "Miễn phí và lệ phí cho Monfort Boys Town, Shah Alam, Selangor",
+      "th": "การยกเว้นค่าธรรมเนียมและค่าบริการให้ Monfort Boys Town, ชาห์อาลัม, สลังงอร์",
+      "id": "Pembebasan Biaya dan Pungutan kepada Monfort Boys Town, Shah Alam, Selangor",
+      "ms": "Pengecualian Fi dan Caj kepada Monfort Boys Town, Shah Alam, Selangor"
+    },
+    "WAIVER OF FEE TO TRAINEE AT MONFORT YOUTH CENTRE, MELAKA": {
+      "zh": "豁免马六甲蒙福特青年中心学员费用",
+      "vi": "Miễn phí cho học viên tại Trung tâm Thanh niên Monfort, Melaka",
+      "th": "การยกเว้นค่าธรรมเนียมสำหรับผู้เข้ารับการฝึกอบรม ณ ศูนย์เยาวชนมอนฟอร์ต, เมอลากา",
+      "id": "Pembebasan Biaya bagi Peserta Pelatihan di Monfort Youth Centre, Melaka",
+      "ms": "Pengecualian Fi kepada Pelatih di Monfort Youth Centre, Melaka"
+    },
+    "DISAPPLICATION OF SCHEDULE 1": {
+      "zh": "附表1的不适用",
+      "vi": "Không áp dụng Phụ lục 1",
+      "th": "การไม่ใช้บังคับตารางผนวก 1",
+      "id": "Ketidakberlakuan Lampiran 1",
+      "ms": "Ketidakterapan Jadual 1"
+    }
+  }
+}

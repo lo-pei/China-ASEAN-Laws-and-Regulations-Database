@@ -1,0 +1,812 @@
+{
+ "batch": "tl-p2-b02",
+ "scope": "TL 东帝汶法 第 2 批 115 部（TL-H147 … TL-LABOR-2012）",
+ "note": "语义基准 title.en；急状态法 19 部、修正案 33 部按统一格式合成；zh 存量葡中混杂者按 en 重写；年份一律 ค.ศ.。",
+ "items": {
+  "TL-H178": {
+   "vi": "Luật số 1/2020 ủy quyền tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 1/2020 มอบอำนาจให้ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 1/2020 tentang Pemberian Wewenang untuk Menyatakan Keadaan Darurat",
+   "ms": "Akta Nombor 1/2020 tentang Pemberian Kuasa untuk Mengisytiharkan Keadaan Darurat",
+   "zh": "（第1/2020号法律）授权宣布紧急状态"
+  },
+  "TL-H180": {
+   "vi": "Luật số 3/2020 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 3/2020 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 3/2020 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 3/2020 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第3/2020号法律）授权延长紧急状态宣告"
+  },
+  "TL-H181": {
+   "vi": "Luật số 4/2020 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 4/2020 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 4/2020 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 4/2020 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第4/2020号法律）授权延长紧急状态宣告"
+  },
+  "TL-H183": {
+   "vi": "Luật số 6/2020 xác nhận tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 6/2020 ยืนยันการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 6/2020 tentang Pengesahan Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 6/2020 tentang Pengesahan Pengisytiharan Keadaan Darurat",
+   "zh": "（第6/2020号法律）确认紧急状态宣告"
+  },
+  "TL-H185": {
+   "vi": "Luật số 8/2020 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 8/2020 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 8/2020 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 8/2020 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第8/2020号法律）授权延长紧急状态宣告"
+  },
+  "TL-H186": {
+   "vi": "Luật số 9/2020 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 9/2020 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 9/2020 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 9/2020 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第9/2020号法律）授权延长紧急状态宣告"
+  },
+  "TL-H188": {
+   "vi": "Luật số 11/2020 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 11/2020 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 11/2020 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 11/2020 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第11/2020号法律）授权延长紧急状态宣告"
+  },
+  "TL-H190": {
+   "vi": "Luật số 13/2020 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 13/2020 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 13/2020 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 13/2020 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第13/2020号法律）授权延长紧急状态宣告"
+  },
+  "TL-H192": {
+   "vi": "Luật số 15/2020 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 15/2020 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 15/2020 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 15/2020 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第15/2020号法律）授权延长紧急状态宣告"
+  },
+  "TL-H193": {
+   "vi": "Luật số 1/2021 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 1/2021 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 1/2021 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 1/2021 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第1/2021号法律）授权延长紧急状态宣告"
+  },
+  "TL-H194": {
+   "vi": "Luật số 2/2021 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 2/2021 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 2/2021 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 2/2021 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第2/2021号法律）授权延长紧急状态宣告"
+  },
+  "TL-H197": {
+   "vi": "Luật số 5/2021 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 5/2021 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 5/2021 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 5/2021 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第5/2021号法律）授权延长紧急状态宣告"
+  },
+  "TL-H199": {
+   "vi": "Luật số 7/2021 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 7/2021 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 7/2021 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 7/2021 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第7/2021号法律）授权延长紧急状态宣告"
+  },
+  "TL-H201": {
+   "vi": "Luật số 9/2021 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 9/2021 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 9/2021 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 9/2021 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第9/2021号法律）授权延长紧急状态宣告"
+  },
+  "TL-H205": {
+   "vi": "Luật số 13/2021 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 13/2021 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 13/2021 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 13/2021 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第13/2021号法律）授权延长紧急状态宣告"
+  },
+  "TL-H209": {
+   "vi": "Luật số 17/2021 xác nhận tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 17/2021 ยืนยันการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 17/2021 tentang Pengesahan Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 17/2021 tentang Pengesahan Pengisytiharan Keadaan Darurat",
+   "zh": "（第17/2021号法律）确认紧急状态宣告"
+  },
+  "TL-H210": {
+   "vi": "Luật số 18/2021 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 18/2021 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 18/2021 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 18/2021 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第18/2021号法律）授权延长紧急状态宣告"
+  },
+  "TL-H212": {
+   "vi": "Luật số 20/2021 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 20/2021 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 20/2021 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 20/2021 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第20/2021号法律）授权延长紧急状态宣告"
+  },
+  "TL-H213": {
+   "vi": "Luật số 21/2021 ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+   "th": "พระราชบัญญัติฉบับที่ 21/2021 มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Undang-Undang Nomor 21/2021 tentang Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+   "ms": "Akta Nombor 21/2021 tentang Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+   "zh": "（第21/2021号法律）授权延长紧急状态宣告"
+  },
+  "TL-H147": {
+   "vi": "Luật Sửa đổi lần thứ hai Luật số 5/2006 ngày 28 tháng 12 về Cơ quan quản lý bầu cử",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 5/2006 ลงวันที่ 28 ธันวาคม (ครั้งที่สอง) ว่าด้วยองค์กรบริหารการเลือกตั้ง",
+   "id": "Undang-Undang Perubahan Kedua atas Undang-Undang Nomor 5/2006 tanggal 28 Desember tentang Badan Penyelenggara Pemilu",
+   "ms": "Akta Pindaan Kedua kepada Akta Nombor 5/2006 bertarikh 28 Disember mengenai Badan Pentadbiran Pilihan Raya",
+   "zh": "对第5/2006号法律的第二次修改（选举管理机构）"
+  },
+  "TL-H169": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 10/2009 ngày 5 tháng 8 về Quy chế thù lao thẩm phán",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 10/2009 ลงวันที่ 5 สิงหาคม (ครั้งที่หนึ่ง) ว่าด้วยข้อกำหนดค่าตอบแทนผู้พิพากษา",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 10/2009 tanggal 5 Agustus tentang Statuta Remunerasi Hakim",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 10/2009 bertarikh 5 Ogos mengenai Statuta Saraan Hakim",
+   "zh": "8月5日第10/2009号法律（法官薪酬章程）第一次修正"
+  },
+  "TL-H172": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 13/2005 ngày 2 tháng 9 về Hoạt động dầu khí",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 13/2005 ลงวันที่ 2 กันยายน (ครั้งที่หนึ่ง) ว่าด้วยกิจกรรมปิโตรเลียม",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 13/2005 tanggal 2 September tentang Kegiatan Perminyakan",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 13/2005 bertarikh 2 September mengenai Kegiatan Petroleum",
+   "zh": "9月2日第13/2005号法律（石油活动法）第一次修正"
+  },
+  "TL-H174": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 3/2014 ngày 18 tháng 6 về việc thành lập Vùng hành chính đặc biệt Oecusse",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 3/2014 ลงวันที่ 18 มิถุนายน (ครั้งที่หนึ่ง) ว่าด้วยการจัดตั้งเขตปกครองพิเศษโอเอกูซี",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 3/2014 tanggal 18 Juni tentang Pembentukan Daerah Administratif Khusus Oecusse",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 3/2014 bertarikh 18 Jun mengenai Penubuhan Daerah Pentadbiran Khas Oecusse",
+   "zh": "6月18日第3/2014号法律（设立欧库西-安贝诺特别行政区）第一次修正"
+  },
+  "TL-H177": {
+   "vi": "Luật Sửa đổi lần thứ hai Luật số 13/2005 ngày 2 tháng 9 về Hoạt động dầu khí",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 13/2005 ลงวันที่ 2 กันยายน (ครั้งที่สอง) ว่าด้วยกิจกรรมปิโตรเลียม",
+   "id": "Undang-Undang Perubahan Kedua atas Undang-Undang Nomor 13/2005 tanggal 2 September tentang Kegiatan Perminyakan",
+   "ms": "Akta Pindaan Kedua kepada Akta Nombor 13/2005 bertarikh 2 September mengenai Kegiatan Petroleum",
+   "zh": "9月2日第13/2005号法律（石油活动法）第二次修正"
+  },
+  "TL-H202": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 11/2017 ngày 24 tháng 5 về Nhập cư và tị nạn",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 11/2017 ลงวันที่ 24 พฤษภาคม (ครั้งที่หนึ่ง) ว่าด้วยคนเข้าเมืองและผู้ลี้ภัย",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 11/2017 tanggal 24 Mei tentang Keimigrasian dan Suaka",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 11/2017 bertarikh 24 Mei mengenai Imigresen dan Suaka",
+   "zh": "5月24日第11/2017号法律（移民与庇护法）第一次修正"
+  },
+  "TL-H203": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 3/2010 ngày 21 tháng 4 về Quốc phòng",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 3/2010 ลงวันที่ 21 เมษายน (ครั้งที่หนึ่ง) ว่าด้วยการป้องกันประเทศ",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 3/2010 tanggal 21 April tentang Pertahanan Nasional",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 3/2010 bertarikh 21 April mengenai Pertahanan Nasional",
+   "zh": "4月21日第3/2010号法律（国防法）第一次修正"
+  },
+  "TL-H206": {
+   "vi": "Luật Sửa đổi lần thứ hai Luật số 11/2009 ngày 7 tháng 10 về Phân chia hành chính lãnh thổ",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 11/2009 ลงวันที่ 7 ตุลาคม (ครั้งที่สอง) ว่าด้วยการแบ่งเขตการปกครอง",
+   "id": "Undang-Undang Perubahan Kedua atas Undang-Undang Nomor 11/2009 tanggal 7 Oktober tentang Pembagian Wilayah Administratif",
+   "ms": "Akta Pindaan Kedua kepada Akta Nombor 11/2009 bertarikh 7 Oktober mengenai Pembahagian Wilayah Pentadbiran",
+   "zh": "对第11/2009号法律的第二次修改"
+  },
+  "TL-H207": {
+   "vi": "Luật Sửa đổi lần thứ sáu Luật số 7/2006 ngày 28 tháng 12 về Luật bầu cử Tổng thống Cộng hòa",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 7/2006 ลงวันที่ 28 ธันวาคม (ครั้งที่หก) ว่าด้วยกฎหมายการเลือกตั้งประธานาธิบดี",
+   "id": "Undang-Undang Perubahan Keenam atas Undang-Undang Nomor 7/2006 tanggal 28 Desember tentang Undang-Undang Pemilihan Umum Presiden Republik",
+   "ms": "Akta Pindaan Keenam kepada Akta Nombor 7/2006 bertarikh 28 Disember mengenai Akta Pilihan Raya Presiden Republik",
+   "zh": "对第7/2006号法律的第六次修改"
+  },
+  "TL-H208": {
+   "vi": "Luật Sửa đổi lần thứ ba Luật số 5/2006 ngày 28 tháng 12 về Cơ quan quản lý bầu cử",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 5/2006 ลงวันที่ 28 ธันวาคม (ครั้งที่สาม) ว่าด้วยองค์กรบริหารการเลือกตั้ง",
+   "id": "Undang-Undang Perubahan Ketiga atas Undang-Undang Nomor 5/2006 tanggal 28 Desember tentang Badan Penyelenggara Pemilu",
+   "ms": "Akta Pindaan Ketiga kepada Akta Nombor 5/2006 bertarikh 28 Disember mengenai Badan Pentadbiran Pilihan Raya",
+   "zh": "对第5/2006号法律的第三次修改"
+  },
+  "TL-H211": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 6/2016 ngày 25 tháng 5 về Đăng ký cử tri",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 6/2016 ลงวันที่ 25 พฤษภาคม (ครั้งที่หนึ่ง) ว่าด้วยการลงทะเบียนผู้มีสิทธิเลือกตั้ง",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 6/2016 tanggal 25 Mei tentang Pendaftaran Pemilih",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 6/2016 bertarikh 25 Mei mengenai Pendaftaran Pengundi",
+   "zh": "对第6/2016号法律的第一次修改"
+  },
+  "TL-H228": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 25/2021 ngày 21 tháng 12 về Tổ chức tư pháp",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 25/2021 ลงวันที่ 21 ธันวาคม (ครั้งที่หนึ่ง) ว่าด้วยการจัดองค์กรตุลาการ",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 25/2021 tanggal 21 Desember tentang Organisasi Peradilan",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 25/2021 bertarikh 21 Disember mengenai Organisasi Kehakiman",
+   "zh": "12月21日第25/2021号法律（司法组织法）第一次修正"
+  },
+  "TL-H229": {
+   "vi": "Luật Sửa đổi lần thứ hai Luật số 10/2004 ngày 24 tháng 11 về Hệ thống y tế",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 10/2004 ลงวันที่ 24 พฤศจิกายน (ครั้งที่สอง) ว่าด้วยระบบสุขภาพ",
+   "id": "Undang-Undang Perubahan Kedua atas Undang-Undang Nomor 10/2004 tanggal 24 November tentang Sistem Kesehatan",
+   "ms": "Akta Pindaan Kedua kepada Akta Nombor 10/2004 bertarikh 24 November mengenai Sistem Kesihatan",
+   "zh": "11月24日第10/2004号法律（卫生系统法）第二次修正"
+  },
+  "TL-H234": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 12/2017 ngày 24 tháng 5 về tổ chức và hoạt động của bộ máy hành chính công",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 12/2017 ลงวันที่ 24 พฤษภาคม (ครั้งที่หนึ่ง) ว่าด้วยการจัดองค์กรและการดำเนินงานของฝ่ายปกครองสาธารณะ",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 12/2017 tanggal 24 Mei tentang Organisasi dan Tata Kerja Administrasi Publik",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 12/2017 bertarikh 24 Mei mengenai Organisasi dan Tatacara Pentadbiran Awam",
+   "zh": "对第12/2017号法律的第一次修改"
+  },
+  "TL-H235": {
+   "vi": "Luật Sửa đổi lần thứ hai Luật số 5/2004 ngày 5 tháng 5 về Quy chế nghị sĩ",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 5/2004 ลงวันที่ 5 พฤษภาคม (ครั้งที่สอง) ว่าด้วยข้อกำหนดสมาชิกรัฐสภา",
+   "id": "Undang-Undang Perubahan Kedua atas Undang-Undang Nomor 5/2004 tanggal 5 Mei tentang Statuta Anggota Parlemen",
+   "ms": "Akta Pindaan Kedua kepada Akta Nombor 5/2004 bertarikh 5 Mei mengenai Statuta Anggota Parlimen",
+   "zh": "5月5日第5/2004号法律（议员章程）第二次修正"
+  },
+  "TL-H238": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 7/2022 ngày 19 tháng 5 về Quy chế Bộ Công tố",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 7/2022 ลงวันที่ 19 พฤษภาคม (ครั้งที่หนึ่ง) ว่าด้วยข้อกำหนดองค์กรอัยการ",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 7/2022 tanggal 19 Mei tentang Statuta Kejaksaan",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 7/2022 bertarikh 19 Mei mengenai Statuta Perkhidmatan Pendakwaan Awam",
+   "zh": "5月19日第7/2022号法律（检察院章程）第一次修正"
+  },
+  "TL-H243": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 4/2019 ngày 27 tháng 8 về thuế đối với các nhà thầu Bayu-Undan",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 4/2019 ลงวันที่ 27 สิงหาคม (ครั้งที่หนึ่ง) ว่าด้วยการจัดเก็บภาษีจากผู้รับจ้าง Bayu-Undan",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 4/2019 tanggal 27 Agustus tentang Perpajakan Kontraktor Bayu-Undan",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 4/2019 bertarikh 27 Ogos mengenai Percukaian Kontraktor Bayu-Undan",
+   "zh": "8月27日第4/2019号法律（核准 Bayu-Undan 项目特别劳动与移民制度）第一次修正"
+  },
+  "TL-H244": {
+   "vi": "Luật Sửa đổi lần thứ hai Luật số 3/2003 ngày 1 tháng 7 về thuế đối với các nhà thầu Bayu-Undan",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 3/2003 ลงวันที่ 1 กรกฎาคม (ครั้งที่สอง) ว่าด้วยการจัดเก็บภาษีจากผู้รับจ้าง Bayu-Undan",
+   "id": "Undang-Undang Perubahan Kedua atas Undang-Undang Nomor 3/2003 tanggal 1 Juli tentang Perpajakan Kontraktor Bayu-Undan",
+   "ms": "Akta Pindaan Kedua kepada Akta Nombor 3/2003 bertarikh 1 Julai mengenai Percukaian Kontraktor Bayu-Undan",
+   "zh": "对第3/2003号法律的第二次修改（Bayu-Undan 合同承包商征税）"
+  },
+  "TL-H245": {
+   "vi": "Luật Sửa đổi lần thứ ba Luật số 11/2009 ngày 7 tháng 10 về Phân chia hành chính lãnh thổ",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 11/2009 ลงวันที่ 7 ตุลาคม (ครั้งที่สาม) ว่าด้วยการแบ่งเขตการปกครอง",
+   "id": "Undang-Undang Perubahan Ketiga atas Undang-Undang Nomor 11/2009 tanggal 7 Oktober tentang Pembagian Wilayah Administratif",
+   "ms": "Akta Pindaan Ketiga kepada Akta Nombor 11/2009 bertarikh 7 Oktober mengenai Pembahagian Wilayah Pentadbiran",
+   "zh": "对第11/2009号法律的第三次修改"
+  },
+  "TL-H249": {
+   "vi": "Luật Sửa đổi lần thứ ba Luật số 3/2014 ngày 18 tháng 6 về việc thành lập Vùng hành chính đặc biệt Oecusse",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 3/2014 ลงวันที่ 18 มิถุนายน (ครั้งที่สาม) ว่าด้วยการจัดตั้งเขตปกครองพิเศษโอเอกูซี",
+   "id": "Undang-Undang Perubahan Ketiga atas Undang-Undang Nomor 3/2014 tanggal 18 Juni tentang Pembentukan Daerah Administratif Khusus Oecusse",
+   "ms": "Akta Pindaan Ketiga kepada Akta Nombor 3/2014 bertarikh 18 Jun mengenai Penubuhan Daerah Pentadbiran Khas Oecusse",
+   "zh": "6月18日第3/2014号法律（设立欧库西-安贝鲁特别行政区）第三次修正"
+  },
+  "TL-H250": {
+   "vi": "Luật Sửa đổi lần thứ tư Luật số 11/2009 ngày 7 tháng 10 về Phân chia hành chính lãnh thổ",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 11/2009 ลงวันที่ 7 ตุลาคม (ครั้งที่สี่) ว่าด้วยการแบ่งเขตการปกครอง",
+   "id": "Undang-Undang Perubahan Keempat atas Undang-Undang Nomor 11/2009 tanggal 7 Oktober tentang Pembagian Wilayah Administratif",
+   "ms": "Akta Pindaan Keempat kepada Akta Nombor 11/2009 bertarikh 7 Oktober mengenai Pembahagian Wilayah Pentadbiran",
+   "zh": "对第11/2009号法律的第四次修改"
+  },
+  "TL-H253": {
+   "vi": "Luật Sửa đổi lần thứ ba Luật số 5/2004 ngày 5 tháng 5 về Quy chế nghị sĩ",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 5/2004 ลงวันที่ 5 พฤษภาคม (ครั้งที่สาม) ว่าด้วยข้อกำหนดสมาชิกรัฐสภา",
+   "id": "Undang-Undang Perubahan Ketiga atas Undang-Undang Nomor 5/2004 tanggal 5 Mei tentang Statuta Anggota Parlemen",
+   "ms": "Akta Pindaan Ketiga kepada Akta Nombor 5/2004 bertarikh 5 Mei mengenai Statuta Anggota Parlimen",
+   "zh": "5月5日第5/2004号法律（议员章程）第三次修正"
+  },
+  "TL-H254": {
+   "vi": "Luật Sửa đổi lần thứ hai Luật số 8/2009 ngày 15 tháng 7 về Ủy ban Chống tham nhũng",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 8/2009 ลงวันที่ 15 กรกฎาคม (ครั้งที่สอง) ว่าด้วยคณะกรรมการต่อต้านการทุจริต",
+   "id": "Undang-Undang Perubahan Kedua atas Undang-Undang Nomor 8/2009 tanggal 15 Juli tentang Komisi Pemberantasan Korupsi",
+   "ms": "Akta Pindaan Kedua kepada Akta Nombor 8/2009 bertarikh 15 Julai mengenai Suruhanjaya Pencegahan Rasuah",
+   "zh": "7月15日第8/2009号法律（反腐败委员会法）第二次修正"
+  },
+  "TL-H256": {
+   "vi": "Luật Sửa đổi lần thứ ba Luật số 3/2006 ngày 12 tháng 4 về Quy chế chiến sĩ giải phóng dân tộc",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 3/2006 ลงวันที่ 12 เมษายน (ครั้งที่สาม) ว่าด้วยข้อกำหนดทหารผ่านศึกปลดปล่อยชาติ",
+   "id": "Undang-Undang Perubahan Ketiga atas Undang-Undang Nomor 3/2006 tanggal 12 April tentang Statuta Pejuang Pembebasan Nasional",
+   "ms": "Akta Pindaan Ketiga kepada Akta Nombor 3/2006 bertarikh 12 April mengenai Statuta Pejuang Pembebasan Nasional",
+   "zh": "4月12日第3/2006号法律（民族解放战士章程）第三次修正"
+  },
+  "TL-H263": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 1/2017 ngày 18 tháng 1 về chế độ chuyển tiếp tuyển dụng thẩm phán và người bào chữa công",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 1/2017 ลงวันที่ 18 มกราคม (ครั้งที่หนึ่ง) ว่าด้วยข้อกำหนดระยะเปลี่ยนผ่านการสรรหาผู้พิพากษาและทนายจำเลยสาธารณะ",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 1/2017 tanggal 18 Januari tentang Rezim Transisi Perekrutan Hakim dan Penasihat Hukum Publik",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 1/2017 bertarikh 18 Januari mengenai Rejim Peralihan Pengambilan Hakim dan Peguam Bela Awam",
+   "zh": "1月18日第1/2017号法律（法官与公设辩护人过渡招聘制度）第一次修正"
+  },
+  "TL-H266": {
+   "vi": "Luật Sửa đổi lần thứ hai Luật số 7/2022 ngày 19 tháng 5 về Quy chế Bộ Công tố",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 7/2022 ลงวันที่ 19 พฤษภาคม (ครั้งที่สอง) ว่าด้วยข้อกำหนดองค์กรอัยการ",
+   "id": "Undang-Undang Perubahan Kedua atas Undang-Undang Nomor 7/2022 tanggal 19 Mei tentang Statuta Kejaksaan",
+   "ms": "Akta Pindaan Kedua kepada Akta Nombor 7/2022 bertarikh 19 Mei mengenai Statuta Perkhidmatan Pendakwaan Awam",
+   "zh": "5月19日第7/2022号法律（检察院章程）第二次修正"
+  },
+  "TL-H273": {
+   "vi": "Luật Sửa đổi lần thứ hai Luật số 3/2004 ngày 14 tháng 4 về Đảng chính trị",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 3/2004 ลงวันที่ 14 เมษายน (ครั้งที่สอง) ว่าด้วยพรรคการเมือง",
+   "id": "Undang-Undang Perubahan Kedua atas Undang-Undang Nomor 3/2004 tanggal 14 April tentang Partai Politik",
+   "ms": "Akta Pindaan Kedua kepada Akta Nombor 3/2004 bertarikh 14 April mengenai Parti Politik",
+   "zh": "对第3/2004号法律的第二次修改（政党）"
+  },
+  "TL-H151": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 1/2016 ngày 14 tháng 1 về Ngân sách nhà nước năm 2016",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 1/2016 ลงวันที่ 14 มกราคม (ครั้งที่หนึ่ง) ว่าด้วยงบประมาณแผ่นดิน ค.ศ. 2016",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 1/2016 tanggal 14 Januari tentang Anggaran Pendapatan dan Belanja Negara Tahun 2016",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 1/2016 bertarikh 14 Januari mengenai Belanjawan Negara 2016",
+   "zh": "1月14日第1/2016号法律（核准2016年国家总预算）第一次修正"
+  },
+  "TL-H222": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 1/2022 ngày 3 tháng 1 về Ngân sách nhà nước năm 2022, và thành lập Quỹ",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 1/2022 ลงวันที่ 3 มกราคม (ครั้งที่หนึ่ง) ว่าด้วยงบประมาณแผ่นดิน ค.ศ. 2022 และการจัดตั้งกองทุน",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 1/2022 tanggal 3 Januari tentang Anggaran Pendapatan dan Belanja Negara Tahun 2022, dan Pembentukan Dana",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 1/2022 bertarikh 3 Januari mengenai Belanjawan Negara 2022, dan Penubuhan Dana",
+   "zh": "1月3日第1/2022号法律（2022年国家总预算）第一次修正，并设立基金"
+  },
+  "TL-H160": {
+   "vi": "Phê chuẩn Luật về lương hưu nghị sĩ và tiến hành sửa đổi lần thứ nhất Luật số 5/2004 ngày 5 tháng 5",
+   "th": "พระราชบัญญัติรับรองกฎหมายว่าด้วยเงินบำนาญสมาชิกรัฐสภา และแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 5/2004 ลงวันที่ 5 พฤษภาคม ครั้งที่หนึ่ง",
+   "id": "Undang-Undang Pengesahan Undang-Undang Pensiun Anggota Parlemen dan Perubahan Pertama atas Undang-Undang Nomor 5/2004 tanggal 5 Mei",
+   "ms": "Akta Pengesahan Undang-Undang Pencen Anggota Parlimen dan Pindaan Pertama kepada Akta Nombor 5/2004 bertarikh 5 Mei",
+   "zh": "核准议员退休金法并对5月5日第5/2004号法律作第一次修正"
+  },
+  "TL-H216": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 10/2004 ngày 24 tháng 11 về Hệ thống y tế và phê chuẩn các biện pháp đặc biệt, tạm thời về giám sát y tế ứng phó đại dịch COVID-19",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 10/2004 ลงวันที่ 24 พฤศจิกายน ว่าด้วยระบบสุขภาพ ครั้งที่หนึ่ง และรับรองมาตรการพิเศษชั่วคราวด้านการเฝ้าระวังทางสาธารณสุขเพื่อรับมือการระบาดของโรคโควิด-19",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 10/2004 tanggal 24 November tentang Sistem Kesehatan dan Pengesahan Tindakan Luar Biasa serta Sementara di Bidang Pengawasan Kesehatan untuk Menanggapi Pandemi COVID-19",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 10/2004 bertarikh 24 November mengenai Sistem Kesihatan dan Pengesahan Langkah Luar Biasa serta Sementara dalam Pengawasan Kesihatan bagi Menangani Pandemik COVID-19",
+   "zh": "11月24日第10/2004号法律（卫生系统法）第一次修正，并核准应对 COVID-19 疫情的特别临时卫生监督措施"
+  },
+  "TL-H236": {
+   "vi": "Luật Sửa đổi lần thứ nhất Quy chế viên chức nghị viện được phê chuẩn tại Phụ lục của Luật số 10/2016 ngày 8 tháng 12",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมข้อกำหนดเจ้าหน้าที่รัฐสภาซึ่งรับรองในภาคผนวกของพระราชบัญญัติฉบับที่ 10/2016 ลงวันที่ 8 ธันวาคม ครั้งที่หนึ่ง",
+   "id": "Undang-Undang Perubahan Pertama atas Statuta Pejabat Parlemen yang disahkan dalam Lampiran Undang-Undang Nomor 10/2016 tanggal 8 Desember",
+   "ms": "Akta Pindaan Pertama kepada Statuta Pegawai Parlimen yang disahkan dalam Lampiran Akta Nombor 10/2016 bertarikh 8 Disember",
+   "zh": "对第10/2016号法律附件所核准议会职员章程的第一次修改"
+  },
+  "TL-H277": {
+   "vi": "Luật Sửa đổi lần thứ tư Luật số 5/2006 ngày 28 tháng 12 về Cơ quan quản lý bầu cử và sửa đổi lần thứ năm",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 5/2006 ลงวันที่ 28 ธันวาคม ว่าด้วยองค์กรบริหารการเลือกตั้ง ครั้งที่สี่ และการแก้ไขเพิ่มเติมครั้งที่ห้า",
+   "id": "Undang-Undang Perubahan Keempat atas Undang-Undang Nomor 5/2006 tanggal 28 Desember tentang Badan Penyelenggara Pemilu dan Perubahan Kelima",
+   "ms": "Akta Pindaan Keempat kepada Akta Nombor 5/2006 bertarikh 28 Disember mengenai Badan Pentadbiran Pilihan Raya dan Pindaan Kelima",
+   "zh": "第5/2006号法律（选举管理机构）第四次修正及第五次修正"
+  },
+  "TL-H198": {
+   "vi": "Phê chuẩn chế độ pháp lý về trọng tài tự nguyện và tiến hành sửa đổi lần thứ nhất Bộ luật Tố tụng dân sự",
+   "th": "พระราชบัญญัติรับรองข้อกำหนดทางกฎหมายว่าด้วยอนุญาโตตุลาการโดยสมัครใจ และแก้ไขเพิ่มเติมประมวลกฎหมายวิธีพิจารณาความแพ่ง ครั้งที่หนึ่ง",
+   "id": "Undang-Undang Pengesahan Rezim Hukum Arbitrase Sukarela dan Perubahan Pertama atas Kitab Undang-Undang Hukum Acara Perdata",
+   "ms": "Akta Pengesahan Rejim Undang-Undang Timbang Tara Sukarela dan Pindaan Pertama kepada Kanun Tatacara Sivil",
+   "zh": "核准自愿仲裁法律制度并对民事诉讼法典作第一次修正"
+  },
+  "TL-H259": {
+   "vi": "Phê chuẩn Luật cơ sở về giáo dục đại học và tiến hành sửa đổi lần thứ nhất Luật số 14/2008 ngày 29 tháng 10",
+   "th": "พระราชบัญญัติรับรองกฎหมายแม่บทว่าด้วยการอุดมศึกษา และแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 14/2008 ลงวันที่ 29 ตุลาคม ครั้งที่หนึ่ง",
+   "id": "Undang-Undang Pengesahan Undang-Undang Dasar Pendidikan Tinggi dan Perubahan Pertama atas Undang-Undang Nomor 14/2008 tanggal 29 Oktober",
+   "ms": "Akta Pengesahan Undang-Undang Asas Pendidikan Tinggi dan Pindaan Pertama kepada Akta Nombor 14/2008 bertarikh 29 Oktober",
+   "zh": "核准高等教育基本法并对10月29日第14/2008号法律作第一次修正"
+  },
+  "TL-H275": {
+   "vi": "Quy định thủ tục nuôi con nuôi và tiến hành sửa đổi lần thứ nhất Bộ luật Dân sự được phê chuẩn bởi Luật số 10/2011",
+   "th": "ข้อกำหนดขั้นตอนการรับบุตรบุญธรรม และแก้ไขเพิ่มเติมประมวลกฎหมายแพ่งซึ่งรับรองโดยพระราชบัญญัติฉบับที่ 10/2011 ครั้งที่หนึ่ง",
+   "id": "Pengaturan Proses Pengangkatan Anak dan Perubahan Pertama atas Kitab Undang-Undang Hukum Perdata yang disahkan oleh Undang-Undang Nomor 10/2011",
+   "ms": "Peraturan Proses Pengambilan Anak Angkat dan Pindaan Pertama kepada Kanun Undang-Undang Sivil yang disahkan oleh Akta Nombor 10/2011",
+   "zh": "规范收养程序并对第10/2011号法律核准的民法典作第一次修正"
+  },
+  "TL-H176": {
+   "vi": "Luật Sửa đổi lần thứ nhất Luật số 8/2008 ngày 30 tháng 6 về việc phê chuẩn Luật Thuế và các sửa đổi liên quan",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 8/2008 ลงวันที่ 30 มิถุนายน ว่าด้วยการรับรองพระราชบัญญัติภาษีอากรและการแก้ไขเพิ่มเติมที่เกี่ยวข้อง ครั้งที่หนึ่ง",
+   "id": "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 8/2008 tanggal 30 Juni tentang Pengesahan Undang-Undang Perpajakan dan Perubahan Terkait",
+   "ms": "Akta Pindaan Pertama kepada Akta Nombor 8/2008 bertarikh 30 Jun mengenai Pengesahan Akta Percukaian dan Pindaan Berkaitan",
+   "zh": "6月30日第8/2008号法律（核准税法及相关修正）第一次修正"
+  },
+  "TL-H219": {
+   "vi": "Luật Gia hạn các biện pháp giám sát y tế đặc biệt và tạm thời ứng phó đại dịch COVID-19",
+   "th": "พระราชบัญญัติขยายมาตรการเฝ้าระวังทางสาธารณสุขเป็นกรณีพิเศษและชั่วคราวเพื่อตอบสนองต่อการระบาดของโรคโควิด-19",
+   "id": "Undang-Undang Perpanjangan Tindakan Pengawasan Kesehatan Luar Biasa dan Sementara dalam Rangka Penanggulangan Pandemi COVID-19",
+   "ms": "Akta Pelanjutan Langkah Pengawasan Kesihatan Luar Biasa dan Sementara bagi Menangani Pandemik COVID-19",
+   "zh": "续延应对 COVID-19 疫情的特别临时卫生监督措施"
+  },
+  "TL-H227": {
+   "vi": "Luật Gia hạn lần thứ ba các biện pháp giám sát y tế đặc biệt và tạm thời ứng phó đại dịch COVID-19",
+   "th": "พระราชบัญญัติขยายมาตรการเฝ้าระวังทางสาธารณสุขเป็นกรณีพิเศษและชั่วคราวเพื่อตอบสนองต่อการระบาดของโรคโควิด-19 (ครั้งที่สาม)",
+   "id": "Undang-Undang Perpanjangan Ketiga atas Tindakan Pengawasan Kesehatan Luar Biasa dan Sementara dalam Rangka Penanggulangan Pandemi COVID-19",
+   "ms": "Akta Pelanjutan Ketiga Langkah Pengawasan Kesihatan Luar Biasa dan Sementara bagi Menangani Pandemik COVID-19",
+   "zh": "应对 COVID-19 疫情的特别临时卫生监督措施第三次续延"
+  },
+  "TL-H179": {
+   "vi": "Ủy quyền thực hiện chuyển khoản đặc biệt từ Quỹ Dầu khí",
+   "th": "การมอบอำนาจให้ดำเนินการโอนเงินเป็นกรณีพิเศษจากกองทุนปิโตรเลียม",
+   "id": "Pemberian Wewenang untuk Melakukan Transfer Khusus dari Dana Perminyakan",
+   "ms": "Pemberian Kuasa untuk Melakukan Pemindahan Khas daripada Dana Petroleum",
+   "zh": "授权自石油基金进行特别划转"
+  },
+  "TL-H182": {
+   "vi": "Ủy quyền thực hiện chuyển khoản đặc biệt lần thứ hai từ Quỹ Dầu khí trong năm tài chính",
+   "th": "การมอบอำนาจให้ดำเนินการโอนเงินเป็นกรณีพิเศษครั้งที่สองจากกองทุนปิโตรเลียมในปีงบประมาณ",
+   "id": "Pemberian Wewenang untuk Melakukan Transfer Khusus Kedua dari Dana Perminyakan pada Tahun Anggaran",
+   "ms": "Pemberian Kuasa untuk Melakukan Pemindahan Khas Kedua daripada Dana Petroleum dalam Tahun Fiskal",
+   "zh": "授权本财政年度内自石油基金进行第二次特别划转"
+  },
+  "TL-H195": {
+   "vi": "Ủy quyền cho Chính phủ sửa đổi Bộ luật Tố tụng dân sự",
+   "th": "การมอบอำนาจให้รัฐบาลแก้ไขเพิ่มเติมประมวลกฎหมายวิธีพิจารณาความแพ่ง",
+   "id": "Pemberian Wewenang kepada Pemerintah untuk Mengubah Kitab Undang-Undang Hukum Acara Perdata",
+   "ms": "Pemberian Kuasa kepada Kerajaan untuk Meminda Kanun Tatacara Sivil",
+   "zh": "授权政府修改民事诉讼法典"
+  },
+  "TL-H196": {
+   "vi": "Ủy quyền cho Chính phủ lập pháp về cơ sở tổ chức của nền hành chính công",
+   "th": "การมอบอำนาจให้รัฐบาลออกกฎหมายว่าด้วยพื้นฐานการจัดองค์กรของฝ่ายปกครองสาธารณะ",
+   "id": "Pemberian Wewenang kepada Pemerintah untuk Membentuk Peraturan tentang Dasar Organisasi Administrasi Publik",
+   "ms": "Pemberian Kuasa kepada Kerajaan untuk Menggubal Undang-Undang mengenai Asas Organisasi Pentadbiran Awam",
+   "zh": "授权政府就公共行政组织基础立法"
+  },
+  "TL-H232": {
+   "vi": "Ủy quyền lập pháp về phá sản và phục hồi doanh nghiệp",
+   "th": "การมอบอำนาจนิติบัญญัติในเรื่องการล้มละลายและการฟื้นฟูกิจการ",
+   "id": "Pemberian Kuasa Legislatif dalam Hal Kepailitan dan Pemulihan Perusahaan",
+   "ms": "Pemberian Kuasa Perundangan dalam Perkara Insolvensi dan Pemulihan Syarikat",
+   "zh": "破产与公司重整事项立法授权"
+  },
+  "TL-H233": {
+   "vi": "Ủy quyền lập pháp về việc ấn định giới hạn tuổi trong quan hệ lao động của công chức và viên chức hành chính công",
+   "th": "การมอบอำนาจนิติบัญญัติในเรื่องการกำหนดเกณฑ์อายุสำหรับความสัมพันธ์การจ้างงานของข้าราชการและเจ้าหน้าที่ฝ่ายปกครองสาธารณะ",
+   "id": "Pemberian Kuasa Legislatif dalam Hal Penetapan Batas Usia Hubungan Kerja Pegawai Negeri dan Pejabat Administrasi Publik",
+   "ms": "Pemberian Kuasa Perundangan dalam Perkara Penetapan Had Umur Hubungan Pekerjaan Pegawai Awam dan Pegawai Pentadbiran Awam",
+   "zh": "设定公务员及公共行政人员劳动关系年龄上限事项立法授权"
+  },
+  "TL-H260": {
+   "vi": "Ủy quyền lập pháp cho Chính phủ về việc ấn định giới hạn tuổi trong quan hệ lao động của công chức",
+   "th": "การมอบอำนาจนิติบัญญัติให้รัฐบาลในเรื่องการกำหนดเกณฑ์อายุสำหรับความสัมพันธ์การจ้างงานของข้าราชการ",
+   "id": "Pemberian Kuasa Legislatif kepada Pemerintah dalam Hal Penetapan Batas Usia Hubungan Kerja Pegawai Negeri",
+   "ms": "Pemberian Kuasa Perundangan kepada Kerajaan dalam Perkara Penetapan Had Umur Hubungan Pekerjaan Pegawai Awam",
+   "zh": "就设定公务员劳动关系年龄上限向政府作立法授权"
+  },
+  "TL-H148": {
+   "vi": "Luật Bảo vệ người tiêu dùng",
+   "th": "พระราชบัญญัติคุ้มครองผู้บริโภค",
+   "id": "Undang-Undang Perlindungan Konsumen",
+   "ms": "Akta Perlindungan Pengguna",
+   "zh": "消费者保护法"
+  },
+  "TL-H149": {
+   "vi": "Luật về Sucos (làng)",
+   "th": "พระราชบัญญัติว่าด้วย Sucos (หมู่บ้าน)",
+   "id": "Undang-Undang tentang Sucos (Desa)",
+   "ms": "Akta mengenai Sucos (Kampung)",
+   "zh": "Sucos（村）法"
+  },
+  "TL-H150": {
+   "vi": "Phê chuẩn Quy chế viên chức nghị viện",
+   "th": "การรับรองข้อกำหนดเจ้าหน้าที่รัฐสภา",
+   "id": "Pengesahan Statuta Pejabat Parlemen",
+   "ms": "Pengesahan Statuta Pegawai Parlimen",
+   "zh": "核准议会职员章程"
+  },
+  "TL-H154": {
+   "vi": "Chế độ chuyển tiếp tuyển dụng thẩm phán và người bào chữa công không phải người Timor và sửa đổi lần thứ hai luật liên quan",
+   "th": "ข้อกำหนดระยะเปลี่ยนผ่านการสรรหาผู้พิพากษาและทนายจำเลยสาธารณะที่ไม่ใช่ชาวติมอร์ และการแก้ไขเพิ่มเติมกฎหมายที่เกี่ยวข้องครั้งที่สอง",
+   "id": "Rezim Transisi Perekrutan Hakim dan Penasihat Hukum Publik Non-Timor serta Perubahan Kedua atas Undang-Undang Terkait",
+   "ms": "Rejim Peralihan Pengambilan Hakim dan Peguam Bela Awam Bukan Timorese serta Pindaan Kedua kepada Undang-Undang Berkaitan",
+   "zh": "非东帝汶籍法官与公设辩护人过渡招聘制度及相关法律第二次修正"
+  },
+  "TL-H155": {
+   "vi": "Luật về phòng, chống buôn bán trái phép ma túy",
+   "th": "พระราชบัญญัติว่าด้วยการปราบปรามการค้ายาเสพติดที่ผิดกฎหมาย",
+   "id": "Undang-Undang tentang Pemberantasan Peredaran Narkotika Ilegal",
+   "ms": "Akta mengenai Pembanterasan Pengedaran Dadah Haram",
+   "zh": "打击非法贩运毒品法"
+  },
+  "TL-H156": {
+   "vi": "Luật về phòng ngừa và đấu tranh chống buôn người và sửa đổi lần thứ tư Bộ luật Hình sự",
+   "th": "พระราชบัญญัติว่าด้วยการป้องกันและต่อสู้การค้ามนุษย์ และการแก้ไขเพิ่มเติมประมวลกฎหมายอาญาครั้งที่สี่",
+   "id": "Undang-Undang tentang Pencegahan dan Pemberantasan Perdagangan Orang serta Perubahan Keempat atas Kitab Undang-Undang Hukum Pidana",
+   "ms": "Akta mengenai Pencegahan dan Pembanterasan Pemerdagangan Orang serta Pindaan Keempat kepada Kanun Keseksaan",
+   "zh": "预防和打击贩运人口法及刑法典第四次修正"
+  },
+  "TL-H157": {
+   "vi": "Luật bầu cử Tổng thống Cộng hòa",
+   "th": "กฎหมายการเลือกตั้งประธานาธิบดี",
+   "id": "Undang-Undang Pemilihan Umum Presiden Republik",
+   "ms": "Akta Pilihan Raya Presiden Republik",
+   "zh": "共和国总统选举法"
+  },
+  "TL-H158": {
+   "vi": "Chế độ pháp lý về thực hành võ thuật, nghi lễ, vũ khí có lưỡi và Rama Ambon, và sửa đổi lần thứ năm",
+   "th": "ข้อกำหนดทางกฎหมายว่าด้วยการฝึกศิลปะการต่อสู้ พิธีกรรม อาวุธมีคม และ Rama Ambon และการแก้ไขเพิ่มเติมครั้งที่ห้า",
+   "id": "Rezim Hukum Praktik Seni Bela Diri, Ritual, Senjata Bermata dan Rama Ambon, serta Perubahan Kelima",
+   "ms": "Rejim Undang-Undang Amalan Seni Mempertahankan Diri, Ritual, Senjata Bermata dan Rama Ambon, serta Pindaan Kelima",
+   "zh": "武术、仪式、刃器与 Rama Ambon 活动法律制度及第五次修正"
+  },
+  "TL-H159": {
+   "vi": "Luật số 6/2017 về cơ sở quy hoạch lãnh thổ",
+   "th": "พระราชบัญญัติฉบับที่ 6/2017 ว่าด้วยหลักการผังพื้นที่",
+   "id": "Undang-Undang Nomor 6/2017 tentang Dasar Penataan Ruang Wilayah",
+   "ms": "Akta Nombor 6/2017 mengenai Asas Perancangan Wilayah",
+   "zh": "国土规划基准法（第6/2017号法律）"
+  },
+  "TL-H161": {
+   "vi": "Luật số 8/2017 về trưng thu vì lợi ích công cộng",
+   "th": "พระราชบัญญัติฉบับที่ 8/2017 ว่าด้วยการเวนคืนเพื่อประโยชน์สาธารณะ",
+   "id": "Undang-Undang Nomor 8/2017 tentang Pengambilalihan untuk Kepentingan Umum",
+   "ms": "Akta Nombor 8/2017 mengenai Pengambilan Tanah bagi Kepentingan Awam",
+   "zh": "公用征收法（第8/2017号法律）"
+  },
+  "TL-H163": {
+   "vi": "Luật số 10/2017 về công ty thương mại (xem Phụ lục)",
+   "th": "พระราชบัญญัติฉบับที่ 10/2017 ว่าด้วยบริษัทพาณิชย์ (ดูภาคผนวก)",
+   "id": "Undang-Undang Nomor 10/2017 tentang Perseroan Komersial (Lihat Lampiran)",
+   "ms": "Akta Nombor 10/2017 mengenai Syarikat Perdagangan (Lihat Lampiran)",
+   "zh": "新商业公司法（第10/2017号法律，见附刊）"
+  },
+  "TL-H164": {
+   "vi": "Luật Nhập cư và Tị nạn",
+   "th": "พระราชบัญญัติคนเข้าเมืองและผู้ลี้ภัย",
+   "id": "Undang-Undang Keimigrasian dan Suaka",
+   "ms": "Akta Imigresen dan Suaka",
+   "zh": "移民与庇护法"
+  },
+  "TL-H165": {
+   "vi": "Luật về tổ chức và hoạt động của bộ máy hành chính nghị viện",
+   "th": "พระราชบัญญัติว่าด้วยการจัดองค์กรและการดำเนินงานของฝ่ายธุรการรัฐสภา",
+   "id": "Undang-Undang tentang Organisasi dan Tata Kerja Administrasi Parlemen",
+   "ms": "Akta mengenai Organisasi dan Tatacara Pentadbiran Parlimen",
+   "zh": "议会行政组织与运作法"
+  },
+  "TL-H166": {
+   "vi": "Luật số 13/2017 về chế độ đặc biệt xác định quyền sở hữu bất động sản",
+   "th": "พระราชบัญญัติฉบับที่ 13/2017 ว่าด้วยข้อกำหนดพิเศษในการกำหนดสิทธิในอสังหาริมทรัพย์",
+   "id": "Undang-Undang Nomor 13/2017 tentang Rezim Khusus Penetapan Hak atas Properti Tak Bergerak",
+   "ms": "Akta Nombor 13/2017 mengenai Rejim Khas Penetapan Hak atas Harta Tak Alih",
+   "zh": "不动产所有权界定特别制度（第13/2017号法律）"
+  },
+  "TL-H167": {
+   "vi": "Luật số 14/2017 về chế độ chung về rừng",
+   "th": "พระราชบัญญัติฉบับที่ 14/2017 ว่าด้วยข้อกำหนดทั่วไปเกี่ยวกับป่าไม้",
+   "id": "Undang-Undang Nomor 14/2017 tentang Rezim Umum Kehutanan",
+   "ms": "Akta Nombor 14/2017 mengenai Rejim Am Perhutanan",
+   "zh": "森林总制度（第14/2017号法律）"
+  },
+  "TL-H175": {
+   "vi": "Chế độ lao động và di trú đặc biệt áp dụng cho Dự án Bayu-Undan",
+   "th": "ข้อกำหนดแรงงานและคนเข้าเมืองพิเศษที่ใช้กับโครงการ Bayu-Undan",
+   "id": "Rezim Ketenagakerjaan dan Keimigrasian Khusus yang Berlaku bagi Proyek Bayu-Undan",
+   "ms": "Rejim Buruh dan Imigresen Khas yang Terpakai bagi Projek Bayu-Undan",
+   "zh": "适用于 Bayu-Undan 项目的特别劳动与移民制度"
+  },
+  "TL-H184": {
+   "vi": "Các biện pháp phòng ngừa và chống tham nhũng",
+   "th": "มาตรการป้องกันและปราบปรามการทุจริต",
+   "id": "Tindakan Pencegahan dan Pemberantasan Korupsi",
+   "ms": "Langkah Pencegahan dan Pembanterasan Rasuah",
+   "zh": "预防和打击腐败措施"
+  },
+  "TL-H189": {
+   "vi": "Luật Bảo vệ dân sự",
+   "th": "พระราชบัญญัติการป้องกันพลเรือน",
+   "id": "Undang-Undang Perlindungan Sipil",
+   "ms": "Akta Perlindungan Awam",
+   "zh": "民事保护法"
+  },
+  "TL-H204": {
+   "vi": "Luật số 12/2021 về Bộ luật Khoáng sản",
+   "th": "พระราชบัญญัติฉบับที่ 12/2021 ว่าด้วยประมวลกฎหมายแร่",
+   "id": "Undang-Undang Nomor 12/2021 tentang Kitab Undang-Undang Pertambangan",
+   "ms": "Akta Nombor 12/2021 mengenai Kanun Perlombongan",
+   "zh": "矿业法典（第12/2021号法律）"
+  },
+  "TL-H214": {
+   "vi": "Luật bầu cử cấp đô thị",
+   "th": "กฎหมายการเลือกตั้งระดับเทศบาล",
+   "id": "Undang-Undang Pemilihan Umum Kotamadya",
+   "ms": "Akta Pilihan Raya Perbandaran",
+   "zh": "市政选举法"
+  },
+  "TL-H215": {
+   "vi": "Luật Chính quyền địa phương và phân cấp hành chính",
+   "th": "พระราชบัญญัติการปกครองท้องถิ่นและการกระจายอำนาจทางปกครอง",
+   "id": "Undang-Undang Pemerintahan Daerah dan Desentralisasi Administratif",
+   "ms": "Akta Kerajaan Tempatan dan Penurunan Kuasa Pentadbiran",
+   "zh": "地方政府与行政分权法"
+  },
+  "TL-H217": {
+   "vi": "Luật Tổ chức tư pháp",
+   "th": "พระราชบัญญัติการจัดองค์กรตุลาการ",
+   "id": "Undang-Undang Organisasi Peradilan",
+   "ms": "Akta Organisasi Kehakiman",
+   "zh": "司法组织法"
+  },
+  "TL-H220": {
+   "vi": "Chế độ pháp lý về các hiệp hội nghề nghiệp công",
+   "th": "ข้อกำหนดทางกฎหมายว่าด้วยสมาคมวิชาชีพสาธารณะ",
+   "id": "Rezim Hukum Asosiasi Profesi Publik",
+   "ms": "Rejim Undang-Undang Persatuan Profesional Awam",
+   "zh": "公共职业协会法律制度"
+  },
+  "TL-H221": {
+   "vi": "Quy chế thẩm phán",
+   "th": "ข้อกำหนดผู้พิพากษา",
+   "id": "Statuta Hakim",
+   "ms": "Statuta Hakim",
+   "zh": "法官章程"
+  },
+  "TL-H223": {
+   "vi": "Quy chế Bộ Công tố",
+   "th": "ข้อกำหนดองค์กรอัยการ",
+   "id": "Statuta Kejaksaan",
+   "ms": "Statuta Perkhidmatan Pendakwaan Awam",
+   "zh": "检察院章程"
+  },
+  "TL-H224": {
+   "vi": "Luật số 8/2022 về các lựa chọn chủ yếu của kế hoạch năm 2023",
+   "th": "พระราชบัญญัติฉบับที่ 8/2022 ว่าด้วยทางเลือกหลักของแผนงาน ค.ศ. 2023",
+   "id": "Undang-Undang Nomor 8/2022 tentang Opsi Pokok Rencana Tahun 2023",
+   "ms": "Akta Nombor 8/2022 mengenai Pilihan Utama Rancangan 2023",
+   "zh": "2023年计划大纲（第8/2022号法律）"
+  },
+  "TL-H230": {
+   "vi": "Bộ luật Quyền tác giả và các quyền liên quan",
+   "th": "ประมวลกฎหมายลิขสิทธิ์และสิทธิข้างเคียง",
+   "id": "Kitab Undang-Undang Hak Cipta dan Hak Terkait",
+   "ms": "Kanun Hak Cipta dan Hak Berkaitan",
+   "zh": "著作权与相关权法典"
+  },
+  "TL-H237": {
+   "vi": "Luật về bảo vệ trẻ em và thanh thiếu niên gặp nguy hiểm",
+   "th": "พระราชบัญญัติว่าด้วยการคุ้มครองเด็กและเยาวชนที่ตกอยู่ในภาวะเสี่ยง",
+   "id": "Undang-Undang tentang Perlindungan Anak dan Remaja dalam Keadaan Berbahaya",
+   "ms": "Akta mengenai Perlindungan Kanak-Kanak dan Remaja dalam Keadaan Berbahaya",
+   "zh": "处于危险中的儿童与青少年保护法"
+  },
+  "TL-H239": {
+   "vi": "Luật Chương trình quân sự",
+   "th": "พระราชบัญญัติโครงการทางทหาร",
+   "id": "Undang-Undang Program Militer",
+   "ms": "Akta Program Ketenteraan",
+   "zh": "军事计划法"
+  },
+  "TL-H240": {
+   "vi": "Luật Kinh tế xã hội",
+   "th": "พระราชบัญญัติเศรษฐกิจสังคม",
+   "id": "Undang-Undang Ekonomi Sosial",
+   "ms": "Akta Ekonomi Sosial",
+   "zh": "社会经济法"
+  },
+  "TL-H242": {
+   "vi": "An toàn, sức khỏe và vệ sinh lao động",
+   "th": "ความปลอดภัย อาชีวอนามัย และสุขอนามัยในการทำงาน",
+   "id": "Keselamatan, Kesehatan, dan Higiene Kerja",
+   "ms": "Keselamatan, Kesihatan dan Kebersihan di Tempat Kerja",
+   "zh": "工作中的安全、健康与卫生"
+  },
+  "TL-H247": {
+   "vi": "Luật Tài chính đô thị",
+   "th": "พระราชบัญญัติการคลังเทศบาล",
+   "id": "Undang-Undang Keuangan Kotamadya",
+   "ms": "Akta Kewangan Perbandaran",
+   "zh": "市政财政法"
+  },
+  "TL-H251": {
+   "vi": "Thủ tục ân xá và giảm án",
+   "th": "ขั้นตอนการพระราชทานอภัยโทษและการลดโทษ",
+   "id": "Prosedur Pemberian Grasi dan Pengurangan Hukuman",
+   "ms": "Prosedur Pemberian Pengampunan dan Pengurangan Hukuman",
+   "zh": "赦免与减刑程序"
+  },
+  "TL-H255": {
+   "vi": "Thực hiện quyền kiến nghị",
+   "th": "การใช้สิทธิร้องเรียน",
+   "id": "Pelaksanaan Hak Petisi",
+   "ms": "Pelaksanaan Hak Petisyen",
+   "zh": "请愿权的行使"
+  },
+  "TL-H257": {
+   "vi": "Thứ bậc và lễ tân nhà nước",
+   "th": "ลำดับเกียรติและพิธีการของรัฐ",
+   "id": "Tata Urutan dan Protokol Negara",
+   "ms": "Keutamaan dan Protokol Negara",
+   "zh": "国家礼宾与位次"
+  },
+  "TL-H258": {
+   "vi": "Luật số 5/2024 về nhiệm kỳ của người đứng đầu hoặc thành viên các cơ quan do Quốc hội bổ nhiệm",
+   "th": "พระราชบัญญัติฉบับที่ 5/2024 ว่าด้วยวาระของหัวหน้าหรือสมาชิกองค์กรที่รัฐสภาแต่งตั้ง",
+   "id": "Undang-Undang Nomor 5/2024 tentang Masa Jabatan Pemegang atau Anggota Badan yang Diangkat oleh Parlemen Nasional",
+   "ms": "Akta Nombor 5/2024 mengenai Tempoh Jawatan Pemegang atau Anggota Badan yang Dilantik oleh Parlimen Nasional",
+   "zh": "议会任命机关负责人或成员任期法（第5/2024号法律）"
+  },
+  "TL-H262": {
+   "vi": "Các biện pháp bảo vệ tính hợp pháp của đô thị",
+   "th": "มาตรการคุ้มครองความชอบด้วยกฎหมายในเขตเมือง",
+   "id": "Tindakan Perlindungan Legalitas Perkotaan",
+   "ms": "Langkah Perlindungan Keabsahan Bandar",
+   "zh": "城市规划合法性保护措施"
+  },
+  "TL-H264": {
+   "vi": "Khuôn khổ Ngân sách nhà nước và quản lý tài chính công",
+   "th": "กรอบงบประมาณแผ่นดินและการบริหารการคลังสาธารณะ",
+   "id": "Kerangka Anggaran Pendapatan dan Belanja Negara serta Pengelolaan Keuangan Publik",
+   "ms": "Kerangka Belanjawan Negara dan Pengurusan Kewangan Awam",
+   "zh": "国家总预算框架与公共财政管理"
+  },
+  "TL-H267": {
+   "vi": "Chế độ pháp lý về giao dịch bảo đảm đối với động sản",
+   "th": "ข้อกำหนดทางกฎหมายว่าด้วยธุรกรรมค้ำประกันเกี่ยวกับสังหาริมทรัพย์",
+   "id": "Rezim Hukum Transaksi Jaminan atas Benda Bergerak",
+   "ms": "Rejim Undang-Undang Urus Niaga Bercagar atas Harta Alih",
+   "zh": "动产担保交易法律制度"
+  },
+  "TL-H268": {
+   "vi": "Bãi bỏ lương hưu trọn đời và các quyền lợi khác của cựu chủ thể và cựu thành viên các cơ quan chủ quyền",
+   "th": "การยกเลิกเงินบำนาญตลอดชีพและสิทธิประโยชน์อื่นของอดีตผู้ดำรงตำแหน่งและอดีตสมาชิกองค์กรอธิปไตย",
+   "id": "Pencabutan Pensiun Seumur Hidup dan Hak Istimewa Lain Mantan Pemegang dan Mantan Anggota Organ Kedaulatan",
+   "ms": "Pembatalan Pencen Seumur Hidup dan Keistimewaan Lain Bekas Pemegang dan Bekas Anggota Organ Kedaulatan",
+   "zh": "废止前主权机关负责人及成员的终身年金与其他待遇"
+  },
+  "TL-H270": {
+   "vi": "Bộ luật Phục hồi doanh nghiệp và Phá sản",
+   "th": "ประมวลกฎหมายการฟื้นฟูกิจการและการล้มละลาย",
+   "id": "Kitab Undang-Undang Pemulihan Perusahaan dan Kepailitan",
+   "ms": "Kanun Pemulihan Syarikat dan Insolvensi",
+   "zh": "公司重整与破产法典"
+  },
+  "TL-H271": {
+   "vi": "Luật Cạnh tranh",
+   "th": "พระราชบัญญัติการแข่งขันทางการค้า",
+   "id": "Undang-Undang Persaingan Usaha",
+   "ms": "Akta Persaingan",
+   "zh": "竞争法"
+  },
+  "TL-H274": {
+   "vi": "Phê chuẩn Luật cơ sở về giáo dục mầm non, giáo dục phổ thông và các hình thức đặc biệt",
+   "th": "พระราชบัญญัติรับรองกฎหมายแม่บทว่าด้วยการศึกษาก่อนวัยเรียน การศึกษาขั้นพื้นฐานและมัธยมศึกษา และรูปแบบพิเศษ",
+   "id": "Undang-Undang Pengesahan Undang-Undang Dasar tentang Pendidikan Prasekolah, Pendidikan Dasar dan Menengah, serta Moda Khusus",
+   "ms": "Akta Pengesahan Undang-Undang Asas mengenai Pendidikan Prasekolah, Pendidikan Asas dan Menengah serta Mod Khas",
+   "zh": "核准学前教育、基础教育与中等教育及特殊形式基本法"
+  },
+  "TL-H276": {
+   "vi": "Xúc tiến xuất khẩu",
+   "th": "การส่งเสริมการส่งออก",
+   "id": "Promosi Ekspor",
+   "ms": "Penggalakan Eksport",
+   "zh": "出口促进"
+  },
+  "TL-H279": {
+   "vi": "Chế độ pháp lý về giảng dạy, học tập và thực hành võ thuật",
+   "th": "ข้อกำหนดทางกฎหมายว่าด้วยการสอน การเรียนรู้ และการฝึกศิลปะการต่อสู้",
+   "id": "Rezim Hukum Pengajaran, Pembelajaran, dan Praktik Seni Bela Diri",
+   "ms": "Rejim Undang-Undang Pengajaran, Pembelajaran dan Amalan Seni Mempertahankan Diri",
+   "zh": "武术教学、学习与训练法律制度"
+  },
+  "TL-H280": {
+   "vi": "Chế độ chung về hệ thống tài chính và hoạt động ngân hàng",
+   "th": "ข้อกำหนดทั่วไปว่าด้วยระบบการเงินและกิจกรรมธนาคาร",
+   "id": "Rezim Umum Sistem Keuangan dan Kegiatan Perbankan",
+   "ms": "Rejim Am Sistem Kewangan dan Kegiatan Perbankan",
+   "zh": "金融体系与银行业务总制度"
+  },
+  "TL-INVESTMENT-2017": {
+   "vi": "Luật Đầu tư tư nhân",
+   "th": "พระราชบัญญัติการลงทุนเอกชน",
+   "id": "Undang-Undang Penanaman Modal Swasta",
+   "ms": "Akta Pelaburan Swasta",
+   "zh": "私人投资法"
+  },
+  "TL-LABOR-2012": {
+   "vi": "Bộ luật Lao động",
+   "th": "ประมวลกฎหมายแรงงาน",
+   "id": "Kitab Undang-Undang Hukum Ketenagakerjaan",
+   "ms": "Kanun Undang-Undang Buruh",
+   "zh": "劳动法典"
+  },
+  "TL-H218": {
+   "vi": "Luật Ngân sách nhà nước năm 2022",
+   "th": "พระราชบัญญัติงบประมาณแผ่นดิน ค.ศ. 2022",
+   "id": "Undang-Undang Anggaran Pendapatan dan Belanja Negara Tahun 2022",
+   "ms": "Akta Belanjawan Negara 2022",
+   "zh": "2022年国家总预算"
+  },
+  "TL-H231": {
+   "vi": "Luật Ngân sách nhà nước năm 2023",
+   "th": "พระราชบัญญัติงบประมาณแผ่นดิน ค.ศ. 2023",
+   "id": "Undang-Undang Anggaran Pendapatan dan Belanja Negara Tahun 2023",
+   "ms": "Akta Belanjawan Negara 2023",
+   "zh": "2023年国家总预算"
+  }
+ }
+}

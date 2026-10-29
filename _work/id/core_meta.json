@@ -1,0 +1,581 @@
+{
+ "ID-INVEST-2007": {
+  "country": "ID",
+  "level": "law",
+  "status": "amended",
+  "topics": [
+   "investment"
+  ],
+  "title": {
+   "zh": "印度尼西亚《投资法》",
+   "en": "Law on Investment",
+   "id": "Undang-Undang tentang Penanaman Modal"
+  },
+  "docNumber": "Law No. 25 of 2007",
+  "issuingBody": {
+   "zh": "印度尼西亚人民代表会议",
+   "en": "House of Representatives of Indonesia"
+  },
+  "promulgatedDate": "2007-04-26",
+  "effectiveDate": "2007-04-26",
+  "repealedDate": null,
+  "source": {
+   "name": "印度尼西亚法律法规信息网络（JDIHN）",
+   "url": "https://peraturan.go.id"
+  },
+  "summary": {
+   "zh": "印尼投资领域的基础法律，确立投资原则、外国投资形式、征收补偿保障与开放业务领域制度，与投资负面清单共同构成外资准入框架。",
+   "en": "The basic Indonesian investment statute, establishing investment principles, the form of foreign investment, guarantees against expropriation and open business fields, and forming the entry framework together with the investment negative list."
+  },
+  "coreArticles": [
+   {
+    "no": 1,
+    "noLabel": {
+     "zh": "第一条",
+     "en": "Article 1",
+     "id": "Pasal 1"
+    },
+    "chapter": {
+     "zh": "第一章 总则",
+     "en": "Chapter I General Provisions"
+    }
+   },
+   {
+    "no": 3,
+    "noLabel": {
+     "zh": "第三条",
+     "en": "Article 3",
+     "id": "Pasal 3"
+    },
+    "chapter": {
+     "zh": "第二章 投资原则与形式",
+     "en": "Chapter II Principles and Forms of Investment"
+    }
+   },
+   {
+    "no": 5,
+    "noLabel": {
+     "zh": "第五条",
+     "en": "Article 5",
+     "id": "Pasal 5"
+    },
+    "chapter": {
+     "zh": "第二章 投资原则与形式",
+     "en": "Chapter II Principles and Forms of Investment"
+    }
+   },
+   {
+    "no": 7,
+    "noLabel": {
+     "zh": "第七条",
+     "en": "Article 7",
+     "id": "Pasal 7"
+    },
+    "chapter": {
+     "zh": "第二章 投资原则与形式",
+     "en": "Chapter II Principles and Forms of Investment"
+    }
+   },
+   {
+    "no": 12,
+    "noLabel": {
+     "zh": "第十二条",
+     "en": "Article 12",
+     "id": "Pasal 12"
+    },
+    "chapter": {
+     "zh": "第三章 业务领域与投资待遇",
+     "en": "Chapter III Business Fields and Treatment of Investment"
+    }
+   }
+  ]
+ },
+ "ID-CIPTA-2020": {
+  "country": "ID",
+  "level": "law",
+  "status": "amended",
+  "topics": [
+   "investment",
+   "labor",
+   "company"
+  ],
+  "title": {
+   "zh": "印度尼西亚《综合性创造就业法》",
+   "en": "Job Creation Law (Omnibus Law)",
+   "id": "Undang-Undang Cipta Kerja"
+  },
+  "docNumber": "Law No. 11 of 2020",
+  "issuingBody": {
+   "zh": "印度尼西亚人民代表会议",
+   "en": "House of Representatives of Indonesia"
+  },
+  "promulgatedDate": "2020-11-02",
+  "effectiveDate": "2020-11-02",
+  "repealedDate": null,
+  "source": {
+   "name": "印度尼西亚法律法规信息网络（JDIHN）",
+   "url": "https://peraturan.go.id"
+  },
+  "summary": {
+   "zh": "印尼以“综合立法”方式一次性修订投资、劳动与公司等数十部法律的框架性法律，2022年以《创造就业代替条例》修订并于2023年经第6号法律确认。",
+   "en": "Indonesia's omnibus statute amending dozens of investment, labour and corporate laws at once; it was revised by the 2022 Job Creation Regulation in Lieu of Law and confirmed by Law No. 6 of 2023."
+  },
+  "coreArticles": [
+   {
+    "no": 1,
+    "noLabel": {
+     "zh": "第一条",
+     "en": "Article 1",
+     "id": "Pasal 1"
+    },
+    "chapter": {
+     "zh": "第一章 立法目的",
+     "en": "Chapter I Purposes"
+    }
+   },
+   {
+    "no": 4,
+    "noLabel": {
+     "zh": "第四条",
+     "en": "Article 4",
+     "id": "Pasal 4"
+    },
+    "chapter": {
+     "zh": "第二章 经营许可与投资便利化",
+     "en": "Chapter II Business Licensing and Investment Facilitation"
+    }
+   },
+   {
+    "no": 5,
+    "noLabel": {
+     "zh": "第五条",
+     "en": "Article 5",
+     "id": "Pasal 5"
+    },
+    "chapter": {
+     "zh": "第二章 经营许可与投资便利化",
+     "en": "Chapter II Business Licensing and Investment Facilitation"
+    }
+   },
+   {
+    "no": 81,
+    "noLabel": {
+     "zh": "第八十一条",
+     "en": "Article 81",
+     "id": "Pasal 81"
+    },
+    "chapter": {
+     "zh": "第三章 劳动领域修订",
+     "en": "Chapter III Amendments in the Manpower Sector"
+    }
+   }
+  ]
+ },
+ "ID-LABOR-2003": {
+  "country": "ID",
+  "level": "law",
+  "status": "amended",
+  "topics": [
+   "labor"
+  ],
+  "title": {
+   "zh": "印度尼西亚《劳动法》",
+   "en": "Manpower Law",
+   "id": "Undang-Undang Ketenagakerjaan"
+  },
+  "docNumber": "Law No. 13 of 2003",
+  "issuingBody": {
+   "zh": "印度尼西亚人民代表会议",
+   "en": "House of Representatives of Indonesia"
+  },
+  "promulgatedDate": "2003-03-25",
+  "effectiveDate": "2003-03-25",
+  "repealedDate": null,
+  "source": {
+   "name": "印度尼西亚法律法规信息网络（JDIHN）",
+   "url": "https://peraturan.go.id"
+  },
+  "summary": {
+   "zh": "印尼劳动用工基础法律，2020年与2023年经综合立法修订，覆盖外籍劳动者许可、工时、最低工资与离职补偿。",
+   "en": "The basic Indonesian labour statute, amended by the omnibus legislation of 2020 and 2023, covering foreign worker permits, working time, minimum wage and severance."
+  },
+  "coreArticles": [
+   {
+    "no": 1,
+    "noLabel": {
+     "zh": "第一条",
+     "en": "Article 1",
+     "id": "Pasal 1"
+    },
+    "chapter": {
+     "zh": "第一章 总则",
+     "en": "Chapter I General Provisions"
+    }
+   },
+   {
+    "no": 42,
+    "noLabel": {
+     "zh": "第四十二条",
+     "en": "Article 42",
+     "id": "Pasal 42"
+    },
+    "chapter": {
+     "zh": "第一章 总则",
+     "en": "Chapter I General Provisions"
+    }
+   },
+   {
+    "no": 77,
+    "noLabel": {
+     "zh": "第七十七条",
+     "en": "Article 77",
+     "id": "Pasal 77"
+    },
+    "chapter": {
+     "zh": "第五章 工作时间与工资",
+     "en": "Chapter V Working Time and Wages"
+    }
+   },
+   {
+    "no": 88,
+    "noLabel": {
+     "zh": "第八十八条",
+     "en": "Article 88",
+     "id": "Pasal 88"
+    },
+    "chapter": {
+     "zh": "第五章 工作时间与工资",
+     "en": "Chapter V Working Time and Wages"
+    }
+   },
+   {
+    "no": 156,
+    "noLabel": {
+     "zh": "第一百五十六条",
+     "en": "Article 156",
+     "id": "Pasal 156"
+    },
+    "chapter": {
+     "zh": "第八章 劳动关系终止",
+     "en": "Chapter VIII Termination of Employment"
+    }
+   }
+  ]
+ },
+ "ID-COPYRIGHT-2014": {
+  "country": "ID",
+  "level": "law",
+  "status": "active",
+  "topics": [
+   "ip"
+  ],
+  "title": {
+   "zh": "印度尼西亚《著作权法》",
+   "en": "Copyright Law",
+   "id": "Undang-Undang Hak Cipta"
+  },
+  "docNumber": "Law No. 28 of 2014",
+  "issuingBody": {
+   "zh": "印度尼西亚人民代表会议",
+   "en": "House of Representatives of Indonesia"
+  },
+  "promulgatedDate": "2014-09-16",
+  "effectiveDate": "2014-10-16",
+  "repealedDate": null,
+  "source": {
+   "name": "印度尼西亚法律法规信息网络（JDIHN）",
+   "url": "https://peraturan.go.id"
+  },
+  "summary": {
+   "zh": "印尼著作权保护的主要法律，将自然人作品保护期延长至作者终生加七十年，并规定自动取得、权利限制与侵权救济。",
+   "en": "The principal Indonesian copyright statute, extending the term for natural persons to life plus seventy years and regulating automatic protection, limitations and remedies."
+  },
+  "coreArticles": [
+   {
+    "no": 1,
+    "noLabel": {
+     "zh": "第一条",
+     "en": "Article 1",
+     "id": "Pasal 1"
+    },
+    "chapter": {
+     "zh": "第一章 总则",
+     "en": "Chapter I General Provisions"
+    }
+   },
+   {
+    "no": 4,
+    "noLabel": {
+     "zh": "第四条",
+     "en": "Article 4",
+     "id": "Pasal 4"
+    },
+    "chapter": {
+     "zh": "第一章 总则",
+     "en": "Chapter I General Provisions"
+    }
+   },
+   {
+    "no": 43,
+    "noLabel": {
+     "zh": "第四十三条",
+     "en": "Article 43",
+     "id": "Pasal 43"
+    },
+    "chapter": {
+     "zh": "第四章 保护期与限制",
+     "en": "Chapter IV Term of Protection and Limitations"
+    }
+   },
+   {
+    "no": 58,
+    "noLabel": {
+     "zh": "第五十八条",
+     "en": "Article 58",
+     "id": "Pasal 58"
+    },
+    "chapter": {
+     "zh": "第四章 保护期与限制",
+     "en": "Chapter IV Term of Protection and Limitations"
+    }
+   }
+  ]
+ },
+ "ID-PDP-2022": {
+  "country": "ID",
+  "level": "law",
+  "status": "active",
+  "topics": [
+   "data"
+  ],
+  "title": {
+   "zh": "印度尼西亚《个人数据保护法》",
+   "en": "Personal Data Protection Law",
+   "id": "Undang-Undang Pelindungan Data Pribadi"
+  },
+  "docNumber": "Law No. 27 of 2022",
+  "issuingBody": {
+   "zh": "印度尼西亚人民代表会议",
+   "en": "House of Representatives of Indonesia"
+  },
+  "promulgatedDate": "2022-10-17",
+  "effectiveDate": "2024-10-17",
+  "repealedDate": null,
+  "source": {
+   "name": "印度尼西亚法律法规信息网络（JDIHN）",
+   "url": "https://peraturan.go.id"
+  },
+  "summary": {
+   "zh": "印尼首部个人数据保护专门法律，2024年10月过渡期届满后全面实施，建立处理合法依据、特定个人数据与跨境传输规则。",
+   "en": "Indonesia's first dedicated personal data protection statute, fully applicable after the transitional period ended in October 2024, establishing legal bases, specific personal data and cross-border transfer rules."
+  },
+  "coreArticles": [
+   {
+    "no": 1,
+    "noLabel": {
+     "zh": "第一条",
+     "en": "Article 1",
+     "id": "Pasal 1"
+    },
+    "chapter": {
+     "zh": "第一章 总则",
+     "en": "Chapter I General Provisions"
+    }
+   },
+   {
+    "no": 4,
+    "noLabel": {
+     "zh": "第四条",
+     "en": "Article 4",
+     "id": "Pasal 4"
+    },
+    "chapter": {
+     "zh": "第一章 总则",
+     "en": "Chapter I General Provisions"
+    }
+   },
+   {
+    "no": 20,
+    "noLabel": {
+     "zh": "第二十条",
+     "en": "Article 20",
+     "id": "Pasal 20"
+    },
+    "chapter": {
+     "zh": "第二章 数据处理依据",
+     "en": "Chapter II Legal Bases for Processing"
+    }
+   },
+   {
+    "no": 56,
+    "noLabel": {
+     "zh": "第五十六条",
+     "en": "Article 56",
+     "id": "Pasal 56"
+    },
+    "chapter": {
+     "zh": "第三章 数据跨境传输",
+     "en": "Chapter III Transfer of Personal Data Abroad"
+    }
+   }
+  ]
+ },
+ "ID-COMPANY-2007": {
+  "country": "ID",
+  "level": "law",
+  "status": "amended",
+  "topics": [
+   "company"
+  ],
+  "title": {
+   "zh": "印度尼西亚《有限责任公司法》",
+   "en": "Law on Limited Liability Companies",
+   "id": "Undang-Undang Perseroan Terbatas"
+  },
+  "docNumber": "Law No. 40 of 2007",
+  "issuingBody": {
+   "zh": "印度尼西亚人民代表会议",
+   "en": "House of Representatives of Indonesia"
+  },
+  "promulgatedDate": "2007-08-16",
+  "effectiveDate": "2007-08-16",
+  "repealedDate": null,
+  "source": {
+   "name": "印度尼西亚法律法规信息网络（JDIHN）",
+   "url": "https://peraturan.go.id"
+  },
+  "summary": {
+   "zh": "印尼公司治理基础法律，2020年与2023年经综合立法修订，规定有限责任公司设立、股东有限责任与解散清算制度。",
+   "en": "The basic Indonesian corporate statute, amended by the omnibus legislation of 2020 and 2023, governing establishment, limited liability of shareholders and dissolution and liquidation."
+  },
+  "coreArticles": [
+   {
+    "no": 1,
+    "noLabel": {
+     "zh": "第一条",
+     "en": "Article 1",
+     "id": "Pasal 1"
+    },
+    "chapter": {
+     "zh": "第一章 总则",
+     "en": "Chapter I General Provisions"
+    }
+   },
+   {
+    "no": 3,
+    "noLabel": {
+     "zh": "第三条",
+     "en": "Article 3",
+     "id": "Pasal 3"
+    },
+    "chapter": {
+     "zh": "第二章 设立与股东责任",
+     "en": "Chapter II Establishment and Shareholder Liability"
+    }
+   },
+   {
+    "no": 7,
+    "noLabel": {
+     "zh": "第七条",
+     "en": "Article 7",
+     "id": "Pasal 7"
+    },
+    "chapter": {
+     "zh": "第二章 设立与股东责任",
+     "en": "Chapter II Establishment and Shareholder Liability"
+    }
+   },
+   {
+    "no": 142,
+    "noLabel": {
+     "zh": "第一百四十二条",
+     "en": "Article 142",
+     "id": "Pasal 142"
+    },
+    "chapter": {
+     "zh": "第五章 解散与清算",
+     "en": "Chapter V Dissolution and Liquidation"
+    }
+   }
+  ]
+ },
+ "ID-ARBITRATION-1999": {
+  "country": "ID",
+  "level": "law",
+  "status": "active",
+  "topics": [
+   "dispute"
+  ],
+  "title": {
+   "zh": "印度尼西亚《仲裁与替代性争议解决法》",
+   "en": "Law on Arbitration and Alternative Dispute Resolution",
+   "id": "Undang-Undang Arbitrase dan Alternatif Penyelesaian Sengketa"
+  },
+  "docNumber": "Law No. 30 of 1999",
+  "issuingBody": {
+   "zh": "印度尼西亚人民代表会议",
+   "en": "House of Representatives of Indonesia"
+  },
+  "promulgatedDate": "1999-08-12",
+  "effectiveDate": "1999-08-12",
+  "repealedDate": null,
+  "source": {
+   "name": "印度尼西亚法律法规信息网络（JDIHN）",
+   "url": "https://peraturan.go.id"
+  },
+  "summary": {
+   "zh": "印尼商事仲裁与替代性争议解决的基础法律，规范仲裁协议、仲裁庭组成与国内及国际仲裁裁决的执行与撤销。",
+   "en": "The basic Indonesian statute on commercial arbitration and alternative dispute resolution, governing arbitration agreements, tribunal constitution and enforcement and annulment of domestic and international awards."
+  },
+  "coreArticles": [
+   {
+    "no": 1,
+    "noLabel": {
+     "zh": "第一条",
+     "en": "Article 1",
+     "id": "Pasal 1"
+    },
+    "chapter": {
+     "zh": "第一章 总则",
+     "en": "Chapter I General Provisions"
+    }
+   },
+   {
+    "no": 9,
+    "noLabel": {
+     "zh": "第九条",
+     "en": "Article 9",
+     "id": "Pasal 9"
+    },
+    "chapter": {
+     "zh": "第二章 仲裁协议",
+     "en": "Chapter II Arbitration Agreement"
+    }
+   },
+   {
+    "no": 59,
+    "noLabel": {
+     "zh": "第五十九条",
+     "en": "Article 59",
+     "id": "Pasal 59"
+    },
+    "chapter": {
+     "zh": "第五章 裁决的执行与撤销",
+     "en": "Chapter V Enforcement and Annulment of Awards"
+    }
+   },
+   {
+    "no": 70,
+    "noLabel": {
+     "zh": "第七十条",
+     "en": "Article 70",
+     "id": "Pasal 70"
+    },
+    "chapter": {
+     "zh": "第五章 裁决的执行与撤销",
+     "en": "Chapter V Enforcement and Annulment of Awards"
+    }
+   }
+  ]
+ }
+}

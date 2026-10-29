@@ -1,0 +1,987 @@
+{
+ "batch": "my-p3-b12",
+ "scope": "MY 附属法规（P.U.(A)）· 术语表组装 · 主体 786 个 / 括号 1195 条",
+ "generatedFrom": "_work/title-multi/engine/gen_my.js",
+ "items": {
+  "MY-H1059": {
+   "zh": "2012年巴生港务局（费率、规费及收费表）附例",
+   "vi": "Quy chế về Cảng vụ Port Kelang (Biểu mức phí, lệ phí và các khoản thu) năm 2012",
+   "th": "ข้อบัญญัติการท่าเรือกลัง (ตารางอัตราค่าธรรมเนียม ค่าบริการและค่าบำรุง) ค.ศ. 2012",
+   "id": "Peraturan Daerah Otoritas Pelabuhan Kelang (Skala Tarif, Iuran, dan Biaya) Tahun 2012",
+   "ms": "Undang-Undang Kecil Lembaga Pelabuhan Kelang (Skala Kadar, Fi dan Caj) 2012"
+  },
+  "MY-H1197": {
+   "zh": "2024年房屋发展（管制与发牌）（豁免）令",
+   "vi": "Lệnh về Phát triển nhà ở (Kiểm soát và cấp phép) (Miễn trừ) năm 2024",
+   "th": "คำสั่งการพัฒนาที่อยู่อาศัย (การควบคุมและการออกใบอนุญาต) (การยกเว้น) ค.ศ. 2024",
+   "id": "Perintah Pembangunan Perumahan (Pengendalian dan Perizinan) (Pembebasan) Tahun 2024",
+   "ms": "Perintah Pembangunan Perumahan (Kawalan dan Pelesenan) (Pengecualian) 2024"
+  },
+  "MY-H1303": {
+   "zh": "2012年房屋发展（管制与发牌）（豁免）令",
+   "vi": "Lệnh về Phát triển nhà ở (Kiểm soát và cấp phép) (Miễn trừ) năm 2012",
+   "th": "คำสั่งการพัฒนาที่อยู่อาศัย (การควบคุมและการออกใบอนุญาต) (การยกเว้น) ค.ศ. 2012",
+   "id": "Perintah Pembangunan Perumahan (Pengendalian dan Perizinan) (Pembebasan) Tahun 2012",
+   "ms": "Perintah Pembangunan Perumahan (Kawalan dan Pelesenan) (Pengecualian) 2012"
+  },
+  "MY-H1910": {
+   "zh": "2015年巴生港务局（费率、规费及收费表）（修正）（修正）附例",
+   "vi": "Quy chế về Cảng vụ Port Kelang (Biểu mức phí, lệ phí và các khoản thu) (Sửa đổi) (Sửa đổi) năm 2015",
+   "th": "ข้อบัญญัติการท่าเรือกลัง (ตารางอัตราค่าธรรมเนียม ค่าบริการและค่าบำรุง) (การแก้ไข) (การแก้ไข) ค.ศ. 2015",
+   "id": "Peraturan Daerah Otoritas Pelabuhan Kelang (Skala Tarif, Iuran, dan Biaya) (Perubahan) (Perubahan) Tahun 2015",
+   "ms": "Undang-Undang Kecil Lembaga Pelabuhan Kelang (Skala Kadar, Fi dan Caj) (Pindaan) (Pindaan) 2015"
+  },
+  "MY-H1980": {
+   "zh": "2025年巴生港务局（费率、规费及收费表）（修正）（第2号）附例",
+   "vi": "Quy chế về Cảng vụ Port Kelang (Biểu mức phí, lệ phí và các khoản thu) (Sửa đổi) (số 2) năm 2025",
+   "th": "ข้อบัญญัติการท่าเรือกลัง (ตารางอัตราค่าธรรมเนียม ค่าบริการและค่าบำรุง) (การแก้ไข) (ฉบับที่ 2) ค.ศ. 2025",
+   "id": "Peraturan Daerah Otoritas Pelabuhan Kelang (Skala Tarif, Iuran, dan Biaya) (Perubahan) (Nomor 2) Tahun 2025",
+   "ms": "Undang-Undang Kecil Lembaga Pelabuhan Kelang (Skala Kadar, Fi dan Caj) (Pindaan) (Bilangan 2) 2025"
+  },
+  "MY-H2108": {
+   "zh": "2026年房屋发展（管制与发牌）（豁免）令",
+   "vi": "Lệnh về Phát triển nhà ở (Kiểm soát và cấp phép) (Miễn trừ) năm 2026",
+   "th": "คำสั่งการพัฒนาที่อยู่อาศัย (การควบคุมและการออกใบอนุญาต) (การยกเว้น) ค.ศ. 2026",
+   "id": "Perintah Pembangunan Perumahan (Pengendalian dan Perizinan) (Pembebasan) Tahun 2026",
+   "ms": "Perintah Pembangunan Perumahan (Kawalan dan Pelesenan) (Pengecualian) 2026"
+  },
+  "MY-H2182": {
+   "zh": "2026年房屋发展（管制与发牌）（豁免）（第2号）令",
+   "vi": "Lệnh về Phát triển nhà ở (Kiểm soát và cấp phép) (Miễn trừ) (số 2) năm 2026",
+   "th": "คำสั่งการพัฒนาที่อยู่อาศัย (การควบคุมและการออกใบอนุญาต) (การยกเว้น) (ฉบับที่ 2) ค.ศ. 2026",
+   "id": "Perintah Pembangunan Perumahan (Pengendalian dan Perizinan) (Pembebasan) (Nomor 2) Tahun 2026",
+   "ms": "Perintah Pembangunan Perumahan (Kawalan dan Pelesenan) (Pengecualian) (Bilangan 2) 2026"
+  },
+  "MY-H3203": {
+   "zh": "2011年房屋发展（管制与发牌）（豁免）令",
+   "vi": "Lệnh về Phát triển nhà ở (Kiểm soát và cấp phép) (Miễn trừ) năm 2011",
+   "th": "คำสั่งการพัฒนาที่อยู่อาศัย (การควบคุมและการออกใบอนุญาต) (การยกเว้น) ค.ศ. 2011",
+   "id": "Perintah Pembangunan Perumahan (Pengendalian dan Perizinan) (Pembebasan) Tahun 2011",
+   "ms": "Perintah Pembangunan Perumahan (Kawalan dan Pelesenan) (Pengecualian) 2011"
+  },
+  "MY-H340": {
+   "zh": "1957年硬币（进出口）法",
+   "vi": "Luật về Tiền xu (Nhập khẩu và xuất khẩu) năm 1957",
+   "th": "พระราชบัญญัติเหรียญกษาปณ์ (การนำเข้าและการส่งออก) ค.ศ. 1957",
+   "id": "Undang-Undang Uang Logam (Impor dan Ekspor) Tahun 1957",
+   "ms": "Akta Syiling (Import dan Eksport) 1957"
+  },
+  "MY-H3560": {
+   "zh": "2023年巴生港务局（费率、规费及收费表）（修正）附例",
+   "vi": "Quy chế về Cảng vụ Port Kelang (Biểu mức phí, lệ phí và các khoản thu) (Sửa đổi) năm 2023",
+   "th": "ข้อบัญญัติการท่าเรือกลัง (ตารางอัตราค่าธรรมเนียม ค่าบริการและค่าบำรุง) (การแก้ไข) ค.ศ. 2023",
+   "id": "Peraturan Daerah Otoritas Pelabuhan Kelang (Skala Tarif, Iuran, dan Biaya) (Perubahan) Tahun 2023",
+   "ms": "Undang-Undang Kecil Lembaga Pelabuhan Kelang (Skala Kadar, Fi dan Caj) (Pindaan) 2023"
+  },
+  "MY-H4503": {
+   "zh": "2026年马六甲港务局（费率、规费及收费表）附例",
+   "vi": "Quy chế về Cảng vụ Malacca (Biểu mức phí, lệ phí và các khoản thu) năm 2026",
+   "th": "ข้อบัญญัติการท่าเรือมะละกา (ตารางอัตราค่าธรรมเนียม ค่าบริการและค่าบำรุง) ค.ศ. 2026",
+   "id": "Peraturan Daerah Otoritas Pelabuhan Malaka (Skala Tarif, Iuran, dan Biaya) Tahun 2026",
+   "ms": "Undang-Undang Kecil Lembaga Pelabuhan Melaka (Skala Kadar, Fi dan Caj) 2026"
+  },
+  "MY-H5043": {
+   "zh": "2022年房屋发展（管制与发牌）（豁免）令",
+   "vi": "Lệnh về Phát triển nhà ở (Kiểm soát và cấp phép) (Miễn trừ) năm 2022",
+   "th": "คำสั่งการพัฒนาที่อยู่อาศัย (การควบคุมและการออกใบอนุญาต) (การยกเว้น) ค.ศ. 2022",
+   "id": "Perintah Pembangunan Perumahan (Pengendalian dan Perizinan) (Pembebasan) Tahun 2022",
+   "ms": "Perintah Pembangunan Perumahan (Kawalan dan Pelesenan) (Pengecualian) 2022"
+  },
+  "MY-H5197": {
+   "zh": "2023年房屋发展（管制与发牌）（豁免）令",
+   "vi": "Lệnh về Phát triển nhà ở (Kiểm soát và cấp phép) (Miễn trừ) năm 2023",
+   "th": "คำสั่งการพัฒนาที่อยู่อาศัย (การควบคุมและการออกใบอนุญาต) (การยกเว้น) ค.ศ. 2023",
+   "id": "Perintah Pembangunan Perumahan (Pengendalian dan Perizinan) (Pembebasan) Tahun 2023",
+   "ms": "Perintah Pembangunan Perumahan (Kawalan dan Pelesenan) (Pengecualian) 2023"
+  },
+  "MY-H5272": {
+   "zh": "2017年国家土地法典（1997年修改）（修正）令",
+   "vi": "Lệnh về Bộ luật Đất đai Quốc gia (Sửa đổi) 1997 (Sửa đổi) năm 2017",
+   "th": "คำสั่งประมวลกฎหมายที่ดินแห่งชาติ (การปรับปรุง) 1997 (การแก้ไข) ค.ศ. 2017",
+   "id": "Perintah Kitab Undang-Undang Tanah Nasional (Modifikasi) 1997 (Perubahan) Tahun 2017",
+   "ms": "Perintah Kanun Tanah Negara (Pengubahsuaian) 1997 (Pindaan) 2017"
+  },
+  "MY-H5298": {
+   "zh": "2017年国家土地法典（2014年修改）（修正）令",
+   "vi": "Lệnh về Bộ luật Đất đai Quốc gia (Sửa đổi) 2014 (Sửa đổi) năm 2017",
+   "th": "คำสั่งประมวลกฎหมายที่ดินแห่งชาติ (การปรับปรุง) 2014 (การแก้ไข) ค.ศ. 2017",
+   "id": "Perintah Kitab Undang-Undang Tanah Nasional (Modifikasi) 2014 (Perubahan) Tahun 2017",
+   "ms": "Perintah Kanun Tanah Negara (Pengubahsuaian) 2014 (Pindaan) 2017"
+  },
+  "MY-H5309": {
+   "zh": "2018年所得税（豁免）（第2号）2009（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (Số 2) 2009 (Sửa đổi) năm 2018",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 2) 2009 (การแก้ไข) ค.ศ. 2018",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 2) 2009 (Perubahan) Tahun 2018",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 2) 2009 (Pindaan) 2018"
+  },
+  "MY-H531": {
+   "zh": "2007年国际伊斯兰贸易融资公司法",
+   "vi": "Luật về Tổng công ty Tài trợ Thương mại Hồi giáo Quốc tế năm 2007",
+   "th": "พระราชบัญญัติบรรษัทการเงินการค้าอิสลามระหว่างประเทศ ค.ศ. 2007",
+   "id": "Undang-Undang Korporasi Pembiayaan Perdagangan Islam Internasional Tahun 2007",
+   "ms": "Akta Perbadanan Pembiayaan Perdagangan Islam Antarabangsa 2007"
+  },
+  "MY-H5325": {
+   "zh": "2025年房屋发展（管制与发牌）（豁免）令",
+   "vi": "Lệnh về Phát triển nhà ở (Kiểm soát và cấp phép) (Miễn trừ) năm 2025",
+   "th": "คำสั่งการพัฒนาที่อยู่อาศัย (การควบคุมและการออกใบอนุญาต) (การยกเว้น) ค.ศ. 2025",
+   "id": "Perintah Pembangunan Perumahan (Pengendalian dan Perizinan) (Pembebasan) Tahun 2025",
+   "ms": "Perintah Pembangunan Perumahan (Kawalan dan Pelesenan) (Pengecualian) 2025"
+  },
+  "MY-H5338": {
+   "zh": "2006年高等法院的设立（法官）令",
+   "vi": "Lệnh về Thành lập Tòa án Cấp cao (Thẩm phán) năm 2006",
+   "th": "คำสั่งการจัดตั้งศาลสูง (ผู้พิพากษา) ค.ศ. 2006",
+   "id": "Perintah Pembentukan Pengadilan Tinggi (Hakim) Tahun 2006",
+   "ms": "Perintah Penubuhan Mahkamah Tinggi (Hakim) 2006"
+  },
+  "MY-H534": {
+   "zh": "2007年固体废物与公共清洁管理公司法",
+   "vi": "Luật về Tổng công ty Quản lý Chất thải rắn và Vệ sinh Công cộng năm 2007",
+   "th": "พระราชบัญญัติบรรษัทบริหารจัดการขยะมูลฝอยและการทำความสะอาดสาธารณะ ค.ศ. 2007",
+   "id": "Undang-Undang Korporasi Pengelolaan Limbah Padat dan Kebersihan Umum Tahun 2007",
+   "ms": "Akta Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam 2007"
+  },
+  "MY-H535": {
+   "zh": "2007年病理实验室法",
+   "vi": "Luật về Phòng xét nghiệm giải phẫu bệnh năm 2007",
+   "th": "พระราชบัญญัติห้องปฏิบัติการพยาธิวิทยา ค.ศ. 2007",
+   "id": "Undang-Undang Laboratorium Patologi Tahun 2007",
+   "ms": "Akta Makmal Patologi 2007"
+  },
+  "MY-H536": {
+   "zh": "2007年国家计量体系法",
+   "vi": "Luật về Hệ thống Đo lường Quốc gia năm 2007",
+   "th": "พระราชบัญญัติระบบการวัดแห่งชาติ ค.ศ. 2007",
+   "id": "Undang-Undang Sistem Pengukuran Nasional Tahun 2007",
+   "ms": "Akta Sistem Pengukuran Kebangsaan 2007"
+  },
+  "MY-H537": {
+   "zh": "2007年儿童证人证言法",
+   "vi": "Luật về Lời khai của nhân chứng trẻ em năm 2007",
+   "th": "พระราชบัญญัติพยานหลักฐานของพยานเด็ก ค.ศ. 2007",
+   "id": "Undang-Undang Keterangan Saksi Anak Tahun 2007",
+   "ms": "Akta Keterangan Saksi Kanak-Kanak 2007"
+  },
+  "MY-H538": {
+   "zh": "2007年租购登记（砂拉越）（废止）法",
+   "vi": "Luật về Đăng ký mua trả góp (Sarawak) (Bãi bỏ) năm 2007",
+   "th": "พระราชบัญญัติการจดทะเบียนเช่าซื้อ (ซาราวัก) (การยกเลิก) ค.ศ. 2007",
+   "id": "Undang-Undang Registrasi Sewa Beli (Sarawak) (Pencabutan) Tahun 2007",
+   "ms": "Akta Pendaftaran Sewa Beli (Sarawak) (Pemansuhan) 2007"
+  },
+  "MY-H5396": {
+   "zh": "2021年教育服务委员会（修正）规则",
+   "vi": "Quy tắc về Ủy ban Dịch vụ Giáo dục (Sửa đổi) năm 2021",
+   "th": "กฎคณะกรรมการบริการการศึกษา (การแก้ไข) ค.ศ. 2021",
+   "id": "Tata Tertib Komisi Layanan Pendidikan (Perubahan) Tahun 2021",
+   "ms": "Kaedah Suruhanjaya Perkhidmatan Pelajaran (Pindaan) 2021"
+  },
+  "MY-H540": {
+   "zh": "2007年马来西亚资格局法",
+   "vi": "Luật về Cơ quan Bằng cấp Malaysia năm 2007",
+   "th": "พระราชบัญญัติองค์การคุณวุฒิมาเลเซีย ค.ศ. 2007",
+   "id": "Undang-Undang Badan Kualifikasi Malaysia Tahun 2007",
+   "ms": "Akta Agensi Kelayakan Malaysia 2007"
+  },
+  "MY-H542": {
+   "zh": "2007年电子政务活动法",
+   "vi": "Luật về Hoạt động chính phủ điện tử năm 2007",
+   "th": "พระราชบัญญัติกิจกรรมภาครัฐอิเล็กทรอนิกส์ ค.ศ. 2007",
+   "id": "Undang-Undang Kegiatan Pemerintahan Elektronik Tahun 2007",
+   "ms": "Akta Aktiviti Kerajaan Elektronik 2007"
+  },
+  "MY-H543": {
+   "zh": "1915年寡妇与孤儿抚恤金法",
+   "vi": "Luật về Trợ cấp góa phụ và trẻ mồ côi năm 1915",
+   "th": "พระราชบัญญัติบำนาญแม่หม้ายและเด็กกำพร้า ค.ศ. 1915",
+   "id": "Undang-Undang Pensiun Janda dan Anak Yatim Tahun 1915",
+   "ms": "Akta Pencen Balu dan Anak Yatim 1915"
+  },
+  "MY-H5434": {
+   "zh": "2021年所得税（国家双轨培训体系培训费用扣除）规则",
+   "vi": "Quy tắc về Thuế thu nhập (Khấu trừ chi phí đào tạo theo Hệ thống Đào tạo Song hành Quốc gia) năm 2021",
+   "th": "กฎภาษีเงินได้ (การหักต้นทุนการฝึกอบรมภายใต้ระบบทวิภาคีแห่งชาติ) ค.ศ. 2021",
+   "id": "Tata Tertib Pajak Penghasilan (Pengurangan Biaya Pelatihan dalam Sistem Pelatihan Ganda Nasional) Tahun 2021",
+   "ms": "Kaedah Cukai Pendapatan (Potongan Kos Latihan di bawah Sistem Latihan Dual Kebangsaan) 2021"
+  },
+  "MY-H545": {
+   "zh": "2008年马来西亚农业银行有限公司法",
+   "vi": "Luật về Ngân hàng Nông nghiệp Malaysia Berhad năm 2008",
+   "th": "พระราชบัญญัติธนาคารเกษตรมาเลเซียเบอร์ฮัด ค.ศ. 2008",
+   "id": "Undang-Undang Bank Pertanian Malaysia Berhad Tahun 2008",
+   "ms": "Akta Bank Pertanian Malaysia Berhad 2008"
+  },
+  "MY-H547": {
+   "zh": "2008年北部走廊执行局法",
+   "vi": "Luật về Cơ quan Thực hiện Hành lang Bắc bộ năm 2008",
+   "th": "พระราชบัญญัติองค์กรดำเนินการระเบียงเศรษฐกิจภาคเหนือ ค.ศ. 2008",
+   "id": "Undang-Undang Otoritas Pelaksana Koridor Utara Tahun 2008",
+   "ms": "Akta Pihak Berkuasa Pelaksanaan Koridor Utara 2008"
+  },
+  "MY-H5486": {
+   "zh": "2010年纳闽联邦直辖区（1992年娱乐（吉隆坡联邦直辖区）法的延伸与修改）令",
+   "vi": "Lệnh về Lãnh thổ Liên bang Labuan (Mở rộng và Sửa đổi Luật Giải trí (Lãnh thổ Liên bang Kuala Lumpur) 1992) năm 2010",
+   "th": "คำสั่งเขตปกครองสหพันธ์ลาบวน (การขยายใช้และการปรับปรุงพระราชบัญญัติสถานบันเทิง (เขตปกครองสหพันธ์กัวลาลัมเปอร์) ค.ศ. 1992) ค.ศ. 2010",
+   "id": "Perintah Wilayah Persekutuan Labuan (Perluasan dan Modifikasi Undang-Undang Hiburan (Wilayah Persekutuan Kuala Lumpur) 1992) Tahun 2010",
+   "ms": "Perintah Wilayah Persekutuan Labuan (Pelanjutan dan Pengubahsuaian Akta Hiburan (Wilayah Persekutuan Kuala Lumpur) 1992) 2010"
+  },
+  "MY-H5490": {
+   "zh": "2018年所得税（豁免）（第17号）2007（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (Số 17) 2007 (Sửa đổi) năm 2018",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 17) 2007 (การแก้ไข) ค.ศ. 2018",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 17) 2007 (Perubahan) Tahun 2018",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 17) 2007 (Pindaan) 2018"
+  },
+  "MY-H5502": {
+   "zh": "2018年所得税（豁免）（第2号）2015（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (Số 2) 2015 (Sửa đổi) năm 2018",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 2) 2015 (การแก้ไข) ค.ศ. 2018",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 2) 2015 (Perubahan) Tahun 2018",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 2) 2015 (Pindaan) 2018"
+  },
+  "MY-H553": {
+   "zh": "2009年证人保护法",
+   "vi": "Luật về Bảo vệ nhân chứng năm 2009",
+   "th": "พระราชบัญญัติการคุ้มครองพยาน ค.ศ. 2009",
+   "id": "Undang-Undang Perlindungan Saksi Tahun 2009",
+   "ms": "Akta Perlindungan Saksi 2009"
+  },
+  "MY-H5538": {
+   "zh": "2023年所得税（豁免）2009（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) 2009 (Sửa đổi) năm 2023",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) 2009 (การแก้ไข) ค.ศ. 2023",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) 2009 (Perubahan) Tahun 2023",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) 2009 (Pindaan) 2023"
+  },
+  "MY-H557": {
+   "zh": "1972年哥慕布农业发展局法",
+   "vi": "Luật về Cơ quan Phát triển Nông nghiệp Kemubu năm 1972",
+   "th": "พระราชบัญญัติองค์การพัฒนาการเกษตรเกอมูบู ค.ศ. 1972",
+   "id": "Undang-Undang Otoritas Pengembangan Pertanian Kemubu Tahun 1972",
+   "ms": "Akta Lembaga Kemajuan Pertanian Kemubu 1972"
+  },
+  "MY-H560": {
+   "zh": "1972年慕达农业发展局法",
+   "vi": "Luật về Cơ quan Phát triển Nông nghiệp Muda năm 1972",
+   "th": "พระราชบัญญัติองค์การพัฒนาการเกษตรมูดา ค.ศ. 1972",
+   "id": "Undang-Undang Otoritas Pengembangan Pertanian Muda Tahun 1972",
+   "ms": "Akta Lembaga Kemajuan Pertanian Muda 1972"
+  },
+  "MY-H564": {
+   "zh": "2011年限制居留（废止）法",
+   "vi": "Luật về Cư trú hạn chế (Bãi bỏ) năm 2011",
+   "th": "พระราชบัญญัติการพำนักแบบจำกัด (การยกเลิก) ค.ศ. 2011",
+   "id": "Undang-Undang Tempat Tinggal Terbatas (Pencabutan) Tahun 2011",
+   "ms": "Akta Kediaman Terhad (Pemansuhan) 2011"
+  },
+  "MY-H5643": {
+   "zh": "2025年私立高等教育机构（豁免马来西亚综合商学院）令",
+   "vi": "Lệnh về Các cơ sở giáo dục đại học tư thục (Miễn trừ cho Kolej Perniagaan Bersepadu Malaysia) năm 2025",
+   "th": "คำสั่งสถาบันอุดมศึกษาเอกชน (การยกเว้นให้วิทยาลัยธุรกิจบูรณาการมาเลเซีย) ค.ศ. 2025",
+   "id": "Perintah Institusi Pendidikan Tinggi Swasta (Pengecualian kepada Kolej Perniagaan Bersepadu Malaysia) Tahun 2025",
+   "ms": "Perintah Institusi Pengajian Tinggi Swasta (Pengecualian kepada Kolej Perniagaan Bersepadu Malaysia) 2025"
+  },
+  "MY-H5712": {
+   "zh": "2017年所得税（豁免）（第11号）2016（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (Số 11) 2016 (Sửa đổi) năm 2017",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 11) 2016 (การแก้ไข) ค.ศ. 2017",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 11) 2016 (Perubahan) Tahun 2017",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 11) 2016 (Pindaan) 2017"
+  },
+  "MY-H573": {
+   "zh": "1962年赎主会神父（注册成立）法",
+   "vi": "Luật về Các Cha Dòng Chúa Cứu Thế (Thành lập) năm 1962",
+   "th": "พระราชบัญญัติคณะบาทหลวงแห่งพระผู้ไถ่ (การจดทะเบียนจัดตั้ง) ค.ศ. 1962",
+   "id": "Undang-Undang Para Pastor Kongregasi Sang Penebus (Pendirian) Tahun 1962",
+   "ms": "Akta Bapa-Bapa Redemptoris (Perbadanan) 1962"
+  },
+  "MY-H5785": {
+   "zh": "2019年所得税（豁免）（第6号）2018（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (Số 6) 2018 (Sửa đổi) năm 2019",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 6) 2018 (การแก้ไข) ค.ศ. 2019",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 6) 2018 (Perubahan) Tahun 2019",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 6) 2018 (Pindaan) 2019"
+  },
+  "MY-H5805": {
+   "zh": "2020年印花税（豁免）（第2号）2017（修正）令",
+   "vi": "Lệnh về Thuế tem (Miễn trừ) (Số 2) 2017 (Sửa đổi) năm 2020",
+   "th": "คำสั่งอากรแสตมป์ (การยกเว้น) (ฉบับที่ 2) 2017 (การแก้ไข) ค.ศ. 2020",
+   "id": "Perintah Bea Meterai (Pembebasan) (Nomor 2) 2017 (Perubahan) Tahun 2020",
+   "ms": "Perintah Duti Setem (Pengecualian) (Bilangan 2) 2017 (Pindaan) 2020"
+  },
+  "MY-H5810": {
+   "zh": "2011年国内航运发牌局（修正）条例",
+   "vi": "Quy định về Cục Cấp phép Vận tải Biển Nội địa (Sửa đổi) năm 2011",
+   "th": "ข้อบังคับคณะกรรมการออกใบอนุญาตการเดินเรือภายในประเทศ (การแก้ไข) ค.ศ. 2011",
+   "id": "Peraturan Dewan Perizinan Pelayaran Domestik (Perubahan) Tahun 2011",
+   "ms": "Peraturan Lembaga Pelesenan Perkapalan Dalam Negeri (Pindaan) 2011"
+  },
+  "MY-H5839": {
+   "zh": "2025年马来西亚玻璃市大学（注册成立）（迁址）令",
+   "vi": "Lệnh về Đại học Malaysia Perlis (Thành lập) (Di dời) năm 2025",
+   "th": "คำสั่งมหาวิทยาลัยมาเลเซียเปอร์ลิส (การจดทะเบียนจัดตั้ง) (การย้ายที่ตั้ง) ค.ศ. 2025",
+   "id": "Perintah Universitas Malaysia Perlis (Pendirian) (Relokasi) Tahun 2025",
+   "ms": "Perintah Universiti Malaysia Perlis (Perbadanan) (Penempatan Semula) 2025"
+  },
+  "MY-H5878": {
+   "zh": "2019年所得税（豁免）（第7号）2018（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (Số 7) 2018 (Sửa đổi) năm 2019",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 7) 2018 (การแก้ไข) ค.ศ. 2019",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 7) 2018 (Perubahan) Tahun 2019",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 7) 2018 (Pindaan) 2019"
+  },
+  "MY-H5916": {
+   "zh": "1971年婚生地位法（延展）令",
+   "vi": "Lệnh về Luật về Tư cách Con chính thức (Gia hạn) năm 1971",
+   "th": "คำสั่งพระราชบัญญัติสถานะบุตรชอบด้วยกฎหมาย (การขยายเวลา) ค.ศ. 1971",
+   "id": "Perintah Undang-Undang Status Anak Sah (Perpanjangan) Tahun 1971",
+   "ms": "Perintah Akta Kesahihan Anak (Lanjutan) 1971"
+  },
+  "MY-H592": {
+   "zh": "2020年反假新闻（废止）法",
+   "vi": "Luật về Chống tin giả (Bãi bỏ) năm 2020",
+   "th": "พระราชบัญญัติการต่อต้านข่าวปลอม (การยกเลิก) ค.ศ. 2020",
+   "id": "Undang-Undang Antiberita Bohong (Pencabutan) Tahun 2020",
+   "ms": "Akta Anti Berita Palsu (Pemansuhan) 2020"
+  },
+  "MY-H593": {
+   "zh": "食品捐赠者保护法",
+   "vi": "Luật về Bảo vệ người hiến tặng thực phẩm",
+   "th": "พระราชบัญญัติการคุ้มครองผู้บริจาคอาหาร",
+   "id": "Undang-Undang Perlindungan Donor Pangan",
+   "ms": "Akta Perlindungan Penderma Makanan"
+  },
+  "MY-H5950": {
+   "zh": "2019年所得税（豁免）（第8号）2018（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (Số 8) 2018 (Sửa đổi) năm 2019",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 8) 2018 (การแก้ไข) ค.ศ. 2019",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 8) 2018 (Perubahan) Tahun 2019",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 8) 2018 (Pindaan) 2019"
+  },
+  "MY-H596": {
+   "zh": "2020年政府融资临时措施（2019冠状病毒病）法",
+   "vi": "Luật về Các biện pháp tạm thời về tài trợ chính phủ (Bệnh do vi-rút Corona 2019) năm 2020",
+   "th": "พระราชบัญญัติมาตรการชั่วคราวสำหรับการเงินการคลังของรัฐ (โรคติดเชื้อไวรัสโคโรนา 2019) ค.ศ. 2020",
+   "id": "Undang-Undang Tindakan Sementara untuk Pembiayaan Pemerintah (Penyakit Coronavirus 2019) Tahun 2020",
+   "ms": "Akta Langkah Sementara bagi Pembiayaan Kerajaan (Penyakit Koronavirus 2019) 2020"
+  },
+  "MY-H6006": {
+   "zh": "2021年所得税（豁免）（第13号）2013（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (Số 13) 2013 (Sửa đổi) năm 2021",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 13) 2013 (การแก้ไข) ค.ศ. 2021",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 13) 2013 (Perubahan) Tahun 2021",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 13) 2013 (Pindaan) 2021"
+  },
+  "MY-H6008": {
+   "zh": "2025年印花税（豁免）2021（修正）令",
+   "vi": "Lệnh về Thuế tem (Miễn trừ) 2021 (Sửa đổi) năm 2025",
+   "th": "คำสั่งอากรแสตมป์ (การยกเว้น) 2021 (การแก้ไข) ค.ศ. 2025",
+   "id": "Perintah Bea Meterai (Pembebasan) 2021 (Perubahan) Tahun 2025",
+   "ms": "Perintah Duti Setem (Pengecualian) 2021 (Pindaan) 2025"
+  },
+  "MY-H6012": {
+   "zh": "2025年印花税（豁免）（第2号）2021（修正）令",
+   "vi": "Lệnh về Thuế tem (Miễn trừ) (Số 2) 2021 (Sửa đổi) năm 2025",
+   "th": "คำสั่งอากรแสตมป์ (การยกเว้น) (ฉบับที่ 2) 2021 (การแก้ไข) ค.ศ. 2025",
+   "id": "Perintah Bea Meterai (Pembebasan) (Nomor 2) 2021 (Perubahan) Tahun 2025",
+   "ms": "Perintah Duti Setem (Pengecualian) (Bilangan 2) 2021 (Pindaan) 2025"
+  },
+  "MY-H603": {
+   "zh": "2022年马来西亚边境安全局（解散）法",
+   "vi": "Luật về Cơ quan An ninh Biên giới Malaysia (Giải thể) năm 2022",
+   "th": "พระราชบัญญัติองค์การความมั่นคงชายแดนมาเลเซีย (การเลิก) ค.ศ. 2022",
+   "id": "Undang-Undang Badan Keamanan Perbatasan Malaysia (Pembubaran) Tahun 2022",
+   "ms": "Akta Agensi Keselamatan Sempadan Malaysia (Pembubaran) 2022"
+  },
+  "MY-H6035": {
+   "zh": "2017年纳闽联邦直辖区（对1984年国家林业法的修改）令",
+   "vi": "Lệnh về Lãnh thổ Liên bang Labuan (Sửa đổi Luật Lâm nghiệp Quốc gia 1984) năm 2017",
+   "th": "คำสั่งเขตปกครองสหพันธ์ลาบวน (การปรับปรุงพระราชบัญญัติป่าไม้แห่งชาติ ค.ศ. 1984) ค.ศ. 2017",
+   "id": "Perintah Wilayah Persekutuan Labuan (Modifikasi Undang-Undang Kehutanan Nasional 1984) Tahun 2017",
+   "ms": "Perintah Wilayah Persekutuan Labuan (Pengubahsuaian Akta Perhutanan Negara 1984) 2017"
+  },
+  "MY-H6037": {
+   "zh": "2024年所得税（豁免）（第5号）令2022（修正）令",
+   "vi": "Lệnh về Lệnh Thuế thu nhập (Miễn trừ) (Số 5) 2022 (Sửa đổi) năm 2024",
+   "th": "คำสั่งคำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 5) 2022 (การแก้ไข) ค.ศ. 2024",
+   "id": "Perintah Perintah Pajak Penghasilan (Pembebasan) (Nomor 5) 2022 (Perubahan) Tahun 2024",
+   "ms": "Perintah Perintah Cukai Pendapatan (Pengecualian) (Bilangan 5) 2022 (Pindaan) 2024"
+  },
+  "MY-H6038": {
+   "zh": "2025年印花税（豁免）（第15号）2021（修正）令",
+   "vi": "Lệnh về Thuế tem (Miễn trừ) (Số 15) 2021 (Sửa đổi) năm 2025",
+   "th": "คำสั่งอากรแสตมป์ (การยกเว้น) (ฉบับที่ 15) 2021 (การแก้ไข) ค.ศ. 2025",
+   "id": "Perintah Bea Meterai (Pembebasan) (Nomor 15) 2021 (Perubahan) Tahun 2025",
+   "ms": "Perintah Duti Setem (Pengecualian) (Bilangan 15) 2021 (Pindaan) 2025"
+  },
+  "MY-H604": {
+   "zh": "2022年家庭主妇社会保障法",
+   "vi": "Luật về An sinh xã hội cho người nội trợ năm 2022",
+   "th": "พระราชบัญญัติการประกันสังคมของแม่บ้าน ค.ศ. 2022",
+   "id": "Undang-Undang Jaminan Sosial Ibu Rumah Tangga Tahun 2022",
+   "ms": "Akta Keselamatan Sosial Suri Rumah 2022"
+  },
+  "MY-H6045": {
+   "zh": "2025年印花税（豁免）（第16号）2021（修正）令",
+   "vi": "Lệnh về Thuế tem (Miễn trừ) (Số 16) 2021 (Sửa đổi) năm 2025",
+   "th": "คำสั่งอากรแสตมป์ (การยกเว้น) (ฉบับที่ 16) 2021 (การแก้ไข) ค.ศ. 2025",
+   "id": "Perintah Bea Meterai (Pembebasan) (Nomor 16) 2021 (Perubahan) Tahun 2025",
+   "ms": "Perintah Duti Setem (Pengecualian) (Bilangan 16) 2021 (Pindaan) 2025"
+  },
+  "MY-H605": {
+   "zh": "1966年大陆架法",
+   "vi": "Luật về Thềm lục địa năm 1966",
+   "th": "พระราชบัญญัติไหล่ทวีป ค.ศ. 1966",
+   "id": "Undang-Undang Landas Kontinen Tahun 1966",
+   "ms": "Akta Pelantar Benua 1966"
+  },
+  "MY-H6072": {
+   "zh": "2024年电能高效管理（废止）条例",
+   "vi": "Quy định về Quản lý hiệu quả năng lượng điện (Bãi bỏ) năm 2024",
+   "th": "ข้อบังคับการบริหารจัดการพลังงานไฟฟ้าอย่างมีประสิทธิภาพ (การเพิกถอน) ค.ศ. 2024",
+   "id": "Peraturan Pengelolaan Energi Listrik yang Efisien (Pencabutan) Tahun 2024",
+   "ms": "Peraturan Pengurusan Tenaga Elektrik yang Cekap (Pembatalan) 2024"
+  },
+  "MY-H6086": {
+   "zh": "1970年赡养条例（延展）令",
+   "vi": "Lệnh về Pháp lệnh Cấp dưỡng (Gia hạn) năm 1970",
+   "th": "คำสั่งบัญญัติค่าอุปการะเลี้ยงดู (การขยายเวลา) ค.ศ. 1970",
+   "id": "Perintah Peraturan Nafkah (Perpanjangan) Tahun 1970",
+   "ms": "Perintah Ordinan Nafkah (Lanjutan) 1970"
+  },
+  "MY-H6108": {
+   "zh": "2021年纳闽商业活动税（豁免）2020（修正）令",
+   "vi": "Lệnh về Thuế Hoạt động Kinh doanh Labuan (Miễn trừ) 2020 (Sửa đổi) năm 2021",
+   "th": "คำสั่งภาษีกิจกรรมทางธุรกิจลาบวน (การยกเว้น) 2020 (การแก้ไข) ค.ศ. 2021",
+   "id": "Perintah Pajak Kegiatan Usaha Labuan (Pembebasan) 2020 (Perubahan) Tahun 2021",
+   "ms": "Perintah Cukai Aktiviti Perniagaan Labuan (Pengecualian) 2020 (Pindaan) 2021"
+  },
+  "MY-H611": {
+   "zh": "2023年废除强制死刑法",
+   "vi": "Luật về Bãi bỏ án tử hình bắt buộc năm 2023",
+   "th": "พระราชบัญญัติการยกเลิกโทษประหารชีวิตภาคบังคับ ค.ศ. 2023",
+   "id": "Undang-Undang Penghapusan Hukuman Mati Wajib Tahun 2023",
+   "ms": "Akta Pemansuhan Hukuman Mati Mandatori 2023"
+  },
+  "MY-H6129": {
+   "zh": "2015年陆路公共交通［2015年商用车辆发牌局（车费率）（修正）规则］条例",
+   "vi": "Quy định về Vận tải Công cộng Đường bộ [Quy tắc (Sửa đổi) của Cục Cấp phép Xe Thương mại (Mức giá vé) 2015] năm 2015",
+   "th": "ข้อบังคับการขนส่งสาธารณะทางบก [ข้อบังคับคณะกรรมการออกใบอนุญาตยานพาหนะพาณิชย์ (อัตราค่าโดยสาร) (การแก้ไข) 2015] ค.ศ. 2015",
+   "id": "Peraturan Angkutan Umum Darat [Peraturan (Perubahan) Dewan Perizinan Kendaraan Niaga (Tarif Angkutan) 2015] Tahun 2015",
+   "ms": "Peraturan Pengangkutan Awam Darat [Kaedah (Pindaan) Lembaga Pelesenan Kenderaan Perdagangan (Kadar Tambang) 2015] 2015"
+  },
+  "MY-H6132": {
+   "zh": "2018年水务业（1994年排污服务（收费）条例的修改）令",
+   "vi": "Lệnh về Ngành Dịch vụ Nước (Sửa đổi Quy định Dịch vụ Thoát nước (Phí) 1994) năm 2018",
+   "th": "คำสั่งอุตสาหกรรมบริการน้ำ (การปรับปรุงข้อบังคับบริการระบายน้ำเสีย (ค่าบริการ) 1994) ค.ศ. 2018",
+   "id": "Perintah Industri Jasa Air (Modifikasi Peraturan Jasa Saluran Air Limbah (Biaya) 1994) Tahun 2018",
+   "ms": "Perintah Industri Perkhidmatan Air (Pengubahsuaian Peraturan Perkhidmatan Pembentungan (Caj) 1994) 2018"
+  },
+  "MY-H6140": {
+   "zh": "1988年法律修订（外交与领事官员（宣誓与费用））令",
+   "vi": "Lệnh về Sửa đổi Luật (Viên chức Ngoại giao và Lãnh sự (Tuyên thệ và Phí)) năm 1988",
+   "th": "คำสั่งการปรับปรุงกฎหมาย (เจ้าหน้าที่การทูตและกงสุล (คำปฏิญาณและค่าธรรมเนียม)) ค.ศ. 1988",
+   "id": "Perintah Revisi Undang-Undang (Pejabat Diplomatik dan Konsuler (Sumpah dan Biaya)) Tahun 1988",
+   "ms": "Perintah Semakan Semula Undang-Undang (Pegawai Diplomatik dan Konsular (Ikrar dan Fi)) 1988"
+  },
+  "MY-H615": {
+   "zh": "1972年马来西亚橡胶交易所与发牌局法",
+   "vi": "Luật về Sở Giao dịch Cao su và Cục Cấp phép Malaysia năm 1972",
+   "th": "พระราชบัญญัติตลาดซื้อขายยางพาราและคณะกรรมการออกใบอนุญาตมาเลเซีย ค.ศ. 1972",
+   "id": "Undang-Undang Bursa Karet dan Dewan Perizinan Malaysia Tahun 1972",
+   "ms": "Akta Bursa Getah dan Lembaga Pelesenan Malaysia 1972"
+  },
+  "MY-H616": {
+   "zh": "2023年公共财政与财政责任法",
+   "vi": "Luật về Tài chính Công và Trách nhiệm Tài khóa năm 2023",
+   "th": "พระราชบัญญัติการเงินการคลังสาธารณะและความรับผิดชอบทางการคลัง ค.ศ. 2023",
+   "id": "Undang-Undang Keuangan Publik dan Tanggung Jawab Fiskal Tahun 2023",
+   "ms": "Akta Kewangan Awam dan Tanggungjawab Fiskal 2023"
+  },
+  "MY-H6172": {
+   "zh": "2021年所得税（豁免）（第4号）2013（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (Số 4) 2013 (Sửa đổi) năm 2021",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 4) 2013 (การแก้ไข) ค.ศ. 2021",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 4) 2013 (Perubahan) Tahun 2021",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 4) 2013 (Pindaan) 2021"
+  },
+  "MY-H618": {
+   "zh": "2024年外国国家的管辖豁免法",
+   "vi": "Luật về Quyền miễn trừ tài phán của quốc gia nước ngoài năm 2024",
+   "th": "พระราชบัญญัติความคุ้มกันทางเขตอำนาจของรัฐต่างประเทศ ค.ศ. 2024",
+   "id": "Undang-Undang Kekebalan Yurisdiksional Negara Asing Tahun 2024",
+   "ms": "Akta Kekebalan Bidang Kuasa Negara Asing 2024"
+  },
+  "MY-H6185": {
+   "zh": "2015年陆路公共交通［2015年机动车辆（商业运输）（修正）规则］条例",
+   "vi": "Quy định về Vận tải Công cộng Đường bộ [Quy tắc (Sửa đổi) Xe cơ giới (Vận tải Thương mại) 2015] năm 2015",
+   "th": "ข้อบังคับการขนส่งสาธารณะทางบก [ข้อบังคับ (การแก้ไข) ยานยนต์ (การขนส่งพาณิชย์) 2015] ค.ศ. 2015",
+   "id": "Peraturan Angkutan Umum Darat [Peraturan (Perubahan) Kendaraan Bermotor (Angkutan Niaga) 2015] Tahun 2015",
+   "ms": "Peraturan Pengangkutan Awam Darat [Kaedah (Pindaan) Kenderaan Bermotor (Pengangkutan Perdagangan) 2015] 2015"
+  },
+  "MY-H622": {
+   "zh": "1917年珠宝商（许可）（2024年修订版）法",
+   "vi": "Luật về Thợ kim hoàn (Cấp phép) (Bản sửa đổi năm 2024) năm 1917",
+   "th": "พระราชบัญญัติผู้ค้าเครื่องประดับ (การออกใบอนุญาต) (ฉบับปรับปรุง 2024) ค.ศ. 1917",
+   "id": "Undang-Undang Toko Perhiasan (Perizinan) (Disemak Semula 2024) Tahun 1917",
+   "ms": "Akta Penjual Barang Kemas (Pelesenan) (Disemak Semula 2024) 1917"
+  },
+  "MY-H6279": {
+   "zh": "1997年危险药物（修正）令",
+   "vi": "Lệnh về Thuốc độc hại (Sửa đổi) năm 1997",
+   "th": "คำสั่งยาอันตราย (การแก้ไข) ค.ศ. 1997",
+   "id": "Perintah Obat Berbahaya (Perubahan) Tahun 1997",
+   "ms": "Perintah Dadah Berbahaya (Pindaan) 1997"
+  },
+  "MY-H6285": {
+   "zh": "2021年所得税（第6D(4)款退税条件）令",
+   "vi": "Lệnh về Thuế thu nhập (Điều kiện được hoàn thuế theo khoản 6D(4)) năm 2021",
+   "th": "คำสั่งภาษีเงินได้ (เงื่อนไขการให้เงินคืนภาษีตามมาตรา 6D(4)) ค.ศ. 2021",
+   "id": "Perintah Pajak Penghasilan (Syarat Pemberian Pengurangan menurut Ayat 6D(4)) Tahun 2021",
+   "ms": "Perintah Cukai Pendapatan (Syarat Pemberian Rebate di bawah Subseksyen 6D(4)) 2021"
+  },
+  "MY-H6296": {
+   "zh": "2022年限速（蕉赖路（东）匝道）令",
+   "vi": "Lệnh về Giới hạn tốc độ (Đường dốc Jalan Cheras (Đông)) năm 2022",
+   "th": "คำสั่งจำกัดความเร็ว (ทางลาดถนนเจอรัด (ตะวันออก)) ค.ศ. 2022",
+   "id": "Perintah Batas Kecepatan (Jalur Jalan Cheras (Timur)) Tahun 2022",
+   "ms": "Perintah Had Laju (Lohong Jalan Cheras (Timur)) 2022"
+  },
+  "MY-H631": {
+   "zh": "2025年政府服务效率承诺法",
+   "vi": "Luật về Cam kết hiệu quả dịch vụ chính phủ năm 2025",
+   "th": "พระราชบัญญัติคำมั่นประสิทธิภาพการบริการภาครัฐ ค.ศ. 2025",
+   "id": "Undang-Undang Komitmen Efisiensi Layanan Pemerintah Tahun 2025",
+   "ms": "Akta Komitmen Kecekapan Perkhidmatan Kerajaan 2025"
+  },
+  "MY-H632": {
+   "zh": "2025年马来西亚媒体理事会法",
+   "vi": "Luật về Hội đồng Truyền thông Malaysia năm 2025",
+   "th": "พระราชบัญญัติสภากลางสื่อมาเลเซีย ค.ศ. 2025",
+   "id": "Undang-Undang Dewan Media Malaysia Tahun 2025",
+   "ms": "Akta Majlis Media Malaysia 2025"
+  },
+  "MY-H6329": {
+   "zh": "2025年关税（反倾销税）（第2号）令2021（修正）令",
+   "vi": "Lệnh về Lệnh Hải quan (Thuế chống bán phá giá) (Số 2) 2021 (Sửa đổi) năm 2025",
+   "th": "คำสั่งคำสั่งศุลกากร (อากรตอบโต้การทุ่มตลาด) (ฉบับที่ 2) 2021 (การแก้ไข) ค.ศ. 2025",
+   "id": "Perintah Perintah Kepabeanan (Bea Antidumping) (Nomor 2) 2021 (Perubahan) Tahun 2025",
+   "ms": "Perintah Perintah Kastam (Duti Antidumping) (Bilangan 2) 2021 (Pindaan) 2025"
+  },
+  "MY-H633": {
+   "zh": "2025年议会服务法",
+   "vi": "Luật về Dịch vụ Nghị viện năm 2025",
+   "th": "พระราชบัญญัติบริการรัฐสภา ค.ศ. 2025",
+   "id": "Undang-Undang Layanan Parlemen Tahun 2025",
+   "ms": "Akta Perkhidmatan Parlimen 2025"
+  },
+  "MY-H634": {
+   "zh": "1972年慈悲兄弟会修会院长（注册成立）法",
+   "vi": "Luật về Bề trên Tu hội Anh em Lòng Thương Xót (Thành lập) năm 1972",
+   "th": "พระราชบัญญัติอธิการเจ้าคณะภราดาแห่งเมตตา (การจดทะเบียนจัดตั้ง) ค.ศ. 1972",
+   "id": "Undang-Undang Pemimpin Kongregasi Saudara Belas Kasih (Pendirian) Tahun 1972",
+   "ms": "Akta Ketua Institut Kongregasi Saudara Kerahiman (Perbadanan) 1972"
+  },
+  "MY-H6344": {
+   "zh": "2025年反补贴与反倾销税（修正）条例",
+   "vi": "Quy định về Thuế đối kháng và thuế chống bán phá giá (Sửa đổi) năm 2025",
+   "th": "ข้อบังคับอากรตอบโต้การอุดหนุนและอากรตอบโต้การทุ่มตลาด (การแก้ไข) ค.ศ. 2025",
+   "id": "Peraturan Bea Imbalan dan Bea Antidumping (Perubahan) Tahun 2025",
+   "ms": "Peraturan Duti Imbangan dan Duti Antidumping (Pindaan) 2025"
+  },
+  "MY-H6403": {
+   "zh": "2025年关税（反倾销税）（第3号）令2020（修正）令",
+   "vi": "Lệnh về Lệnh Hải quan (Thuế chống bán phá giá) (Số 3) 2020 (Sửa đổi) năm 2025",
+   "th": "คำสั่งคำสั่งศุลกากร (อากรตอบโต้การทุ่มตลาด) (ฉบับที่ 3) 2020 (การแก้ไข) ค.ศ. 2025",
+   "id": "Perintah Perintah Kepabeanan (Bea Antidumping) (Nomor 3) 2020 (Perubahan) Tahun 2025",
+   "ms": "Perintah Perintah Kastam (Duti Antidumping) (Bilangan 3) 2020 (Pindaan) 2025"
+  },
+  "MY-H644": {
+   "zh": "2026年经调解达成的国际和解协议法",
+   "vi": "Luật về Các thỏa thuận dàn xếp quốc tế hình thành từ hòa giải năm 2026",
+   "th": "พระราชบัญญัติข้อตกลงยุติข้อพิพาทระหว่างประเทศที่เกิดจากการไกล่เกลี่ย ค.ศ. 2026",
+   "id": "Undang-Undang Perjanjian Penyelesaian Internasional yang Dihasilkan dari Mediasi Tahun 2026",
+   "ms": "Akta Perjanjian Penyelesaian Antarabangsa Hasil Pengantaraan 2026"
+  },
+  "MY-H645": {
+   "zh": "2026年政府采购法",
+   "vi": "Luật về Mua sắm chính phủ năm 2026",
+   "th": "พระราชบัญญัติการจัดซื้อจัดจ้างภาครัฐ ค.ศ. 2026",
+   "id": "Undang-Undang Pengadaan Pemerintah Tahun 2026",
+   "ms": "Akta Perolehan Kerajaan 2026"
+  },
+  "MY-H647": {
+   "zh": "2026年新山—新加坡捷运系统连接线法",
+   "vi": "Luật về Tuyến Liên kết Hệ thống Vận tải Nhanh Johor Bahru-Singapore năm 2026",
+   "th": "พระราชบัญญัติเส้นทางเชื่อมระบบขนส่งมวลชนเร็วยะโฮร์บาห์รู-สิงคโปร์ ค.ศ. 2026",
+   "id": "Undang-Undang Penghubung Sistem Angkutan Cepat Johor Bahru-Singapura Tahun 2026",
+   "ms": "Akta Pautan Sistem Transit Aliran Johor Bahru-Singapura 2026"
+  },
+  "MY-H650": {
+   "zh": "2026年统计法",
+   "vi": "Luật về Thống kê năm 2026",
+   "th": "พระราชบัญญัติสถิติ ค.ศ. 2026",
+   "id": "Undang-Undang Statistik Tahun 2026",
+   "ms": "Akta Perangkaan 2026"
+  },
+  "MY-H6513": {
+   "zh": "2023年农药（豁免）2004（修正）令",
+   "vi": "Lệnh về Thuốc bảo vệ thực vật (Miễn trừ) 2004 (Sửa đổi) năm 2023",
+   "th": "คำสั่งสารกำจัดศัตรูพืช (การยกเว้น) 2004 (การแก้ไข) ค.ศ. 2023",
+   "id": "Perintah Pestisida (Pembebasan) 2004 (Perubahan) Tahun 2023",
+   "ms": "Perintah Racun Makhluk Perosak (Pengecualian) 2004 (Pindaan) 2023"
+  },
+  "MY-H6529": {
+   "zh": "2023年关丹港务局（费率、规费及收费表）附例",
+   "vi": "Quy chế về Cảng vụ Kuantan (Biểu mức phí, lệ phí và các khoản thu) năm 2023",
+   "th": "ข้อบัญญัติการท่าเรือกวนตัน (ตารางอัตราค่าธรรมเนียม ค่าบริการและค่าบำรุง) ค.ศ. 2023",
+   "id": "Peraturan Daerah Otoritas Pelabuhan Kuantan (Skala Tarif, Iuran, dan Biaya) Tahun 2023",
+   "ms": "Undang-Undang Kecil Lembaga Pelabuhan Kuantan (Skala Kadar, Fi dan Caj) 2023"
+  },
+  "MY-H654": {
+   "zh": "1966年石油开采法",
+   "vi": "Luật về Khai thác dầu khí năm 1966",
+   "th": "พระราชบัญญัติการทำเหมืองปิโตรเลียม ค.ศ. 1966",
+   "id": "Undang-Undang Penambangan Petroleum Tahun 1966",
+   "ms": "Akta Perlombongan Petroleum 1966"
+  },
+  "MY-H6553": {
+   "zh": "2018年宣誓专员规则",
+   "vi": "Quy tắc về Ủy viên tuyên thệ năm 2018",
+   "th": "กฎผู้มีอำนาจรับคำปฏิญาณ ค.ศ. 2018",
+   "id": "Tata Tertib Komisioner Sumpah Tahun 2018",
+   "ms": "Kaedah Pesuruhjaya Sumpah 2018"
+  },
+  "MY-H6558": {
+   "zh": "2025年受托人（注册成立）条例",
+   "vi": "Quy định về Người được ủy thác (Thành lập) năm 2025",
+   "th": "ข้อบังคับผู้จัดการมรดก (การจดทะเบียนจัดตั้ง) ค.ศ. 2025",
+   "id": "Peraturan Wali Amanat (Pendirian) Tahun 2025",
+   "ms": "Peraturan Pemegang Amanah (Perbadanan) 2025"
+  },
+  "MY-H656": {
+   "zh": "1959年遗嘱认证与遗产管理法",
+   "vi": "Luật về Chứng thực di chúc và Quản lý di sản năm 1959",
+   "th": "พระราชบัญญัติการพิสูจน์พินัยกรรมและการจัดการมรดก ค.ศ. 1959",
+   "id": "Undang-Undang Pengesahan Wasiat dan Administrasi Tahun 1959",
+   "ms": "Akta Probet dan Pentadbiran 1959"
+  },
+  "MY-H657": {
+   "zh": "1958年判决的相互强制执行法",
+   "vi": "Luật về Thi hành án lẫn nhau năm 1958",
+   "th": "พระราชบัญญัติการบังคับคดีคำพิพากษาต่างตอบแทน ค.ศ. 1958",
+   "id": "Undang-Undang Pelaksanaan Putusan Timbal Balik Tahun 1958",
+   "ms": "Akta Penguatkuasaan Bersaling Penghakiman 1958"
+  },
+  "MY-H6580": {
+   "zh": "2018年工厂与机械（豁免国家石油天然气有限公司—丹戎苏隆出口终端，登嘉楼甘马挽）令",
+   "vi": "Lệnh về Nhà máy và Máy móc (Miễn trừ cho Petronas Gas Berhad - Cảng Xuất khẩu Tanjung Sulong, Kemaman, Terengganu) năm 2018",
+   "th": "คำสั่งโรงงานและเครื่องจักร (การยกเว้นให้ Petronas Gas Berhad - สถานีส่งออกตันจุงสุริง, เกอมามัน, ตรังกานู) ค.ศ. 2018",
+   "id": "Perintah Pabrik dan Mesin (Pengecualian kepada Petronas Gas Berhad - Terminal Ekspor Tanjung Sulong, Kemaman, Terengganu) Tahun 2018",
+   "ms": "Perintah Kilang dan Jentera (Pengecualian kepada Petronas Gas Berhad - Terminal Eksport Tanjung Sulong, Kemaman, Terengganu) 2018"
+  },
+  "MY-H6591": {
+   "zh": "2016年机动车辆（建造与使用）（修正）规则",
+   "vi": "Quy tắc về Xe cơ giới (Xây dựng và sử dụng) (Sửa đổi) năm 2016",
+   "th": "กฎยานยนต์ (การก่อสร้างและการใช้งาน) (การแก้ไข) ค.ศ. 2016",
+   "id": "Tata Tertib Kendaraan Bermotor (Pembangunan dan Penggunaan) (Perubahan) Tahun 2016",
+   "ms": "Kaedah Kenderaan Bermotor (Pembinaan dan Penggunaan) (Pindaan) 2016"
+  },
+  "MY-H6596": {
+   "zh": "2021年所得税（豁免）（第7号）2011（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (Số 7) 2011 (Sửa đổi) năm 2021",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 7) 2011 (การแก้ไข) ค.ศ. 2021",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 7) 2011 (Perubahan) Tahun 2021",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 7) 2011 (Pindaan) 2021"
+  },
+  "MY-H6636": {
+   "zh": "2024年消费税（豁免）（修正）令2024（修正）令",
+   "vi": "Lệnh về Lệnh Thuế Tiêu thụ Đặc biệt (Miễn trừ) (Sửa đổi) 2024 (Sửa đổi) năm 2024",
+   "th": "คำสั่งคำสั่งอากรสรรพสามิต (การยกเว้น) (การแก้ไข) 2024 (การแก้ไข) ค.ศ. 2024",
+   "id": "Perintah Perintah Cukai Eksais (Pembebasan) (Perubahan) 2024 (Perubahan) Tahun 2024",
+   "ms": "Perintah Perintah Duti Eksais (Pengecualian) (Pindaan) 2024 (Pindaan) 2024"
+  },
+  "MY-H6643": {
+   "zh": "2016年法律援助与咨询（修正）条例",
+   "vi": "Quy định về Trợ giúp và Tư vấn Pháp lý (Sửa đổi) năm 2016",
+   "th": "ข้อบังคับความช่วยเหลือและคำแนะนำทางกฎหมาย (การแก้ไข) ค.ศ. 2016",
+   "id": "Peraturan Bantuan dan Nasihat Hukum (Perubahan) Tahun 2016",
+   "ms": "Peraturan Bantuan dan Nasihat Guaman (Pindaan) 2016"
+  },
+  "MY-H6663": {
+   "zh": "2022年印花税（豁免）（第8号）2018（修正）令",
+   "vi": "Lệnh về Thuế tem (Miễn trừ) (Số 8) 2018 (Sửa đổi) năm 2022",
+   "th": "คำสั่งอากรแสตมป์ (การยกเว้น) (ฉบับที่ 8) 2018 (การแก้ไข) ค.ศ. 2022",
+   "id": "Perintah Bea Meterai (Pembebasan) (Nomor 8) 2018 (Perubahan) Tahun 2022",
+   "ms": "Perintah Duti Setem (Pengecualian) (Bilangan 8) 2018 (Pindaan) 2022"
+  },
+  "MY-H6677": {
+   "zh": "2022年所得税（豁免）（第11号）2018（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (Số 11) 2018 (Sửa đổi) năm 2022",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 11) 2018 (การแก้ไข) ค.ศ. 2022",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 11) 2018 (Perubahan) Tahun 2022",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 11) 2018 (Pindaan) 2022"
+  },
+  "MY-H6687": {
+   "zh": "2017年禁止随地吐痰（吉隆坡联邦直辖区）附例",
+   "vi": "Quy chế về Cấm khạc nhổ (Lãnh thổ Liên bang Kuala Lumpur) năm 2017",
+   "th": "ข้อบัญญัติการห้ามถ่มน้ำลาย (เขตการปกครองสหพันธ์กัวลาลัมเปอร์) ค.ศ. 2017",
+   "id": "Peraturan Daerah Larangan Meludah (Wilayah Persekutuan Kuala Lumpur) Tahun 2017",
+   "ms": "Undang-Undang Kecil Larangan Meludah (Wilayah Persekutuan Kuala Lumpur) 2017"
+  },
+  "MY-H6691": {
+   "zh": "2022年所得税（豁免）（第12号）2018（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (Số 12) 2018 (Sửa đổi) năm 2022",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 12) 2018 (การแก้ไข) ค.ศ. 2022",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 12) 2018 (Perubahan) Tahun 2022",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 12) 2018 (Pindaan) 2022"
+  },
+  "MY-H6704": {
+   "zh": "2022年关税（浮罗交怡）1986（修正）令",
+   "vi": "Lệnh về Thuế Hải quan (Langkawi) 1986 (Sửa đổi) năm 2022",
+   "th": "คำสั่งอากรศุลกากร (ลังกาวี) 1986 (การแก้ไข) ค.ศ. 2022",
+   "id": "Perintah Bea Kepabeanan (Langkawi) 1986 (Perubahan) Tahun 2022",
+   "ms": "Perintah Duti Kastam (Langkawi) 1986 (Pindaan) 2022"
+  },
+  "MY-H6721": {
+   "zh": "2023年高等法院的设立（法官）令",
+   "vi": "Lệnh về Thành lập các Tòa án Cấp cao (Thẩm phán) năm 2023",
+   "th": "คำสั่งการจัดตั้งศาลสูง (ผู้พิพากษา) ค.ศ. 2023",
+   "id": "Perintah Pembentukan Pengadilan Tinggi (Hakim) Tahun 2023",
+   "ms": "Perintah Penubuhan Mahkamah Tinggi (Hakim) 2023"
+  },
+  "MY-H6755": {
+   "zh": "1992年服务委员会（附表修正）条例",
+   "vi": "Quy định về Các Ủy ban Dịch vụ (Sửa đổi phụ lục) năm 1992",
+   "th": "ข้อบังคับคณะกรรมการบริการ (การแก้ไขภาคผนวก) ค.ศ. 1992",
+   "id": "Peraturan Komisi-Komisi Layanan (Perubahan Lampiran) Tahun 1992",
+   "ms": "Peraturan Suruhanjaya-Suruhanjaya Perkhidmatan (Pindaan Jadual) 1992"
+  },
+  "MY-H681": {
+   "zh": "2022年高等法院的设立（法官）令",
+   "vi": "Lệnh về Thành lập các Tòa án Cấp cao (Thẩm phán) năm 2022",
+   "th": "คำสั่งการจัดตั้งศาลสูง (ผู้พิพากษา) ค.ศ. 2022",
+   "id": "Perintah Pembentukan Pengadilan Tinggi (Hakim) Tahun 2022",
+   "ms": "Perintah Penubuhan Mahkamah Tinggi (Hakim) 2022"
+  },
+  "MY-H6829": {
+   "zh": "2024年所得税（豁免）（第10号）2018（修正）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (Số 10) 2018 (Sửa đổi) năm 2024",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 10) 2018 (การแก้ไข) ค.ศ. 2024",
+   "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 10) 2018 (Perubahan) Tahun 2024",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 10) 2018 (Pindaan) 2024"
+  },
+  "MY-H690": {
+   "zh": "2015年马来西亚建筑工业发展局（违法行为罚款了结）条例",
+   "vi": "Quy định về Cục Phát triển Công nghiệp Xây dựng Malaysia (Xử lý vi phạm bằng phạt tiền) năm 2015",
+   "th": "ข้อบังคับองค์การพัฒนาอุตสาหกรรมก่อสร้างมาเลเซีย (การระงับข้อหาด้วยค่าปรับ) ค.ศ. 2015",
+   "id": "Peraturan Badan Pengembangan Industri Konstruksi Malaysia (Penyelesaian Pelanggaran dengan Denda) Tahun 2015",
+   "ms": "Peraturan Lembaga Industri Pembinaan Malaysia (Pengkompaunan Kesalahan) 2015"
+  },
+  "MY-H6906": {
+   "zh": "2017年技术专家与技术员（费用）条例",
+   "vi": "Quy định về Chuyên gia công nghệ và kỹ thuật viên (Phí) năm 2017",
+   "th": "ข้อบังคับนักเทคโนโลยีและช่างเทคนิค (ค่าธรรมเนียม) ค.ศ. 2017",
+   "id": "Peraturan Teknolog dan Teknisi (Biaya) Tahun 2017",
+   "ms": "Peraturan Teknologis dan Juruteknik (Fi) 2017"
+  },
+  "MY-H6929": {
+   "zh": "2012年联邦道路（东部疏散连接大道）令",
+   "vi": "Lệnh về Đường Liên bang (Đường cao tốc Kết nối Phân tán Phía Đông) năm 2012",
+   "th": "คำสั่งทางหลวงสหพันธ์ (ทางด่วนเชื่อมกระจายตะวันออก) ค.ศ. 2012",
+   "id": "Perintah Jalan Federal (Jalan Tol Penghubung Penyebaran Timur) Tahun 2012",
+   "ms": "Perintah Jalan Persekutuan (Lebuhraya Pautan Penyebaran Timur) 2012"
+  },
+  "MY-H6967": {
+   "zh": "2020年价格管制与反暴利（最高价格核定）（第2号）令",
+   "vi": "Lệnh về Kiểm soát giá và chống trục lợi (Xác định giá tối đa) (số 2) năm 2020",
+   "th": "คำสั่งการควบคุมราคาและการต่อต้านการเอากำไรเกินควร (การกำหนดราคาสูงสุด) (ฉบับที่ 2) ค.ศ. 2020",
+   "id": "Perintah Pengendalian Harga dan Antipengambilan Keuntungan Berlebihan (Penetapan Harga Maksimum) (Nomor 2) Tahun 2020",
+   "ms": "Perintah Kawalan Harga dan Anti Pencatutan (Penetapan Harga Maksimum) (Bilangan 2) 2020"
+  },
+  "MY-H6986": {
+   "zh": "1971年银行账簿（证据）条例（延展）令",
+   "vi": "Lệnh về Pháp lệnh Sổ sách Ngân hàng (Chứng cứ) (Gia hạn) năm 1971",
+   "th": "คำสั่งบัญญัติสมุดบัญชีของธนาคาร (พยานหลักฐาน) (การขยายเวลา) ค.ศ. 1971",
+   "id": "Perintah Peraturan Buku Bank (Alat Bukti) (Perpanjangan) Tahun 1971",
+   "ms": "Perintah Ordinan Buku Bank (Keterangan) (Lanjutan) 1971"
+  },
+  "MY-H6989": {
+   "zh": "2015年陆路公共交通［2015年商用车辆发牌局（车费率）（修正）（第2号）规则］条例",
+   "vi": "Quy định về Vận tải Công cộng Đường bộ [Quy tắc (Sửa đổi) (Số 2) của Cục Cấp phép Xe Thương mại (Mức giá vé) 2015] năm 2015",
+   "th": "ข้อบังคับการขนส่งสาธารณะทางบก [ข้อบังคับคณะกรรมการออกใบอนุญาตยานพาหนะพาณิชย์ (อัตราค่าโดยสาร) (การแก้ไข) (ฉบับที่ 2) 2015] ค.ศ. 2015",
+   "id": "Peraturan Angkutan Umum Darat [Peraturan (Perubahan) (Nomor 2) Dewan Perizinan Kendaraan Niaga (Tarif Angkutan) 2015] Tahun 2015",
+   "ms": "Peraturan Pengangkutan Awam Darat [Kaedah (Pindaan) (Bilangan 2) Lembaga Pelesenan Kenderaan Perdagangan (Kadar Tambang) 2015] 2015"
+  },
+  "MY-H6994": {
+   "zh": "2020年道路运输（禁止使用道路）（吉隆坡市）（第3号）令",
+   "vi": "Lệnh về Vận tải đường bộ (Cấm sử dụng đường bộ) (Thành phố Kuala Lumpur) (số 3) năm 2020",
+   "th": "คำสั่งการขนส่งทางถนน (การห้ามใช้ถนน) (เมืองกัวลาลัมเปอร์) (ฉบับที่ 3) ค.ศ. 2020",
+   "id": "Perintah Angkutan Jalan (Larangan Penggunaan Jalan) (Kota Kuala Lumpur) (Nomor 3) Tahun 2020",
+   "ms": "Perintah Pengangkutan Jalan (Larangan Penggunaan Jalan) (Bandaraya Kuala Lumpur) (Bilangan 3) 2020"
+  },
+  "MY-H7074": {
+   "zh": "1981年估值师、评估师及房地产代理法",
+   "vi": "Luật về Định giá viên, Thẩm định viên và Đại lý Bất động sản năm 1981",
+   "th": "พระราชบัญญัติผู้ประเมินราคา ผู้ประเมินทรัพย์สิน และตัวแทนอสังหาริมทรัพย์ ค.ศ. 1981",
+   "id": "Undang-Undang Penilai, Penaksir, dan Agen Properti Tahun 1981",
+   "ms": "Akta Penilai, Pentaksir dan Ejen Harta Tanah 1981"
+  },
+  "MY-H7075": {
+   "zh": "1957年债务人法",
+   "vi": "Luật về Người mắc nợ năm 1957",
+   "th": "พระราชบัญญัติลูกหนี้ ค.ศ. 1957",
+   "id": "Undang-Undang Debitur Tahun 1957",
+   "ms": "Akta Penghutang 1957"
+  },
+  "MY-H7080": {
+   "zh": "1998年教师退休基金（沙巴）（解散）法",
+   "vi": "Luật về Quỹ Hưu trí Giáo viên (Sabah) (Giải thể) năm 1998",
+   "th": "พระราชบัญญัติกองทุนบำนาญครู (ซาบาห์) (การเลิก) ค.ศ. 1998",
+   "id": "Undang-Undang Dana Pensiun Guru (Sabah) (Pembubaran) Tahun 1998",
+   "ms": "Akta Kumpulan Wang Pesaraan Guru (Sabah) (Pembubaran) 1998"
+  },
+  "MY-H7110": {
+   "zh": "2012年国际伊斯兰流动性管理公司（特权与豁免）条例",
+   "vi": "Quy định về Tổng công ty Quản lý Thanh khoản Hồi giáo Quốc tế (Đặc quyền và miễn trừ) năm 2012",
+   "th": "ข้อบังคับบรรษัทบริหารสภาพคล่องอิสลามระหว่างประเทศ (เอกสิทธิ์และความคุ้มกัน) ค.ศ. 2012",
+   "id": "Peraturan Korporasi Pengelolaan Likuiditas Islam Internasional (Hak Istimewa dan Kekebalan) Tahun 2012",
+   "ms": "Peraturan Perbadanan Pengurusan Kecairan Islam Antarabangsa (Keistimewaan dan Kekebalan) 2012"
+  },
+  "MY-H7113": {
+   "zh": "2017年公共服务委员会规则",
+   "vi": "Quy tắc về Ủy ban Dịch vụ Công năm 2017",
+   "th": "กฎคณะกรรมการข้าราชการพลเรือน ค.ศ. 2017",
+   "id": "Tata Tertib Komisi Layanan Publik Tahun 2017",
+   "ms": "Kaedah Suruhanjaya Perkhidmatan Awam 2017"
+  },
+  "MY-H7114": {
+   "zh": "1980年下级法院法（延展）令",
+   "vi": "Lệnh về Luật Tòa án Cấp dưới (Gia hạn) năm 1980",
+   "th": "คำสั่งพระราชบัญญัติศาลชั้นต้น (การขยายเวลา) ค.ศ. 1980",
+   "id": "Perintah Undang-Undang Pengadilan Bawah (Perpanjangan) Tahun 1980",
+   "ms": "Perintah Akta Mahkamah Rendah (Lanjutan) 1980"
+  },
+  "MY-H747": {
+   "zh": "2020年消费税（豁免）2017（修正）令",
+   "vi": "Lệnh về Thuế Tiêu thụ Đặc biệt (Miễn trừ) 2017 (Sửa đổi) năm 2020",
+   "th": "คำสั่งอากรสรรพสามิต (การยกเว้น) 2017 (การแก้ไข) ค.ศ. 2020",
+   "id": "Perintah Cukai Eksais (Pembebasan) 2017 (Perubahan) Tahun 2020",
+   "ms": "Perintah Duti Eksais (Pengecualian) 2017 (Pindaan) 2020"
+  },
+  "MY-H756": {
+   "zh": "2015年房屋发展（管制与发牌）（修正）条例",
+   "vi": "Quy định về Phát triển nhà ở (Kiểm soát và cấp phép) (Sửa đổi) năm 2015",
+   "th": "ข้อบังคับการพัฒนาที่อยู่อาศัย (การควบคุมและการออกใบอนุญาต) (การแก้ไข) ค.ศ. 2015",
+   "id": "Peraturan Pembangunan Perumahan (Pengendalian dan Perizinan) (Perubahan) Tahun 2015",
+   "ms": "Peraturan Pembangunan Perumahan (Kawalan dan Pelesenan) (Pindaan) 2015"
+  },
+  "MY-H762": {
+   "zh": "2022年教育服务晋升委员会（修正）条例",
+   "vi": "Quy định về Hội đồng Thăng tiến Dịch vụ Giáo dục (Sửa đổi) năm 2022",
+   "th": "ข้อบังคับคณะกรรมการเลื่อนตำแหน่งบริการการศึกษา (การแก้ไข) ค.ศ. 2022",
+   "id": "Peraturan Dewan Promosi Layanan Pendidikan (Perubahan) Tahun 2022",
+   "ms": "Peraturan Lembaga Kenaikan Pangkat Perkhidmatan Pelajaran (Pindaan) 2022"
+  },
+  "MY-H764": {
+   "zh": "2024年所得税（豁免）（第5号）令2021（修正）令",
+   "vi": "Lệnh về Lệnh Thuế thu nhập (Miễn trừ) (Số 5) 2021 (Sửa đổi) năm 2024",
+   "th": "คำสั่งคำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 5) 2021 (การแก้ไข) ค.ศ. 2024",
+   "id": "Perintah Perintah Pajak Penghasilan (Pembebasan) (Nomor 5) 2021 (Perubahan) Tahun 2024",
+   "ms": "Perintah Perintah Cukai Pendapatan (Pengecualian) (Bilangan 5) 2021 (Pindaan) 2024"
+  },
+  "MY-H778": {
+   "zh": "2022年教育服务纪律委员会（修正）条例",
+   "vi": "Quy định về Hội đồng Kỷ luật Dịch vụ Giáo dục (Sửa đổi) năm 2022",
+   "th": "ข้อบังคับคณะกรรมการวินัยบริการการศึกษา (การแก้ไข) ค.ศ. 2022",
+   "id": "Peraturan Dewan Disiplin Layanan Pendidikan (Perubahan) Tahun 2022",
+   "ms": "Peraturan Lembaga Tatatertib Perkhidmatan Pelajaran (Pindaan) 2022"
+  },
+  "MY-H780": {
+   "zh": "2024年所得税（豁免）（第6号）令2021（修正）令",
+   "vi": "Lệnh về Lệnh Thuế thu nhập (Miễn trừ) (Số 6) 2021 (Sửa đổi) năm 2024",
+   "th": "คำสั่งคำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 6) 2021 (การแก้ไข) ค.ศ. 2024",
+   "id": "Perintah Perintah Pajak Penghasilan (Pembebasan) (Nomor 6) 2021 (Perubahan) Tahun 2024",
+   "ms": "Perintah Perintah Cukai Pendapatan (Pengecualian) (Bilangan 6) 2021 (Pindaan) 2024"
+  },
+  "MY-H794": {
+   "zh": "2024年所得税（豁免）（第7号）令2021（修正）令",
+   "vi": "Lệnh về Lệnh Thuế thu nhập (Miễn trừ) (Số 7) 2021 (Sửa đổi) năm 2024",
+   "th": "คำสั่งคำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 7) 2021 (การแก้ไข) ค.ศ. 2024",
+   "id": "Perintah Perintah Pajak Penghasilan (Pembebasan) (Nomor 7) 2021 (Perubahan) Tahun 2024",
+   "ms": "Perintah Perintah Cukai Pendapatan (Pengecualian) (Bilangan 7) 2021 (Pindaan) 2024"
+  },
+  "MY-H809": {
+   "zh": "2024年所得税（豁免）（第8号）令2021（修正）令",
+   "vi": "Lệnh về Lệnh Thuế thu nhập (Miễn trừ) (Số 8) 2021 (Sửa đổi) năm 2024",
+   "th": "คำสั่งคำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 8) 2021 (การแก้ไข) ค.ศ. 2024",
+   "id": "Perintah Perintah Pajak Penghasilan (Pembebasan) (Nomor 8) 2021 (Perubahan) Tahun 2024",
+   "ms": "Perintah Perintah Cukai Pendapatan (Pengecualian) (Bilangan 8) 2021 (Pindaan) 2024"
+  },
+  "MY-H828": {
+   "zh": "2003年法律修订（1992年娱乐（吉隆坡联邦直辖区）法的更正）令",
+   "vi": "Lệnh về Sửa đổi Luật (Đính chính Luật Giải trí (Lãnh thổ Liên bang Kuala Lumpur) 1992) năm 2003",
+   "th": "คำสั่งการปรับปรุงกฎหมาย (การแก้ไขข้อผิดพลาดพระราชบัญญัติสถานบันเทิง (เขตปกครองสหพันธ์กัวลาลัมเปอร์) ค.ศ. 1992) ค.ศ. 2003",
+   "id": "Perintah Revisi Undang-Undang (Koreksi Undang-Undang Hiburan (Wilayah Persekutuan Kuala Lumpur) 1992) Tahun 2003",
+   "ms": "Perintah Semakan Semula Undang-Undang (Pembetulan Akta Hiburan (Wilayah Persekutuan Kuala Lumpur) 1992) 2003"
+  },
+  "MY-H836": {
+   "zh": "2019年马来西亚考试理事会（附表一修正）令",
+   "vi": "Lệnh về Hội đồng Khảo thí Malaysia (Sửa đổi Phụ lục thứ nhất) năm 2019",
+   "th": "คำสั่งสภาสอบมาเลเซีย (การแก้ไขภาคผนวกแรก) ค.ศ. 2019",
+   "id": "Perintah Dewan Ujian Malaysia (Perubahan Lampiran Pertama) Tahun 2019",
+   "ms": "Perintah Majlis Peperiksaan Malaysia (Pindaan Jadual Pertama) 2019"
+  },
+  "MY-H855": {
+   "zh": "2022年印花税（减免）2003（修正）令",
+   "vi": "Lệnh về Thuế tem (Giảm trừ) 2003 (Sửa đổi) năm 2022",
+   "th": "คำสั่งอากรแสตมป์ (การลดหย่อน) 2003 (การแก้ไข) ค.ศ. 2022",
+   "id": "Perintah Bea Meterai (Keringanan) 2003 (Perubahan) Tahun 2022",
+   "ms": "Perintah Duti Setem (Remisi) 2003 (Pindaan) 2022"
+  },
+  "MY-H886": {
+   "zh": "2025年所得税（豁免）令2009（修正）令",
+   "vi": "Lệnh về Lệnh Thuế thu nhập (Miễn trừ) 2009 (Sửa đổi) năm 2025",
+   "th": "คำสั่งคำสั่งภาษีเงินได้ (การยกเว้น) 2009 (การแก้ไข) ค.ศ. 2025",
+   "id": "Perintah Perintah Pajak Penghasilan (Pembebasan) 2009 (Perubahan) Tahun 2025",
+   "ms": "Perintah Perintah Cukai Pendapatan (Pengecualian) 2009 (Pindaan) 2025"
+  },
+  "MY-H894": {
+   "zh": "2017年金融服务（保险（豁免）令2009）（豁免）（修正）令",
+   "vi": "Lệnh về Dịch vụ Tài chính (Lệnh Bảo hiểm (Miễn trừ) 2009) (Miễn trừ) (Sửa đổi) năm 2017",
+   "th": "คำสั่งบริการทางการเงิน (คำสั่งประกันภัย (การยกเว้น) 2009) (การยกเว้น) (การแก้ไข) ค.ศ. 2017",
+   "id": "Perintah Jasa Keuangan (Perintah Asuransi (Pembebasan) 2009) (Pembebasan) (Perubahan) Tahun 2017",
+   "ms": "Perintah Perkhidmatan Kewangan (Perintah Insurans (Pengecualian) 2009) (Pengecualian) (Pindaan) 2017"
+  },
+  "MY-H928": {
+   "zh": "2023年马来西亚彭亨大学（注册成立）（修正）令",
+   "vi": "Lệnh về Đại học Malaysia Pahang (Thành lập) (Sửa đổi) năm 2023",
+   "th": "คำสั่งมหาวิทยาลัยมาเลเซียปะหัง (การจดทะเบียนจัดตั้ง) (การแก้ไข) ค.ศ. 2023",
+   "id": "Perintah Universitas Malaysia Pahang (Pendirian) (Perubahan) Tahun 2023",
+   "ms": "Perintah Universiti Malaysia Pahang (Perbadanan) (Pindaan) 2023"
+  },
+  "MY-H936": {
+   "zh": "2016年纳闽商业活动税（表格）（废止）条例",
+   "vi": "Quy định về Thuế Hoạt động Kinh doanh Labuan (Các biểu mẫu) (Bãi bỏ) năm 2016",
+   "th": "ข้อบังคับภาษีกิจกรรมทางธุรกิจลาบวน (แบบฟอร์ม) (การเพิกถอน) ค.ศ. 2016",
+   "id": "Peraturan Pajak Kegiatan Usaha Labuan (Formulir-Formulir) (Pencabutan) Tahun 2016",
+   "ms": "Peraturan Cukai Aktiviti Perniagaan Labuan (Borang-Borang) (Pembatalan) 2016"
+  },
+  "MY-H944": {
+   "zh": "2025年所得税（豁免）（第9号）令2002（修正）令",
+   "vi": "Lệnh về Lệnh Thuế thu nhập (Miễn trừ) (Số 9) 2002 (Sửa đổi) năm 2025",
+   "th": "คำสั่งคำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 9) 2002 (การแก้ไข) ค.ศ. 2025",
+   "id": "Perintah Perintah Pajak Penghasilan (Pembebasan) (Nomor 9) 2002 (Perubahan) Tahun 2025",
+   "ms": "Perintah Perintah Cukai Pendapatan (Pengecualian) (Bilangan 9) 2002 (Pindaan) 2025"
+  },
+  "MY-H986": {
+   "zh": "2022年槟城国家公园条例",
+   "vi": "Quy định về Vườn Quốc gia Penang năm 2022",
+   "th": "ข้อบังคับอุทยานแห่งชาติปีนัง ค.ศ. 2022",
+   "id": "Peraturan Taman Nasional Penang Tahun 2022",
+   "ms": "Peraturan Taman Negara Pulau Pinang 2022"
+  }
+ }
+}

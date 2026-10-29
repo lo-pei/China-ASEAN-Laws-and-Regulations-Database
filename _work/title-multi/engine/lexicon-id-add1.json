@@ -1,0 +1,2189 @@
+{
+ "_note": "ID 主题术语表（第 1 批）：通用名词、形容词、常见组合。缺 id/ms 时由引擎按原词回填",
+ "terms": {
+  "NEGARA": {
+   "zh": "国家",
+   "en": "state",
+   "vi": "nhà nước",
+   "th": "รัฐ"
+  },
+  "REPUBLIK INDONESIA": {
+   "zh": "印度尼西亚共和国",
+   "en": "Republic of Indonesia",
+   "vi": "Cộng hòa Indonesia",
+   "th": "สาธารณรัฐอินโดนีเซีย"
+  },
+  "INDONESIA": {
+   "zh": "印度尼西亚",
+   "en": "Indonesia",
+   "vi": "Indonesia",
+   "th": "อินโดนีเซีย"
+  },
+  "PEMERINTAH": {
+   "zh": "政府",
+   "en": "government",
+   "vi": "chính phủ",
+   "th": "รัฐบาล"
+  },
+  "PEMERINTAHAN": {
+   "zh": "行政",
+   "en": "governance",
+   "vi": "chính quyền",
+   "th": "การปกครอง"
+  },
+  "PEMERINTAHAN DAERAH": {
+   "zh": "地方行政",
+   "en": "regional government",
+   "vi": "chính quyền địa phương",
+   "th": "การปกครองท้องถิ่น"
+  },
+  "OTONOMI DAERAH": {
+   "zh": "地方自治",
+   "en": "regional autonomy",
+   "vi": "tự chủ địa phương",
+   "th": "การปกครองตนเองของท้องถิ่น"
+  },
+  "DAERAH": {
+   "zh": "地方",
+   "en": "regional",
+   "vi": "địa phương",
+   "th": "ท้องถิ่น"
+  },
+  "PUSAT": {
+   "zh": "中央",
+   "en": "central",
+   "vi": "trung ương",
+   "th": "ส่วนกลาง"
+  },
+  "PROVINSI": {
+   "zh": "省",
+   "en": "province",
+   "vi": "tỉnh",
+   "th": "จังหวัด"
+  },
+  "KABUPATEN": {
+   "zh": "县",
+   "en": "regency",
+   "vi": "huyện",
+   "th": "อำเภอ"
+  },
+  "KOTA": {
+   "zh": "市",
+   "en": "city",
+   "vi": "thành phố",
+   "th": "เมือง"
+  },
+  "KOTAMADYA": {
+   "zh": "市",
+   "en": "municipality",
+   "vi": "thành phố",
+   "th": "เทศบาลนคร"
+  },
+  "KECAMATAN": {
+   "zh": "区",
+   "en": "district",
+   "vi": "xã",
+   "th": "ตำบล"
+  },
+  "DESA": {
+   "zh": "村",
+   "en": "village",
+   "vi": "làng",
+   "th": "หมู่บ้าน"
+  },
+  "KELURAHAN": {
+   "zh": "街区",
+   "en": "urban village",
+   "vi": "phường",
+   "th": "แขวง"
+  },
+  "IBUKOTA": {
+   "zh": "首都",
+   "en": "capital",
+   "vi": "thủ đô",
+   "th": "เมืองหลวง"
+  },
+  "IBU KOTA": {
+   "zh": "首都",
+   "en": "capital",
+   "vi": "thủ đô",
+   "th": "เมืองหลวง"
+  },
+  "WILAYAH": {
+   "zh": "辖区",
+   "en": "territory",
+   "vi": "lãnh thổ",
+   "th": "เขต"
+  },
+  "KAWASAN": {
+   "zh": "区域",
+   "en": "area",
+   "vi": "khu vực",
+   "th": "พื้นที่"
+  },
+  "TANAH": {
+   "zh": "土地",
+   "en": "land",
+   "vi": "đất",
+   "th": "ที่ดิน"
+  },
+  "PERTANAHAN": {
+   "zh": "土地事务",
+   "en": "land affairs",
+   "vi": "đất đai",
+   "th": "ที่ดิน"
+  },
+  "TATA RUANG": {
+   "zh": "空间规划",
+   "en": "spatial planning",
+   "vi": "quy hoạch không gian",
+   "th": "ผังเมือง"
+  },
+  "PENATAAN RUANG": {
+   "zh": "空间规划",
+   "en": "spatial planning",
+   "vi": "quy hoạch không gian",
+   "th": "การผังเมือง"
+  },
+  "AIR": {
+   "zh": "水",
+   "en": "water",
+   "vi": "nước",
+   "th": "น้ำ"
+  },
+  "HUTAN": {
+   "zh": "森林",
+   "en": "forest",
+   "vi": "rừng",
+   "th": "ป่า"
+  },
+  "KEHUTANAN": {
+   "zh": "林业",
+   "en": "forestry",
+   "vi": "lâm nghiệp",
+   "th": "ป่าไม้"
+  },
+  "LAUT": {
+   "zh": "海洋",
+   "en": "sea",
+   "vi": "biển",
+   "th": "ทะเล"
+  },
+  "PESISIR": {
+   "zh": "海岸",
+   "en": "coastal",
+   "vi": "ven biển",
+   "th": "ชายฝั่ง"
+  },
+  "PERTAMBANGAN": {
+   "zh": "采矿",
+   "en": "mining",
+   "vi": "khai khoáng",
+   "th": "การทำเหมือง"
+  },
+  "MINERAL": {
+   "zh": "矿产",
+   "en": "mineral",
+   "vi": "khoáng sản",
+   "th": "แร่ธาตุ"
+  },
+  "BATUBARA": {
+   "zh": "煤炭",
+   "en": "coal",
+   "vi": "than",
+   "th": "ถ่านหิน"
+  },
+  "ENERGI": {
+   "zh": "能源",
+   "en": "energy",
+   "vi": "năng lượng",
+   "th": "พลังงาน"
+  },
+  "LISTRIK": {
+   "zh": "电力",
+   "en": "electricity",
+   "vi": "điện",
+   "th": "ไฟฟ้า"
+  },
+  "MINYAK": {
+   "zh": "石油",
+   "en": "oil",
+   "vi": "dầu",
+   "th": "น้ำมัน"
+  },
+  "GAS": {
+   "zh": "天然气",
+   "en": "gas",
+   "vi": "khí",
+   "th": "ก๊าซ"
+  },
+  "PERTANIAN": {
+   "zh": "农业",
+   "en": "agriculture",
+   "vi": "nông nghiệp",
+   "th": "เกษตรกรรม"
+  },
+  "PERKEBUNAN": {
+   "zh": "种植业",
+   "en": "plantation",
+   "vi": "đồn điền",
+   "th": "พืชไร่"
+  },
+  "PERIKANAN": {
+   "zh": "渔业",
+   "en": "fisheries",
+   "vi": "thủy sản",
+   "th": "ประมง"
+  },
+  "PETERNAKAN": {
+   "zh": "畜牧业",
+   "en": "animal husbandry",
+   "vi": "chăn nuôi",
+   "th": "ปศุสัตว์"
+  },
+  "INDUSTRI": {
+   "zh": "工业",
+   "en": "industry",
+   "vi": "công nghiệp",
+   "th": "อุตสาหกรรม"
+  },
+  "PERDAGANGAN": {
+   "zh": "贸易",
+   "en": "trade",
+   "vi": "thương mại",
+   "th": "การค้า"
+  },
+  "JASA": {
+   "zh": "服务",
+   "en": "services",
+   "vi": "dịch vụ",
+   "th": "บริการ"
+  },
+  "BARANG": {
+   "zh": "货物",
+   "en": "goods",
+   "vi": "hàng hóa",
+   "th": "สินค้า"
+  },
+  "HARGA": {
+   "zh": "价格",
+   "en": "price",
+   "vi": "giá",
+   "th": "ราคา"
+  },
+  "TARIF": {
+   "zh": "费率",
+   "en": "tariff",
+   "vi": "biểu phí",
+   "th": "อัตรา"
+  },
+  "BEA": {
+   "zh": "关税",
+   "en": "customs duty",
+   "vi": "thuế quan",
+   "th": "อากร"
+  },
+  "BEA MASUK": {
+   "zh": "进口关税",
+   "en": "import duty",
+   "vi": "thuế nhập khẩu",
+   "th": "อากรขาเข้า"
+  },
+  "BEA KELUAR": {
+   "zh": "出口关税",
+   "en": "export duty",
+   "vi": "thuế xuất khẩu",
+   "th": "อากรขาออก"
+  },
+  "CUKAI": {
+   "zh": "消费税",
+   "en": "excise",
+   "vi": "thuế tiêu thụ đặc biệt",
+   "th": "สรรพสามิต"
+  },
+  "PAJAK": {
+   "zh": "税",
+   "en": "tax",
+   "vi": "thuế",
+   "th": "ภาษี"
+  },
+  "PAJAK PENGHASILAN": {
+   "zh": "所得税",
+   "en": "income tax",
+   "vi": "thuế thu nhập",
+   "th": "ภาษีเงินได้"
+  },
+  "PAJAK PERTAMBAHAN NILAI": {
+   "zh": "增值税",
+   "en": "value added tax",
+   "vi": "thuế giá trị gia tăng",
+   "th": "ภาษีมูลค่าเพิ่ม"
+  },
+  "PUNGUTAN": {
+   "zh": "征收",
+   "en": "levy",
+   "vi": "khoản thu",
+   "th": "ค่าธรรมเนียม"
+  },
+  "RETRIBUSI": {
+   "zh": "收费",
+   "en": "retribution",
+   "vi": "phí",
+   "th": "ค่าบริการ"
+  },
+  "PENERIMAAN": {
+   "zh": "收入",
+   "en": "revenue",
+   "vi": "khoản thu",
+   "th": "รายรับ"
+  },
+  "PENERIMAAN NEGARA": {
+   "zh": "国家收入",
+   "en": "state revenue",
+   "vi": "thu nhà nước",
+   "th": "รายรับของรัฐ"
+  },
+  "PENERIMAAN NEGARA BUKAN PAJAK": {
+   "zh": "国家非税收入",
+   "en": "non-tax state revenue",
+   "vi": "thu nhà nước phi thuế",
+   "th": "รายรับของรัฐที่มิใช่ภาษี"
+  },
+  "PENDAPATAN": {
+   "zh": "收入",
+   "en": "income",
+   "vi": "thu nhập",
+   "th": "รายได้"
+  },
+  "PENDAPATAN NASIONAL": {
+   "zh": "国民收入",
+   "en": "national income",
+   "vi": "thu nhập quốc dân",
+   "th": "รายได้ประชาชาติ"
+  },
+  "BELANJA": {
+   "zh": "支出",
+   "en": "expenditure",
+   "vi": "chi tiêu",
+   "th": "รายจ่าย"
+  },
+  "BELANJA NEGARA": {
+   "zh": "国家支出",
+   "en": "state expenditure",
+   "vi": "chi tiêu nhà nước",
+   "th": "รายจ่ายของรัฐ"
+  },
+  "ANGGARAN": {
+   "zh": "预算",
+   "en": "budget",
+   "vi": "ngân sách",
+   "th": "งบประมาณ"
+  },
+  "ANGGARAN NEGARA": {
+   "zh": "国家预算",
+   "en": "state budget",
+   "vi": "ngân sách nhà nước",
+   "th": "งบประมาณแผ่นดิน"
+  },
+  "ANGGARAN PENDAPATAN DAN BELANJA NEGARA": {
+   "zh": "国家收支预算",
+   "en": "state budget",
+   "vi": "ngân sách thu chi nhà nước",
+   "th": "งบประมาณรายรับรายจ่ายของรัฐ"
+  },
+  "TAHUN ANGGARAN": {
+   "zh": "财政年度",
+   "en": "fiscal year",
+   "vi": "năm ngân sách",
+   "th": "ปีงบประมาณ"
+  },
+  "KEUANGAN": {
+   "zh": "财政",
+   "en": "finance",
+   "vi": "tài chính",
+   "th": "การเงิน"
+  },
+  "PERBENDAHARAAN": {
+   "zh": "国库",
+   "en": "treasury",
+   "vi": "kho bạc",
+   "th": "คลัง"
+  },
+  "INVESTASI": {
+   "zh": "投资",
+   "en": "investment",
+   "vi": "đầu tư",
+   "th": "การลงทุน"
+  },
+  "PENANAMAN MODAL": {
+   "zh": "投资",
+   "en": "capital investment",
+   "vi": "đầu tư vốn",
+   "th": "การลงทุน"
+  },
+  "PENYERTAAN MODAL": {
+   "zh": "出资",
+   "en": "capital participation",
+   "vi": "góp vốn",
+   "th": "การร่วมทุน"
+  },
+  "PENYERTAAN MODAL NEGARA": {
+   "zh": "国家出资",
+   "en": "state capital participation",
+   "vi": "góp vốn nhà nước",
+   "th": "การร่วมทุนของรัฐ"
+  },
+  "MODAL": {
+   "zh": "资本",
+   "en": "capital",
+   "vi": "vốn",
+   "th": "ทุน"
+  },
+  "MODAL SAHAM": {
+   "zh": "股本",
+   "en": "share capital",
+   "vi": "vốn cổ phần",
+   "th": "ทุนเรือนหุ้น"
+  },
+  "SAHAM": {
+   "zh": "股份",
+   "en": "shares",
+   "vi": "cổ phần",
+   "th": "หุ้น"
+  },
+  "OBLIGASI": {
+   "zh": "债券",
+   "en": "bonds",
+   "vi": "trái phiếu",
+   "th": "พันธบัตร"
+  },
+  "PINJAMAN": {
+   "zh": "借款",
+   "en": "loan",
+   "vi": "khoản vay",
+   "th": "เงินกู้"
+  },
+  "PINJAMAN DAERAH": {
+   "zh": "地方借款",
+   "en": "regional loan",
+   "vi": "khoản vay địa phương",
+   "th": "เงินกู้ท้องถิ่น"
+  },
+  "KREDIT": {
+   "zh": "信贷",
+   "en": "credit",
+   "vi": "tín dụng",
+   "th": "สินเชื่อ"
+  },
+  "BANK": {
+   "zh": "银行",
+   "en": "bank",
+   "vi": "ngân hàng",
+   "th": "ธนาคาร"
+  },
+  "LEMBAGA": {
+   "zh": "机构",
+   "en": "institution",
+   "vi": "tổ chức",
+   "th": "สถาบัน"
+  },
+  "BADAN": {
+   "zh": "机构",
+   "en": "body",
+   "vi": "cơ quan",
+   "th": "องค์กร"
+  },
+  "ORGANISASI": {
+   "zh": "组织",
+   "en": "organisation",
+   "vi": "tổ chức",
+   "th": "องค์การ"
+  },
+  "DEWAN": {
+   "zh": "理事会",
+   "en": "council",
+   "vi": "hội đồng",
+   "th": "สภา"
+  },
+  "KOMITE": {
+   "zh": "委员会",
+   "en": "committee",
+   "vi": "ủy ban",
+   "th": "คณะกรรมการ"
+  },
+  "KOMISI": {
+   "zh": "委员会",
+   "en": "commission",
+   "vi": "ủy ban",
+   "th": "คณะกรรมาธิการ"
+  },
+  "PANITIA": {
+   "zh": "工作组",
+   "en": "committee",
+   "vi": "ban",
+   "th": "คณะทำงาน"
+  },
+  "DANA": {
+   "zh": "基金",
+   "en": "fund",
+   "vi": "quỹ",
+   "th": "กองทุน"
+  },
+  "YAYASAN": {
+   "zh": "基金会",
+   "en": "foundation",
+   "vi": "quỹ",
+   "th": "มูลนิธิ"
+  },
+  "PERUSAHAAN": {
+   "zh": "企业",
+   "en": "enterprise",
+   "vi": "doanh nghiệp",
+   "th": "บริษัท"
+  },
+  "PERSEROAN": {
+   "zh": "公司",
+   "en": "company",
+   "vi": "công ty",
+   "th": "บริษัท"
+  },
+  "PERUSAHAAN PERSEROAN": {
+   "zh": "公司",
+   "en": "company",
+   "vi": "công ty",
+   "th": "บริษัทร่วมทุน"
+  },
+  "PERSEROAN TERBATAS": {
+   "zh": "有限责任公司",
+   "en": "limited liability company",
+   "vi": "công ty trách nhiệm hữu hạn",
+   "th": "บริษัทจำกัด"
+  },
+  "PERUSAHAAN UMUM": {
+   "zh": "公营企业",
+   "en": "public corporation",
+   "vi": "doanh nghiệp công",
+   "th": "รัฐวิสาหกิจ"
+  },
+  "KOPERASI": {
+   "zh": "合作社",
+   "en": "cooperative",
+   "vi": "hợp tác xã",
+   "th": "สหกรณ์"
+  },
+  "USAHA": {
+   "zh": "经营",
+   "en": "business",
+   "vi": "kinh doanh",
+   "th": "ธุรกิจ"
+  },
+  "PERIZINAN": {
+   "zh": "许可",
+   "en": "licensing",
+   "vi": "cấp phép",
+   "th": "การอนุญาต"
+  },
+  "IZIN": {
+   "zh": "许可",
+   "en": "permit",
+   "vi": "giấy phép",
+   "th": "ใบอนุญาต"
+  },
+  "PERSETUJUAN": {
+   "zh": "同意",
+   "en": "approval",
+   "vi": "chấp thuận",
+   "th": "การอนุมัติ"
+  },
+  "PERJANJIAN": {
+   "zh": "协定",
+   "en": "agreement",
+   "vi": "hiệp định",
+   "th": "ข้อตกลง"
+  },
+  "KONVENSI": {
+   "zh": "公约",
+   "en": "convention",
+   "vi": "công ước",
+   "th": "อนุสัญญา"
+  },
+  "PROTOKOL": {
+   "zh": "议定书",
+   "en": "protocol",
+   "vi": "nghị định thư",
+   "th": "พิธีสาร"
+  },
+  "KERJASAMA": {
+   "zh": "合作",
+   "en": "cooperation",
+   "vi": "hợp tác",
+   "th": "ความร่วมมือ"
+  },
+  "BANTUAN": {
+   "zh": "援助",
+   "en": "assistance",
+   "vi": "viện trợ",
+   "th": "ความช่วยเหลือ"
+  },
+  "BANTUAN KEUANGAN": {
+   "zh": "财政援助",
+   "en": "financial assistance",
+   "vi": "hỗ trợ tài chính",
+   "th": "ความช่วยเหลือทางการเงิน"
+  },
+  "PENGAWASAN": {
+   "zh": "监督",
+   "en": "supervision",
+   "vi": "giám sát",
+   "th": "การกำกับดูแล"
+  },
+  "PEMBINAAN": {
+   "zh": "培育",
+   "en": "development",
+   "vi": "xây dựng",
+   "th": "การส่งเสริม"
+  },
+  "PENGENDALIAN": {
+   "zh": "控制",
+   "en": "control",
+   "vi": "kiểm soát",
+   "th": "การควบคุม"
+  },
+  "PENGENDALIAN HARGA": {
+   "zh": "价格管制",
+   "en": "price control",
+   "vi": "kiểm soát giá",
+   "th": "การควบคุมราคา"
+  },
+  "LARANGAN": {
+   "zh": "禁止",
+   "en": "prohibition",
+   "vi": "lệnh cấm",
+   "th": "การห้าม"
+  },
+  "KEWAJIBAN": {
+   "zh": "义务",
+   "en": "obligation",
+   "vi": "nghĩa vụ",
+   "th": "หน้าที่"
+  },
+  "HAK": {
+   "zh": "权利",
+   "en": "right",
+   "vi": "quyền",
+   "th": "สิทธิ"
+  },
+  "HAK CIPTA": {
+   "zh": "著作权",
+   "en": "copyright",
+   "vi": "quyền tác giả",
+   "th": "ลิขสิทธิ์"
+  },
+  "TANGGUNG JAWAB": {
+   "zh": "责任",
+   "en": "responsibility",
+   "vi": "trách nhiệm",
+   "th": "ความรับผิดชอบ"
+  },
+  "PERTANGGUNGJAWABAN": {
+   "zh": "问责",
+   "en": "accountability",
+   "vi": "trách nhiệm giải trình",
+   "th": "ความรับผิดชอบ"
+  },
+  "SANKSI": {
+   "zh": "制裁",
+   "en": "sanction",
+   "vi": "chế tài",
+   "th": "การลงโทษ"
+  },
+  "PELANGGARAN": {
+   "zh": "违反",
+   "en": "violation",
+   "vi": "vi phạm",
+   "th": "การละเมิด"
+  },
+  "PIDANA": {
+   "zh": "刑事",
+   "en": "criminal",
+   "vi": "hình sự",
+   "th": "อาญา"
+  },
+  "PERDATA": {
+   "zh": "民事",
+   "en": "civil",
+   "vi": "dân sự",
+   "th": "แพ่ง"
+  },
+  "HUKUM": {
+   "zh": "法律",
+   "en": "law",
+   "vi": "pháp luật",
+   "th": "กฎหมาย"
+  },
+  "PERATURAN": {
+   "zh": "条例",
+   "en": "regulation",
+   "vi": "quy định",
+   "th": "กฎ"
+  },
+  "PERATURAN PERUNDANG-UNDANGAN": {
+   "zh": "法律法规",
+   "en": "legislation",
+   "vi": "văn bản pháp luật",
+   "th": "กฎหมาย"
+  },
+  "UNDANG-UNDANG": {
+   "zh": "法律",
+   "en": "law",
+   "vi": "luật",
+   "th": "พระราชบัญญัติ"
+  },
+  "KETENTUAN": {
+   "zh": "规定",
+   "en": "provisions",
+   "vi": "quy định",
+   "th": "ข้อกำหนด"
+  },
+  "KETENTUAN-KETENTUAN POKOK": {
+   "zh": "基本规定",
+   "en": "basic provisions",
+   "vi": "quy định cơ bản",
+   "th": "ข้อกำหนดหลัก"
+  },
+  "PEDOMAN": {
+   "zh": "准则",
+   "en": "guidelines",
+   "vi": "hướng dẫn",
+   "th": "แนวทาง"
+  },
+  "PETUNJUK": {
+   "zh": "指南",
+   "en": "guidance",
+   "vi": "chỉ dẫn",
+   "th": "แนวทาง"
+  },
+  "PETUNJUK PELAKSANAAN": {
+   "zh": "实施指南",
+   "en": "implementing guidance",
+   "vi": "hướng dẫn thực hiện",
+   "th": "แนวทางปฏิบัติ"
+  },
+  "STANDAR": {
+   "zh": "标准",
+   "en": "standard",
+   "vi": "tiêu chuẩn",
+   "th": "มาตรฐาน"
+  },
+  "PROSEDUR": {
+   "zh": "程序",
+   "en": "procedure",
+   "vi": "thủ tục",
+   "th": "ขั้นตอน"
+  },
+  "TATA CARA": {
+   "zh": "程序",
+   "en": "procedure",
+   "vi": "thủ tục",
+   "th": "วิธีปฏิบัติ"
+  },
+  "TATA KERJA": {
+   "zh": "工作制度",
+   "en": "work procedure",
+   "vi": "chế độ làm việc",
+   "th": "ระเบียบการทำงาน"
+  },
+  "TATA USAHA": {
+   "zh": "行政事务",
+   "en": "administration",
+   "vi": "hành chính",
+   "th": "ธุรการ"
+  },
+  "SUSUNAN": {
+   "zh": "组成",
+   "en": "composition",
+   "vi": "cơ cấu",
+   "th": "โครงสร้าง"
+  },
+  "STRUKTUR": {
+   "zh": "结构",
+   "en": "structure",
+   "vi": "cấu trúc",
+   "th": "โครงสร้าง"
+  },
+  "BENTUK": {
+   "zh": "形式",
+   "en": "form",
+   "vi": "hình thức",
+   "th": "รูปแบบ"
+  },
+  "JENIS": {
+   "zh": "种类",
+   "en": "type",
+   "vi": "loại",
+   "th": "ประเภท"
+  },
+  "JENIS DAN TARIF": {
+   "zh": "种类与费率",
+   "en": "types and tariffs",
+   "vi": "loại và biểu phí",
+   "th": "ประเภทและอัตรา"
+  },
+  "TINGKAT": {
+   "zh": "层级",
+   "en": "level",
+   "vi": "cấp",
+   "th": "ระดับ"
+  },
+  "BIDANG": {
+   "zh": "领域",
+   "en": "field",
+   "vi": "lĩnh vực",
+   "th": "สาขา"
+  },
+  "SISTEM": {
+   "zh": "制度",
+   "en": "system",
+   "vi": "hệ thống",
+   "th": "ระบบ"
+  },
+  "PROGRAM": {
+   "zh": "计划",
+   "en": "programme",
+   "vi": "chương trình",
+   "th": "โครงการ"
+  },
+  "RENCANA": {
+   "zh": "规划",
+   "en": "plan",
+   "vi": "kế hoạch",
+   "th": "แผน"
+  },
+  "KEBIJAKAN": {
+   "zh": "政策",
+   "en": "policy",
+   "vi": "chính sách",
+   "th": "นโยบาย"
+  },
+  "PEMBANGUNAN": {
+   "zh": "发展",
+   "en": "development",
+   "vi": "phát triển",
+   "th": "การพัฒนา"
+  },
+  "PENELITIAN": {
+   "zh": "研究",
+   "en": "research",
+   "vi": "nghiên cứu",
+   "th": "การวิจัย"
+  },
+  "PENDIDIKAN": {
+   "zh": "教育",
+   "en": "education",
+   "vi": "giáo dục",
+   "th": "การศึกษา"
+  },
+  "KESEHATAN": {
+   "zh": "卫生",
+   "en": "health",
+   "vi": "y tế",
+   "th": "สุขภาพ"
+  },
+  "TENAGA KERJA": {
+   "zh": "劳动力",
+   "en": "labour",
+   "vi": "lao động",
+   "th": "แรงงาน"
+  },
+  "PEGAWAI": {
+   "zh": "职员",
+   "en": "employee",
+   "vi": "nhân viên",
+   "th": "เจ้าหน้าที่"
+  },
+  "PEGAWAI NEGERI SIPIL": {
+   "zh": "公务员",
+   "en": "civil servant",
+   "vi": "công chức",
+   "th": "ข้าราชการ"
+  },
+  "KARYAWAN": {
+   "zh": "雇员",
+   "en": "employee",
+   "vi": "người lao động",
+   "th": "ลูกจ้าง"
+  },
+  "PEJABAT": {
+   "zh": "官员",
+   "en": "official",
+   "vi": "quan chức",
+   "th": "เจ้าหน้าที่"
+  },
+  "MENTERI": {
+   "zh": "部长",
+   "en": "minister",
+   "vi": "bộ trưởng",
+   "th": "รัฐมนตรี"
+  },
+  "KEMENTERIAN": {
+   "zh": "部",
+   "en": "ministry",
+   "vi": "bộ",
+   "th": "กระทรวง"
+  },
+  "DEPARTEMEN": {
+   "zh": "部门",
+   "en": "department",
+   "vi": "bộ",
+   "th": "กรม"
+  },
+  "PENGADILAN": {
+   "zh": "法院",
+   "en": "court",
+   "vi": "tòa án",
+   "th": "ศาล"
+  },
+  "MAHKAMAH": {
+   "zh": "法院",
+   "en": "court",
+   "vi": "tòa",
+   "th": "ศาล"
+  },
+  "KEJAKSAAN": {
+   "zh": "检察院",
+   "en": "prosecution service",
+   "vi": "viện kiểm sát",
+   "th": "อัยการ"
+  },
+  "KEPOLISIAN": {
+   "zh": "警察",
+   "en": "police",
+   "vi": "cảnh sát",
+   "th": "ตำรวจ"
+  },
+  "TENTARA": {
+   "zh": "军队",
+   "en": "army",
+   "vi": "quân đội",
+   "th": "ทหาร"
+  },
+  "PERTAHANAN": {
+   "zh": "国防",
+   "en": "defence",
+   "vi": "quốc phòng",
+   "th": "กลาโหม"
+  },
+  "KEAMANAN": {
+   "zh": "安全",
+   "en": "security",
+   "vi": "an ninh",
+   "th": "ความมั่นคง"
+  },
+  "KETERTIBAN": {
+   "zh": "秩序",
+   "en": "order",
+   "vi": "trật tự",
+   "th": "ความเป็นระเบียบ"
+  },
+  "KESELAMATAN": {
+   "zh": "安全",
+   "en": "safety",
+   "vi": "an toàn",
+   "th": "ความปลอดภัย"
+  },
+  "LINGKUNGAN": {
+   "zh": "环境",
+   "en": "environment",
+   "vi": "môi trường",
+   "th": "สิ่งแวดล้อม"
+  },
+  "LINGKUNGAN HIDUP": {
+   "zh": "环境",
+   "en": "environment",
+   "vi": "môi trường sống",
+   "th": "สิ่งแวดล้อม"
+  },
+  "PENCEMARAN": {
+   "zh": "污染",
+   "en": "pollution",
+   "vi": "ô nhiễm",
+   "th": "มลพิษ"
+  },
+  "LIMBAH": {
+   "zh": "废物",
+   "en": "waste",
+   "vi": "chất thải",
+   "th": "ของเสีย"
+  },
+  "PERLINDUNGAN": {
+   "zh": "保护",
+   "en": "protection",
+   "vi": "bảo vệ",
+   "th": "การคุ้มครอง"
+  },
+  "PELESTARIAN": {
+   "zh": "保存",
+   "en": "preservation",
+   "vi": "bảo tồn",
+   "th": "การอนุรักษ์"
+  },
+  "PENCEGAHAN": {
+   "zh": "预防",
+   "en": "prevention",
+   "vi": "phòng ngừa",
+   "th": "การป้องกัน"
+  },
+  "PEMBERANTASAN": {
+   "zh": "根除",
+   "en": "eradication",
+   "vi": "trấn áp",
+   "th": "การปราบปราม"
+  },
+  "REHABILITASI": {
+   "zh": "恢复",
+   "en": "rehabilitation",
+   "vi": "phục hồi",
+   "th": "การฟื้นฟู"
+  },
+  "KORBAN": {
+   "zh": "受害人",
+   "en": "victim",
+   "vi": "nạn nhân",
+   "th": "ผู้เสียหาย"
+  },
+  "BENCANA": {
+   "zh": "灾害",
+   "en": "disaster",
+   "vi": "thiên tai",
+   "th": "ภัยพิบัติ"
+  },
+  "DARURAT": {
+   "zh": "紧急",
+   "en": "emergency",
+   "vi": "khẩn cấp",
+   "th": "ฉุกเฉิน"
+  },
+  "PEMILIHAN UMUM": {
+   "zh": "大选",
+   "en": "general election",
+   "vi": "tổng tuyển cử",
+   "th": "การเลือกตั้งทั่วไป"
+  },
+  "PARTAI POLITIK": {
+   "zh": "政党",
+   "en": "political party",
+   "vi": "đảng chính trị",
+   "th": "พรรคการเมือง"
+  },
+  "URUSAN": {
+   "zh": "事务",
+   "en": "affairs",
+   "vi": "công việc",
+   "th": "กิจการ"
+  },
+  "WEWENANG": {
+   "zh": "权限",
+   "en": "authority",
+   "vi": "thẩm quyền",
+   "th": "อำนาจ"
+  },
+  "KEWENANGAN": {
+   "zh": "权限",
+   "en": "authority",
+   "vi": "thẩm quyền",
+   "th": "อำนาจ"
+  },
+  "TUGAS": {
+   "zh": "任务",
+   "en": "duty",
+   "vi": "nhiệm vụ",
+   "th": "หน้าที่"
+  },
+  "FUNGSI": {
+   "zh": "职能",
+   "en": "function",
+   "vi": "chức năng",
+   "th": "หน้าที่"
+  },
+  "JABATAN": {
+   "zh": "职位",
+   "en": "position",
+   "vi": "chức vụ",
+   "th": "ตำแหน่ง"
+  },
+  "PEMBERHENTIAN": {
+   "zh": "免职",
+   "en": "dismissal",
+   "vi": "miễn nhiệm",
+   "th": "การถอดถอน"
+  },
+  "MASA JABATAN": {
+   "zh": "任期",
+   "en": "term of office",
+   "vi": "nhiệm kỳ",
+   "th": "วาระการดำรงตำแหน่ง"
+  },
+  "GAJI": {
+   "zh": "工资",
+   "en": "salary",
+   "vi": "tiền lương",
+   "th": "เงินเดือน"
+  },
+  "TUNJANGAN": {
+   "zh": "津贴",
+   "en": "allowance",
+   "vi": "phụ cấp",
+   "th": "เบี้ยเลี้ยง"
+  },
+  "PENSIUN": {
+   "zh": "退休金",
+   "en": "pension",
+   "vi": "hưu trí",
+   "th": "บำนาญ"
+  },
+  "JAMINAN": {
+   "zh": "保障",
+   "en": "guarantee",
+   "vi": "bảo đảm",
+   "th": "การประกัน"
+  },
+  "ASURANSI": {
+   "zh": "保险",
+   "en": "insurance",
+   "vi": "bảo hiểm",
+   "th": "ประกันภัย"
+  },
+  "KESEJAHTERAAN": {
+   "zh": "福利",
+   "en": "welfare",
+   "vi": "phúc lợi",
+   "th": "สวัสดิการ"
+  },
+  "SOSIAL": {
+   "zh": "社会",
+   "en": "social",
+   "vi": "xã hội",
+   "th": "สังคม"
+  },
+  "BUDAYA": {
+   "zh": "文化",
+   "en": "culture",
+   "vi": "văn hóa",
+   "th": "วัฒนธรรม"
+  },
+  "PARIWISATA": {
+   "zh": "旅游",
+   "en": "tourism",
+   "vi": "du lịch",
+   "th": "การท่องเที่ยว"
+  },
+  "OLAHRAGA": {
+   "zh": "体育",
+   "en": "sports",
+   "vi": "thể thao",
+   "th": "กีฬา"
+  },
+  "SENI": {
+   "zh": "艺术",
+   "en": "arts",
+   "vi": "nghệ thuật",
+   "th": "ศิลปะ"
+  },
+  "AGAMA": {
+   "zh": "宗教",
+   "en": "religion",
+   "vi": "tôn giáo",
+   "th": "ศาสนา"
+  },
+  "IBADAH HAJI": {
+   "zh": "朝觐",
+   "en": "hajj pilgrimage",
+   "vi": "hành hương Hajj",
+   "th": "พิธีฮัจญ์"
+  },
+  "ZAKAT": {
+   "zh": "天课",
+   "en": "zakat",
+   "vi": "zakat",
+   "th": "ซะกาต"
+  },
+  "WAKAF": {
+   "zh": "宗教捐赠",
+   "en": "waqf",
+   "vi": "waqf",
+   "th": "วะกัฟ"
+  },
+  "KOMUNIKASI": {
+   "zh": "通信",
+   "en": "communication",
+   "vi": "truyền thông",
+   "th": "การสื่อสาร"
+  },
+  "INFORMASI": {
+   "zh": "信息",
+   "en": "information",
+   "vi": "thông tin",
+   "th": "ข้อมูล"
+  },
+  "TEKNOLOGI": {
+   "zh": "技术",
+   "en": "technology",
+   "vi": "công nghệ",
+   "th": "เทคโนโลยี"
+  },
+  "TELEKOMUNIKASI": {
+   "zh": "电信",
+   "en": "telecommunications",
+   "vi": "viễn thông",
+   "th": "โทรคมนาคม"
+  },
+  "TRANSPORTASI": {
+   "zh": "运输",
+   "en": "transportation",
+   "vi": "giao thông vận tải",
+   "th": "การขนส่ง"
+  },
+  "PERHUBUNGAN": {
+   "zh": "交通",
+   "en": "transport",
+   "vi": "giao thông",
+   "th": "คมนาคม"
+  },
+  "ANGKUTAN": {
+   "zh": "运输",
+   "en": "transport",
+   "vi": "vận tải",
+   "th": "การขนส่ง"
+  },
+  "JALAN": {
+   "zh": "道路",
+   "en": "road",
+   "vi": "đường",
+   "th": "ถนน"
+  },
+  "KERETA API": {
+   "zh": "铁路",
+   "en": "railway",
+   "vi": "đường sắt",
+   "th": "รถไฟ"
+  },
+  "PELABUHAN": {
+   "zh": "港口",
+   "en": "port",
+   "vi": "cảng",
+   "th": "ท่าเรือ"
+  },
+  "BANDAR UDARA": {
+   "zh": "机场",
+   "en": "airport",
+   "vi": "sân bay",
+   "th": "สนามบิน"
+  },
+  "PENERBANGAN": {
+   "zh": "航空",
+   "en": "aviation",
+   "vi": "hàng không",
+   "th": "การบิน"
+  },
+  "PELAYARAN": {
+   "zh": "航运",
+   "en": "shipping",
+   "vi": "hàng hải",
+   "th": "การเดินเรือ"
+  },
+  "KEPABEANAN": {
+   "zh": "海关",
+   "en": "customs",
+   "vi": "hải quan",
+   "th": "ศุลกากร"
+  },
+  "IMIGRASI": {
+   "zh": "出入境",
+   "en": "immigration",
+   "vi": "xuất nhập cảnh",
+   "th": "คนเข้าเมือง"
+  },
+  "KARANTINA": {
+   "zh": "检疫",
+   "en": "quarantine",
+   "vi": "kiểm dịch",
+   "th": "การกักกัน"
+  },
+  "KARANTINA HEWAN": {
+   "zh": "动物检疫",
+   "en": "animal quarantine",
+   "vi": "kiểm dịch động vật",
+   "th": "การกักกันสัตว์"
+  },
+  "TANAMAN": {
+   "zh": "植物",
+   "en": "plant",
+   "vi": "thực vật",
+   "th": "พืช"
+  },
+  "HEWAN": {
+   "zh": "动物",
+   "en": "animal",
+   "vi": "động vật",
+   "th": "สัตว์"
+  },
+  "IKAN": {
+   "zh": "鱼",
+   "en": "fish",
+   "vi": "cá",
+   "th": "ปลา"
+  },
+  "OBAT": {
+   "zh": "药品",
+   "en": "medicine",
+   "vi": "thuốc",
+   "th": "ยา"
+  },
+  "PANGAN": {
+   "zh": "粮食",
+   "en": "food",
+   "vi": "lương thực",
+   "th": "อาหาร"
+  },
+  "RUMAH": {
+   "zh": "房屋",
+   "en": "house",
+   "vi": "nhà",
+   "th": "บ้าน"
+  },
+  "PERUMAHAN": {
+   "zh": "住房",
+   "en": "housing",
+   "vi": "nhà ở",
+   "th": "ที่อยู่อาศัย"
+  },
+  "BANGUNAN": {
+   "zh": "建筑物",
+   "en": "building",
+   "vi": "công trình",
+   "th": "อาคาร"
+  },
+  "KONSTRUKSI": {
+   "zh": "建筑",
+   "en": "construction",
+   "vi": "xây dựng",
+   "th": "การก่อสร้าง"
+  },
+  "JASA KONSTRUKSI": {
+   "zh": "建筑服务",
+   "en": "construction services",
+   "vi": "dịch vụ xây dựng",
+   "th": "บริการก่อสร้าง"
+  },
+  "PENGADAAN BARANG DAN JASA": {
+   "zh": "货物与服务采购",
+   "en": "procurement of goods and services",
+   "vi": "mua sắm hàng hóa và dịch vụ",
+   "th": "การจัดหาสินค้าและบริการ"
+  },
+  "NASIONAL": {
+   "zh": "国家",
+   "en": "national",
+   "vi": "quốc gia",
+   "th": "แห่งชาติ"
+  },
+  "INTERNASIONAL": {
+   "zh": "国际",
+   "en": "international",
+   "vi": "quốc tế",
+   "th": "นานาชาติ"
+  },
+  "UMUM": {
+   "zh": "公共",
+   "en": "general",
+   "vi": "công cộng",
+   "th": "ทั่วไป"
+  },
+  "KHUSUS": {
+   "zh": "特别",
+   "en": "special",
+   "vi": "đặc biệt",
+   "th": "พิเศษ"
+  },
+  "TERTENTU": {
+   "zh": "特定",
+   "en": "certain",
+   "vi": "nhất định",
+   "th": "ที่กำหนด"
+  },
+  "TERSEBUT": {
+   "zh": "上述",
+   "en": "aforementioned",
+   "vi": "nêu trên",
+   "th": "ดังกล่าว"
+  },
+  "DIMAKSUD": {
+   "zh": "所称",
+   "en": "referred to",
+   "vi": "được nói tới",
+   "th": "ที่กล่าวถึง"
+  },
+  "BARU": {
+   "zh": "新",
+   "en": "new",
+   "vi": "mới",
+   "th": "ใหม่"
+  },
+  "LAIN": {
+   "zh": "其他",
+   "en": "other",
+   "vi": "khác",
+   "th": "อื่น"
+  },
+  "LAINNYA": {
+   "zh": "其他",
+   "en": "other",
+   "vi": "khác",
+   "th": "อื่น ๆ"
+  },
+  "SEMENTARA": {
+   "zh": "临时",
+   "en": "temporary",
+   "vi": "tạm thời",
+   "th": "ชั่วคราว"
+  },
+  "TETAP": {
+   "zh": "固定",
+   "en": "permanent",
+   "vi": "cố định",
+   "th": "ถาวร"
+  },
+  "BUKAN PAJAK": {
+   "zh": "非税",
+   "en": "non-tax",
+   "vi": "phi thuế",
+   "th": "ที่มิใช่ภาษี"
+  },
+  "KENA PAJAK": {
+   "zh": "应税",
+   "en": "taxable",
+   "vi": "chịu thuế",
+   "th": "ที่ต้องเสียภาษี"
+  },
+  "DALAM NEGERI": {
+   "zh": "国内",
+   "en": "domestic",
+   "vi": "trong nước",
+   "th": "ในประเทศ"
+  },
+  "LUAR NEGERI": {
+   "zh": "国外",
+   "en": "foreign",
+   "vi": "nước ngoài",
+   "th": "ต่างประเทศ"
+  },
+  "ASING": {
+   "zh": "外国",
+   "en": "foreign",
+   "vi": "nước ngoài",
+   "th": "ต่างชาติ"
+  },
+  "SWASTA": {
+   "zh": "私营",
+   "en": "private",
+   "vi": "tư nhân",
+   "th": "เอกชน"
+  },
+  "SIPIL": {
+   "zh": "文职",
+   "en": "civil",
+   "vi": "dân sự",
+   "th": "พลเรือน"
+  },
+  "BERLAKU": {
+   "zh": "现行",
+   "en": "applicable",
+   "vi": "có hiệu lực",
+   "th": "ที่ใช้บังคับ"
+  },
+  "YANG BERLAKU": {
+   "zh": "现行",
+   "en": "currently applicable",
+   "vi": "đang có hiệu lực",
+   "th": "ที่ใช้บังคับอยู่ในปัจจุบัน"
+  },
+  "PEMBERLAKUAN": {
+   "zh": "适用",
+   "en": "application",
+   "vi": "áp dụng",
+   "th": "การบังคับใช้"
+  },
+  "PELAKSANAAN": {
+   "zh": "实施",
+   "en": "implementation",
+   "vi": "thực hiện",
+   "th": "การดำเนินการ"
+  },
+  "PENGGUNAAN": {
+   "zh": "使用",
+   "en": "use",
+   "vi": "sử dụng",
+   "th": "การใช้"
+  },
+  "PEMANFAATAN": {
+   "zh": "利用",
+   "en": "utilisation",
+   "vi": "khai thác",
+   "th": "การใช้ประโยชน์"
+  },
+  "PENGELOLAAN": {
+   "zh": "管理",
+   "en": "management",
+   "vi": "quản lý",
+   "th": "การบริหารจัดการ"
+  },
+  "PENGEMBANGAN": {
+   "zh": "发展",
+   "en": "development",
+   "vi": "phát triển",
+   "th": "การพัฒนา"
+  },
+  "PENINGKATAN": {
+   "zh": "提升",
+   "en": "improvement",
+   "vi": "nâng cao",
+   "th": "การยกระดับ"
+  },
+  "PENYEMPURNAAN": {
+   "zh": "完善",
+   "en": "refinement",
+   "vi": "hoàn thiện",
+   "th": "การปรับปรุง"
+  },
+  "PENETAPAN": {
+   "zh": "确定",
+   "en": "determination",
+   "vi": "xác định",
+   "th": "การกำหนด"
+  },
+  "PENETAPAN LOKASI": {
+   "zh": "选址确定",
+   "en": "site determination",
+   "vi": "xác định địa điểm",
+   "th": "การกำหนดที่ตั้ง"
+  },
+  "PEMBAGIAN": {
+   "zh": "分配",
+   "en": "distribution",
+   "vi": "phân chia",
+   "th": "การแบ่ง"
+  },
+  "PEMBAGIAN URUSAN": {
+   "zh": "事务划分",
+   "en": "division of affairs",
+   "vi": "phân chia công việc",
+   "th": "การแบ่งกิจการ"
+  },
+  "PENYERAHAN URUSAN": {
+   "zh": "事务移交",
+   "en": "handover of affairs",
+   "vi": "chuyển giao công việc",
+   "th": "การส่งมอบกิจการ"
+  },
+  "PELIMPAHAN": {
+   "zh": "下放",
+   "en": "delegation",
+   "vi": "phân cấp",
+   "th": "การมอบอำนาจ"
+  },
+  "PENGGABUNGAN": {
+   "zh": "合并",
+   "en": "merger",
+   "vi": "hợp nhất",
+   "th": "การรวม"
+  },
+  "PELEBURAN": {
+   "zh": "合并",
+   "en": "amalgamation",
+   "vi": "sáp nhập",
+   "th": "การควบรวม"
+  },
+  "PENGURANGAN": {
+   "zh": "削减",
+   "en": "reduction",
+   "vi": "cắt giảm",
+   "th": "การลด"
+  },
+  "PENAMBAHAN": {
+   "zh": "增设",
+   "en": "addition",
+   "vi": "bổ sung",
+   "th": "การเพิ่มเติม"
+  },
+  "TAMBAHAN": {
+   "zh": "追加",
+   "en": "supplement",
+   "vi": "bổ sung",
+   "th": "เพิ่มเติม"
+  },
+  "PENSIUN POKOK": {
+   "zh": "基本退休金",
+   "en": "basic pension",
+   "vi": "lương hưu cơ bản",
+   "th": "บำนาญพื้นฐาน"
+  },
+  "GAJI PENSIUN TUNJANGAN": {
+   "zh": "工资、退休金与津贴",
+   "en": "salaries, pensions and allowances",
+   "vi": "lương, hưu trí và phụ cấp",
+   "th": "เงินเดือน บำนาญ และเบี้ยเลี้ยง"
+  },
+  "STATUTA": {
+   "zh": "章程",
+   "en": "statutes",
+   "vi": "điều lệ",
+   "th": "ข้อบังคับ"
+  },
+  "ANGGARAN DASAR": {
+   "zh": "章程",
+   "en": "articles of association",
+   "vi": "điều lệ",
+   "th": "ข้อบังคับ"
+  },
+  "TANDA": {
+   "zh": "标识",
+   "en": "mark",
+   "vi": "dấu hiệu",
+   "th": "เครื่องหมาย"
+  },
+  "NAMA": {
+   "zh": "名称",
+   "en": "name",
+   "vi": "tên",
+   "th": "ชื่อ"
+  },
+  "PERUBAHAN NAMA": {
+   "zh": "名称变更",
+   "en": "change of name",
+   "vi": "đổi tên",
+   "th": "การเปลี่ยนชื่อ"
+  },
+  "KEPUTUSAN": {
+   "zh": "决定",
+   "en": "decision",
+   "vi": "quyết định",
+   "th": "คำวินิจฉัย"
+  },
+  "PERSYARATAN": {
+   "zh": "条件",
+   "en": "requirements",
+   "vi": "điều kiện",
+   "th": "เงื่อนไข"
+  },
+  "PERLAKUAN": {
+   "zh": "待遇",
+   "en": "treatment",
+   "vi": "đối xử",
+   "th": "การปฏิบัติ"
+  },
+  "PERLAKUAN PAJAK": {
+   "zh": "税务待遇",
+   "en": "tax treatment",
+   "vi": "đối xử thuế",
+   "th": "การปฏิบัติทางภาษี"
+  },
+  "FASILITAS": {
+   "zh": "便利",
+   "en": "facility",
+   "vi": "ưu đãi",
+   "th": "สิ่งอำนวยความสะดวก"
+  },
+  "SISA": {
+   "zh": "结余",
+   "en": "remainder",
+   "vi": "số dư",
+   "th": "ส่วนที่เหลือ"
+  },
+  "LALU LINTAS": {
+   "zh": "交通",
+   "en": "traffic",
+   "vi": "giao thông",
+   "th": "การจราจร"
+  },
+  "STATISTIK": {
+   "zh": "统计",
+   "en": "statistics",
+   "vi": "thống kê",
+   "th": "สถิติ"
+  },
+  "BIDANG KEUANGAN": {
+   "zh": "财政领域",
+   "en": "financial sector",
+   "vi": "lĩnh vực tài chính",
+   "th": "ด้านการเงิน"
+  },
+  "PELAYANAN": {
+   "zh": "服务",
+   "en": "service",
+   "vi": "dịch vụ",
+   "th": "บริการ"
+  },
+  "PELAYANAN PUBLIK": {
+   "zh": "公共服务",
+   "en": "public service",
+   "vi": "dịch vụ công",
+   "th": "บริการสาธารณะ"
+  },
+  "KEPENTINGAN": {
+   "zh": "利益",
+   "en": "interest",
+   "vi": "lợi ích",
+   "th": "ประโยชน์"
+  },
+  "KEPENTINGAN UMUM": {
+   "zh": "公共利益",
+   "en": "public interest",
+   "vi": "lợi ích công cộng",
+   "th": "ประโยชน์สาธารณะ"
+  },
+  "PERSERO": {
+   "zh": "国有公司",
+   "en": "state-owned company",
+   "vi": "công ty nhà nước",
+   "th": "บริษัทของรัฐ"
+  },
+  "PERSEROAN (PERSERO)": {
+   "zh": "国有公司",
+   "en": "state-owned company",
+   "vi": "công ty nhà nước",
+   "th": "บริษัทของรัฐ"
+  },
+  "PERUM": {
+   "zh": "公营企业",
+   "en": "public corporation",
+   "vi": "doanh nghiệp công",
+   "th": "รัฐวิสาหกิจ"
+  },
+  "(PERSERO)": {
+   "zh": "国有公司",
+   "en": "Persero",
+   "vi": "Persero",
+   "th": "เปอร์เซโร"
+  },
+  "(PERUM)": {
+   "zh": "公营企业",
+   "en": "Perum",
+   "vi": "Perum",
+   "th": "เปรุม"
+  },
+  "ANGGARAN PENDAPATAN DAN BELANJA": {
+   "zh": "收支预算",
+   "en": "revenue and expenditure budget",
+   "vi": "ngân sách thu chi",
+   "th": "งบประมาณรายรับรายจ่าย"
+  },
+  "PENDAPATAN DAN BELANJA": {
+   "zh": "收支",
+   "en": "revenue and expenditure",
+   "vi": "thu và chi",
+   "th": "รายรับและรายจ่าย"
+  },
+  "BELANJA PEGAWAI": {
+   "zh": "人员经费",
+   "en": "personnel expenditure",
+   "vi": "chi cho nhân sự",
+   "th": "รายจ่ายบุคคล"
+  },
+  "PERJANJIAN PERDAGANGAN": {
+   "zh": "贸易协定",
+   "en": "trade agreement",
+   "vi": "hiệp định thương mại",
+   "th": "ความตกลงทางการค้า"
+  },
+  "PERSETUJUAN PEMERINTAH": {
+   "zh": "政府同意",
+   "en": "government approval",
+   "vi": "chấp thuận của chính phủ",
+   "th": "ความเห็นชอบของรัฐบาล"
+  },
+  "PEMERINTAH PUSAT": {
+   "zh": "中央政府",
+   "en": "central government",
+   "vi": "chính phủ trung ương",
+   "th": "รัฐบาลกลาง"
+  },
+  "TINDAK PIDANA": {
+   "zh": "犯罪行为",
+   "en": "criminal act",
+   "vi": "hành vi phạm tội",
+   "th": "การกระทำความผิดอาญา"
+  },
+  "TINDAK PIDANA KORUPSI": {
+   "zh": "腐败犯罪",
+   "en": "corruption offence",
+   "vi": "tội phạm tham nhũng",
+   "th": "ความผิดฐานทุจริต"
+  },
+  "PERPAJAKAN": {
+   "zh": "税务",
+   "en": "taxation",
+   "vi": "thuế khóa",
+   "th": "ภาษีอากร"
+  },
+  "KEPEMILIKAN": {
+   "zh": "所有权",
+   "en": "ownership",
+   "vi": "quyền sở hữu",
+   "th": "ความเป็นเจ้าของ"
+  },
+  "KEPEMILIKAN SAHAM": {
+   "zh": "股份持有",
+   "en": "share ownership",
+   "vi": "sở hữu cổ phần",
+   "th": "การถือหุ้น"
+  },
+  "KEGIATAN": {
+   "zh": "活动",
+   "en": "activity",
+   "vi": "hoạt động",
+   "th": "กิจกรรม"
+  },
+  "KEGIATAN USAHA": {
+   "zh": "经营活动",
+   "en": "business activity",
+   "vi": "hoạt động kinh doanh",
+   "th": "กิจกรรมทางธุรกิจ"
+  },
+  "MILIK": {
+   "zh": "所有",
+   "en": "owned",
+   "vi": "thuộc sở hữu",
+   "th": "เป็นเจ้าของ"
+  },
+  "MILIK NEGARA": {
+   "zh": "国家所有",
+   "en": "state-owned",
+   "vi": "thuộc nhà nước",
+   "th": "ของรัฐ"
+  },
+  "PATOKAN": {
+   "zh": "基准",
+   "en": "benchmark",
+   "vi": "mức chuẩn",
+   "th": "มาตรฐานอ้างอิง"
+  },
+  "HARGA PATOKAN": {
+   "zh": "基准价格",
+   "en": "benchmark price",
+   "vi": "giá chuẩn",
+   "th": "ราคาอ้างอิง"
+  },
+  "EKSPOR": {
+   "zh": "出口",
+   "en": "export",
+   "vi": "xuất khẩu",
+   "th": "การส่งออก"
+  },
+  "IMPOR": {
+   "zh": "进口",
+   "en": "import",
+   "vi": "nhập khẩu",
+   "th": "การนำเข้า"
+  },
+  "EKONOMI": {
+   "zh": "经济",
+   "en": "economy",
+   "vi": "kinh tế",
+   "th": "เศรษฐกิจ"
+  },
+  "TEKNIS": {
+   "zh": "技术性",
+   "en": "technical",
+   "vi": "kỹ thuật",
+   "th": "ทางเทคนิค"
+  },
+  "ADMINISTRASI": {
+   "zh": "行政",
+   "en": "administration",
+   "vi": "hành chính",
+   "th": "การบริหาร"
+  },
+  "KEDUDUKAN": {
+   "zh": "地位",
+   "en": "position",
+   "vi": "vị trí",
+   "th": "สถานะ"
+  },
+  "HARI": {
+   "zh": "日",
+   "en": "day",
+   "vi": "ngày",
+   "th": "วัน"
+  },
+  "TAHUN": {
+   "zh": "年度",
+   "en": "year",
+   "vi": "năm",
+   "th": "ปี"
+  },
+  "UNIVERSITAS": {
+   "zh": "大学",
+   "en": "university",
+   "vi": "đại học",
+   "th": "มหาวิทยาลัย"
+  },
+  "PENSIUNAN": {
+   "zh": "退休人员",
+   "en": "pensioner",
+   "vi": "người hưởng hưu",
+   "th": "ผู้รับบำนาญ"
+  },
+  "PURNAWIRAWAN": {
+   "zh": "退役军人",
+   "en": "veteran",
+   "vi": "quân nhân hưu",
+   "th": "ทหารผ่านศึก"
+  },
+  "JAWATAN": {
+   "zh": "职位",
+   "en": "post",
+   "vi": "chức vụ",
+   "th": "ตำแหน่ง"
+  },
+  "TINGGI": {
+   "zh": "高等",
+   "en": "higher",
+   "vi": "cao",
+   "th": "สูง"
+  },
+  "TINGKAT TINGGI": {
+   "zh": "高级",
+   "en": "high level",
+   "vi": "cấp cao",
+   "th": "ระดับสูง"
+  },
+  "PENDIDIKAN TINGGI": {
+   "zh": "高等教育",
+   "en": "higher education",
+   "vi": "giáo dục đại học",
+   "th": "อุดมศึกษา"
+  },
+  "PENGADAAN PEGAWAI": {
+   "zh": "人员录用",
+   "en": "recruitment of personnel",
+   "vi": "tuyển dụng nhân sự",
+   "th": "การรับบุคลากร"
+  },
+  "PENGADAAN PEGAWAI NEGERI SIPIL": {
+   "zh": "公务员录用",
+   "en": "recruitment of civil servants",
+   "vi": "tuyển dụng công chức",
+   "th": "การรับข้าราชการ"
+  },
+  "PENGHASILAN": {
+   "zh": "所得",
+   "en": "income",
+   "vi": "thu nhập",
+   "th": "รายได้"
+  },
+  "KOMITE NASIONAL": {
+   "zh": "国家委员会",
+   "en": "national committee",
+   "vi": "ủy ban quốc gia",
+   "th": "คณะกรรมการแห่งชาติ"
+  },
+  "KOMITE NASIONAL DAERAH": {
+   "zh": "地方国家委员会",
+   "en": "regional national committee",
+   "vi": "ủy ban quốc gia địa phương",
+   "th": "คณะกรรมการแห่งชาติส่วนภูมิภาค"
+  },
+  "PERUBAHAN": {
+   "zh": "修订",
+   "en": "amendment",
+   "vi": "sửa đổi",
+   "th": "การแก้ไข"
+  },
+  "PEMBENTUKAN": {
+   "zh": "设立",
+   "en": "establishment",
+   "vi": "thành lập",
+   "th": "การจัดตั้ง"
+  },
+  "PENYELENGGARAAN": {
+   "zh": "举办",
+   "en": "organisation",
+   "vi": "tổ chức",
+   "th": "การจัด"
+  },
+  "PENDIRIAN": {
+   "zh": "成立",
+   "en": "establishment",
+   "vi": "thành lập",
+   "th": "การก่อตั้ง"
+  },
+  "PEMBERIAN": {
+   "zh": "授予",
+   "en": "granting",
+   "vi": "cấp",
+   "th": "การให้"
+  },
+  "PENGATURAN": {
+   "zh": "规范",
+   "en": "regulation",
+   "vi": "quy định",
+   "th": "การกำหนดระเบียบ"
+  },
+  "PENGALIHAN": {
+   "zh": "转拨",
+   "en": "reallocation",
+   "vi": "chuyển",
+   "th": "การโอน"
+  },
+  "PENGANGKATAN": {
+   "zh": "任命",
+   "en": "appointment",
+   "vi": "bổ nhiệm",
+   "th": "การแต่งตั้ง"
+  },
+  "PRODUK": {
+   "zh": "产品",
+   "en": "product",
+   "vi": "sản phẩm",
+   "th": "ผลิตภัณฑ์"
+  },
+  "SAKIT": {
+   "zh": "病",
+   "en": "illness",
+   "vi": "bệnh",
+   "th": "โรค"
+  },
+  "RUMAH SAKIT": {
+   "zh": "医院",
+   "en": "hospital",
+   "vi": "bệnh viện",
+   "th": "โรงพยาบาล"
+  },
+  "JALAN RAYA": {
+   "zh": "公路",
+   "en": "highway",
+   "vi": "đường bộ",
+   "th": "ทางหลวง"
+  },
+  "MELALUI": {
+   "zh": "通过",
+   "en": "through",
+   "vi": "thông qua",
+   "th": "ผ่าน"
+  },
+  "HAKIM": {
+   "zh": "法官",
+   "en": "judge",
+   "vi": "thẩm phán",
+   "th": "ผู้พิพากษา"
+  },
+  "JANDA": {
+   "zh": "遗孀",
+   "en": "widow",
+   "vi": "quả phụ",
+   "th": "แม่หม้าย"
+  },
+  "TENAGA": {
+   "zh": "人员",
+   "en": "personnel",
+   "vi": "nhân lực",
+   "th": "กำลังคน"
+  },
+  "PENYIARAN": {
+   "zh": "广播",
+   "en": "broadcasting",
+   "vi": "phát sóng",
+   "th": "การกระจายเสียง"
+  },
+  "PEMBIAYAAN": {
+   "zh": "融资",
+   "en": "financing",
+   "vi": "tài trợ vốn",
+   "th": "การจัดหาเงินทุน"
+  },
+  "FUNGSIONAL": {
+   "zh": "职能",
+   "en": "functional",
+   "vi": "chức năng",
+   "th": "สายงาน"
+  },
+  "SUMBER": {
+   "zh": "资源",
+   "en": "resource",
+   "vi": "nguồn",
+   "th": "แหล่ง"
+  },
+  "SUMBER DAYA": {
+   "zh": "资源",
+   "en": "resources",
+   "vi": "tài nguyên",
+   "th": "ทรัพยากร"
+  },
+  "KEPULAUAN": {
+   "zh": "群岛",
+   "en": "archipelago",
+   "vi": "quần đảo",
+   "th": "หมู่เกาะ"
+  },
+  "PENGAMANAN": {
+   "zh": "保安",
+   "en": "security",
+   "vi": "bảo vệ",
+   "th": "การรักษาความปลอดภัย"
+  },
+  "STANDARDISASI": {
+   "zh": "标准化",
+   "en": "standardisation",
+   "vi": "tiêu chuẩn hóa",
+   "th": "การมาตรฐาน"
+  },
+  "PROPINSI": {
+   "zh": "省",
+   "en": "province",
+   "vi": "tỉnh",
+   "th": "จังหวัด"
+  },
+  "MENJADI": {
+   "zh": "成为",
+   "en": "to become",
+   "vi": "trở thành",
+   "th": "เป็น"
+  },
+  "NOMOR": {
+   "zh": "编号",
+   "en": "number",
+   "vi": "số",
+   "th": "หมายเลข"
+  },
+  "PERMENDAG": {
+   "zh": "贸易部长条例",
+   "en": "Minister of Trade Regulation",
+   "vi": "Thông tư Bộ trưởng Thương mại",
+   "th": "กฎกระทรวงพาณิชย์"
+  },
+  "RANGKA": {
+   "zh": "框架",
+   "en": "framework",
+   "vi": "khuôn khổ",
+   "th": "กรอบ"
+  },
+  "DALAM RANGKA": {
+   "zh": "为",
+   "en": "in the framework of",
+   "vi": "nhằm",
+   "th": "เพื่อ"
+  },
+  "PELAYANAN KESEHATAN": {
+   "zh": "卫生服务",
+   "en": "health services",
+   "vi": "dịch vụ y tế",
+   "th": "บริการสุขภาพ"
+  },
+  "PUSAT KESEHATAN MASYARAKAT": {
+   "zh": "社区卫生中心",
+   "en": "community health centre",
+   "vi": "trung tâm y tế xã",
+   "th": "ศูนย์สุขภาพชุมชน"
+  }
+ }
+}

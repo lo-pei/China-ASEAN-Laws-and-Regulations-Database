@@ -1,0 +1,2783 @@
+{
+ "batch": "vn-p1-b01",
+ "scope": "VN 法律（Luật/Bộ luật）· 术语表组装 · 主题 211 条",
+ "generatedFrom": "_work/title-multi/engine/gen_vn.js",
+ "items": {
+  "VN-H301": {
+   "zh": "土地改革法",
+   "en": "Law on land reform",
+   "vi": "Luật Cải cách ruộng đất",
+   "th": "พระราชบัญญัติการปฏิรูปที่ดิน",
+   "id": "Undang-Undang Reformasi Agraria",
+   "ms": "Akta Pembaharuan Tanah"
+  },
+  "VN-H302": {
+   "zh": "集会自由规制法",
+   "en": "Law No. 101-SL/L003 on regulation of freedom of assembly",
+   "vi": "Luật Về việc quy định quyền tự do hội họp số 101-SL/L003",
+   "th": "พระราชบัญญัติข้อกำหนดเสรีภาพในการชุมนุม เลขที่ 101-SL/L003",
+   "id": "Undang-Undang Pengaturan Kebebasan Berkumpul No. 101-SL/L003",
+   "ms": "Akta Peraturan Kebebasan Berhimpun No. 101-SL/L003"
+  },
+  "VN-H303": {
+   "zh": "人身自由及人民住宅、财物、通信不可侵犯权的保障法",
+   "en": "Law No. 103-SL/L005 on guarantee of the right to personal freedom and the inviolability of people's homes, property and correspondence",
+   "vi": "Luật Về việc đảm bảo quyền tự do thân thể và quyền bất khả xâm phạm đối với nhà ở, đồ vật, thư tín của nhân dân số 103-SL/L005",
+   "th": "พระราชบัญญัติข้อกำหนดการรับรองเสรีภาพในร่างกายและความมิอาจล่วงละเมิดเคหสถาน ทรัพย์สิน และจดหมายของประชาชน เลขที่ 103-SL/L005",
+   "id": "Undang-Undang Pengaturan Jaminan Kebebasan Jasmani dan Kekebalan Rumah, Barang dan Surat Rakyat No. 103-SL/L005",
+   "ms": "Akta Peraturan Jaminan Kebebasan Diri dan Ketidakbolehcerobohan Rumah, Harta dan Surat Rakyat No. 103-SL/L005"
+  },
+  "VN-H304": {
+   "zh": "越南人民军军官服役制度法",
+   "en": "Law No. 109-SL/L11 on service regime for officers of the Vietnam People's Army",
+   "vi": "Luật Về việc Quy định chế độ phục vụ của sỹ quan Quân đội nhân dân Việt Nam số 109-SL/L11",
+   "th": "พระราชบัญญัติข้อกำหนดเกี่ยวกับระบบการรับราชการของนายทหารกองทัพประชาชนเวียดนาม เลขที่ 109-SL/L11",
+   "id": "Undang-Undang Pengaturan Rezim Dinas Perwira Tentara Rakyat Vietnam No. 109-SL/L11",
+   "ms": "Akta Peraturan Rejim Perkhidmatan Pegawai Tentera Rakyat Vietnam No. 109-SL/L11"
+  },
+  "VN-H305": {
+   "zh": "地方政权组织法",
+   "en": "Law No. 110-SL/L.12 on organisation of local government",
+   "vi": "Luật Về việc Tổ chức chính quyền địa phương số 110-SL/L.12",
+   "th": "พระราชบัญญัติข้อกำหนดการจัดตั้งรัฐบาลท้องถิ่น เลขที่ 110-SL/L.12",
+   "id": "Undang-Undang Pengaturan Susunan Pemerintahan Daerah No. 110-SL/L.12",
+   "ms": "Akta Peraturan Organisasi Kerajaan Tempatan No. 110-SL/L.12"
+  },
+  "VN-H306": {
+   "zh": "国会代表选举法",
+   "en": "Law on election of deputies to the National Assembly",
+   "vi": "Luật Bầu cử Đại biểu Quốc hội",
+   "th": "พระราชบัญญัติการเลือกตั้งสมาชิกสภาแห่งชาติ",
+   "id": "Undang-Undang Pemilihan Anggota Majelis Nasional",
+   "ms": "Akta Pilihan Raya Anggota Parlimen"
+  },
+  "VN-H307": {
+   "zh": "婚姻家庭法",
+   "en": "Law on marriage and family",
+   "vi": "Luật Hôn nhân và gia đình",
+   "th": "พระราชบัญญัติการสมรสและครอบครัว",
+   "id": "Undang-Undang Perkawinan dan Keluarga",
+   "ms": "Akta Perkahwinan dan Keluarga"
+  },
+  "VN-H308": {
+   "zh": "兵役义务法",
+   "en": "Law on military service",
+   "vi": "Luật Nghĩa vụ quân sự",
+   "th": "พระราชบัญญัติการรับราชการทหาร",
+   "id": "Undang-Undang Wajib Militer",
+   "ms": "Akta Perkhidmatan Ketenteraan"
+  },
+  "VN-H309": {
+   "zh": "政府会议组织法",
+   "en": "Law on organisation of the Government Council",
+   "vi": "Luật Tổ chức Hội đồng Chính phủ",
+   "th": "พระราชบัญญัติการจัดตั้งสภารัฐบาล",
+   "id": "Undang-Undang Susunan Dewan Pemerintah",
+   "ms": "Akta Organisasi Majlis Kerajaan"
+  },
+  "VN-H310": {
+   "zh": "国会组织法",
+   "en": "Law on organisation of the National Assembly",
+   "vi": "Luật Tổ chức Quốc hội",
+   "th": "พระราชบัญญัติการจัดตั้งสภาแห่งชาติ",
+   "id": "Undang-Undang Susunan Majelis Nasional",
+   "ms": "Akta Organisasi Parlimen"
+  },
+  "VN-H311": {
+   "zh": "人民法院组织法",
+   "en": "Law on organisation of People's Courts",
+   "vi": "Luật Tổ chức Tòa án nhân dân",
+   "th": "พระราชบัญญัติการจัดตั้งศาลประชาชน",
+   "id": "Undang-Undang Susunan Pengadilan Rakyat",
+   "ms": "Akta Organisasi Mahkamah Rakyat"
+  },
+  "VN-H312": {
+   "zh": "人民检察院组织法",
+   "en": "Law on organisation of People's Procuracy",
+   "vi": "Luật Tổ chức Viện kiểm sát nhân dân",
+   "th": "พระราชบัญญัติการจัดตั้งองค์กรอัยการประชาชน",
+   "id": "Undang-Undang Susunan Kejaksaan Rakyat",
+   "ms": "Akta Organisasi Pendakwa Raya Rakyat"
+  },
+  "VN-H313": {
+   "zh": "兵役义务法修正案",
+   "en": "Law No. 50/LCT amending and supplementing a number of articles of the Law on military service",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Nghĩa vụ quân sự số 50/LCT",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการรับราชการทหาร เลขที่ 50/LCT",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Wajib Militer No. 50/LCT",
+   "ms": "Akta Perkhidmatan Ketenteraan (Pindaan) No. 50/LCT"
+  },
+  "VN-H314": {
+   "zh": "各级人民议会与行政委员会组织法",
+   "en": "Law No. 51/LCT on organisation of People's Councils and administrative committees at all levels",
+   "vi": "Luật Tổ chức Hội đồng nhân dân và Uỷ ban hành chính các cấp số 51/LCT",
+   "th": "พระราชบัญญัติการจัดตั้งสภาประชาชนและคณะกรรมการบริหารทุกระดับ เลขที่ 51/LCT",
+   "id": "Undang-Undang Susunan Dewan Perwakilan Rakyat Daerah dan Komite Administrasi di Semua Tingkat No. 51/LCT",
+   "ms": "Akta Organisasi Majlis Rakyat dan Jawatankuasa Pentadbiran Semua Peringkat No. 51/LCT"
+  },
+  "VN-H315": {
+   "zh": "兵役义务法修正案",
+   "en": "Law No. 45/LCT amending and supplementing a number of articles of the Law on military service",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Nghĩa vụ quân sự số 45/LCT",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการรับราชการทหาร เลขที่ 45/LCT",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Wajib Militer No. 45/LCT",
+   "ms": "Akta Perkhidmatan Ketenteraan (Pindaan) No. 45/LCT"
+  },
+  "VN-H316": {
+   "zh": "国会代表选举法",
+   "en": "Law on election of deputies to the National Assembly",
+   "vi": "Luật Bầu cử Đại biểu Quốc hội",
+   "th": "พระราชบัญญัติการเลือกตั้งสมาชิกสภาแห่งชาติ",
+   "id": "Undang-Undang Pemilihan Anggota Majelis Nasional",
+   "ms": "Akta Pilihan Raya Anggota Parlimen"
+  },
+  "VN-H317": {
+   "zh": "兵役义务法",
+   "en": "Law on military service",
+   "vi": "Luật Nghĩa vụ quân sự",
+   "th": "พระราชบัญญัติการรับราชการทหาร",
+   "id": "Undang-Undang Wajib Militer",
+   "ms": "Akta Perkhidmatan Ketenteraan"
+  },
+  "VN-H318": {
+   "zh": "人民军军官法",
+   "en": "Law No. 6-LCT/HĐNN7 on officers of the People's Army",
+   "vi": "Luật Sỹ quan Quân đội nhân dân số 6-LCT/HĐNN7",
+   "th": "พระราชบัญญัตินายทหารกองทัพประชาชน เลขที่ 6-LCT/HĐNN7",
+   "id": "Undang-Undang Perwira Tentara Rakyat No. 6-LCT/HĐNN7",
+   "ms": "Akta Pegawai Tentera Rakyat No. 6-LCT/HĐNN7"
+  },
+  "VN-H319": {
+   "zh": "部长会议组织法",
+   "en": "Law No. 2-LCT/HĐNN7 on organisation of the Council of Ministers",
+   "vi": "Luật Tổ chức Hội đồng Bộ trưởng số 2-LCT/HĐNN7",
+   "th": "พระราชบัญญัติการจัดตั้งสภาคณะรัฐมนตรี เลขที่ 2-LCT/HĐNN7",
+   "id": "Undang-Undang Susunan Dewan Menteri No. 2-LCT/HĐNN7",
+   "ms": "Akta Organisasi Majlis Menteri No. 2-LCT/HĐNN7"
+  },
+  "VN-H320": {
+   "zh": "国会与国务委员会组织法",
+   "en": "Law No. 1-LCT/HĐNN7 on organisation of the National Assembly and the Council of State",
+   "vi": "Luật Tổ chức Quốc hội và Hội đồng Nhà nước số 1-LCT/HĐNN7",
+   "th": "พระราชบัญญัติการจัดตั้งสภาแห่งชาติและสภาแห่งรัฐ เลขที่ 1-LCT/HĐNN7",
+   "id": "Undang-Undang Susunan Majelis Nasional dan Dewan Negara No. 1-LCT/HĐNN7",
+   "ms": "Akta Organisasi Parlimen dan Majlis Negara No. 1-LCT/HĐNN7"
+  },
+  "VN-H321": {
+   "zh": "人民法院组织法",
+   "en": "Law No. 3-LCT/HĐNN7 on organisation of People's Courts",
+   "vi": "Luật Tổ chức Tòa án nhân dân số 3-LCT/HĐNN7",
+   "th": "พระราชบัญญัติการจัดตั้งศาลประชาชน เลขที่ 3-LCT/HĐNN7",
+   "id": "Undang-Undang Susunan Pengadilan Rakyat No. 3-LCT/HĐNN7",
+   "ms": "Akta Organisasi Mahkamah Rakyat No. 3-LCT/HĐNN7"
+  },
+  "VN-H322": {
+   "zh": "人民检察院组织法",
+   "en": "Law No. 3-LCT/HĐNN7 on organisation of People's Procuracy",
+   "vi": "Luật Tổ chức Viện kiểm sát nhân dân số 3-LCT/HĐNN7",
+   "th": "พระราชบัญญัติการจัดตั้งองค์กรอัยการประชาชน เลขที่ 3-LCT/HĐNN7",
+   "id": "Undang-Undang Susunan Kejaksaan Rakyat No. 3-LCT/HĐNN7",
+   "ms": "Akta Organisasi Pendakwa Raya Rakyat No. 3-LCT/HĐNN7"
+  },
+  "VN-H323": {
+   "zh": "人民议会代表选举法",
+   "en": "Law on election of deputies to People's Councils",
+   "vi": "Luật Bầu cử đại biểu Hội đồng nhân dân",
+   "th": "พระราชบัญญัติการเลือกตั้งสมาชิกสภาประชาชน",
+   "id": "Undang-Undang Pemilihan Anggota Dewan Perwakilan Rakyat Daerah",
+   "ms": "Akta Pilihan Raya Anggota Majlis Rakyat"
+  },
+  "VN-H324": {
+   "zh": "人民议会与人民委员会组织法",
+   "en": "Law on organisation of People's Councils and People's Committees",
+   "vi": "Luật Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân",
+   "th": "พระราชบัญญัติการจัดตั้งสภาประชาชนและคณะกรรมการประชาชน",
+   "id": "Undang-Undang Susunan Dewan Perwakilan Rakyat Daerah dan Komite Rakyat",
+   "ms": "Akta Organisasi Majlis Rakyat dan Jawatankuasa Rakyat"
+  },
+  "VN-H325": {
+   "zh": "刑事法典",
+   "en": "Code on criminal",
+   "vi": "Bộ luật Hình sự",
+   "th": "ประมวลกฎหมายอาญา",
+   "id": "Kitab Undang-Undang Pidana",
+   "ms": "Kanun Jenayah"
+  },
+  "VN-H326": {
+   "zh": "婚姻家庭法",
+   "en": "Law on marriage and family",
+   "vi": "Luật Hôn nhân và gia đình",
+   "th": "พระราชบัญญัติการสมรสและครอบครัว",
+   "id": "Undang-Undang Perkawinan dan Keluarga",
+   "ms": "Akta Perkahwinan dan Keluarga"
+  },
+  "VN-H327": {
+   "zh": "贸易货物进出口税法",
+   "en": "Law on export and import duties on commercial goods",
+   "vi": "Luật Thuế xuất khẩu, thuế nhập khẩu hàng mậu dịch",
+   "th": "พระราชบัญญัติภาษีส่งออกและนำเข้าสินค้าพาณิชย์",
+   "id": "Undang-Undang Bea Keluar dan Bea Masuk Barang Dagangan",
+   "ms": "Akta Duti Eksport dan Duti Import Barang Dagangan"
+  },
+  "VN-H328": {
+   "zh": "土地法",
+   "en": "Law on land",
+   "vi": "Luật Đất đai",
+   "th": "พระราชบัญญัติที่ดิน",
+   "id": "Undang-Undang Pertanahan",
+   "ms": "Akta Tanah"
+  },
+  "VN-H329": {
+   "zh": "外国在越南投资法",
+   "en": "Law on foreign investment in Vietnam",
+   "vi": "Luật Đầu tư nước ngoài tại Việt Nam",
+   "th": "พระราชบัญญัติการลงทุนจากต่างประเทศในเวียดนาม",
+   "id": "Undang-Undang Penanaman Modal Asing di Vietnam",
+   "ms": "Akta Pelaburan Asing di Vietnam"
+  },
+  "VN-H330": {
+   "zh": "刑事诉讼法典",
+   "en": "Code on criminal procedure",
+   "vi": "Bộ luật Tố tụng hình sự",
+   "th": "ประมวลกฎหมายวิธีพิจารณาความอาญา",
+   "id": "Kitab Undang-Undang Hukum Acara Pidana",
+   "ms": "Kanun Prosedur Jenayah"
+  },
+  "VN-H331": {
+   "zh": "越南国籍法",
+   "en": "Law on Vietnamese nationality",
+   "vi": "Luật Quốc tịch Việt Nam",
+   "th": "พระราชบัญญัติสัญชาติเวียดนาม",
+   "id": "Undang-Undang Kewarganegaraan Vietnam",
+   "ms": "Akta Kewarganegaraan Vietnam"
+  },
+  "VN-H332": {
+   "zh": "新闻法",
+   "en": "Law No. 29-LCT/HĐNN8 on press",
+   "vi": "Luật Báo chí số 29-LCT/HĐNN8",
+   "th": "พระราชบัญญัติสื่อมวลชน เลขที่ 29-LCT/HĐNN8",
+   "id": "Undang-Undang Pers No. 29-LCT/HĐNN8",
+   "ms": "Akta Akhbar No. 29-LCT/HĐNN8"
+  },
+  "VN-H333": {
+   "zh": "人民健康保护法",
+   "en": "Law on protection of people's health",
+   "vi": "Luật Bảo vệ sức khỏe nhân dân",
+   "th": "พระราชบัญญัติการคุ้มครองสุขภาพประชาชน",
+   "id": "Undang-Undang Perlindungan Kesehatan Rakyat",
+   "ms": "Akta Perlindungan Kesihatan Rakyat"
+  },
+  "VN-H334": {
+   "zh": "刑事法典修正案",
+   "en": "Code No. 30-LCT/HĐNN8 amending and supplementing a number of articles of the Code on criminal",
+   "vi": "Bộ luật sửa đổi, bổ sung một số điều của Bộ luật Hình sự số 30-LCT/HĐNN8",
+   "th": "ประมวลกฎหมายแก้ไขเพิ่มเติมอาญา เลขที่ 30-LCT/HĐNN8",
+   "id": "Kitab Undang-Undang Perubahan atas Kitab Undang-Undang Pidana No. 30-LCT/HĐNN8",
+   "ms": "Kanun Jenayah (Pindaan) No. 30-LCT/HĐNN8"
+  },
+  "VN-H335": {
+   "zh": "海事法典",
+   "en": "Code No. 42-LCT/HĐNN8 on maritime",
+   "vi": "Bộ luật Hàng hải số 42-LCT/HĐNN8",
+   "th": "ประมวลกฎหมายการพาณิชยนาวี เลขที่ 42-LCT/HĐNN8",
+   "id": "Kitab Undang-Undang Pelayaran No. 42-LCT/HĐNN8",
+   "ms": "Kanun Perkapalan No. 42-LCT/HĐNN8"
+  },
+  "VN-H336": {
+   "zh": "公司法",
+   "en": "Law on companies",
+   "vi": "Luật Công ty",
+   "th": "พระราชบัญญัติบริษัท",
+   "id": "Undang-Undang Perseroan",
+   "ms": "Akta Syarikat"
+  },
+  "VN-H337": {
+   "zh": "工会法",
+   "en": "Law No. 40-LCT/HĐNN8 on trade unions",
+   "vi": "Luật Công đoàn số 40-LCT/HĐNN8",
+   "th": "พระราชบัญญัติสหภาพแรงงาน เลขที่ 40-LCT/HĐNN8",
+   "id": "Undang-Undang Serikat Pekerja No. 40-LCT/HĐNN8",
+   "ms": "Akta Kesatuan Sekerja No. 40-LCT/HĐNN8"
+  },
+  "VN-H338": {
+   "zh": "私营企业法",
+   "en": "Law on private enterprises",
+   "vi": "Luật Doanh nghiệp tư nhân",
+   "th": "พระราชบัญญัติวิสาหกิจเอกชน",
+   "id": "Undang-Undang Perseroan Swasta",
+   "ms": "Akta Perusahaan Persendirian"
+  },
+  "VN-H339": {
+   "zh": "刑事诉讼法典修正案",
+   "en": "Code No. 39-LCT/HĐNN8 amending and supplementing a number of articles of the Code on criminal procedure",
+   "vi": "Bộ luật sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự số 39-LCT/HĐNN8",
+   "th": "ประมวลกฎหมายแก้ไขเพิ่มเติมวิธีพิจารณาความอาญา เลขที่ 39-LCT/HĐNN8",
+   "id": "Kitab Undang-Undang Perubahan atas Kitab Undang-Undang Hukum Acara Pidana No. 39-LCT/HĐNN8",
+   "ms": "Kanun Prosedur Jenayah (Pindaan) No. 39-LCT/HĐNN8"
+  },
+  "VN-H340": {
+   "zh": "兵役义务法修正案",
+   "en": "Law amending and supplementing a number of articles of the Law on military service",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Nghĩa vụ quân sự",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการรับราชการทหาร",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Wajib Militer",
+   "ms": "Akta Perkhidmatan Ketenteraan (Pindaan)"
+  },
+  "VN-H341": {
+   "zh": "外国在越南投资法修正案",
+   "en": "Law No. 41-LCT/HĐNN8 amending and supplementing a number of articles of the Law on foreign investment in Vietnam",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Đầu tư nước ngoài tại Việt Nam số 41-LCT/HĐNN8",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการลงทุนจากต่างประเทศในเวียดนาม เลขที่ 41-LCT/HĐNN8",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Penanaman Modal Asing di Vietnam No. 41-LCT/HĐNN8",
+   "ms": "Akta Pelaburan Asing di Vietnam (Pindaan) No. 41-LCT/HĐNN8"
+  },
+  "VN-H342": {
+   "zh": "营业税法",
+   "en": "Law No. 270B-NQ/HĐNN8 on turnover tax",
+   "vi": "Luật Thuế Doanh thu số 270B-NQ/HĐNN8",
+   "th": "พระราชบัญญัติภาษีการค้า เลขที่ 270B-NQ/HĐNN8",
+   "id": "Undang-Undang Pajak Peredaran No. 270B-NQ/HĐNN8",
+   "ms": "Akta Cukai Perolehan No. 270B-NQ/HĐNN8"
+  },
+  "VN-H343": {
+   "zh": "利润税法",
+   "en": "Law No. 270b-NQ/HĐNN8 on profits tax",
+   "vi": "Luật Thuế Lợi tức số 270b-NQ/HĐNN8",
+   "th": "พระราชบัญญัติภาษีกำไร เลขที่ 270b-NQ/HĐNN8",
+   "id": "Undang-Undang Pajak Laba No. 270b-NQ/HĐNN8",
+   "ms": "Akta Cukai Keuntungan No. 270b-NQ/HĐNN8"
+  },
+  "VN-H344": {
+   "zh": "特别消费税法",
+   "en": "Law No. 270B-NQ/HĐNN8 on special consumption tax",
+   "vi": "Luật Thuế Tiêu thụ đặc biệt số 270B-NQ/HĐNN8",
+   "th": "พระราชบัญญัติภาษีสรรพสามิต เลขที่ 270B-NQ/HĐNN8",
+   "id": "Undang-Undang Pajak Barang Mewah No. 270B-NQ/HĐNN8",
+   "ms": "Akta Cukai Barang Mewah No. 270B-NQ/HĐNN8"
+  },
+  "VN-H345": {
+   "zh": "森林保护与发展法",
+   "en": "Law on forest protection and development",
+   "vi": "Luật Bảo vệ và phát triển rừng",
+   "th": "พระราชบัญญัติการคุ้มครองและพัฒนาป่าไม้",
+   "id": "Undang-Undang Perlindungan dan Pengembangan Hutan",
+   "ms": "Akta Perlindungan dan Pembangunan Hutan"
+  },
+  "VN-H347": {
+   "zh": "儿童保护、照料与教育法",
+   "en": "Law on protection, care and education of children",
+   "vi": "Luật Bảo vệ, chăm sóc và giáo dục trẻ em",
+   "th": "พระราชบัญญัติการคุ้มครอง การดูแล และการศึกษาเด็ก",
+   "id": "Undang-Undang Perlindungan, Pengasuhan dan Pendidikan Anak",
+   "ms": "Akta Perlindungan, Penjagaan dan Pendidikan Kanak-kanak"
+  },
+  "VN-H348": {
+   "zh": "普及小学教育法",
+   "en": "Law on universalisation of primary education",
+   "vi": "Luật Phổ cập giáo dục tiểu học",
+   "th": "พระราชบัญญัติการขยายการศึกษาประถมศึกษา",
+   "id": "Undang-Undang Pemerataan Pendidikan Dasar",
+   "ms": "Akta Peluasan Pendidikan Rendah"
+  },
+  "VN-H349": {
+   "zh": "刑事法典修正案",
+   "en": "Code amending and supplementing a number of articles of the Code on criminal",
+   "vi": "Bộ luật sửa đổi, bổ sung một số điều của Bộ luật Hình sự",
+   "th": "ประมวลกฎหมายแก้ไขเพิ่มเติมอาญา",
+   "id": "Kitab Undang-Undang Perubahan atas Kitab Undang-Undang Pidana",
+   "ms": "Kanun Jenayah (Pindaan)"
+  },
+  "VN-H350": {
+   "zh": "人民检察院组织法",
+   "en": "Law on organisation of People's Procuracy",
+   "vi": "Luật Tổ chức Viện kiểm sát nhân dân",
+   "th": "พระราชบัญญัติการจัดตั้งองค์กรอัยการประชาชน",
+   "id": "Undang-Undang Susunan Kejaksaan Rakyat",
+   "ms": "Akta Organisasi Pendakwa Raya Rakyat"
+  },
+  "VN-H351": {
+   "zh": "环境保护法",
+   "en": "Law on environmental protection",
+   "vi": "Luật Bảo vệ môi trường",
+   "th": "พระราชบัญญัติการคุ้มครองสิ่งแวดล้อม",
+   "id": "Undang-Undang Perlindungan Lingkungan Hidup",
+   "ms": "Akta Perlindungan Alam Sekitar"
+  },
+  "VN-H352": {
+   "zh": "石油天然气法",
+   "en": "Law No. 18-L/CTN on petroleum",
+   "vi": "Luật Dầu khí số 18-L/CTN",
+   "th": "พระราชบัญญัติปิโตรเลียม เลขที่ 18-L/CTN",
+   "id": "Undang-Undang Minyak dan Gas Bumi No. 18-L/CTN",
+   "ms": "Akta Petroleum No. 18-L/CTN"
+  },
+  "VN-H353": {
+   "zh": "企业破产法",
+   "en": "Law on enterprise bankruptcy",
+   "vi": "Luật Phá sản doanh nghiệp",
+   "th": "พระราชบัญญัติการล้มละลายของวิสาหกิจ",
+   "id": "Undang-Undang Kepailitan Perseroan",
+   "ms": "Akta Kebankrapan Perusahaan"
+  },
+  "VN-H354": {
+   "zh": "营业税法修正案",
+   "en": "Law amending and supplementing a number of articles of the Law on turnover tax",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Thuế Doanh thu",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาษีการค้า",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pajak Peredaran",
+   "ms": "Akta Cukai Perolehan (Pindaan)"
+  },
+  "VN-H355": {
+   "zh": "利润税法修正案",
+   "en": "Law amending and supplementing a number of articles of the Law on profits tax",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Thuế Lợi tức",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาษีกำไร",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pajak Laba",
+   "ms": "Akta Cukai Keuntungan (Pindaan)"
+  },
+  "VN-H356": {
+   "zh": "特别消费税法修正案",
+   "en": "Law amending and supplementing a number of articles of the Law on special consumption tax",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Thuế Tiêu thụ đặc biệt",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาษีสรรพสามิต",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pajak Barang Mewah",
+   "ms": "Akta Cukai Barang Mewah (Pindaan)"
+  },
+  "VN-H357": {
+   "zh": "出口税与进口税法修正案",
+   "en": "Law amending and supplementing a number of articles of the Law on export and import duties",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Thuế Xuất khẩu, thuế Nhập khẩu",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาษีส่งออกและภาษีนำเข้า",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Bea Keluar dan Bea Masuk",
+   "ms": "Akta Duti Eksport dan Duti Import (Pindaan)"
+  },
+  "VN-H358": {
+   "zh": "人民法院组织法修正案",
+   "en": "Law amending and supplementing a number of articles of the Law on organisation of People's Courts",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Tòa án nhân dân",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการจัดตั้งศาลประชาชน",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Susunan Pengadilan Rakyat",
+   "ms": "Akta Organisasi Mahkamah Rakyat (Pindaan)"
+  },
+  "VN-H359": {
+   "zh": "出版法",
+   "en": "Law on publication",
+   "vi": "Luật Xuất bản",
+   "th": "พระราชบัญญัติการพิมพ์",
+   "id": "Undang-Undang Penerbitan",
+   "ms": "Akta Penerbitan"
+  },
+  "VN-H360": {
+   "zh": "土地法",
+   "en": "Law on land",
+   "vi": "Luật Đất đai",
+   "th": "พระราชบัญญัติที่ดิน",
+   "id": "Undang-Undang Pertanahan",
+   "ms": "Akta Tanah"
+  },
+  "VN-H361": {
+   "zh": "劳动法典",
+   "en": "Code on labour",
+   "vi": "Bộ luật Lao động",
+   "th": "ประมวลกฎหมายแรงงาน",
+   "id": "Kitab Undang-Undang Ketenagakerjaan",
+   "ms": "Kanun Buruh"
+  },
+  "VN-H362": {
+   "zh": "人民议会代表选举法",
+   "en": "Law on election of deputies to People's Councils",
+   "vi": "Luật Bầu cử đại biểu Hội đồng nhân dân",
+   "th": "พระราชบัญญัติการเลือกตั้งสมาชิกสภาประชาชน",
+   "id": "Undang-Undang Pemilihan Anggota Dewan Perwakilan Rakyat Daerah",
+   "ms": "Akta Pilihan Raya Anggota Majlis Rakyat"
+  },
+  "VN-H363": {
+   "zh": "鼓励国内投资法",
+   "en": "Law on encouragement of domestic investment",
+   "vi": "Luật Khuyến khích đầu tư trong nước",
+   "th": "พระราชบัญญัติการส่งเสริมการลงทุนภายในประเทศ",
+   "id": "Undang-Undang Dorongan Investasi Dalam Negeri",
+   "ms": "Akta Galakan Pelaburan Dalam Negeri"
+  },
+  "VN-H364": {
+   "zh": "公司法修正案",
+   "en": "Law amending and supplementing a number of articles of the Law on companies",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Công ty",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมบริษัท",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Perseroan",
+   "ms": "Akta Syarikat (Pindaan)"
+  },
+  "VN-H365": {
+   "zh": "私营企业法修正案",
+   "en": "Law amending and supplementing a number of articles of the Law on private enterprises",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Doanh nghiệp tư nhân",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมวิสาหกิจเอกชน",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Perseroan Swasta",
+   "ms": "Akta Perusahaan Persendirian (Pindaan)"
+  },
+  "VN-H366": {
+   "zh": "兵役义务法修正案",
+   "en": "Law amending and supplementing a number of articles of the Law on military service",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Nghĩa vụ quân sự",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการรับราชการทหาร",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Wajib Militer",
+   "ms": "Akta Perkhidmatan Ketenteraan (Pindaan)"
+  },
+  "VN-H367": {
+   "zh": "土地使用权转让税法",
+   "en": "Law on tax on transfer of land use rights",
+   "vi": "Luật Thuế Chuyển quyền sử dụng đất",
+   "th": "พระราชบัญญัติภาษีการโอนสิทธิการใช้ที่ดิน",
+   "id": "Undang-Undang Pajak Pengalihan Hak Guna Tanah",
+   "ms": "Akta Cukai Pindahmilik Hak Guna Tanah"
+  },
+  "VN-H368": {
+   "zh": "人民议会与人民委员会组织法",
+   "en": "Law on organisation of People's Councils and People's Committees",
+   "vi": "Luật Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân",
+   "th": "พระราชบัญญัติการจัดตั้งสภาประชาชนและคณะกรรมการประชาชน",
+   "id": "Undang-Undang Susunan Dewan Perwakilan Rakyat Daerah dan Komite Rakyat",
+   "ms": "Akta Organisasi Majlis Rakyat dan Jawatankuasa Rakyat"
+  },
+  "VN-H369": {
+   "zh": "民事法典",
+   "en": "Code on civil",
+   "vi": "Bộ luật Dân sự",
+   "th": "ประมวลกฎหมายแพ่ง",
+   "id": "Kitab Undang-Undang Perdata",
+   "ms": "Kanun Sivil"
+  },
+  "VN-H370": {
+   "zh": "国有企业法",
+   "en": "Law on state-owned enterprises",
+   "vi": "Luật Doanh nghiệp Nhà nước",
+   "th": "พระราชบัญญัติรัฐวิสาหกิจ",
+   "id": "Undang-Undang Badan Usaha Milik Negara",
+   "ms": "Akta Perusahaan Milik Negara"
+  },
+  "VN-H371": {
+   "zh": "越南民用航空法修正案",
+   "en": "Law amending and supplementing a number of articles of the Law on Vietnamese civil aviation",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Hàng không dân dụng Việt Nam",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการบินพลเรือนเวียดนาม",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Penerbangan Sipil Vietnam",
+   "ms": "Akta Penerbangan Awam Vietnam (Pindaan)"
+  },
+  "VN-H372": {
+   "zh": "特别消费税法修正案",
+   "en": "Law amending and supplementing a number of articles of the Law on special consumption tax",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Thuế Tiêu thụ đặc biệt",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาษีสรรพสามิต",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pajak Barang Mewah",
+   "ms": "Akta Cukai Barang Mewah (Pindaan)"
+  },
+  "VN-H373": {
+   "zh": "法律规范性文件颁布法",
+   "en": "Law on promulgation of normative legal documents",
+   "vi": "Luật Ban hành Văn bản quy phạm pháp luật",
+   "th": "พระราชบัญญัติการประกาศใช้เอกสารกฎหมาย",
+   "id": "Undang-Undang Pembentukan Peraturan Perundang-undangan",
+   "ms": "Akta Penggubalan Dokumen Perundangan Normatif"
+  },
+  "VN-H374": {
+   "zh": "合作社法",
+   "en": "Law on cooperatives",
+   "vi": "Luật Hợp tác xã",
+   "th": "พระราชบัญญัติสหกรณ์",
+   "id": "Undang-Undang Koperasi",
+   "ms": "Akta Koperasi"
+  },
+  "VN-H375": {
+   "zh": "矿产法",
+   "en": "Law on minerals",
+   "vi": "Luật Khoáng sản",
+   "th": "พระราชบัญญัติแร่ธาตุ",
+   "id": "Undang-Undang Mineral",
+   "ms": "Akta Mineral"
+  },
+  "VN-H376": {
+   "zh": "国家预算法",
+   "en": "Law on state budget",
+   "vi": "Luật Ngân sách Nhà nước",
+   "th": "พระราชบัญญัติงบประมาณแผ่นดิน",
+   "id": "Undang-Undang Anggaran Negara",
+   "ms": "Akta Belanjawan Negara"
+  },
+  "VN-H377": {
+   "zh": "外国在越南投资法",
+   "en": "Law No. 52-L/CTN on foreign investment in Vietnam",
+   "vi": "Luật Đầu tư nước ngoài tại Việt Nam số 52-L/CTN",
+   "th": "พระราชบัญญัติการลงทุนจากต่างประเทศในเวียดนาม เลขที่ 52-L/CTN",
+   "id": "Undang-Undang Penanaman Modal Asing di Vietnam No. 52-L/CTN",
+   "ms": "Akta Pelaburan Asing di Vietnam No. 52-L/CTN"
+  },
+  "VN-H378": {
+   "zh": "国会代表选举法",
+   "en": "Law on election of deputies to the National Assembly",
+   "vi": "Luật Bầu cử Đại biểu Quốc hội",
+   "th": "พระราชบัญญัติการเลือกตั้งสมาชิกสภาแห่งชาติ",
+   "id": "Undang-Undang Pemilihan Anggota Majelis Nasional",
+   "ms": "Akta Pilihan Raya Anggota Parlimen"
+  },
+  "VN-H379": {
+   "zh": "信用机构法",
+   "en": "Law No. 02/1997/QH10 on credit institutions",
+   "vi": "Luật Các tổ chức tín dụng số 02/1997/QH10",
+   "th": "พระราชบัญญัติสถาบันสินเชื่อ เลขที่ 02/1997/QH10",
+   "id": "Undang-Undang Lembaga Perkreditan No. 02/1997/QH10",
+   "ms": "Akta Institusi Kredit No. 02/1997/QH10"
+  },
+  "VN-H380": {
+   "zh": "国家银行法",
+   "en": "Law No. 01/1997/QH10 on State Bank",
+   "vi": "Luật Ngân hàng Nhà nước số 01/1997/QH10",
+   "th": "พระราชบัญญัติธนาคารแห่งชาติ เลขที่ 01/1997/QH10",
+   "id": "Undang-Undang Bank Negara No. 01/1997/QH10",
+   "ms": "Akta Bank Negara No. 01/1997/QH10"
+  },
+  "VN-H382": {
+   "zh": "企业所得税法",
+   "en": "Law on corporate income tax",
+   "vi": "Luật Thuế thu nhập doanh nghiệp",
+   "th": "พระราชบัญญัติภาษีเงินได้นิติบุคคล",
+   "id": "Undang-Undang Pajak Penghasilan Badan",
+   "ms": "Akta Cukai Pendapatan Syarikat"
+  },
+  "VN-H383": {
+   "zh": "贸易法",
+   "en": "Law No. 58-L/CTN on trade",
+   "vi": "Luật Thương mại số 58-L/CTN",
+   "th": "พระราชบัญญัติการค้า เลขที่ 58-L/CTN",
+   "id": "Undang-Undang Perdagangan No. 58-L/CTN",
+   "ms": "Akta Perdagangan No. 58-L/CTN"
+  },
+  "VN-H384": {
+   "zh": "贸易法",
+   "en": "Law on trade",
+   "vi": "Luật Thương mại",
+   "th": "พระราชบัญญัติการค้า",
+   "id": "Undang-Undang Perdagangan",
+   "ms": "Akta Perdagangan"
+  },
+  "VN-H385": {
+   "zh": "教育法",
+   "en": "Law No. 11/1998/QH10 on education",
+   "vi": "Luật Giáo dục số 11/1998/QH10",
+   "th": "พระราชบัญญัติการศึกษา เลขที่ 11/1998/QH10",
+   "id": "Undang-Undang Pendidikan No. 11/1998/QH10",
+   "ms": "Akta Pendidikan No. 11/1998/QH10"
+  },
+  "VN-H386": {
+   "zh": "申诉与控告法",
+   "en": "Law No. 09/1998/QH10 on complaints and denunciations",
+   "vi": "Luật Khiếu nại, tố cáo số 09/1998/QH10",
+   "th": "พระราชบัญญัติการร้องเรียนและการกล่าวโทษ เลขที่ 09/1998/QH10",
+   "id": "Undang-Undang Pengaduan dan Pelaporan No. 09/1998/QH10",
+   "ms": "Akta Aduan dan Laporan No. 09/1998/QH10"
+  },
+  "VN-H387": {
+   "zh": "鼓励国内投资（修正）法",
+   "en": "Law No. 03/1998/QH10 on encouragement of domestic investment (amended)",
+   "vi": "Luật Khuyến khích đầu tư trong nước (sửa đổi) số 03/1998/QH10",
+   "th": "พระราชบัญญัติการส่งเสริมการลงทุนภายในประเทศ (ฉบับแก้ไข) เลขที่ 03/1998/QH10",
+   "id": "Undang-Undang Dorongan Investasi Dalam Negeri (Perubahan) No. 03/1998/QH10",
+   "ms": "Akta Galakan Pelaburan Dalam Negeri (Pindaan) No. 03/1998/QH10"
+  },
+  "VN-H388": {
+   "zh": "越南国籍法",
+   "en": "Law No. 07/1998/QH10 on Vietnamese nationality",
+   "vi": "Luật Quốc tịch Việt Nam số 07/1998/QH10",
+   "th": "พระราชบัญญัติสัญชาติเวียดนาม เลขที่ 07/1998/QH10",
+   "id": "Undang-Undang Kewarganegaraan Vietnam No. 07/1998/QH10",
+   "ms": "Akta Kewarganegaraan Vietnam No. 07/1998/QH10"
+  },
+  "VN-H389": {
+   "zh": "国家预算法修正案",
+   "en": "Law No. 06/1998/QH10 amending and supplementing a number of articles of the Law on state budget",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Ngân sách Nhà nước số 06/1998/QH10",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมงบประมาณแผ่นดิน เลขที่ 06/1998/QH10",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Anggaran Negara No. 06/1998/QH10",
+   "ms": "Akta Belanjawan Negara (Pindaan) No. 06/1998/QH10"
+  },
+  "VN-H390": {
+   "zh": "出口税与进口税法修正案",
+   "en": "Law No. 04/1998/QH10 amending and supplementing a number of articles of the Law on export and import duties",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật thuế xuất khẩu, thuế nhập khẩu số 04/1998/QH10",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาษีส่งออกและภาษีนำเข้า เลขที่ 04/1998/QH10",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Bea Keluar dan Bea Masuk No. 04/1998/QH10",
+   "ms": "Akta Duti Eksport dan Duti Import (Pindaan) No. 04/1998/QH10"
+  },
+  "VN-H391": {
+   "zh": "土地法修正案",
+   "en": "Law No. 10/1998/QH10 amending and supplementing a number of articles of the Law on land",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Đất đai số 10/1998/QH10",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมที่ดิน เลขที่ 10/1998/QH10",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pertanahan No. 10/1998/QH10",
+   "ms": "Akta Tanah (Pindaan) No. 10/1998/QH10"
+  },
+  "VN-H392": {
+   "zh": "特别消费税法",
+   "en": "Law No. 05/1998/QH10 on special consumption tax",
+   "vi": "Luật Thuế tiêu thụ đặc biệt số 05/1998/QH10",
+   "th": "พระราชบัญญัติภาษีสรรพสามิต เลขที่ 05/1998/QH10",
+   "id": "Undang-Undang Pajak Barang Mewah No. 05/1998/QH10",
+   "ms": "Akta Cukai Barang Mewah No. 05/1998/QH10"
+  },
+  "VN-H393": {
+   "zh": "水资源法",
+   "en": "Law No. 08/1998/QH10 on water resources",
+   "vi": "Luật Tài nguyên nước số 08/1998/QH10",
+   "th": "พระราชบัญญัติทรัพยากรน้ำ เลขที่ 08/1998/QH10",
+   "id": "Undang-Undang Sumber Daya Air No. 08/1998/QH10",
+   "ms": "Akta Sumber Air No. 08/1998/QH10"
+  },
+  "VN-H394": {
+   "zh": "刑事法典",
+   "en": "Code No. 15/1999/QH10 on criminal",
+   "vi": "Bộ luật Hình sự số 15/1999/QH10",
+   "th": "ประมวลกฎหมายอาญา เลขที่ 15/1999/QH10",
+   "id": "Kitab Undang-Undang Pidana No. 15/1999/QH10",
+   "ms": "Kanun Jenayah No. 15/1999/QH10"
+  },
+  "VN-H395": {
+   "zh": "企业法",
+   "en": "Law No. 13/1999/QH10 on enterprises",
+   "vi": "Luật Doanh nghiệp số 13/1999/QH10",
+   "th": "พระราชบัญญัติวิสาหกิจ เลขที่ 13/1999/QH10",
+   "id": "Undang-Undang Perseroan No. 13/1999/QH10",
+   "ms": "Akta Perusahaan No. 13/1999/QH10"
+  },
+  "VN-H396": {
+   "zh": "越南祖国阵线法",
+   "en": "Law No. 14/1999/QH10 on Vietnam Fatherland Front",
+   "vi": "Luật Mặt trận Tổ quốc Việt Nam số 14/1999/QH10",
+   "th": "พระราชบัญญัติแนวร่วมปิตุภูมิเวียดนาม เลขที่ 14/1999/QH10",
+   "id": "Undang-Undang Front Persatuan Tanah Air Vietnam No. 14/1999/QH10",
+   "ms": "Akta Barisan Tanah Air Vietnam No. 14/1999/QH10"
+  },
+  "VN-H397": {
+   "zh": "新闻法修正案",
+   "en": "Law No. 12/1999/QH10 amending and supplementing a number of articles of the Law on press",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Báo chí số 12/1999/QH10",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมสื่อมวลชน เลขที่ 12/1999/QH10",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pers No. 12/1999/QH10",
+   "ms": "Akta Akhbar (Pindaan) No. 12/1999/QH10"
+  },
+  "VN-H398": {
+   "zh": "土地使用权转让税法修正案",
+   "en": "Law No. 17/1999/QH10 amending and supplementing a number of articles of the Law on tax on transfer of land use rights",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật thuế chuyển quyền sử dụng đất số 17/1999/QH10",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาษีการโอนสิทธิการใช้ที่ดิน เลขที่ 17/1999/QH10",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pajak Pengalihan Hak Guna Tanah No. 17/1999/QH10",
+   "ms": "Akta Cukai Pindahmilik Hak Guna Tanah (Pindaan) No. 17/1999/QH10"
+  },
+  "VN-H399": {
+   "zh": "越南人民军军官法",
+   "en": "Law No. 16/1999/QH10 on officers of the Vietnam People's Army",
+   "vi": "Luật Sỹ quan quân đội nhân dân Việt Nam số 16/1999/QH10",
+   "th": "พระราชบัญญัตินายทหารกองทัพประชาชนเวียดนาม เลขที่ 16/1999/QH10",
+   "id": "Undang-Undang Perwira Tentara Rakyat Vietnam No. 16/1999/QH10",
+   "ms": "Akta Pegawai Tentera Rakyat Vietnam No. 16/1999/QH10"
+  },
+  "VN-H400": {
+   "zh": "婚姻家庭法",
+   "en": "Law No. 22/2000/QH10 on marriage and family",
+   "vi": "Luật Hôn nhân và gia đình số 22/2000/QH10",
+   "th": "พระราชบัญญัติการสมรสและครอบครัว เลขที่ 22/2000/QH10",
+   "id": "Undang-Undang Perkawinan dan Keluarga No. 22/2000/QH10",
+   "ms": "Akta Perkahwinan dan Keluarga No. 22/2000/QH10"
+  },
+  "VN-H401": {
+   "zh": "科学技术法",
+   "en": "Law No. 21/2000/QH10 on science and technology",
+   "vi": "Luật Khoa học và Công nghệ số 21/2000/QH10",
+   "th": "พระราชบัญญัติวิทยาศาสตร์และเทคโนโลยี เลขที่ 21/2000/QH10",
+   "id": "Undang-Undang Ilmu Pengetahuan dan Teknologi No. 21/2000/QH10",
+   "ms": "Akta Sains dan Teknologi No. 21/2000/QH10"
+  },
+  "VN-H402": {
+   "zh": "保险经营法",
+   "en": "Law No. 24/2000/QH10 on insurance business",
+   "vi": "Luật Kinh doanh bảo hiểm số 24/2000/QH10",
+   "th": "พระราชบัญญัติธุรกิจประกันภัย เลขที่ 24/2000/QH10",
+   "id": "Undang-Undang Usaha Perasuransian No. 24/2000/QH10",
+   "ms": "Akta Perniagaan Insurans No. 24/2000/QH10"
+  },
+  "VN-H403": {
+   "zh": "禁毒法",
+   "en": "Law No. 23/2000/QH10 on drug prevention and control",
+   "vi": "Luật Phòng, chống ma túy số 23/2000/QH10",
+   "th": "พระราชบัญญัติการป้องกันและปราบปรามยาเสพติด เลขที่ 23/2000/QH10",
+   "id": "Undang-Undang Pencegahan dan Pemberantasan Narkotika No. 23/2000/QH10",
+   "ms": "Akta Pencegahan dan Pembanterasan Dadah No. 23/2000/QH10"
+  },
+  "VN-H404": {
+   "zh": "刑事诉讼法典修正案",
+   "en": "Code No. 20/2000/QH10 amending and supplementing a number of articles of the Code on criminal procedure",
+   "vi": "Bộ luật sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự số 20/2000/QH10",
+   "th": "ประมวลกฎหมายแก้ไขเพิ่มเติมวิธีพิจารณาความอาญา เลขที่ 20/2000/QH10",
+   "id": "Kitab Undang-Undang Perubahan atas Kitab Undang-Undang Hukum Acara Pidana No. 20/2000/QH10",
+   "ms": "Kanun Prosedur Jenayah (Pindaan) No. 20/2000/QH10"
+  },
+  "VN-H405": {
+   "zh": "石油天然气法修正案",
+   "en": "Law No. 19/2000/QH10 amending and supplementing a number of articles of the Law on petroleum",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Dầu khí số 19/2000/QH10",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมปิโตรเลียม เลขที่ 19/2000/QH10",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Minyak dan Gas Bumi No. 19/2000/QH10",
+   "ms": "Akta Petroleum (Pindaan) No. 19/2000/QH10"
+  },
+  "VN-H406": {
+   "zh": "外国在越南投资法修正案",
+   "en": "Law No. 18/2000/QH10 amending and supplementing a number of articles of the Law on foreign investment in Vietnam",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật đầu tư nước ngoài tại Việt Nam số 18/2000/QH10",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการลงทุนจากต่างประเทศในเวียดนาม เลขที่ 18/2000/QH10",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Penanaman Modal Asing di Vietnam No. 18/2000/QH10",
+   "ms": "Akta Pelaburan Asing di Vietnam (Pindaan) No. 18/2000/QH10"
+  },
+  "VN-H407": {
+   "zh": "文化遗产法",
+   "en": "Law No. 28/2001/QH10 on cultural heritage",
+   "vi": "Luật Di sản văn hoá số 28/2001/QH10",
+   "th": "พระราชบัญญัติมรดกวัฒนธรรม เลขที่ 28/2001/QH10",
+   "id": "Undang-Undang Warisan Budaya No. 28/2001/QH10",
+   "ms": "Akta Warisan Budaya No. 28/2001/QH10"
+  },
+  "VN-H408": {
+   "zh": "道路交通法",
+   "en": "Law No. 26/2001/QH10 on road traffic",
+   "vi": "Luật Giao thông đường bộ số 26/2001/QH10",
+   "th": "พระราชบัญญัติการจราจรทางบก เลขที่ 26/2001/QH10",
+   "id": "Undang-Undang Lalu Lintas Jalan No. 26/2001/QH10",
+   "ms": "Akta Lalu Lintas Jalan Raya No. 26/2001/QH10"
+  },
+  "VN-H409": {
+   "zh": "海关法",
+   "en": "Law No. 29/2001/QH10 on customs",
+   "vi": "Luật Hải quan số 29/2001/QH10",
+   "th": "พระราชบัญญัติศุลกากร เลขที่ 29/2001/QH10",
+   "id": "Undang-Undang Kepabeanan No. 29/2001/QH10",
+   "ms": "Akta Kastam No. 29/2001/QH10"
+  },
+  "VN-H410": {
+   "zh": "消防法",
+   "en": "Law No. 27/2001/QH10 on fire prevention and fighting",
+   "vi": "Luật Phòng cháy và chữa cháy số 27/2001/QH10",
+   "th": "พระราชบัญญัติการป้องกันและดับเพลิง เลขที่ 27/2001/QH10",
+   "id": "Undang-Undang Pencegahan dan Penanggulangan Kebakaran No. 27/2001/QH10",
+   "ms": "Akta Pencegahan dan Pemadaman Kebakaran No. 27/2001/QH10"
+  },
+  "VN-H411": {
+   "zh": "土地法修正案",
+   "en": "Law No. 25/2001/QH10 amending and supplementing a number of articles of the Law on land",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Đất đai số 25/2001/QH10",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมที่ดิน เลขที่ 25/2001/QH10",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pertanahan No. 25/2001/QH10",
+   "ms": "Akta Tanah (Pindaan) No. 25/2001/QH10"
+  },
+  "VN-H412": {
+   "zh": "政府组织法",
+   "en": "Law No. 32/2001/QH10 on organisation of the Government",
+   "vi": "Luật Tổ chức Chính phủ số 32/2001/QH10",
+   "th": "พระราชบัญญัติการจัดตั้งรัฐบาล เลขที่ 32/2001/QH10",
+   "id": "Undang-Undang Susunan Pemerintah No. 32/2001/QH10",
+   "ms": "Akta Organisasi Kerajaan No. 32/2001/QH10"
+  },
+  "VN-H413": {
+   "zh": "国会组织法",
+   "en": "Law No. 30/2001/QH10 on organisation of the National Assembly",
+   "vi": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+   "th": "พระราชบัญญัติการจัดตั้งสภาแห่งชาติ เลขที่ 30/2001/QH10",
+   "id": "Undang-Undang Susunan Majelis Nasional No. 30/2001/QH10",
+   "ms": "Akta Organisasi Parlimen No. 30/2001/QH10"
+  },
+  "VN-H414": {
+   "zh": "国家预算法",
+   "en": "Law No. 01/2002/QH11 on state budget",
+   "vi": "Luật Ngân sách nhà nước số 01/2002/QH11",
+   "th": "พระราชบัญญัติงบประมาณแผ่นดิน เลขที่ 01/2002/QH11",
+   "id": "Undang-Undang Anggaran Negara No. 01/2002/QH11",
+   "ms": "Akta Belanjawan Negara No. 01/2002/QH11"
+  },
+  "VN-H415": {
+   "zh": "法律规范性文件颁布法修正案",
+   "en": "Law No. 02/2002/QH11 amending and supplementing a number of articles of the Law on promulgation of normative legal documents",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật số 02/2002/QH11",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการประกาศใช้เอกสารกฎหมาย เลขที่ 02/2002/QH11",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pembentukan Peraturan Perundang-undangan No. 02/2002/QH11",
+   "ms": "Akta Penggubalan Dokumen Perundangan Normatif (Pindaan) No. 02/2002/QH11"
+  },
+  "VN-H416": {
+   "zh": "人民检察院组织法",
+   "en": "Law No. 34/2002/QH10 on organisation of People's Procuracy",
+   "vi": "Luật Tổ chức Viện kiểm sát nhân dân số 34/2002/QH10",
+   "th": "พระราชบัญญัติการจัดตั้งองค์กรอัยการประชาชน เลขที่ 34/2002/QH10",
+   "id": "Undang-Undang Susunan Kejaksaan Rakyat No. 34/2002/QH10",
+   "ms": "Akta Organisasi Pendakwa Raya Rakyat No. 34/2002/QH10"
+  },
+  "VN-H417": {
+   "zh": "刑事诉讼法典",
+   "en": "Code No. 19/2003/QH11 on criminal procedure",
+   "vi": "Bộ luật Tố tụng hình sự số 19/2003/QH11",
+   "th": "ประมวลกฎหมายวิธีพิจารณาความอาญา เลขที่ 19/2003/QH11",
+   "id": "Kitab Undang-Undang Hukum Acara Pidana No. 19/2003/QH11",
+   "ms": "Kanun Prosedur Jenayah No. 19/2003/QH11"
+  },
+  "VN-H418": {
+   "zh": "国家边界法",
+   "en": "Law No. 06/2003/QH11 on national border",
+   "vi": "Luật Biên giới quốc gia số 06/2003/QH11",
+   "th": "พระราชบัญญัติชายแดนแห่งชาติ เลขที่ 06/2003/QH11",
+   "id": "Undang-Undang Perbatasan Negara No. 06/2003/QH11",
+   "ms": "Akta Sempadan Negara No. 06/2003/QH11"
+  },
+  "VN-H419": {
+   "zh": "人民议会代表选举法",
+   "en": "Law No. 12/2003/QH11 on election of deputies to People's Councils",
+   "vi": "Luật Bầu cử Đại biểu Hội đồng nhân dân số 12/2003/QH11",
+   "th": "พระราชบัญญัติการเลือกตั้งสมาชิกสภาประชาชน เลขที่ 12/2003/QH11",
+   "id": "Undang-Undang Pemilihan Anggota Dewan Perwakilan Rakyat Daerah No. 12/2003/QH11",
+   "ms": "Akta Pilihan Raya Anggota Majlis Rakyat No. 12/2003/QH11"
+  },
+  "VN-H420": {
+   "zh": "国有企业法",
+   "en": "Law No. 14/2003/QH11 on state-owned enterprises",
+   "vi": "Luật Doanh nghiệp Nhà nước số 14/2003/QH11",
+   "th": "พระราชบัญญัติรัฐวิสาหกิจ เลขที่ 14/2003/QH11",
+   "id": "Undang-Undang Badan Usaha Milik Negara No. 14/2003/QH11",
+   "ms": "Akta Perusahaan Milik Negara No. 14/2003/QH11"
+  },
+  "VN-H421": {
+   "zh": "国会监督活动法",
+   "en": "Law No. 05/2003/QH11 on supervisory activities of the National Assembly",
+   "vi": "Luật Hoạt động giám sát của Quốc hội số 05/2003/QH11",
+   "th": "พระราชบัญญัติกิจกรรมกำกับดูแลของสภาแห่งชาติ เลขที่ 05/2003/QH11",
+   "id": "Undang-Undang Kegiatan Pengawasan Majelis Nasional No. 05/2003/QH11",
+   "ms": "Akta Aktiviti Pengawasan Parlimen No. 05/2003/QH11"
+  },
+  "VN-H422": {
+   "zh": "会计法",
+   "en": "Law No. 03/2003/QH11 on accounting",
+   "vi": "Luật Kế toán số 03/2003/QH11",
+   "th": "พระราชบัญญัติการบัญชี เลขที่ 03/2003/QH11",
+   "id": "Undang-Undang Akuntansi No. 03/2003/QH11",
+   "ms": "Akta Perakaunan No. 03/2003/QH11"
+  },
+  "VN-H423": {
+   "zh": "增值税法修正案",
+   "en": "Law No. 07/2003/QH11 amending and supplementing a number of articles of the Law on value added tax",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng số 07/2003/QH11",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาษีมูลค่าเพิ่ม เลขที่ 07/2003/QH11",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pajak Pertambahan Nilai No. 07/2003/QH11",
+   "ms": "Akta Cukai Barang dan Perkhidmatan (Pindaan) No. 07/2003/QH11"
+  },
+  "VN-H424": {
+   "zh": "特别消费税法修正案",
+   "en": "Law No. 08/2003/QH11 amending and supplementing a number of articles of the Law on special consumption tax",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt số 08/2003/QH11",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาษีสรรพสามิต เลขที่ 08/2003/QH11",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pajak Barang Mewah No. 08/2003/QH11",
+   "ms": "Akta Cukai Barang Mewah (Pindaan) No. 08/2003/QH11"
+  },
+  "VN-H425": {
+   "zh": "竞赛与奖励法",
+   "en": "Law No. 15/2003/QH11 on emulation and commendation",
+   "vi": "Luật Thi đua, khen thưởng số 15/2003/QH11",
+   "th": "พระราชบัญญัติการเชิดชูเกียรติและการให้รางวัล เลขที่ 15/2003/QH11",
+   "id": "Undang-Undang Kepeloporan dan Penghargaan No. 15/2003/QH11",
+   "ms": "Akta Pertandingan dan Ganjaran No. 15/2003/QH11"
+  },
+  "VN-H426": {
+   "zh": "企业所得税法",
+   "en": "Law No. 09/2003/QH11 on corporate income tax",
+   "vi": "Luật Thuế thu nhập doanh nghiệp số 09/2003/QH11",
+   "th": "พระราชบัญญัติภาษีเงินได้นิติบุคคล เลขที่ 09/2003/QH11",
+   "id": "Undang-Undang Pajak Penghasilan Badan No. 09/2003/QH11",
+   "ms": "Akta Cukai Pendapatan Syarikat No. 09/2003/QH11"
+  },
+  "VN-H427": {
+   "zh": "统计法",
+   "en": "Law No. 04/2003/QH11 on statistics",
+   "vi": "Luật Thống kê số 04/2003/QH11",
+   "th": "พระราชบัญญัติสถิติ เลขที่ 04/2003/QH11",
+   "id": "Undang-Undang Statistik No. 04/2003/QH11",
+   "ms": "Akta Perangkaan No. 04/2003/QH11"
+  },
+  "VN-H428": {
+   "zh": "水产业法",
+   "en": "Law No. 17/2003/QH11 on fisheries",
+   "vi": "Luật Thủy sản số 17/2003/QH11",
+   "th": "พระราชบัญญัติการประมง เลขที่ 17/2003/QH11",
+   "id": "Undang-Undang Perikanan No. 17/2003/QH11",
+   "ms": "Akta Perikanan No. 17/2003/QH11"
+  },
+  "VN-H429": {
+   "zh": "人民议会与人民委员会组织法",
+   "en": "Law No. 11/2003/QH11 on organisation of People's Councils and People's Committees",
+   "vi": "Luật Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân số 11/2003/QH11",
+   "th": "พระราชบัญญัติการจัดตั้งสภาประชาชนและคณะกรรมการประชาชน เลขที่ 11/2003/QH11",
+   "id": "Undang-Undang Susunan Dewan Perwakilan Rakyat Daerah dan Komite Rakyat No. 11/2003/QH11",
+   "ms": "Akta Organisasi Majlis Rakyat dan Jawatankuasa Rakyat No. 11/2003/QH11"
+  },
+  "VN-H430": {
+   "zh": "建设法",
+   "en": "Law No. 16/2003/QH11 on construction",
+   "vi": "Luật Xây dựng số 16/2003/QH11",
+   "th": "พระราชบัญญัติการก่อสร้าง เลขที่ 16/2003/QH11",
+   "id": "Undang-Undang Konstruksi No. 16/2003/QH11",
+   "ms": "Akta Pembinaan No. 16/2003/QH11"
+  },
+  "VN-H431": {
+   "zh": "土地法",
+   "en": "Law No. 13/2003/QH11 on land",
+   "vi": "Luật Đất đai số 13/2003/QH11",
+   "th": "พระราชบัญญัติที่ดิน เลขที่ 13/2003/QH11",
+   "id": "Undang-Undang Pertanahan No. 13/2003/QH11",
+   "ms": "Akta Tanah No. 13/2003/QH11"
+  },
+  "VN-H432": {
+   "zh": "民事诉讼法典",
+   "en": "Code No. 24/2004/QH11 on civil procedure",
+   "vi": "Bộ luật Tố tụng dân sự số 24/2004/QH11",
+   "th": "ประมวลกฎหมายวิธีพิจารณาความแพ่ง เลขที่ 24/2004/QH11",
+   "id": "Kitab Undang-Undang Hukum Acara Perdata No. 24/2004/QH11",
+   "ms": "Kanun Prosedur Sivil No. 24/2004/QH11"
+  },
+  "VN-H433": {
+   "zh": "国家安全法",
+   "en": "Law No. 32/2004/QH11 on national security",
+   "vi": "Luật An ninh Quốc gia số 32/2004/QH11",
+   "th": "พระราชบัญญัติความมั่นคงแห่งชาติ เลขที่ 32/2004/QH11",
+   "id": "Undang-Undang Keamanan Nasional No. 32/2004/QH11",
+   "ms": "Akta Keselamatan Negara No. 32/2004/QH11"
+  },
+  "VN-H434": {
+   "zh": "人民议会与人民委员会法律规范性文件颁布法",
+   "en": "Law No. 31/2004/QH11 on promulgation of normative legal documents by People's Councils and People's Committees",
+   "vi": "Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân, Uỷ ban nhân dân số 31/2004/QH11",
+   "th": "พระราชบัญญัติการประกาศใช้เอกสารกฎหมายของสภาประชาชนและคณะกรรมการประชาชน เลขที่ 31/2004/QH11",
+   "id": "Undang-Undang Pembentukan Peraturan oleh Dewan Perwakilan Rakyat Daerah dan Komite Rakyat No. 31/2004/QH11",
+   "ms": "Akta Penggubalan Dokumen Perundangan oleh Majlis Rakyat dan Jawatankuasa Rakyat No. 31/2004/QH11"
+  },
+  "VN-H435": {
+   "zh": "森林保护与发展法",
+   "en": "Law No. 29/2004/QH11 on forest protection and development",
+   "vi": "Luật Bảo vệ và phát triển rừng số 29/2004/QH11",
+   "th": "พระราชบัญญัติการคุ้มครองและพัฒนาป่าไม้ เลขที่ 29/2004/QH11",
+   "id": "Undang-Undang Perlindungan dan Pengembangan Hutan No. 29/2004/QH11",
+   "ms": "Akta Perlindungan dan Pembangunan Hutan No. 29/2004/QH11"
+  },
+  "VN-H436": {
+   "zh": "儿童保护、照料与教育法",
+   "en": "Law No. 25/2004/QH11 on protection, care and education of children",
+   "vi": "Luật Bảo vệ, chăm sóc và giáo dục trẻ em số 25/2004/QH11",
+   "th": "พระราชบัญญัติการคุ้มครอง การดูแล และการศึกษาเด็ก เลขที่ 25/2004/QH11",
+   "id": "Undang-Undang Perlindungan, Pengasuhan dan Pendidikan Anak No. 25/2004/QH11",
+   "ms": "Akta Perlindungan, Penjagaan dan Pendidikan Kanak-kanak No. 25/2004/QH11"
+  },
+  "VN-H437": {
+   "zh": "竞争法",
+   "en": "Law No. 27/2004/QH11 on competition",
+   "vi": "Luật Cạnh tranh số 27/2004/QH11",
+   "th": "พระราชบัญญัติการแข่งขัน เลขที่ 27/2004/QH11",
+   "id": "Undang-Undang Persaingan Usaha No. 27/2004/QH11",
+   "ms": "Akta Persaingan No. 27/2004/QH11"
+  },
+  "VN-H438": {
+   "zh": "内河航运法",
+   "en": "Law No. 23/2004/QH11 on inland waterway navigation",
+   "vi": "Luật Giao thông đường thủy nội địa số 23/2004/QH11",
+   "th": "พระราชบัญญัติการเดินเรือในน่านน้ำภายใน เลขที่ 23/2004/QH11",
+   "id": "Undang-Undang Pelayaran Perairan Darat No. 23/2004/QH11",
+   "ms": "Akta Pelayaran Perairan Dalam No. 23/2004/QH11"
+  },
+  "VN-H439": {
+   "zh": "破产法",
+   "en": "Law No. 21/2004/QH11 on bankruptcy",
+   "vi": "Luật Phá sản số 21/2004/QH11",
+   "th": "พระราชบัญญัติการล้มละลาย เลขที่ 21/2004/QH11",
+   "id": "Undang-Undang Kepailitan No. 21/2004/QH11",
+   "ms": "Akta Kebankrapan No. 21/2004/QH11"
+  },
+  "VN-H440": {
+   "zh": "申诉与控告法修正案",
+   "en": "Law No. 26/2004/QH11 amending and supplementing a number of articles of the Law on complaints and denunciations",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Khiếu nại, tố cáo số 26/2004/QH11",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการร้องเรียนและการกล่าวโทษ เลขที่ 26/2004/QH11",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pengaduan dan Pelaporan No. 26/2004/QH11",
+   "ms": "Akta Aduan dan Laporan (Pindaan) No. 26/2004/QH11"
+  },
+  "VN-H441": {
+   "zh": "信用机构法修正案",
+   "en": "Law No. 20/2004/QH11 amending and supplementing a number of articles of the Law on credit institutions",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật các Tổ chức tín dụng số 20/2004/QH11",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมสถาบันสินเชื่อ เลขที่ 20/2004/QH11",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Lembaga Perkreditan No. 20/2004/QH11",
+   "ms": "Akta Institusi Kredit (Pindaan) No. 20/2004/QH11"
+  },
+  "VN-H442": {
+   "zh": "监察法",
+   "en": "Law No. 22/2004/QH11 on inspection",
+   "vi": "Luật Thanh tra số 22/2004/QH11",
+   "th": "พระราชบัญญัติการตรวจสอบ เลขที่ 22/2004/QH11",
+   "id": "Undang-Undang Inspeksi No. 22/2004/QH11",
+   "ms": "Akta Pemeriksaan No. 22/2004/QH11"
+  },
+  "VN-H443": {
+   "zh": "出版法",
+   "en": "Law No. 30/2004/QH11 on publication",
+   "vi": "Luật Xuất bản số 30/2004/QH11",
+   "th": "พระราชบัญญัติการพิมพ์ เลขที่ 30/2004/QH11",
+   "id": "Undang-Undang Penerbitan No. 30/2004/QH11",
+   "ms": "Akta Penerbitan No. 30/2004/QH11"
+  },
+  "VN-H444": {
+   "zh": "电力法",
+   "en": "Law No. 28/2004/QH11 on electricity",
+   "vi": "Luật Điện lực số 28/2004/QH11",
+   "th": "พระราชบัญญัติไฟฟ้า เลขที่ 28/2004/QH11",
+   "id": "Undang-Undang Ketenagalistrikan No. 28/2004/QH11",
+   "ms": "Akta Tenaga Elektrik No. 28/2004/QH11"
+  },
+  "VN-H445": {
+   "zh": "越南海事法典",
+   "en": "Code No. 40/2005/QH11 on Vietnamese maritime",
+   "vi": "Bộ luật Hàng hải Việt Nam số 40/2005/QH11",
+   "th": "ประมวลกฎหมายการพาณิชยนาวีเวียดนาม เลขที่ 40/2005/QH11",
+   "id": "Kitab Undang-Undang Pelayaran Vietnam No. 40/2005/QH11",
+   "ms": "Kanun Perkapalan Vietnam No. 40/2005/QH11"
+  },
+  "VN-H446": {
+   "zh": "环境保护法",
+   "en": "Law No. 52/2005/QH11 on environmental protection",
+   "vi": "Luật Bảo vệ môi trường số 52/2005/QH11",
+   "th": "พระราชบัญญัติการคุ้มครองสิ่งแวดล้อม เลขที่ 52/2005/QH11",
+   "id": "Undang-Undang Perlindungan Lingkungan Hidup No. 52/2005/QH11",
+   "ms": "Akta Perlindungan Alam Sekitar No. 52/2005/QH11"
+  },
+  "VN-H447": {
+   "zh": "可转让票据法",
+   "en": "Law No. 49/2005/QH11 on negotiable instruments",
+   "vi": "Luật Các công cụ chuyển nhượng số 49/2005/QH11",
+   "th": "พระราชบัญญัติตราสารเปลี่ยนมือ เลขที่ 49/2005/QH11",
+   "id": "Undang-Undang Instrumen yang Dapat Dipindahtangankan No. 49/2005/QH11",
+   "ms": "Akta Instrumen Boleh Pindah Milik No. 49/2005/QH11"
+  },
+  "VN-H448": {
+   "zh": "人民公安法",
+   "en": "Law No. 54/2005/QH11 on people's public security",
+   "vi": "Luật Công an nhân dân số 54/2005/QH11",
+   "th": "พระราชบัญญัติตำรวจประชาชน เลขที่ 54/2005/QH11",
+   "id": "Undang-Undang Kepolisian Rakyat No. 54/2005/QH11",
+   "ms": "Akta Polis Rakyat No. 54/2005/QH11"
+  },
+  "VN-H449": {
+   "zh": "企业法",
+   "en": "Law No. 60/2005/QH11 on enterprises",
+   "vi": "Luật Doanh nghiệp số 60/2005/QH11",
+   "th": "พระราชบัญญัติวิสาหกิจ เลขที่ 60/2005/QH11",
+   "id": "Undang-Undang Perseroan No. 60/2005/QH11",
+   "ms": "Akta Perusahaan No. 60/2005/QH11"
+  },
+  "VN-H450": {
+   "zh": "旅游法",
+   "en": "Law No. 44/2005/QH11 on tourism",
+   "vi": "Luật Du lịch số 44/2005/QH11",
+   "th": "พระราชบัญญัติการท่องเที่ยว เลขที่ 44/2005/QH11",
+   "id": "Undang-Undang Pariwisata No. 44/2005/QH11",
+   "ms": "Akta Pelancongan No. 44/2005/QH11"
+  },
+  "VN-H451": {
+   "zh": "药事法",
+   "en": "Law No. 34/2005/QH11 on pharmacy",
+   "vi": "Luật Dược số 34/2005/QH11",
+   "th": "พระราชบัญญัติเภสัชกรรม เลขที่ 34/2005/QH11",
+   "id": "Undang-Undang Farmasi No. 34/2005/QH11",
+   "ms": "Akta Farmasi No. 34/2005/QH11"
+  },
+  "VN-H453": {
+   "zh": "教育法",
+   "en": "Law No. 38/2005/QH11 on education",
+   "vi": "Luật Giáo dục số 38/2005/QH11",
+   "th": "พระราชบัญญัติการศึกษา เลขที่ 38/2005/QH11",
+   "id": "Undang-Undang Pendidikan No. 38/2005/QH11",
+   "ms": "Akta Pendidikan No. 38/2005/QH11"
+  },
+  "VN-H454": {
+   "zh": "国家审计法",
+   "en": "Law No. 37/2005/QH11 on state audit",
+   "vi": "Luật Kiểm toán Nhà nước số 37/2005/QH11",
+   "th": "พระราชบัญญัติการตรวจเงินแผ่นดิน เลขที่ 37/2005/QH11",
+   "id": "Undang-Undang Audit Negara No. 37/2005/QH11",
+   "ms": "Akta Audit Negara No. 37/2005/QH11"
+  },
+  "VN-H455": {
+   "zh": "国际条约签署、加入与履行法",
+   "en": "Law No. 41/2005/QH11 on conclusion, accession to and implementation of international treaties",
+   "vi": "Luật Ký kết, gia nhập và thực hiện điều ước quốc tế số 41/2005/QH11",
+   "th": "พระราชบัญญัติการลงนาม การภาคยานุวัติ และการปฏิบัติตามสนธิสัญญาระหว่างประเทศ เลขที่ 41/2005/QH11",
+   "id": "Undang-Undang Penandatanganan, Aksesi dan Pelaksanaan Perjanjian Internasional No. 41/2005/QH11",
+   "ms": "Akta Pemeteraian, Penyertaan dan Pelaksanaan Perjanjian Antarabangsa No. 41/2005/QH11"
+  },
+  "VN-H456": {
+   "zh": "住房法",
+   "en": "Law No. 56/2005/QH11 on housing",
+   "vi": "Luật Nhà ở số 56/2005/QH11",
+   "th": "พระราชบัญญัติที่อยู่อาศัย เลขที่ 56/2005/QH11",
+   "id": "Undang-Undang Perumahan No. 56/2005/QH11",
+   "ms": "Akta Perumahan No. 56/2005/QH11"
+  },
+  "VN-H457": {
+   "zh": "反腐败法",
+   "en": "Law No. 55/2005/QH11 on anti-corruption",
+   "vi": "Luật Phòng, chống tham nhũng số 55/2005/QH11",
+   "th": "พระราชบัญญัติการป้องกันและปราบปรามการทุจริต เลขที่ 55/2005/QH11",
+   "id": "Undang-Undang Pencegahan dan Pemberantasan Korupsi No. 55/2005/QH11",
+   "ms": "Akta Pencegahan dan Pembanterasan Rasuah No. 55/2005/QH11"
+  },
+  "VN-H458": {
+   "zh": "国防法",
+   "en": "Law No. 39/2005/QH11 on national defence",
+   "vi": "Luật Quốc phòng số 39/2005/QH11",
+   "th": "พระราชบัญญัติการป้องกันประเทศ เลขที่ 39/2005/QH11",
+   "id": "Undang-Undang Pertahanan Negara No. 39/2005/QH11",
+   "ms": "Akta Pertahanan Negara No. 39/2005/QH11"
+  },
+  "VN-H460": {
+   "zh": "兵役义务法修正案",
+   "en": "Law No. 43/2005/QH11 amending and supplementing a number of articles of the Law on military service",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Nghĩa vụ quân sự số 43/2005/QH11",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการรับราชการทหาร เลขที่ 43/2005/QH11",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Wajib Militer No. 43/2005/QH11",
+   "ms": "Akta Perkhidmatan Ketenteraan (Pindaan) No. 43/2005/QH11"
+  },
+  "VN-H461": {
+   "zh": "申诉与控告法修正案",
+   "en": "Law No. 58/2005/QH11 amending and supplementing a number of articles of the Law on complaints and denunciations",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Khiếu nại, tố cáo số 58/2005/QH11",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการร้องเรียนและการกล่าวโทษ เลขที่ 58/2005/QH11",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pengaduan dan Pelaporan No. 58/2005/QH11",
+   "ms": "Akta Aduan dan Laporan (Pindaan) No. 58/2005/QH11"
+  },
+  "VN-H462": {
+   "zh": "出口税与进口税法",
+   "en": "Law No. 45/2005/QH11 on export and import duties",
+   "vi": "Luật Thuế xuất khẩu, thuế nhập khẩu số 45/2005/QH11",
+   "th": "พระราชบัญญัติภาษีส่งออกและภาษีนำเข้า เลขที่ 45/2005/QH11",
+   "id": "Undang-Undang Bea Keluar dan Bea Masuk No. 45/2005/QH11",
+   "ms": "Akta Duti Eksport dan Duti Import No. 45/2005/QH11"
+  },
+  "VN-H464": {
+   "zh": "厉行节约与反对浪费法",
+   "en": "Law No. 48/2005/QH11 on practice of thrift and combat against waste",
+   "vi": "Luật Thực hành tiết kiệm, chống lãng phí số 48/2005/QH11",
+   "th": "พระราชบัญญัติการประหยัดและการต่อต้านการฟุ่มเฟือย เลขที่ 48/2005/QH11",
+   "id": "Undang-Undang Penghematan dan Pemberantasan Pemborosan No. 48/2005/QH11",
+   "ms": "Akta Amalan Berjimat Cermat dan Membanteras Pembaziran No. 48/2005/QH11"
+  },
+  "VN-H465": {
+   "zh": "矿产法修正案",
+   "en": "Law No. 46/2005/QH11 amending and supplementing a number of articles of the Law on minerals",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Khoáng sản số 46/2005/QH11",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมแร่ธาตุ เลขที่ 46/2005/QH11",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Mineral No. 46/2005/QH11",
+   "ms": "Akta Mineral (Pindaan) No. 46/2005/QH11"
+  },
+  "VN-H466": {
+   "zh": "特别消费税与增值税法修正案",
+   "en": "Law No. 57/2005/QH11 amending and supplementing a number of articles of the Law on special consumption tax and value added tax",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt và Luật Thuế giá trị gia tăng số 57/2005/QH11",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาษีสรรพสามิตและภาษีมูลค่าเพิ่ม เลขที่ 57/2005/QH11",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pajak Barang Mewah dan Pajak Pertambahan Nilai No. 57/2005/QH11",
+   "ms": "Akta Cukai Barang Mewah dan Cukai Barang dan Perkhidmatan (Pindaan) No. 57/2005/QH11"
+  },
+  "VN-H467": {
+   "zh": "铁路法",
+   "en": "Law No. 35/2005/QH11 on railways",
+   "vi": "Luật Đường sắt số 35/2005/QH11",
+   "th": "พระราชบัญญัติทางรถไฟ เลขที่ 35/2005/QH11",
+   "id": "Undang-Undang Perkeretaapian No. 35/2005/QH11",
+   "ms": "Akta Kereta Api No. 35/2005/QH11"
+  },
+  "VN-H468": {
+   "zh": "招标投标法",
+   "en": "Law No. 61/2005/QH11 on bidding",
+   "vi": "Luật Đấu thầu số 61/2005/QH11",
+   "th": "พระราชบัญญัติการประกวดราคา เลขที่ 61/2005/QH11",
+   "id": "Undang-Undang Pengadaan Barang dan Jasa No. 61/2005/QH11",
+   "ms": "Akta Tender No. 61/2005/QH11"
+  },
+  "VN-H469": {
+   "zh": "投资法",
+   "en": "Law No. 59/2005/QH11 on investment",
+   "vi": "Luật Đầu tư số 59/2005/QH11",
+   "th": "พระราชบัญญัติการลงทุน เลขที่ 59/2005/QH11",
+   "id": "Undang-Undang Penanaman Modal No. 59/2005/QH11",
+   "ms": "Akta Pelaburan No. 59/2005/QH11"
+  },
+  "VN-H470": {
+   "zh": "社会保险法",
+   "en": "Law No. 71/2006/QH11 on social insurance",
+   "vi": "Luật Bảo hiểm xã hội số 71/2006/QH11",
+   "th": "พระราชบัญญัติประกันสังคม เลขที่ 71/2006/QH11",
+   "id": "Undang-Undang Jaminan Sosial No. 71/2006/QH11",
+   "ms": "Akta Insurans Sosial No. 71/2006/QH11"
+  },
+  "VN-H471": {
+   "zh": "技术转让法",
+   "en": "Law No. 80/2006/QH11 on technology transfer",
+   "vi": "Luật Chuyển giao công nghệ số 80/2006/QH11",
+   "th": "พระราชบัญญัติการถ่ายทอดเทคโนโลยี เลขที่ 80/2006/QH11",
+   "id": "Undang-Undang Alih Teknologi No. 80/2006/QH11",
+   "ms": "Akta Pemindahan Teknologi No. 80/2006/QH11"
+  },
+  "VN-H473": {
+   "zh": "公证法",
+   "en": "Law No. 82/2006/QH11 on notarisation",
+   "vi": "Luật Công chứng số 82/2006/QH11",
+   "th": "พระราชบัญญัติการรับรองเอกสาร เลขที่ 82/2006/QH11",
+   "id": "Undang-Undang Notaris No. 82/2006/QH11",
+   "ms": "Akta Notari No. 82/2006/QH11"
+  },
+  "VN-H474": {
+   "zh": "信息技术法",
+   "en": "Law No. 67/2006/QH11 on information technology",
+   "vi": "Luật Công nghệ thông tin số 67/2006/QH11",
+   "th": "พระราชบัญญัติเทคโนโลยีสารสนเทศ เลขที่ 67/2006/QH11",
+   "id": "Undang-Undang Teknologi Informasi No. 67/2006/QH11",
+   "ms": "Akta Teknologi Maklumat No. 67/2006/QH11"
+  },
+  "VN-H475": {
+   "zh": "居住法",
+   "en": "Law No. 81/2006/QH11 on residence",
+   "vi": "Luật Cư trú số 81/2006/QH11",
+   "th": "พระราชบัญญัติการพำนักอาศัย เลขที่ 81/2006/QH11",
+   "id": "Undang-Undang Domisili No. 81/2006/QH11",
+   "ms": "Akta Kediaman No. 81/2006/QH11"
+  },
+  "VN-H476": {
+   "zh": "职业培训法",
+   "en": "Law No. 76/2006/QH11 on vocational training",
+   "vi": "Luật Dạy nghề số 76/2006/QH11",
+   "th": "พระราชบัญญัติการฝึกอาชีพ เลขที่ 76/2006/QH11",
+   "id": "Undang-Undang Pelatihan Kerja No. 76/2006/QH11",
+   "ms": "Akta Latihan Vokasional No. 76/2006/QH11"
+  },
+  "VN-H477": {
+   "zh": "人体组织与器官的捐献、摘取与移植及遗体捐献法",
+   "en": "Law No. 75/2006/QH11 on donation, removal and transplantation of human tissues and organs, and donation and removal of corpses",
+   "vi": "Luật Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác số 75/2006/QH11",
+   "th": "พระราชบัญญัติการบริจาค การผ่าตัด และการปลูกถ่ายเนื้อเยื่อและอวัยวะของมนุษย์ และการบริจาคร่างกาย เลขที่ 75/2006/QH11",
+   "id": "Undang-Undang Donasi, Pengambilan dan Transplantasi Jaringan dan Organ Tubuh Manusia serta Donasi Jenazah No. 75/2006/QH11",
+   "ms": "Akta Derma, Pengambilan dan Pemindahan Tisu dan Organ Manusia serta Derma Mayat No. 75/2006/QH11"
+  },
+  "VN-H478": {
+   "zh": "越南民用航空法",
+   "en": "Law No. 66/2006/QH11 on Vietnamese civil aviation",
+   "vi": "Luật Hàng không dân dụng Việt Nam số 66/2006/QH11",
+   "th": "พระราชบัญญัติการบินพลเรือนเวียดนาม เลขที่ 66/2006/QH11",
+   "id": "Undang-Undang Penerbangan Sipil Vietnam No. 66/2006/QH11",
+   "ms": "Akta Penerbangan Awam Vietnam No. 66/2006/QH11"
+  },
+  "VN-H479": {
+   "zh": "房地产经营法",
+   "en": "Law No. 63/2006/QH11 on real estate business",
+   "vi": "Luật Kinh doanh bất động sản số 63/2006/QH11",
+   "th": "พระราชบัญญัติธุรกิจอสังหาริมทรัพย์ เลขที่ 63/2006/QH11",
+   "id": "Undang-Undang Usaha Real Estat No. 63/2006/QH11",
+   "ms": "Akta Perniagaan Hartanah No. 63/2006/QH11"
+  },
+  "VN-H480": {
+   "zh": "越南劳动者依合同赴海外工作法",
+   "en": "Law No. 72/2006/QH11 on Vietnamese workers going abroad to work under contract",
+   "vi": "Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 72/2006/QH11",
+   "th": "พระราชบัญญัติแรงงานเวียดนามไปทำงานต่างประเทศตามสัญญา เลขที่ 72/2006/QH11",
+   "id": "Undang-Undang Pekerja Vietnam yang Bekerja di Luar Negeri Berdasarkan Kontrak No. 72/2006/QH11",
+   "ms": "Akta Pekerja Vietnam Bekerja di Luar Negara di Bawah Kontrak No. 72/2006/QH11"
+  },
+  "VN-H481": {
+   "zh": "艾滋病防治法",
+   "en": "Law No. 64/2006/QH11 on prevention and control of HIV/AIDS",
+   "vi": "Luật Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS) số 64/2006/QH11",
+   "th": "พระราชบัญญัติการป้องกันและควบคุมโรคเอดส์ เลขที่ 64/2006/QH11",
+   "id": "Undang-Undang Pencegahan dan Pengendalian HIV/AIDS No. 64/2006/QH11",
+   "ms": "Akta Pencegahan dan Kawalan HIV/AIDS No. 64/2006/QH11"
+  },
+  "VN-H482": {
+   "zh": "税收管理法",
+   "en": "Law No. 78/2006/QH11 on tax administration",
+   "vi": "Luật Quản lý thuế số 78/2006/QH11",
+   "th": "พระราชบัญญัติการบริหารภาษี เลขที่ 78/2006/QH11",
+   "id": "Undang-Undang Administrasi Perpajakan No. 78/2006/QH11",
+   "ms": "Akta Pentadbiran Cukai No. 78/2006/QH11"
+  },
+  "VN-H483": {
+   "zh": "体育法",
+   "en": "Law No. 77/2006/QH11 on sports",
+   "vi": "Luật Thể dục, thể thao số 77/2006/QH11",
+   "th": "พระราชบัญญัติกีฬา เลขที่ 77/2006/QH11",
+   "id": "Undang-Undang Olahraga No. 77/2006/QH11",
+   "ms": "Akta Sukan No. 77/2006/QH11"
+  },
+  "VN-H484": {
+   "zh": "标准与技术规范法",
+   "en": "Law No. 68/2006/QH11 on standards and technical regulations",
+   "vi": "Luật Tiêu chuẩn và quy chuẩn kỹ thuật số 68/2006/QH11",
+   "th": "พระราชบัญญัติมาตรฐานและข้อกำหนดทางเทคนิค เลขที่ 68/2006/QH11",
+   "id": "Undang-Undang Standar dan Persyaratan Teknis No. 68/2006/QH11",
+   "ms": "Akta Piawaian dan Peraturan Teknikal No. 68/2006/QH11"
+  },
+  "VN-H485": {
+   "zh": "法律援助法",
+   "en": "Law No. 69/2006/QH11 on legal aid",
+   "vi": "Luật Trợ giúp pháp lý số 69/2006/QH11",
+   "th": "พระราชบัญญัติการให้ความช่วยเหลือทางกฎหมาย เลขที่ 69/2006/QH11",
+   "id": "Undang-Undang Bantuan Hukum No. 69/2006/QH11",
+   "ms": "Akta Bantuan Guaman No. 69/2006/QH11"
+  },
+  "VN-H487": {
+   "zh": "电影法",
+   "en": "Law No. 62/2006/QH11 on cinematography",
+   "vi": "Luật Điện ảnh số 62/2006/QH11",
+   "th": "พระราชบัญญัติภาพยนตร์ เลขที่ 62/2006/QH11",
+   "id": "Undang-Undang Perfilman No. 62/2006/QH11",
+   "ms": "Akta Perfileman No. 62/2006/QH11"
+  },
+  "VN-H488": {
+   "zh": "堤防法",
+   "en": "Law No. 79/2006/QH11 on dykes",
+   "vi": "Luật Đê điều số 79/2006/QH11",
+   "th": "พระราชบัญญัติคันกั้นน้ำ เลขที่ 79/2006/QH11",
+   "id": "Undang-Undang Tanggul No. 79/2006/QH11",
+   "ms": "Akta Benteng Air No. 79/2006/QH11"
+  },
+  "VN-H489": {
+   "zh": "产品与商品质量法",
+   "en": "Law No. 05/2007/QH12 on product and goods quality",
+   "vi": "Luật Chất lượng sản phẩm, hàng hoá số 05/2007/QH12",
+   "th": "พระราชบัญญัติคุณภาพผลิตภัณฑ์และสินค้า เลขที่ 05/2007/QH12",
+   "id": "Undang-Undang Mutu Produk dan Barang No. 05/2007/QH12",
+   "ms": "Akta Kualiti Produk dan Barangan No. 05/2007/QH12"
+  },
+  "VN-H490": {
+   "zh": "化学品法",
+   "en": "Law No. 06/2007/QH12 on chemicals",
+   "vi": "Luật Hóa chất số 06/2007/QH12",
+   "th": "พระราชบัญญัติสารเคมี เลขที่ 06/2007/QH12",
+   "id": "Undang-Undang Bahan Kimia No. 06/2007/QH12",
+   "ms": "Akta Bahan Kimia No. 06/2007/QH12"
+  },
+  "VN-H491": {
+   "zh": "反家庭暴力法",
+   "en": "Law No. 02/2007/QH12 on prevention and combating of domestic violence",
+   "vi": "Luật Phòng, chống bạo lực gia đình số 02/2007/QH12",
+   "th": "พระราชบัญญัติการป้องกันและปราบปรามความรุนแรงในครอบครัว เลขที่ 02/2007/QH12",
+   "id": "Undang-Undang Pencegahan dan Penanggulangan Kekerasan dalam Rumah Tangga No. 02/2007/QH12",
+   "ms": "Akta Pencegahan dan Pembanterasan Keganasan Rumah Tangga No. 02/2007/QH12"
+  },
+  "VN-H492": {
+   "zh": "传染病防治法",
+   "en": "Law No. 03/2007/QH12 on prevention and control of infectious diseases",
+   "vi": "Luật Phòng, chống bệnh truyền nhiễm số 03/2007/QH12",
+   "th": "พระราชบัญญัติการป้องกันและควบคุมโรคติดต่อ เลขที่ 03/2007/QH12",
+   "id": "Undang-Undang Pencegahan dan Pengendalian Penyakit Menular No. 03/2007/QH12",
+   "ms": "Akta Pencegahan dan Kawalan Penyakit Berjangkit No. 03/2007/QH12"
+  },
+  "VN-H493": {
+   "zh": "反腐败法修正案",
+   "en": "Law No. 01/2007/QH12 amending and supplementing a number of articles of the Law on anti-corruption",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật phòng, chống tham nhũng số 01/2007/QH12",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการป้องกันและปราบปรามการทุจริต เลขที่ 01/2007/QH12",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pencegahan dan Pemberantasan Korupsi No. 01/2007/QH12",
+   "ms": "Akta Pencegahan dan Pembanterasan Rasuah (Pindaan) No. 01/2007/QH12"
+  },
+  "VN-H494": {
+   "zh": "国会组织法修正案",
+   "en": "Law No. 83/2007/QH11 amending and supplementing a number of articles of the Law on organisation of the National Assembly",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật tổ chức Quốc hội số 83/2007/QH11",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการจัดตั้งสภาแห่งชาติ เลขที่ 83/2007/QH11",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Susunan Majelis Nasional No. 83/2007/QH11",
+   "ms": "Akta Organisasi Parlimen (Pindaan) No. 83/2007/QH11"
+  },
+  "VN-H495": {
+   "zh": "劳动法典第73条法修正案",
+   "en": "Law No. 84/2007/QH11 amending and supplementing a number of articles of the Law on Article 73 of the Labour Code",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Điều 73 của Bộ luật Lao động số 84/2007/QH11",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมมาตรา 73 แห่งประมวลกฎหมายแรงงาน เลขที่ 84/2007/QH11",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pasal 73 Kitab Undang-Undang Ketenagakerjaan No. 84/2007/QH11",
+   "ms": "Akta Seksyen 73 Kanun Buruh (Pindaan) No. 84/2007/QH11"
+  },
+  "VN-H496": {
+   "zh": "司法协助法",
+   "en": "Law No. 08/2007/QH12 on judicial assistance",
+   "vi": "Luật Tương trợ tư pháp số 08/2007/QH12",
+   "th": "พระราชบัญญัติการช่วยเหลือทางตุลาการ เลขที่ 08/2007/QH12",
+   "id": "Undang-Undang Bantuan Timbal Balik di Bidang Hukum No. 08/2007/QH12",
+   "ms": "Akta Bantuan Kehakiman No. 08/2007/QH12"
+  },
+  "VN-H497": {
+   "zh": "特赦法",
+   "en": "Law No. 07/2007/QH12 on amnesty",
+   "vi": "Luật Đặc xá số 07/2007/QH12",
+   "th": "พระราชบัญญัติการนิรโทษกรรม เลขที่ 07/2007/QH12",
+   "id": "Undang-Undang Amnesti No. 07/2007/QH12",
+   "ms": "Akta Pengampunan No. 07/2007/QH12"
+  },
+  "VN-H498": {
+   "zh": "法律规范性文件颁布法",
+   "en": "Law No. 17/2008/QH12 on promulgation of normative legal documents",
+   "vi": "Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+   "th": "พระราชบัญญัติการประกาศใช้เอกสารกฎหมาย เลขที่ 17/2008/QH12",
+   "id": "Undang-Undang Pembentukan Peraturan Perundang-undangan No. 17/2008/QH12",
+   "ms": "Akta Penggubalan Dokumen Perundangan Normatif No. 17/2008/QH12"
+  },
+  "VN-H499": {
+   "zh": "医疗保险法",
+   "en": "Law No. 25/2008/QH12 on health insurance",
+   "vi": "Luật Bảo hiểm y tế số 25/2008/QH12",
+   "th": "พระราชบัญญัติประกันสุขภาพ เลขที่ 25/2008/QH12",
+   "id": "Undang-Undang Jaminan Kesehatan No. 25/2008/QH12",
+   "ms": "Akta Insurans Kesihatan No. 25/2008/QH12"
+  },
+  "VN-H500": {
+   "zh": "干部与公务员法",
+   "en": "Law No. 22/2008/QH12 on cadres and civil servants",
+   "vi": "Luật Cán bộ, công chức số 22/2008/QH12",
+   "th": "พระราชบัญญัติข้าราชการและเจ้าหน้าที่ เลขที่ 22/2008/QH12",
+   "id": "Undang-Undang Pejabat dan Pegawai Negeri No. 22/2008/QH12",
+   "ms": "Akta Pegawai dan Kakitangan Awam No. 22/2008/QH12"
+  },
+  "VN-H501": {
+   "zh": "高新技术法",
+   "en": "Law No. 21/2008/QH12 on high technology",
+   "vi": "Luật Công nghệ cao số 21/2008/QH12",
+   "th": "พระราชบัญญัติเทคโนโลยีขั้นสูง เลขที่ 21/2008/QH12",
+   "id": "Undang-Undang Teknologi Tinggi No. 21/2008/QH12",
+   "ms": "Akta Teknologi Tinggi No. 21/2008/QH12"
+  },
+  "VN-H502": {
+   "zh": "道路交通法",
+   "en": "Law No. 23/2008/QH12 on road traffic",
+   "vi": "Luật Giao thông đường bộ số 23/2008/QH12",
+   "th": "พระราชบัญญัติการจราจรทางบก เลขที่ 23/2008/QH12",
+   "id": "Undang-Undang Lalu Lintas Jalan No. 23/2008/QH12",
+   "ms": "Akta Lalu Lintas Jalan Raya No. 23/2008/QH12"
+  },
+  "VN-H503": {
+   "zh": "红十字活动法",
+   "en": "Law No. 11/2008/QH12 on Red Cross activities",
+   "vi": "Luật Hoạt động chữ thập đỏ số 11/2008/QH12",
+   "th": "พระราชบัญญัติกิจกรรมกาชาด เลขที่ 11/2008/QH12",
+   "id": "Undang-Undang Kegiatan Palang Merah No. 11/2008/QH12",
+   "ms": "Akta Aktiviti Palang Merah No. 11/2008/QH12"
+  },
+  "VN-H504": {
+   "zh": "原子能法",
+   "en": "Law No. 18/2008/QH12 on atomic energy",
+   "vi": "Luật Năng lượng nguyên tử số 18/2008/QH12",
+   "th": "พระราชบัญญัติพลังงานปรมาณู เลขที่ 18/2008/QH12",
+   "id": "Undang-Undang Energi Nuklir No. 18/2008/QH12",
+   "ms": "Akta Tenaga Atom No. 18/2008/QH12"
+  },
+  "VN-H505": {
+   "zh": "国有财产管理与使用法",
+   "en": "Law No. 09/2008/QH12 on management and use of state assets",
+   "vi": "Luật Quản lý, sử dụng tài sản nhà nước số 09/2008/QH12",
+   "th": "พระราชบัญญัติการบริหารและใช้ทรัพย์สินของรัฐ เลขที่ 09/2008/QH12",
+   "id": "Undang-Undang Pengelolaan dan Penggunaan Aset Negara No. 09/2008/QH12",
+   "ms": "Akta Pengurusan dan Penggunaan Aset Negara No. 09/2008/QH12"
+  },
+  "VN-H506": {
+   "zh": "越南国籍法",
+   "en": "Law No. 24/2008/QH12 on Vietnamese nationality",
+   "vi": "Luật Quốc tịch Việt Nam số 24/2008/QH12",
+   "th": "พระราชบัญญัติสัญชาติเวียดนาม เลขที่ 24/2008/QH12",
+   "id": "Undang-Undang Kewarganegaraan Vietnam No. 24/2008/QH12",
+   "ms": "Akta Kewarganegaraan Vietnam No. 24/2008/QH12"
+  },
+  "VN-H507": {
+   "zh": "石油天然气法修正案",
+   "en": "Law No. 10/2008/QH12 amending and supplementing a number of articles of the Law on petroleum",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Dầu khí số 10/2008/QH12",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมปิโตรเลียม เลขที่ 10/2008/QH12",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Minyak dan Gas Bumi No. 10/2008/QH12",
+   "ms": "Akta Petroleum (Pindaan) No. 10/2008/QH12"
+  },
+  "VN-H508": {
+   "zh": "禁毒法修正案",
+   "en": "Law No. 16/2008/QH12 amending and supplementing a number of articles of the Law on drug prevention and control",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Phòng, chống ma túy số 16/2008/QH12",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการป้องกันและปราบปรามยาเสพติด เลขที่ 16/2008/QH12",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pencegahan dan Pemberantasan Narkotika No. 16/2008/QH12",
+   "ms": "Akta Pencegahan dan Pembanterasan Dadah (Pindaan) No. 16/2008/QH12"
+  },
+  "VN-H509": {
+   "zh": "越南人民军军官法修正案",
+   "en": "Law No. 19/2008/QH12 amending and supplementing a number of articles of the Law on officers of the Vietnam People's Army",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Sĩ quan quân đội nhân dân Việt Nam số 19/2008/QH12",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมนายทหารกองทัพประชาชนเวียดนาม เลขที่ 19/2008/QH12",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Perwira Tentara Rakyat Vietnam No. 19/2008/QH12",
+   "ms": "Akta Pegawai Tentera Rakyat Vietnam (Pindaan) No. 19/2008/QH12"
+  },
+  "VN-H510": {
+   "zh": "出版法修正案",
+   "en": "Law No. 12/2008/QH12 amending and supplementing a number of articles of the Law on publication",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Xuất bản số 12/2008/QH12",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการพิมพ์ เลขที่ 12/2008/QH12",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Penerbitan No. 12/2008/QH12",
+   "ms": "Akta Penerbitan (Pindaan) No. 12/2008/QH12"
+  },
+  "VN-H514": {
+   "zh": "特别消费税法",
+   "en": "Law No. 27/2008/QH12 on special consumption tax",
+   "vi": "Luật Thuế tiêu thụ đặc biệt số 27/2008/QH12",
+   "th": "พระราชบัญญัติภาษีสรรพสามิต เลขที่ 27/2008/QH12",
+   "id": "Undang-Undang Pajak Barang Mewah No. 27/2008/QH12",
+   "ms": "Akta Cukai Barang Mewah No. 27/2008/QH12"
+  },
+  "VN-H515": {
+   "zh": "财产征购与征用法",
+   "en": "Law No. 15/2008/QH12 on purchase and requisition of assets",
+   "vi": "Luật Trưng mua, trưng dụng tài sản số 15/2008/QH12",
+   "th": "พระราชบัญญัติการจัดซื้อและการเวนคืนทรัพย์สิน เลขที่ 15/2008/QH12",
+   "id": "Undang-Undang Pembelian dan Pengambilalihan Aset No. 15/2008/QH12",
+   "ms": "Akta Pembelian dan Pengambilan Aset No. 15/2008/QH12"
+  },
+  "VN-H516": {
+   "zh": "生物多样性法",
+   "en": "Law No. 20/2008/QH12 on biodiversity",
+   "vi": "Luật Đa dạng sinh học số 20/2008/QH12",
+   "th": "พระราชบัญญัติความหลากหลายทางชีวภาพ เลขที่ 20/2008/QH12",
+   "id": "Undang-Undang Keanekaragaman Hayati No. 20/2008/QH12",
+   "ms": "Akta Kepelbagaian Biologi No. 20/2008/QH12"
+  },
+  "VN-H517": {
+   "zh": "民兵自卫法",
+   "en": "Law No. 43/2009/QH12 on militia and self-defence forces",
+   "vi": "Luật Dân quân tự vệ số 43/2009/QH12",
+   "th": "พระราชบัญญัติกองกำลังป้องกันตนเอง เลขที่ 43/2009/QH12",
+   "id": "Undang-Undang Milisi dan Pertahanan Rakyat No. 43/2009/QH12",
+   "ms": "Akta Militia dan Pertahanan Diri No. 43/2009/QH12"
+  },
+  "VN-H518": {
+   "zh": "诊疗法",
+   "en": "Law No. 40/2009/QH12 on medical examination and treatment",
+   "vi": "Luật Khám bệnh, chữa bệnh số 40/2009/QH12",
+   "th": "พระราชบัญญัติการตรวจรักษาโรค เลขที่ 40/2009/QH12",
+   "id": "Undang-Undang Pemeriksaan dan Pengobatan No. 40/2009/QH12",
+   "ms": "Akta Pemeriksaan dan Rawatan Perubatan No. 40/2009/QH12"
+  },
+  "VN-H519": {
+   "zh": "刑事记录法",
+   "en": "Law No. 28/2009/QH12 on judicial records",
+   "vi": "Luật Lý lịch tư pháp số 28/2009/QH12",
+   "th": "พระราชบัญญัติประวัติอาชญากรรม เลขที่ 28/2009/QH12",
+   "id": "Undang-Undang Catatan Kriminal No. 28/2009/QH12",
+   "ms": "Akta Rekod Jenayah No. 28/2009/QH12"
+  },
+  "VN-H520": {
+   "zh": "老年人法",
+   "en": "Law No. 39/2009/QH12 on elderly persons",
+   "vi": "Luật Người cao tuổi số 39/2009/QH12",
+   "th": "พระราชบัญญัติผู้สูงอายุ เลขที่ 39/2009/QH12",
+   "id": "Undang-Undang Lanjut Usia No. 39/2009/QH12",
+   "ms": "Akta Warga Emas No. 39/2009/QH12"
+  },
+  "VN-H521": {
+   "zh": "城市规划法",
+   "en": "Law No. 30/2009/QH12 on urban planning",
+   "vi": "Luật Quy hoạch đô thị số 30/2009/QH12",
+   "th": "พระราชบัญญัติการผังเมือง เลขที่ 30/2009/QH12",
+   "id": "Undang-Undang Penataan Ruang Kota No. 30/2009/QH12",
+   "ms": "Akta Perancangan Bandar No. 30/2009/QH12"
+  },
+  "VN-H522": {
+   "zh": "公共债务管理法",
+   "en": "Law No. 29/2009/QH12 on public debt management",
+   "vi": "Luật Quản lý nợ công số 29/2009/QH12",
+   "th": "พระราชบัญญัติการบริหารหนี้สาธารณะ เลขที่ 29/2009/QH12",
+   "id": "Undang-Undang Pengelolaan Utang Negara No. 29/2009/QH12",
+   "ms": "Akta Pengurusan Hutang Awam No. 29/2009/QH12"
+  },
+  "VN-H523": {
+   "zh": "刑事法典修正案",
+   "en": "Code No. 37/2009/QH12 amending and supplementing a number of articles of the Code on criminal",
+   "vi": "Bộ luật sửa đổi, bổ sung một số điều của Bộ luật Hình sự số 37/2009/QH12",
+   "th": "ประมวลกฎหมายแก้ไขเพิ่มเติมอาญา เลขที่ 37/2009/QH12",
+   "id": "Kitab Undang-Undang Perubahan atas Kitab Undang-Undang Pidana No. 37/2009/QH12",
+   "ms": "Kanun Jenayah (Pindaan) No. 37/2009/QH12"
+  },
+  "VN-H524": {
+   "zh": "知识产权法修正案",
+   "en": "Law No. 36/2009/QH12 amending and supplementing a number of articles of the Law on intellectual property",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ số 36/2009/QH12",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมทรัพย์สินทางปัญญา เลขที่ 36/2009/QH12",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Kekayaan Intelektual No. 36/2009/QH12",
+   "ms": "Akta Harta Intelek (Pindaan) No. 36/2009/QH12"
+  },
+  "VN-H525": {
+   "zh": "电影法修正案",
+   "en": "Law No. 31/2009/QH12 amending and supplementing a number of articles of the Law on cinematography",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật điện ảnh số 31/2009/QH12",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาพยนตร์ เลขที่ 31/2009/QH12",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Perfilman No. 31/2009/QH12",
+   "ms": "Akta Perfileman (Pindaan) No. 31/2009/QH12"
+  },
+  "VN-H526": {
+   "zh": "与基本建设投资相关的法律法修正案",
+   "en": "Law No. 38/2009/QH12 amending and supplementing a number of articles of the Law on laws related to basic construction investment",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật các luật liên quan đến đầu tư xây dựng cơ bản số 38/2009/QH12",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมกฎหมายที่เกี่ยวกับการลงทุนก่อสร้างพื้นฐาน เลขที่ 38/2009/QH12",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Undang-Undang Terkait Investasi Pembangunan Dasar No. 38/2009/QH12",
+   "ms": "Akta Undang-Undang Berkaitan Pelaburan Pembinaan Asas (Pindaan) No. 38/2009/QH12"
+  },
+  "VN-H527": {
+   "zh": "住房法第126条与土地法第121条法修正案",
+   "en": "Law No. 34/2009/QH12 amending and supplementing a number of articles of the Law on Article 126 of the Law on Housing and Article 121 of the Law on Land",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Điều 126 của Luật Nhà ở và Điều 121 của Luật Đất đai số 34/2009/QH12",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมมาตรา 126 แห่งพระราชบัญญัติที่อยู่อาศัยและมาตรา 121 แห่งพระราชบัญญัติที่ดิน เลขที่ 34/2009/QH12",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pasal 126 Undang-Undang Perumahan dan Pasal 121 Undang-Undang Pertanahan No. 34/2009/QH12",
+   "ms": "Akta Seksyen 126 Akta Perumahan dan Seksyen 121 Akta Tanah (Pindaan) No. 34/2009/QH12"
+  },
+  "VN-H528": {
+   "zh": "资源税法",
+   "en": "Law No. 45/2009/QH12 on resource tax",
+   "vi": "Luật Thuế tài nguyên số 45/2009/QH12",
+   "th": "พระราชบัญญัติภาษีทรัพยากร เลขที่ 45/2009/QH12",
+   "id": "Undang-Undang Pajak Sumber Daya Alam No. 45/2009/QH12",
+   "ms": "Akta Cukai Sumber Asli No. 45/2009/QH12"
+  },
+  "VN-H531": {
+   "zh": "邮政法",
+   "en": "Law No. 49/2010/QH12 on postal services",
+   "vi": "Luật Bưu chính số 49/2010/QH12",
+   "th": "พระราชบัญญัติไปรษณีย์ เลขที่ 49/2010/QH12",
+   "id": "Undang-Undang Pos No. 49/2010/QH12",
+   "ms": "Akta Pos No. 49/2010/QH12"
+  },
+  "VN-H532": {
+   "zh": "消费者权益保护法",
+   "en": "Law No. 59/2010/QH12 on protection of consumer rights",
+   "vi": "Luật Bảo vệ quyền lợi người tiêu dùng số 59/2010/QH12",
+   "th": "พระราชบัญญัติการคุ้มครองสิทธิผู้บริโภค เลขที่ 59/2010/QH12",
+   "id": "Undang-Undang Perlindungan Hak Konsumen No. 59/2010/QH12",
+   "ms": "Akta Perlindungan Hak Pengguna No. 59/2010/QH12"
+  },
+  "VN-H533": {
+   "zh": "信用机构法",
+   "en": "Law No. 47/2010/QH12 on credit institutions",
+   "vi": "Luật Các tổ chức tín dụng số 47/2010/QH12",
+   "th": "พระราชบัญญัติสถาบันสินเชื่อ เลขที่ 47/2010/QH12",
+   "id": "Undang-Undang Lembaga Perkreditan No. 47/2010/QH12",
+   "ms": "Akta Institusi Kredit No. 47/2010/QH12"
+  },
+  "VN-H534": {
+   "zh": "矿产法",
+   "en": "Law No. 60/2010/QH12 on minerals",
+   "vi": "Luật Khoáng sản số 60/2010/QH12",
+   "th": "พระราชบัญญัติแร่ธาตุ เลขที่ 60/2010/QH12",
+   "id": "Undang-Undang Mineral No. 60/2010/QH12",
+   "ms": "Akta Mineral No. 60/2010/QH12"
+  },
+  "VN-H535": {
+   "zh": "越南国家银行法",
+   "en": "Law No. 46/2010/QH12 on State Bank of Vietnam",
+   "vi": "Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12",
+   "th": "พระราชบัญญัติธนาคารแห่งชาติเวียดนาม เลขที่ 46/2010/QH12",
+   "id": "Undang-Undang Bank Negara Vietnam No. 46/2010/QH12",
+   "ms": "Akta Bank Negara Vietnam No. 46/2010/QH12"
+  },
+  "VN-H536": {
+   "zh": "残疾人法",
+   "en": "Law No. 51/2010/QH12 on persons with disabilities",
+   "vi": "Luật Người khuyết tật số 51/2010/QH12",
+   "th": "พระราชบัญญัติคนพิการ เลขที่ 51/2010/QH12",
+   "id": "Undang-Undang Penyandang Disabilitas No. 51/2010/QH12",
+   "ms": "Akta Orang Kurang Upaya No. 51/2010/QH12"
+  },
+  "VN-H537": {
+   "zh": "收养法",
+   "en": "Law No. 52/2010/QH12 on adoption",
+   "vi": "Luật Nuôi con nuôi số 52/2010/QH12",
+   "th": "พระราชบัญญัติการรับบุตรบุญธรรม เลขที่ 52/2010/QH12",
+   "id": "Undang-Undang Adopsi No. 52/2010/QH12",
+   "ms": "Akta Pengambilan Anak Angkat No. 52/2010/QH12"
+  },
+  "VN-H538": {
+   "zh": "能源的节约与高效利用法",
+   "en": "Law No. 50/2010/QH12 on economical and efficient use of energy",
+   "vi": "Luật Sử dụng năng lượng tiết kiệm và hiệu quả số 50/2010/QH12",
+   "th": "พระราชบัญญัติการใช้พลังงานอย่างประหยัดและมีประสิทธิภาพ เลขที่ 50/2010/QH12",
+   "id": "Undang-Undang Penggunaan Energi yang Hemat dan Efisien No. 50/2010/QH12",
+   "ms": "Akta Penggunaan Tenaga yang Cekap dan Berkesan No. 50/2010/QH12"
+  },
+  "VN-H539": {
+   "zh": "国会代表选举法与人民议会代表选举法修正案",
+   "en": "Law No. 63/2010/QH12 amending and supplementing a number of articles of the Law on election of deputies to the National Assembly and election of deputies to People's Councils",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Bầu cử đại biểu Quốc hội và Luật Bầu cử đại biểu Hội đồng nhân dân số 63/2010/QH12",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการเลือกตั้งสมาชิกสภาแห่งชาติและสมาชิกสภาประชาชน เลขที่ 63/2010/QH12",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pemilihan Anggota Majelis Nasional dan Anggota Dewan Perwakilan Rakyat Daerah No. 63/2010/QH12",
+   "ms": "Akta Pilihan Raya Anggota Parlimen dan Anggota Majlis Rakyat (Pindaan) No. 63/2010/QH12"
+  },
+  "VN-H540": {
+   "zh": "证券法修正案",
+   "en": "Law No. 62/2010/QH12 amending and supplementing a number of articles of the Law on securities",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán số 62/2010/QH12",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมหลักทรัพย์ เลขที่ 62/2010/QH12",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Sekuritas No. 62/2010/QH12",
+   "ms": "Akta Sekuriti (Pindaan) No. 62/2010/QH12"
+  },
+  "VN-H541": {
+   "zh": "保险经营法修正案",
+   "en": "Law No. 61/2010/QH12 amending and supplementing a number of articles of the Law on insurance business",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm số 61/2010/QH12",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมธุรกิจประกันภัย เลขที่ 61/2010/QH12",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Usaha Perasuransian No. 61/2010/QH12",
+   "ms": "Akta Perniagaan Insurans (Pindaan) No. 61/2010/QH12"
+  },
+  "VN-H542": {
+   "zh": "监察法",
+   "en": "Law No. 56/2010/QH12 on inspection",
+   "vi": "Luật Thanh tra số 56/2010/QH12",
+   "th": "พระราชบัญญัติการตรวจสอบ เลขที่ 56/2010/QH12",
+   "id": "Undang-Undang Inspeksi No. 56/2010/QH12",
+   "ms": "Akta Pemeriksaan No. 56/2010/QH12"
+  },
+  "VN-H543": {
+   "zh": "刑事判决执行法",
+   "en": "Law No. 53/2010/QH12 on execution of criminal judgments",
+   "vi": "Luật Thi hành án hình sự số 53/2010/QH12",
+   "th": "พระราชบัญญัติการบังคับคดีอาญา เลขที่ 53/2010/QH12",
+   "id": "Undang-Undang Pelaksanaan Putusan Pidana No. 53/2010/QH12",
+   "ms": "Akta Pelaksanaan Hukuman Jenayah No. 53/2010/QH12"
+  },
+  "VN-H544": {
+   "zh": "环境保护税法",
+   "en": "Law No. 57/2010/QH12 on environmental protection tax",
+   "vi": "Luật Thuế bảo vệ môi trường số 57/2010/QH12",
+   "th": "พระราชบัญญัติภาษีคุ้มครองสิ่งแวดล้อม เลขที่ 57/2010/QH12",
+   "id": "Undang-Undang Pajak Perlindungan Lingkungan Hidup No. 57/2010/QH12",
+   "ms": "Akta Cukai Perlindungan Alam Sekitar No. 57/2010/QH12"
+  },
+  "VN-H545": {
+   "zh": "行政诉讼法",
+   "en": "Law No. 64/2010/QH12 on administrative procedure",
+   "vi": "Luật Tố tụng hành chính số 64/2010/QH12",
+   "th": "พระราชบัญญัติวิธีพิจารณาคดีปกครอง เลขที่ 64/2010/QH12",
+   "id": "Undang-Undang Hukum Acara Tata Usaha Negara No. 64/2010/QH12",
+   "ms": "Akta Prosedur Pentadbiran No. 64/2010/QH12"
+  },
+  "VN-H546": {
+   "zh": "公职人员法",
+   "en": "Law No. 58/2010/QH12 on public employees",
+   "vi": "Luật Viên chức số 58/2010/QH12",
+   "th": "พระราชบัญญัติข้าราชการพลเรือน เลขที่ 58/2010/QH12",
+   "id": "Undang-Undang Pegawai Publik No. 58/2010/QH12",
+   "ms": "Akta Pegawai Awam No. 58/2010/QH12"
+  },
+  "VN-H547": {
+   "zh": "密码工作法",
+   "en": "Law No. 05/2011/QH13 on cryptography",
+   "vi": "Luật Cơ yếu số 05/2011/QH13",
+   "th": "พระราชบัญญัติงานรหัสลับ เลขที่ 05/2011/QH13",
+   "id": "Undang-Undang Persandian No. 05/2011/QH13",
+   "ms": "Akta Kriptografi No. 05/2011/QH13"
+  },
+  "VN-H548": {
+   "zh": "申诉法",
+   "en": "Law No. 02/2011/QH13 on complaints",
+   "vi": "Luật Khiếu nại số 02/2011/QH13",
+   "th": "พระราชบัญญัติการร้องเรียน เลขที่ 02/2011/QH13",
+   "id": "Undang-Undang Pengaduan No. 02/2011/QH13",
+   "ms": "Akta Aduan No. 02/2011/QH13"
+  },
+  "VN-H549": {
+   "zh": "独立审计法",
+   "en": "Law No. 67/2011/QH12 on independent audit",
+   "vi": "Luật Kiểm toán độc lập số 67/2011/QH12",
+   "th": "พระราชบัญญัติการสอบบัญชีอิสระ เลขที่ 67/2011/QH12",
+   "id": "Undang-Undang Audit Independen No. 67/2011/QH12",
+   "ms": "Akta Audit Bebas No. 67/2011/QH12"
+  },
+  "VN-H550": {
+   "zh": "档案法",
+   "en": "Law No. 01/2011/QH13 on archives",
+   "vi": "Luật Lưu trữ số 01/2011/QH13",
+   "th": "พระราชบัญญัติจดหมายเหตุ เลขที่ 01/2011/QH13",
+   "id": "Undang-Undang Arsip No. 01/2011/QH13",
+   "ms": "Akta Arkib No. 01/2011/QH13"
+  },
+  "VN-H551": {
+   "zh": "反人口贩运法",
+   "en": "Law No. 66/2011/QH12 on prevention and combating of human trafficking",
+   "vi": "Luật Phòng, chống mua bán người số 66/2011/QH12",
+   "th": "พระราชบัญญัติการป้องกันและปราบปรามการค้ามนุษย์ เลขที่ 66/2011/QH12",
+   "id": "Undang-Undang Pencegahan dan Pemberantasan Perdagangan Orang No. 66/2011/QH12",
+   "ms": "Akta Pencegahan dan Pembanterasan Pemerdagangan Orang No. 66/2011/QH12"
+  },
+  "VN-H553": {
+   "zh": "越南海洋法",
+   "en": "Law No. 18/2012/QH13 on Vietnam's seas",
+   "vi": "Luật Biển Việt Nam số 18/2012/QH13",
+   "th": "พระราชบัญญัติทะเลเวียดนาม เลขที่ 18/2012/QH13",
+   "id": "Undang-Undang Laut Vietnam No. 18/2012/QH13",
+   "ms": "Akta Laut Vietnam No. 18/2012/QH13"
+  },
+  "VN-H554": {
+   "zh": "存款保险法",
+   "en": "Law No. 06/2012/QH13 on deposit insurance",
+   "vi": "Luật Bảo hiểm tiền gửi số 06/2012/QH13",
+   "th": "พระราชบัญญัติการประกันเงินฝาก เลขที่ 06/2012/QH13",
+   "id": "Undang-Undang Penjaminan Simpanan No. 06/2012/QH13",
+   "ms": "Akta Insurans Deposit No. 06/2012/QH13"
+  },
+  "VN-H555": {
+   "zh": "工会法",
+   "en": "Law No. 12/2012/QH13 on trade unions",
+   "vi": "Luật Công đoàn số 12/2012/QH13",
+   "th": "พระราชบัญญัติสหภาพแรงงาน เลขที่ 12/2012/QH13",
+   "id": "Undang-Undang Serikat Pekerja No. 12/2012/QH13",
+   "ms": "Akta Kesatuan Sekerja No. 12/2012/QH13"
+  },
+  "VN-H556": {
+   "zh": "国家储备法",
+   "en": "Law No. 22/2012/QH13 on national reserves",
+   "vi": "Luật Dự trữ quốc gia số 22/2012/QH13",
+   "th": "พระราชบัญญัติการสำรองแห่งชาติ เลขที่ 22/2012/QH13",
+   "id": "Undang-Undang Cadangan Nasional No. 22/2012/QH13",
+   "ms": "Akta Rizab Negara No. 22/2012/QH13"
+  },
+  "VN-H557": {
+   "zh": "价格法",
+   "en": "Law No. 11/2012/QH13 on prices",
+   "vi": "Luật Giá số 11/2012/QH13",
+   "th": "พระราชบัญญัติราคา เลขที่ 11/2012/QH13",
+   "id": "Undang-Undang Harga No. 11/2012/QH13",
+   "ms": "Akta Harga No. 11/2012/QH13"
+  },
+  "VN-H558": {
+   "zh": "高等教育法",
+   "en": "Law No. 08/2012/QH13 on higher education",
+   "vi": "Luật Giáo dục đại học số 08/2012/QH13",
+   "th": "พระราชบัญญัติการศึกษาระดับอุดมศึกษา เลขที่ 08/2012/QH13",
+   "id": "Undang-Undang Pendidikan Tinggi No. 08/2012/QH13",
+   "ms": "Akta Pendidikan Tinggi No. 08/2012/QH13"
+  },
+  "VN-H559": {
+   "zh": "合作社法",
+   "en": "Law No. 23/2012/QH13 on cooperatives",
+   "vi": "Luật Hợp tác xã số 23/2012/QH13",
+   "th": "พระราชบัญญัติสหกรณ์ เลขที่ 23/2012/QH13",
+   "id": "Undang-Undang Koperasi No. 23/2012/QH13",
+   "ms": "Akta Koperasi No. 23/2012/QH13"
+  },
+  "VN-H560": {
+   "zh": "反洗钱法",
+   "en": "Law No. 07/2012/QH13 on anti-money laundering",
+   "vi": "Luật Phòng, chống rửa tiền số 07/2012/QH13",
+   "th": "พระราชบัญญัติการป้องกันและปราบปรามการฟอกเงิน เลขที่ 07/2012/QH13",
+   "id": "Undang-Undang Pencegahan dan Pemberantasan Pencucian Uang No. 07/2012/QH13",
+   "ms": "Akta Pencegahan dan Pembanterasan Pengubahan Wang Haram No. 07/2012/QH13"
+  },
+  "VN-H561": {
+   "zh": "控制烟草危害法",
+   "en": "Law No. 09/2012/QH13 on prevention and control of tobacco harms",
+   "vi": "Luật Phòng, chống tác hại của thuốc lá số 09/2012/QH13",
+   "th": "พระราชบัญญัติการป้องกันและควบคุมอันตรายจากยาสูบ เลขที่ 09/2012/QH13",
+   "id": "Undang-Undang Pencegahan dan Pengendalian Bahaya Tembakau No. 09/2012/QH13",
+   "ms": "Akta Pencegahan dan Kawalan Bahaya Tembakau No. 09/2012/QH13"
+  },
+  "VN-H562": {
+   "zh": "法制宣传与教育法",
+   "en": "Law No. 14/2012/QH13 on legal dissemination and education",
+   "vi": "Luật Phổ biến, giáo dục pháp luật số 14/2012/QH13",
+   "th": "พระราชบัญญัติการเผยแพร่และให้การศึกษากฎหมาย เลขที่ 14/2012/QH13",
+   "id": "Undang-Undang Penyuluhan dan Pendidikan Hukum No. 14/2012/QH13",
+   "ms": "Akta Penyebaran dan Pendidikan Undang-Undang No. 14/2012/QH13"
+  },
+  "VN-H563": {
+   "zh": "广告法",
+   "en": "Law No. 16/2012/QH13 on advertising",
+   "vi": "Luật Quảng cáo số 16/2012/QH13",
+   "th": "พระราชบัญญัติการโฆษณา เลขที่ 16/2012/QH13",
+   "id": "Undang-Undang Periklanan No. 16/2012/QH13",
+   "ms": "Akta Pengiklanan No. 16/2012/QH13"
+  },
+  "VN-H564": {
+   "zh": "个人所得税法修正案",
+   "en": "Law No. 26/2012/QH13 amending and supplementing a number of articles of the Law on personal income tax",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân số 26/2012/QH13",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาษีเงินได้บุคคลธรรมดา เลขที่ 26/2012/QH13",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pajak Penghasilan Pribadi No. 26/2012/QH13",
+   "ms": "Akta Cukai Pendapatan Peribadi (Pindaan) No. 26/2012/QH13"
+  },
+  "VN-H565": {
+   "zh": "反腐败法修正案",
+   "en": "Law No. 27/2012/QH13 amending and supplementing a number of articles of the Law on anti-corruption",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Phòng, chống tham nhũng số 27/2012/QH13",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการป้องกันและปราบปรามการทุจริต เลขที่ 27/2012/QH13",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pencegahan dan Pemberantasan Korupsi No. 27/2012/QH13",
+   "ms": "Akta Pencegahan dan Pembanterasan Rasuah (Pindaan) No. 27/2012/QH13"
+  },
+  "VN-H566": {
+   "zh": "税收管理法修正案",
+   "en": "Law No. 21/2012/QH13 amending and supplementing a number of articles of the Law on tax administration",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế số 21/2012/QH13",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการบริหารภาษี เลขที่ 21/2012/QH13",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Administrasi Perpajakan No. 21/2012/QH13",
+   "ms": "Akta Pentadbiran Cukai (Pindaan) No. 21/2012/QH13"
+  },
+  "VN-H567": {
+   "zh": "电力法修正案",
+   "en": "Law No. 24/2012/QH13 amending and supplementing a number of articles of the Law on electricity",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Điện lực số 24/2012/QH13",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมไฟฟ้า เลขที่ 24/2012/QH13",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Ketenagalistrikan No. 24/2012/QH13",
+   "ms": "Akta Tenaga Elektrik (Pindaan) No. 24/2012/QH13"
+  },
+  "VN-H568": {
+   "zh": "水资源法",
+   "en": "Law No. 17/2012/QH13 on water resources",
+   "vi": "Luật Tài nguyên nước số 17/2012/QH13",
+   "th": "พระราชบัญญัติทรัพยากรน้ำ เลขที่ 17/2012/QH13",
+   "id": "Undang-Undang Sumber Daya Air No. 17/2012/QH13",
+   "ms": "Akta Sumber Air No. 17/2012/QH13"
+  },
+  "VN-H569": {
+   "zh": "出版法",
+   "en": "Law No. 19/2012/QH13 on publication",
+   "vi": "Luật Xuất bản số 19/2012/QH13",
+   "th": "พระราชบัญญัติการพิมพ์ เลขที่ 19/2012/QH13",
+   "id": "Undang-Undang Penerbitan No. 19/2012/QH13",
+   "ms": "Akta Penerbitan No. 19/2012/QH13"
+  },
+  "VN-H570": {
+   "zh": "出版法",
+   "en": "Law No. 19/2012/QhH13 on publication",
+   "vi": "Luật xuất bản số 19/2012/QhH13",
+   "th": "พระราชบัญญัติการพิมพ์ เลขที่ 19/2012/QhH13",
+   "id": "Undang-Undang Penerbitan No. 19/2012/QhH13",
+   "ms": "Akta Penerbitan No. 19/2012/QhH13"
+  },
+  "VN-H571": {
+   "zh": "增值税法修正案",
+   "en": "Law No. 13/2008/QH12 số 31/2013/QH13 amending and supplementing a number of articles of the Law on value added tax",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng số 13/2008/QH12 số 31/2013/QH13",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาษีมูลค่าเพิ่ม เลขที่ 13/2008/QH12 số 31/2013/QH13",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pajak Pertambahan Nilai No. 13/2008/QH12 số 31/2013/QH13",
+   "ms": "Akta Cukai Barang dan Perkhidmatan (Pindaan) No. 13/2008/QH12 số 31/2013/QH13"
+  },
+  "VN-H572": {
+   "zh": "企业所得税法修正案",
+   "en": "Law No. 32/2013/QH13 amending and supplementing a number of articles of the Law on corporate income tax",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập doanh nghiệp số 32/2013/QH13",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมภาษีเงินได้นิติบุคคล เลขที่ 32/2013/QH13",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pajak Penghasilan Badan No. 32/2013/QH13",
+   "ms": "Akta Cukai Pendapatan Syarikat (Pindaan) No. 32/2013/QH13"
+  },
+  "VN-H573": {
+   "zh": "厉行节约与反对浪费法",
+   "en": "Law No. 44/2013/QH13 on practice of thrift and combat against waste",
+   "vi": "Luật Thực hành tiết kiệm, chống lãng phí số 44/2013/QH13",
+   "th": "พระราชบัญญัติการประหยัดและการต่อต้านการฟุ่มเฟือย เลขที่ 44/2013/QH13",
+   "id": "Undang-Undang Penghematan dan Pemberantasan Pemborosan No. 44/2013/QH13",
+   "ms": "Akta Amalan Berjimat Cermat dan Membanteras Pembaziran No. 44/2013/QH13"
+  },
+  "VN-H574": {
+   "zh": "人民公安法",
+   "en": "Law No. 73/2014/QH13 on people's public security",
+   "vi": "Luật Công an nhân dân số 73/2014/QH13",
+   "th": "พระราชบัญญัติตำรวจประชาชน เลขที่ 73/2014/QH13",
+   "id": "Undang-Undang Kepolisian Rakyat No. 73/2014/QH13",
+   "ms": "Akta Polis Rakyat No. 73/2014/QH13"
+  },
+  "VN-H575": {
+   "zh": "公民身份标识法",
+   "en": "Law No. 59/2014/QH13 on citizen identification",
+   "vi": "Luật Căn cước công dân số 59/2014/QH13",
+   "th": "พระราชบัญญัติบัตรประจำตัวประชาชน เลขที่ 59/2014/QH13",
+   "id": "Undang-Undang Identitas Warga Negara No. 59/2014/QH13",
+   "ms": "Akta Pengenalan Warganegara No. 59/2014/QH13"
+  },
+  "VN-H576": {
+   "zh": "职业教育法",
+   "en": "Law No. 74/2014/QH13 on vocational education",
+   "vi": "Luật Giáo dục nghề nghiệp số 74/2014/QH13",
+   "th": "พระราชบัญญัติการศึกษาอาชีวะ เลขที่ 74/2014/QH13",
+   "id": "Undang-Undang Pendidikan Vokasi No. 74/2014/QH13",
+   "ms": "Akta Pendidikan Vokasional No. 74/2014/QH13"
+  },
+  "VN-H577": {
+   "zh": "房地产经营法",
+   "en": "Law No. 66/2014/QH13 on real estate business",
+   "vi": "Luật Kinh doanh bất động sản số 66/2014/QH13",
+   "th": "พระราชบัญญัติธุรกิจอสังหาริมทรัพย์ เลขที่ 66/2014/QH13",
+   "id": "Undang-Undang Usaha Real Estat No. 66/2014/QH13",
+   "ms": "Akta Perniagaan Hartanah No. 66/2014/QH13"
+  },
+  "VN-H578": {
+   "zh": "国家投入企业生产经营资金的管理使用法",
+   "en": "Law No. 69/2014/QH13 on management and use of state capital invested in production and business at enterprises",
+   "vi": "Luật Quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp số 69/2014/QH13",
+   "th": "พระราชบัญญัติการบริหารและใช้ทุนของรัฐที่ลงทุนในการผลิตและธุรกิจในวิสาหกิจ เลขที่ 69/2014/QH13",
+   "id": "Undang-Undang Pengelolaan dan Penggunaan Modal Negara yang Diinvestasikan dalam Produksi dan Usaha pada Perseroan No. 69/2014/QH13",
+   "ms": "Akta Pengurusan dan Penggunaan Modal Negara yang Dilaburkan dalam Pengeluaran dan Perniagaan di Perusahaan No. 69/2014/QH13"
+  },
+  "VN-H579": {
+   "zh": "越南民用航空法修正案",
+   "en": "Law No. 61/2014/QH13 amending and supplementing a number of articles of the Law on Vietnamese civil aviation",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Hàng không dân dụng Việt Nam số 61/2014/QH13",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการบินพลเรือนเวียดนาม เลขที่ 61/2014/QH13",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Penerbangan Sipil Vietnam No. 61/2014/QH13",
+   "ms": "Akta Penerbangan Awam Vietnam (Pindaan) No. 61/2014/QH13"
+  },
+  "VN-H580": {
+   "zh": "越南人民军军官法修正案",
+   "en": "Law No. 72/2014/QH13 amending and supplementing a number of articles of the Law on officers of the Vietnam People's Army",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Sĩ quan Quân đội nhân dân Việt Nam số 72/2014/QH13",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมนายทหารกองทัพประชาชนเวียดนาม เลขที่ 72/2014/QH13",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Perwira Tentara Rakyat Vietnam No. 72/2014/QH13",
+   "ms": "Akta Pegawai Tentera Rakyat Vietnam (Pindaan) No. 72/2014/QH13"
+  },
+  "VN-H581": {
+   "zh": "有关税收的法律法修正案",
+   "en": "Law No. 71/2014/QH13 amending and supplementing a number of articles of the Law on laws on taxes",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật các luật về thuế số 71/2014/QH13",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมกฎหมายเกี่ยวกับภาษี เลขที่ 71/2014/QH13",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Undang-Undang Perpajakan No. 71/2014/QH13",
+   "ms": "Akta Undang-Undang Cukai (Pindaan) No. 71/2014/QH13"
+  },
+  "VN-H582": {
+   "zh": "国会组织法",
+   "en": "Law No. 57/2014/QH13 on organisation of the National Assembly",
+   "vi": "Luật Tổ chức Quốc hội số 57/2014/QH13",
+   "th": "พระราชบัญญัติการจัดตั้งสภาแห่งชาติ เลขที่ 57/2014/QH13",
+   "id": "Undang-Undang Susunan Majelis Nasional No. 57/2014/QH13",
+   "ms": "Akta Organisasi Parlimen No. 57/2014/QH13"
+  },
+  "VN-H583": {
+   "zh": "人民法院组织法",
+   "en": "Law No. 62/2014/QH13 on organisation of People's Courts",
+   "vi": "Luật Tổ chức Tòa án nhân dân số 62/2014/QH13",
+   "th": "พระราชบัญญัติการจัดตั้งศาลประชาชน เลขที่ 62/2014/QH13",
+   "id": "Undang-Undang Susunan Pengadilan Rakyat No. 62/2014/QH13",
+   "ms": "Akta Organisasi Mahkamah Rakyat No. 62/2014/QH13"
+  },
+  "VN-H585": {
+   "zh": "刑事侦查机关组织法",
+   "en": "Law No. 99/2015/QH13 on organisation of criminal investigation bodies",
+   "vi": "Luật Tổ chức cơ quan điều tra hình sự số 99/2015/QH13",
+   "th": "พระราชบัญญัติการจัดตั้งหน่วยสืบสวนคดีอาญา เลขที่ 99/2015/QH13",
+   "id": "Undang-Undang Susunan Badan Penyidik Pidana No. 99/2015/QH13",
+   "ms": "Akta Organisasi Badan Siasatan Jenayah No. 99/2015/QH13"
+  },
+  "VN-H586": {
+   "zh": "新闻法",
+   "en": "Law No. 103/2016/QH13 on press",
+   "vi": "Luật Báo chí số 103/2016/QH13",
+   "th": "พระราชบัญญัติสื่อมวลชน เลขที่ 103/2016/QH13",
+   "id": "Undang-Undang Pers No. 103/2016/QH13",
+   "ms": "Akta Akhbar No. 103/2016/QH13"
+  },
+  "VN-H587": {
+   "zh": "信息获取法",
+   "en": "Law No. 104/2016/QH13 on access to information",
+   "vi": "Luật Tiếp cận thông tin số 104/2016/QH13",
+   "th": "พระราชบัญญัติการเข้าถึงข้อมูลข่าวสาร เลขที่ 104/2016/QH13",
+   "id": "Undang-Undang Akses Informasi No. 104/2016/QH13",
+   "ms": "Akta Akses Maklumat No. 104/2016/QH13"
+  },
+  "VN-H588": {
+   "zh": "财产拍卖法",
+   "en": "Law No. 01/2016/QH14 on asset auction",
+   "vi": "Luật Đấu giá tài sản số 01/2016/QH14",
+   "th": "พระราชบัญญัติการประมูลทรัพย์สิน เลขที่ 01/2016/QH14",
+   "id": "Undang-Undang Lelang Aset No. 01/2016/QH14",
+   "ms": "Akta Lelongan Aset No. 01/2016/QH14"
+  },
+  "VN-H589": {
+   "zh": "警卫法",
+   "en": "Law No. 13/2017/QH14 on dignitary protection",
+   "vi": "Luật Cảnh vệ số 13/2017/QH14",
+   "th": "พระราชบัญญัติงานอารักขา เลขที่ 13/2017/QH14",
+   "id": "Undang-Undang Pengamanan Pejabat No. 13/2017/QH14",
+   "ms": "Akta Pengawal No. 13/2017/QH14"
+  },
+  "VN-H590": {
+   "zh": "公共财产管理与使用法",
+   "en": "Law No. 15/2017/QH14 on management and use of public assets",
+   "vi": "Luật Quản lý, sử dụng tài sản công số 15/2017/QH14",
+   "th": "พระราชบัญญัติการบริหารและใช้ทรัพย์สินสาธารณะ เลขที่ 15/2017/QH14",
+   "id": "Undang-Undang Pengelolaan dan Penggunaan Aset Publik No. 15/2017/QH14",
+   "ms": "Akta Pengurusan dan Penggunaan Aset Awam No. 15/2017/QH14"
+  },
+  "VN-H591": {
+   "zh": "武器、爆炸物与辅助工具的管理使用法",
+   "en": "Law No. 14/2017/QH14 on management and use of weapons, explosives and support tools",
+   "vi": "Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ số 14/2017/QH14",
+   "th": "พระราชบัญญัติการบริหารและใช้อาวุธ วัตถุระเบิด และเครื่องมือสนับสนุน เลขที่ 14/2017/QH14",
+   "id": "Undang-Undang Pengelolaan dan Penggunaan Senjata, Bahan Peledak dan Alat Pendukung No. 14/2017/QH14",
+   "ms": "Akta Pengurusan dan Penggunaan Senjata, Bahan Letupan dan Alat Sokongan No. 14/2017/QH14"
+  },
+  "VN-H592": {
+   "zh": "越南社会主义共和国驻外代表机构法修正案",
+   "en": "Law No. 19/2017/QH14 amending and supplementing a number of articles of the Law on representative missions of the Socialist Republic of Vietnam abroad",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài số 19/2017/QH14",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมคณะผู้แทนเวียดนามในต่างประเทศ เลขที่ 19/2017/QH14",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Perwakilan Vietnam di Luar Negeri No. 19/2017/QH14",
+   "ms": "Akta Perwakilan Vietnam di Luar Negara (Pindaan) No. 19/2017/QH14"
+  },
+  "VN-H593": {
+   "zh": "铁路法",
+   "en": "Law No. 06/2017/QH14 on railways",
+   "vi": "Luật Đường sắt số 06/2017/QH14",
+   "th": "พระราชบัญญัติทางรถไฟ เลขที่ 06/2017/QH14",
+   "id": "Undang-Undang Perkeretaapian No. 06/2017/QH14",
+   "ms": "Akta Kereta Api No. 06/2017/QH14"
+  },
+  "VN-H595": {
+   "zh": "国家秘密保护法",
+   "en": "Law No. 29/2018/QH14 on protection of state secrets",
+   "vi": "Luật Bảo vệ bí mật nhà nước số 29/2018/QH14",
+   "th": "พระราชบัญญัติการคุ้มครองความลับของรัฐ เลขที่ 29/2018/QH14",
+   "id": "Undang-Undang Perlindungan Rahasia Negara No. 29/2018/QH14",
+   "ms": "Akta Perlindungan Rahsia Negara No. 29/2018/QH14"
+  },
+  "VN-H596": {
+   "zh": "畜牧法",
+   "en": "Law No. 32/2018/QH14 on animal husbandry",
+   "vi": "Luật Chăn nuôi số 32/2018/QH14",
+   "th": "พระราชบัญญัติการปศุสัตว์ เลขที่ 32/2018/QH14",
+   "id": "Undang-Undang Peternakan No. 32/2018/QH14",
+   "ms": "Akta Penternakan No. 32/2018/QH14"
+  },
+  "VN-H597": {
+   "zh": "人民公安法",
+   "en": "Law No. 37/2018/QH14 on people's public security",
+   "vi": "Luật Công an nhân dân số 37/2018/QH14",
+   "th": "พระราชบัญญัติตำรวจประชาชน เลขที่ 37/2018/QH14",
+   "id": "Undang-Undang Kepolisian Rakyat No. 37/2018/QH14",
+   "ms": "Akta Polis Rakyat No. 37/2018/QH14"
+  },
+  "VN-H599": {
+   "zh": "反腐败法",
+   "en": "Law No. 36/2018/QH14 on anti-corruption",
+   "vi": "Luật Phòng, chống tham nhũng số 36/2018/QH14",
+   "th": "พระราชบัญญัติการป้องกันและปราบปรามการทุจริต เลขที่ 36/2018/QH14",
+   "id": "Undang-Undang Pencegahan dan Pemberantasan Korupsi No. 36/2018/QH14",
+   "ms": "Akta Pencegahan dan Pembanterasan Rasuah No. 36/2018/QH14"
+  },
+  "VN-H600": {
+   "zh": "国防法",
+   "en": "Law No. 22/2018/QH14 on national defence",
+   "vi": "Luật Quốc phòng số 22/2018/QH14",
+   "th": "พระราชบัญญัติการป้องกันประเทศ เลขที่ 22/2018/QH14",
+   "id": "Undang-Undang Pertahanan Negara No. 22/2018/QH14",
+   "ms": "Akta Pertahanan Negara No. 22/2018/QH14"
+  },
+  "VN-H601": {
+   "zh": "体育法修正案",
+   "en": "Law No. 26/2018/QH14 amending and supplementing a number of articles of the Law on sports",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Thể dục, thể thao số 26/2018/QH14",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมกีฬา เลขที่ 26/2018/QH14",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Olahraga No. 26/2018/QH14",
+   "ms": "Akta Sukan (Pindaan) No. 26/2018/QH14"
+  },
+  "VN-H602": {
+   "zh": "种植法",
+   "en": "Law No. 31/2018/QH14 on cultivation",
+   "vi": "Luật Trồng trọt số 31/2018/QH14",
+   "th": "พระราชบัญญัติการเพาะปลูก เลขที่ 31/2018/QH14",
+   "id": "Undang-Undang Budidaya Tanaman No. 31/2018/QH14",
+   "ms": "Akta Penanaman No. 31/2018/QH14"
+  },
+  "VN-H603": {
+   "zh": "高等教育法修正案",
+   "en": "Law No. 34/2018/QH14 amending and supplementing a number of articles of the Law on higher education",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học số 34/2018/QH14",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการศึกษาระดับอุดมศึกษา เลขที่ 34/2018/QH14",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pendidikan Tinggi No. 34/2018/QH14",
+   "ms": "Akta Pendidikan Tinggi (Pindaan) No. 34/2018/QH14"
+  },
+  "VN-H604": {
+   "zh": "测量与制图法",
+   "en": "Law No. 27/2018/QH14 on surveying and mapping",
+   "vi": "Luật Đo đạc và bản đồ số 27/2018/QH14",
+   "th": "พระราชบัญญัติการรังวัดและแผนที่ เลขที่ 27/2018/QH14",
+   "id": "Undang-Undang Survei dan Pemetaan No. 27/2018/QH14",
+   "ms": "Akta Ukur dan Pemetaan No. 27/2018/QH14"
+  },
+  "VN-H605": {
+   "zh": "特赦法",
+   "en": "Law No. 30/2018/QH14 on amnesty",
+   "vi": "Luật Đặc xá số 30/2018/QH14",
+   "th": "พระราชบัญญัติการนิรโทษกรรม เลขที่ 30/2018/QH14",
+   "id": "Undang-Undang Amnesti No. 30/2018/QH14",
+   "ms": "Akta Pengampunan No. 30/2018/QH14"
+  },
+  "VN-H606": {
+   "zh": "刑事判决执行法",
+   "en": "Law No. 41/2019/QH14 on execution of criminal judgments",
+   "vi": "Luật Thi hành án hình sự số 41/2019/QH14",
+   "th": "พระราชบัญญัติการบังคับคดีอาญา เลขที่ 41/2019/QH14",
+   "id": "Undang-Undang Pelaksanaan Putusan Pidana No. 41/2019/QH14",
+   "ms": "Akta Pelaksanaan Hukuman Jenayah No. 41/2019/QH14"
+  },
+  "VN-H607": {
+   "zh": "法院调解与对话法",
+   "en": "Law No. 58/2020/QH14 on mediation and dialogue at court",
+   "vi": "Luật Hòa giải, đối thoại tại Tòa án số 58/2020/QH14",
+   "th": "พระราชบัญญัติการไกล่เกลี่ยและเจรจาในศาล เลขที่ 58/2020/QH14",
+   "id": "Undang-Undang Mediasi dan Dialog di Pengadilan No. 58/2020/QH14",
+   "ms": "Akta Pengantaraan dan Dialog di Mahkamah No. 58/2020/QH14"
+  },
+  "VN-H608": {
+   "zh": "越南劳动者依合同赴海外工作法",
+   "en": "Law No. 69/2020/QH14 on Vietnamese workers going abroad to work under contract",
+   "vi": "Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14",
+   "th": "พระราชบัญญัติแรงงานเวียดนามไปทำงานต่างประเทศตามสัญญา เลขที่ 69/2020/QH14",
+   "id": "Undang-Undang Pekerja Vietnam yang Bekerja di Luar Negeri Berdasarkan Kontrak No. 69/2020/QH14",
+   "ms": "Akta Pekerja Vietnam Bekerja di Luar Negara di Bawah Kontrak No. 69/2020/QH14"
+  },
+  "VN-H609": {
+   "zh": "刑事诉讼法典修正案",
+   "en": "Code No. 02/2021/QH15 amending and supplementing a number of articles of the Code on criminal procedure",
+   "vi": "Bộ luật sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự số 02/2021/QH15",
+   "th": "ประมวลกฎหมายแก้ไขเพิ่มเติมวิธีพิจารณาความอาญา เลขที่ 02/2021/QH15",
+   "id": "Kitab Undang-Undang Perubahan atas Kitab Undang-Undang Hukum Acara Pidana No. 02/2021/QH15",
+   "ms": "Kanun Prosedur Jenayah (Pindaan) No. 02/2021/QH15"
+  },
+  "VN-H610": {
+   "zh": "机动警察法",
+   "en": "Law No. 04/2022/QH15 on mobile police",
+   "vi": "Luật Cảnh sát cơ động số 04/2022/QH15",
+   "th": "พระราชบัญญัติตำรวจเคลื่อนที่เร็ว เลขที่ 04/2022/QH15",
+   "id": "Undang-Undang Polisi Bergerak No. 04/2022/QH15",
+   "ms": "Akta Polis Bergerak No. 04/2022/QH15"
+  },
+  "VN-H611": {
+   "zh": "反家庭暴力法",
+   "en": "Law No. 13/2022/QH15 on prevention and combating of domestic violence",
+   "vi": "Luật Phòng, chống bạo lực gia đình số 13/2022/QH15",
+   "th": "พระราชบัญญัติการป้องกันและปราบปรามความรุนแรงในครอบครัว เลขที่ 13/2022/QH15",
+   "id": "Undang-Undang Pencegahan dan Penanggulangan Kekerasan dalam Rumah Tangga No. 13/2022/QH15",
+   "ms": "Akta Pencegahan dan Pembanterasan Keganasan Rumah Tangga No. 13/2022/QH15"
+  },
+  "VN-H612": {
+   "zh": "电影法",
+   "en": "Law No. 05/2022/QH15 on cinematography",
+   "vi": "Luật Điện ảnh số 05/2022/QH15",
+   "th": "พระราชบัญญัติภาพยนตร์ เลขที่ 05/2022/QH15",
+   "id": "Undang-Undang Perfilman No. 05/2022/QH15",
+   "ms": "Akta Perfileman No. 05/2022/QH15"
+  },
+  "VN-H613": {
+   "zh": "身份标识法",
+   "en": "Law No. 26/2023/QH15 on identification",
+   "vi": "Luật Căn cước số 26/2023/QH15",
+   "th": "พระราชบัญญัติบัตรประจำตัว เลขที่ 26/2023/QH15",
+   "id": "Undang-Undang Identitas No. 26/2023/QH15",
+   "ms": "Akta Pengenalan No. 26/2023/QH15"
+  },
+  "VN-H614": {
+   "zh": "电子交易法",
+   "en": "Law No. 20/2023/QH15 on electronic transactions",
+   "vi": "Luật Giao dịch điện tử số 20/2023/QH15",
+   "th": "พระราชบัญญัติธุรกรรมทางอิเล็กทรอนิกส์ เลขที่ 20/2023/QH15",
+   "id": "Undang-Undang Transaksi Elektronik No. 20/2023/QH15",
+   "ms": "Akta Transaksi Elektronik No. 20/2023/QH15"
+  },
+  "VN-H615": {
+   "zh": "基层治安秩序维护力量法",
+   "en": "Law No. 30/2023/QH15 on forces participating in protecting security and order at the grassroots level",
+   "vi": "Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở số 30/2023/QH15",
+   "th": "พระราชบัญญัติกองกำลังรักษาความมั่นคงและความสงบเรียบร้อยระดับฐานราก เลขที่ 30/2023/QH15",
+   "id": "Undang-Undang Kekuatan Pelindung Keamanan dan Ketertiban di Tingkat Dasar No. 30/2023/QH15",
+   "ms": "Akta Pasukan Pelindung Keselamatan dan Ketenteraman di Peringkat Akar Umbi No. 30/2023/QH15"
+  },
+  "VN-H616": {
+   "zh": "住房法",
+   "en": "Law No. 27/2023/QH15 on housing",
+   "vi": "Luật Nhà ở số 27/2023/QH15",
+   "th": "พระราชบัญญัติที่อยู่อาศัย เลขที่ 27/2023/QH15",
+   "id": "Undang-Undang Perumahan No. 27/2023/QH15",
+   "ms": "Akta Perumahan No. 27/2023/QH15"
+  },
+  "VN-H617": {
+   "zh": "国防工程与军事区的管理保护法",
+   "en": "Law No. 25/2023/QH15 on management and protection of defence works and military zones",
+   "vi": "Luật Quản lý, bảo vệ công trình quốc phòng và khu quân sự số 25/2023/QH15",
+   "th": "พระราชบัญญัติการบริหารและคุ้มครองสิ่งก่อสร้างป้องกันประเทศและเขตทหาร เลขที่ 25/2023/QH15",
+   "id": "Undang-Undang Pengelolaan dan Perlindungan Bangunan Pertahanan dan Kawasan Militer No. 25/2023/QH15",
+   "ms": "Akta Pengurusan dan Perlindungan Binaan Pertahanan dan Kawasan Tentera No. 25/2023/QH15"
+  },
+  "VN-H618": {
+   "zh": "越南公民出境入境法与外国人在越南入境、出境、过境、居留法修正案",
+   "en": "Law No. 23/2023/QH15 amending and supplementing a number of articles of the Law on exit and entry of Vietnamese citizens and entry, exit, transit and residence of foreigners in Vietnam",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Xuất cảnh, nhập cảnh của công dân Việt Nam và Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam số 23/2023/QH15",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการเดินทางออกและเข้าประเทศของพลเมืองเวียดนาม และการเข้าออก การผ่านแดน และการพำนักของชาวต่างชาติในเวียดนาม เลขที่ 23/2023/QH15",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Keberangkatan dan Kedatangan Warga Negara Vietnam serta Masuk, Keluar, Transit dan Tinggal Orang Asing di Vietnam No. 23/2023/QH15",
+   "ms": "Akta Perlepasan dan Kemasukan Warganegara Vietnam serta Masuk, Keluar, Transit dan Kediaman Orang Asing di Vietnam (Pindaan) No. 23/2023/QH15"
+  },
+  "VN-H619": {
+   "zh": "诊疗法",
+   "en": "Law No. 15/2023/QH15 on medical examination and treatment",
+   "vi": "Luật khám bệnh, chữa bệnh số 15/2023/QH15",
+   "th": "พระราชบัญญัติการตรวจรักษาโรค เลขที่ 15/2023/QH15",
+   "id": "Undang-Undang Pemeriksaan dan Pengobatan No. 15/2023/QH15",
+   "ms": "Akta Pemeriksaan dan Rawatan Perubatan No. 15/2023/QH15"
+  },
+  "VN-H620": {
+   "zh": "人民公安法修正案",
+   "en": "Law No. 21/2023/QH15 amending and supplementing a number of articles of the Law on people's public security",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Công an nhân dân số 21/2023/QH15",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมตำรวจประชาชน เลขที่ 21/2023/QH15",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Kepolisian Rakyat No. 21/2023/QH15",
+   "ms": "Akta Polis Rakyat (Pindaan) No. 21/2023/QH15"
+  },
+  "VN-H621": {
+   "zh": "招标投标法",
+   "en": "Law No. 22/2023/QH15 on bidding",
+   "vi": "Luật Đấu thầu số 22/2023/QH15",
+   "th": "พระราชบัญญัติการประกวดราคา เลขที่ 22/2023/QH15",
+   "id": "Undang-Undang Pengadaan Barang dan Jasa No. 22/2023/QH15",
+   "ms": "Akta Tender No. 22/2023/QH15"
+  },
+  "VN-H622": {
+   "zh": "反人口贩运法",
+   "en": "Law No. 53/2024/QH15 on prevention and combating of human trafficking",
+   "vi": "Luật PHÒNG, CHỐNG MUA BÁN NGƯỜI số 53/2024/QH15",
+   "th": "พระราชบัญญัติการป้องกันและปราบปรามการค้ามนุษย์ เลขที่ 53/2024/QH15",
+   "id": "Undang-Undang Pencegahan dan Pemberantasan Perdagangan Orang No. 53/2024/QH15",
+   "ms": "Akta Pencegahan dan Pembanterasan Pemerdagangan Orang No. 53/2024/QH15"
+  },
+  "VN-H623": {
+   "zh": "公证法",
+   "en": "Law No. 46/2024/QH15 on notarisation",
+   "vi": "Luật Công chứng số 46/2024/QH15",
+   "th": "พระราชบัญญัติการรับรองเอกสาร เลขที่ 46/2024/QH15",
+   "id": "Undang-Undang Notaris No. 46/2024/QH15",
+   "ms": "Akta Notari No. 46/2024/QH15"
+  },
+  "VN-H624": {
+   "zh": "国防工业、安全工业与工业动员法",
+   "en": "Law No. 38/2024/QH15 on defence industry, security industry and industrial mobilisation",
+   "vi": "Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp số 38/2024/QH15",
+   "th": "พระราชบัญญัติอุตสาหกรรมป้องกันประเทศ ความมั่นคง และการระดมอุตสาหกรรม เลขที่ 38/2024/QH15",
+   "id": "Undang-Undang Industri Pertahanan, Keamanan dan Mobilisasi Industri No. 38/2024/QH15",
+   "ms": "Akta Industri Pertahanan, Keselamatan dan Penggemblengan Industri No. 38/2024/QH15"
+  },
+  "VN-H626": {
+   "zh": "消防与救援法",
+   "en": "Law No. 55/2024/QH15 on fire prevention and fighting, rescue and salvage",
+   "vi": "Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15",
+   "th": "พระราชบัญญัติการป้องกันและดับเพลิง การกู้ภัยและกู้ชีพ เลขที่ 55/2024/QH15",
+   "id": "Undang-Undang Pencegahan Kebakaran serta Penyelamatan dan Pertolongan No. 55/2024/QH15",
+   "ms": "Akta Pencegahan Kebakaran serta Penyela Matan dan Penyelamatan No. 55/2024/QH15"
+  },
+  "VN-H627": {
+   "zh": "人民防空法",
+   "en": "Law No. 49/2024/QH15 on people's air defence",
+   "vi": "Luật Phòng không nhân dân số 49/2024/QH15",
+   "th": "พระราชบัญญัติการป้องกันทางอากาศของประชาชน เลขที่ 49/2024/QH15",
+   "id": "Undang-Undang Pertahanan Udara Rakyat No. 49/2024/QH15",
+   "ms": "Akta Pertahanan Udara Rakyat No. 49/2024/QH15"
+  },
+  "VN-H628": {
+   "zh": "城乡规划法",
+   "en": "Law No. 47/2024/QH15 on urban and rural planning",
+   "vi": "Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15",
+   "th": "พระราชบัญญัติการผังเมืองและชนบท เลขที่ 47/2024/QH15",
+   "id": "Undang-Undang Penataan Ruang Kota dan Desa No. 47/2024/QH15",
+   "ms": "Akta Perancangan Bandar dan Luar Bandar No. 47/2024/QH15"
+  },
+  "VN-H629": {
+   "zh": "武器、爆炸物与辅助工具的管理使用法",
+   "en": "Law No. 42/2024/QH15 on management and use of weapons, explosives and support tools",
+   "vi": "Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ số 42/2024/QH15",
+   "th": "พระราชบัญญัติการบริหารและใช้อาวุธ วัตถุระเบิด และเครื่องมือสนับสนุน เลขที่ 42/2024/QH15",
+   "id": "Undang-Undang Pengelolaan dan Penggunaan Senjata, Bahan Peledak dan Alat Pendukung No. 42/2024/QH15",
+   "ms": "Akta Pengurusan dan Penggunaan Senjata, Bahan Letupan dan Alat Sokongan No. 42/2024/QH15"
+  },
+  "VN-H630": {
+   "zh": "规划法、投资法、公私合作投资法与招标投标法修正案",
+   "en": "Law No. 57/2024/QH15 amending and supplementing a number of articles of the Law on planning, investment, public-private partnership investment and bidding laws",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Quy hoạch, Luật Đầu tư, Luật Đầu tư theo phương thức đối tác công tư và Luật Đấu thầu số 57/2024/QH15",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมกฎหมายการผัง การลงทุน การลงทุนรูปแบบความร่วมมือรัฐและเอกชน และการประกวดราคา เลขที่ 57/2024/QH15",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Undang-Undang Penataan Ruang, Penanaman Modal, Penanaman Modal Kemitraan Pemerintah dan Badan Usaha, serta Pengadaan Barang dan Jasa No. 57/2024/QH15",
+   "ms": "Akta Undang-Undang Perancangan, Pelaburan, Pelaburan Rakan Kongsi Awam-Swasta dan Tender (Pindaan) No. 57/2024/QH15"
+  },
+  "VN-H631": {
+   "zh": "警卫法修正案",
+   "en": "Law No. 40/2024/QH15 amending and supplementing a number of articles of the Law on dignitary protection",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Cảnh vệ số 40/2024/QH15",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมงานอารักขา เลขที่ 40/2024/QH15",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pengamanan Pejabat No. 40/2024/QH15",
+   "ms": "Akta Pengawal (Pindaan) No. 40/2024/QH15"
+  },
+  "VN-H632": {
+   "zh": "土地法修正案",
+   "en": "Law No. 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15 số 43/2024/QH15 amending and supplementing a number of articles of the Law on land",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15 số 43/2024/QH15",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมที่ดิน เลขที่ 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15 số 43/2024/QH15",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pertanahan No. 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15 số 43/2024/QH15",
+   "ms": "Akta Tanah (Pindaan) No. 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15 số 43/2024/QH15"
+  },
+  "VN-H633": {
+   "zh": "首都法",
+   "en": "Law No. 39/2024/QH15 on capital",
+   "vi": "Luật Thủ đô số 39/2024/QH15",
+   "th": "พระราชบัญญัติเมืองหลวง เลขที่ 39/2024/QH15",
+   "id": "Undang-Undang Ibu Kota No. 39/2024/QH15",
+   "ms": "Akta Ibu Negara No. 39/2024/QH15"
+  },
+  "VN-H634": {
+   "zh": "道路交通秩序与安全法",
+   "en": "Law No. 36/2024/QH15 on road traffic order and safety",
+   "vi": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15",
+   "th": "พระราชบัญญัติความเป็นระเบียบและความปลอดภัยของการจราจรทางบก เลขที่ 36/2024/QH15",
+   "id": "Undang-Undang Ketertiban dan Keselamatan Lalu Lintas Jalan No. 36/2024/QH15",
+   "ms": "Akta Ketenteraman dan Keselamatan Lalu Lintas Jalan No. 36/2024/QH15"
+  },
+  "VN-H635": {
+   "zh": "越南人民军军官法修正案",
+   "en": "Law No. 52/2024/QH15 amending and supplementing a number of articles of the Law on officers of the Vietnam People's Army",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Sĩ quan Quân đội nhân dân Việt Nam số 52/2024/QH15",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมนายทหารกองทัพประชาชนเวียดนาม เลขที่ 52/2024/QH15",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Perwira Tentara Rakyat Vietnam No. 52/2024/QH15",
+   "ms": "Akta Pegawai Tentera Rakyat Vietnam (Pindaan) No. 52/2024/QH15"
+  },
+  "VN-H636": {
+   "zh": "道路法",
+   "en": "Law No. 35/2024/QH15 on roads",
+   "vi": "Luật Đường bộ số 35/2024/QH15",
+   "th": "พระราชบัญญัติทางหลวง เลขที่ 35/2024/QH15",
+   "id": "Undang-Undang Jalan Raya No. 35/2024/QH15",
+   "ms": "Akta Jalan Raya No. 35/2024/QH15"
+  },
+  "VN-H637": {
+   "zh": "公共投资法",
+   "en": "Law No. 58/2024/QH15 on public investment",
+   "vi": "Luật Đầu tư công số 58/2024/QH15",
+   "th": "พระราชบัญญัติการลงทุนสาธารณะ เลขที่ 58/2024/QH15",
+   "id": "Undang-Undang Investasi Publik No. 58/2024/QH15",
+   "ms": "Akta Pelaburan Awam No. 58/2024/QH15"
+  },
+  "VN-H638": {
+   "zh": "地质与矿产法",
+   "en": "Law No. 54/2024/QH15 on geology and minerals",
+   "vi": "Luật Địa chất và Khoáng sản số 54/2024/QH15",
+   "th": "พระราชบัญญัติธรณีวิทยาและแร่ธาตุ เลขที่ 54/2024/QH15",
+   "id": "Undang-Undang Geologi dan Mineral No. 54/2024/QH15",
+   "ms": "Akta Geologi dan Mineral No. 54/2024/QH15"
+  },
+  "VN-H639": {
+   "zh": "临时拘留、临时羁押与禁止离开居住地措施的执行法",
+   "en": "Law No. 128/2025/QH15 on execution of temporary detention, temporary custody and prohibition of departure from residence",
+   "vi": "Luật THI HÀNH TẠM GIỮ, TẠM GIAM VÀ CẤM ĐI KHỎI NƠI CƯ TRÚ số 128/2025/QH15",
+   "th": "พระราชบัญญัติการบังคับใช้การควบคุมตัวชั่วคราว การคุมขังชั่วคราว และการห้ามออกจากถิ่นที่อยู่ เลขที่ 128/2025/QH15",
+   "id": "Undang-Undang Pelaksanaan Penahanan Sementara, Penahanan dan Larangan Meninggalkan Tempat Kediaman No. 128/2025/QH15",
+   "ms": "Akta Pelaksanaan Tahanan Sementara, Tahanan Reman dan Larangan Meninggalkan Tempat Kediaman No. 128/2025/QH15"
+  },
+  "VN-H641": {
+   "zh": "国家秘密保护法",
+   "en": "Law No. 117/2025/QH15 on protection of state secrets",
+   "vi": "Luật BẢO VỆ BÍ MẬT NHÀ NƯỚC số 117/2025/QH15",
+   "th": "พระราชบัญญัติการคุ้มครองความลับของรัฐ เลขที่ 117/2025/QH15",
+   "id": "Undang-Undang Perlindungan Rahasia Negara No. 117/2025/QH15",
+   "ms": "Akta Perlindungan Rahsia Negara No. 117/2025/QH15"
+  },
+  "VN-H642": {
+   "zh": "服刑人员移管法",
+   "en": "Law No. 101/2025/QH15 on transfer of sentenced persons",
+   "vi": "Luật CHUYỂN GIAO NGƯỜI ĐANG CHẤP HÀNH ÁN PHẠT TÙ số 101/2025/QH15",
+   "th": "พระราชบัญญัติการโอนตัวผู้ต้องโทษ เลขที่ 101/2025/QH15",
+   "id": "Undang-Undang Pemindahan Narapidana No. 101/2025/QH15",
+   "ms": "Akta Pemindahan Banduan No. 101/2025/QH15"
+  },
+  "VN-H644": {
+   "zh": "高新技术法",
+   "en": "Law No. 133/2025/QH15 on high technology",
+   "vi": "Luật CÔNG NGHỆ CAO số 133/2025/QH15",
+   "th": "พระราชบัญญัติเทคโนโลยีขั้นสูง เลขที่ 133/2025/QH15",
+   "id": "Undang-Undang Teknologi Tinggi No. 133/2025/QH15",
+   "ms": "Akta Teknologi Tinggi No. 133/2025/QH15"
+  },
+  "VN-H647": {
+   "zh": "国家储备法",
+   "en": "Law No. 145/2025/QH15 on national reserves",
+   "vi": "Luật DỰ TRỮ QUỐC GIA số 145/2025/QH15",
+   "th": "พระราชบัญญัติการสำรองแห่งชาติ เลขที่ 145/2025/QH15",
+   "id": "Undang-Undang Cadangan Nasional No. 145/2025/QH15",
+   "ms": "Akta Rizab Negara No. 145/2025/QH15"
+  },
+  "VN-H649": {
+   "zh": "禁毒法",
+   "en": "Law No. 120/2025/QH15 on drug prevention and control",
+   "vi": "Luật PHÒNG, CHỐNG MA TÚY số 120/2025/QH15",
+   "th": "พระราชบัญญัติการป้องกันและปราบปรามยาเสพติด เลขที่ 120/2025/QH15",
+   "id": "Undang-Undang Pencegahan dan Pemberantasan Narkotika No. 120/2025/QH15",
+   "ms": "Akta Pencegahan dan Pembanterasan Dadah No. 120/2025/QH15"
+  },
+  "VN-H650": {
+   "zh": "规划法",
+   "en": "Law No. 112/2025/QH15 on planning",
+   "vi": "Luật QUY HOẠCH số 112/2025/QH15",
+   "th": "พระราชบัญญัติการผัง เลขที่ 112/2025/QH15",
+   "id": "Undang-Undang Penataan Ruang No. 112/2025/QH15",
+   "ms": "Akta Perancangan No. 112/2025/QH15"
+  },
+  "VN-H651": {
+   "zh": "刑事判决执行法",
+   "en": "Law No. 127/2025/QH15 on execution of criminal judgments",
+   "vi": "Luật THI HÀNH ÁN HÌNH SỰ số 127/2025/QH15",
+   "th": "พระราชบัญญัติการบังคับคดีอาญา เลขที่ 127/2025/QH15",
+   "id": "Undang-Undang Pelaksanaan Putusan Pidana No. 127/2025/QH15",
+   "ms": "Akta Pelaksanaan Hukuman Jenayah No. 127/2025/QH15"
+  },
+  "VN-H652": {
+   "zh": "人工智能法",
+   "en": "Law No. 134/2025/QH15 on artificial intelligence",
+   "vi": "Luật TRÍ TUỆ NHÂN TẠO số 134/2025/QH15",
+   "th": "พระราชบัญญัติปัญญาประดิษฐ์ เลขที่ 134/2025/QH15",
+   "id": "Undang-Undang Kecerdasan Buatan No. 134/2025/QH15",
+   "ms": "Akta Kecerdasan Buatan No. 134/2025/QH15"
+  },
+  "VN-H653": {
+   "zh": "法律规范性文件颁布法",
+   "en": "Law No. 64/2025/QH15 on promulgation of normative legal documents",
+   "vi": "Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15",
+   "th": "พระราชบัญญัติการประกาศใช้เอกสารกฎหมาย เลขที่ 64/2025/QH15",
+   "id": "Undang-Undang Pembentukan Peraturan Perundang-undangan No. 64/2025/QH15",
+   "ms": "Akta Penggubalan Dokumen Perundangan Normatif No. 64/2025/QH15"
+  },
+  "VN-H654": {
+   "zh": "新闻法",
+   "en": "Law No. 126/2025/QH15 on press",
+   "vi": "Luật Báo chí số 126/2025/QH15",
+   "th": "พระราชบัญญัติสื่อมวลชน เลขที่ 126/2025/QH15",
+   "id": "Undang-Undang Pers No. 126/2025/QH15",
+   "ms": "Akta Akhbar No. 126/2025/QH15"
+  },
+  "VN-H655": {
+   "zh": "越南民用航空法",
+   "en": "Law No. 130/2025/QH15 on Vietnamese civil aviation",
+   "vi": "Luật Hàng không dân dụng Việt Nam số 130/2025/QH15",
+   "th": "พระราชบัญญัติการบินพลเรือนเวียดนาม เลขที่ 130/2025/QH15",
+   "id": "Undang-Undang Penerbangan Sipil Vietnam No. 130/2025/QH15",
+   "ms": "Akta Penerbangan Awam Vietnam No. 130/2025/QH15"
+  },
+  "VN-H656": {
+   "zh": "公共债务管理法修正案",
+   "en": "Law No. 141/2025/QH15 amending and supplementing a number of articles of the Law on public debt management",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Quản lý nợ công số 141/2025/QH15",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการบริหารหนี้สาธารณะ เลขที่ 141/2025/QH15",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pengelolaan Utang Negara No. 141/2025/QH15",
+   "ms": "Akta Pengurusan Hutang Awam (Pindaan) No. 141/2025/QH15"
+  },
+  "VN-H657": {
+   "zh": "监察法",
+   "en": "Law No. 84/2025/QH15 on inspection",
+   "vi": "Luật Thanh tra số 84/2025/QH15",
+   "th": "พระราชบัญญัติการตรวจสอบ เลขที่ 84/2025/QH15",
+   "id": "Undang-Undang Inspeksi No. 84/2025/QH15",
+   "ms": "Akta Pemeriksaan No. 84/2025/QH15"
+  },
+  "VN-H658": {
+   "zh": "民事判决执行法",
+   "en": "Law No. 106/2025/QH15 on execution of civil judgments",
+   "vi": "Luật Thi hành án dân sự số 106/2025/QH15",
+   "th": "พระราชบัญญัติการบังคับคดีแพ่ง เลขที่ 106/2025/QH15",
+   "id": "Undang-Undang Pelaksanaan Putusan Perdata No. 106/2025/QH15",
+   "ms": "Akta Pelaksanaan Penghakiman Sivil No. 106/2025/QH15"
+  },
+  "VN-H659": {
+   "zh": "刑事司法协助法",
+   "en": "Law No. 103/2025/QH15 on judicial assistance in criminal matters",
+   "vi": "Luật Tương trợ tư pháp về hình sự số 103/2025/QH15",
+   "th": "พระราชบัญญัติการช่วยเหลือทางตุลาการในเรื่องอาญา เลขที่ 103/2025/QH15",
+   "id": "Undang-Undang Bantuan Timbal Balik di Bidang Hukum Pidana No. 103/2025/QH15",
+   "ms": "Akta Bantuan Kehakiman Jenayah No. 103/2025/QH15"
+  },
+  "VN-H660": {
+   "zh": "建设法",
+   "en": "Law No. 135/2025/QH15 on construction",
+   "vi": "Luật Xây dựng số 135/2025/QH15",
+   "th": "พระราชบัญญัติการก่อสร้าง เลขที่ 135/2025/QH15",
+   "id": "Undang-Undang Konstruksi No. 135/2025/QH15",
+   "ms": "Akta Pembinaan No. 135/2025/QH15"
+  },
+  "VN-H661": {
+   "zh": "铁路法",
+   "en": "Law No. 95/2025/QH15 on railways",
+   "vi": "Luật Đường sắt số 95/2025/QH15",
+   "th": "พระราชบัญญัติทางรถไฟ เลขที่ 95/2025/QH15",
+   "id": "Undang-Undang Perkeretaapian No. 95/2025/QH15",
+   "ms": "Akta Kereta Api No. 95/2025/QH15"
+  },
+  "VN-H663": {
+   "zh": "信息获取法",
+   "en": "Law No. 01/2026/QH16 on access to information",
+   "vi": "Luật TIẾP CẬN THÔNG TIN số 01/2026/QH16",
+   "th": "พระราชบัญญัติการเข้าถึงข้อมูลข่าวสาร เลขที่ 01/2026/QH16",
+   "id": "Undang-Undang Akses Informasi No. 01/2026/QH16",
+   "ms": "Akta Akses Maklumat No. 01/2026/QH16"
+  },
+  "VN-H664": {
+   "zh": "信仰与宗教法",
+   "en": "Law No. 07/2026/QH16 on belief and religion",
+   "vi": "Luật TÍN NGƯỠNG, TÔN GIÁO số 07/2026/QH16",
+   "th": "พระราชบัญญัติความเชื่อและศาสนา เลขที่ 07/2026/QH16",
+   "id": "Undang-Undang Kepercayaan dan Agama No. 07/2026/QH16",
+   "ms": "Akta Kepercayaan dan Agama No. 07/2026/QH16"
+  },
+  "VN-H665": {
+   "zh": "户籍法",
+   "en": "Law No. 03/2026/QH16 on civil status",
+   "vi": "Luật Hộ tịch số 03/2026/QH16",
+   "th": "พระราชบัญญัติทะเบียนราษฎร เลขที่ 03/2026/QH16",
+   "id": "Undang-Undang Catatan Sipil No. 03/2026/QH16",
+   "ms": "Akta Daftar Sivil No. 03/2026/QH16"
+  },
+  "VN-H666": {
+   "zh": "法制宣传与教育法",
+   "en": "Law No. 12/2026/QH16 on legal dissemination and education",
+   "vi": "Luật Phổ biến, giáo dục pháp luật số 12/2026/QH16",
+   "th": "พระราชบัญญัติการเผยแพร่และให้การศึกษากฎหมาย เลขที่ 12/2026/QH16",
+   "id": "Undang-Undang Penyuluhan dan Pendidikan Hukum No. 12/2026/QH16",
+   "ms": "Akta Penyebaran dan Pendidikan Undang-Undang No. 12/2026/QH16"
+  },
+  "VN-H667": {
+   "zh": "竞赛与奖励法修正案",
+   "en": "Law No. 06/2026/QH16 amending and supplementing a number of articles of the Law on emulation and commendation",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Thi đua, khen thường số 06/2026/QH16",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการเชิดชูเกียรติและการให้รางวัล เลขที่ 06/2026/QH16",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Kepeloporan dan Penghargaan No. 06/2026/QH16",
+   "ms": "Akta Pertandingan dan Ganjaran (Pindaan) No. 06/2026/QH16"
+  },
+  "VN-H668": {
+   "zh": "首都法",
+   "en": "Law No. 02/2026/QH16 on capital",
+   "vi": "Luật Thủ đô số 02/2026/QH16",
+   "th": "พระราชบัญญัติเมืองหลวง เลขที่ 02/2026/QH16",
+   "id": "Undang-Undang Ibu Kota No. 02/2026/QH16",
+   "ms": "Akta Ibu Negara No. 02/2026/QH16"
+  },
+  "VN-H669": {
+   "zh": "越南社会主义共和国驻外代表机构法修正案",
+   "en": "Law No. 8/2026/QH16 amending and supplementing a number of articles of the Law on representative missions of the Socialist Republic of Vietnam abroad",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài số 8/2026/QH16",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมคณะผู้แทนเวียดนามในต่างประเทศ เลขที่ 8/2026/QH16",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Perwakilan Vietnam di Luar Negeri No. 8/2026/QH16",
+   "ms": "Akta Perwakilan Vietnam di Luar Negara (Pindaan) No. 8/2026/QH16"
+  },
+  "VN-H670": {
+   "zh": "投资法修正案",
+   "en": "Law No. 143/2025/QH15 số 24/2026/QH16 amending and supplementing a number of articles of the Law on investment",
+   "vi": "Luật sửa đổi, bổ sung một số điều của Luật Đầu tư số 143/2025/QH15 số 24/2026/QH16",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการลงทุน เลขที่ 143/2025/QH15 số 24/2026/QH16",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Penanaman Modal No. 143/2025/QH15 số 24/2026/QH16",
+   "ms": "Akta Pelaburan (Pindaan) No. 143/2025/QH15 số 24/2026/QH16"
+  }
+ }
+}

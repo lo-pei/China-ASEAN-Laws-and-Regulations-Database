@@ -1,0 +1,21 @@
+CALR 数据层校验
+
+  官方原文分卷：18785 部法规 / 335687 条条文（10 法域卷 + cn/intl 分卷）
+  译文层：43 个分卷 / 1709 部法规
+  权威存储 laws/：18770 部 / 335247 条 / 268363354 字（按层 {"intl":17149,"fulltext":81,"cn":1540}）
+
+警告 6 条：
+  ! prototype/data/intl/bn-p03.js → BN-H069 有 2 条原文语言键 zh 值为空（正文缺失，需重新抓取）
+  ! prototype/data/intl/my-p04.js → MY-H077 有 1 条原文语言键 zh 值为空（正文缺失，需重新抓取）
+  ! prototype/data/intl/th-p02.js → TH-H016 有 1 条原文语言键 th 值为空（正文缺失，需重新抓取）
+  ! prototype/data/intl/th-p11.js → TH-H1090 有 2 条原文语言键 zh 值为空（正文缺失，需重新抓取）
+  ! prototype/data/intl/vn-p02.js → VN-H061 有 2 条原文语言键 zh 值为空（正文缺失，需重新抓取）
+  ! laws/ 中 8 条条文正文为空（原文语言键为空，需重新抓取）：BN-H069, MY-H077, TH-H016
+
+提示 4 条（不阻断校验，属已知存量/设计内正常项，供后续排期）：
+  · dataset-core 与 cn-catalog 有 8 条 id 重叠（运行时由 store 合并去重，属正常）
+  · 共 76 部法规 / 2463 条条文的 heading 是正文前缀（抓取时把正文开头当成了标题）；影响面见 _work/intl-harvest/build.js（已于 2026-10-06 修正截断逻辑），存量数据需重新抓取修复。例：MY-INVESTMENT-1986(3)、BN-CAP-25-O1-ORDERS-TO-PROHIBIT-IMPORTATION-SALE-OR-CIRC-C91AA1(1)、BN-S-29-1991-E-CONSTITUTION-OF-UNIVERSITI-BRUNEI-DARUSSA-B9FF2B(2)
+  · 共 304 部法规存在重复条号（合计 1655 个重复条号），违反 SKILL §4.2「同一部法内条号唯一」；条号对齐（译文层、跨层比对）将受影响。例：ID-H034(153)、ID-H011(96)、BN-H062(54)
+  · laws/ → 分卷 抽样可解析（121 部，步长 156，全部命中 packFor 映射）
+
+===== 校验结果：全部通过（6 个警告 / 4 个提示） =====

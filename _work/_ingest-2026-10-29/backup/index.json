@@ -1,0 +1,168 @@
+{
+ "formatVersion": "calr-title-zh-v1",
+ "updatedAt": "2026-10-29T20:38:43",
+ "note": "法规标题中文译名的权威导出与交付物归档。译名正文以 prototype/data/laws/<id>.json 的 title.zh 为唯一真源，本目录为其汇总导出与过程存档。",
+ "lawCount": 42121,
+ "translatedCount": 30512,
+ "coverage": {
+  "BN": {
+   "total": 1275,
+   "zh": 1275,
+   "pct": 100.0
+  },
+  "CN": {
+   "total": 1587,
+   "zh": 1587,
+   "pct": 100.0
+  },
+  "ID": {
+   "total": 3348,
+   "zh": 2928,
+   "pct": 87.5
+  },
+  "KH": {
+   "total": 187,
+   "zh": 187,
+   "pct": 100.0
+  },
+  "LA": {
+   "total": 138,
+   "zh": 100,
+   "pct": 72.5
+  },
+  "MM": {
+   "total": 80,
+   "zh": 80,
+   "pct": 100.0
+  },
+  "MY": {
+   "total": 6976,
+   "zh": 6976,
+   "pct": 100.0
+  },
+  "PH": {
+   "total": 23117,
+   "zh": 11973,
+   "pct": 51.8
+  },
+  "SG": {
+   "total": 3714,
+   "zh": 3714,
+   "pct": 100.0
+  },
+  "TH": {
+   "total": 1041,
+   "zh": 1034,
+   "pct": 99.3
+  },
+  "TL": {
+   "total": 230,
+   "zh": 230,
+   "pct": 100.0
+  },
+  "VN": {
+   "total": 428,
+   "zh": 428,
+   "pct": 100.0
+  }
+ },
+ "batches": [
+  {
+   "jobId": "CALR-TITLE-20261017-1732-SG-8",
+   "count": 8,
+   "byCountry": {
+    "SG": 8
+   },
+   "returnPkg": "CALR-TITLE-20261017-1732-SG-8-RETURN",
+   "shards": 1,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T09:32:01.232Z"
+  },
+  {
+   "jobId": "CALR-TITLE-20261017-1749-SG-1200",
+   "count": 1200,
+   "byCountry": {
+    "SG": 1200
+   },
+   "returnPkg": "CALR-TITLE-20261017-1749-SG-1200-RETURN",
+   "shards": 6,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T09:49:13.229Z"
+  },
+  {
+   "jobId": "CALR-TITLE-20261017-1801-BN-1261",
+   "count": 1261,
+   "byCountry": {
+    "BN": 1261
+   },
+   "returnPkg": "CALR-TITLE-20261017-1801-BN-1261-RETURN",
+   "shards": 6,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T10:01:03.597Z"
+  },
+  {
+   "jobId": "CALR-TITLE-20261017-1801-TH-160",
+   "count": 160,
+   "byCountry": {
+    "TH": 160
+   },
+   "returnPkg": "CALR-TITLE-20261017-1801-TH-160-RETURN",
+   "shards": 1,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T10:01:19.939Z"
+  },
+  {
+   "jobId": "CALR-TITLE-20261017-1816-IDS-5",
+   "count": 5,
+   "byCountry": {
+    "KH": 4,
+    "MM": 1
+   },
+   "returnPkg": "CALR-TITLE-20261017-1816-IDS-5-RETURN",
+   "shards": 1,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T10:16:12.499Z"
+  },
+  {
+   "jobId": "CALR-TITLE-20261017-1818-SG-2467",
+   "count": 2467,
+   "byCountry": {
+    "SG": 2467
+   },
+   "returnPkg": "CALR-TITLE-20261017-1818-SG-2467-RETURN",
+   "shards": 13,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T10:18:26.862Z"
+  },
+  {
+   "jobId": "CALR-TITLE-20261017-1837-PH-7575",
+   "count": 7575,
+   "byCountry": {
+    "PH": 7575
+   },
+   "returnPkg": "CALR-TITLE-20261017-1837-PH-7575-RETURN",
+   "shards": 40,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T10:37:42.978Z"
+  },
+  {
+   "name": "ingest-2026-10-29",
+   "count": 73,
+   "engine": "source-extract",
+   "note": "2026-10-29 新入库法规的中文标题（laws/<id>.json 的 title.zh 为真源）"
+  }
+ ],
+ "files": [
+  "titles.zh.json",
+  "PROVENANCE.md",
+  "artifacts/",
+  "index.json"
+ ]
+}

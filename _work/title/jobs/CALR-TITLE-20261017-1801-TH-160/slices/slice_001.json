@@ -1,0 +1,806 @@
+{
+ "jobId": "CALR-TITLE-20261017-1801-TH-160",
+ "shard": 1,
+ "items": [
+  {
+   "id": "TH-H004",
+   "en": "Civil and Commercial Code",
+   "hint": "1849 条"
+  },
+  {
+   "id": "TH-H021",
+   "en": "民商法典第三编",
+   "hint": "845 条"
+  },
+  {
+   "id": "TH-H749",
+   "en": "SECURITIES AND EXCHANGE ACT, B.E. 2535 (1992)",
+   "hint": "499 条"
+  },
+  {
+   "id": "TH-H225",
+   "en": "AIR NAVIGATION ACT, B.E. 2497 (1954)",
+   "hint": "484 条"
+  },
+  {
+   "id": "TH-H890",
+   "en": "CIVIL PROCEDURE CODE",
+   "hint": "469 条"
+  },
+  {
+   "id": "TH-H087",
+   "en": "PramuanKotmaiPhaengLaePhanit 1925",
+   "hint": "452 条"
+  },
+  {
+   "id": "TH-H892",
+   "en": "PENAL CODE",
+   "hint": "448 条"
+  },
+  {
+   "id": "TH-H027",
+   "en": "税法_RevenueCode",
+   "hint": "367 条"
+  },
+  {
+   "id": "TH-H224",
+   "en": "NAVIGATION IN THE THAI WATERS ACT, B.E. 2456 (1913)",
+   "hint": "353 条"
+  },
+  {
+   "id": "TH-H086",
+   "en": "LaksapLaeTalatLaksap2535 1992",
+   "hint": "349 条"
+  },
+  {
+   "id": "TH-H085",
+   "en": "LomLalai2483 1940",
+   "hint": "335 条"
+  },
+  {
+   "id": "TH-H891",
+   "en": "CRIMINAL PROCEDURE CODE",
+   "hint": "323 条"
+  },
+  {
+   "id": "TH-H646",
+   "en": "BANKRUPTCY ACT, B.E. 2483 (1940)",
+   "hint": "322 条"
+  },
+  {
+   "id": "TH-H894",
+   "en": "THE REVENUE CODE",
+   "hint": "316 条"
+  },
+  {
+   "id": "TH-H084",
+   "en": "RatthathammanunHaengRatchaAnachakThai2560 2017",
+   "hint": "279 条"
+  },
+  {
+   "id": "TH-H020",
+   "en": "民商法典第一编",
+   "hint": "243 条"
+  },
+  {
+   "id": "TH-H089",
+   "en": "BorisatMahachonChamkat2535 1992",
+   "hint": "236 条"
+  },
+  {
+   "id": "TH-H023",
+   "en": "民商法典第五编",
+   "hint": "217 条"
+  },
+  {
+   "id": "TH-H476",
+   "en": "NON-LIFE INSURANCE ACT, B.E. 2535 (1992)",
+   "hint": "207 条"
+  },
+  {
+   "id": "TH-H475",
+   "en": "LIFE INSURANCE ACT, B.E. 2535 (1992)",
+   "hint": "201 条"
+  },
+  {
+   "id": "TH-H381",
+   "en": "ROAD TRAFFIC ACT, B.E. 2522 (1979)",
+   "hint": "198 条"
+  },
+  {
+   "id": "TH-H219",
+   "en": "LAND TRANSPORT ACT, B.E. 2522 (1979)",
+   "hint": "189 条"
+  },
+  {
+   "id": "TH-H090",
+   "en": "KhumkhrongRaengngan2541 1998",
+   "hint": "177 条"
+  },
+  {
+   "id": "TH-LABOR-1998",
+   "en": "Labour Protection Act",
+   "hint": "175 条"
+  },
+  {
+   "id": "TH-H630",
+   "en": "LABOUR RELATIONS ACT, B.E. 2518 (1975)",
+   "hint": "168 条"
+  },
+  {
+   "id": "TH-H698",
+   "en": "CUSTOMS ACT, B.E. 2469 (1926)",
+   "hint": "167 条"
+  },
+  {
+   "id": "TH-H534",
+   "en": "DRUGS ACT, B.E. 2510 (1967)",
+   "hint": "162 条"
+  },
+  {
+   "id": "TH-H024",
+   "en": "民商法典第六编",
+   "hint": "161 条"
+  },
+  {
+   "id": "TH-H092",
+   "en": "KhrueangmaiKankha2534 1991",
+   "hint": "150 条"
+  },
+  {
+   "id": "TH-H018",
+   "en": "TRADEMARK ACT, B.E. 2534 (1991)",
+   "hint": "148 条"
+  },
+  {
+   "id": "TH-H493",
+   "en": "PETROLEUM ACT, B.E. 2514 (1971)",
+   "hint": "145 条"
+  },
+  {
+   "id": "TH-H022",
+   "en": "民商法典第四编",
+   "hint": "137 条"
+  },
+  {
+   "id": "TH-H537",
+   "en": "NACROTIC ACT, B.E. 2522 (1979)",
+   "hint": "135 条"
+  },
+  {
+   "id": "TH-H889",
+   "en": "LAND CODE, B.E. 2497",
+   "hint": "133 条"
+  },
+  {
+   "id": "TH-H693",
+   "en": "PSYCHOTROPIC SUBSTANCES ACT, B.E. 2518 (1975)",
+   "hint": "128 条"
+  },
+  {
+   "id": "TH-H477",
+   "en": "SOCIAL SECURITY ACT, B.E. 2533 (1990)",
+   "hint": "124 条"
+  },
+  {
+   "id": "TH-H701",
+   "en": "WILD ANIMAL CONSERVATION AND PROTECTION ACT, B.E.2562 (2019)",
+   "hint": "121 条"
+  },
+  {
+   "id": "TH-H654",
+   "en": "HAZARDOUS SUBSTANCE ACT, B.E. 2535 (1992)",
+   "hint": "119 条"
+  },
+  {
+   "id": "TH-H093",
+   "en": "KhumkhrongPhuboriphok2522 1979",
+   "hint": "112 条"
+  },
+  {
+   "id": "TH-H395",
+   "en": "EMPLOYMENT ARRANGEMENT AND JOBSEEKER PROTECTION ACT, B.E. 2528 (1985)",
+   "hint": "112 条"
+  },
+  {
+   "id": "TH-H013",
+   "en": "PATENT ACT, B.E. 2522 (1979)",
+   "hint": "110 条"
+  },
+  {
+   "id": "TH-H610",
+   "en": "VEHICLE ACT, B.E. 2522 (1979)",
+   "hint": "107 条"
+  },
+  {
+   "id": "TH-H491",
+   "en": "FORESTS ACT, B.E. 2484 (1941)",
+   "hint": "105 条"
+  },
+  {
+   "id": "TH-H638",
+   "en": "STATE ADMINISTRATION ACT, B.E. 2534 (1991)",
+   "hint": "105 条"
+  },
+  {
+   "id": "TH-H242",
+   "en": "PUBLIC HEALTH ACT, B.E. 2535 (1992)",
+   "hint": "104 条"
+  },
+  {
+   "id": "TH-H315",
+   "en": "BUILDING CONTROL ACT, B.E. 2522 (1979)",
+   "hint": "104 条"
+  },
+  {
+   "id": "TH-H627",
+   "en": "THAI VESSEL ACT, B.E. 2481 (1938)",
+   "hint": "103 条"
+  },
+  {
+   "id": "TH-H784",
+   "en": "CONDOMINIUM ACT, B.E. 2522 (1979)",
+   "hint": "99 条"
+  },
+  {
+   "id": "TH-H091",
+   "en": "KhumkhrongKhomunSuanBukkhon2562 2019",
+   "hint": "97 条"
+  },
+  {
+   "id": "TH-H031",
+   "en": "Personal Data Protection Act, B.E. 2562 (2019)",
+   "hint": "97 条"
+  },
+  {
+   "id": "TH-H095",
+   "en": "Likkhasi2537 1994",
+   "hint": "96 条"
+  },
+  {
+   "id": "TH-H313",
+   "en": "IMMIGRATION ACT, B.E. 2522 (1979)",
+   "hint": "92 条"
+  },
+  {
+   "id": "TH-H783",
+   "en": "FIREARMS, AMMUNITION, EXPLOSIVES, FIREWORKS AND IMITATION FIREARMS ACT, B.E. 2490 (1947)",
+   "hint": "90 条"
+  },
+  {
+   "id": "TH-H429",
+   "en": "LAWYERS ACT, B.E. 2528 (1985)",
+   "hint": "89 条"
+  },
+  {
+   "id": "TH-H785",
+   "en": "SUGAR CANE AND GRANULATED SUGAR ACT, B.E. 2527 (1984)",
+   "hint": "88 条"
+  },
+  {
+   "id": "TH-H259",
+   "en": "INDUSTRIAL ESTATE AUTHORITY OF THAILAND ACT, B.E. 2522 (1979)",
+   "hint": "86 条"
+  },
+  {
+   "id": "TH-H329",
+   "en": "COUNCIL OF STATE ACT, B.E. 2522 (1979)",
+   "hint": "84 条"
+  },
+  {
+   "id": "TH-H003",
+   "en": "CYBER SECURITY MAINTENANCE ACT, B.E. 2562 (2019)",
+   "hint": "83 条"
+  },
+  {
+   "id": "TH-H632",
+   "en": "FACTORY ACT, B.E. 2535 (1992)",
+   "hint": "82 条"
+  },
+  {
+   "id": "TH-H433",
+   "en": "HIGHWAYS ACT, B.E. 2535 (1992)",
+   "hint": "82 条"
+  },
+  {
+   "id": "TH-H782",
+   "en": "FOOD ACT, B.E. 2522 (1979)",
+   "hint": "79 条"
+  },
+  {
+   "id": "TH-H503",
+   "en": "PLANT VARIETY ACT, B.E. 2518 (1975)",
+   "hint": "79 条"
+  },
+  {
+   "id": "TH-H267",
+   "en": "LAND LEASE FOR AGRICULTURE ACT, B.E. 2524 (1981)",
+   "hint": "79 条"
+  },
+  {
+   "id": "TH-COPYRIGHT-1994",
+   "en": "Copyright Act",
+   "hint": "78 条"
+  },
+  {
+   "id": "TH-H527",
+   "en": "INDUSTRIAL PRODUCT STANDARD ACT, B.E. 2511 (1968)",
+   "hint": "76 条"
+  },
+  {
+   "id": "TH-H391",
+   "en": "AGRICULTURAL LAND CONSOLIDATION ACT, B.E. 2558 (2015)",
+   "hint": "76 条"
+  },
+  {
+   "id": "TH-H422",
+   "en": "PRIVATE SURVEYORS ACT, B.E. 2535 (1992)",
+   "hint": "74 条"
+  },
+  {
+   "id": "TH-H223",
+   "en": "FUNERAL ASSISTANCE ACT, B.E. 2545 (2002)",
+   "hint": "73 条"
+  },
+  {
+   "id": "TH-H008",
+   "en": "DISPUTE MEDIATION ACT, B.E. 2562 (2019)",
+   "hint": "72 条"
+  },
+  {
+   "id": "TH-H468",
+   "en": "THE GOVERNMENT GRATUITY AND PENSION ACT, B.E. 2494 (1951)",
+   "hint": "70 条"
+  },
+  {
+   "id": "TH-H286",
+   "en": "SPORTS AUTHORITY OF THAILAND ACT, B.E. 2528 (1985)",
+   "hint": "69 条"
+  },
+  {
+   "id": "TH-H703",
+   "en": "INVESTMENT PROMOTION ACT, B.E. 2520 (1977)",
+   "hint": "68 条"
+  },
+  {
+   "id": "TH-H621",
+   "en": "ACT ON THE MAINTENANCE OF THE CLEANLINESS AND ORDERLINESS OF THE COUNTRY, B.E. 2535 (1992)",
+   "hint": "68 条"
+  },
+  {
+   "id": "TH-H227",
+   "en": "CIVIL REGISTRATION ACT, B.E. 2534 (1991)",
+   "hint": "63 条"
+  },
+  {
+   "id": "TH-H739",
+   "en": "Chambers of Commerce Act B.E 2509 (1966)",
+   "hint": "63 条"
+  },
+  {
+   "id": "TH-H528",
+   "en": "EXPORT COMMODITY STANDARDS ACT, B.E. 2503 (1960)",
+   "hint": "63 条"
+  },
+  {
+   "id": "TH-H681",
+   "en": "BUDGETARY PROCEDURES ACT, B.E. 2561 (2018)",
+   "hint": "61 条"
+  },
+  {
+   "id": "TH-H274",
+   "en": "CARRIAGE OF GOODS BY SEA ACT, B.E. 2534 (1991)",
+   "hint": "61 条"
+  },
+  {
+   "id": "TH-H492",
+   "en": "NATIONAL RESERVED FORESTS ACT, B.E. 2507 (1964)",
+   "hint": "61 条"
+  },
+  {
+   "id": "TH-H471",
+   "en": "ACT ON ANCIENT MONUMENTS, ANTIQUES, OBJECTS OF ART AND NATIONAL MUSEUMS, B.E. 2504 (1961)",
+   "hint": "61 条"
+  },
+  {
+   "id": "TH-H104",
+   "en": "SatangRaengnganLaeWithiPhicharana2522 1979",
+   "hint": "60 条"
+  },
+  {
+   "id": "TH-H631",
+   "en": "COMMUNICABLE DISEASES ACT, B.E. 2558 (2015)",
+   "hint": "60 条"
+  },
+  {
+   "id": "TH-H470",
+   "en": "THE LOCAL GOVERNMENT GRATUITY AND PENSION ACT, B.E. 2500 (1957)",
+   "hint": "60 条"
+  },
+  {
+   "id": "TH-H678",
+   "en": "NURSING AND MIDWIFERY PROFESSION ACT, B.E. 2528 (1985)",
+   "hint": "57 条"
+  },
+  {
+   "id": "TH-H435",
+   "en": "FLAG ACT, B.E. 2522 (1979)",
+   "hint": "56 条"
+  },
+  {
+   "id": "TH-H312",
+   "en": "SANGHA ACT, B.E. 2505 (1962)",
+   "hint": "56 条"
+  },
+  {
+   "id": "TH-H443",
+   "en": "GROUNDWATER ACT, B.E. 2520 (1977)",
+   "hint": "56 条"
+  },
+  {
+   "id": "TH-H732",
+   "en": "VETERINARY FACILITIES ACT, B.E. 2533 (1990)",
+   "hint": "56 条"
+  },
+  {
+   "id": "TH-H098",
+   "en": "Anuyatotulakan2545 2002",
+   "hint": "55 条"
+  },
+  {
+   "id": "TH-H228",
+   "en": "PORT AUTHORITY OF THAILAND ACT, B.E. 2494 (1951)",
+   "hint": "54 条"
+  },
+  {
+   "id": "TH-H893",
+   "en": "军事刑法典",
+   "hint": "53 条"
+  },
+  {
+   "id": "TH-H335",
+   "en": "ARMS CONTROL ACT, B.E. 2530 (1987)",
+   "hint": "53 条"
+  },
+  {
+   "id": "TH-H641",
+   "en": "ANIMAL EPIDEMICS ACT, B.E. 2499 (1956) (repeal)",
+   "hint": "53 条"
+  },
+  {
+   "id": "TH-FBA-1999",
+   "en": "Foreign Business Act",
+   "hint": "50 条"
+  },
+  {
+   "id": "TH-H675",
+   "en": "MEDICAL PROFESSION ACT, B.E. 2525 (1982)",
+   "hint": "50 条"
+  },
+  {
+   "id": "TH-H231",
+   "en": "AGRICULTURAL LAND REFORM ACT, B.E. 2518 (1975)",
+   "hint": "50 条"
+  },
+  {
+   "id": "TH-H028",
+   "en": "外资经商法",
+   "hint": "49 条"
+  },
+  {
+   "id": "TH-H272",
+   "en": "PROVIDENT FUND ACT B.E. 2530 (1987)",
+   "hint": "49 条"
+  },
+  {
+   "id": "TH-ARBITRATION-2002",
+   "en": "Arbitration Act",
+   "hint": "48 条"
+  },
+  {
+   "id": "TH-H100",
+   "en": "ThurakamThangIlektronik2544 2001",
+   "hint": "48 条"
+  },
+  {
+   "id": "TH-H439",
+   "en": "GOVERNMENT HOUSING BANK ACT, B.E. 2496 (1953)",
+   "hint": "47 条"
+  },
+  {
+   "id": "TH-H322",
+   "en": "MUTUAL ASSISTANCE IN CRIMINAL MATTERS ACT, B.E. 2535 (1992)",
+   "hint": "47 条"
+  },
+  {
+   "id": "TH-H515",
+   "en": "SIGNBOARD TAX ACT, B.E. 2510 (1967)",
+   "hint": "46 条"
+  },
+  {
+   "id": "TH-H728",
+   "en": "MINING COUNCIL ACT, B.E. 2526 (1983)",
+   "hint": "45 条"
+  },
+  {
+   "id": "TH-H264",
+   "en": "TOURISM AUTHORITY OF THAILAND ACT, B.E. 2522 (1979)",
+   "hint": "45 条"
+  },
+  {
+   "id": "TH-H258",
+   "en": "CHILD ADOPTION ACT, BE 2522 (1979)",
+   "hint": "44 条"
+  },
+  {
+   "id": "TH-H386",
+   "en": "ALLOTMENT OF LAND FOR LIVING ACT, B.E. 2511 (1968)",
+   "hint": "44 条"
+  },
+  {
+   "id": "TH-H530",
+   "en": "ACT ON MEASURES FOR THE SUPPRESSION OF OFFENDERS IN AN OFFENCE RELATING TO NACROTICS, B.E. 2534 (1991) (OFFICIAL)",
+   "hint": "43 条"
+  },
+  {
+   "id": "TH-H215",
+   "en": "PLANT QUARANTINE ACT, B.E. 2507 (1964)",
+   "hint": "42 条"
+  },
+  {
+   "id": "TH-H656",
+   "en": "ACT ON CONFLICT OF LAWS, B.E. 2481 (1938)",
+   "hint": "42 条"
+  },
+  {
+   "id": "TH-H389",
+   "en": "ACT ORGANISING THE ACTIVITIES OF THE FISH MARKET, B.E. 2496 (1953)",
+   "hint": "42 条"
+  },
+  {
+   "id": "TH-H035",
+   "en": "计算机犯罪法",
+   "hint": "41 条"
+  },
+  {
+   "id": "TH-H377",
+   "en": "CURRENCY ACT, B.E. 2501 (1958)",
+   "hint": "41 条"
+  },
+  {
+   "id": "TH-H734",
+   "en": "FOREST PLANTATION ACT, B.E. 2535 (1992)",
+   "hint": "41 条"
+  },
+  {
+   "id": "TH-H704",
+   "en": "PLACE OF ENTERTAINMENT ACT, B.E. 2509 (1966)",
+   "hint": "41 条"
+  },
+  {
+   "id": "TH-H277",
+   "en": "ENERGY DEVELOPMENT AND PROMOTION ACT, B.E. 2535 (1992)",
+   "hint": "41 条"
+  },
+  {
+   "id": "TH-H715",
+   "en": "NATIONALITY ACT, B.E. 2508 (1965)",
+   "hint": "38 条"
+  },
+  {
+   "id": "TH-H102",
+   "en": "KhamphitKiaokapKhomphiutoe2550 2007",
+   "hint": "38 条"
+  },
+  {
+   "id": "TH-H380",
+   "en": "MACHINERY REGISTRATION ACT, B.E. 2514 (1971)",
+   "hint": "38 条"
+  },
+  {
+   "id": "TH-H521",
+   "en": "SUKHOTHAI THAMMATHIRAT OPEN UNIVERSITY ACT, B.E. 2521 (1978)",
+   "hint": "38 条"
+  },
+  {
+   "id": "TH-H787",
+   "en": "ARBITRATION ACT, B.E. 2530 (1987) (repeal)",
+   "hint": "36 条"
+  },
+  {
+   "id": "TH-H882",
+   "en": "EMERGENCY DECREE ON THE PREVENTION OF VOLATILE SUBSTANCE ABUSE B.E. 2533 (1990) (repeal)",
+   "hint": "36 条"
+  },
+  {
+   "id": "TH-H275",
+   "en": "ARREST OF SHIPS ACT, B.E. 2534 (1991)",
+   "hint": "31 条"
+  },
+  {
+   "id": "TH-H716",
+   "en": "BEASTS OF BURDEN ACT, B.E. 2482 (1939)",
+   "hint": "31 条"
+  },
+  {
+   "id": "TH-H273",
+   "en": "SHARE LENDING CIRCLE ACT, B.E. 2534 (1991)",
+   "hint": "31 条"
+  },
+  {
+   "id": "TH-H001",
+   "en": "ACT OF ARBITRATION CENTER, B.E. 2550 (2007)",
+   "hint": "31 条"
+  },
+  {
+   "id": "TH-H729",
+   "en": "CEMETERIES AND CREMATORIA ACT, B.E. 2528 (1985)",
+   "hint": "31 条"
+  },
+  {
+   "id": "TH-H624",
+   "en": "RABIES ACT, B.E. 2535 (1992)",
+   "hint": "29 条"
+  },
+  {
+   "id": "TH-H680",
+   "en": "RADIO COMMUNICATION ACT, B.E. 2498 (1955)",
+   "hint": "29 条"
+  },
+  {
+   "id": "TH-H382",
+   "en": "TRAINING AND DISCIPLINING A CERTAIN TYPE OF CHILD ACT, B.E. 2479 (1936) (repeal)",
+   "hint": "29 条"
+  },
+  {
+   "id": "TH-H488",
+   "en": "NARCOTICS CONTROL ACT, B.E. 2519 (1976)",
+   "hint": "27 条"
+  },
+  {
+   "id": "TH-H226",
+   "en": "ALIEN REGISTRATION ACT, B.E. 2493 (1950)",
+   "hint": "25 条"
+  },
+  {
+   "id": "TH-H379",
+   "en": "FAMILY REGISTRATION ACT, B.E. 2478 (1935)",
+   "hint": "25 条"
+  },
+  {
+   "id": "TH-H727",
+   "en": "HAJJ AFFAIRS PROMOTION ACT, B.E. 2524 (1981)",
+   "hint": "25 条"
+  },
+  {
+   "id": "TH-H873",
+   "en": "EMERGENCY DECREE ON CONTROL OF GOODS ALONG THE NATIONAL BORDERS, B.E. 2524 (1981)",
+   "hint": "25 条"
+  },
+  {
+   "id": "TH-H220",
+   "en": "RICE TRADING ACT, B.E. 2489 (1946)",
+   "hint": "24 条"
+  },
+  {
+   "id": "TH-H640",
+   "en": "CONSERVATION OF WATER SUPPLY CANALS ACT, B.E. 2526 (1983)",
+   "hint": "24 条"
+  },
+  {
+   "id": "TH-H233",
+   "en": "GAMBLING ACT B.E. 2478 (1935)",
+   "hint": "22 条"
+  },
+  {
+   "id": "TH-H011",
+   "en": "LABOUR PROTECTION IN FISHING WORK ACT, B.E. 2562 (2019)",
+   "hint": "22 条"
+  },
+  {
+   "id": "TH-H872",
+   "en": "EMERGENCY DECREE ON BORROWINGS WHICH ARE REGARDED AS PUBLIC CHEATING AND FRAUD, B.E. 2527 (1984)",
+   "hint": "21 条"
+  },
+  {
+   "id": "TH-H419",
+   "en": "PERSON’S NAME ACT, B.E. 2505 (1962)",
+   "hint": "20 条"
+  },
+  {
+   "id": "TH-H318",
+   "en": "CONTROL OF SALE BY AUCTION AND TRADE OF ANTIQUES ACT, B.E. 2474 (1931)",
+   "hint": "20 条"
+  },
+  {
+   "id": "TH-H466",
+   "en": "ANIMAL BREEDING DEVELOPMENT ACT, B.E. 2509 (1966)",
+   "hint": "18 条"
+  },
+  {
+   "id": "TH-H230",
+   "en": "DEPORTATION ACT, B.E. 2499 (1956)",
+   "hint": "17 条"
+  },
+  {
+   "id": "TH-H673",
+   "en": "ACT ON THE RIGHT TO FISH IN THAI FISHERY AREAS, B.E. 2482 (1939)",
+   "hint": "17 条"
+  },
+  {
+   "id": "TH-H696",
+   "en": "AGRICULTURAL ECONOMICS ACT, B.E. 2522 (1979)",
+   "hint": "16 条"
+  },
+  {
+   "id": "TH-H115",
+   "en": "KhoSanyaThiMaiPenTham2540 1997",
+   "hint": "15 条"
+  },
+  {
+   "id": "TH-H019",
+   "en": "UNFAIR CONTRACT TERMS ACT, B.E. 2540 (1997)",
+   "hint": "15 条"
+  },
+  {
+   "id": "TH-H356",
+   "en": "COMMISSION FOR THE MANAGEMENT OF LAND TRAFFIC ACT, B.E. 2521, (1978)",
+   "hint": "15 条"
+  },
+  {
+   "id": "TH-H666",
+   "en": "OFFENCES RELATED TO THE ISSUANCE OF CHEQUES ACT, B.E. 2534 (1991)",
+   "hint": "11 条"
+  },
+  {
+   "id": "TH-H665",
+   "en": "OFFENCES OF OFFICIALS IN STATE ORGANISATIONS OR AGENCIES ACT, B.E. 2502 (1959)",
+   "hint": "11 条"
+  },
+  {
+   "id": "TH-H016",
+   "en": "Revenue Code",
+   "hint": "10 条"
+  },
+  {
+   "id": "TH-H246",
+   "en": "ACT PRESCRIBING FEES FOR USE OF HIGHWAYS AND BRIDGES BY AUTO VEHICLES, B.E. 2497 (1954)",
+   "hint": "10 条"
+  },
+  {
+   "id": "TH-H742",
+   "en": "ACT AUTHORIZING THE NAVY FOR THE SUPPRESSION OF CERTAIN MARITIME OFFENCES, B.E. 2490 (1957)",
+   "hint": "10 条"
+  },
+  {
+   "id": "TH-H750",
+   "en": "PROHIBITION OF GOODS WITH FAKE RULES OF ORIGIN ACT, B.E. 2481 (1938)",
+   "hint": "8 条"
+  },
+  {
+   "id": "TH-H340",
+   "en": "OFFICIAL SECRETS’ PROTECTION ACT, B.E. 2483 (1940)",
+   "hint": "7 条"
+  },
+  {
+   "id": "TH-H339",
+   "en": "PROTECTION OF THE OPERATION OF THE ASIAN INSTITUTE OF TECHNOLOGY ACT, B.E. 2510 (1967)",
+   "hint": "7 条"
+  },
+  {
+   "id": "TH-H671",
+   "en": "ACT ON APPLICATION OF ISLAMIC LAW IN AREAS OF PATTANI, NARATHIWAT, YALA AND SATUN CHANGWAT, B.E. 2489 (1946)",
+   "hint": "7 条"
+  },
+  {
+   "id": "TH-H677",
+   "en": "OFFENCES OF GOVERNMENT OFFICIALS PERFORMING DUTIES IN NON-GOVERNMENT AGENCIES ACT, B.E. 2534 (1991)",
+   "hint": "4 条"
+  },
+  {
+   "id": "TH-H333",
+   "en": "PROTECTION OF THE OPERATIONS OF THE INTERNATIONAL ATOMIC ENERGY AGENCY IN THAILAND ACT, B.E. 2505 (1962)",
+   "hint": "4 条"
+  }
+ ]
+}

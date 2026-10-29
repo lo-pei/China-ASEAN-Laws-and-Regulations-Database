@@ -1,0 +1,376 @@
+{
+  "_note": "MY 附属法规括号术语 · add15（单缺括号剩余 1-55）",
+  "brackets": {
+    "JOHOR-SINGAPORE SPECIAL ECONOMIC ZONE": {
+      "zh": "柔佛—新加坡经济特区",
+      "vi": "Khu Kinh tế Đặc biệt Johor-Singapore",
+      "th": "เขตเศรษฐกิจพิเศษยะโฮร์-สิงคโปร์",
+      "id": "Kawasan Ekonomi Khusus Johor-Singapura",
+      "ms": "Zon Ekonomi Khas Johor-Singapura"
+    },
+    "ACCELERATED CAPITAL ALLOWANCES": {
+      "zh": "加速资本免税额",
+      "vi": "Phụ cấp vốn nhanh",
+      "th": "ค่าเผื่อทุนแบบเร่งรัด",
+      "id": "Tunjangan Modal Dipercepat",
+      "ms": "Elaun Modal Dipercepatkan"
+    },
+    "SPORTS VICTORY PRIZE SCHEME": {
+      "zh": "体育胜利奖金计划",
+      "vi": "Chương trình giải thưởng chiến thắng thể thao",
+      "th": "โครงการรางวัลชัยชนะทางการกีฬา",
+      "id": "Skema Hadiah Kemenangan Olahraga",
+      "ms": "Skim Hadiah Kemenangan Sukan"
+    },
+    "EXEMPTION FOR THEME PARKS": {
+      "zh": "主题公园豁免",
+      "vi": "Miễn trừ đối với công viên chủ đề",
+      "th": "การยกเว้นสำหรับสวนสนุก",
+      "id": "Pengecualian bagi Taman Bertema",
+      "ms": "Pengecualian bagi Taman Tema"
+    },
+    "TERMS OF EDUCATIONAL INSTITUTIONS YEAR 2014": {
+      "zh": "教育机构学期（2014年）",
+      "vi": "Thời hạn học kỳ của các cơ sở giáo dục năm 2014",
+      "th": "ภาคเรียนของสถานศึกษาปี 2014",
+      "id": "Terma Institusi Pendidikan Tahun 2014",
+      "ms": "Syarat Institusi Pendidikan Tahun 2014"
+    },
+    "IMPLEMENTATION OF THE UNITED NATIONS SECURITY COUNCIL RESOLUTIONS RELATING TO THE STATE OF SUDAN": {
+      "zh": "执行联合国安全理事会关于苏丹国的决议",
+      "vi": "Thực hiện các nghị quyết của Hội đồng Bảo an Liên Hợp Quốc liên quan đến Quốc gia Sudan",
+      "th": "การดำเนินการตามมติคณะมนตรีความมั่นคงแห่งสหประชาชาติเกี่ยวกับรัฐซูดาน",
+      "id": "Pelaksanaan Resolusi Dewan Keamanan Perserikatan Bangsa-Bangsa Terkait Negara Sudan",
+      "ms": "Pelaksanaan Resolusi Majlis Keselamatan Pertubuhan Bangsa-Bangsa Bersatu Berkaitan Negara Sudan"
+    },
+    "REGISTRATION OF SUPPLIER": {
+      "zh": "供应商登记",
+      "vi": "Đăng ký nhà cung cấp",
+      "th": "การจดทะเบียนผู้จัดหา",
+      "id": "Registrasi Pemasok",
+      "ms": "Pendaftaran Pembekal"
+    },
+    "RECTIFICATION OF ANIMALS ACT 1953": {
+      "zh": "1953年动物法的更正",
+      "vi": "Đính chính Luật Động vật 1953",
+      "th": "การแก้ไขข้อผิดพลาดพระราชบัญญัติสัตว์ ค.ศ. 1953",
+      "id": "Koreksi Undang-Undang Hewan 1953",
+      "ms": "Pembetulan Akta Binatang 1953"
+    },
+    "PERMIT": {
+      "zh": "许可证",
+      "vi": "Giấy phép",
+      "th": "ใบอนุญาต",
+      "id": "Izin",
+      "ms": "Permit"
+    },
+    "WAIVER AND MODIFICATION OF FEE": {
+      "zh": "费用的豁免与修改",
+      "vi": "Miễn và sửa đổi phí",
+      "th": "การยกเว้นและการแก้ไขค่าธรรมเนียม",
+      "id": "Pembebasan dan Modifikasi Biaya",
+      "ms": "Pengecualian dan Pengubahsuaian Fi"
+    },
+    "EXEMPTION OF LICENSING FEES": {
+      "zh": "执照费豁免",
+      "vi": "Miễn phí cấp phép",
+      "th": "การยกเว้นค่าธรรมเนียมใบอนุญาต",
+      "id": "Pembebasan Biaya Perizinan",
+      "ms": "Pengecualian Fi Pelesenan"
+    },
+    "RELOCATION OF PROVISION OF SERVICES BUSINESS INCENTIVE SCHEME": {
+      "zh": "服务业迁址激励计划",
+      "vi": "Chương trình ưu đãi di dời cơ sở kinh doanh dịch vụ",
+      "th": "โครงการสิ่งจูงใจการย้ายสถานประกอบธุรกิจบริการ",
+      "id": "Skema Insentif Relokasi Usaha Jasa",
+      "ms": "Skim Insentif Pemindahan Perniagaan Perkhidmatan"
+    },
+    "NATIONAL AGRICULTURE TRAINING COUNCIL": {
+      "zh": "国家农业培训理事会",
+      "vi": "Hội đồng Đào tạo Nông nghiệp Quốc gia",
+      "th": "สภาการฝึกอบรมเกษตรแห่งชาติ",
+      "id": "Dewan Pelatihan Pertanian Nasional",
+      "ms": "Majlis Latihan Pertanian Kebangsaan"
+    },
+    "COMPETENT PERSON AND FIRE SAFETY CONTRACTOR": {
+      "zh": "合格人员与消防安全承包商",
+      "vi": "Người có năng lực và nhà thầu an toàn phòng cháy",
+      "th": "ผู้มีความสามารถและผู้รับเหมาความปลอดภัยอัคคีภัย",
+      "id": "Orang Kompeten dan Kontraktor Keselamatan Kebakaran",
+      "ms": "Orang Kompeten dan Kontraktor Keselamatan Kebakaran"
+    },
+    "PRESCRIBED FORMS": {
+      "zh": "规定表格",
+      "vi": "Biểu mẫu quy định",
+      "th": "แบบฟอร์มที่กำหนด",
+      "id": "Formulir yang Ditetapkan",
+      "ms": "Borang yang Ditetapkan"
+    },
+    "CONTROL AND LICENSING": {
+      "zh": "管制与发牌",
+      "vi": "Kiểm soát và cấp phép",
+      "th": "การควบคุมและการออกใบอนุญาต",
+      "id": "Pengendalian dan Perizinan",
+      "ms": "Kawalan dan Pelesenan"
+    },
+    "FEES AND CHARGES FOR SERVICES RENDERED": {
+      "zh": "所提供服务的费用",
+      "vi": "Phí và lệ phí cho dịch vụ được cung cấp",
+      "th": "ค่าธรรมเนียมและค่าบริการสำหรับบริการที่ให้",
+      "id": "Biaya dan Pungutan atas Jasa yang Diberikan",
+      "ms": "Fi dan Caj bagi Perkhidmatan yang Diberikan"
+    },
+    "DEDUCTION FOR IMPLEMENTATION OF ROSETTANET": {
+      "zh": "实施罗塞塔网标准（RosettaNet）的扣除",
+      "vi": "Khấu trừ cho việc triển khai RosettaNet",
+      "th": "การหักสำหรับการดำเนินการ RosettaNet",
+      "id": "Pengurangan atas Penerapan RosettaNet",
+      "ms": "Potongan bagi Pelaksanaan RosettaNet"
+    },
+    "RECTIFICATION": {
+      "zh": "更正",
+      "vi": "Đính chính",
+      "th": "การแก้ไขข้อผิดพลาด",
+      "id": "Koreksi",
+      "ms": "Pembetulan"
+    },
+    "TOTAL SALE VALUE OF LOW VALUE GOODS": {
+      "zh": "低价值货物销售总额",
+      "vi": "Tổng giá trị bán hàng hóa giá trị thấp",
+      "th": "มูลค่าการขายรวมของสินค้ามูลค่าต่ำ",
+      "id": "Total Nilai Penjualan Barang Bernilai Rendah",
+      "ms": "Jumlah Nilai Jualan Barang Bernilai Rendah"
+    },
+    "STEAM BOILER AND UNFIRED PRESSURE VESSEL": {
+      "zh": "蒸汽锅炉与非受火压力容器",
+      "vi": "Nồi hơi và bình áp lực không chịu lửa",
+      "th": "หม้อไอน้ำและภาชนะรับความดันแบบไม่ถูกไฟ",
+      "id": "Ketel Uap dan Bejana Tekanan Tanpa Api",
+      "ms": "Dandang Stim dan Bekas Tekanan Tanpa Api"
+    },
+    "SAMPLING PROCEDURES": {
+      "zh": "抽样程序",
+      "vi": "Thủ tục lấy mẫu",
+      "th": "ขั้นตอนการสุ่มตัวอย่าง",
+      "id": "Tata Cara Pengambilan Sampel",
+      "ms": "Tatacara Persampelan"
+    },
+    "ALTERATION 4": {
+      "zh": "第4项变更",
+      "vi": "Thay đổi 4",
+      "th": "การเปลี่ยนแปลงฉบับที่ 4",
+      "id": "Perubahan 4",
+      "ms": "Pindaan 4"
+    },
+    "FIRE SAFETY CONSULTANT AND FIRE SAFETY CONSULTANT FIRM": {
+      "zh": "消防安全顾问及消防安全顾问公司",
+      "vi": "Tư vấn an toàn phòng cháy và công ty tư vấn an toàn phòng cháy",
+      "th": "ที่ปรึกษาความปลอดภัยอัคคีภัยและบริษัทที่ปรึกษาความปลอดภัยอัคคีภัย",
+      "id": "Konsultan Keselamatan Kebakaran dan Perusahaan Konsultan Keselamatan Kebakaran",
+      "ms": "Perunding Keselamatan Kebakaran dan Firma Perunding Keselamatan Kebakaran"
+    },
+    "SET-OFF FOR TAX CHARGED ON ACTUARIAL SURPLUS UNDER TAKAFUL BUSINESS": {
+      "zh": "回教保险业务精算盈余已征税款的抵销",
+      "vi": "Bù trừ thuế đánh trên thặng dư bảo hiểm của nghiệp vụ Takaful",
+      "th": "การหักกลบภาษีที่จัดเก็บจากส่วนเกินทางคณิตศาสตร์ประกันภัยในธุรกิจตะกาฟุล",
+      "id": "Kompensasi Pajak atas Surplus Aktuaria dalam Usaha Takaful",
+      "ms": "Set-Off Cukai yang Dikenakan ke atas Lebihan Aktuari dalam Perniagaan Takaful"
+    },
+    "PROJEK LEBUHRAYA USAHASAMA BERHAD": {
+      "zh": "合资大道工程有限公司",
+      "vi": "Projek Lebuhraya Usahasama Berhad",
+      "th": "บริษัท Projek Lebuhraya Usahasama Berhad",
+      "id": "Projek Lebuhraya Usahasama Berhad",
+      "ms": "Projek Lebuhraya Usahasama Berhad"
+    },
+    "AMENDENT OF SCHEDULE": {
+      "zh": "附表修正",
+      "vi": "Sửa đổi Phụ lục",
+      "th": "การแก้ไขตารางผนวก",
+      "id": "Pindaan Lampiran",
+      "ms": "Pindaan Jadual"
+    },
+    "SUSTAINABLE AND RESPONSIBLE INVESTMENT LINKED SUKUK": {
+      "zh": "可持续与负责任投资挂钩伊斯兰债券",
+      "vi": "Sukuk liên kết Đầu tư Bền vững và Có trách nhiệm",
+      "th": "สุกูกที่เชื่อมโยงกับการลงทุนอย่างยั่งยืนและมีความรับผิดชอบ",
+      "id": "Sukuk Terkait Investasi Berkelanjutan dan Bertanggung Jawab",
+      "ms": "Sukuk Berkaitan Pelaburan Lestari dan Bertanggungjawab"
+    },
+    "TERMS OF EDUCATIONAL INSTITUTIONS YEAR 2018": {
+      "zh": "教育机构学期（2018年）",
+      "vi": "Thời hạn học kỳ của các cơ sở giáo dục năm 2018",
+      "th": "ภาคเรียนของสถานศึกษาปี 2018",
+      "id": "Terma Institusi Pendidikan Tahun 2018",
+      "ms": "Syarat Institusi Pendidikan Tahun 2018"
+    },
+    "SCHOOL TERMS, DAYS AND HOLIDAYS": {
+      "zh": "学校学期、上课日及假期",
+      "vi": "Học kỳ, ngày học và ngày nghỉ của trường",
+      "th": "ภาคเรียน วันเรียน และวันหยุดของโรงเรียน",
+      "id": "Terma Sekolah, Hari Sekolah, dan Hari Libur",
+      "ms": "Penggal Persekolahan, Hari Persekolahan dan Hari Kelepasan"
+    },
+    "DEDUCTION FOR CONTRIBUTION BY LICENSED INSURERS TO THE MALAYSIAN MOTOR INSURANCE POOL": {
+      "zh": "持牌保险人对马来西亚机动车保险池供款的扣除",
+      "vi": "Khấu trừ khoản đóng góp của doanh nghiệp bảo hiểm được cấp phép vào Quỹ Bảo hiểm Xe cơ giới Malaysia",
+      "th": "การหักเงินสมทบของผู้รับประกันภัยที่ได้รับอนุญาตเข้ากองทุนประกันภัยยานยนต์มาเลเซีย",
+      "id": "Pengurangan Iuran Penanggung Berizin kepada Kumpulan Asuransi Kendaraan Bermotor Malaysia",
+      "ms": "Potongan Caruman Penanggung Insurans Berlesen kepada Kumpulan Insurans Motor Malaysia"
+    },
+    "TERMS OF EDUCATIONAL INSTITUTIONS ACADEMIC CALENDAR 2022/2023": {
+      "zh": "教育机构学期（2022/2023学年）",
+      "vi": "Thời hạn học kỳ của các cơ sở giáo dục niên học 2022/2023",
+      "th": "ภาคเรียนของสถานศึกษาปีการศึกษา 2022/2023",
+      "id": "Terma Institusi Pendidikan Tahun Akademik 2022/2023",
+      "ms": "Syarat Institusi Pendidikan Tahun Akademik 2022/2023"
+    },
+    "OFFICIAL DECLARATION": {
+      "zh": "正式声明",
+      "vi": "Tuyên bố chính thức",
+      "th": "คำประกาศอย่างเป็นทางการ",
+      "id": "Pernyataan Resmi",
+      "ms": "Perakuan Rasmi"
+    },
+    "TRAINING PROVIDER AND INSTRUCTOR": {
+      "zh": "培训机构与讲师",
+      "vi": "Cơ sở đào tạo và giảng viên",
+      "th": "ผู้ให้การฝึกอบรมและผู้สอน",
+      "id": "Penyedia Pelatihan dan Instruktur",
+      "ms": "Penyedia Latihan dan Pengajar"
+    },
+    "TREATY ON MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS": {
+      "zh": "刑事事项相互法律协助条约",
+      "vi": "Hiệp ước Tương trợ Tư pháp trong các Vấn đề Hình sự",
+      "th": "สนธิสัญญาว่าด้วยความช่วยเหลือทางกฎหมายร่วมกันในเรื่องอาญา",
+      "id": "Perjanjian Bantuan Hukum Timbal Balik dalam Masalah Pidana",
+      "ms": "Perjanjian Bantuan Guaman Bersama dalam Perkara Jenayah"
+    },
+    "RESTRICTION": {
+      "zh": "限制",
+      "vi": "Hạn chế",
+      "th": "ข้อจำกัด",
+      "id": "Pembatasan",
+      "ms": "Kekangan"
+    },
+    "PERBADANAN KEMAJUAN NEGERI PAHANG": {
+      "zh": "彭亨州发展局",
+      "vi": "Cơ quan Phát triển Bang Pahang",
+      "th": "องค์การพัฒนารัฐปะหัง",
+      "id": "Badan Pengembangan Negeri Pahang",
+      "ms": "Perbadanan Kemajuan Negeri Pahang"
+    },
+    "TERMS OF EDUCATIONAL INSTITUTIONS YEAR 2013": {
+      "zh": "教育机构学期（2013年）",
+      "vi": "Thời hạn học kỳ của các cơ sở giáo dục năm 2013",
+      "th": "ภาคเรียนของสถานศึกษาปี 2013",
+      "id": "Terma Institusi Pendidikan Tahun 2013",
+      "ms": "Syarat Institusi Pendidikan Tahun 2013"
+    },
+    "PROHIBITED EFFLUENT": {
+      "zh": "禁止排放的污水",
+      "vi": "Nước thải bị cấm",
+      "th": "น้ำทิ้งที่ห้ามระบาย",
+      "id": "Air Limbah Terlarang",
+      "ms": "Efluen Larangan"
+    },
+    "PROHIBITION ON IMPORT": {
+      "zh": "进口禁令",
+      "vi": "Cấm nhập khẩu",
+      "th": "การห้ามนำเข้า",
+      "id": "Larangan Impor",
+      "ms": "Larangan Import"
+    },
+    "GOODS UNDER THE ASEAN TRADE IN GOODS AGREEMENT BETWEEN ASEAN COUNTRIES": {
+      "zh": "东盟国家间东盟货物贸易协定项下货物",
+      "vi": "Hàng hóa theo Hiệp định Thương mại Hàng hóa ASEAN giữa các nước ASEAN",
+      "th": "สินค้าภายใต้ความตกลงการค้าสินค้าอาเซียนระหว่างประเทศอาเซียน",
+      "id": "Barang berdasarkan Perjanjian Perdagangan Barang ASEAN antar Negara ASEAN",
+      "ms": "Barang di bawah Perjanjian Perdagangan Barang ASEAN antara Negara ASEAN"
+    },
+    "CITY AREA": {
+      "zh": "城市地区",
+      "vi": "Khu vực thành thị",
+      "th": "เขตเมือง",
+      "id": "Kawasan Kota",
+      "ms": "Kawasan Bandar"
+    },
+    "RETURN OR INTEREST ON AN INDEX-LINKED DEPOSIT HELD BY A DEPOSIT-TAKING MEMBER": {
+      "zh": "吸收存款成员持有的指数挂钩存款的回报或利息",
+      "vi": "Lợi tức hoặc lãi của khoản tiền gửi gắn với chỉ số do thành viên nhận tiền gửi nắm giữ",
+      "th": "ผลตอบแทนหรือดอกเบี้ยของเงินฝากที่เชื่อมโยงดัชนีซึ่งสมาชิกรับฝากถืออยู่",
+      "id": "Imbal Hasil atau Bunga atas Deposito Terkait Indeks yang Dipegang Anggota Penghimpun Dana",
+      "ms": "Pulangan atau Faedah atas Deposit Berkait Indeks yang Dipegang Ahli Penerima Deposit"
+    },
+    "SMALL AMANG FACTORY": {
+      "zh": "小型阿芒（锡尾砂）加工厂",
+      "vi": "Nhà máy chế biến amang quy mô nhỏ",
+      "th": "โรงงานอะมังขนาดเล็ก",
+      "id": "Pabrik Amang Kecil",
+      "ms": "Kilang Amang Kecil"
+    },
+    "DEDUCTION FOR PRE COMMENCEMENT EXPENSES IN RELATION TO REFINERY AND PETROCHEMICAL INTEGRATED DEVELOPMENT": {
+      "zh": "炼油与石化一体化开发相关开业前费用扣除",
+      "vi": "Khấu trừ chi phí trước khi khởi công liên quan đến phát triển tích hợp nhà máy lọc dầu và hóa dầu",
+      "th": "การหักค่าใช้จ่ายก่อนเริ่มดำเนินการเกี่ยวกับการพัฒนาระบบบูรณาการโรงกลั่นและปิโตรเคมี",
+      "id": "Pengurangan Biaya Pra-Komersial terkait Pengembangan Terpadu Kilang dan Petrokimia",
+      "ms": "Potongan Perbelanjaan Pra-Permulaan berkaitan Pembangunan Bersepadu Kilang Penapisan dan Petrokimia"
+    },
+    "VISA TO THE CITIZEN OF THE REPUBLIC OF SUDAN": {
+      "zh": "苏丹共和国公民签证",
+      "vi": "Thị thực cho công dân Cộng hòa Sudan",
+      "th": "วีซ่าสำหรับพลเมืองสาธารณรัฐซูดาน",
+      "id": "Visa bagi Warga Negara Republik Sudan",
+      "ms": "Visa kepada Warganegara Republik Sudan"
+    },
+    "DEDUCTION FOR EXPENDITURE ON ISSUANCE OF ISLAMIC SECURITIES": {
+      "zh": "发行伊斯兰证券开支的扣除",
+      "vi": "Khấu trừ chi phí phát hành chứng khoán Hồi giáo",
+      "th": "การหักรายจ่ายในการออกหลักทรัพย์อิสลาม",
+      "id": "Pengurangan Pengeluaran atas Penerbitan Surat Berharga Syariah",
+      "ms": "Potongan Perbelanjaan bagi Penerbitan Sekuriti Islam"
+    },
+    "ISLAMIC SECURITIES": {
+      "zh": "伊斯兰证券",
+      "vi": "Chứng khoán Hồi giáo",
+      "th": "หลักทรัพย์อิสลาม",
+      "id": "Surat Berharga Syariah",
+      "ms": "Sekuriti Islam"
+    },
+    "PAYMENT OF EXCISE DUTIES FOR MOTOR VEHICLES": {
+      "zh": "机动车消费税缴纳",
+      "vi": "Nộp thuế tiêu thụ đặc biệt đối với xe cơ giới",
+      "th": "การชำระอากรสรรพสามิตสำหรับยานยนต์",
+      "id": "Pembayaran Cukai Eksais untuk Kendaraan Bermotor",
+      "ms": "Pembayaran Duti Eksais bagi Kenderaan Bermotor"
+    },
+    "MODIFICATION OF NATIONAL FORESTRY ACT 1984": {
+      "zh": "对1984年国家林业法的修改",
+      "vi": "Sửa đổi Luật Lâm nghiệp Quốc gia 1984",
+      "th": "การปรับปรุงพระราชบัญญัติป่าไม้แห่งชาติ ค.ศ. 1984",
+      "id": "Modifikasi Undang-Undang Kehutanan Nasional 1984",
+      "ms": "Pengubahsuaian Akta Perhutanan Negara 1984"
+    },
+    "CONTRACT NOTE FOR SALE AND PURCHASE TRANSACTION OF EXCHANGE-TRADED FUND AND PURCHASE TRANSACTION OF STRUCTURED WARRANT": {
+      "zh": "交易所买卖基金买卖交易及结构性认股权证购买交易的成交单据",
+      "vi": "Phiếu xác nhận giao dịch mua bán quỹ hoán đổi danh mục và giao dịch mua chứng quyền có cấu trúc",
+      "th": "ใบยืนยันการซื้อขายกองทุนซื้อขายในตลาดหลักทรัพย์และการซื้อใบสำคัญแสดงสิทธิ์แบบโครงสร้าง",
+      "id": "Nota Kontrak Transaksi Jual Beli Reksa Dana Terbuka dan Transaksi Pembelian Waran Terstruktur",
+      "ms": "Nota Kontrak bagi Urus Niaga Jual Beli Dana Dagangan Bursa dan Urus Niaga Pembelian Waran Berstruktur"
+    },
+    "PROHIBITION OF USE OF CERTAIN MICROMOBILITY VEHICLES": {
+      "zh": "禁止使用某些微型出行车辆",
+      "vi": "Cấm sử dụng một số loại xe di chuyển cỡ nhỏ",
+      "th": "การห้ามใช้ยานพาหนะขนาดเล็กบางประเภท",
+      "id": "Larangan Penggunaan Kendaraan Mobilitas Mikro Tertentu",
+      "ms": "Larangan Penggunaan Kenderaan Mobiliti Mikro Tertentu"
+    },
+    "COMPOUNDING OFFENCES": {
+      "zh": "罪行的罚款了结",
+      "vi": "Hòa giải các tội danh bằng tiền phạt",
+      "th": "การเปรียบเทียบปรับความผิด",
+      "id": "Penyelesaian Pelanggaran dengan Denda",
+      "ms": "Pengkompaunan Kesalahan"
+    }
+  }
+}

@@ -1,0 +1,763 @@
+{
+ "batch": "sg-p1-b23",
+ "note": "SG 尾段：体裁 + 母法 + 括注 组合合成",
+ "count": 126,
+ "items": {
+  "SG-H045": {
+   "vi": "Quy tắc Kế toán viên (Giấy tờ và thông tin theo quy định) 2024",
+   "th": "กฎนักบัญชี (เอกสารและข้อมูลตามที่กำหนด) 2024",
+   "id": "Peraturan Akuntan (Dokumen dan Informasi yang Ditetapkan) 2024",
+   "ms": "Kaedah Akauntan (Dokumen dan Maklumat yang Ditetapkan) 2024"
+  },
+  "SG-H046": {
+   "vi": "Lệnh Kế toán viên (Tiêu chuẩn theo quy định và quy tắc ứng xử, đạo đức nghề nghiệp) 2023",
+   "th": "คำสั่งนักบัญชี (มาตรฐานตามที่กำหนดและจรรยาบรรณวิชาชีพ) 2023",
+   "id": "Perintah Akuntan (Standar yang Ditetapkan dan Kode Etik serta Perilaku Profesional) 2023",
+   "ms": "Perintah Akauntan (Standard yang Ditetapkan dan Kod Kelakuan serta Etika Profesional) 2023"
+  },
+  "SG-H048": {
+   "vi": "Quy tắc Kế toán viên (Kế toán viên công)",
+   "th": "กฎนักบัญชี (ผู้สอบบัญชีสาธารณะ)",
+   "id": "Peraturan Akuntan (Akuntan Publik)",
+   "ms": "Kaedah Akauntan (Akauntan Awam)"
+  },
+  "SG-H054": {
+   "vi": "Quy chế Cơ quan quản lý kế toán và doanh nghiệp (Thông tin, giấy tờ và thông báo) 2024",
+   "th": "ข้อบังคับหน่วยงานกำกับดูแลการบัญชีและนิติบุคคล (ข้อมูล เอกสาร และการแจ้ง) 2024",
+   "id": "Peraturan Otoritas Pengatur Akuntansi dan Korporasi (Informasi, Dokumen dan Pemberitahuan) 2024",
+   "ms": "Peraturan Pihak Berkuasa Pengawalseliaan Perakaunan dan Korporat (Maklumat, Dokumen dan Pemberitahuan) 2024"
+  },
+  "SG-H055": {
+   "vi": "Quy chế Cơ quan quản lý kế toán và doanh nghiệp (Dịch vụ kế toán theo quy định và các điều kiện) 2023",
+   "th": "ข้อบังคับหน่วยงานกำกับดูแลการบัญชีและนิติบุคคล (บริการบัญชีตามที่กำหนดและเงื่อนไข) 2023",
+   "id": "Peraturan Otoritas Pengatur Akuntansi dan Korporasi (Layanan Akuntansi yang Ditetapkan dan Syarat) 2023",
+   "ms": "Peraturan Pihak Berkuasa Pengawalseliaan Perakaunan dan Korporat (Perkhidmatan Perakaunan yang Ditetapkan dan Syarat) 2023"
+  },
+  "SG-H056": {
+   "vi": "Lệnh Cơ quan quản lý kế toán và doanh nghiệp (Ngày chuyển giao cho Ủy ban Kế toán Singapore) 2023",
+   "th": "คำสั่งหน่วยงานกำกับดูแลการบัญชีและนิติบุคคล (วันที่โอนสำหรับคณะกรรมการการบัญชีสิงคโปร์) 2023",
+   "id": "Perintah Otoritas Pengatur Akuntansi dan Korporasi (Tanggal Pengalihan bagi Komisi Akuntansi Singapura) 2023",
+   "ms": "Perintah Pihak Berkuasa Pengawalseliaan Perakaunan dan Korporat (Tarikh Pindahan bagi Suruhanjaya Perakaunan Singapura) 2023"
+  },
+  "SG-H118": {
+   "vi": "Quy tắc Quản lý tư pháp (Bảo vệ) (Chỉ thị không công bố) 2017",
+   "th": "กฎการบริหารงานยุติธรรม (การคุ้มครอง) (คำสั่งห้ามเผยแพร่) 2017",
+   "id": "Peraturan Penyelenggaraan Peradilan (Perlindungan) (Arahan Tidak Menerbitkan) 2017",
+   "ms": "Kaedah Pentadbiran Keadilan (Perlindungan) (Arahan Tidak Menerbitkan) 2017"
+  },
+  "SG-H119": {
+   "vi": "Luật Quản lý tư pháp (Bảo vệ) 2016",
+   "th": "พระราชบัญญัติการบริหารงานยุติธรรม (การคุ้มครอง) 2016",
+   "id": "Undang-Undang tentang Penyelenggaraan Peradilan (Perlindungan) 2016",
+   "ms": "Akta Pentadbiran Keadilan (Perlindungan) 2016"
+  },
+  "SG-H120": {
+   "vi": "Thông báo Quản lý Luật Hồi giáo (Sửa đổi) (Ngày bắt đầu có hiệu lực) 2026",
+   "th": "ประกาศการบริหารกฎหมายอิสลาม (แก้ไขเพิ่มเติม) (วันเริ่มมีผลใช้บังคับ) 2026",
+   "id": "Pemberitahuan Penyelenggaraan Hukum Islam (Perubahan) (Mulai Berlaku) 2026",
+   "ms": "Pemberitahuan Pentadbiran Undang-Undang Islam (Pindaan) (Mula Berkuat Kuasa) 2026"
+  },
+  "SG-H122": {
+   "vi": "Quy tắc Quản lý luật Hồi giáo (Fitrah)",
+   "th": "กฎการบริหารกฎหมายอิสลาม (ฟิฏเราะฮ์)",
+   "id": "Peraturan Penyelenggaraan Hukum Islam (Fitrah)",
+   "ms": "Kaedah Pentadbiran Hukum Islam (Fitrah)"
+  },
+  "SG-H123": {
+   "vi": "Quy tắc Quản lý luật Hồi giáo (Tổ chức chứng nhận halal nước ngoài) 2025",
+   "th": "กฎการบริหารกฎหมายอิสลาม (หน่วยรับรองฮาลาลต่างประเทศ) 2025",
+   "id": "Peraturan Penyelenggaraan Hukum Islam (Badan Sertifikasi Halal Asing) 2025",
+   "ms": "Kaedah Pentadbiran Hukum Islam (Badan Pensijilan Halal Asing) 2025"
+  },
+  "SG-H124": {
+   "vi": "Quy tắc Quản lý luật Hồi giáo (Haj)",
+   "th": "กฎการบริหารกฎหมายอิสลาม (ฮัจญ์)",
+   "id": "Peraturan Penyelenggaraan Hukum Islam (Haji)",
+   "ms": "Kaedah Pentadbiran Hukum Islam (Haji)"
+  },
+  "SG-H125": {
+   "vi": "Quy tắc Quản lý luật Hồi giáo (Giấy chứng nhận halal)",
+   "th": "กฎการบริหารกฎหมายอิสลาม (หนังสือรับรองฮาลาล)",
+   "id": "Peraturan Penyelenggaraan Hukum Islam (Sertifikat Halal)",
+   "ms": "Kaedah Pentadbiran Hukum Islam (Sijil Halal)"
+  },
+  "SG-H126": {
+   "vi": "Quy tắc Quản lý luật Hồi giáo (Majlis Wakaf) 2024",
+   "th": "กฎการบริหารกฎหมายอิสลาม (Majlis Wakaf) 2024",
+   "id": "Peraturan Penyelenggaraan Hukum Islam (Majlis Wakaf) 2024",
+   "ms": "Kaedah Pentadbiran Hukum Islam (Majlis Wakaf) 2024"
+  },
+  "SG-H127": {
+   "vi": "Quy tắc Quản lý luật Hồi giáo (Quỹ xây dựng nhà thờ Hồi giáo và Quỹ Mendaki)",
+   "th": "กฎการบริหารกฎหมายอิสลาม (กองทุนสร้างมัสยิดและกองทุนเมินดากี)",
+   "id": "Peraturan Penyelenggaraan Hukum Islam (Dana Pembangunan Masjid dan Dana Mendaki)",
+   "ms": "Kaedah Pentadbiran Hukum Islam (Tabung Pembinaan Masjid dan Tabung Mendaki)"
+  },
+  "SG-H128": {
+   "vi": "Quy tắc Quản lý luật Hồi giáo (Người cải đạo Hồi giáo)",
+   "th": "กฎการบริหารกฎหมายอิสลาม (ผู้เปลี่ยนศาสนาอิสลาม)",
+   "id": "Peraturan Penyelenggaraan Hukum Islam (Mualaf)",
+   "ms": "Kaedah Pentadbiran Hukum Islam (Mualaf)"
+  },
+  "SG-H129": {
+   "vi": "Quy tắc Quản lý luật Hồi giáo (Trường tôn giáo Hồi giáo) 2016",
+   "th": "กฎการบริหารกฎหมายอิสลาม (โรงเรียนสอนศาสนาอิสลาม) 2016",
+   "id": "Peraturan Penyelenggaraan Hukum Islam (Sekolah Agama Islam) 2016",
+   "ms": "Kaedah Pentadbiran Hukum Islam (Sekolah Agama Islam) 2016"
+  },
+  "SG-H130": {
+   "vi": "Quy tắc Quản lý luật Hồi giáo (Mutawalli và người được ủy thác) 2018",
+   "th": "กฎการบริหารกฎหมายอิสลาม (มุตะวัลลีและผู้ดูแลผลประโยชน์) 2018",
+   "id": "Peraturan Penyelenggaraan Hukum Islam (Mutawalli dan Wali Amanat) 2018",
+   "ms": "Kaedah Pentadbiran Hukum Islam (Mutawalli dan Pemegang Amanah) 2018"
+  },
+  "SG-H131": {
+   "vi": "Thông báo Quản lý luật Hồi giáo (Hội Hồi giáo theo quy định) 2024",
+   "th": "ประกาศการบริหารกฎหมายอิสลาม (สมาคมมุสลิมตามที่กำหนด) 2024",
+   "id": "Pemberitahuan Penyelenggaraan Hukum Islam (Perkumpulan Muslim yang Ditetapkan) 2024",
+   "ms": "Pemberitahuan Pentadbiran Hukum Islam (Persatuan Islam yang Ditetapkan) 2024"
+  },
+  "SG-H132": {
+   "vi": "Quy tắc Quản lý luật Hồi giáo (Wakaf và Nazar Am)",
+   "th": "กฎการบริหารกฎหมายอิสลาม (วักฟ์และนะซัรอัม)",
+   "id": "Peraturan Penyelenggaraan Hukum Islam (Wakaf dan Nazar Am)",
+   "ms": "Kaedah Pentadbiran Hukum Islam (Wakaf dan Nazar Am)"
+  },
+  "SG-H135": {
+   "vi": "Quy chế Nuôi con nuôi (Tội theo quy định) 2024",
+   "th": "ข้อบังคับการรับบุตรบุญธรรม (ความผิดตามที่กำหนด) 2024",
+   "id": "Peraturan Pengangkatan Anak (Pelanggaran yang Ditetapkan) 2024",
+   "ms": "Peraturan Pengangkatan Anak (Kesalahan yang Ditetapkan) 2024"
+  },
+  "SG-H159": {
+   "vi": "Lệnh Hàng không (Miễn trừ cho Dự án HORNET) 2026",
+   "th": "คำสั่งการเดินอากาศ (การยกเว้นสำหรับโครงการ HORNET) 2026",
+   "id": "Perintah Navigasi Udara (Pembebasan bagi Proyek HORNET) 2026",
+   "ms": "Perintah Navigasi Udara (Pengecualian bagi Projek HORNET) 2026"
+  },
+  "SG-H160": {
+   "vi": "Lệnh Hàng không (Miễn trừ cho Dự án KESTREL) 2026",
+   "th": "คำสั่งการเดินอากาศ (การยกเว้นสำหรับโครงการ KESTREL) 2026",
+   "id": "Perintah Navigasi Udara (Pembebasan bagi Proyek KESTREL) 2026",
+   "ms": "Perintah Navigasi Udara (Pengecualian bagi Projek KESTREL) 2026"
+  },
+  "SG-H161": {
+   "vi": "Quy chế Hàng không (Cấp phép dịch vụ hàng không)",
+   "th": "ข้อบังคับการเดินอากาศ (การออกใบอนุญาตบริการการบิน)",
+   "id": "Peraturan Navigasi Udara (Perizinan Layanan Angkutan Udara)",
+   "ms": "Peraturan Navigasi Udara (Pelesenan Perkhidmatan Udara)"
+  },
+  "SG-H162": {
+   "vi": "Lệnh Hàng không (Lệ phí sân bay Paya Lebar và Tengah)",
+   "th": "คำสั่งการเดินอากาศ (ค่าธรรมเนียมสนามบินปายาเลอบาร์และเตองาห์)",
+   "id": "Perintah Navigasi Udara (Biaya Bandar Udara Paya Lebar dan Tengah)",
+   "ms": "Perintah Navigasi Udara (Fi Lapangan Terbang Paya Lebar dan Tengah)"
+  },
+  "SG-H163": {
+   "vi": "Lệnh Hàng không (Chuyến bay bị cấm)",
+   "th": "คำสั่งการเดินอากาศ (เที่ยวบินต้องห้าม)",
+   "id": "Perintah Navigasi Udara (Penerbangan Terlarang)",
+   "ms": "Perintah Navigasi Udara (Penerbangan Larangan)"
+  },
+  "SG-H164": {
+   "vi": "Lệnh Hàng không (Khu vực được bảo vệ — cơ sở sư đoàn lục quân) 2024",
+   "th": "คำสั่งการเดินอากาศ (พื้นที่คุ้มครอง — สถานที่ของกองพลทหารบก) 2024",
+   "id": "Perintah Navigasi Udara (Kawasan Dilindungi — Fasilitas Divisi Angkatan Darat) 2024",
+   "ms": "Perintah Navigasi Udara (Kawasan Dilindungi — Kemudahan Divisyen Tentera Darat) 2024"
+  },
+  "SG-H165": {
+   "vi": "Lệnh Hàng không (Khu vực được bảo vệ — cơ sở bộ chỉ huy lục quân và đơn vị) 2024",
+   "th": "คำสั่งการเดินอากาศ (พื้นที่คุ้มครอง — สถานที่กองบัญชาการทหารบกและหน่วยขึ้นตรง) 2024",
+   "id": "Perintah Navigasi Udara (Kawasan Dilindungi — Fasilitas Markas Angkatan Darat dan Formasi) 2024",
+   "ms": "Perintah Navigasi Udara (Kawasan Dilindungi — Kemudahan Ibu Pejabat Tentera Darat dan Formasi) 2024"
+  },
+  "SG-H166": {
+   "vi": "Lệnh Hàng không (Khu vực được bảo vệ — cơ sở lưu vực và tuyến thủy) 2024",
+   "th": "คำสั่งการเดินอากาศ (พื้นที่คุ้มครอง — สถานที่ลุ่มน้ำและทางน้ำ) 2024",
+   "id": "Perintah Navigasi Udara (Kawasan Dilindungi — Fasilitas Daerah Tangkapan Air dan Perairan) 2024",
+   "ms": "Perintah Navigasi Udara (Kawasan Dilindungi — Kemudahan Kawasan Tadahan dan Saliran) 2024"
+  },
+  "SG-H167": {
+   "vi": "Lệnh Hàng không (Khu vực được bảo vệ — cơ sở quân sự ngoài khơi) 2024",
+   "th": "คำสั่งการเดินอากาศ (พื้นที่คุ้มครอง — สถานที่ทางทหารนอกชายฝั่ง) 2024",
+   "id": "Perintah Navigasi Udara (Kawasan Dilindungi — Fasilitas Lepas Pantai Militer) 2024",
+   "ms": "Perintah Navigasi Udara (Kawasan Dilindungi — Kemudahan Luar Pesisir Tentera) 2024"
+  },
+  "SG-H168": {
+   "vi": "Lệnh Hàng không (Khu vực được bảo vệ — cơ sở huấn luyện quân sự 1) 2024",
+   "th": "คำสั่งการเดินอากาศ (พื้นที่คุ้มครอง — สถานที่ฝึกทหาร 1) 2024",
+   "id": "Perintah Navigasi Udara (Kawasan Dilindungi — Fasilitas Latihan Militer 1) 2024",
+   "ms": "Perintah Navigasi Udara (Kawasan Dilindungi — Kemudahan Latihan Tentera 1) 2024"
+  },
+  "SG-H169": {
+   "vi": "Lệnh Hàng không (Khu vực được bảo vệ — cơ sở huấn luyện quân sự 2) 2024",
+   "th": "คำสั่งการเดินอากาศ (พื้นที่คุ้มครอง — สถานที่ฝึกทหาร 2) 2024",
+   "id": "Perintah Navigasi Udara (Kawasan Dilindungi — Fasilitas Latihan Militer 2) 2024",
+   "ms": "Perintah Navigasi Udara (Kawasan Dilindungi — Kemudahan Latihan Tentera 2) 2024"
+  },
+  "SG-H170": {
+   "vi": "Lệnh Hàng không (Khu vực được bảo vệ — cơ sở huấn luyện quân sự 3) 2024",
+   "th": "คำสั่งการเดินอากาศ (พื้นที่คุ้มครอง — สถานที่ฝึกทหาร 3) 2024",
+   "id": "Perintah Navigasi Udara (Kawasan Dilindungi — Fasilitas Latihan Militer 3) 2024",
+   "ms": "Perintah Navigasi Udara (Kawasan Dilindungi — Kemudahan Latihan Tentera 3) 2024"
+  },
+  "SG-H171": {
+   "vi": "Lệnh Hàng không (Khu vực được bảo vệ — địa điểm phi quân sự) 2024",
+   "th": "คำสั่งการเดินอากาศ (พื้นที่คุ้มครอง — สถานที่ที่ไม่ใช่ทหาร) 2024",
+   "id": "Perintah Navigasi Udara (Kawasan Dilindungi — Tempat Non-Militer) 2024",
+   "ms": "Perintah Navigasi Udara (Kawasan Dilindungi — Tempat Bukan Tentera) 2024"
+  },
+  "SG-H172": {
+   "vi": "Lệnh Hàng không (Khu vực được bảo vệ — bệnh viện công lập) 2024",
+   "th": "คำสั่งการเดินอากาศ (พื้นที่คุ้มครอง — โรงพยาบาลของรัฐ) 2024",
+   "id": "Perintah Navigasi Udara (Kawasan Dilindungi — Rumah Sakit Pemerintah) 2024",
+   "ms": "Perintah Navigasi Udara (Kawasan Dilindungi — Hospital Kerajaan) 2024"
+  },
+  "SG-H173": {
+   "vi": "Lệnh Hàng không (Khu vực được bảo vệ — cơ sở Không quân Cộng hòa Singapore) 2024",
+   "th": "คำสั่งการเดินอากาศ (พื้นที่คุ้มครอง — สถานที่ของกองทัพอากาศสาธารณรัฐสิงคโปร์) 2024",
+   "id": "Perintah Navigasi Udara (Kawasan Dilindungi — Fasilitas Angkatan Udara Republik Singapura) 2024",
+   "ms": "Perintah Navigasi Udara (Kawasan Dilindungi — Kemudahan Tentera Udara Republik Singapura) 2024"
+  },
+  "SG-H174": {
+   "vi": "Lệnh Hàng không (Khu vực được bảo vệ — cơ sở Hải quân Cộng hòa Singapore) 2024",
+   "th": "คำสั่งการเดินอากาศ (พื้นที่คุ้มครอง — สถานที่ของกองทัพเรือสาธารณรัฐสิงคโปร์) 2024",
+   "id": "Perintah Navigasi Udara (Kawasan Dilindungi — Fasilitas Angkatan Laut Republik Singapura) 2024",
+   "ms": "Perintah Navigasi Udara (Kawasan Dilindungi — Kemudahan Tentera Laut Republik Singapura) 2024"
+  },
+  "SG-H175": {
+   "vi": "Lệnh Hàng không (Khu vực được bảo vệ — cơ sở viễn thông) 2024",
+   "th": "คำสั่งการเดินอากาศ (พื้นที่คุ้มครอง — สถานที่โทรคมนาคม) 2024",
+   "id": "Perintah Navigasi Udara (Kawasan Dilindungi — Fasilitas Telekomunikasi) 2024",
+   "ms": "Perintah Navigasi Udara (Kawasan Dilindungi — Kemudahan Telekomunikasi) 2024"
+  },
+  "SG-H176": {
+   "vi": "Lệnh Hàng không (Khu vực được bảo vệ — nhà máy cấp nước và tái chế nước) 2024",
+   "th": "คำสั่งการเดินอากาศ (พื้นที่คุ้มครอง — โรงงานประปาและโรงงานผลิตน้ำกลับมาใช้ใหม่) 2024",
+   "id": "Perintah Navigasi Udara (Kawasan Dilindungi — Instalasi Penyediaan dan Daur Ulang Air) 2024",
+   "ms": "Perintah Navigasi Udara (Kawasan Dilindungi — Loji Bekalan dan Penghasilan Semula Air) 2024"
+  },
+  "SG-H178": {
+   "vi": "Quy chế Hàng không (Đại lý hàng hóa hàng không được quản lý và người gửi hàng đã biết) 2017",
+   "th": "ข้อบังคับการเดินอากาศ (ตัวแทนขนส่งสินค้าทางอากาศที่ถูกกำกับและผู้ส่งสินค้าที่รู้จัก) 2017",
+   "id": "Peraturan Navigasi Udara (Agen Kargo Udara yang Diatur dan Pengirim Barang Dikenal) 2017",
+   "ms": "Peraturan Navigasi Udara (Ejen Kargo Udara yang Dikawal dan Penghantar Barang Dikenali) 2017"
+  },
+  "SG-H179": {
+   "vi": "Quy tắc Hàng không (Báo cáo tự nguyện) 2020",
+   "th": "กฎการเดินอากาศ (การรายงานโดยสมัครใจ) 2020",
+   "id": "Peraturan Navigasi Udara (Pelaporan Sukarela) 2020",
+   "ms": "Kaedah Navigasi Udara (Pelaporan Sukarela) 2020"
+  },
+  "SG-H180": {
+   "vi": "Quy chế Hàng không (Xác tàu bay và trục vớt máy bay)",
+   "th": "ข้อบังคับการเดินอากาศ (ซากอากาศยานและการกู้ภัยอากาศยาน)",
+   "id": "Peraturan Navigasi Udara (Reruntuhan dan Penyelamatan Pesawat)",
+   "ms": "Peraturan Navigasi Udara (Serpihan dan Penyelamatan Pesawat)"
+  },
+  "SG-H183": {
+   "vi": "Quy chế Các ngành Y tế Tổng hợp (Hành vi và kỷ luật nghề nghiệp) 2013",
+   "th": "ข้อบังคับวิชาชีพสุขภาพแบบผสมผสาน (ความประพฤติและวินัยวิชาชีพ) 2013",
+   "id": "Peraturan Profesi Kesehatan Terpadu (Perilaku dan Disiplin Profesional) 2013",
+   "ms": "Peraturan Profesion Kesihatan Bersekutu (Kelakuan dan Disiplin Profesional) 2013"
+  },
+  "SG-H188": {
+   "vi": "Quy chế An toàn trò chơi giải trí (Hệ thống quản lý chữa cháy và cứu nạn) 2011",
+   "th": "ข้อบังคับความปลอดภัยเครื่องเล่น (ระบบการจัดการดับเพลิงและกู้ภัย) 2011",
+   "id": "Peraturan Keselamatan Wahana Permainan (Sistem Manajemen Kebakaran dan Penyelamatan) 2011",
+   "ms": "Peraturan Keselamatan Tunggangan Hiburan (Sistem Pengurusan Kebakaran dan Penyelamatan) 2011"
+  },
+  "SG-H196": {
+   "vi": "Thông báo Động vật và chim (Miễn trừ theo Điều 48(1)) 2024",
+   "th": "ประกาศสัตว์และนก (การยกเว้นตามมาตรา 48(1)) 2024",
+   "id": "Pemberitahuan Hewan dan Burung (Pembebasan Pasal 48(1)) 2024",
+   "ms": "Pemberitahuan Haiwan dan Burung (Pengecualian Seksyen 48(1)) 2024"
+  },
+  "SG-H199": {
+   "vi": "Lệnh Động vật và chim (Nhập khẩu) 2009",
+   "th": "คำสั่งสัตว์และนก (การนำเข้า) 2009",
+   "id": "Perintah Hewan dan Burung (Impor) 2009",
+   "ms": "Perintah Haiwan dan Burung (Import) 2009"
+  },
+  "SG-H200": {
+   "vi": "Quy tắc Động vật và chim (Cấp phép và kiểm soát chó mèo) 2024",
+   "th": "กฎสัตว์และนก (การออกใบอนุญาตและการควบคุมสุนัขและแมว) 2024",
+   "id": "Peraturan Hewan dan Burung (Perizinan dan Pengendalian Kucing dan Anjing) 2024",
+   "ms": "Kaedah Haiwan dan Burung (Pelesenan dan Kawalan Kucing dan Anjing) 2024"
+  },
+  "SG-H201": {
+   "vi": "Quy tắc Động vật và chim (Cấp phép trang trại)",
+   "th": "กฎสัตว์และนก (การออกใบอนุญาตฟาร์ม)",
+   "id": "Peraturan Hewan dan Burung (Perizinan Peternakan)",
+   "ms": "Kaedah Haiwan dan Burung (Pelesenan Ladang)"
+  },
+  "SG-H202": {
+   "vi": "Quy tắc Động vật và chim (Cấp phép cơ sở cho cửa hàng thú cưng và các mục đích khác)",
+   "th": "กฎสัตว์และนก (การออกใบอนุญาตสถานที่สำหรับร้านขายสัตว์เลี้ยงและวัตถุประสงค์อื่น)",
+   "id": "Peraturan Hewan dan Burung (Perizinan Tempat untuk Toko Hewan dan Tujuan Lain)",
+   "ms": "Kaedah Haiwan dan Burung (Pelesenan Premis untuk Kedai Haiwan dan Tujuan Lain)"
+  },
+  "SG-H203": {
+   "vi": "Quy tắc Động vật và chim (Cá sống) 2011",
+   "th": "กฎสัตว์และนก (ปลาเป็น) 2011",
+   "id": "Peraturan Hewan dan Burung (Ikan Hidup) 2011",
+   "ms": "Kaedah Haiwan dan Burung (Ikan Hidup) 2011"
+  },
+  "SG-H204": {
+   "vi": "Quy tắc Động vật và chim (Bồ câu)",
+   "th": "กฎสัตว์และนก (นกพิราบ)",
+   "id": "Peraturan Hewan dan Burung (Merpati)",
+   "ms": "Kaedah Haiwan dan Burung (Merpati)"
+  },
+  "SG-H205": {
+   "vi": "Quy tắc Động vật và chim (Cá piranha) 2019",
+   "th": "กฎสัตว์และนก (ปลาปิรันยา) 2019",
+   "id": "Peraturan Hewan dan Burung (Piranha) 2019",
+   "ms": "Kaedah Haiwan dan Burung (Piranha) 2019"
+  },
+  "SG-H206": {
+   "vi": "Quy tắc Động vật và chim (Các nhóm động vật theo quy định) 2015",
+   "th": "กฎสัตว์และนก (ประเภทสัตว์ตามที่กำหนด) 2015",
+   "id": "Peraturan Hewan dan Burung (Kelas Hewan yang Ditetapkan) 2015",
+   "ms": "Kaedah Haiwan dan Burung (Kelas Haiwan yang Ditetapkan) 2015"
+  },
+  "SG-H207": {
+   "vi": "Quy tắc Động vật và chim (Phòng chống bệnh ở gia cầm không thương mại)",
+   "th": "กฎสัตว์และนก (การป้องกันโรคในสัตว์ปีกที่ไม่ใช่เชิงพาณิชย์)",
+   "id": "Peraturan Hewan dan Burung (Pencegahan Penyakit pada Unggas Non-Komersial)",
+   "ms": "Kaedah Haiwan dan Burung (Pencegahan Penyakit pada Unggas Bukan Komersial)"
+  },
+  "SG-H208": {
+   "vi": "Quy tắc Động vật và chim (Cấm gia cầm sống trên đảo Pulau Ubin)",
+   "th": "กฎสัตว์และนก (การห้ามสัตว์ปีกมีชีวิตบนเกาะปูเลาอูบิน)",
+   "id": "Peraturan Hewan dan Burung (Larangan Unggas Hidup di Pulau Ubin)",
+   "ms": "Kaedah Haiwan dan Burung (Larangan Unggas Hidup di Pulau Ubin)"
+  },
+  "SG-H209": {
+   "vi": "Quy tắc Động vật và chim (Trung tâm thú y)",
+   "th": "กฎสัตว์และนก (ศูนย์สัตวแพทย์)",
+   "id": "Peraturan Hewan dan Burung (Pusat Veteriner)",
+   "ms": "Kaedah Haiwan dan Burung (Pusat Veterinar)"
+  },
+  "SG-H238": {
+   "vi": "Thông báo Bổ nhiệm Cơ quan đăng ký và Phó Cơ quan đăng ký (Hợp nhất)",
+   "th": "ประกาศการแต่งตั้งนายทะเบียนและรองนายทะเบียน (การรวมฉบับ)",
+   "id": "Pemberitahuan Pengangkatan Registrar dan Wakil Registrar (Konsolidasi)",
+   "ms": "Pemberitahuan Pelantikan Pendaftar dan Timbalan Pendaftar (Penyatuan)"
+  },
+  "SG-H243": {
+   "vi": "Thông báo Công ty tài chính được chấp thuận (Hợp nhất)",
+   "th": "ประกาศบริษัทการเงินที่ได้รับอนุมัติ (การรวมฉบับ)",
+   "id": "Pemberitahuan Perusahaan Pembiayaan yang Disetujui (Konsolidasi)",
+   "ms": "Pemberitahuan Syarikat Kewangan yang Diluluskan (Penyatuan)"
+  },
+  "SG-H247": {
+   "vi": "Thông báo Trình độ được chấp thuận cho bác sĩ thú y (Hợp nhất)",
+   "th": "ประกาศคุณสมบัติที่ได้รับอนุมัติสำหรับสัตวแพทย์ (การรวมฉบับ)",
+   "id": "Pemberitahuan Kualifikasi yang Disetujui bagi Dokter Hewan (Konsolidasi)",
+   "ms": "Pemberitahuan Kelayakan yang Diluluskan bagi Doktor Veterinar (Penyatuan)"
+  },
+  "SG-H250": {
+   "vi": "Luật Trọng tài (Tranh chấp đầu tư quốc tế) 1968",
+   "th": "พระราชบัญญัติอนุญาโตตุลาการ (ข้อพิพาทการลงทุนระหว่างประเทศ) 1968",
+   "id": "Undang-Undang tentang Arbitrase (Sengketa Investasi Internasional) 1968",
+   "ms": "Akta Timbang Tara (Pertikaian Pelaburan Antarabangsa) 1968"
+  },
+  "SG-H251": {
+   "vi": "Quy tắc Trọng tài (Tranh chấp đầu tư quốc tế)",
+   "th": "กฎอนุญาโตตุลาการ (ข้อพิพาทการลงทุนระหว่างประเทศ)",
+   "id": "Peraturan Arbitrase (Sengketa Investasi Internasional)",
+   "ms": "Kaedah Timbang Tara (Pertikaian Pelaburan Antarabangsa)"
+  },
+  "SG-H254": {
+   "vi": "Lệnh Kiến trúc sư (Miễn trừ yêu cầu về kinh nghiệm) 2017",
+   "th": "คำสั่งสถาปนิก (การยกเว้นข้อกำหนดด้านประสบการณ์) 2017",
+   "id": "Perintah Arsitek (Pembebasan dari Persyaratan Pengalaman) 2017",
+   "ms": "Perintah Arkitek (Pengecualian daripada Keperluan Pengalaman) 2017"
+  },
+  "SG-H255": {
+   "vi": "Lệnh Kiến trúc sư (Miễn trừ giấy chứng nhận hành nghề) 2017",
+   "th": "คำสั่งสถาปนิก (การยกเว้นใบอนุญาตประกอบวิชาชีพ) 2017",
+   "id": "Perintah Arsitek (Pembebasan dari Sertifikat Praktik) 2017",
+   "ms": "Perintah Arkitek (Pengecualian daripada Sijil Amalan) 2017"
+  },
+  "SG-H256": {
+   "vi": "Thông báo Kiến trúc sư (Số vốn điều lệ đã góp theo quy định) 2005",
+   "th": "ประกาศสถาปนิก (จำนวนทุนจดทะเบียนที่ชำระแล้วตามที่กำหนด) 2005",
+   "id": "Pemberitahuan Arsitek (Jumlah Modal Disetor yang Ditetapkan) 2005",
+   "ms": "Pemberitahuan Arkitek (Jumlah Modal Berbayar yang Ditetapkan) 2005"
+  },
+  "SG-H257": {
+   "vi": "Quy tắc Kiến trúc sư (Hành vi và đạo đức nghề nghiệp) 2001",
+   "th": "กฎสถาปนิก (ความประพฤติและจริยธรรมวิชาชีพ) 2001",
+   "id": "Peraturan Arsitek (Perilaku dan Etika Profesional) 2001",
+   "ms": "Kaedah Arkitek (Kelakuan dan Etika Profesional) 2001"
+  },
+  "SG-H260": {
+   "vi": "Thông báo Vũ khí và vật liệu nổ (Vũ khí) (Thu hồi) 2025",
+   "th": "ประกาศอาวุธและวัตถุระเบิด (อาวุธ) (การเพิกถอน) 2025",
+   "id": "Pemberitahuan Senjata dan Bahan Peledak (Senjata) (Pencabutan) 2025",
+   "ms": "Pemberitahuan Senjata dan Bahan Letupan (Senjata) (Pembatalan) 2025"
+  },
+  "SG-H281": {
+   "vi": "Quy chế Ngân hàng (Miễn trừ theo Điều 29(4) và (5)) 2009",
+   "th": "ข้อบังคับการธนาคาร (การยกเว้นตามมาตรา 29(4) และ (5)) 2009",
+   "id": "Peraturan Perbankan (Pembebasan Pasal 29(4) dan (5)) 2009",
+   "ms": "Peraturan Perbankan (Pengecualian Seksyen 29(4) dan (5)) 2009"
+  },
+  "SG-H282": {
+   "vi": "Thông báo Ngân hàng (Miễn trừ theo Điều 4A (1) và (2)) (Hợp nhất)",
+   "th": "ประกาศการธนาคาร (การยกเว้นตามมาตรา 4A (1) และ (2)) (การรวมฉบับ)",
+   "id": "Pemberitahuan Perbankan (Pembebasan Pasal 4A (1) dan (2)) (Konsolidasi)",
+   "ms": "Pemberitahuan Perbankan (Pengecualian Seksyen 4A (1) dan (2)) (Penyatuan)"
+  },
+  "SG-H283": {
+   "vi": "Thông báo Ngân hàng (Miễn trừ theo Điều 4A (1) và (2)) (Số 2) 2005",
+   "th": "ประกาศการธนาคาร (การยกเว้นตามมาตรา 4A (1) และ (2)) (ฉบับที่ 2) 2005",
+   "id": "Pemberitahuan Perbankan (Pembebasan Pasal 4A (1) dan (2)) (Nomor 2) 2005",
+   "ms": "Pemberitahuan Perbankan (Pengecualian Seksyen 4A (1) dan (2)) (No. 2) 2005"
+  },
+  "SG-H284": {
+   "vi": "Thông báo Ngân hàng (Miễn trừ theo Điều 4A (1) và (2)) 2004",
+   "th": "ประกาศการธนาคาร (การยกเว้นตามมาตรา 4A (1) และ (2)) 2004",
+   "id": "Pemberitahuan Perbankan (Pembebasan Pasal 4A (1) dan (2)) 2004",
+   "ms": "Pemberitahuan Perbankan (Pengecualian Seksyen 4A (1) dan (2)) 2004"
+  },
+  "SG-H285": {
+   "vi": "Thông báo Ngân hàng (Miễn trừ theo Điều 4A (1) và (2)) 2006",
+   "th": "ประกาศการธนาคาร (การยกเว้นตามมาตรา 4A (1) และ (2)) 2006",
+   "id": "Pemberitahuan Perbankan (Pembebasan Pasal 4A (1) dan (2)) 2006",
+   "ms": "Pemberitahuan Perbankan (Pengecualian Seksyen 4A (1) dan (2)) 2006"
+  },
+  "SG-H286": {
+   "vi": "Thông báo Ngân hàng (Miễn trừ theo Điều 4A(1) và (2)) 2005",
+   "th": "ประกาศการธนาคาร (การยกเว้นตามมาตรา 4A(1) และ (2)) 2005",
+   "id": "Pemberitahuan Perbankan (Pembebasan Pasal 4A(1) dan (2)) 2005",
+   "ms": "Pemberitahuan Perbankan (Pengecualian Seksyen 4A(1) dan (2)) 2005"
+  },
+  "SG-H295": {
+   "vi": "Lệnh Ngân hàng (Tiền phạt theo Điều 38 và 39) 2024",
+   "th": "คำสั่งการธนาคาร (ค่าปรับตามมาตรา 38 และ 39) 2024",
+   "id": "Perintah Perbankan (Sanksi Finansial menurut Pasal 38 dan 39) 2024",
+   "ms": "Perintah Perbankan (Penalti Kewangan di bawah Seksyen 38 dan 39) 2024"
+  },
+  "SG-H296": {
+   "vi": "Quy chế Ngân hàng (Xúi giục sử dụng thẻ tín dụng hoặc thẻ chi trả để mua bất động sản nhà ở)",
+   "th": "ข้อบังคับการธนาคาร (การชักจูงให้ใช้บัตรเครดิตหรือบัตรเรียกเก็บเงินเพื่อซื้ออสังหาริมทรัพย์ที่อยู่อาศัย)",
+   "id": "Peraturan Perbankan (Dorongan Penggunaan Kartu Kredit atau Kartu Tagihan untuk Pembelian Properti Hunian)",
+   "ms": "Peraturan Perbankan (Dorongan Penggunaan Kad Kredit atau Kad Caj untuk Pembelian Hartanah Kediaman)"
+  },
+  "SG-H297": {
+   "vi": "Quy chế Ngân hàng (Ngân hàng thương gia) 2021",
+   "th": "ข้อบังคับการธนาคาร (ธนาคารพาณิชย์เพื่อธุรกิจ) 2021",
+   "id": "Peraturan Perbankan (Bank Pedagang) 2021",
+   "ms": "Peraturan Perbankan (Bank Pedagang) 2021"
+  },
+  "SG-H298": {
+   "vi": "Thông báo Ngân hàng (Quan hệ nghề nghiệp)",
+   "th": "ประกาศการธนาคาร (ความสัมพันธ์ทางวิชาชีพ)",
+   "id": "Pemberitahuan Perbankan (Hubungan Profesional)",
+   "ms": "Pemberitahuan Perbankan (Hubungan Profesional)"
+  },
+  "SG-H299": {
+   "vi": "Quy chế Ngân hàng (Công bố và cung cấp báo cáo tài chính)",
+   "th": "ข้อบังคับการธนาคาร (การเผยแพร่และการจัดหางบการเงิน)",
+   "id": "Peraturan Perbankan (Publikasi dan Penyediaan Laporan Keuangan)",
+   "ms": "Peraturan Perbankan (Penerbitan dan Penyediaan Akaun)"
+  },
+  "SG-H300": {
+   "vi": "Lệnh Ngân hàng (Công ty con đủ điều kiện) (Quy định chuyển tiếp) 2001",
+   "th": "คำสั่งการธนาคาร (บริษัทย่อยที่เข้าเกณฑ์) (บทบัญญัติเฉพาะกาล) 2001",
+   "id": "Perintah Perbankan (Anak Perusahaan yang Memenuhi Syarat) (Ketentuan Peralihan) 2001",
+   "ms": "Perintah Perbankan (Anak Syarikat yang Layak) (Peruntukan Peralihan) 2001"
+  },
+  "SG-H303": {
+   "vi": "Thông báo Cá cược (Nhà điều hành sòng bạc — Miễn trừ) 2010",
+   "th": "ประกาศการพนัน (ผู้ประกอบการคาสิโน — การยกเว้น) 2010",
+   "id": "Pemberitahuan Taruhan (Operator Kasino — Pembebasan) 2010",
+   "ms": "Pemberitahuan Pertaruhan (Pengendali Kasino — Pengecualian) 2010"
+  },
+  "SG-H304": {
+   "vi": "Thông báo Cá cược (Miễn trừ) 2009",
+   "th": "ประกาศการพนัน (การยกเว้น) 2009",
+   "id": "Pemberitahuan Taruhan (Pembebasan) 2009",
+   "ms": "Pemberitahuan Pertaruhan (Pengecualian) 2009"
+  },
+  "SG-H305": {
+   "vi": "Thông báo Cá cược (Hội đồng Cá cược Singapore — Miễn trừ) 2019",
+   "th": "ประกาศการพนัน (คณะกรรมการทายผลสิงคโปร์ — การยกเว้น) 2019",
+   "id": "Pemberitahuan Taruhan (Dewan Totalisator Singapura — Pembebasan) 2019",
+   "ms": "Pemberitahuan Pertaruhan (Lembaga Totalisator Singapura — Pengecualian) 2019"
+  },
+  "SG-H310": {
+   "vi": "Quy tắc Chứng thư Bán tài sản (Di chuyển sổ sách và giấy tờ)",
+   "th": "กฎตราสารขายทรัพย์ (การเคลื่อนย้ายสมุดบัญชีและเอกสาร)",
+   "id": "Peraturan Surat Ikatan Jualan (Pemindahan Buku dan Dokumen)",
+   "ms": "Kaedah Surat Ikatan Jualan (Pengalihan Buku dan Dokumen)"
+  },
+  "SG-H315": {
+   "vi": "Quy chế Tác nhân Sinh học và Độc tố (Kiểm tra năng lực) 2008",
+   "th": "ข้อบังคับเชื้อก่อโรคและสารพิษ (การทดสอบความชำนาญ) 2008",
+   "id": "Peraturan Agen Biologis dan Toksin (Uji Kemampuan) 2008",
+   "ms": "Peraturan Agen Biologi dan Toksin (Ujian Kecekapan) 2008"
+  },
+  "SG-H316": {
+   "vi": "Quy chế Tác nhân Sinh học và Độc tố (Vận chuyển) 2005",
+   "th": "ข้อบังคับเชื้อก่อโรคและสารพิษ (การขนส่ง) 2005",
+   "id": "Peraturan Agen Biologis dan Toksin (Pengangkutan) 2005",
+   "ms": "Peraturan Agen Biologi dan Toksin (Pengangkutan) 2005"
+  },
+  "SG-H322": {
+   "vi": "Quy tắc Ranh giới và bản đồ đo đạc (Dịch vụ sản xuất bản đồ) 2001",
+   "th": "กฎเขตแดนและแผนที่รังวัด (บริการจัดทำแผนที่) 2001",
+   "id": "Peraturan Batas dan Peta Ukur (Layanan Produksi Peta) 2001",
+   "ms": "Kaedah Sempadan dan Peta Ukur (Perkhidmatan Pengeluaran Peta) 2001"
+  },
+  "SG-H325": {
+   "vi": "Quy tắc Ranh giới và bản đồ đo đạc (Lệ phí của Cơ quan Đất đai Singapore) 2005",
+   "th": "กฎเขตแดนและแผนที่รังวัด (ค่าธรรมเนียมสำนักงานที่ดินสิงคโปร์) 2005",
+   "id": "Peraturan Batas dan Peta Ukur (Biaya Badan Pertanahan Singapura) 2005",
+   "ms": "Kaedah Sempadan dan Peta Ukur (Fi Pihak Berkuasa Tanah Singapura) 2005"
+  },
+  "SG-H333": {
+   "vi": "Lệnh Phát sóng (Miễn trừ dịch vụ phát sóng của các cơ sở giáo dục) 2010",
+   "th": "คำสั่งการแพร่ภาพกระจายเสียง (การยกเว้นบริการกระจายเสียงของสถาบันการศึกษา) 2010",
+   "id": "Perintah Penyiaran (Pembebasan Layanan Penyiaran oleh Institusi Pendidikan) 2010",
+   "ms": "Perintah Penyiaran (Pengecualian Perkhidmatan Penyiaran oleh Institusi Pendidikan) 2010"
+  },
+  "SG-H339": {
+   "vi": "Quy tắc Phát sóng (Thủ tục quy tắc thực hành trực tuyến) 2023",
+   "th": "กฎการแพร่ภาพกระจายเสียง (กระบวนการจรรยาบรรณปฏิบัติออนไลน์) 2023",
+   "id": "Peraturan Penyiaran (Prosedur Kode Praktik Daring) 2023",
+   "ms": "Kaedah Penyiaran (Prosedur Kod Amalan Dalam Talian) 2023"
+  },
+  "SG-H340": {
+   "vi": "Thông báo Phát sóng (Trang web tống đạt tài liệu) 2023",
+   "th": "ประกาศการแพร่ภาพกระจายเสียง (เว็บไซต์การส่งเอกสาร) 2023",
+   "id": "Pemberitahuan Penyiaran (Situs Web Penyampaian Dokumen) 2023",
+   "ms": "Pemberitahuan Penyiaran (Laman Web Penyerahan Dokumen) 2023"
+  },
+  "SG-H341": {
+   "vi": "Quy chế Phát sóng (Hệ thống TVRO)",
+   "th": "ข้อบังคับการแพร่ภาพกระจายเสียง (ระบบ TVRO)",
+   "id": "Peraturan Penyiaran (Sistem TVRO)",
+   "ms": "Peraturan Penyiaran (Sistem TVRO)"
+  },
+  "SG-H344": {
+   "vi": "Quy chế Xây dựng (Quản lý phân tầng) (Xử phạt vi phạm) 2005",
+   "th": "ข้อบังคับอาคาร (การจัดการอาคารชุด) (การเปรียบเทียบคดีความผิด) 2005",
+   "id": "Peraturan Bangunan (Pengelolaan Strata) (Penyelesaian Pelanggaran di Luar Pengadilan) 2005",
+   "ms": "Peraturan Bangunan (Pengurusan Strata) (Penyelesaian Kesalahan di Luar Mahkamah) 2005"
+  },
+  "SG-H345": {
+   "vi": "Luật Xây dựng (Quản lý phân tầng) 2004",
+   "th": "พระราชบัญญัติอาคาร (การจัดการอาคารชุด) 2004",
+   "id": "Undang-Undang tentang Bangunan (Pengelolaan Strata) 2004",
+   "ms": "Akta Bangunan (Pengurusan Strata) 2004"
+  },
+  "SG-H348": {
+   "vi": "Quy chế Cơ quan Xây dựng và Thi công (Cấp phép nhà nhập khẩu) 2011",
+   "th": "ข้อบังคับองค์การอาคารและการก่อสร้าง (การออกใบอนุญาตผู้นำเข้า) 2011",
+   "id": "Peraturan Otoritas Bangunan dan Konstruksi (Perizinan Importir) 2011",
+   "ms": "Peraturan Pihak Berkuasa Bangunan dan Pembinaan (Pelesenan Pengimport) 2011"
+  },
+  "SG-H349": {
+   "vi": "Quy chế Cơ quan Xây dựng và Thi công (Đăng ký nhân sự xây dựng) 2008",
+   "th": "ข้อบังคับองค์การอาคารและการก่อสร้าง (การขึ้นทะเบียนบุคลากรก่อสร้าง) 2008",
+   "id": "Peraturan Otoritas Bangunan dan Konstruksi (Pendaftaran Tenaga Konstruksi) 2008",
+   "ms": "Peraturan Pihak Berkuasa Bangunan dan Pembinaan (Pendaftaran Kakitangan Pembinaan) 2008"
+  },
+  "SG-H357": {
+   "vi": "Quy chế Kiểm soát xây dựng (Biện pháp bền vững môi trường cho tòa nhà hiện hữu) 2013",
+   "th": "ข้อบังคับการควบคุมอาคาร (มาตรการความยั่งยืนด้านสิ่งแวดล้อมสำหรับอาคารที่มีอยู่) 2013",
+   "id": "Peraturan Pengendalian Bangunan (Tindakan Keberlanjutan Lingkungan untuk Bangunan Eksisting) 2013",
+   "ms": "Peraturan Kawalan Bangunan (Langkah Kelestarian Alam Sekitar bagi Bangunan Sedia Ada) 2013"
+  },
+  "SG-H358": {
+   "vi": "Quy chế Kiểm soát xây dựng (Bền vững môi trường) 2008",
+   "th": "ข้อบังคับการควบคุมอาคาร (ความยั่งยืนด้านสิ่งแวดล้อม) 2008",
+   "id": "Peraturan Pengendalian Bangunan (Keberlanjutan Lingkungan) 2008",
+   "ms": "Peraturan Kawalan Bangunan (Kelestarian Alam Sekitar) 2008"
+  },
+  "SG-H359": {
+   "vi": "Lệnh Kiểm soát xây dựng (Giá cuối cùng ước tính cho giấy phép nhà thầu xây dựng tổng hợp loại 2) 2008",
+   "th": "คำสั่งการควบคุมอาคาร (ราคาสุดท้ายโดยประมาณสำหรับใบอนุญาตผู้รับเหมาก่อสร้างทั่วไปประเภท 2) 2008",
+   "id": "Perintah Pengendalian Bangunan (Perkiraan Harga Akhir untuk Izin Pemborong Umum Kelas 2) 2008",
+   "ms": "Perintah Kawalan Bangunan (Anggaran Harga Akhir bagi Lesen Pembina Am Kelas 2) 2008"
+  },
+  "SG-H360": {
+   "vi": "Lệnh Kiểm soát xây dựng (Công trình xây dựng được miễn trừ)",
+   "th": "คำสั่งการควบคุมอาคาร (งานก่อสร้างที่ได้รับการยกเว้น)",
+   "id": "Perintah Pengendalian Bangunan (Pekerjaan Bangunan yang Dikecualikan)",
+   "ms": "Perintah Kawalan Bangunan (Kerja Bangunan yang Dikecualikan)"
+  },
+  "SG-H361": {
+   "vi": "Lệnh Kiểm soát xây dựng (Hệ thống lắp đặt cố định và công trình lắp đặt cố định được miễn trừ) 2025",
+   "th": "คำสั่งการควบคุมอาคาร (ระบบติดตั้งถาวรและงานติดตั้งถาวรที่ได้รับการยกเว้น) 2025",
+   "id": "Perintah Pengendalian Bangunan (Instalasi Tetap dan Pekerjaan Instalasi Tetap yang Dikecualikan) 2025",
+   "ms": "Perintah Kawalan Bangunan (Pepasangan Kekal dan Kerja Pepasangan Kekal yang Dikecualikan) 2025"
+  },
+  "SG-H362": {
+   "vi": "Lệnh Kiểm soát xây dựng (Công trình quân sự và công trình xây dựng quân sự được miễn trừ) 2008",
+   "th": "คำสั่งการควบคุมอาคาร (อาคารทหารและงานก่อสร้างอาคารทหารที่ได้รับการยกเว้น) 2008",
+   "id": "Perintah Pengendalian Bangunan (Bangunan Militer dan Pekerjaan Bangunan Militer yang Dikecualikan) 2008",
+   "ms": "Perintah Kawalan Bangunan (Bangunan Tentera dan Kerja Bangunan Tentera yang Dikecualikan) 2008"
+  },
+  "SG-H363": {
+   "vi": "Lệnh Kiểm soát xây dựng (Miễn trừ yêu cầu về tổ chức kiểm tra được công nhận)",
+   "th": "คำสั่งการควบคุมอาคาร (การยกเว้นข้อกำหนดขององค์กรตรวจสอบที่ได้รับการรับรอง)",
+   "id": "Perintah Pengendalian Bangunan (Pembebasan dari Persyaratan Organisasi Pemeriksa Terakreditasi)",
+   "ms": "Perintah Kawalan Bangunan (Pengecualian daripada Keperluan Organisasi Pemeriksa Bertauliah)"
+  },
+  "SG-H364": {
+   "vi": "Lệnh Kiểm soát xây dựng (Miễn trừ Điều 12 đối với tòa nhà đang xây dựng được dùng làm nhà ở công nhân) 2008",
+   "th": "คำสั่งการควบคุมอาคาร (การยกเว้นมาตรา 12 สำหรับอาคารระหว่างก่อสร้างที่ใช้เป็นที่พักคนงาน) 2008",
+   "id": "Perintah Pengendalian Bangunan (Pembebasan Pasal 12 bagi Bangunan dalam Pembangunan yang Digunakan sebagai Asrama Pekerja) 2008",
+   "ms": "Perintah Kawalan Bangunan (Pengecualian Seksyen 12 bagi Bangunan Dalam Pembinaan yang Digunakan sebagai Kuarters Pekerja) 2008"
+  },
+  "SG-H365": {
+   "vi": "Quy chế Kiểm soát xây dựng (Hệ thống lắp đặt cố định) 2025",
+   "th": "ข้อบังคับการควบคุมอาคาร (ระบบติดตั้งถาวร) 2025",
+   "id": "Peraturan Pengendalian Bangunan (Instalasi Tetap) 2025",
+   "ms": "Peraturan Kawalan Bangunan (Pepasangan Kekal) 2025"
+  },
+  "SG-H366": {
+   "vi": "Quy chế Kiểm soát xây dựng (Cấp phép nhà thầu xây dựng) 2008",
+   "th": "ข้อบังคับการควบคุมอาคาร (การออกใบอนุญาตผู้รับเหมาก่อสร้าง) 2008",
+   "id": "Peraturan Pengendalian Bangunan (Perizinan Pemborong Bangunan) 2008",
+   "ms": "Peraturan Kawalan Bangunan (Pelesenan Pembina) 2008"
+  },
+  "SG-H367": {
+   "vi": "Quy chế Kiểm soát xây dựng (Ý nghĩa của các đặc điểm ngoại thất) 2021",
+   "th": "ข้อบังคับการควบคุมอาคาร (ความหมายของคุณลักษณะภายนอกอาคาร) 2021",
+   "id": "Peraturan Pengendalian Bangunan (Arti Fitur Eksterior) 2021",
+   "ms": "Peraturan Kawalan Bangunan (Maksud Ciri Luaran) 2021"
+  },
+  "SG-H368": {
+   "vi": "Quy chế Kiểm soát xây dựng (Quảng cáo ngoài trời)",
+   "th": "ข้อบังคับการควบคุมอาคาร (การโฆษณากลางแจ้ง)",
+   "id": "Peraturan Pengendalian Bangunan (Periklanan Luar Ruang)",
+   "ms": "Peraturan Kawalan Bangunan (Pengiklanan Luar)"
+  },
+  "SG-H369": {
+   "vi": "Quy chế Kiểm soát xây dựng (Kiểm tra định kỳ tòa nhà và mặt tiền tòa nhà) 2021",
+   "th": "ข้อบังคับการควบคุมอาคาร (การตรวจสอบอาคารและผนังอาคารเป็นระยะ) 2021",
+   "id": "Peraturan Pengendalian Bangunan (Pemeriksaan Berkala Bangunan dan Fasad Bangunan) 2021",
+   "ms": "Peraturan Kawalan Bangunan (Pemeriksaan Berkala Bangunan dan Fasad Bangunan) 2021"
+  },
+  "SG-H370": {
+   "vi": "Thông báo Kiểm soát xây dựng (Tống đạt điện tử theo quy định tại Điều 42AA) 2023",
+   "th": "ประกาศการควบคุมอาคาร (การส่งเอกสารทางอิเล็กทรอนิกส์ตามที่กำหนดภายใต้มาตรา 42AA) 2023",
+   "id": "Pemberitahuan Pengendalian Bangunan (Penyampaian Elektronik yang Ditetapkan menurut Pasal 42AA) 2023",
+   "ms": "Pemberitahuan Kawalan Bangunan (Penyerahan Elektronik yang Ditetapkan di bawah Seksyen 42AA) 2023"
+  },
+  "SG-H371": {
+   "vi": "Quy chế Kiểm soát xây dựng (Quản lý nhà thầu lắp đặt cố định) 2022",
+   "th": "ข้อบังคับการควบคุมอาคาร (การกำกับผู้รับเหมาติดตั้งถาวร) 2022",
+   "id": "Peraturan Pengendalian Bangunan (Pengaturan Kontraktor Instalasi Tetap) 2022",
+   "ms": "Peraturan Kawalan Bangunan (Pengawalan Kontraktor Pepasangan Kekal) 2022"
+  },
+  "SG-H372": {
+   "vi": "Quy chế Kiểm soát xây dựng (Các vấn đề phải báo cáo) 2025",
+   "th": "ข้อบังคับการควบคุมอาคาร (เรื่องที่ต้องรายงาน) 2025",
+   "id": "Peraturan Pengendalian Bangunan (Hal yang Wajib Dilaporkan) 2025",
+   "ms": "Peraturan Kawalan Bangunan (Perkara yang Perlu Dilaporkan) 2025"
+  },
+  "SG-H373": {
+   "vi": "Lệnh Kiểm soát xây dựng (Cải tạo cửa sổ mở bản lề) 2004",
+   "th": "คำสั่งการควบคุมอาคาร (การปรับปรุงหน้าต่างบานเปิด) 2004",
+   "id": "Perintah Pengendalian Bangunan (Retrofit Jendela Engsel) 2004",
+   "ms": "Perintah Kawalan Bangunan (Pengubahsuaian Tingkap Buka) 2004"
+  },
+  "SG-H374": {
+   "vi": "Quy chế Kiểm soát xây dựng (Công trình tạm) 2018",
+   "th": "ข้อบังคับการควบคุมอาคาร (อาคารชั่วคราว) 2018",
+   "id": "Peraturan Pengendalian Bangunan (Bangunan Sementara) 2018",
+   "ms": "Peraturan Kawalan Bangunan (Bangunan Sementara) 2018"
+  },
+  "SG-H375": {
+   "vi": "Quy chế Kiểm soát xây dựng (Sử dụng tòa nhà đang xây dựng làm nhà ở công nhân) 2008",
+   "th": "ข้อบังคับการควบคุมอาคาร (การใช้ประโยชน์อาคารระหว่างก่อสร้างเป็นที่พักคนงาน) 2008",
+   "id": "Peraturan Pengendalian Bangunan (Penggunaan Bangunan dalam Pembangunan sebagai Asrama Pekerja) 2008",
+   "ms": "Peraturan Kawalan Bangunan (Penggunaan Bangunan Dalam Pembinaan sebagai Kuarters Pekerja) 2008"
+  },
+  "SG-H376": {
+   "vi": "Thông báo Kiểm soát xây dựng (Giá trị công trình xây dựng cần kiểm tra viên được công nhận từ tổ chức kiểm tra được công nhận) 2008",
+   "th": "ประกาศการควบคุมอาคาร (มูลค่างานก่อสร้างที่ต้องมีผู้ตรวจสอบที่ได้รับการรับรองจากองค์กรตรวจสอบที่ได้รับการรับรอง) 2008",
+   "id": "Pemberitahuan Pengendalian Bangunan (Nilai Pekerjaan Bangunan yang Memerlukan Pemeriksa Terakreditasi dari Organisasi Pemeriksa Terakreditasi) 2008",
+   "ms": "Pemberitahuan Kawalan Bangunan (Nilai Kerja Bangunan yang Memerlukan Pemeriksa Bertauliah daripada Organisasi Pemeriksa Bertauliah) 2008"
+  },
+  "SG-H377": {
+   "vi": "Lệnh Kiểm soát xây dựng (Giá trị các dự án công trình xây dựng tổng hợp quan trọng) 2008",
+   "th": "คำสั่งการควบคุมอาคาร (มูลค่าโครงการงานก่อสร้างอาคารทั่วไปที่สำคัญ) 2008",
+   "id": "Perintah Pengendalian Bangunan (Nilai Proyek Pekerjaan Bangunan Umum Signifikan) 2008",
+   "ms": "Perintah Kawalan Bangunan (Nilai Projek Kerja Bangunan Am Penting) 2008"
+  },
+  "SG-H380": {
+   "vi": "Quy chế Bảo trì tòa nhà (Quản lý phân tầng) 2005",
+   "th": "ข้อบังคับการบำรุงรักษาอาคาร (การจัดการอาคารชุด) 2005",
+   "id": "Peraturan Pemeliharaan Bangunan (Pengelolaan Strata) 2005",
+   "ms": "Peraturan Penyelenggaraan Bangunan (Pengurusan Strata) 2005"
+  },
+  "SG-H381": {
+   "vi": "Lệnh Bảo trì tòa nhà và quản lý nhà chung cư (Miễn trừ một số tổng công ty quản lý theo Điều 27(1))",
+   "th": "คำสั่งการบำรุงรักษาอาคารและการจัดการอาคารชุด (การยกเว้นนิติบุคคลอาคารชุดบางแห่งตามมาตรา 27(1))",
+   "id": "Perintah Pemeliharaan Bangunan dan Pengelolaan Strata (Pembebasan Badan Pengelola Tertentu dari Pasal 27(1))",
+   "ms": "Perintah Penyelenggaraan Bangunan dan Pengurusan Strata (Pengecualian Perbadanan Pengurusan Tertentu daripada Seksyen 27(1))"
+  },
+  "SG-H382": {
+   "vi": "Lệnh Bảo trì tòa nhà và quản lý nhà chung cư (Khu nhà ở tư nhân hóa của HDB — Miễn trừ)",
+   "th": "คำสั่งการบำรุงรักษาอาคารและการจัดการอาคารชุด (นิคมที่แปรรูปเป็นเอกชนของ HDB — การยกเว้น)",
+   "id": "Perintah Pemeliharaan Bangunan dan Pengelolaan Strata (Perumahan Swastanisasi HDB — Pembebasan)",
+   "ms": "Perintah Penyelenggaraan Bangunan dan Pengurusan Strata (Estet Diswastakan HDB — Pengecualian)"
+  },
+  "SG-H383": {
+   "vi": "Quy chế Bảo trì tòa nhà và quản lý nhà chung cư (Bảo trì thang máy, thang cuốn và tòa nhà) (Thu hồi) 2025",
+   "th": "ข้อบังคับการบำรุงรักษาอาคารและการจัดการอาคารชุด (การบำรุงรักษาลิฟต์ บันไดเลื่อน และอาคาร) (การเพิกถอน) 2025",
+   "id": "Peraturan Pemeliharaan Bangunan dan Pengelolaan Strata (Pemeliharaan Lift, Eskalator dan Bangunan) (Pencabutan) 2025",
+   "ms": "Peraturan Penyelenggaraan Bangunan dan Pengurusan Strata (Penyelenggaraan Lif, Eskalator dan Bangunan) (Pembatalan) 2025"
+  },
+  "SG-H384": {
+   "vi": "Lệnh Bảo trì tòa nhà và quản lý nhà chung cư (Tổng công ty quản lý quy mô nhỏ — Miễn trừ) 2018",
+   "th": "คำสั่งการบำรุงรักษาอาคารและการจัดการอาคารชุด (นิติบุคคลอาคารชุดขนาดเล็ก — การยกเว้น) 2018",
+   "id": "Perintah Pemeliharaan Bangunan dan Pengelolaan Strata (Badan Pengelola Kecil — Pembebasan) 2018",
+   "ms": "Perintah Penyelenggaraan Bangunan dan Pengurusan Strata (Perbadanan Pengurusan Kecil — Pengecualian) 2018"
+  },
+  "SG-H385": {
+   "vi": "Lệnh Bảo trì tòa nhà và quản lý nhà chung cư (Tài khoản quản lý nhà chung cư — Miễn trừ)",
+   "th": "คำสั่งการบำรุงรักษาอาคารและการจัดการอาคารชุด (บัญชีการจัดการอาคารชุด — การยกเว้น)",
+   "id": "Perintah Pemeliharaan Bangunan dan Pengelolaan Strata (Akun Pengelolaan Strata — Pembebasan)",
+   "ms": "Perintah Penyelenggaraan Bangunan dan Pengurusan Strata (Akaun Pengurusan Strata — Pengecualian)"
+  },
+  "SG-H386": {
+   "vi": "Quy chế Bảo trì tòa nhà và quản lý nhà chung cư (Hội đồng phân chia quyền sở hữu) 2005",
+   "th": "ข้อบังคับการบำรุงรักษาอาคารและการจัดการอาคารชุด (คณะกรรมการสิทธิอาคารชุด) 2005",
+   "id": "Peraturan Pemeliharaan Bangunan dan Pengelolaan Strata (Dewan Hak Strata) 2005",
+   "ms": "Peraturan Penyelenggaraan Bangunan dan Pengurusan Strata (Lembaga Hak Strata) 2005"
+  },
+  "SG-H387": {
+   "vi": "Quy chế Bảo trì tòa nhà và quản lý nhà chung cư (Đơn vị nhà chung cư) 2005",
+   "th": "ข้อบังคับการบำรุงรักษาอาคารและการจัดการอาคารชุด (หน่วยอาคารชุด) 2005",
+   "id": "Peraturan Pemeliharaan Bangunan dan Pengelolaan Strata (Unit Strata) 2005",
+   "ms": "Peraturan Penyelenggaraan Bangunan dan Pengurusan Strata (Unit Strata) 2005"
+  },
+  "SG-H388": {
+   "vi": "Lệnh Bảo trì tòa nhà và quản lý nhà chung cư (Chấm dứt tổng công ty quản lý — Miễn trừ) 2012",
+   "th": "คำสั่งการบำรุงรักษาอาคารและการจัดการอาคารชุด (การสิ้นสุดนิติบุคคลอาคารชุด — การยกเว้น) 2012",
+   "id": "Perintah Pemeliharaan Bangunan dan Pengelolaan Strata (Pengakhiran Badan Pengelola — Pembebasan) 2012",
+   "ms": "Perintah Penyelenggaraan Bangunan dan Pengurusan Strata (Penamatan Perbadanan Pengurusan — Pengecualian) 2012"
+  },
+  "SG-H471": {
+   "vi": "Quy chế Kiểm soát sòng bạc (Tội theo quy định) 2010",
+   "th": "ข้อบังคับการควบคุมคาสิโน (ความผิดตามที่กำหนด) 2010",
+   "id": "Peraturan Pengendalian Kasino (Pelanggaran yang Ditetapkan) 2010",
+   "ms": "Peraturan Kawalan Kasino (Kesalahan yang Ditetapkan) 2010"
+  },
+  "SG-H749": {
+   "vi": "Thông báo Nhà cái cờ bạc công cộng (Hội đồng Cá cược Singapore — Miễn trừ) 2019",
+   "th": "ประกาศบ่อนการพนันทั่วไป (คณะกรรมการทายผลสิงคโปร์ — การยกเว้น) 2019",
+   "id": "Pemberitahuan Rumah Judi Umum (Dewan Totalisator Singapura — Pembebasan) 2019",
+   "ms": "Pemberitahuan Rumah Perjudian Awam (Lembaga Totalisator Singapura — Pengecualian) 2019"
+  }
+ }
+}

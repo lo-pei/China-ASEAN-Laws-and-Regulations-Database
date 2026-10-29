@@ -1,0 +1,117 @@
+# -*- coding: utf-8 -*-
+"""BN-H074 刑事资产追缴法（洗钱部分）第 30–34 条 · 英文补译（5 条 / 45 行）"""
+
+T = {}
+
+T['30'] = "\n".join([
+    "(a) receive reports and information obtained from the following sources:",
+    "(i) information provided by law enforcement agencies or any government department or body of Brunei Darussalam;",
+    "(ii) information voluntarily provided by other parties relating to money laundering, serious offences, "
+    "terrorist financing or other offences under this Act;",
+    "(iii) information provided by any authority of a foreign State;",
+    "(iv) information provided by an international organisation.",
+    "(b) analyse, assess and disseminate reports and information;",
+    "(c) issue guidance on customer identification, record keeping, reporting obligations and the identification "
+    "of suspicious transactions;",
+    "(d) provide training programmes to financial institutions, designated non-financial businesses or professions "
+    "on customer identification, record keeping, reporting obligations and guidance on the identification of "
+    "suspicious transactions;",
+    "(e) conduct research into trends and developments in money laundering and terrorist financing and into "
+    "improved ways of detecting, preventing and suppressing money laundering and terrorist financing;",
+    "(f) carry out public education on countering money laundering and terrorist financing and raise public "
+    "awareness;",
+    "(g) for the purposes of this Act, maintain liaison, conclude agreements and exchange information with "
+    "government departments or bodies of foreign States and with international organisations.",
+    "Access to information",
+])
+
+T['31'] = "\n".join([
+    "(1) In respect of any information obtained by the Financial Intelligence Unit in the exercise of its functions, "
+    "the Unit may require any entity or person, in accordance with the reporting obligations under sections 15 and 16, "
+    "to report to the Unit such additional information as it considers necessary for the performance of its functions. "
+    "Such additional information shall be submitted within the prescribed period and in such form as the Unit may require.",
+    "(2) Where the Financial Intelligence Unit considers information to be necessary for the performance of its "
+    "functions, the Unit may inspect that information on site at the premises where it is kept by financial "
+    "institutions, designated non-financial businesses or professions, and this right includes but is not limited to:",
+    "(a) entering the premises of financial institutions, designated non-financial businesses or professions during "
+    "ordinary working hours to inspect records, questioning any employee of such institutions, businesses or "
+    "professions on any matter relating to the records, taking notes and removing copies of the records;",
+    "(b) collecting any information which the Unit considers relevant to money laundering, serious offences, "
+    "terrorist financing or other offences under this Act, including information in commercial databases or other "
+    "information collected and held, including information in databases maintained by government departments or bodies;",
+    "(c) obtaining from government departments any personal records of a person who is under investigation for the "
+    "commission, or intended commission, of money laundering, serious offences, terrorist financing or other "
+    "offences under this Act;",
+    "(d) for the purposes of this Act, obtaining information from any foreign government authority, foreign law "
+    "enforcement authority, foreign supervisory authority and foreign audit authority;",
+    "(e) destroying a suspicious transaction report 7 years after the date of its receipt, where there has been no "
+    "further activity or information relating to that report or to the persons concerned, or where 7 years have "
+    "elapsed since the last action relating to that report or to the persons concerned;",
+    "(f) for the purposes of this Act, or to advance an investigation by the Unit or a law enforcement agency, "
+    "directing financial institutions, designated non-financial businesses or professions to process information or "
+    "reports received by the Unit in accordance with appropriate steps;",
+    "(g) compiling data and records, disseminating information within or outside Brunei Darussalam where necessary, "
+    "and making recommendations on the information received;",
+    "(h) providing periodic feedback, at appropriate times, to financial institutions, designated non-financial "
+    "businesses, professions, relevant government departments, offices, authorities and bodies on the outcome of "
+    "reports and information;",
+    "(i) for the purposes of this Act, obtaining further information on the transactions or persons mentioned in a report;",
+    "(j) disclosing reports and information extracted from them to any government department, office or authority, "
+    "subject to the confidentiality requirements of this Act.",
+    "(3) The expressions \u201cdesignated non-financial business\u201d and \u201cprofession\u201d in subsection (2) "
+    "have the same meaning as in section 2 and section 15",
+    "(2).",
+    "Obligations relating to confidentiality and the use of information",
+])
+
+T['32'] = "\n".join([
+    "(1) Any person performing duties within, or for, the Financial Intelligence Unit shall keep strictly "
+    "confidential any information obtained in the course of those duties; this obligation of confidentiality "
+    "continues after the termination of the duties and is subject to exception only where specifically provided by "
+    "this Act or required by a court.",
+    "(2) Any current or former officer of the Financial Intelligence Unit, and any person performing duties within or "
+    "for the Unit, who breaches the obligation of confidentiality by disclosing information required to be kept "
+    "confidential under subsection (1) shall be liable to a fine not exceeding 50,000 dollars, imprisonment for a "
+    "term not exceeding 5 years, or both.",
+    "Actions relating to reports or information received",
+])
+
+T['33'] = "\n".join([
+    "(1) Where the Financial Intelligence Unit has reasonable grounds, on the basis of its analysis and assessment, "
+    "to suspect that a transaction, a proposed transaction or other activity is related to money laundering, a "
+    "serious offence or terrorist financing, the Unit may seek the assistance of law enforcement agencies of Brunei "
+    "Darussalam in respect of any report or of information contained in a report. The Unit may send a copy of the "
+    "information to the relevant supervisory authorities.",
+    "(2) Where the Financial Intelligence Unit has reasonable grounds to suspect that a transaction, a proposed "
+    "transaction or other activity is related to money laundering, a serious offence or terrorist financing, the "
+    "Unit may by written direction instruct the reporting institution to continue or to refrain from pursuing the "
+    "transaction or proposed transaction, for such period as the Unit may determine.",
+    "Note:",
+    "(a) no written direction shall exceed 5 working days;",
+    "(b) no oral direction shall exceed 24 hours, and an oral direction shall be confirmed in writing within 24 "
+    "hours thereof;",
+    "(c) before the expiry of the 5 working days, the Financial Intelligence Unit may apply to a court for an "
+    "extension of that period.",
+    "Sharing of information with foreign counterparts",
+])
+
+T['34'] = "\n".join([
+    "(1) On the basis of a cooperation agreement between the Financial Intelligence Unit and a foreign intelligence "
+    "authority with similar functions, the Unit may share information with any foreign intelligence authority "
+    "performing similar functions.",
+    "(2) For the purposes of this Act, the Financial Intelligence Unit may conclude cooperation agreements with "
+    "international organisations and disclose reports or information contained in reports.",
+    "(3) Where an investigation by a foreign intelligence authority performing similar functions involves the "
+    "detection or prosecution of money laundering or a serious offence, the Financial Intelligence Unit may conduct "
+    "an investigation on behalf of that foreign authority.",
+    "(4) In addition to subsection (3), the Financial Intelligence Unit may:",
+    "(a) search its databases, including information relating to reports or suspicious transactions and databases to "
+    "which the Unit has direct or indirect access, including law enforcement databases, administrative databases, "
+    "public databases and commercial databases;",
+    "(b) obtain information relevant to an investigation from financial institutions, designated non-financial "
+    "businesses or professions;",
+    "(c) obtain information relevant to an investigation from citizens, provided that the Unit can obtain such "
+    "information domestically;",
+    "(d) take any action within the scope of its functions to support an investigation by a foreign intelligence "
+    "authority performing similar functions.",
+])

@@ -5,7 +5,7 @@
 
 ---
 
-## 一、六份权威契约
+## 一、七份权威契约
 
 | 契约 | 管什么 | 配套校验器 |
 | :--- | :--- | :--- |
@@ -13,11 +13,14 @@
 | [SKILL-多国法律文本译本生产规范.md](SKILL-多国法律文本译本生产规范.md) | 译本生产流程、回执格式、术语一致性（calr-trans-v2.2） | `node tools/verify-trans-return.js`、`node tools/verify-glossary.js` |
 | [SKILL-法规标题中译规范.md](SKILL-法规标题中译规范.md) | 法规标题中译规则与来源标注（calr-title-zh-v1） | `node tools/verify-title-return.js` |
 | [SKILL-法规标题英译规范.md](SKILL-法规标题英译规范.md) | 中国法规标题中→英（calr-title-en-v1） | `node tools/verify-title-return.js` |
+| [SKILL-法规标题多语种规范.md](SKILL-法规标题多语种规范.md) | 跨语种 `title` 字段模型、`orig` 采集、显示规则与验收口径（上位规范；2026-10-29 由 `docs/07-标题多语种规范.md` 迁入） | `node tools/verify-title-return.js`、`node tools/verify-data-home.js`（A10） |
 | [SKILL-越南语法规英译规范.md](SKILL-越南语法规英译规范.md) | 越南法规 vi→en 标题与条文（calr-vi2en-v1） | `node tools/verify-trans-return.js` |
 | [SKILL-印尼语法规英译规范.md](SKILL-印尼语法规英译规范.md) | 印尼法规 id→en/zh 标题与条文（calr-id-en-v1） | `node tools/verify-trans-return.js` |
 
 **权威版本声明**：数据契约以 `SKILL-条文入库与译文分离规范.md` 为准。
 同名的旧快照 `SKILL.md`（v2.0，712 行）已归档，不再维护，两份并存时以本目录的 947 行版为准。
+标题类规范的关系：中译/英译/越南语/印尼语四份是**分批翻译任务的回执契约**，
+`SKILL-法规标题多语种规范.md` 是**跨语种字段模型与显示口径的上位规范**，两者互补、不合并。
 
 ---
 

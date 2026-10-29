@@ -1,0 +1,775 @@
+{
+ "batch": "sg-p1-b16",
+ "note": "SG 尾段：体裁 + 母法 + 括注 组合合成",
+ "count": 128,
+ "items": {
+  "SG-H1151": {
+   "vi": "Lệnh Chương trình bảo hiểm tiền gửi và bảo vệ chủ hợp đồng (Phạt tiền) 2024",
+   "th": "คำสั่งโครงการประกันเงินฝากและการคุ้มครองผู้ถือกรมธรรม์ (ค่าปรับทางการเงิน) 2024",
+   "id": "Perintah Skema Penjaminan Simpanan dan Perlindungan Pemegang Polis (Sanksi Finansial) 2024",
+   "ms": "Perintah Skim Insurans Deposit dan Perlindungan Pemegang Polisi (Penalti Kewangan) 2024"
+  },
+  "SG-H1286": {
+   "vi": "Quy chế Sử dụng lao động nước ngoài (Lệ phí) 2005",
+   "th": "ข้อบังคับการจ้างแรงงานต่างชาติ (ค่าธรรมเนียม) 2005",
+   "id": "Peraturan Penggunaan Pekerja Asing (Biaya) 2005",
+   "ms": "Peraturan Penggajian Pekerja Asing (Fi) 2005"
+  },
+  "SG-H1429": {
+   "vi": "Quy tắc Chứng cứ (Hạn chế về câu hỏi và chứng cứ trong tố tụng hình sự) 2018",
+   "th": "กฎพยานหลักฐาน (ข้อจำกัดเกี่ยวกับคำถามและพยานหลักฐานในกระบวนการพิจารณาความอาญา) 2018",
+   "id": "Peraturan Alat Bukti (Pembatasan Pertanyaan dan Bukti dalam Perkara Pidana) 2018",
+   "ms": "Kaedah Keterangan (Sekatan Pertanyaan dan Keterangan dalam Prosiding Jenayah) 2018"
+  },
+  "SG-H1433": {
+   "vi": "Thông báo Sở giao dịch chứng khoán (Phi tương hỗ hóa và sáp nhập) (Công ty được chỉ định) 1999",
+   "th": "ประกาศตลาดหลักทรัพย์ (การเปลี่ยนจากระบบสมาชิกและการควบรวม) (บริษัทที่กำหนด) 1999",
+   "id": "Pemberitahuan Bursa (Demutualisasi dan Penggabungan) (Perusahaan yang Ditetapkan) 1999",
+   "ms": "Pemberitahuan Bursa (Nyapuswaian dan Penggabungan) (Syarikat yang Ditetapkan) 1999"
+  },
+  "SG-H1434": {
+   "vi": "Thông báo Sở giao dịch chứng khoán (Phi tương hỗ hóa và sáp nhập) (Giá trị cổ phần của công ty cổ phần nhận chuyển nhượng) 1999",
+   "th": "ประกาศตลาดหลักทรัพย์ (การเปลี่ยนจากระบบสมาชิกและการควบรวม) (มูลค่าหุ้นของบริษัทโฮลดิ้งผู้รับโอน) 1999",
+   "id": "Pemberitahuan Bursa (Demutualisasi dan Penggabungan) (Nilai Saham Perusahaan Induk Penerima Pengalihan) 1999",
+   "ms": "Pemberitahuan Bursa (Nyapuswaian dan Penggabungan) (Nilai Saham Syarikat Pegangan Penerima Pindahan) 1999"
+  },
+  "SG-H1435": {
+   "vi": "Luật Sở giao dịch chứng khoán (Phi tương hỗ hóa và sáp nhập) 1999",
+   "th": "พระราชบัญญัติตลาดหลักทรัพย์ (การเปลี่ยนจากระบบสมาชิกและการควบรวม) 1999",
+   "id": "Undang-Undang tentang Bursa (Demutualisasi dan Penggabungan) 1999",
+   "ms": "Akta Bursa (Nyapuswaian dan Penggabungan) 1999"
+  },
+  "SG-H1457": {
+   "vi": "Thông báo Dẫn độ (Khu Hành chính Đặc biệt Hồng Kông thuộc Cộng hòa Nhân dân Trung Hoa) 1998",
+   "th": "ประกาศการส่งผู้ร้ายข้ามแดน (เขตบริหารพิเศษฮ่องกงแห่งสาธารณรัฐประชาชนจีน) 1998",
+   "id": "Pemberitahuan Ekstradisi (Daerah Administratif Khusus Hong Kong Republik Rakyat Tiongkok) 1998",
+   "ms": "Pemberitahuan Ekstradisi (Wilayah Pentadbiran Khas Hong Kong Republik Rakyat China) 1998"
+  },
+  "SG-H1458": {
+   "vi": "Thông báo Dẫn độ (Công ước quốc tế về chống bắt cóc con tin) 2022",
+   "th": "ประกาศการส่งผู้ร้ายข้ามแดน (อนุสัญญาระหว่างประเทศว่าด้วยการต่อต้านการจับตัวประกัน) 2022",
+   "id": "Pemberitahuan Ekstradisi (Konvensi Internasional tentang Pemberantasan Penculikan Sandera) 2022",
+   "ms": "Pemberitahuan Ekstradisi (Konvensyen Antarabangsa menentang Penculikan Tebusan) 2022"
+  },
+  "SG-H1459": {
+   "vi": "Thông báo Dẫn độ (Công ước quốc tế về trấn áp các vụ đánh bom khủng bố) 2022",
+   "th": "ประกาศการส่งผู้ร้ายข้ามแดน (อนุสัญญาระหว่างประเทศว่าด้วยการปราบปรามการก่อการร้ายด้วยระเบิด) 2022",
+   "id": "Pemberitahuan Ekstradisi (Konvensi Internasional tentang Pemberantasan Pengeboman Teroris) 2022",
+   "ms": "Pemberitahuan Ekstradisi (Konvensyen Antarabangsa bagi Penindasan Pengeboman Pengganas) 2022"
+  },
+  "SG-H1460": {
+   "vi": "Thông báo Dẫn độ (Công ước quốc tế về trấn áp hành vi khủng bố hạt nhân) 2022",
+   "th": "ประกาศการส่งผู้ร้ายข้ามแดน (อนุสัญญาระหว่างประเทศว่าด้วยการปราบปรามการกระทำการก่อการร้ายทางนิวเคลียร์) 2022",
+   "id": "Pemberitahuan Ekstradisi (Konvensi Internasional tentang Pemberantasan Tindakan Terorisme Nuklir) 2022",
+   "ms": "Pemberitahuan Ekstradisi (Konvensyen Antarabangsa bagi Penindasan Perbuatan Keganasan Nuklear) 2022"
+  },
+  "SG-H1461": {
+   "vi": "Thông báo Dẫn độ (Công ước quốc tế về trấn áp việc tài trợ cho khủng bố) 2022",
+   "th": "ประกาศการส่งผู้ร้ายข้ามแดน (อนุสัญญาระหว่างประเทศว่าด้วยการปราบปรามการสนับสนุนทางการเงินแก่การก่อการร้าย) 2022",
+   "id": "Pemberitahuan Ekstradisi (Konvensi Internasional tentang Pemberantasan Pendanaan Terorisme) 2022",
+   "ms": "Pemberitahuan Ekstradisi (Konvensyen Antarabangsa bagi Penindasan Pembiayaan Keganasan) 2022"
+  },
+  "SG-H1462": {
+   "vi": "Thông báo Dẫn độ (Cộng hòa Indonesia) 2024",
+   "th": "ประกาศการส่งผู้ร้ายข้ามแดน (สาธารณรัฐอินโดนีเซีย) 2024",
+   "id": "Pemberitahuan Ekstradisi (Republik Indonesia) 2024",
+   "ms": "Pemberitahuan Ekstradisi (Republik Indonesia) 2024"
+  },
+  "SG-H1463": {
+   "vi": "Thông báo Dẫn độ (Đại Hàn Dân Quốc) 2026",
+   "th": "ประกาศการส่งผู้ร้ายข้ามแดน (สาธารณรัฐเกาหลี) 2026",
+   "id": "Pemberitahuan Ekstradisi (Republik Korea) 2026",
+   "ms": "Pemberitahuan Ekstradisi (Republik Korea) 2026"
+  },
+  "SG-H1464": {
+   "vi": "Thông báo Dẫn độ (Công ước Liên Hợp Quốc về chống tội phạm có tổ chức xuyên quốc gia) 2022",
+   "th": "ประกาศการส่งผู้ร้ายข้ามแดน (อนุสัญญาสหประชาชาติว่าด้วยการต่อต้านอาชญากรรมข้ามชาติที่จัดตั้งในลักษณะองค์กร) 2022",
+   "id": "Pemberitahuan Ekstradisi (Konvensi Perserikatan Bangsa-Bangsa menentang Kejahatan Terorganisasi Transnasional) 2022",
+   "ms": "Pemberitahuan Ekstradisi (Konvensyen Pertubuhan Bangsa-Bangsa Bersatu menentang Jenayah Terancang Merentas Sempadan) 2022"
+  },
+  "SG-H1466": {
+   "vi": "Quy chế Nhà máy (Đăng ký và các dịch vụ khác — Lệ phí và biểu mẫu)",
+   "th": "ข้อบังคับโรงงาน (การขึ้นทะเบียนและบริการอื่น ๆ — ค่าธรรมเนียมและแบบฟอร์ม)",
+   "id": "Peraturan Pabrik (Pendaftaran dan Layanan Lain — Biaya dan Formulir)",
+   "ms": "Peraturan Kilang (Pendaftaran dan Perkhidmatan Lain — Fi dan Borang)"
+  },
+  "SG-H1467": {
+   "vi": "Lệnh Nhà máy (Khóa huấn luyện an toàn)",
+   "th": "คำสั่งโรงงาน (หลักสูตรฝึกอบรมความปลอดภัย)",
+   "id": "Perintah Pabrik (Kursus Pelatihan Keselamatan)",
+   "ms": "Perintah Kilang (Kursus Latihan Keselamatan)"
+  },
+  "SG-H1468": {
+   "vi": "Lệnh Nhà máy (Công việc xây dựng kỹ thuật)",
+   "th": "คำสั่งโรงงาน (งานก่อสร้างทางวิศวกรรม)",
+   "id": "Perintah Pabrik (Pekerjaan Konstruksi Teknik)",
+   "ms": "Perintah Kilang (Kerja Pembinaan Kejuruteraan)"
+  },
+  "SG-H1471": {
+   "vi": "Lệnh Tư pháp gia đình (Tố tụng gia đình tại Phòng Gia đình của Tòa án Tối cao) 2014",
+   "th": "คำสั่งกระบวนการยุติธรรมครอบครัว (คดีครอบครัวต่อแผนกคดีครอบครัวของศาลสูง) 2014",
+   "id": "Perintah Peradilan Keluarga (Perkara Keluarga di Divisi Keluarga Pengadilan Tinggi) 2014",
+   "ms": "Perintah Keadilan Keluarga (Prosiding Keluarga di Bahagian Keluarga Mahkamah Tinggi) 2014"
+  },
+  "SG-H1473": {
+   "vi": "Quy tắc Tư pháp gia đình (Thủ tục di sản và các vấn đề khác) 2024",
+   "th": "กฎกระบวนการยุติธรรมครอบครัว (การจัดการมรดกและเรื่องอื่น ๆ) 2024",
+   "id": "Peraturan Peradilan Keluarga (Probate dan Hal Lain) 2024",
+   "ms": "Kaedah Keadilan Keluarga (Probate dan Perkara Lain) 2024"
+  },
+  "SG-H1474": {
+   "vi": "Quy tắc Tư pháp gia đình (Bảo vệ khỏi quấy rối) 2024",
+   "th": "กฎกระบวนการยุติธรรมครอบครัว (การคุ้มครองจากการคุกคาม) 2024",
+   "id": "Peraturan Peradilan Keluarga (Perlindungan dari Perundungan) 2024",
+   "ms": "Kaedah Keadilan Keluarga (Perlindungan daripada Gangguan) 2024"
+  },
+  "SG-H1475": {
+   "vi": "Thông báo Tư pháp gia đình (Ấn triện của Tòa án Tư pháp Gia đình) 2014",
+   "th": "ประกาศกระบวนการยุติธรรมครอบครัว (ตราประทับของศาลยุติธรรมครอบครัว) 2014",
+   "id": "Pemberitahuan Peradilan Keluarga (Segel Pengadilan Keadilan Keluarga) 2014",
+   "ms": "Pemberitahuan Keadilan Keluarga (Mohor Mahkamah Keadilan Keluarga) 2014"
+  },
+  "SG-H1476": {
+   "vi": "Lệnh Tư pháp gia đình (Ngày được chỉ định cho thủ tục di sản) 2014",
+   "th": "คำสั่งกระบวนการยุติธรรมครอบครัว (วันที่กำหนดสำหรับกระบวนการจัดการมรดก) 2014",
+   "id": "Perintah Peradilan Keluarga (Tanggal Tertentu untuk Perkara Probate) 2014",
+   "ms": "Perintah Keadilan Keluarga (Tarikh Tertentu bagi Prosiding Probate) 2014"
+  },
+  "SG-H1478": {
+   "vi": "Quy chế Cải cách Tư pháp Gia đình (Chấm dứt áp dụng Điều 45(13)) 2024",
+   "th": "ข้อบังคับการปฏิรูปกระบวนการยุติธรรมครอบครัว (การสิ้นสุดการใช้บังคับมาตรา 45(13)) 2024",
+   "id": "Peraturan Reformasi Keadilan Keluarga (Berakhirnya Pemberlakuan Pasal 45(13)) 2024",
+   "ms": "Peraturan Pembaharuan Keadilan Keluarga (Pemberhentian Penggunaan Seksyen 45(13)) 2024"
+  },
+  "SG-H1479": {
+   "vi": "Luật Ủy viên Đất đai Liên bang, Malaysia (Thành lập pháp nhân) 1959",
+   "th": "พระราชบัญญัติข้าหลวงที่ดินสหพันธรัฐ มาเลเซีย (การจัดตั้งเป็นนิติบุคคล) 1959",
+   "id": "Undang-Undang tentang Komisioner Tanah Federal, Malaysia (Pendirian Badan Hukum) 1959",
+   "ms": "Akta Pesuruhjaya Tanah Persekutuan, Malaysia (Penubuhan Perbadanan) 1959"
+  },
+  "SG-H1482": {
+   "vi": "Quy tắc Thức ăn Chăn nuôi (Cấp phép, phân tích và lệ phí)",
+   "th": "กฎอาหารสัตว์ (การออกใบอนุญาต การวิเคราะห์ และค่าธรรมเนียม)",
+   "id": "Peraturan Bahan Makanan Ternak (Perizinan, Analisis dan Biaya)",
+   "ms": "Kaedah Bahan Makanan Ternak (Pelesenan, Analisis dan Fi)"
+  },
+  "SG-H1492": {
+   "vi": "Lệnh Phí (Thuế di sản thừa kế)",
+   "th": "คำสั่งค่าธรรมเนียม (อากรที่ดินและมรดก)",
+   "id": "Perintah Biaya (Bea Warisan)",
+   "ms": "Perintah Fi (Duti Harta Pusaka)"
+  },
+  "SG-H1493": {
+   "vi": "Lệnh Phí (Thuế hàng hóa và dịch vụ)",
+   "th": "คำสั่งค่าธรรมเนียม (ภาษีสินค้าและบริการ)",
+   "id": "Perintah Biaya (Pajak Barang dan Jasa)",
+   "ms": "Perintah Fi (Cukai Barang dan Perkhidmatan)"
+  },
+  "SG-H1494": {
+   "vi": "Lệnh Phí (Nhà lưu tro cốt công lập) 2024",
+   "th": "คำสั่งค่าธรรมเนียม (ที่เก็บอัฐิของรัฐ) 2024",
+   "id": "Perintah Biaya (Kolumbarium Pemerintah) 2024",
+   "ms": "Perintah Fi (Kolumbarium Kerajaan) 2024"
+  },
+  "SG-H1495": {
+   "vi": "Lệnh Phí (Cục Xuất nhập cảnh và Cửa khẩu — Cung cấp bản sao báo cáo và lời khai)",
+   "th": "คำสั่งค่าธรรมเนียม (สำนักงานตรวจคนเข้าเมืองและด่านตรวจคนเข้าเมือง — การจัดส่งสำเนารายงานและถ้อยคำ)",
+   "id": "Perintah Biaya (Lembaga Imigrasi dan Pos Pemeriksaan — Penyediaan Salinan Laporan dan Keterangan)",
+   "ms": "Perintah Fi (Lembaga Imigresen dan Pusat Pemeriksaan — Pembekalan Salinan Laporan dan Perakuan)"
+  },
+  "SG-H1496": {
+   "vi": "Lệnh Phí (Thuế thu nhập)",
+   "th": "คำสั่งค่าธรรมเนียม (ภาษีเงินได้)",
+   "id": "Perintah Biaya (Pajak Penghasilan)",
+   "ms": "Perintah Fi (Cukai Pendapatan)"
+  },
+  "SG-H1497": {
+   "vi": "Lệnh Phí (Bộ Quốc phòng)",
+   "th": "คำสั่งค่าธรรมเนียม (กระทรวงกลาโหม)",
+   "id": "Perintah Biaya (Kementerian Pertahanan)",
+   "ms": "Perintah Fi (Kementerian Pertahanan)"
+  },
+  "SG-H1498": {
+   "vi": "Lệnh Phí (Bộ Giáo dục) 2006",
+   "th": "คำสั่งค่าธรรมเนียม (กระทรวงศึกษาธิการ) 2006",
+   "id": "Perintah Biaya (Kementerian Pendidikan) 2006",
+   "ms": "Perintah Fi (Kementerian Pendidikan) 2006"
+  },
+  "SG-H1499": {
+   "vi": "Lệnh Phí (Bộ Y tế)",
+   "th": "คำสั่งค่าธรรมเนียม (กระทรวงสาธารณสุข)",
+   "id": "Perintah Biaya (Kementerian Kesehatan)",
+   "ms": "Perintah Fi (Kementerian Kesihatan)"
+  },
+  "SG-H1500": {
+   "vi": "Lệnh Phí (Bộ Nội vụ) 2025",
+   "th": "คำสั่งค่าธรรมเนียม (กระทรวงมหาดไทย) 2025",
+   "id": "Perintah Biaya (Kementerian Dalam Negeri) 2025",
+   "ms": "Perintah Fi (Kementerian Dalam Negeri) 2025"
+  },
+  "SG-H1501": {
+   "vi": "Lệnh Phí (Bộ Pháp luật) 2008",
+   "th": "คำสั่งค่าธรรมเนียม (กระทรวงกฎหมาย) 2008",
+   "id": "Perintah Biaya (Kementerian Hukum) 2008",
+   "ms": "Perintah Fi (Kementerian Undang-Undang) 2008"
+  },
+  "SG-H1502": {
+   "vi": "Lệnh Phí (Bộ Phát triển Xã hội và Gia đình) (Thu hồi) 2024",
+   "th": "คำสั่งค่าธรรมเนียม (กระทรวงการพัฒนาสังคมและครอบครัว) (การเพิกถอน) 2024",
+   "id": "Perintah Biaya (Kementerian Pembangunan Sosial dan Keluarga) (Pencabutan) 2024",
+   "ms": "Perintah Fi (Kementerian Pembangunan Sosial dan Keluarga) (Pembatalan) 2024"
+  },
+  "SG-H1503": {
+   "vi": "Lệnh Phí (Bộ Môi trường)",
+   "th": "คำสั่งค่าธรรมเนียม (กระทรวงสิ่งแวดล้อม)",
+   "id": "Perintah Biaya (Kementerian Lingkungan Hidup)",
+   "ms": "Perintah Fi (Kementerian Alam Sekitar)"
+  },
+  "SG-H1504": {
+   "vi": "Lệnh Phí (Thanh toán bằng tem thuế)",
+   "th": "คำสั่งค่าธรรมเนียม (การชำระด้วยแสตมป์อากร)",
+   "id": "Perintah Biaya (Pembayaran dengan Meterai Bea)",
+   "ms": "Perintah Fi (Pembayaran dengan Setem Hasil)"
+  },
+  "SG-H1505": {
+   "vi": "Lệnh Phí (Dịch vụ cảnh sát) 2018",
+   "th": "คำสั่งค่าธรรมเนียม (บริการตำรวจ) 2018",
+   "id": "Perintah Biaya (Layanan Kepolisian) 2018",
+   "ms": "Perintah Fi (Perkhidmatan Polis) 2018"
+  },
+  "SG-H1506": {
+   "vi": "Lệnh Phí (Xổ số tư nhân)",
+   "th": "คำสั่งค่าธรรมเนียม (สลากส่วนบุคคล)",
+   "id": "Perintah Biaya (Lotere Swasta)",
+   "ms": "Perintah Fi (Loteri Persendirian)"
+  },
+  "SG-H1507": {
+   "vi": "Lệnh Phí (Thuế tài sản)",
+   "th": "คำสั่งค่าธรรมเนียม (ภาษีทรัพย์สิน)",
+   "id": "Perintah Biaya (Pajak Properti)",
+   "ms": "Perintah Fi (Cukai Harta)"
+  },
+  "SG-H1508": {
+   "vi": "Lệnh Phí (Ghi nhận dấu vân tay) 2011",
+   "th": "คำสั่งค่าธรรมเนียม (การบันทึกรอยพิมพ์นิ้วมือ) 2011",
+   "id": "Perintah Biaya (Perekaman Sidik Jari) 2011",
+   "ms": "Perintah Fi (Perekodan Cap Jari) 2011"
+  },
+  "SG-H1509": {
+   "vi": "Lệnh Phí (Cơ quan đăng ký tội phạm) (Hợp nhất)",
+   "th": "คำสั่งค่าธรรมเนียม (นายทะเบียนอาชญากร) (การรวมฉบับ)",
+   "id": "Perintah Biaya (Registrar Pelaku Kejahatan) (Konsolidasi)",
+   "ms": "Perintah Fi (Pendaftar Penjenayah) (Penyatuan)"
+  },
+  "SG-H1510": {
+   "vi": "Lệnh Phí (Giảm lệ phí của Quản thủ công)",
+   "th": "คำสั่งค่าธรรมเนียม (การลดหย่อนค่าธรรมเนียมผู้จัดการมรดกของรัฐ)",
+   "id": "Perintah Biaya (Keringanan Biaya Wali Amanat Publik)",
+   "ms": "Perintah Fi (Pelepasan Fi Pemegang Amanah Awam)"
+  },
+  "SG-H1511": {
+   "vi": "Lệnh Phí (Lực lượng Phòng vệ Dân sự Singapore) 2014",
+   "th": "คำสั่งค่าธรรมเนียม (กองกำลังป้องกันพลเรือนสิงคโปร์) 2014",
+   "id": "Perintah Biaya (Pasukan Pertahanan Sipil Singapura) 2014",
+   "ms": "Perintah Fi (Pasukan Pertahanan Awam Singapura) 2014"
+  },
+  "SG-H1512": {
+   "vi": "Lệnh Phí (Tòa án cấp bang — Thẩm quyền hình sự) 2014",
+   "th": "คำสั่งค่าธรรมเนียม (ศาลชั้นต้น — เขตอำนาจทางอาญา) 2014",
+   "id": "Perintah Biaya (Pengadilan Negara — Yurisdiksi Pidana) 2014",
+   "ms": "Perintah Fi (Mahkamah Rendah — Bidang Kuasa Jenayah) 2014"
+  },
+  "SG-H1513": {
+   "vi": "Lệnh Phí (Thống kê)",
+   "th": "คำสั่งค่าธรรมเนียม (สถิติ)",
+   "id": "Perintah Biaya (Statistik)",
+   "ms": "Perintah Fi (Statistik)"
+  },
+  "SG-H1514": {
+   "vi": "Lệnh Phí (Kiểm tra người huấn luyện chó nghiệp vụ an ninh tư nhân) 2018",
+   "th": "คำสั่งค่าธรรมเนียม (การทดสอบผู้ควบคุมสุนัขรักษาความปลอดภัยเอกชน) 2018",
+   "id": "Perintah Biaya (Pengujian Penangan Anjing Keamanan Swasta) 2018",
+   "ms": "Perintah Fi (Pengujian Pengendali Anjing Keselamatan Swasta) 2018"
+  },
+  "SG-H1515": {
+   "vi": "Lệnh Phí (Dịch tài liệu — Bộ Nhân lực)",
+   "th": "คำสั่งค่าธรรมเนียม (การแปลเอกสาร — กระทรวงแรงงาน)",
+   "id": "Perintah Biaya (Penerjemahan Dokumen — Kementerian Tenaga Kerja)",
+   "ms": "Perintah Fi (Terjemahan Dokumen — Kementerian Tenaga Manusia)"
+  },
+  "SG-H1516": {
+   "vi": "Lệnh Phí (Giải thể, tái cơ cấu và thanh lý công ty và các tổ chức khác) 2005",
+   "th": "คำสั่งค่าธรรมเนียม (การชำระบัญชี การปรับโครงสร้าง และการเลิกนิติบุคคลของบริษัทและองค์กรอื่น) 2005",
+   "id": "Perintah Biaya (Likuidasi, Restrukturisasi dan Pembubaran Perusahaan dan Badan Lain) 2005",
+   "ms": "Perintah Fi (Penggulungan, Penstrukturan Semula dan Pembubaran Syarikat dan Badan Lain) 2005"
+  },
+  "SG-H1531": {
+   "vi": "Thông báo Phim (Người thẩm định nội dung phim — Phim được miễn trừ) 2019",
+   "th": "ประกาศภาพยนตร์ (ผู้ประเมินเนื้อหาภาพยนตร์ — ภาพยนตร์ที่ได้รับการยกเว้น) 2019",
+   "id": "Pemberitahuan Film (Penilai Konten Film — Film yang Dikecualikan) 2019",
+   "ms": "Pemberitahuan Filem (Penilai Kandungan Filem — Filem yang Dikecualikan) 2019"
+  },
+  "SG-H1532": {
+   "vi": "Quy chế Phim (Người thẩm định nội dung phim) 2019",
+   "th": "ข้อบังคับภาพยนตร์ (ผู้ประเมินเนื้อหาภาพยนตร์) 2019",
+   "id": "Peraturan Film (Penilai Konten Film) 2019",
+   "ms": "Peraturan Filem (Penilai Kandungan Filem) 2019"
+  },
+  "SG-H1533": {
+   "vi": "Thông báo Phim (Giấy phép — Miễn trừ) 2019",
+   "th": "ประกาศภาพยนตร์ (ใบอนุญาต — การยกเว้น) 2019",
+   "id": "Pemberitahuan Film (Izin — Pembebasan) 2019",
+   "ms": "Pemberitahuan Filem (Lesen — Pengecualian) 2019"
+  },
+  "SG-H1534": {
+   "vi": "Thông báo Phim (Bản ghi chiến dịch bầu cử tổng thống — Miễn trừ) 2011",
+   "th": "ประกาศภาพยนตร์ (การบันทึกการรณรงค์หาเสียงเลือกตั้งประธานาธิบดี — การยกเว้น) 2011",
+   "id": "Pemberitahuan Film (Rekaman Kampanye Pemilihan Presiden — Pembebasan) 2011",
+   "ms": "Pemberitahuan Filem (Rakaman Kempen Pilihan Raya Presiden — Pengecualian) 2011"
+  },
+  "SG-H1535": {
+   "vi": "Lệnh Phim (Phim bị cấm) 2007",
+   "th": "คำสั่งภาพยนตร์ (ภาพยนตร์ที่ต้องห้าม) 2007",
+   "id": "Perintah Film (Film Terlarang) 2007",
+   "ms": "Perintah Filem (Filem Larangan) 2007"
+  },
+  "SG-H1536": {
+   "vi": "Lệnh Phim (Phim bị cấm) 2010",
+   "th": "คำสั่งภาพยนตร์ (ภาพยนตร์ที่ต้องห้าม) 2010",
+   "id": "Perintah Film (Film Terlarang) 2010",
+   "ms": "Perintah Filem (Filem Larangan) 2010"
+  },
+  "SG-H1538": {
+   "vi": "Quy chế Công ty Tài chính (Miễn trừ theo Điều 25(2)) 2019",
+   "th": "ข้อบังคับบริษัทการเงิน (การยกเว้นตามมาตรา 25(2)) 2019",
+   "id": "Peraturan Perusahaan Pembiayaan (Pembebasan Pasal 25(2)) 2019",
+   "ms": "Peraturan Syarikat Kewangan (Pengecualian Seksyen 25(2)) 2019"
+  },
+  "SG-H1539": {
+   "vi": "Quy chế Công ty Tài chính (Miễn trừ theo các Điều 23(1) và 25(2)) 2017",
+   "th": "ข้อบังคับบริษัทการเงิน (การยกเว้นตามมาตรา 23(1) และ 25(2)) 2017",
+   "id": "Peraturan Perusahaan Pembiayaan (Pembebasan Pasal 23(1) dan 25(2)) 2017",
+   "ms": "Peraturan Syarikat Kewangan (Pengecualian Seksyen 23(1) dan 25(2)) 2017"
+  },
+  "SG-H1541": {
+   "vi": "Lệnh Công ty Tài chính (Duy trì dự trữ) 1999",
+   "th": "คำสั่งบริษัทการเงิน (การดำรงเงินสำรอง) 1999",
+   "id": "Perintah Perusahaan Pembiayaan (Pemeliharaan Cadangan) 1999",
+   "ms": "Perintah Syarikat Kewangan (Penyelenggaraan Rizab) 1999"
+  },
+  "SG-H1545": {
+   "vi": "Quy chế Cố vấn tài chính (Miễn trừ cho thỏa thuận xuyên biên giới) (Văn phòng nước ngoài) 2021",
+   "th": "ข้อบังคับที่ปรึกษาทางการเงิน (การยกเว้นสำหรับข้อตกลงข้ามพรมแดน) (สำนักงานต่างประเทศ) 2021",
+   "id": "Peraturan Penasihat Keuangan (Pembebasan bagi Pengaturan Lintas Batas) (Kantor Luar Negeri) 2021",
+   "ms": "Peraturan Penasihat Kewangan (Pengecualian bagi Pengaturan Rentas Sempadan) (Pejabat Luar Negara) 2021"
+  },
+  "SG-H1546": {
+   "vi": "Quy chế Cố vấn tài chính (Miễn trừ cho thỏa thuận xuyên biên giới) (Công ty liên kết nước ngoài) 2021",
+   "th": "ข้อบังคับที่ปรึกษาทางการเงิน (การยกเว้นสำหรับข้อตกลงข้ามพรมแดน) (บริษัทในเครือต่างประเทศ) 2021",
+   "id": "Peraturan Penasihat Keuangan (Pembebasan bagi Pengaturan Lintas Batas) (Korporasi Terkait Asing) 2021",
+   "ms": "Peraturan Penasihat Kewangan (Pengecualian bagi Pengaturan Rentas Sempadan) (Perbadanan Berkaitan Asing) 2021"
+  },
+  "SG-H1547": {
+   "vi": "Quy chế Cố vấn tài chính (Miễn trừ yêu cầu phải có giấy phép tư vấn tài chính) 2014",
+   "th": "ข้อบังคับที่ปรึกษาทางการเงิน (การยกเว้นจากข้อกำหนดในการถือใบอนุญาตที่ปรึกษาทางการเงิน) 2014",
+   "id": "Peraturan Penasihat Keuangan (Pembebasan dari Persyaratan Memegang Izin Penasihat Keuangan) 2014",
+   "ms": "Peraturan Penasihat Kewangan (Pengecualian daripada Keperluan Memegang Lesen Penasihat Kewangan) 2014"
+  },
+  "SG-H1548": {
+   "vi": "Quy chế Cố vấn tài chính (Miễn trừ theo các Điều 25 đến 29 và Điều 36)",
+   "th": "ข้อบังคับที่ปรึกษาทางการเงิน (การยกเว้นตามมาตรา 25 ถึง 29 และมาตรา 36)",
+   "id": "Peraturan Penasihat Keuangan (Pembebasan Pasal 25 sampai 29 dan Pasal 36)",
+   "ms": "Peraturan Penasihat Kewangan (Pengecualian Seksyen 25 hingga 29 dan Seksyen 36)"
+  },
+  "SG-H1549": {
+   "vi": "Quy chế Cố vấn tài chính (Tài khoản phí bảo hiểm môi giới) (Quy định chuyển tiếp và bảo lưu)",
+   "th": "ข้อบังคับที่ปรึกษาทางการเงิน (บัญชีเบี้ยประกันภัยนายหน้า) (บทบัญญัติเฉพาะกาลและการสงวนสิทธิ)",
+   "id": "Peraturan Penasihat Keuangan (Akun Premi Pialang Asuransi) (Ketentuan Peralihan dan Penyimpanan Hak)",
+   "ms": "Peraturan Penasihat Kewangan (Akaun Premium Broker Insurans) (Peruntukan Peralihan dan Pemeliharaan)"
+  },
+  "SG-H1550": {
+   "vi": "Quy chế Cố vấn tài chính (Thù lao) 2015",
+   "th": "ข้อบังคับที่ปรึกษาทางการเงิน (ค่าตอบแทน) 2015",
+   "id": "Peraturan Penasihat Keuangan (Remunerasi) 2015",
+   "ms": "Peraturan Penasihat Kewangan (Ganjaran) 2015"
+  },
+  "SG-H1551": {
+   "vi": "Quy chế Cố vấn tài chính (Tiền gửi có cấu trúc — Sản phẩm đầu tư theo quy định và miễn trừ)",
+   "th": "ข้อบังคับที่ปรึกษาทางการเงิน (เงินฝากแบบมีโครงสร้าง — ผลิตภัณฑ์การลงทุนตามที่กำหนดและการยกเว้น)",
+   "id": "Peraturan Penasihat Keuangan (Deposito Terstruktur — Produk Investasi yang Ditetapkan dan Pembebasan)",
+   "ms": "Peraturan Penasihat Kewangan (Deposit Berstruktur — Produk Pelaburan yang Ditetapkan dan Pengecualian)"
+  },
+  "SG-H1559": {
+   "vi": "Lệnh Công ty cổ phần tài chính (Thu hồi chỉ định) 2024",
+   "th": "คำสั่งบริษัทโฮลดิ้งทางการเงิน (การถอนการกำหนด) 2024",
+   "id": "Perintah Perusahaan Induk Keuangan (Pencabutan Penetapan) 2024",
+   "ms": "Perintah Syarikat Pegangan Kewangan (Penarikan Balik Penetapan) 2024"
+  },
+  "SG-H1568": {
+   "vi": "Quy chế Dịch vụ tài chính và thị trường (Phong tỏa tài sản của cá nhân — Cộng hòa Dân chủ Congo) 2023",
+   "th": "ข้อบังคับบริการการเงินและตลาด (การอายัดทรัพย์สินของบุคคล — สาธารณรัฐประชาธิปไตยคองโก) 2023",
+   "id": "Peraturan Jasa Keuangan dan Pasar (Pembekuan Aset Orang — Republik Demokratik Kongo) 2023",
+   "ms": "Peraturan Perkhidmatan Kewangan dan Pasaran (Pembekuan Aset Orang — Republik Demokratik Congo) 2023"
+  },
+  "SG-H1569": {
+   "vi": "Quy chế Dịch vụ tài chính và thị trường (Phong tỏa tài sản của cá nhân — Nam Sudan) 2023",
+   "th": "ข้อบังคับบริการการเงินและตลาด (การอายัดทรัพย์สินของบุคคล — ซูดานใต้) 2023",
+   "id": "Peraturan Jasa Keuangan dan Pasar (Pembekuan Aset Orang — Sudan Selatan) 2023",
+   "ms": "Peraturan Perkhidmatan Kewangan dan Pasaran (Pembekuan Aset Orang — Sudan Selatan) 2023"
+  },
+  "SG-H1570": {
+   "vi": "Quy chế Dịch vụ tài chính và thị trường (Phong tỏa tài sản của cá nhân — Sudan) 2023",
+   "th": "ข้อบังคับบริการการเงินและตลาด (การอายัดทรัพย์สินของบุคคล — ซูดาน) 2023",
+   "id": "Peraturan Jasa Keuangan dan Pasar (Pembekuan Aset Orang — Sudan) 2023",
+   "ms": "Peraturan Perkhidmatan Kewangan dan Pasaran (Pembekuan Aset Orang — Sudan) 2023"
+  },
+  "SG-H1571": {
+   "vi": "Quy chế Dịch vụ tài chính và thị trường (Phong tỏa tài sản của cá nhân — Yemen) 2023",
+   "th": "ข้อบังคับบริการการเงินและตลาด (การอายัดทรัพย์สินของบุคคล — เยเมน) 2023",
+   "id": "Peraturan Jasa Keuangan dan Pasar (Pembekuan Aset Orang — Yaman) 2023",
+   "ms": "Peraturan Perkhidmatan Kewangan dan Pasaran (Pembekuan Aset Orang — Yaman) 2023"
+  },
+  "SG-H1572": {
+   "vi": "Quy chế Dịch vụ tài chính và thị trường (Chương trình chia sẻ thông tin cho tổ chức tài chính theo quy định) 2024",
+   "th": "ข้อบังคับบริการการเงินและตลาด (โครงการแบ่งปันข้อมูลสำหรับสถาบันการเงินตามที่กำหนด) 2024",
+   "id": "Peraturan Jasa Keuangan dan Pasar (Skema Berbagi Informasi bagi Lembaga Keuangan yang Ditetapkan) 2024",
+   "ms": "Peraturan Perkhidmatan Kewangan dan Pasaran (Skim Perkongsian Maklumat bagi Institusi Kewangan yang Ditetapkan) 2024"
+  },
+  "SG-H1573": {
+   "vi": "Quy chế Dịch vụ tài chính và thị trường (Quyền được lắng nghe) 2024",
+   "th": "ข้อบังคับบริการการเงินและตลาด (โอกาสในการชี้แจง) 2024",
+   "id": "Peraturan Jasa Keuangan dan Pasar (Kesempatan untuk Didengar) 2024",
+   "ms": "Peraturan Perkhidmatan Kewangan dan Pasaran (Peluang untuk Didengar) 2024"
+  },
+  "SG-H1574": {
+   "vi": "Quy chế Dịch vụ tài chính và thị trường (Tổ chức tài chính theo quy định tại Điều 49) 2024",
+   "th": "ข้อบังคับบริการการเงินและตลาด (สถาบันการเงินตามที่กำหนดภายใต้มาตรา 49) 2024",
+   "id": "Peraturan Jasa Keuangan dan Pasar (Lembaga Keuangan yang Ditetapkan menurut Pasal 49) 2024",
+   "ms": "Peraturan Perkhidmatan Kewangan dan Pasaran (Institusi Kewangan yang Ditetapkan di bawah Seksyen 49) 2024"
+  },
+  "SG-H1575": {
+   "vi": "Quy chế Dịch vụ tài chính và thị trường (Xử lý tổ chức tài chính) 2024",
+   "th": "ข้อบังคับบริการการเงินและตลาด (การแก้ไขสถาบันการเงิน) 2024",
+   "id": "Peraturan Jasa Keuangan dan Pasar (Resolusi Lembaga Keuangan) 2024",
+   "ms": "Peraturan Perkhidmatan Kewangan dan Pasaran (Resolusi Institusi Kewangan) 2024"
+  },
+  "SG-H1576": {
+   "vi": "Quy chế Dịch vụ tài chính và thị trường (Trừng phạt và phong tỏa tài sản của cá nhân — Cộng hòa Dân chủ Nhân dân Triều Tiên) 2023",
+   "th": "ข้อบังคับบริการการเงินและตลาด (การลงโทษและการอายัดทรัพย์สินของบุคคล — สาธารณรัฐประชาธิปไตยประชาชนเกาหลี) 2023",
+   "id": "Peraturan Jasa Keuangan dan Pasar (Sanksi dan Pembekuan Aset Orang — Republik Demokratik Rakyat Korea) 2023",
+   "ms": "Peraturan Perkhidmatan Kewangan dan Pasaran (Sanksi dan Pembekuan Aset Orang — Republik Demokratik Rakyat Korea) 2023"
+  },
+  "SG-H1577": {
+   "vi": "Quy chế Dịch vụ tài chính và thị trường (Trừng phạt và phong tỏa tài sản của cá nhân — Iran) 2023",
+   "th": "ข้อบังคับบริการการเงินและตลาด (การลงโทษและการอายัดทรัพย์สินของบุคคล — อิหร่าน) 2023",
+   "id": "Peraturan Jasa Keuangan dan Pasar (Sanksi dan Pembekuan Aset Orang — Iran) 2023",
+   "ms": "Peraturan Perkhidmatan Kewangan dan Pasaran (Sanksi dan Pembekuan Aset Orang — Iran) 2023"
+  },
+  "SG-H1578": {
+   "vi": "Quy chế Dịch vụ tài chính và thị trường (Trừng phạt và phong tỏa tài sản của cá nhân — Libya) 2023",
+   "th": "ข้อบังคับบริการการเงินและตลาด (การลงโทษและการอายัดทรัพย์สินของบุคคล — ลิเบีย) 2023",
+   "id": "Peraturan Jasa Keuangan dan Pasar (Sanksi dan Pembekuan Aset Orang — Libya) 2023",
+   "ms": "Peraturan Perkhidmatan Kewangan dan Pasaran (Sanksi dan Pembekuan Aset Orang — Libya) 2023"
+  },
+  "SG-H1579": {
+   "vi": "Quy chế Dịch vụ tài chính và thị trường (Trừng phạt và phong tỏa tài sản của cá nhân — Somalia) 2023",
+   "th": "ข้อบังคับบริการการเงินและตลาด (การลงโทษและการอายัดทรัพย์สินของบุคคล — โซมาเลีย) 2023",
+   "id": "Peraturan Jasa Keuangan dan Pasar (Sanksi dan Pembekuan Aset Orang — Somalia) 2023",
+   "ms": "Peraturan Perkhidmatan Kewangan dan Pasaran (Sanksi dan Pembekuan Aset Orang — Somalia) 2023"
+  },
+  "SG-H1587": {
+   "vi": "Lệnh An toàn cháy nổ (Miễn trừ) (Công trình tạm tại công trường)",
+   "th": "คำสั่งความปลอดภัยด้านอัคคีภัย (การยกเว้น) (อาคารชั่วคราวในสถานที่ก่อสร้าง)",
+   "id": "Perintah Keselamatan Kebakaran (Pembebasan) (Bangunan Sementara di Lokasi Konstruksi)",
+   "ms": "Perintah Keselamatan Kebakaran (Pengecualian) (Bangunan Sementara di Tapak Pembinaan)"
+  },
+  "SG-H1589": {
+   "vi": "Thông báo An toàn cháy nổ (Giấy chứng nhận phòng cháy — Tòa nhà được chỉ định) 2020",
+   "th": "ประกาศความปลอดภัยด้านอัคคีภัย (หนังสือรับรองการป้องกันอัคคีภัย — อาคารที่กำหนด) 2020",
+   "id": "Pemberitahuan Keselamatan Kebakaran (Sertifikat Kebakaran — Bangunan yang Ditetapkan) 2020",
+   "ms": "Pemberitahuan Keselamatan Kebakaran (Sijil Kebakaran — Bangunan yang Ditetapkan) 2020"
+  },
+  "SG-H1590": {
+   "vi": "Quy chế An toàn cháy nổ (Kỹ sư an toàn phòng cháy) (Quy tắc ứng xử và đạo đức nghề nghiệp)",
+   "th": "ข้อบังคับความปลอดภัยด้านอัคคีภัย (วิศวกรความปลอดภัยด้านอัคคีภัย) (จรรยาบรรณและจริยธรรมวิชาชีพ)",
+   "id": "Peraturan Keselamatan Kebakaran (Insinyur Keselamatan Kebakaran) (Kode Etik dan Perilaku Profesional)",
+   "ms": "Peraturan Keselamatan Kebakaran (Jurutera Keselamatan Kebakaran) (Kod Kelakuan dan Etika Profesional)"
+  },
+  "SG-H1591": {
+   "vi": "Quy chế An toàn cháy nổ (Kỹ sư an toàn phòng cháy)",
+   "th": "ข้อบังคับความปลอดภัยด้านอัคคีภัย (วิศวกรความปลอดภัยด้านอัคคีภัย)",
+   "id": "Peraturan Keselamatan Kebakaran (Insinyur Keselamatan Kebakaran)",
+   "ms": "Peraturan Keselamatan Kebakaran (Jurutera Keselamatan Kebakaran)"
+  },
+  "SG-H1592": {
+   "vi": "Quy chế An toàn cháy nổ (Quản lý an toàn phòng cháy)",
+   "th": "ข้อบังคับความปลอดภัยด้านอัคคีภัย (ผู้จัดการความปลอดภัยด้านอัคคีภัย)",
+   "id": "Peraturan Keselamatan Kebakaran (Manajer Keselamatan Kebakaran)",
+   "ms": "Peraturan Keselamatan Kebakaran (Pengurus Keselamatan Kebakaran)"
+  },
+  "SG-H1597": {
+   "vi": "Luật Can thiệp nước ngoài (Biện pháp đối phó) 2021",
+   "th": "พระราชบัญญัติการแทรกแซงจากต่างประเทศ (มาตรการตอบโต้) 2021",
+   "id": "Undang-Undang tentang Intervensi Asing (Tindakan Penangkalan) 2021",
+   "ms": "Akta Campur Tangan Asing (Langkah Menangani) 2021"
+  },
+  "SG-H1599": {
+   "vi": "Luật Quốc huy nước ngoài (Kiểm soát việc trưng bày) 1949",
+   "th": "พระราชบัญญัติตราแผ่นดินต่างประเทศ (การควบคุมการจัดแสดง) 1949",
+   "id": "Undang-Undang tentang Lambang Negara Asing (Pengendalian Penampilan) 1949",
+   "ms": "Akta Lambang Negara Asing (Kawalan Pemaparan) 1949"
+  },
+  "SG-H1614": {
+   "vi": "Quy tắc Chỉ dẫn địa lý (Hàng hóa theo quy định tại Điều 10) 2019",
+   "th": "กฎสิ่งบ่งชี้ทางภูมิศาสตร์ (สินค้าตามที่กำหนดภายใต้มาตรา 10) 2019",
+   "id": "Peraturan Indikasi Geografis (Barang yang Ditetapkan menurut Pasal 10) 2019",
+   "ms": "Kaedah Petunjuk Geografi (Barang yang Ditetapkan di bawah Seksyen 10) 2019"
+  },
+  "SG-H1626": {
+   "vi": "Lệnh Thuế hàng hóa và dịch vụ (Giao dịch bị loại trừ) 1994",
+   "th": "คำสั่งภาษีสินค้าและบริการ (ธุรกรรมที่ได้รับการยกเว้น) 1994",
+   "id": "Perintah Pajak Barang dan Jasa (Transaksi yang Dikecualikan) 1994",
+   "ms": "Perintah Cukai Barang dan Perkhidmatan (Transaksi yang Dikecualikan) 1994"
+  },
+  "SG-H1628": {
+   "vi": "Lệnh Thuế hàng hóa và dịch vụ (Miễn giảm đối với hàng nhập khẩu) 1994",
+   "th": "คำสั่งภาษีสินค้าและบริการ (การลดหย่อนสำหรับการนำเข้า) 1994",
+   "id": "Perintah Pajak Barang dan Jasa (Keringanan Impor) 1994",
+   "ms": "Perintah Cukai Barang dan Perkhidmatan (Pelepasan Import) 1994"
+  },
+  "SG-H1629": {
+   "vi": "Thông báo Thuế hàng hóa và dịch vụ (Miễn giảm theo thỏa thuận quốc tế) 1994",
+   "th": "ประกาศภาษีสินค้าและบริการ (การลดหย่อนตามข้อตกลงระหว่างประเทศ) 1994",
+   "id": "Pemberitahuan Pajak Barang dan Jasa (Keringanan menurut Pengaturan Internasional) 1994",
+   "ms": "Pemberitahuan Cukai Barang dan Perkhidmatan (Pelepasan menurut Pengaturan Antarabangsa) 1994"
+  },
+  "SG-H1630": {
+   "vi": "Lệnh Thuế hàng hóa và dịch vụ (Dịch vụ quốc tế) 1993",
+   "th": "คำสั่งภาษีสินค้าและบริการ (บริการระหว่างประเทศ) 1993",
+   "id": "Perintah Pajak Barang dan Jasa (Jasa Internasional) 1993",
+   "ms": "Perintah Cukai Barang dan Perkhidmatan (Perkhidmatan Antarabangsa) 1993"
+  },
+  "SG-H1631": {
+   "vi": "Quy chế Thuế hàng hóa và dịch vụ (Phương thức hoàn trả) 2021",
+   "th": "ข้อบังคับภาษีสินค้าและบริการ (วิธีการคืนเงิน) 2021",
+   "id": "Peraturan Pajak Barang dan Jasa (Cara Pembayaran Pengembalian) 2021",
+   "ms": "Peraturan Cukai Barang dan Perkhidmatan (Cara Pembayaran Bayaran Balik) 2021"
+  },
+  "SG-H1632": {
+   "vi": "Lệnh Thuế hàng hóa và dịch vụ (Cung ứng của cơ quan công quyền không chịu thuế) 2024",
+   "th": "คำสั่งภาษีสินค้าและบริการ (การจัดหาของหน่วยงานรัฐที่ไม่ต้องเสียภาษี) 2024",
+   "id": "Perintah Pajak Barang dan Jasa (Pasokan Badan Publik yang Tidak Kena Pajak) 2024",
+   "ms": "Perintah Cukai Barang dan Perkhidmatan (Bekalan Agensi Awam yang Tidak Bercukai) 2024"
+  },
+  "SG-H1634": {
+   "vi": "Lệnh Thuế hàng hóa và dịch vụ (Thông tin theo quy định) 2004",
+   "th": "คำสั่งภาษีสินค้าและบริการ (ข้อมูลตามที่กำหนด) 2004",
+   "id": "Perintah Pajak Barang dan Jasa (Informasi yang Ditetapkan) 2004",
+   "ms": "Perintah Cukai Barang dan Perkhidmatan (Maklumat yang Ditetapkan) 2004"
+  },
+  "SG-H1640": {
+   "vi": "Thông báo Bệnh viện công lập (Ủy quyền — Bộ Y tế) 1998",
+   "th": "ประกาศโรงพยาบาลของรัฐ (การมอบอำนาจ — กระทรวงสาธารณสุข) 1998",
+   "id": "Pemberitahuan Rumah Sakit Pemerintah (Pelimpahan Wewenang — Kementerian Kesehatan) 1998",
+   "ms": "Pemberitahuan Hospital Kerajaan (Penguntukan Kuasa — Kementerian Kesihatan) 1998"
+  },
+  "SG-H1641": {
+   "vi": "Quy tắc Bệnh viện công lập (Lệ phí) (Thu hồi) 2005",
+   "th": "กฎโรงพยาบาลของรัฐ (ค่าธรรมเนียม) (การเพิกถอน) 2005",
+   "id": "Peraturan Rumah Sakit Pemerintah (Biaya) (Pencabutan) 2005",
+   "ms": "Kaedah Hospital Kerajaan (Fi) (Pembatalan) 2005"
+  },
+  "SG-H1647": {
+   "vi": "Thông báo Chứng khoán chính phủ (Thị trường nợ và đầu tư) (Chế tài tài chính) 2010",
+   "th": "ประกาศหลักทรัพย์รัฐบาล (ตลาดตราสารหนี้และการลงทุน) (บทลงโทษทางการเงิน) 2010",
+   "id": "Pemberitahuan Surat Berharga Pemerintah (Pasar Utang dan Investasi) (Sanksi Finansial) 2010",
+   "ms": "Pemberitahuan Sekuriti Kerajaan (Pasaran Hutang dan Pelaburan) (Penalti Kewangan) 2010"
+  },
+  "SG-H1648": {
+   "vi": "Luật Chứng khoán chính phủ (Thị trường nợ và đầu tư) 1992",
+   "th": "พระราชบัญญัติหลักทรัพย์รัฐบาล (ตลาดตราสารหนี้และการลงทุน) 1992",
+   "id": "Undang-Undang tentang Surat Berharga Pemerintah (Pasar Utang dan Investasi) 1992",
+   "ms": "Akta Sekuriti Kerajaan (Pasaran Hutang dan Pelaburan) 1992"
+  },
+  "SG-H1649": {
+   "vi": "Quy chế Chứng khoán chính phủ (Thị trường nợ và đầu tư) 2023",
+   "th": "ข้อบังคับหลักทรัพย์รัฐบาล (ตลาดตราสารหนี้และการลงทุน) 2023",
+   "id": "Peraturan Surat Berharga Pemerintah (Pasar Utang dan Investasi) 2023",
+   "ms": "Peraturan Sekuriti Kerajaan (Pasaran Hutang dan Pelaburan) 2023"
+  },
+  "SG-H1658": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Xử lý tiền chất nổ — Giấy phép theo nhóm) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การกำจัดสารตั้งต้นวัตถุระเบิด — ใบอนุญาตประเภทกลุ่ม) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Pembuangan Prekursor Bahan Peledak — Izin Kelas) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Pelupusan Prekursor Bahan Letupan — Lesen Kelas) 2025"
+  },
+  "SG-H1659": {
+   "vi": "Quy chế Kiểm soát súng, chất nổ và vũ khí (Vật liệu nổ và tiền chất nổ) 2025",
+   "th": "ข้อบังคับการควบคุมปืน วัตถุระเบิด และอาวุธ (วัตถุระเบิดและสารตั้งต้นวัตถุระเบิด) 2025",
+   "id": "Peraturan Pengendalian Senjata Api, Bahan Peledak dan Senjata (Bahan Peledak dan Prekursor Bahan Peledak) 2025",
+   "ms": "Peraturan Kawalan Senjata Api, Bahan Letupan dan Senjata (Bahan Letupan dan Prekursor Bahan Letupan) 2025"
+  },
+  "SG-H1660": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Vật liệu nổ — Miễn trừ) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (วัตถุระเบิด — การยกเว้น) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Bahan Peledak — Pembebasan) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Bahan Letupan — Pengecualian) 2025"
+  },
+  "SG-H1661": {
+   "vi": "Quy chế Kiểm soát súng, chất nổ và vũ khí (Các vấn đề chung) 2025",
+   "th": "ข้อบังคับการควบคุมปืน วัตถุระเบิด และอาวุธ (เรื่องทั่วไป) 2025",
+   "id": "Peraturan Pengendalian Senjata Api, Bahan Peledak dan Senjata (Hal Umum) 2025",
+   "ms": "Peraturan Kawalan Senjata Api, Bahan Letupan dan Senjata (Perkara Am) 2025"
+  },
+  "SG-H1662": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Xử lý súng — Giấy phép theo nhóm) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การกำจัดอาวุธปืน — ใบอนุญาตประเภทกลุ่ม) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Pembuangan Senjata Api — Izin Kelas) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Pelupusan Senjata Api — Lesen Kelas) 2025"
+  },
+  "SG-H1663": {
+   "vi": "Quy chế Kiểm soát súng, chất nổ và vũ khí (Súng) 2025",
+   "th": "ข้อบังคับการควบคุมปืน วัตถุระเบิด และอาวุธ (อาวุธปืน) 2025",
+   "id": "Peraturan Pengendalian Senjata Api, Bahan Peledak dan Senjata (Senjata Api) 2025",
+   "ms": "Peraturan Kawalan Senjata Api, Bahan Letupan dan Senjata (Senjata Api) 2025"
+  },
+  "SG-H1664": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Sản xuất, mua bán, cung cấp, vận chuyển và xử lý vũ khí loại 2 — Giấy phép theo nhóm) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การผลิต การค้า การจัดหา การขนส่ง และการกำจัดอาวุธประเภท 2 — ใบอนุญาตประเภทกลุ่ม) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Pembuatan, Perdagangan, Pasokan, Pengangkutan dan Pembuangan Senjata Tipe 2 — Izin Kelas) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Pembuatan, Perdagangan, Pembekalan, Pengangkutan dan Pelupusan Senjata Jenis 2 — Lesen Kelas) 2025"
+  },
+  "SG-H1665": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Ngành hàng hải — Miễn trừ) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (อุตสาหกรรมทางทะเล — การยกเว้น) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Industri Maritim — Pembebasan) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Industri Maritim — Pengecualian) 2025"
+  },
+  "SG-H1666": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Sử dụng làm đồ trang trí — Giấy phép theo nhóm) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การใช้เป็นเครื่องประดับ — ใบอนุญาตประเภทกลุ่ม) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Penggunaan sebagai Ornamen — Izin Kelas) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Penggunaan sebagai Hiasan — Lesen Kelas) 2025"
+  },
+  "SG-H1667": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Sử dụng vũ khí cho mục đích tôn giáo — Giấy phép theo nhóm) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การใช้อาวุธเพื่อวัตถุประสงค์ทางศาสนา — ใบอนุญาตประเภทกลุ่ม) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Penggunaan Senjata untuk Keperluan Keagamaan — Izin Kelas) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Penggunaan Senjata untuk Tujuan Keagamaan — Lesen Kelas) 2025"
+  },
+  "SG-H1668": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Đoàn thể đồng phục học đường — Miễn trừ) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (กองกำลังนักเรียนในเครื่องแบบ — การยกเว้น) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Korps Berseragam Sekolah — Pembebasan) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Kor Keseragaman Sekolah — Pengecualian) 2025"
+  },
+  "SG-H1669": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Sử dụng trong trường học — Giấy phép theo nhóm) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การใช้ในโรงเรียน — ใบอนุญาตประเภทกลุ่ม) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Penggunaan di Sekolah — Izin Kelas) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Penggunaan di Sekolah — Lesen Kelas) 2025"
+  },
+  "SG-H1670": {
+   "vi": "Quy chế Kiểm soát súng, chất nổ và vũ khí (Kiểm tra an ninh) 2025",
+   "th": "ข้อบังคับการควบคุมปืน วัตถุระเบิด และอาวุธ (การตรวจสอบความปลอดภัย) 2025",
+   "id": "Peraturan Pengendalian Senjata Api, Bahan Peledak dan Senjata (Kelayakan Keamanan) 2025",
+   "ms": "Peraturan Kawalan Senjata Api, Bahan Letupan dan Senjata (Pelepasan Keselamatan) 2025"
+  },
+  "SG-H1671": {
+   "vi": "Quy chế Kiểm soát súng, chất nổ và vũ khí (Trường bắn và sân bắn sơn) 2025",
+   "th": "ข้อบังคับการควบคุมปืน วัตถุระเบิด และอาวุธ (สนามยิงปืนและสนามเพนต์บอล) 2025",
+   "id": "Peraturan Pengendalian Senjata Api, Bahan Peledak dan Senjata (Lapangan Tembak dan Lapangan Paintball) 2025",
+   "ms": "Peraturan Kawalan Senjata Api, Bahan Letupan dan Senjata (Padang Menembak dan Padang Paintball) 2025"
+  },
+  "SG-H1672": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Nhân viên đặc biệt của chủ giấy phép — Giấy phép theo nhóm) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (เจ้าหน้าที่พิเศษของผู้ถือใบอนุญาต — ใบอนุญาตประเภทกลุ่ม) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Pekerja Khusus Pemegang Izin — Izin Kelas) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Pekerja Khas Pemegang Lesen — Lesen Kelas) 2025"
+  },
+  "SG-H1673": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Sử dụng cho thể thao hoặc giải trí — Giấy phép theo nhóm) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การใช้เพื่อการกีฬาหรือนันทนาการ — ใบอนุญาตประเภทกลุ่ม) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Penggunaan untuk Olahraga atau Rekreasi — Izin Kelas) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Penggunaan untuk Sukan atau Rekreasi — Lesen Kelas) 2025"
+  },
+  "SG-H1674": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Miễn trừ tạm thời) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การยกเว้นชั่วคราว) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Pembebasan Sementara) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Pengecualian Sementara) 2025"
+  },
+  "SG-H1675": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Sử dụng trong biểu diễn sân khấu — Giấy phép theo nhóm) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การใช้ในการแสดงละคร — ใบอนุญาตประเภทกลุ่ม) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Penggunaan untuk Pertunjukan Teater — Izin Kelas) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Penggunaan untuk Persembahan Teater — Lesen Kelas) 2025"
+  },
+  "SG-H1676": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Vận chuyển tiền chất nổ — Giấy phép theo nhóm) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การขนส่งสารตั้งต้นวัตถุระเบิด — ใบอนุญาตประเภทกลุ่ม) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Pengangkutan Prekursor Bahan Peledak — Izin Kelas) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Pengangkutan Prekursor Bahan Letupan — Lesen Kelas) 2025"
+  },
+  "SG-H1677": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Vận chuyển phục vụ quản lý động vật — Giấy phép theo nhóm) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การขนส่งเพื่อการจัดการสัตว์ — ใบอนุญาตประเภทกลุ่ม) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Pengangkutan untuk Pengelolaan Hewan — Izin Kelas) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Pengangkutan untuk Pengurusan Haiwan — Lesen Kelas) 2025"
+  },
+  "SG-H1678": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Vận chuyển vật liệu nổ có rủi ro thấp — Giấy phép theo nhóm) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การขนส่งวัตถุระเบิดที่มีความเสี่ยงต่ำ — ใบอนุญาตประเภทกลุ่ม) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Pengangkutan Bahan Peledak Berisiko Rendah — Izin Kelas) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Pengangkutan Bahan Letupan Berisiko Rendah — Lesen Kelas) 2025"
+  },
+  "SG-H1679": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Vũ khí loại 3 — Miễn trừ) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (อาวุธประเภท 3 — การยกเว้น) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Senjata Tipe 3 — Pembebasan) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Senjata Jenis 3 — Pengecualian) 2025"
+  },
+  "SG-H1680": {
+   "vi": "Quy chế Kiểm soát súng, chất nổ và vũ khí (Vũ khí và chất độc hại) 2025",
+   "th": "ข้อบังคับการควบคุมปืน วัตถุระเบิด และอาวุธ (อาวุธและสารอันตราย) 2025",
+   "id": "Peraturan Pengendalian Senjata Api, Bahan Peledak dan Senjata (Senjata dan Zat Berbahaya) 2025",
+   "ms": "Peraturan Kawalan Senjata Api, Bahan Letupan dan Senjata (Senjata dan Bahan Berbahaya) 2025"
+  },
+  "SG-H2312": {
+   "vi": "Quy tắc Thuế thu nhập (Phương thức hoàn trả) 2021",
+   "th": "กฎภาษีเงินได้ (วิธีการคืนเงิน) 2021",
+   "id": "Peraturan Pajak Penghasilan (Cara Pembayaran Pengembalian) 2021",
+   "ms": "Kaedah Cukai Pendapatan (Cara Pembayaran Bayaran Balik) 2021"
+  },
+  "SG-H2825": {
+   "vi": "Quy chế Bảo hiểm (Thù lao) 2015",
+   "th": "ข้อบังคับการประกันภัย (ค่าตอบแทน) 2015",
+   "id": "Peraturan Asuransi (Remunerasi) 2015",
+   "ms": "Peraturan Insurans (Ganjaran) 2015"
+  },
+  "SG-H3249": {
+   "vi": "Thông báo Cơ quan Tiền tệ Singapore (Phạt tiền) 2013",
+   "th": "ประกาศองค์การเงินตราแห่งสิงคโปร์ (ค่าปรับทางการเงิน) 2013",
+   "id": "Pemberitahuan Otoritas Moneter Singapura (Sanksi Finansial) 2013",
+   "ms": "Pemberitahuan Pihak Berkuasa Monetari Singapura (Penalti Kewangan) 2013"
+  },
+  "SG-H3275": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Khu Hành chính Đặc biệt Hồng Kông thuộc Cộng hòa Nhân dân Trung Hoa) 2004",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (เขตบริหารพิเศษฮ่องกงแห่งสาธารณรัฐประชาชนจีน) 2004",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (Daerah Administratif Khusus Hong Kong Republik Rakyat Tiongkok) 2004",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (Wilayah Pentadbiran Khas Hong Kong Republik Rakyat China) 2004"
+  },
+  "SG-H3283": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Cộng hòa Indonesia) 2008",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (สาธารณรัฐอินโดนีเซีย) 2008",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (Republik Indonesia) 2008",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (Republik Indonesia) 2008"
+  },
+  "SG-H3284": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Đại Hàn Dân Quốc) 2026",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (สาธารณรัฐเกาหลี) 2026",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (Republik Korea) 2026",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (Republik Korea) 2026"
+  }
+ }
+}

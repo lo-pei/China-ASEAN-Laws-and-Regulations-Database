@@ -1,0 +1,49 @@
+PASS  核心模块已加载
+PASS  countries = 12  [实际 12]
+PASS  laws >= 60  [实际 1660]
+PASS  articles >= 240  [实际 10628]
+PASS  terms >= 120  [实际 214]
+PASS  treaties >= 6  [实际 18]
+PASS  cases >= 8  [实际 10]
+PASS  revisions >= 8  [实际 12]
+PASS  qa.curated >= 12  [实际 15]
+PASS  qa.outOfScope 非空
+PASS  所有法规的 country 均存在
+PASS  relatedLawIds 全部可解析
+PASS  citedBy 全部可解析
+PASS  revision.lawId 全部可解析
+PASS  revision.changes.articleId 全部可解析
+PASS  article.termIds 全部可解析
+PASS  qa 引用条文全部可解析
+PASS  每条条文均有文本
+PASS  关键字段无缺失
+PASS  三语（含本国语）条文 >= 60  [实际 83]
+PASS  >=5 语种译文的术语 >= 40  [实际 73]
+PASS  MVP 五国每家 >= 6 部法规
+PASS  每个法域至少 1 部法规
+PASS  关键词检索有结果  [total=60]
+PASS  自然语言检索有结果  [total=831]
+PASS  语义检索返回相关度  [top=70.87167854655866]
+PASS  法条编号精确检索（第 1 条）有结果  [total=118]
+PASS  文号精确检索命中  [61/2020/QH14 total=1]
+PASS  空查询 + 国别筛选可用  [total=8]
+PASS  时效性筛选生效  [total=1616]
+PASS  英文检索有结果  [total=28]
+INFO  越南语检索（đầu tư）命中 70 部
+PASS  存在含术语的法规  [VN-INVEST-2020]
+PASS  术语对照表有数据行  [rows=6]
+PASS  条文术语标注生成 HTML
+PASS  术语详情弹窗可生成
+INFO  问答「越南外资企业的最低注册资本要求是什么？」inScope=true 引用=4 top=78.57341502438895
+INFO  问答「马来西亚劳动合同试用期如何规定？」inScope=true 引用=5 top=114.45215494159962
+INFO  问答「印度尼西亚对个人数据本地化有哪些要求？」inScope=true 引用=2 top=161.6660479315473
+INFO  问答「新加坡公司注册需要哪些条件？」inScope=true 引用=1 top=91.57862226302782
+INFO  问答「今天北京天气怎么样？」inScope=false 引用=0 top=0
+PASS  AI 问答：溯源与幻觉防护全部符合预期
+PASS  新法速递有数据
+PASS  相关法规推荐可生成
+PASS  国家名称可取值
+PASS  层级/状态名称可取值
+
+FAILED=0
+

@@ -1,0 +1,486 @@
+{
+ "batch": "sg-p1-b03",
+ "count": 80,
+ "items": {
+  "SG-H3637": {
+   "vi": "Luật Chứng khoán và Phái sinh 2001",
+   "th": "พระราชบัญญัติหลักทรัพย์และสัญญาซื้อขายล่วงหน้า 2001",
+   "id": "Undang-Undang tentang Sekuriti dan Niaga Hadapan 2001",
+   "ms": "Akta Sekuriti dan Niaga Hadapan 2001"
+  },
+  "SG-H3499": {
+   "vi": "Bộ luật Hình sự 1871",
+   "th": "ประมวลกฎหมายอาญา 1871",
+   "id": "Kitab Undang-Undang Hukum Pidana 1871",
+   "ms": "Kanun Keseksaan 1871"
+  },
+  "SG-H1595": {
+   "vi": "Luật An toàn và Bảo đảm Thực phẩm 2025",
+   "th": "พระราชบัญญัติความปลอดภัยและความมั่นคงด้านอาหาร 2025",
+   "id": "Undang-Undang tentang Keamanan dan Ketahanan Pangan 2025",
+   "ms": "Akta Keselamatan dan Sekuriti Makanan 2025"
+  },
+  "SG-H3647": {
+   "vi": "Luật Lực lượng Vũ trang Singapore 1972",
+   "th": "พระราชบัญญัติกองทัพสิงคโปร์ 1972",
+   "id": "Undang-Undang tentang Angkatan Bersenjata Singapura 1972",
+   "ms": "Akta Angkatan Tentera Singapura 1972"
+  },
+  "SG-H3622": {
+   "vi": "Luật Giao thông Đường bộ 1961",
+   "th": "พระราชบัญญัติจราจรทางบก 1961",
+   "id": "Undang-Undang tentang Lalu Lintas Jalan 1961",
+   "ms": "Akta Pengangkutan Jalan 1961"
+  },
+  "SG-H3733": {
+   "vi": "Hiến chương Phụ nữ 1961",
+   "th": "กฎบัตรสตรี 1961",
+   "id": "Piagam Perempuan 1961",
+   "ms": "Piagam Wanita 1961"
+  },
+  "SG-H3250": {
+   "vi": "Luật Cơ quan Tiền tệ Singapore 1970",
+   "th": "พระราชบัญญัติองค์การเงินตราแห่งสิงคโปร์ 1970",
+   "id": "Undang-Undang tentang Otoritas Moneter Singapura 1970",
+   "ms": "Akta Pihak Berkuasa Monetari Singapura 1970"
+  },
+  "SG-H1430": {
+   "vi": "Luật Chứng cứ 1893",
+   "th": "พระราชบัญญัติพยานหลักฐาน 1893",
+   "id": "Undang-Undang tentang Alat Bukti 1893",
+   "ms": "Akta Keterangan 1893"
+  },
+  "SG-H3721": {
+   "vi": "Luật Công ty Vốn Thay đổi 2018",
+   "th": "พระราชบัญญัติบริษัททุนผันแปร 2018",
+   "id": "Undang-Undang tentang Perusahaan Modal Variabel 2018",
+   "ms": "Akta Syarikat Modal Boleh Ubah 2018"
+  },
+  "SG-H3490": {
+   "vi": "Luật Bầu cử Nghị viện 1954",
+   "th": "พระราชบัญญัติการเลือกตั้งรัฐสภา 1954",
+   "id": "Undang-Undang tentang Pemilihan Parlemen 1954",
+   "ms": "Akta Pilihan Raya Parlimen 1954"
+  },
+  "SG-H3571": {
+   "vi": "Luật Lực lượng Cảnh sát 2004",
+   "th": "พระราชบัญญัติกองกำลังตำรวจ 2004",
+   "id": "Undang-Undang tentang Pasukan Polisi 2004",
+   "ms": "Akta Pasukan Polis 2004"
+  },
+  "SG-H3497": {
+   "vi": "Luật Dịch vụ Thanh toán 2019",
+   "th": "พระราชบัญญัติบริการชำระเงิน 2019",
+   "id": "Undang-Undang tentang Jasa Pembayaran 2019",
+   "ms": "Akta Perkhidmatan Pembayaran 2019"
+  },
+  "SG-H3579": {
+   "vi": "Luật Bầu cử Tổng thống 1991",
+   "th": "พระราชบัญญัติการเลือกตั้งประธานาธิบดี 1991",
+   "id": "Undang-Undang tentang Pemilihan Presiden 1991",
+   "ms": "Akta Pilihan Raya Presiden 1991"
+  },
+  "SG-H3584": {
+   "vi": "Luật Trại giam 1933",
+   "th": "พระราชบัญญัติเรือนจำ 1933",
+   "id": "Undang-Undang tentang Lembaga Pemasyarakatan 1933",
+   "ms": "Akta Penjara 1933"
+  },
+  "SG-H1608": {
+   "vi": "Luật Khí đốt 2001",
+   "th": "พระราชบัญญัติก๊าซ 2001",
+   "id": "Undang-Undang tentang Gas 2001",
+   "ms": "Akta Gas 2001"
+  },
+  "SG-H3714": {
+   "vi": "Luật Người được Ủy thác 1967",
+   "th": "พระราชบัญญัติผู้ดูแลทรัพย์สิน 1967",
+   "id": "Undang-Undang tentang Wali Amanat 1967",
+   "ms": "Akta Pemegang Amanah 1967"
+  },
+  "SG-H008": {
+   "vi": "Luật Nhãn hiệu 1998",
+   "th": "พระราชบัญญัติเครื่องหมายการค้า 1998",
+   "id": "Undang-Undang tentang Merek 1998",
+   "ms": "Akta Cap Dagangan 1998"
+  },
+  "SG-H1233": {
+   "vi": "Luật Điện lực 2001",
+   "th": "พระราชบัญญัติไฟฟ้า 2001",
+   "id": "Undang-Undang tentang Ketenagalistrikan 2001",
+   "ms": "Akta Elektrik 2001"
+  },
+  "SG-H412": {
+   "vi": "Luật Tín thác Thương mại 2004",
+   "th": "พระราชบัญญัติทรัสต์ธุรกิจ 2004",
+   "id": "Undang-Undang tentang Perwaliamanatan Bisnis 2004",
+   "ms": "Akta Amanah Perniagaan 2004"
+  },
+  "SG-H001": {
+   "vi": "Luật Sáng chế 1994",
+   "th": "พระราชบัญญัติสิทธิบัตร 1994",
+   "id": "Undang-Undang tentang Paten 1994",
+   "ms": "Akta Paten 1994"
+  },
+  "SG-H3603": {
+   "vi": "Luật Dịch vụ Công ích 2001",
+   "th": "พระราชบัญญัติสาธารณูปโภค 2001",
+   "id": "Undang-Undang tentang Utilitas Publik 2001",
+   "ms": "Akta Utiliti Awam 2001"
+  },
+  "SG-H3641": {
+   "vi": "Luật Xử lý Nước thải, Thoát nước và Bảo vệ Bờ biển 1999",
+   "th": "พระราชบัญญัติการบำบัดน้ำเสีย การระบายน้ำ และการคุ้มครองชายฝั่ง 1999",
+   "id": "Undang-Undang tentang Pengolahan Air Limbah, Drainase dan Perlindungan Pesisir 1999",
+   "ms": "Akta Pembetungan, Saliran dan Perlindungan Pesisir 1999"
+  },
+  "SG-H3734": {
+   "vi": "Luật Bồi thường Tai nạn Lao động 2019",
+   "th": "พระราชบัญญัติค่าชดเชยการบาดเจ็บจากการทำงาน 2019",
+   "id": "Undang-Undang tentang Kompensasi Kecelakaan Kerja 2019",
+   "ms": "Akta Pampasan Kecederaan Kerja 2019"
+  },
+  "SG-H3694": {
+   "vi": "Luật Tư pháp Tòa án Tối cao 1969",
+   "th": "พระราชบัญญัติตุลาการศาลสูงสุด 1969",
+   "id": "Undang-Undang tentang Kehakiman Mahkamah Agung 1969",
+   "ms": "Akta Kehakiman Mahkamah Agung 1969"
+  },
+  "SG-H3713": {
+   "vi": "Luật Công ty Ủy thác 2005",
+   "th": "พระราชบัญญัติบริษัททรัสต์ 2005",
+   "id": "Undang-Undang tentang Perusahaan Perwaliamanatan 2005",
+   "ms": "Akta Syarikat Amanah 2005"
+  },
+  "SG-H3610": {
+   "vi": "Luật Kiểu dáng Công nghiệp Đã đăng ký 2000",
+   "th": "พระราชบัญญัติการออกแบบที่จดทะเบียน 2000",
+   "id": "Undang-Undang tentang Desain Terdaftar 2000",
+   "ms": "Akta Reka Bentuk Berdaftar 2000"
+  },
+  "SG-H3574": {
+   "vi": "Luật Dịch vụ Bưu chính 1999",
+   "th": "พระราชบัญญัติบริการไปรษณีย์ 1999",
+   "id": "Undang-Undang tentang Jasa Pos 1999",
+   "ms": "Akta Perkhidmatan Pos 1999"
+  },
+  "SG-H002": {
+   "vi": "Luật Bảo vệ Dữ liệu Cá nhân 2012",
+   "th": "พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล 2012",
+   "id": "Undang-Undang tentang Perlindungan Data Pribadi 2012",
+   "ms": "Akta Perlindungan Data Peribadi 2012"
+  },
+  "SG-H307": {
+   "vi": "Luật Hối phiếu 1949",
+   "th": "พระราชบัญญัติตั๋วแลกเงิน 1949",
+   "id": "Undang-Undang tentang Surat Wesel 1949",
+   "ms": "Akta Bil Pertukaran 1949"
+  },
+  "SG-H1605": {
+   "vi": "Luật Kiểm soát Cờ bạc 2022",
+   "th": "พระราชบัญญัติควบคุมการพนัน 2022",
+   "id": "Undang-Undang tentang Pengendalian Perjudian 2022",
+   "ms": "Akta Kawalan Perjudian 2022"
+  },
+  "SG-H1230": {
+   "vi": "Luật Sạc Xe điện 2022",
+   "th": "พระราชบัญญัติการชาร์จยานยนต์ไฟฟ้า 2022",
+   "id": "Undang-Undang tentang Pengisian Daya Kendaraan Listrik 2022",
+   "ms": "Akta Pengecasan Kenderaan Elektrik 2022"
+  },
+  "SG-H3605": {
+   "vi": "Luật Đường sắt 1905",
+   "th": "พระราชบัญญัติการรถไฟ 1905",
+   "id": "Undang-Undang tentang Perkeretaapian 1905",
+   "ms": "Akta Keretapi 1905"
+  },
+  "SG-H3253": {
+   "vi": "Luật Người cho vay 2008",
+   "th": "พระราชบัญญัติผู้ให้กู้ยืม 2008",
+   "id": "Undang-Undang tentang Pemberi Pinjaman 2008",
+   "ms": "Akta Pemberi Pinjam Wang 2008"
+  },
+  "SG-H3695": {
+   "vi": "Luật Viễn thông 1999",
+   "th": "พระราชบัญญัติโทรคมนาคม 1999",
+   "id": "Undang-Undang tentang Telekomunikasi 1999",
+   "ms": "Akta Telekomunikasi 1999"
+  },
+  "SG-H3073": {
+   "vi": "Luật Bảo hiểm Hàng hải 1906",
+   "th": "พระราชบัญญัติประกันภัยทางทะเล 1906",
+   "id": "Undang-Undang tentang Asuransi Laut 1906",
+   "ms": "Akta Insurans Marin 1906"
+  },
+  "SG-H3663": {
+   "vi": "Luật Cục Du lịch Singapore 1963",
+   "th": "พระราชบัญญัติคณะกรรมการการท่องเที่ยวสิงคโปร์ 1963",
+   "id": "Undang-Undang tentang Dewan Pariwisata Singapura 1963",
+   "ms": "Akta Lembaga Pelancongan Singapura 1963"
+  },
+  "SG-H3675": {
+   "vi": "Luật Thuế Trước bạ 1929",
+   "th": "พระราชบัญญัติอากรแสตมป์ 1929",
+   "id": "Undang-Undang tentang Bea Meterai 1929",
+   "ms": "Akta Setem 1929"
+  },
+  "SG-H3272": {
+   "vi": "Quy tắc Hôn nhân và Ly hôn của Người Hồi giáo",
+   "th": "กฎการสมรสและการหย่าของชาวมุสลิม",
+   "id": "Peraturan Perkawinan dan Perceraian Muslim",
+   "ms": "Kaedah Perkahwinan dan Perceraian Islam"
+  },
+  "SG-H3495": {
+   "vi": "Luật Cầm đồ 2015",
+   "th": "พระราชบัญญัติโรงรับจำนำ 2015",
+   "id": "Undang-Undang tentang Pegadaian 2015",
+   "ms": "Akta Pajak Gadai 2015"
+  },
+  "SG-H1138": {
+   "vi": "Luật Đăng ký Hành nghề Nha khoa 1999",
+   "th": "พระราชบัญญัติการขึ้นทะเบียนทันตกรรม 1999",
+   "id": "Undang-Undang tentang Registrasi Kedokteran Gigi 1999",
+   "ms": "Akta Pendaftaran Pergigian 1999"
+  },
+  "SG-H3606": {
+   "vi": "Luật Hệ thống Giao thông Nhanh 1995",
+   "th": "พระราชบัญญัติระบบขนส่งมวลชนเร็ว 1995",
+   "id": "Undang-Undang tentang Sistem Angkutan Cepat 1995",
+   "ms": "Akta Sistem Transit Pantas 1995"
+  },
+  "SG-H3561": {
+   "vi": "Quy tắc Bảo hộ Giống cây trồng",
+   "th": "กฎการคุ้มครองพันธุ์พืช",
+   "id": "Peraturan Perlindungan Varietas Tanaman",
+   "ms": "Kaedah Perlindungan Varieti Tumbuhan"
+  },
+  "SG-H847": {
+   "vi": "Luật Chuyển nhượng và Tài sản 1886",
+   "th": "พระราชบัญญัติการโอนกรรมสิทธิ์และทรัพย์สิน 1886",
+   "id": "Undang-Undang tentang Pengalihan Hak dan Harta 1886",
+   "ms": "Akta Pemindahan Hakmilik dan Harta 1886"
+  },
+  "SG-H136": {
+   "vi": "Luật Nuôi con nuôi 2022",
+   "th": "พระราชบัญญัติการรับบุตรบุญธรรม 2022",
+   "id": "Undang-Undang tentang Pengangkatan Anak 2022",
+   "ms": "Akta Pengangkatan Anak 2022"
+  },
+  "SG-H3676": {
+   "vi": "Luật Tòa án Bang 1970",
+   "th": "พระราชบัญญัติศาลรัฐ 1970",
+   "id": "Undang-Undang tentang Pengadilan Negara 1970",
+   "ms": "Akta Mahkamah Negeri 1970"
+  },
+  "SG-H3460": {
+   "vi": "Luật Tội phạm Có tổ chức 2015",
+   "th": "พระราชบัญญัติอาชญากรรมองค์กร 2015",
+   "id": "Undang-Undang tentang Kejahatan Terorganisasi 2015",
+   "ms": "Akta Jenayah Terancang 2015"
+  },
+  "SG-H3619": {
+   "vi": "Luật Bền vững Tài nguyên 2019",
+   "th": "พระราชบัญญัติความยั่งยืนของทรัพยากร 2019",
+   "id": "Undang-Undang tentang Keberlanjutan Sumber Daya 2019",
+   "ms": "Akta Kelestarian Sumber 2019"
+  },
+  "SG-H3666": {
+   "vi": "Luật Cơ quan Phát triển Kỹ năng và Lực lượng Lao động 2026",
+   "th": "พระราชบัญญัติองค์การพัฒนาทักษะและกำลังแรงงาน 2026",
+   "id": "Undang-Undang tentang Badan Pengembangan Keterampilan dan Tenaga Kerja 2026",
+   "ms": "Akta Agensi Pembangunan Kemahiran dan Tenaga Kerja 2026"
+  },
+  "SG-H3705": {
+   "vi": "Luật Hội đồng Thị trấn 1988",
+   "th": "พระราชบัญญัติสภาเมือง 1988",
+   "id": "Undang-Undang tentang Dewan Kota 1988",
+   "ms": "Akta Majlis Bandaran 1988"
+  },
+  "SG-H909": {
+   "vi": "Luật Cục Thông tin Tín dụng 2016",
+   "th": "พระราชบัญญัติสำนักข้อมูลเครดิต 2016",
+   "id": "Undang-Undang tentang Biro Kredit 2016",
+   "ms": "Akta Biro Kredit 2016"
+  },
+  "SG-H1650": {
+   "vi": "Luật Cơ quan Công nghệ Chính phủ 2016",
+   "th": "พระราชบัญญัติองค์การเทคโนโลยีรัฐบาล 2016",
+   "id": "Undang-Undang tentang Badan Teknologi Pemerintah 2016",
+   "ms": "Akta Agensi Teknologi Kerajaan 2016"
+  },
+  "SG-H3590": {
+   "vi": "Luật Thuế Tài sản 1960",
+   "th": "พระราชบัญญัติภาษีทรัพย์สิน 1960",
+   "id": "Undang-Undang tentang Pajak Properti 1960",
+   "ms": "Akta Cukai Harta 1960"
+  },
+  "SG-H3735": {
+   "vi": "Luật An toàn và Sức khỏe Nơi làm việc 2006",
+   "th": "พระราชบัญญัติความปลอดภัยและอาชีวอนามัยในสถานที่ทำงาน 2006",
+   "id": "Undang-Undang tentang Keselamatan dan Kesehatan Kerja 2006",
+   "ms": "Akta Keselamatan dan Kesihatan Pekerjaan 2006"
+  },
+  "SG-H185": {
+   "vi": "Luật Các ngành Y tế Tổng hợp 2011",
+   "th": "พระราชบัญญัติวิชาชีพสุขภาพแบบผสมผสาน 2011",
+   "id": "Undang-Undang tentang Profesi Kesehatan Terpadu 2011",
+   "ms": "Akta Profesion Kesihatan Bersekutu 2011"
+  },
+  "SG-H3671": {
+   "vi": "Luật Cơ sở Lưu trú Xã hội 2025",
+   "th": "พระราชบัญญัติสถานสงเคราะห์ที่พักอาศัย 2025",
+   "id": "Undang-Undang tentang Panti Sosial Hunian 2025",
+   "ms": "Akta Rumah Kediaman Sosial 2025"
+  },
+  "SG-H3703": {
+   "vi": "Luật Kiểm soát Thuốc lá và Thuốc lá điện tử 1993",
+   "th": "พระราชบัญญัติควบคุมยาสูบและบุหรี่ไฟฟ้า 1993",
+   "id": "Undang-Undang tentang Pengendalian Tembakau dan Rokok Elektrik 1993",
+   "ms": "Akta Kawalan Tembakau dan Vape 1993"
+  },
+  "SG-H1195": {
+   "vi": "Quy chế Trung tâm Phát triển Trẻ thơ 2018",
+   "th": "ข้อบังคับศูนย์พัฒนาเด็กปฐมวัย 2018",
+   "id": "Peraturan Pusat Pengembangan Anak Usia Dini 2018",
+   "ms": "Peraturan Pusat Perkembangan Kanak-Kanak Awal 2018"
+  },
+  "SG-H3504": {
+   "vi": "Luật Đăng ký Dược sĩ 2007",
+   "th": "พระราชบัญญัติการขึ้นทะเบียนเภสัชกร 2007",
+   "id": "Undang-Undang tentang Registrasi Apoteker 2007",
+   "ms": "Akta Pendaftaran Ahli Farmasi 2007"
+  },
+  "SG-H3601": {
+   "vi": "Luật Hội đồng Giao thông Công cộng 1987",
+   "th": "พระราชบัญญัติสภาขนส่งสาธารณะ 1987",
+   "id": "Undang-Undang tentang Dewan Angkutan Umum 1987",
+   "ms": "Akta Majlis Pengangkutan Awam 1987"
+  },
+  "SG-H3628": {
+   "vi": "Luật Bán Thực phẩm 1973",
+   "th": "พระราชบัญญัติการจำหน่ายอาหาร 1973",
+   "id": "Undang-Undang tentang Penjualan Makanan 1973",
+   "ms": "Akta Penjualan Makanan 1973"
+  },
+  "SG-H003": {
+   "vi": "Luật Trọng tài 2001",
+   "th": "พระราชบัญญัติอนุญาโตตุลาการ 2001",
+   "id": "Undang-Undang tentang Arbitrase 2001",
+   "ms": "Akta Timbang Tara 2001"
+  },
+  "SG-H3587": {
+   "vi": "Luật Di chúc và Quản lý Di sản 1934",
+   "th": "พระราชบัญญัติการพิสูจน์พินัยกรรมและการจัดการมรดก 1934",
+   "id": "Undang-Undang tentang Probat dan Administrasi Waris 1934",
+   "ms": "Akta Probat dan Pentadbiran Harta Pusaka 1934"
+  },
+  "SG-H317": {
+   "vi": "Luật Tác nhân Sinh học và Độc tố 2005",
+   "th": "พระราชบัญญัติเชื้อก่อโรคและสารพิษ 2005",
+   "id": "Undang-Undang tentang Agen Biologis dan Toksin 2005",
+   "ms": "Akta Agen Biologi dan Toksin 2005"
+  },
+  "SG-H3652": {
+   "vi": "Luật Cơ quan Thực phẩm Singapore 2019",
+   "th": "พระราชบัญญัติองค์การอาหารสิงคโปร์ 2019",
+   "id": "Undang-Undang tentang Badan Pangan Singapura 2019",
+   "ms": "Akta Agensi Makanan Singapura 2019"
+  },
+  "SG-H3611": {
+   "vi": "Luật Đăng ký Khai sinh và Khai tử 2021",
+   "th": "พระราชบัญญัติการจดทะเบียนการเกิดและการตาย 2021",
+   "id": "Undang-Undang tentang Pencatatan Kelahiran dan Kematian 2021",
+   "ms": "Akta Pendaftaran Kelahiran dan Kematian 2021"
+  },
+  "SG-H1275": {
+   "vi": "Quy tắc Khiếu nại Việc làm 2017",
+   "th": "กฎการเรียกร้องค่าจ้างแรงงาน 2017",
+   "id": "Peraturan Tuntutan Ketenagakerjaan 2017",
+   "ms": "Kaedah Tuntutan Pekerjaan 2017"
+  },
+  "SG-H1323": {
+   "vi": "Luật Cơ quan Phát triển Doanh nghiệp Singapore 2018",
+   "th": "พระราชบัญญัติองค์การพัฒนาวิสาหกิจสิงคโปร์ 2018",
+   "id": "Undang-Undang tentang Badan Pengembangan Usaha Singapura 2018",
+   "ms": "Akta Lembaga Pembangunan Perusahaan Singapura 2018"
+  },
+  "SG-H1542": {
+   "vi": "Luật Công ty Tài chính 1967",
+   "th": "พระราชบัญญัติบริษัทการเงิน 1967",
+   "id": "Undang-Undang tentang Perusahaan Pembiayaan 1967",
+   "ms": "Akta Syarikat Kewangan 1967"
+  },
+  "SG-H3569": {
+   "vi": "Luật Ngành Vận tải Hành khách Điểm tới Điểm 2019",
+   "th": "พระราชบัญญัติอุตสาหกรรมขนส่งผู้โดยสารแบบจุดต่อจุด 2019",
+   "id": "Undang-Undang tentang Industri Angkutan Penumpang Titik ke Titik 2019",
+   "ms": "Akta Industri Pengangkutan Penumpang Titik ke Titik 2019"
+  },
+  "SG-H023": {
+   "vi": "Luật Mua bán Hàng hóa 1979",
+   "th": "พระราชบัญญัติการซื้อขายสินค้า 1979",
+   "id": "Undang-Undang tentang Jual Beli Barang 1979",
+   "ms": "Akta Jualan Barang 1979"
+  },
+  "SG-H1206": {
+   "vi": "Luật Giáo dục 1957",
+   "th": "พระราชบัญญัติการศึกษา 1957",
+   "id": "Undang-Undang tentang Pendidikan 1957",
+   "ms": "Akta Pendidikan 1957"
+  },
+  "SG-H3707": {
+   "vi": "Luật Công đoàn 1940",
+   "th": "พระราชบัญญัติสหภาพแรงงาน 1940",
+   "id": "Undang-Undang tentang Serikat Pekerja 1940",
+   "ms": "Akta Kesatuan Sekerja 1940"
+  },
+  "SG-H743": {
+   "vi": "Luật Giao dịch Hàng hóa 1992",
+   "th": "พระราชบัญญัติการซื้อขายสินค้าโภคภัณฑ์ 1992",
+   "id": "Undang-Undang tentang Perdagangan Komoditas 1992",
+   "ms": "Akta Dagangan Komoditi 1992"
+  },
+  "SG-H1139": {
+   "vi": "Quy chế Đăng ký Nha khoa",
+   "th": "ข้อบังคับการขึ้นทะเบียนทันตกรรม",
+   "id": "Peraturan Registrasi Kedokteran Gigi",
+   "ms": "Peraturan Pendaftaran Pergigian"
+  },
+  "SG-H3153": {
+   "vi": "Luật Năng lực Tinh thần 2008",
+   "th": "พระราชบัญญัติความสามารถทางจิต 2008",
+   "id": "Undang-Undang tentang Kapasitas Mental 2008",
+   "ms": "Akta Kapasiti Mental 2008"
+  },
+  "SG-H3494": {
+   "vi": "Luật Hộ chiếu 2007",
+   "th": "พระราชบัญญัติหนังสือเดินทาง 2007",
+   "id": "Undang-Undang tentang Paspor 2007",
+   "ms": "Akta Pasport 2007"
+  },
+  "SG-H3589": {
+   "vi": "Luật Kỹ sư Chuyên nghiệp 1991",
+   "th": "พระราชบัญญัติวิศวกรวิชาชีพ 1991",
+   "id": "Undang-Undang tentang Insinyur Profesional 1991",
+   "ms": "Akta Jurutera Profesional 1991"
+  },
+  "SG-H3203": {
+   "vi": "Quy chế An toàn Tàu biển Thương mại (Tàu khách Vùng Giới hạn Đặc biệt)",
+   "th": "ข้อบังคับความปลอดภัยเรือพาณิชย์ (เรือโดยสารเขตจำกัดพิเศษ)",
+   "id": "Peraturan Keselamatan Pelayaran Niaga (Kapal Penumpang Batas Khusus)",
+   "ms": "Peraturan Keselamatan Perkapalan Saudagar (Kapal Penumpang Had Khas)"
+  },
+  "SG-H1747": {
+   "vi": "Luật Thuê mua 1969",
+   "th": "พระราชบัญญัติเช่าซื้อ 1969",
+   "id": "Undang-Undang tentang Sewa Beli 1969",
+   "ms": "Akta Sewa Beli 1969"
+  },
+  "SG-H3612": {
+   "vi": "Luật Đăng ký Người phạm tội 1949",
+   "th": "พระราชบัญญัติการขึ้นทะเบียนผู้กระทำผิด 1949",
+   "id": "Undang-Undang tentang Registrasi Pelaku Kejahatan 1949",
+   "ms": "Akta Pendaftaran Penjenayah 1949"
+  }
+ }
+}

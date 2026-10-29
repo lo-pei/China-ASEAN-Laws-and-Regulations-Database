@@ -1,0 +1,712 @@
+{
+ "_note": "VN 法律标题主题词（A–N）。zh 只写主题本体，组装时再按类型叠加「法/法典」",
+ "subjects": {
+  "An ninh Quốc gia": {
+   "zh": "国家安全",
+   "en": "national security",
+   "th": "ความมั่นคงแห่งชาติ",
+   "id": "Keamanan Nasional",
+   "ms": "Keselamatan Negara"
+  },
+  "Ban hành Văn bản quy phạm pháp luật": {
+   "zh": "法律规范性文件颁布",
+   "en": "promulgation of normative legal documents",
+   "th": "การประกาศใช้เอกสารกฎหมาย",
+   "id": "Pembentukan Peraturan Perundang-undangan",
+   "ms": "Penggubalan Dokumen Perundangan Normatif"
+  },
+  "Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân, Uỷ ban nhân dân": {
+   "zh": "人民议会与人民委员会法律规范性文件颁布",
+   "en": "promulgation of normative legal documents by People's Councils and People's Committees",
+   "th": "การประกาศใช้เอกสารกฎหมายของสภาประชาชนและคณะกรรมการประชาชน",
+   "id": "Pembentukan Peraturan oleh Dewan Perwakilan Rakyat Daerah dan Komite Rakyat",
+   "ms": "Penggubalan Dokumen Perundangan oleh Majlis Rakyat dan Jawatankuasa Rakyat"
+  },
+  "Biên giới quốc gia": {
+   "zh": "国家边界",
+   "en": "national border",
+   "th": "ชายแดนแห่งชาติ",
+   "id": "Perbatasan Negara",
+   "ms": "Sempadan Negara"
+  },
+  "Biển Việt Nam": {
+   "zh": "越南海洋",
+   "en": "Vietnam's seas",
+   "th": "ทะเลเวียดนาม",
+   "id": "Laut Vietnam",
+   "ms": "Laut Vietnam"
+  },
+  "Báo chí": {
+   "zh": "新闻",
+   "en": "press",
+   "th": "สื่อมวลชน",
+   "id": "Pers",
+   "ms": "Akhbar"
+  },
+  "Bưu chính": {
+   "zh": "邮政",
+   "en": "postal services",
+   "th": "ไปรษณีย์",
+   "id": "Pos",
+   "ms": "Pos"
+  },
+  "Bảo vệ bí mật nhà nước": {
+   "zh": "国家秘密保护",
+   "en": "protection of state secrets",
+   "th": "การคุ้มครองความลับของรัฐ",
+   "id": "Perlindungan Rahasia Negara",
+   "ms": "Perlindungan Rahsia Negara"
+  },
+  "Bảo hiểm tiền gửi": {
+   "zh": "存款保险",
+   "en": "deposit insurance",
+   "th": "การประกันเงินฝาก",
+   "id": "Penjaminan Simpanan",
+   "ms": "Insurans Deposit"
+  },
+  "Bảo hiểm xã hội": {
+   "zh": "社会保险",
+   "en": "social insurance",
+   "th": "ประกันสังคม",
+   "id": "Jaminan Sosial",
+   "ms": "Insurans Sosial"
+  },
+  "Bảo hiểm y tế": {
+   "zh": "医疗保险",
+   "en": "health insurance",
+   "th": "ประกันสุขภาพ",
+   "id": "Jaminan Kesehatan",
+   "ms": "Insurans Kesihatan"
+  },
+  "Bảo vệ môi trường": {
+   "zh": "环境保护",
+   "en": "environmental protection",
+   "th": "การคุ้มครองสิ่งแวดล้อม",
+   "id": "Perlindungan Lingkungan Hidup",
+   "ms": "Perlindungan Alam Sekitar"
+  },
+  "Bảo vệ quyền lợi người tiêu dùng": {
+   "zh": "消费者权益保护",
+   "en": "protection of consumer rights",
+   "th": "การคุ้มครองสิทธิผู้บริโภค",
+   "id": "Perlindungan Hak Konsumen",
+   "ms": "Perlindungan Hak Pengguna"
+  },
+  "Bảo vệ sức khỏe nhân dân": {
+   "zh": "人民健康保护",
+   "en": "protection of people's health",
+   "th": "การคุ้มครองสุขภาพประชาชน",
+   "id": "Perlindungan Kesehatan Rakyat",
+   "ms": "Perlindungan Kesihatan Rakyat"
+  },
+  "Bảo vệ và phát triển rừng": {
+   "zh": "森林保护与发展",
+   "en": "forest protection and development",
+   "th": "การคุ้มครองและพัฒนาป่าไม้",
+   "id": "Perlindungan dan Pengembangan Hutan",
+   "ms": "Perlindungan dan Pembangunan Hutan"
+  },
+  "Bảo vệ, chăm sóc và giáo dục trẻ em": {
+   "zh": "儿童保护、照料与教育",
+   "en": "protection, care and education of children",
+   "th": "การคุ้มครอง การดูแล และการศึกษาเด็ก",
+   "id": "Perlindungan, Pengasuhan dan Pendidikan Anak",
+   "ms": "Perlindungan, Penjagaan dan Pendidikan Kanak-kanak"
+  },
+  "Bầu cử đại biểu Hội đồng nhân dân": {
+   "zh": "人民议会代表选举",
+   "en": "election of deputies to People's Councils",
+   "th": "การเลือกตั้งสมาชิกสภาประชาชน",
+   "id": "Pemilihan Anggota Dewan Perwakilan Rakyat Daerah",
+   "ms": "Pilihan Raya Anggota Majlis Rakyat"
+  },
+  "Bầu cử Đại biểu Quốc hội": {
+   "zh": "国会代表选举",
+   "en": "election of deputies to the National Assembly",
+   "th": "การเลือกตั้งสมาชิกสภาแห่งชาติ",
+   "id": "Pemilihan Anggota Majelis Nasional",
+   "ms": "Pilihan Raya Anggota Parlimen"
+  },
+  "Chuyển giao người đang chấp hành án phạt tù": {
+   "zh": "服刑人员移管",
+   "en": "transfer of sentenced persons",
+   "th": "การโอนตัวผู้ต้องโทษ",
+   "id": "Pemindahan Narapidana",
+   "ms": "Pemindahan Banduan"
+  },
+  "Chuyển giao công nghệ": {
+   "zh": "技术转让",
+   "en": "technology transfer",
+   "th": "การถ่ายทอดเทคโนโลยี",
+   "id": "Alih Teknologi",
+   "ms": "Pemindahan Teknologi"
+  },
+  "Chăn nuôi": {
+   "zh": "畜牧",
+   "en": "animal husbandry",
+   "th": "การปศุสัตว์",
+   "id": "Peternakan",
+   "ms": "Penternakan"
+  },
+  "Chất lượng sản phẩm, hàng hoá": {
+   "zh": "产品与商品质量",
+   "en": "product and goods quality",
+   "th": "คุณภาพผลิตภัณฑ์และสินค้า",
+   "id": "Mutu Produk dan Barang",
+   "ms": "Kualiti Produk dan Barangan"
+  },
+  "Chứng khoán": {
+   "zh": "证券",
+   "en": "securities",
+   "th": "หลักทรัพย์",
+   "id": "Sekuritas",
+   "ms": "Sekuriti"
+  },
+  "Công nghệ cao": {
+   "zh": "高新技术",
+   "en": "high technology",
+   "th": "เทคโนโลยีขั้นสูง",
+   "id": "Teknologi Tinggi",
+   "ms": "Teknologi Tinggi"
+  },
+  "Các công cụ chuyển nhượng": {
+   "zh": "可转让票据",
+   "en": "negotiable instruments",
+   "th": "ตราสารเปลี่ยนมือ",
+   "id": "Instrumen yang Dapat Dipindahtangankan",
+   "ms": "Instrumen Boleh Pindah Milik"
+  },
+  "Các tổ chức tín dụng": {
+   "zh": "信用机构",
+   "en": "credit institutions",
+   "th": "สถาบันสินเชื่อ",
+   "id": "Lembaga Perkreditan",
+   "ms": "Institusi Kredit"
+  },
+  "Cán bộ, công chức": {
+   "zh": "干部与公务员",
+   "en": "cadres and civil servants",
+   "th": "ข้าราชการและเจ้าหน้าที่",
+   "id": "Pejabat dan Pegawai Negeri",
+   "ms": "Pegawai dan Kakitangan Awam"
+  },
+  "Công an nhân dân": {
+   "zh": "人民公安",
+   "en": "people's public security",
+   "th": "ตำรวจประชาชน",
+   "id": "Kepolisian Rakyat",
+   "ms": "Polis Rakyat"
+  },
+  "Công chứng": {
+   "zh": "公证",
+   "en": "notarisation",
+   "th": "การรับรองเอกสาร",
+   "id": "Notaris",
+   "ms": "Notari"
+  },
+  "Công nghiệp quốc phòng, an ninh và động viên công nghiệp": {
+   "zh": "国防工业、安全工业与工业动员",
+   "en": "defence industry, security industry and industrial mobilisation",
+   "th": "อุตสาหกรรมป้องกันประเทศ ความมั่นคง และการระดมอุตสาหกรรม",
+   "id": "Industri Pertahanan, Keamanan dan Mobilisasi Industri",
+   "ms": "Industri Pertahanan, Keselamatan dan Penggemblengan Industri"
+  },
+  "Công nghệ thông tin": {
+   "zh": "信息技术",
+   "en": "information technology",
+   "th": "เทคโนโลยีสารสนเทศ",
+   "id": "Teknologi Informasi",
+   "ms": "Teknologi Maklumat"
+  },
+  "Công ty": {
+   "zh": "公司",
+   "en": "companies",
+   "th": "บริษัท",
+   "id": "Perseroan",
+   "ms": "Syarikat"
+  },
+  "Công đoàn": {
+   "zh": "工会",
+   "en": "trade unions",
+   "th": "สหภาพแรงงาน",
+   "id": "Serikat Pekerja",
+   "ms": "Kesatuan Sekerja"
+  },
+  "Căn cước": {
+   "zh": "身份标识",
+   "en": "identification",
+   "th": "บัตรประจำตัว",
+   "id": "Identitas",
+   "ms": "Pengenalan"
+  },
+  "Căn cước công dân": {
+   "zh": "公民身份标识",
+   "en": "citizen identification",
+   "th": "บัตรประจำตัวประชาชน",
+   "id": "Identitas Warga Negara",
+   "ms": "Pengenalan Warganegara"
+  },
+  "Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài": {
+   "zh": "越南社会主义共和国驻外代表机构",
+   "en": "representative missions of the Socialist Republic of Vietnam abroad",
+   "th": "คณะผู้แทนเวียดนามในต่างประเทศ",
+   "id": "Perwakilan Vietnam di Luar Negeri",
+   "ms": "Perwakilan Vietnam di Luar Negara"
+  },
+  "Cơ yếu": {
+   "zh": "密码工作",
+   "en": "cryptography",
+   "th": "งานรหัสลับ",
+   "id": "Persandian",
+   "ms": "Kriptografi"
+  },
+  "Cư trú": {
+   "zh": "居住",
+   "en": "residence",
+   "th": "การพำนักอาศัย",
+   "id": "Domisili",
+   "ms": "Kediaman"
+  },
+  "Cạnh tranh": {
+   "zh": "竞争",
+   "en": "competition",
+   "th": "การแข่งขัน",
+   "id": "Persaingan Usaha",
+   "ms": "Persaingan"
+  },
+  "Cải cách ruộng đất": {
+   "zh": "土地改革",
+   "en": "land reform",
+   "th": "การปฏิรูปที่ดิน",
+   "id": "Reformasi Agraria",
+   "ms": "Pembaharuan Tanah"
+  },
+  "Cảnh sát cơ động": {
+   "zh": "机动警察",
+   "en": "mobile police",
+   "th": "ตำรวจเคลื่อนที่เร็ว",
+   "id": "Polisi Bergerak",
+   "ms": "Polis Bergerak"
+  },
+  "Cảnh vệ": {
+   "zh": "警卫",
+   "en": "dignitary protection",
+   "th": "งานอารักขา",
+   "id": "Pengamanan Pejabat",
+   "ms": "Pengawal"
+  },
+  "Di sản văn hoá": {
+   "zh": "文化遗产",
+   "en": "cultural heritage",
+   "th": "มรดกวัฒนธรรม",
+   "id": "Warisan Budaya",
+   "ms": "Warisan Budaya"
+  },
+  "Doanh nghiệp": {
+   "zh": "企业",
+   "en": "enterprises",
+   "th": "วิสาหกิจ",
+   "id": "Perseroan",
+   "ms": "Perusahaan"
+  },
+  "Doanh nghiệp Nhà nước": {
+   "zh": "国有企业",
+   "en": "state-owned enterprises",
+   "th": "รัฐวิสาหกิจ",
+   "id": "Badan Usaha Milik Negara",
+   "ms": "Perusahaan Milik Negara"
+  },
+  "Doanh nghiệp tư nhân": {
+   "zh": "私营企业",
+   "en": "private enterprises",
+   "th": "วิสาหกิจเอกชน",
+   "id": "Perseroan Swasta",
+   "ms": "Perusahaan Persendirian"
+  },
+  "Du lịch": {
+   "zh": "旅游",
+   "en": "tourism",
+   "th": "การท่องเที่ยว",
+   "id": "Pariwisata",
+   "ms": "Pelancongan"
+  },
+  "Dân quân tự vệ": {
+   "zh": "民兵自卫",
+   "en": "militia and self-defence forces",
+   "th": "กองกำลังป้องกันตนเอง",
+   "id": "Milisi dan Pertahanan Rakyat",
+   "ms": "Militia dan Pertahanan Diri"
+  },
+  "Dân sự": {
+   "zh": "民事",
+   "en": "civil",
+   "th": "แพ่ง",
+   "id": "Perdata",
+   "ms": "Sivil"
+  },
+  "Dược": {
+   "zh": "药事",
+   "en": "pharmacy",
+   "th": "เภสัชกรรม",
+   "id": "Farmasi",
+   "ms": "Farmasi"
+  },
+  "Dạy nghề": {
+   "zh": "职业培训",
+   "en": "vocational training",
+   "th": "การฝึกอาชีพ",
+   "id": "Pelatihan Kerja",
+   "ms": "Latihan Vokasional"
+  },
+  "Dầu khí": {
+   "zh": "石油天然气",
+   "en": "petroleum",
+   "th": "ปิโตรเลียม",
+   "id": "Minyak dan Gas Bumi",
+   "ms": "Petroleum"
+  },
+  "Dự trữ quốc gia": {
+   "zh": "国家储备",
+   "en": "national reserves",
+   "th": "การสำรองแห่งชาติ",
+   "id": "Cadangan Nasional",
+   "ms": "Rizab Negara"
+  },
+  "Giao dịch điện tử": {
+   "zh": "电子交易",
+   "en": "electronic transactions",
+   "th": "ธุรกรรมทางอิเล็กทรอนิกส์",
+   "id": "Transaksi Elektronik",
+   "ms": "Transaksi Elektronik"
+  },
+  "Giao thông đường bộ": {
+   "zh": "道路交通",
+   "en": "road traffic",
+   "th": "การจราจรทางบก",
+   "id": "Lalu Lintas Jalan",
+   "ms": "Lalu Lintas Jalan Raya"
+  },
+  "Giao thông đường thủy nội địa": {
+   "zh": "内河航运",
+   "en": "inland waterway navigation",
+   "th": "การเดินเรือในน่านน้ำภายใน",
+   "id": "Pelayaran Perairan Darat",
+   "ms": "Pelayaran Perairan Dalam"
+  },
+  "Giá": {
+   "zh": "价格",
+   "en": "prices",
+   "th": "ราคา",
+   "id": "Harga",
+   "ms": "Harga"
+  },
+  "Giáo dục": {
+   "zh": "教育",
+   "en": "education",
+   "th": "การศึกษา",
+   "id": "Pendidikan",
+   "ms": "Pendidikan"
+  },
+  "Giáo dục nghề nghiệp": {
+   "zh": "职业教育",
+   "en": "vocational education",
+   "th": "การศึกษาอาชีวะ",
+   "id": "Pendidikan Vokasi",
+   "ms": "Pendidikan Vokasional"
+  },
+  "Giáo dục đại học": {
+   "zh": "高等教育",
+   "en": "higher education",
+   "th": "การศึกษาระดับอุดมศึกษา",
+   "id": "Pendidikan Tinggi",
+   "ms": "Pendidikan Tinggi"
+  },
+  "Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác": {
+   "zh": "人体组织与器官的捐献、摘取与移植及遗体捐献",
+   "en": "donation, removal and transplantation of human tissues and organs, and donation and removal of corpses",
+   "th": "การบริจาค การผ่าตัด และการปลูกถ่ายเนื้อเยื่อและอวัยวะของมนุษย์ และการบริจาคร่างกาย",
+   "id": "Donasi, Pengambilan dan Transplantasi Jaringan dan Organ Tubuh Manusia serta Donasi Jenazah",
+   "ms": "Derma, Pengambilan dan Pemindahan Tisu dan Organ Manusia serta Derma Mayat"
+  },
+  "Hoạt động chữ thập đỏ": {
+   "zh": "红十字活动",
+   "en": "Red Cross activities",
+   "th": "กิจกรรมกาชาด",
+   "id": "Kegiatan Palang Merah",
+   "ms": "Aktiviti Palang Merah"
+  },
+  "Hoạt động giám sát của Quốc hội": {
+   "zh": "国会监督活动",
+   "en": "supervisory activities of the National Assembly",
+   "th": "กิจกรรมกำกับดูแลของสภาแห่งชาติ",
+   "id": "Kegiatan Pengawasan Majelis Nasional",
+   "ms": "Aktiviti Pengawasan Parlimen"
+  },
+  "Hàng hải": {
+   "zh": "海事",
+   "en": "maritime",
+   "th": "การพาณิชยนาวี",
+   "id": "Pelayaran",
+   "ms": "Perkapalan"
+  },
+  "Hàng hải Việt Nam": {
+   "zh": "越南海事",
+   "en": "Vietnamese maritime",
+   "th": "การพาณิชยนาวีเวียดนาม",
+   "id": "Pelayaran Vietnam",
+   "ms": "Perkapalan Vietnam"
+  },
+  "Hàng không dân dụng Việt Nam": {
+   "zh": "越南民用航空",
+   "en": "Vietnamese civil aviation",
+   "th": "การบินพลเรือนเวียดนาม",
+   "id": "Penerbangan Sipil Vietnam",
+   "ms": "Penerbangan Awam Vietnam"
+  },
+  "Hình sự": {
+   "zh": "刑事",
+   "en": "criminal",
+   "th": "อาญา",
+   "id": "Pidana",
+   "ms": "Jenayah"
+  },
+  "Hòa giải, đối thoại tại Tòa án": {
+   "zh": "法院调解与对话",
+   "en": "mediation and dialogue at court",
+   "th": "การไกล่เกลี่ยและเจรจาในศาล",
+   "id": "Mediasi dan Dialog di Pengadilan",
+   "ms": "Pengantaraan dan Dialog di Mahkamah"
+  },
+  "Hóa chất": {
+   "zh": "化学品",
+   "en": "chemicals",
+   "th": "สารเคมี",
+   "id": "Bahan Kimia",
+   "ms": "Bahan Kimia"
+  },
+  "Hôn nhân và gia đình": {
+   "zh": "婚姻家庭",
+   "en": "marriage and family",
+   "th": "การสมรสและครอบครัว",
+   "id": "Perkawinan dan Keluarga",
+   "ms": "Perkahwinan dan Keluarga"
+  },
+  "Hải quan": {
+   "zh": "海关",
+   "en": "customs",
+   "th": "ศุลกากร",
+   "id": "Kepabeanan",
+   "ms": "Kastam"
+  },
+  "Hộ tịch": {
+   "zh": "户籍",
+   "en": "civil status",
+   "th": "ทะเบียนราษฎร",
+   "id": "Catatan Sipil",
+   "ms": "Daftar Sivil"
+  },
+  "Hợp tác xã": {
+   "zh": "合作社",
+   "en": "cooperatives",
+   "th": "สหกรณ์",
+   "id": "Koperasi",
+   "ms": "Koperasi"
+  },
+  "Khiếu nại": {
+   "zh": "申诉",
+   "en": "complaints",
+   "th": "การร้องเรียน",
+   "id": "Pengaduan",
+   "ms": "Aduan"
+  },
+  "Khiếu nại, tố cáo": {
+   "zh": "申诉与控告",
+   "en": "complaints and denunciations",
+   "th": "การร้องเรียนและการกล่าวโทษ",
+   "id": "Pengaduan dan Pelaporan",
+   "ms": "Aduan dan Laporan"
+  },
+  "Khoa học và Công nghệ": {
+   "zh": "科学技术",
+   "en": "science and technology",
+   "th": "วิทยาศาสตร์และเทคโนโลยี",
+   "id": "Ilmu Pengetahuan dan Teknologi",
+   "ms": "Sains dan Teknologi"
+  },
+  "Khoáng sản": {
+   "zh": "矿产",
+   "en": "minerals",
+   "th": "แร่ธาตุ",
+   "id": "Mineral",
+   "ms": "Mineral"
+  },
+  "Khuyến khích đầu tư trong nước": {
+   "zh": "鼓励国内投资",
+   "en": "encouragement of domestic investment",
+   "th": "การส่งเสริมการลงทุนภายในประเทศ",
+   "id": "Dorongan Investasi Dalam Negeri",
+   "ms": "Galakan Pelaburan Dalam Negeri"
+  },
+  "Khuyến khích đầu tư trong nước (sửa đổi)": {
+   "zh": "鼓励国内投资（修正）",
+   "en": "encouragement of domestic investment (amended)",
+   "th": "การส่งเสริมการลงทุนภายในประเทศ (ฉบับแก้ไข)",
+   "id": "Dorongan Investasi Dalam Negeri (Perubahan)",
+   "ms": "Galakan Pelaburan Dalam Negeri (Pindaan)"
+  },
+  "Khám bệnh, chữa bệnh": {
+   "zh": "诊疗",
+   "en": "medical examination and treatment",
+   "th": "การตรวจรักษาโรค",
+   "id": "Pemeriksaan dan Pengobatan",
+   "ms": "Pemeriksaan dan Rawatan Perubatan"
+  },
+  "Kinh doanh bảo hiểm": {
+   "zh": "保险经营",
+   "en": "insurance business",
+   "th": "ธุรกิจประกันภัย",
+   "id": "Usaha Perasuransian",
+   "ms": "Perniagaan Insurans"
+  },
+  "Kinh doanh bất động sản": {
+   "zh": "房地产经营",
+   "en": "real estate business",
+   "th": "ธุรกิจอสังหาริมทรัพย์",
+   "id": "Usaha Real Estat",
+   "ms": "Perniagaan Hartanah"
+  },
+  "Kiểm toán Nhà nước": {
+   "zh": "国家审计",
+   "en": "state audit",
+   "th": "การตรวจเงินแผ่นดิน",
+   "id": "Audit Negara",
+   "ms": "Audit Negara"
+  },
+  "Kiểm toán độc lập": {
+   "zh": "独立审计",
+   "en": "independent audit",
+   "th": "การสอบบัญชีอิสระ",
+   "id": "Audit Independen",
+   "ms": "Audit Bebas"
+  },
+  "Ký kết, gia nhập và thực hiện điều ước quốc tế": {
+   "zh": "国际条约签署、加入与履行",
+   "en": "conclusion, accession to and implementation of international treaties",
+   "th": "การลงนาม การภาคยานุวัติ และการปฏิบัติตามสนธิสัญญาระหว่างประเทศ",
+   "id": "Penandatanganan, Aksesi dan Pelaksanaan Perjanjian Internasional",
+   "ms": "Pemeteraian, Penyertaan dan Pelaksanaan Perjanjian Antarabangsa"
+  },
+  "Kế toán": {
+   "zh": "会计",
+   "en": "accounting",
+   "th": "การบัญชี",
+   "id": "Akuntansi",
+   "ms": "Perakaunan"
+  },
+  "Lao động": {
+   "zh": "劳动",
+   "en": "labour",
+   "th": "แรงงาน",
+   "id": "Ketenagakerjaan",
+   "ms": "Buruh"
+  },
+  "Lý lịch tư pháp": {
+   "zh": "刑事记录",
+   "en": "judicial records",
+   "th": "ประวัติอาชญากรรม",
+   "id": "Catatan Kriminal",
+   "ms": "Rekod Jenayah"
+  },
+  "Lưu trữ": {
+   "zh": "档案",
+   "en": "archives",
+   "th": "จดหมายเหตุ",
+   "id": "Arsip",
+   "ms": "Arkib"
+  },
+  "Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở": {
+   "zh": "基层治安秩序维护力量",
+   "en": "forces participating in protecting security and order at the grassroots level",
+   "th": "กองกำลังรักษาความมั่นคงและความสงบเรียบร้อยระดับฐานราก",
+   "id": "Kekuatan Pelindung Keamanan dan Ketertiban di Tingkat Dasar",
+   "ms": "Pasukan Pelindung Keselamatan dan Ketenteraman di Peringkat Akar Umbi"
+  },
+  "Mặt trận Tổ quốc Việt Nam": {
+   "zh": "越南祖国阵线",
+   "en": "Vietnam Fatherland Front",
+   "th": "แนวร่วมปิตุภูมิเวียดนาม",
+   "id": "Front Persatuan Tanah Air Vietnam",
+   "ms": "Barisan Tanah Air Vietnam"
+  },
+  "Nghĩa vụ quân sự": {
+   "zh": "兵役义务",
+   "en": "military service",
+   "th": "การรับราชการทหาร",
+   "id": "Wajib Militer",
+   "ms": "Perkhidmatan Ketenteraan"
+  },
+  "Ngân hàng Nhà nước": {
+   "zh": "国家银行",
+   "en": "State Bank",
+   "th": "ธนาคารแห่งชาติ",
+   "id": "Bank Negara",
+   "ms": "Bank Negara"
+  },
+  "Ngân hàng Nhà nước Việt Nam": {
+   "zh": "越南国家银行",
+   "en": "State Bank of Vietnam",
+   "th": "ธนาคารแห่งชาติเวียดนาม",
+   "id": "Bank Negara Vietnam",
+   "ms": "Bank Negara Vietnam"
+  },
+  "Ngân sách Nhà nước": {
+   "zh": "国家预算",
+   "en": "state budget",
+   "th": "งบประมาณแผ่นดิน",
+   "id": "Anggaran Negara",
+   "ms": "Belanjawan Negara"
+  },
+  "Người cao tuổi": {
+   "zh": "老年人",
+   "en": "elderly persons",
+   "th": "ผู้สูงอายุ",
+   "id": "Lanjut Usia",
+   "ms": "Warga Emas"
+  },
+  "Người khuyết tật": {
+   "zh": "残疾人",
+   "en": "persons with disabilities",
+   "th": "คนพิการ",
+   "id": "Penyandang Disabilitas",
+   "ms": "Orang Kurang Upaya"
+  },
+  "Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng": {
+   "zh": "越南劳动者依合同赴海外工作",
+   "en": "Vietnamese workers going abroad to work under contract",
+   "th": "แรงงานเวียดนามไปทำงานต่างประเทศตามสัญญา",
+   "id": "Pekerja Vietnam yang Bekerja di Luar Negeri Berdasarkan Kontrak",
+   "ms": "Pekerja Vietnam Bekerja di Luar Negara di Bawah Kontrak"
+  },
+  "Nhà ở": {
+   "zh": "住房",
+   "en": "housing",
+   "th": "ที่อยู่อาศัย",
+   "id": "Perumahan",
+   "ms": "Perumahan"
+  },
+  "Nuôi con nuôi": {
+   "zh": "收养",
+   "en": "adoption",
+   "th": "การรับบุตรบุญธรรม",
+   "id": "Adopsi",
+   "ms": "Pengambilan Anak Angkat"
+  },
+  "Năng lượng nguyên tử": {
+   "zh": "原子能",
+   "en": "atomic energy",
+   "th": "พลังงานปรมาณู",
+   "id": "Energi Nuklir",
+   "ms": "Tenaga Atom"
+  }
+ }
+}

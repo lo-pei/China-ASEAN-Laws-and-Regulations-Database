@@ -1,0 +1,16 @@
+﻿const path = require('path');
+const QS = require(path.join(__dirname, 'questions.js'));
+console.log('  题目总数: ' + QS.length);
+const byCC = {}, byTopic = {};
+QS.forEach(q => { byCC[q.cc] = (byCC[q.cc]||0)+1; byTopic[q.topic] = (byTopic[q.topic]||0)+1; });
+console.log('');
+console.log('  按法域:');
+Object.entries(byCC).sort((a,b)=>b[1]-a[1]).forEach(([k,v])=>console.log('    '+k.padEnd(4)+v));
+console.log('');
+console.log('  按主题:');
+Object.entries(byTopic).sort((a,b)=>b[1]-a[1]).forEach(([k,v])=>console.log('    '+k.padEnd(10)+v));
+const withLoc = QS.filter(q=>q.loc && q.loc.length).length;
+console.log('');
+console.log('  含当地语言关键词: ' + withLoc + ' / ' + QS.length);
+console.log('  缺中文概念词    : ' + QS.filter(q=>!q.zh || !q.zh.length).length);
+console.log('  缺英文概念词    : ' + QS.filter(q=>!q.en || !q.en.length).length);

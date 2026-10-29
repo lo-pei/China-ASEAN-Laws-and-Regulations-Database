@@ -1,0 +1,553 @@
+{
+ "batch": "sg-p1-b21",
+ "note": "SG 尾段：体裁 + 母法 + 括注 组合合成",
+ "count": 91,
+ "items": {
+  "SG-H3128": {
+   "vi": "Quy chế Dược phẩm (Giấy phép xuất khẩu chất hướng thần)",
+   "th": "ข้อบังคับยา (ใบอนุญาตส่งออกวัตถุออกฤทธิ์ต่อจิตและประสาท)",
+   "id": "Peraturan Obat (Izin Ekspor Zat Psikotropika)",
+   "ms": "Peraturan Ubat (Lesen Eksport Bahan Psikotropik)"
+  },
+  "SG-H3129": {
+   "vi": "Lệnh Dược phẩm (Danh mục bán thông thường) 2016",
+   "th": "คำสั่งยา (รายการจำหน่ายทั่วไป) 2016",
+   "id": "Perintah Obat (Daftar Penjualan Umum) 2016",
+   "ms": "Perintah Ubat (Senarai Jualan Am) 2016"
+  },
+  "SG-H3130": {
+   "vi": "Quy chế Dược phẩm (Giấy chứng nhận thực hành sản xuất tốt)",
+   "th": "ข้อบังคับยา (หนังสือรับรองหลักเกณฑ์วิธีการผลิตที่ดี)",
+   "id": "Peraturan Obat (Sertifikat Cara Pembuatan yang Baik)",
+   "ms": "Peraturan Ubat (Sijil Amalan Pengilangan Baik)"
+  },
+  "SG-H3131": {
+   "vi": "Quy chế Dược phẩm (Ghi nhãn thuốc đông y thành phẩm)",
+   "th": "ข้อบังคับยา (การติดฉลากยาจีนสำเร็จรูป)",
+   "id": "Peraturan Obat (Pelabelan Obat Cina Paten)",
+   "ms": "Peraturan Ubat (Pelabelan Ubat Cina Berpaten)"
+  },
+  "SG-H3132": {
+   "vi": "Quy chế Dược phẩm (Ghi nhãn)",
+   "th": "ข้อบังคับยา (การติดฉลาก)",
+   "id": "Peraturan Obat (Pelabelan)",
+   "ms": "Peraturan Ubat (Pelabelan)"
+  },
+  "SG-H3133": {
+   "vi": "Quy chế Dược phẩm (Cấp phép, quy định tiêu chuẩn và lệ phí)",
+   "th": "ข้อบังคับยา (การออกใบอนุญาต บทบัญญัติมาตรฐาน และค่าธรรมเนียม)",
+   "id": "Peraturan Obat (Perizinan, Ketentuan Standar dan Biaya)",
+   "ms": "Peraturan Ubat (Pelesenan, Peruntukan Standard dan Fi)"
+  },
+  "SG-H3134": {
+   "vi": "Quy chế Dược phẩm (Quảng cáo y tế)",
+   "th": "ข้อบังคับยา (โฆษณาทางการแพทย์)",
+   "id": "Peraturan Obat (Iklan Medis)",
+   "ms": "Peraturan Ubat (Iklan Perubatan)"
+  },
+  "SG-H3135": {
+   "vi": "Quy chế Dược phẩm (Sản phẩm thuốc dùng làm vật liệu nghiên cứu lâm sàng) 2016",
+   "th": "ข้อบังคับยา (ผลิตภัณฑ์ยาในฐานะวัสดุการวิจัยทางคลินิก) 2016",
+   "id": "Peraturan Obat (Produk Obat sebagai Bahan Penelitian Klinis) 2016",
+   "ms": "Peraturan Ubat (Produk Ubat sebagai Bahan Penyelidikan Klinikal) 2016"
+  },
+  "SG-H3136": {
+   "vi": "Lệnh Dược phẩm (Sản phẩm không phải thuốc) 2023",
+   "th": "คำสั่งยา (ผลิตภัณฑ์ที่ไม่ใช่ยา) 2023",
+   "id": "Perintah Obat (Produk Non-Obat) 2023",
+   "ms": "Perintah Ubat (Produk Bukan Ubat) 2023"
+  },
+  "SG-H3137": {
+   "vi": "Lệnh Dược phẩm (Cấm bán, cung cấp và nhập khẩu)",
+   "th": "คำสั่งยา (การห้ามจำหน่าย จัดหา และนำเข้า)",
+   "id": "Perintah Obat (Larangan Penjualan, Pasokan dan Impor)",
+   "ms": "Perintah Ubat (Larangan Penjualan, Pembekalan dan Import)"
+  },
+  "SG-H3138": {
+   "vi": "Quy chế Dược phẩm (Bán bằng máy tự động) 2016",
+   "th": "ข้อบังคับยา (การจำหน่ายผ่านเครื่องอัตโนมัติ) 2016",
+   "id": "Peraturan Obat (Penjualan melalui Mesin Otomatis) 2016",
+   "ms": "Peraturan Ubat (Penjualan melalui Mesin Automatik) 2016"
+  },
+  "SG-H3139": {
+   "vi": "Lệnh Dược phẩm (Thuốc y học cổ truyền, thuốc vi lượng đồng căn và các chất khác) (Miễn trừ)",
+   "th": "คำสั่งยา (ยาสมุนไพร ยาโฮมีโอพาธีย์ และสารอื่น ๆ) (การยกเว้น)",
+   "id": "Perintah Obat (Obat Tradisional, Obat Homeopati dan Zat Lain) (Pembebasan)",
+   "ms": "Perintah Ubat (Ubat Tradisional, Ubat Homeopati dan Bahan Lain) (Pengecualian)"
+  },
+  "SG-H3140": {
+   "vi": "Lệnh Dược phẩm (Sản phẩm thuốc thú y) (Miễn trừ)",
+   "th": "คำสั่งยา (ผลิตภัณฑ์ยาสัตว์) (การยกเว้น)",
+   "id": "Perintah Obat (Produk Obat Hewan) (Pembebasan)",
+   "ms": "Perintah Ubat (Produk Ubat Veterinar) (Pengecualian)"
+  },
+  "SG-H3141": {
+   "vi": "Quy chế Dược phẩm (Sản phẩm thuốc thú y) (Giấy phép nhập khẩu và giấy phép sản phẩm)",
+   "th": "ข้อบังคับยา (ผลิตภัณฑ์ยาสัตว์) (ใบอนุญาตนำเข้าและใบอนุญาตผลิตภัณฑ์)",
+   "id": "Peraturan Obat (Produk Obat Hewan) (Izin Impor dan Izin Produk)",
+   "ms": "Peraturan Ubat (Produk Ubat Veterinar) (Lesen Import dan Lesen Produk)"
+  },
+  "SG-H3144": {
+   "vi": "Quy chế Chương trình MediShield Life (Thu hồi phí bảo hiểm) 2016",
+   "th": "ข้อบังคับโครงการ MediShield Life (การเรียกคืนเบี้ยประกัน) 2016",
+   "id": "Peraturan Skema MediShield Life (Pemulihan Premi) 2016",
+   "ms": "Peraturan Skim MediShield Life (Pemulihan Premium) 2016"
+  },
+  "SG-H3145": {
+   "vi": "Quy chế Chương trình MediShield Life (Chương trình bảo hiểm y tế tư nhân) 2015",
+   "th": "ข้อบังคับโครงการ MediShield Life (โครงการประกันสุขภาพเอกชน) 2015",
+   "id": "Peraturan Skema MediShield Life (Skema Asuransi Kesehatan Swasta) 2015",
+   "ms": "Peraturan Skim MediShield Life (Skim Insurans Perubatan Swasta) 2015"
+  },
+  "SG-H3146": {
+   "vi": "Quy chế Chương trình MediShield Life (Chương trình cho công dân Singapore ở nước ngoài) 2016",
+   "th": "ข้อบังคับโครงการ MediShield Life (โครงการสำหรับพลเมืองสิงคโปร์ในต่างประเทศ) 2016",
+   "id": "Peraturan Skema MediShield Life (Skema bagi Warga Negara Singapura di Luar Negeri) 2016",
+   "ms": "Peraturan Skim MediShield Life (Skim bagi Warganegara Singapura di Luar Negara) 2016"
+  },
+  "SG-H3147": {
+   "vi": "Thông báo Chương trình MediShield Life (Số tiền được chỉ định để thanh toán cho người yêu cầu hợp lệ) 2015",
+   "th": "ประกาศโครงการ MediShield Life (จำนวนเงินที่ระบุสำหรับการจ่ายให้ผู้เรียกร้องโดยชอบ) 2015",
+   "id": "Pemberitahuan Skema MediShield Life (Jumlah Tertentu untuk Pembayaran kepada Pengklaim yang Sah) 2015",
+   "ms": "Pemberitahuan Skim MediShield Life (Jumlah Tertentu bagi Bayaran kepada Penuntut yang Sah) 2015"
+  },
+  "SG-H3150": {
+   "vi": "Lệnh Năng lực Tinh thần (Miễn trừ đăng ký làm người đại diện chuyên nghiệp) 2018",
+   "th": "คำสั่งความสามารถทางจิต (การยกเว้นจากการขึ้นทะเบียนเป็นผู้แทนโดยมืออาชีพ) 2018",
+   "id": "Perintah Kapasitas Mental (Pembebasan dari Pendaftaran sebagai Wakil Profesional) 2018",
+   "ms": "Perintah Kapasiti Mental (Pengecualian daripada Pendaftaran sebagai Wakil Profesional) 2018"
+  },
+  "SG-H3151": {
+   "vi": "Quy chế Năng lực Tinh thần (Lệ phí của Người giám hộ công) 2010",
+   "th": "ข้อบังคับความสามารถทางจิต (ค่าธรรมเนียมผู้พิทักษ์สาธารณะ) 2010",
+   "id": "Peraturan Kapasitas Mental (Biaya Wali Publik) 2010",
+   "ms": "Peraturan Kapasiti Mental (Fi Penjaga Awam) 2010"
+  },
+  "SG-H3152": {
+   "vi": "Quy chế Năng lực Tinh thần (Đăng ký người đại diện chuyên nghiệp) 2018",
+   "th": "ข้อบังคับความสามารถทางจิต (การขึ้นทะเบียนผู้แทนโดยมืออาชีพ) 2018",
+   "id": "Peraturan Kapasitas Mental (Pendaftaran Wakil Profesional) 2018",
+   "ms": "Peraturan Kapasiti Mental (Pendaftaran Wakil Profesional) 2018"
+  },
+  "SG-H3155": {
+   "vi": "Thông báo Sức khỏe tâm thần (Chăm sóc và điều trị) (Cơ sở tâm thần được chỉ định) 2010",
+   "th": "ประกาศสุขภาพจิต (การดูแลและการรักษา) (สถาบันจิตเวชที่กำหนด) 2010",
+   "id": "Pemberitahuan Kesehatan Jiwa (Perawatan dan Pengobatan) (Institusi Psikiatri yang Ditetapkan) 2010",
+   "ms": "Pemberitahuan Kesihatan Mental (Penjagaan dan Rawatan) (Institusi Psikiatri yang Ditetapkan) 2010"
+  },
+  "SG-H3156": {
+   "vi": "Thông báo Sức khỏe tâm thần (Chăm sóc và điều trị) (Cơ sở tâm thần được chỉ định) 2025",
+   "th": "ประกาศสุขภาพจิต (การดูแลและการรักษา) (สถาบันจิตเวชที่กำหนด) 2025",
+   "id": "Pemberitahuan Kesehatan Jiwa (Perawatan dan Pengobatan) (Institusi Psikiatri yang Ditetapkan) 2025",
+   "ms": "Pemberitahuan Kesihatan Mental (Penjagaan dan Rawatan) (Institusi Psikiatri yang Ditetapkan) 2025"
+  },
+  "SG-H3157": {
+   "vi": "Luật Sức khỏe tâm thần (Chăm sóc và điều trị) 2008",
+   "th": "พระราชบัญญัติสุขภาพจิต (การดูแลและการรักษา) 2008",
+   "id": "Undang-Undang tentang Kesehatan Jiwa (Perawatan dan Pengobatan) 2008",
+   "ms": "Akta Kesihatan Mental (Penjagaan dan Rawatan) 2008"
+  },
+  "SG-H3171": {
+   "vi": "Thông báo Vận tải biển (Miễn trừ theo Điều 222)",
+   "th": "ประกาศการเดินเรือพาณิชย์ (การยกเว้นตามมาตรา 222)",
+   "id": "Pemberitahuan Pelayaran Niaga (Pembebasan menurut Pasal 222)",
+   "ms": "Pemberitahuan Perkapalan Saudagar (Pengecualian di bawah Seksyen 222)"
+  },
+  "SG-H3173": {
+   "vi": "Lệnh Vận tải biển (Giới hạn trách nhiệm) (Giá trị tương đương tiền tệ Singapore)",
+   "th": "คำสั่งการเดินเรือพาณิชย์ (การจำกัดความรับผิด) (มูลค่าเทียบเท่าสกุลเงินสิงคโปร์)",
+   "id": "Perintah Pelayaran Niaga (Pembatasan Tanggung Jawab) (Ekuivalen Mata Uang Singapura)",
+   "ms": "Perintah Perkapalan Saudagar (Penghad Tanggungjawab) (Nilai Setara Mata Wang Singapura)"
+  },
+  "SG-H3174": {
+   "vi": "Quy chế Vận tải biển (Dấu chuyên chở)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (ขีดรับน้ำ)",
+   "id": "Peraturan Pelayaran Niaga (Garis Muat)",
+   "ms": "Peraturan Perkapalan Saudagar (Garis Muatan)"
+  },
+  "SG-H3176": {
+   "vi": "Lệnh Vận tải biển (Công ước Lao động Hàng hải) (Định nghĩa thuyền viên) 2014",
+   "th": "คำสั่งการเดินเรือพาณิชย์ (อนุสัญญาแรงงานทางทะเล) (บทนิยามของลูกเรือ) 2014",
+   "id": "Perintah Pelayaran Niaga (Konvensi Ketenagakerjaan Maritim) (Definisi Pelaut) 2014",
+   "ms": "Perintah Perkapalan Saudagar (Konvensyen Buruh Maritim) (Takrif Pelaut) 2014"
+  },
+  "SG-H3177": {
+   "vi": "Lệnh Vận tải biển (Công ước Lao động Hàng hải) (Định nghĩa tàu biển) 2014",
+   "th": "คำสั่งการเดินเรือพาณิชย์ (อนุสัญญาแรงงานทางทะเล) (บทนิยามของเรือ) 2014",
+   "id": "Perintah Pelayaran Niaga (Konvensi Ketenagakerjaan Maritim) (Definisi Kapal) 2014",
+   "ms": "Perintah Perkapalan Saudagar (Konvensyen Buruh Maritim) (Takrif Kapal) 2014"
+  },
+  "SG-H3178": {
+   "vi": "Quy chế Vận tải biển (Công ước Lao động Hàng hải) (Bảo đảm tài chính) 2017",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (อนุสัญญาแรงงานทางทะเล) (หลักประกันทางการเงิน) 2017",
+   "id": "Peraturan Pelayaran Niaga (Konvensi Ketenagakerjaan Maritim) (Jaminan Keuangan) 2017",
+   "ms": "Peraturan Perkapalan Saudagar (Konvensyen Buruh Maritim) (Jaminan Kewangan) 2017"
+  },
+  "SG-H3179": {
+   "vi": "Quy chế Vận tải biển (Công ước Lao động Hàng hải) (Biểu mẫu, giấy chứng nhận và lệ phí) 2014",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (อนุสัญญาแรงงานทางทะเล) (แบบฟอร์ม ใบรับรอง และค่าธรรมเนียม) 2014",
+   "id": "Peraturan Pelayaran Niaga (Konvensi Ketenagakerjaan Maritim) (Formulir, Sertifikat dan Biaya) 2014",
+   "ms": "Peraturan Perkapalan Saudagar (Konvensyen Buruh Maritim) (Borang, Sijil dan Fi) 2014"
+  },
+  "SG-H3180": {
+   "vi": "Quy chế Vận tải biển (Công ước Lao động Hàng hải) (Bảo vệ sức khỏe, an toàn và phòng ngừa tai nạn) 2014",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (อนุสัญญาแรงงานทางทะเล) (การคุ้มครองสุขภาพและความปลอดภัยและการป้องกันอุบัติเหตุ) 2014",
+   "id": "Peraturan Pelayaran Niaga (Konvensi Ketenagakerjaan Maritim) (Perlindungan Kesehatan dan Keselamatan serta Pencegahan Kecelakaan) 2014",
+   "ms": "Peraturan Perkapalan Saudagar (Konvensyen Buruh Maritim) (Perlindungan Kesihatan dan Keselamatan serta Pencegahan Kemalangan) 2014"
+  },
+  "SG-H3181": {
+   "vi": "Quy chế Vận tải biển (Công ước Lao động Hàng hải) (Thuốc và trang thiết bị y tế) 2014",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (อนุสัญญาแรงงานทางทะเล) (ยาและอุปกรณ์การแพทย์) 2014",
+   "id": "Peraturan Pelayaran Niaga (Konvensi Ketenagakerjaan Maritim) (Obat dan Peralatan Medis) 2014",
+   "ms": "Peraturan Perkapalan Saudagar (Konvensyen Buruh Maritim) (Ubat dan Peralatan Perubatan) 2014"
+  },
+  "SG-H3182": {
+   "vi": "Quy chế Vận tải biển (Công ước Lao động Hàng hải) (Hồi hương) 2014",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (อนุสัญญาแรงงานทางทะเล) (การส่งกลับภูมิลำเนา) 2014",
+   "id": "Peraturan Pelayaran Niaga (Konvensi Ketenagakerjaan Maritim) (Repatriasi) 2014",
+   "ms": "Peraturan Perkapalan Saudagar (Konvensyen Buruh Maritim) (Pemulangan) 2014"
+  },
+  "SG-H3183": {
+   "vi": "Quy chế Vận tải biển (Công ước Lao động Hàng hải) (Yêu cầu và điều kiện tuyển dụng) 2014",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (อนุสัญญาแรงงานทางทะเล) (ข้อกำหนดและเงื่อนไขการจ้างงาน) 2014",
+   "id": "Peraturan Pelayaran Niaga (Konvensi Ketenagakerjaan Maritim) (Persyaratan dan Kondisi Kerja) 2014",
+   "ms": "Peraturan Perkapalan Saudagar (Konvensyen Buruh Maritim) (Keperluan dan Syarat Penggajian) 2014"
+  },
+  "SG-H3184": {
+   "vi": "Quy chế Vận tải biển (Công ước Lao động Hàng hải) (Dịch vụ tuyển dụng và bố trí thuyền viên) 2014",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (อนุสัญญาแรงงานทางทะเล) (บริการรับสมัครและจัดหาลูกเรือ) 2014",
+   "id": "Peraturan Pelayaran Niaga (Konvensi Ketenagakerjaan Maritim) (Layanan Perekrutan dan Penempatan Pelaut) 2014",
+   "ms": "Peraturan Perkapalan Saudagar (Konvensyen Buruh Maritim) (Perkhidmatan Pengambilan dan Penempatan Pelaut) 2014"
+  },
+  "SG-H3185": {
+   "vi": "Quy chế Vận tải biển (Công ước Lao động Hàng hải) (Hợp đồng lao động thuyền viên, danh sách thuyền viên và việc cho thuyền viên rời tàu) 2014",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (อนุสัญญาแรงงานทางทะเล) (สัญญาจ้างลูกเรือ รายชื่อลูกเรือ และการปลดลูกเรือ) 2014",
+   "id": "Peraturan Pelayaran Niaga (Konvensi Ketenagakerjaan Maritim) (Perjanjian Kerja Pelaut, Daftar Awak Kapal dan Pemberhentian Pelaut) 2014",
+   "ms": "Peraturan Perkapalan Saudagar (Konvensyen Buruh Maritim) (Perjanjian Penggajian Pelaut, Senarai Awak Kapal dan Pelepasan Pelaut) 2014"
+  },
+  "SG-H3186": {
+   "vi": "Quy chế Vận tải biển (Công ước Lao động Hàng hải) (Đào tạo và cấp chứng nhận đầu bếp và nhân viên phục vụ ăn uống) 2014",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (อนุสัญญาแรงงานทางทะเล) (การฝึกอบรมและการออกใบรับรองพ่อครัวและพนักงานบริการอาหาร) 2014",
+   "id": "Peraturan Pelayaran Niaga (Konvensi Ketenagakerjaan Maritim) (Pelatihan dan Sertifikasi Juru Masak dan Staf Katering) 2014",
+   "ms": "Peraturan Perkapalan Saudagar (Konvensyen Buruh Maritim) (Latihan dan Pensijilan Tukang Masak dan Kakitangan Katering) 2014"
+  },
+  "SG-H3187": {
+   "vi": "Quy chế Vận tải biển (Công ước Lao động Hàng hải) (Tiền lương) 2014",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (อนุสัญญาแรงงานทางทะเล) (ค่าจ้าง) 2014",
+   "id": "Peraturan Pelayaran Niaga (Konvensi Ketenagakerjaan Maritim) (Upah) 2014",
+   "ms": "Peraturan Perkapalan Saudagar (Konvensyen Buruh Maritim) (Upah) 2014"
+  },
+  "SG-H3189": {
+   "vi": "Quy chế Vận tải biển (Kho thuốc)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (คลังเวชภัณฑ์)",
+   "id": "Peraturan Pelayaran Niaga (Persediaan Medis)",
+   "ms": "Peraturan Perkapalan Saudagar (Stor Perubatan)"
+  },
+  "SG-H3191": {
+   "vi": "Quy chế Vận tải biển (Nhật ký chính thức)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (สมุดบันทึกอย่างเป็นทางการ)",
+   "id": "Peraturan Pelayaran Niaga (Buku Catatan Resmi)",
+   "ms": "Peraturan Perkapalan Saudagar (Buku Log Rasmi)"
+  },
+  "SG-H3193": {
+   "vi": "Quy chế Vận tải biển (Phòng ngừa va chạm trên biển)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (การป้องกันการชนกันในทะเล)",
+   "id": "Peraturan Pelayaran Niaga (Pencegahan Tabrakan di Laut)",
+   "ms": "Peraturan Perkapalan Saudagar (Pencegahan Pelanggaran di Laut)"
+  },
+  "SG-H3194": {
+   "vi": "Quy chế Vận tải biển (Tài sản của thuyền viên đã mất)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (ทรัพย์สินของลูกเรือที่เสียชีวิต)",
+   "id": "Peraturan Pelayaran Niaga (Harta Pelaut yang Meninggal)",
+   "ms": "Peraturan Perkapalan Saudagar (Harta Pelaut yang Meninggal)"
+  },
+  "SG-H3195": {
+   "vi": "Quy chế Vận tải biển (Lương thực và nước uống)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (เสบียงและน้ำ)",
+   "id": "Peraturan Pelayaran Niaga (Perbekalan dan Air)",
+   "ms": "Peraturan Perkapalan Saudagar (Bekalan dan Air)"
+  },
+  "SG-H3196": {
+   "vi": "Quy chế Vận tải biển (Đăng ký tàu biển)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (การขึ้นทะเบียนเรือ)",
+   "id": "Peraturan Pelayaran Niaga (Pendaftaran Kapal)",
+   "ms": "Peraturan Perkapalan Saudagar (Pendaftaran Kapal)"
+  },
+  "SG-H3197": {
+   "vi": "Quy chế Vận tải biển (Hồi hương)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (การส่งกลับภูมิลำเนา)",
+   "id": "Peraturan Pelayaran Niaga (Repatriasi)",
+   "ms": "Peraturan Perkapalan Saudagar (Pemulangan)"
+  },
+  "SG-H3198": {
+   "vi": "Quy chế Vận tải biển (Báo cáo sinh và tử)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (การรายงานการเกิดและการตาย)",
+   "id": "Peraturan Pelayaran Niaga (Laporan Kelahiran dan Kematian)",
+   "ms": "Peraturan Perkapalan Saudagar (Laporan Kelahiran dan Kematian)"
+  },
+  "SG-H3199": {
+   "vi": "Quy chế Vận tải biển (Công ước an toàn)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (อนุสัญญาความปลอดภัย)",
+   "id": "Peraturan Pelayaran Niaga (Konvensi Keselamatan)",
+   "ms": "Peraturan Perkapalan Saudagar (Konvensyen Keselamatan)"
+  },
+  "SG-H3200": {
+   "vi": "Quy chế Vận tải biển (Các khoản trích chuyển lương của thuyền viên)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (การจัดสรรค่าจ้างลูกเรือ)",
+   "id": "Peraturan Pelayaran Niaga (Alokasi Upah Pelaut)",
+   "ms": "Peraturan Perkapalan Saudagar (Peruntukan Upah Pelaut)"
+  },
+  "SG-H3201": {
+   "vi": "Quy chế Vận tải biển (Tiền lương và tài khoản của thuyền viên)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (ค่าจ้างและบัญชีของลูกเรือ)",
+   "id": "Peraturan Pelayaran Niaga (Upah dan Akun Pelaut)",
+   "ms": "Peraturan Perkapalan Saudagar (Upah dan Akaun Pelaut)"
+  },
+  "SG-H3202": {
+   "vi": "Quy tắc Vận tải biển (Tai nạn hàng hải, kháng nghị và xét xử lại)",
+   "th": "กฎการเดินเรือพาณิชย์ (อุบัติเหตุทางการเดินเรือ การอุทธรณ์ และการพิจารณาคดีใหม่)",
+   "id": "Peraturan Pelayaran Niaga (Kecelakaan Pelayaran, Banding dan Pemeriksaan Ulang)",
+   "ms": "Kaedah Perkapalan Saudagar (Kemalangan Perkapalan, Rayuan dan Perbicaraan Semula)"
+  },
+  "SG-H3204": {
+   "vi": "Quy tắc Vận tải biển (Chuyển nhân sự)",
+   "th": "กฎการเดินเรือพาณิชย์ (การโอนเจ้าหน้าที่)",
+   "id": "Peraturan Pelayaran Niaga (Pengalihan Staf)",
+   "ms": "Kaedah Perkapalan Saudagar (Pemindahan Kakitangan)"
+  },
+  "SG-H3205": {
+   "vi": "Quy tắc Vận tải biển (Kiểm tra tàu hơi nước chở khách)",
+   "th": "กฎการเดินเรือพาณิชย์ (การสำรวจเรือกลไฟโดยสาร)",
+   "id": "Peraturan Pelayaran Niaga (Survei Kapal Uap Penumpang)",
+   "ms": "Kaedah Perkapalan Saudagar (Pemeriksaan Kapal Stim Penumpang)"
+  },
+  "SG-H3206": {
+   "vi": "Quy chế Vận tải biển (Kiểm tra tàu Singapore)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (การสำรวจเรือสิงคโปร์)",
+   "id": "Peraturan Pelayaran Niaga (Survei Kapal Singapura)",
+   "ms": "Peraturan Perkapalan Saudagar (Pemeriksaan Kapal Singapura)"
+  },
+  "SG-H3207": {
+   "vi": "Quy chế Vận tải biển (Dung tích tàu)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (ระวางเรือ)",
+   "id": "Peraturan Pelayaran Niaga (Tonase)",
+   "ms": "Peraturan Perkapalan Saudagar (Tanan)"
+  },
+  "SG-H3208": {
+   "vi": "Quy chế Vận tải biển (Đào tạo, cấp chứng nhận và định biên)",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (การฝึกอบรม การออกใบรับรอง และการจัดกำลังคน)",
+   "id": "Peraturan Pelayaran Niaga (Pelatihan, Sertifikasi dan Penempatan Awak)",
+   "ms": "Peraturan Perkapalan Saudagar (Latihan, Pensijilan dan Penempatan Awak)"
+  },
+  "SG-H3209": {
+   "vi": "Quy tắc Vận tải biển (Vận chuyển gia súc quá cảnh bằng đường biển)",
+   "th": "กฎการเดินเรือพาณิชย์ (การขนส่งโคกระบือผ่านแดนทางทะเล)",
+   "id": "Peraturan Pelayaran Niaga (Transit Sapi melalui Laut)",
+   "ms": "Kaedah Perkapalan Saudagar (Transit Lembu melalui Laut)"
+  },
+  "SG-H3210": {
+   "vi": "Quy chế Vận tải biển (Tàu bay sát mặt nước) 2010",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (ยานบินเหนือผิวน้ำ) 2010",
+   "id": "Peraturan Pelayaran Niaga (Kapal Bersayap Permukaan) 2010",
+   "ms": "Peraturan Perkapalan Saudagar (Kapal Bersayap Permukaan) 2010"
+  },
+  "SG-H3219": {
+   "vi": "Quy tắc Diễn tập Quân sự (Trường bắn)",
+   "th": "กฎการซ้อมรบ (สนามยิงปืน)",
+   "id": "Peraturan Gerakan Ketenteraan (Lapangan Tembak)",
+   "ms": "Kaedah Gerakan Ketenteraan (Padang Menembak)"
+  },
+  "SG-H3224": {
+   "vi": "Luật Bộ trưởng Tài chính (Thành lập pháp nhân) 1959",
+   "th": "พระราชบัญญัติรัฐมนตรีว่าการกระทรวงการคลัง (การจัดตั้งเป็นนิติบุคคล) 1959",
+   "id": "Undang-Undang tentang Menteri Keuangan (Pendirian Badan Hukum) 1959",
+   "ms": "Akta Menteri Kewangan (Penubuhan Perbadanan) 1959"
+  },
+  "SG-H3226": {
+   "vi": "Quy chế Các tội nhẹ khác (Trật tự công cộng và phiền toái công cộng) (Xử phạt vi phạm) 2015",
+   "th": "ข้อบังคับความผิดเบ็ดเตล็ด (ความสงบเรียบร้อยและการก่อความเดือดร้อนรำคาญ) (การเปรียบเทียบคดีความผิด) 2015",
+   "id": "Peraturan Pelanggaran Lain-lain (Ketertiban Umum dan Gangguan) (Penyelesaian Pelanggaran di Luar Pengadilan) 2015",
+   "ms": "Peraturan Kesalahan Pelbagai (Ketenteraman Awam dan Kacau Ganggu) (Penyelesaian Kesalahan di Luar Mahkamah) 2015"
+  },
+  "SG-H3227": {
+   "vi": "Lệnh Các tội nhẹ khác (Trật tự công cộng và phiền toái công cộng) (Số điện thoại khẩn cấp)",
+   "th": "คำสั่งความผิดเบ็ดเตล็ด (ความสงบเรียบร้อยและการก่อความเดือดร้อนรำคาญ) (หมายเลขโทรศัพท์ฉุกเฉิน)",
+   "id": "Perintah Pelanggaran Lain-lain (Ketertiban Umum dan Gangguan) (Nomor Telepon Darurat)",
+   "ms": "Perintah Kesalahan Pelbagai (Ketenteraman Awam dan Kacau Ganggu) (Nombor Telefon Kecemasan)"
+  },
+  "SG-H3228": {
+   "vi": "Thông báo Các tội nhẹ khác (Trật tự công cộng và phiền toái công cộng) (Vũ khí và trang thiết bị theo quy định) 2009",
+   "th": "ประกาศความผิดเบ็ดเตล็ด (ความสงบเรียบร้อยและการก่อความเดือดร้อนรำคาญ) (อาวุธและอุปกรณ์ตามที่กำหนด) 2009",
+   "id": "Pemberitahuan Pelanggaran Lain-lain (Ketertiban Umum dan Gangguan) (Senjata dan Peralatan yang Ditetapkan) 2009",
+   "ms": "Pemberitahuan Kesalahan Pelbagai (Ketenteraman Awam dan Kacau Ganggu) (Senjata dan Peralatan yang Ditetapkan) 2009"
+  },
+  "SG-H3229": {
+   "vi": "Luật Các tội nhẹ khác (Trật tự công cộng và phiền toái công cộng) 1906",
+   "th": "พระราชบัญญัติความผิดเบ็ดเตล็ด (ความสงบเรียบร้อยและการก่อความเดือดร้อนรำคาญ) 1906",
+   "id": "Undang-Undang tentang Pelanggaran Lain-lain (Ketertiban Umum dan Gangguan) 1906",
+   "ms": "Akta Kesalahan Pelbagai (Ketenteraman Awam dan Kacau Ganggu) 1906"
+  },
+  "SG-H3241": {
+   "vi": "Quy chế Lạm dụng ma túy (Mẫu tóc và xét nghiệm tóc) 2013",
+   "th": "ข้อบังคับการใช้ยาเสพติดในทางที่ผิด (ตัวอย่างเส้นผมและการตรวจเส้นผม) 2013",
+   "id": "Peraturan Penyalahgunaan Narkotika (Spesimen Rambut dan Uji Rambut) 2013",
+   "ms": "Peraturan Penyalahgunaan Dadah (Spesimen Rambut dan Ujian Rambut) 2013"
+  },
+  "SG-H3242": {
+   "vi": "Quy chế Lạm dụng ma túy (Lực lượng Vũ trang Singapore) (Miễn trừ)",
+   "th": "ข้อบังคับการใช้ยาเสพติดในทางที่ผิด (กองทัพสิงคโปร์) (การยกเว้น)",
+   "id": "Peraturan Penyalahgunaan Narkotika (Angkatan Bersenjata Singapura) (Pembebasan)",
+   "ms": "Peraturan Penyalahgunaan Dadah (Angkatan Tentera Singapura) (Pengecualian)"
+  },
+  "SG-H3243": {
+   "vi": "Quy chế Lạm dụng ma túy (Mẫu nước tiểu và xét nghiệm nước tiểu)",
+   "th": "ข้อบังคับการใช้ยาเสพติดในทางที่ผิด (ตัวอย่างปัสสาวะและการตรวจปัสสาวะ)",
+   "id": "Peraturan Penyalahgunaan Narkotika (Spesimen Urin dan Uji Urin)",
+   "ms": "Peraturan Penyalahgunaan Dadah (Spesimen Air Kencing dan Ujian Air Kencing)"
+  },
+  "SG-H3252": {
+   "vi": "Quy tắc Người cho vay (Phòng chống rửa tiền, tài trợ khủng bố và tài trợ phổ biến vũ khí) 2009",
+   "th": "กฎผู้ให้กู้ยืม (การป้องกันการฟอกเงิน การระดมทุนเพื่อการก่อการร้าย และการระดมทุนเพื่อการแพร่ขยายอาวุธ) 2009",
+   "id": "Peraturan Pemberi Pinjaman (Pencegahan Pencucian Uang, Pendanaan Terorisme dan Pendanaan Proliferasi) 2009",
+   "ms": "Kaedah Pemberi Pinjam Wang (Pencegahan Pengubahan Wang Haram, Pembiayaan Keganasan dan Pembiayaan Percambahan) 2009"
+  },
+  "SG-H3255": {
+   "vi": "Thông báo Xe cơ giới (Rủi ro và bồi thường cho bên thứ ba) (Miễn trừ xe đạp trợ lực) 2004",
+   "th": "ประกาศยานยนต์ (ความเสี่ยงและการชดเชยต่อบุคคลที่สาม) (การยกเว้นจักรยานที่ใช้มอเตอร์ช่วย) 2004",
+   "id": "Pemberitahuan Kendaraan Bermotor (Risiko dan Kompensasi Pihak Ketiga) (Pembebasan Sepeda Bertenaga Bantuan) 2004",
+   "ms": "Pemberitahuan Kenderaan Bermotor (Risiko dan Pampasan Pihak Ketiga) (Pengecualian Basikal Berbantuan Kuasa) 2004"
+  },
+  "SG-H3257": {
+   "vi": "Thông báo Xe cơ giới (Rủi ro và bồi thường cho bên thứ ba) (Formula 1 Singapore Airlines Singapore Grand Prix — Miễn trừ chung) 2026",
+   "th": "ประกาศยานยนต์ (ความเสี่ยงและการชดเชยต่อบุคคลที่สาม) (Formula 1 Singapore Airlines Singapore Grand Prix — การยกเว้นทั่วไป) 2026",
+   "id": "Pemberitahuan Kendaraan Bermotor (Risiko dan Kompensasi Pihak Ketiga) (Formula 1 Singapore Airlines Singapore Grand Prix — Pembebasan Umum) 2026",
+   "ms": "Pemberitahuan Kenderaan Bermotor (Risiko dan Pampasan Pihak Ketiga) (Formula 1 Singapore Airlines Singapore Grand Prix — Pengecualian Am) 2026"
+  },
+  "SG-H3258": {
+   "vi": "Thông báo Xe cơ giới (Rủi ro và bồi thường cho bên thứ ba) (Thử nghiệm xe đạp trợ lực tại Đại học Công nghệ Nanyang) (Miễn trừ) 2011",
+   "th": "ประกาศยานยนต์ (ความเสี่ยงและการชดเชยต่อบุคคลที่สาม) (การทดลองจักรยานที่ใช้มอเตอร์ช่วยของมหาวิทยาลัยเทคโนโลยีนานยาง) (การยกเว้น) 2011",
+   "id": "Pemberitahuan Kendaraan Bermotor (Risiko dan Kompensasi Pihak Ketiga) (Uji Coba Sepeda Bertenaga Bantuan Universitas Teknologi Nanyang) (Pembebasan) 2011",
+   "ms": "Pemberitahuan Kenderaan Bermotor (Risiko dan Pampasan Pihak Ketiga) (Percubaan Basikal Berbantuan Kuasa Universiti Teknologi Nanyang) (Pengecualian) 2011"
+  },
+  "SG-H3261": {
+   "vi": "Lệnh Tiếp thị đa cấp và bán hàng kim tự tháp (Chương trình và thỏa thuận bị loại trừ)",
+   "th": "คำสั่งการตลาดแบบหลายชั้นและการขายแบบปีระมิด (โครงการและข้อตกลงที่ได้รับการยกเว้น)",
+   "id": "Perintah Pemasaran Berjenjang dan Penjualan Piramida (Skema dan Pengaturan yang Dikecualikan)",
+   "ms": "Perintah Pemasaran Berperingkat dan Jualan Piramid (Skim dan Pengaturan yang Dikecualikan)"
+  },
+  "SG-H3262": {
+   "vi": "Luật Tiếp thị đa cấp và bán hàng kim tự tháp (Cấm) 1973",
+   "th": "พระราชบัญญัติการตลาดแบบหลายชั้นและการขายแบบปีระมิด (การห้าม) 1973",
+   "id": "Undang-Undang tentang Pemasaran Berjenjang dan Penjualan Piramida (Larangan) 1973",
+   "ms": "Akta Pemasaran Berperingkat dan Jualan Piramid (Larangan) 1973"
+  },
+  "SG-H3264": {
+   "vi": "Thông báo Vận tải Đa phương thức (Cơ quan quốc gia có thẩm quyền của Singapore) 2021",
+   "th": "ประกาศการขนส่งหลายรูปแบบ (หน่วยงานระดับชาติที่มีอำนาจของสิงคโปร์) 2021",
+   "id": "Pemberitahuan Pengangkutan Multimodal (Badan Nasional Kompeten Singapura) 2021",
+   "ms": "Pemberitahuan Pengangkutan Multimodal (Badan Nasional Kompeten Singapura) 2021"
+  },
+  "SG-H3267": {
+   "vi": "Quy chế Doanh nghiệp đa quốc gia (Thuế tối thiểu) (Vấn đề hành chính) 2025",
+   "th": "ข้อบังคับวิสาหกิจข้ามชาติ (ภาษีขั้นต่ำ) (เรื่องทางปกครอง) 2025",
+   "id": "Peraturan Perusahaan Multinasional (Pajak Minimum) (Hal Administratif) 2025",
+   "ms": "Peraturan Perusahaan Multinasional (Cukai Minimum) (Perkara Pentadbiran) 2025"
+  },
+  "SG-H3268": {
+   "vi": "Luật Doanh nghiệp đa quốc gia (Thuế tối thiểu) 2024",
+   "th": "พระราชบัญญัติวิสาหกิจข้ามชาติ (ภาษีขั้นต่ำ) 2024",
+   "id": "Undang-Undang tentang Perusahaan Multinasional (Pajak Minimum) 2024",
+   "ms": "Akta Perusahaan Multinasional (Cukai Minimum) 2024"
+  },
+  "SG-H3270": {
+   "vi": "Quy chế Doanh nghiệp đa quốc gia (Thuế tối thiểu) 2024",
+   "th": "ข้อบังคับวิสาหกิจข้ามชาติ (ภาษีขั้นต่ำ) 2024",
+   "id": "Peraturan Perusahaan Multinasional (Pajak Minimum) 2024",
+   "ms": "Peraturan Perusahaan Multinasional (Cukai Minimum) 2024"
+  },
+  "SG-H3269": {
+   "vi": "Lệnh Doanh nghiệp đa quốc gia (Thuế tối thiểu) (Công bố theo Điều 1(3)) 2024",
+   "th": "คำสั่งวิสาหกิจข้ามชาติ (ภาษีขั้นต่ำ) (การประกาศตามมาตรา 1(3)) 2024",
+   "id": "Perintah Perusahaan Multinasional (Pajak Minimum) (Deklarasi menurut Pasal 1(3)) 2024",
+   "ms": "Perintah Perusahaan Multinasional (Cukai Minimum) (Pengisytiharan di bawah Seksyen 1(3)) 2024"
+  },
+  "SG-H3271": {
+   "vi": "Quy tắc Thành phố (Quỹ tiết kiệm)",
+   "th": "กฎเทศบาล (กองทุนสำรองเลี้ยงชีพ)",
+   "id": "Peraturan Kotamadya (Dana Simpanan)",
+   "ms": "Kaedah Perbandaran (Kumpulan Wang Simpanan)"
+  },
+  "SG-H3274": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Cộng hòa Pháp) 2023",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (สาธารณรัฐฝรั่งเศส) 2023",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (Republik Prancis) 2023",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (Republik Perancis) 2023"
+  },
+  "SG-H3276": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Ấn Độ) 2005",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (อินเดีย) 2005",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (India) 2005",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (India) 2005"
+  },
+  "SG-H3277": {
+   "vi": "Quy chế Tương trợ tư pháp trong các vấn đề hình sự (Tòa án Hình sự Quốc tế)",
+   "th": "ข้อบังคับความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (ศาลอาญาระหว่างประเทศ)",
+   "id": "Peraturan Bantuan Timbal Balik dalam Masalah Pidana (Pengadilan Pidana Internasional)",
+   "ms": "Peraturan Bantuan Bersama dalam Perkara Jenayah (Tribunal Jenayah Antarabangsa)"
+  },
+  "SG-H3278": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Vương quốc Campuchia) 2010",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (ราชอาณาจักรกัมพูชา) 2010",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (Kerajaan Kamboja) 2010",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (Kerajaan Kemboja) 2010"
+  },
+  "SG-H3279": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Vương quốc Thái Lan) 2013",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (ราชอาณาจักรไทย) 2013",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (Kerajaan Thailand) 2013",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (Kerajaan Thailand) 2013"
+  },
+  "SG-H3280": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Cộng hòa Dân chủ Nhân dân Lào) 2007",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (สาธารณรัฐประชาธิปไตยประชาชนลาว) 2007",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (Republik Demokratik Rakyat Laos) 2007",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (Republik Demokratik Rakyat Laos) 2007"
+  },
+  "SG-H3282": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Quốc gia nước ngoài theo quy định)",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (ประเทศต่างประเทศตามที่กำหนด)",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (Negara Asing yang Ditetapkan)",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (Negara Asing yang Ditetapkan)"
+  },
+  "SG-H3285": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Cộng hòa Philippines) 2009",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (สาธารณรัฐฟิลิปปินส์) 2009",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (Republik Filipina) 2009",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (Republik Filipina) 2009"
+  },
+  "SG-H3286": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Cộng hòa Xã hội Chủ nghĩa Việt Nam) 2005",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (สาธารณรัฐสังคมนิยมเวียดนาม) 2005",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (Republik Sosialis Vietnam) 2005",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (Republik Sosialis Vietnam) 2005"
+  },
+  "SG-H3287": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Liên bang Myanmar) 2009",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (สหภาพเมียนมา) 2009",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (Uni Myanmar) 2009",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (Kesatuan Myanmar) 2009"
+  },
+  "SG-H440": {
+   "vi": "Lệnh Vận chuyển Hàng không (Giá trị tương đương tiền tệ Singapore)",
+   "th": "คำสั่งการขนส่งทางอากาศ (มูลค่าเทียบเท่าสกุลเงินสิงคโปร์)",
+   "id": "Perintah Pengangkutan Udara (Ekuivalen Mata Uang Singapura)",
+   "ms": "Perintah Pengangkutan Udara (Nilai Setara Mata Wang Singapura)"
+  },
+  "SG-H442": {
+   "vi": "Lệnh Vận chuyển Hàng hóa Đường biển (Giá trị tương đương tiền tệ Singapore)",
+   "th": "คำสั่งการขนส่งสินค้าทางทะเล (มูลค่าเทียบเท่าสกุลเงินสิงคโปร์)",
+   "id": "Perintah Pengangkutan Barang melalui Laut (Ekuivalen Mata Uang Singapura)",
+   "ms": "Perintah Pengangkutan Barang melalui Laut (Nilai Setara Mata Wang Singapura)"
+  }
+ }
+}

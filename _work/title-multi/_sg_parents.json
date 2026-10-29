@@ -1,0 +1,1185 @@
+{
+ "Accountants": {
+  "vi": "Kế toán viên",
+  "th": "นักบัญชี",
+  "id": "Akuntan",
+  "ms": "Akauntan",
+  "from": "SG-H049"
+ },
+ "Accounting and Corporate Regulatory Authority": {
+  "vi": "Cơ quan quản lý kế toán và doanh nghiệp",
+  "th": "หน่วยงานกำกับดูแลการบัญชีและนิติบุคคล",
+  "id": "Otoritas Pengatur Akuntansi dan Korporasi",
+  "ms": "Pihak Berkuasa Pengawalseliaan Perakaunan dan Korporat",
+  "from": "SG-H057"
+ },
+ "Active Mobility": {
+  "vi": "Di chuyển chủ động",
+  "th": "การเคลื่อนที่เชิงรุก",
+  "id": "Mobilitas Aktif",
+  "ms": "Mobiliti Aktif",
+  "from": "SG-H116"
+ },
+ "Currency": {
+  "vi": "Tiền tệ",
+  "th": "สกุลเงิน",
+  "id": "Mata Uang",
+  "ms": "Mata Wang",
+  "from": "SG-H1004"
+ },
+ "Customs": {
+  "vi": "Hải quan",
+  "th": "ศุลกากร",
+  "id": "Bea Cukai",
+  "ms": "Kastam",
+  "from": "SG-H1069"
+ },
+ "Cybersecurity": {
+  "vi": "An ninh mạng",
+  "th": "ความมั่นคงปลอดภัยไซเบอร์",
+  "id": "Keamanan Siber",
+  "ms": "Keselamatan Siber",
+  "from": "SG-H1078"
+ },
+ "Debt Collection": {
+  "vi": "Thu hồi Nợ",
+  "th": "การทวงถามหนี้",
+  "id": "Penagihan Utang",
+  "ms": "Kutipan Hutang",
+  "from": "SG-H1087"
+ },
+ "Dental Registration": {
+  "vi": "Đăng ký Hành nghề Nha khoa",
+  "th": "การขึ้นทะเบียนทันตกรรม",
+  "id": "Registrasi Kedokteran Gigi",
+  "ms": "Pendaftaran Pergigian",
+  "from": "SG-H1138"
+ },
+ "Deposit Insurance and Policy Owners’ Protection Schemes": {
+  "vi": "Chương trình bảo hiểm tiền gửi và bảo vệ chủ hợp đồng",
+  "th": "โครงการประกันเงินฝากและการคุ้มครองผู้ถือกรมธรรม์",
+  "id": "Skema Penjaminan Simpanan dan Perlindungan Pemegang Polis",
+  "ms": "Skim Insurans Deposit dan Perlindungan Pemegang Polisi",
+  "from": "SG-H1155"
+ },
+ "Destitute Persons": {
+  "vi": "Người Nghèo khó",
+  "th": "คนอนาถา",
+  "id": "Orang Papa",
+  "ms": "Orang Papa",
+  "from": "SG-H1163"
+ },
+ "Diplomatic and Consular Relations": {
+  "vi": "Quan hệ ngoại giao và lãnh sự",
+  "th": "ความสัมพันธ์ทางการทูตและกงสุล",
+  "id": "Hubungan Diplomatik dan Konsuler",
+  "ms": "Hubungan Diplomatik dan Konsular",
+  "from": "SG-H1183"
+ },
+ "District Cooling": {
+  "vi": "Cấp lạnh Khu vực",
+  "th": "การทำความเย็นแบบเขตพื้นที่",
+  "id": "Pendinginan Distrik",
+  "ms": "Pendinginan Daerah",
+  "from": "SG-H1189"
+ },
+ "Early Childhood Development Centres": {
+  "vi": "Trung tâm Phát triển Trẻ thơ",
+  "th": "ศูนย์พัฒนาเด็กปฐมวัย",
+  "id": "Pusat Pengembangan Anak Usia Dini",
+  "ms": "Pusat Perkembangan Kanak-Kanak Awal",
+  "from": "SG-H1194"
+ },
+ "Administration of Muslim Law": {
+  "vi": "Quản lý luật Hồi giáo",
+  "th": "การบริหารกฎหมายอิสลาม",
+  "id": "Penyelenggaraan Hukum Islam",
+  "ms": "Pentadbiran Hukum Islam",
+  "from": "SG-H133"
+ },
+ "Education": {
+  "vi": "Giáo dục",
+  "th": "การศึกษา",
+  "id": "Pendidikan",
+  "ms": "Pendidikan",
+  "from": "SG-H1206"
+ },
+ "Education Endowment and Savings Schemes": {
+  "vi": "Chương trình tài trợ và tiết kiệm giáo dục",
+  "th": "โครงการกองทุนและการออมเพื่อการศึกษา",
+  "id": "Skema Dana Abadi dan Tabungan Pendidikan",
+  "ms": "Skim Endowmen dan Simpanan Pendidikan",
+  "from": "SG-H1228"
+ },
+ "Electricity": {
+  "vi": "Điện lực",
+  "th": "ไฟฟ้า",
+  "id": "Ketenagalistrikan",
+  "ms": "Elektrik",
+  "from": "SG-H1233"
+ },
+ "Electronic Transactions": {
+  "vi": "Giao dịch Điện tử",
+  "th": "ธุรกรรมทางอิเล็กทรอนิกส์",
+  "id": "Transaksi Elektronik",
+  "ms": "Urus Niaga Elektronik",
+  "from": "SG-H018"
+ },
+ "Employment": {
+  "vi": "Việc làm",
+  "th": "การจ้างงาน",
+  "id": "Ketenagakerjaan",
+  "ms": "Pekerjaan",
+  "from": "SG-H010"
+ },
+ "Employment Agencies": {
+  "vi": "Cơ quan Việc làm",
+  "th": "จัดหางาน",
+  "id": "Agen Ketenagakerjaan",
+  "ms": "Agensi Pekerjaan",
+  "from": "SG-H1271"
+ },
+ "Employment of Foreign Manpower": {
+  "vi": "Sử dụng lao động nước ngoài",
+  "th": "การจ้างแรงงานต่างชาติ",
+  "id": "Penggunaan Tenaga Kerja Asing",
+  "ms": "Penggajian Tenaga Kerja Asing",
+  "from": "SG-H1285"
+ },
+ "Energy Conservation": {
+  "vi": "Tiết kiệm năng lượng",
+  "th": "การอนุรักษ์พลังงาน",
+  "id": "Konservasi Energi",
+  "ms": "Pemuliharaan Tenaga",
+  "from": "SG-H1309"
+ },
+ "Enlistment": {
+  "vi": "Nhập ngũ",
+  "th": "การเกณฑ์ทหาร",
+  "id": "Wajib Militer",
+  "ms": "Kerahan",
+  "from": "SG-H1317"
+ },
+ "Enterprise Singapore Board": {
+  "vi": "Cơ quan Phát triển Doanh nghiệp Singapore",
+  "th": "องค์การพัฒนาวิสาหกิจสิงคโปร์",
+  "id": "Badan Pengembangan Usaha Singapura",
+  "ms": "Lembaga Pembangunan Perusahaan Singapura",
+  "from": "SG-H1323"
+ },
+ "Environmental Protection and Management": {
+  "vi": "Bảo vệ và quản lý môi trường",
+  "th": "การคุ้มครองและจัดการสิ่งแวดล้อม",
+  "id": "Perlindungan dan Pengelolaan Lingkungan Hidup",
+  "ms": "Perlindungan dan Pengurusan Alam Sekitar",
+  "from": "SG-H1351"
+ },
+ "Adoption of Children": {
+  "vi": "Nuôi con nuôi",
+  "th": "การรับบุตรบุญธรรม",
+  "id": "Pengangkatan Anak",
+  "ms": "Pengangkatan Anak",
+  "from": "SG-H136"
+ },
+ "Environmental Public Health": {
+  "vi": "Y tế công cộng môi trường",
+  "th": "สาธารณสุขสิ่งแวดล้อม",
+  "id": "Kesehatan Masyarakat Lingkungan",
+  "ms": "Kesihatan Awam Alam Sekitar",
+  "from": "SG-H1389"
+ },
+ "Estate Agents": {
+  "vi": "Đại lý bất động sản",
+  "th": "ตัวแทนอสังหาริมทรัพย์",
+  "id": "Agen Properti",
+  "ms": "Ejen Hartanah",
+  "from": "SG-H1401"
+ },
+ "Air Navigation": {
+  "vi": "Hàng không",
+  "th": "การเดินอากาศ",
+  "id": "Navigasi Udara",
+  "ms": "Navigasi Udara",
+  "from": "SG-H181"
+ },
+ "Estate Duty": {
+  "vi": "Thuế di sản thừa kế",
+  "th": "อากรที่ดินและมรดก",
+  "id": "Bea Warisan",
+  "ms": "Duti Harta Pusaka",
+  "from": "SG-H1420"
+ },
+ "Evidence": {
+  "vi": "Chứng cứ",
+  "th": "พยานหลักฐาน",
+  "id": "Alat Bukti",
+  "ms": "Keterangan",
+  "from": "SG-H1430"
+ },
+ "Exchange Control": {
+  "vi": "Quản lý Ngoại hối",
+  "th": "การควบคุมการแลกเปลี่ยนเงิน",
+  "id": "Pengendalian Valuta Asing",
+  "ms": "Kawalan Pertukaran Wang",
+  "from": "SG-H1432"
+ },
+ "Executive Condominium Housing Scheme": {
+  "vi": "Chương trình nhà ở căn hộ cao cấp",
+  "th": "โครงการที่อยู่อาศัยคอนโดมิเนียมระดับผู้บริหาร",
+  "id": "Skema Perumahan Kondominium Eksekutif",
+  "ms": "Skim Perumahan Kondominium Eksekutif",
+  "from": "SG-H1440"
+ },
+ "Extradition": {
+  "vi": "Dẫn độ",
+  "th": "การส่งผู้ร้ายข้ามแดน",
+  "id": "Ekstradisi",
+  "ms": "Ekstradisi",
+  "from": "SG-H1465"
+ },
+ "Family Justice": {
+  "vi": "Tư pháp gia đình",
+  "th": "กระบวนการยุติธรรมครอบครัว",
+  "id": "Peradilan Keluarga",
+  "ms": "Keadilan Keluarga",
+  "from": "SG-H1477"
+ },
+ "Feeding Stuffs": {
+  "vi": "Thức ăn Chăn nuôi",
+  "th": "อาหารสัตว์",
+  "id": "Bahan Makanan Ternak",
+  "ms": "Bahan Makanan Ternak",
+  "from": "SG-H1483"
+ },
+ "Fees": {
+  "vi": "Phí",
+  "th": "ค่าธรรมเนียม",
+  "id": "Biaya",
+  "ms": "Fi",
+  "from": "SG-H1517"
+ },
+ "Films": {
+  "vi": "Phim",
+  "th": "ภาพยนตร์",
+  "id": "Film",
+  "ms": "Filem",
+  "from": "SG-H1537"
+ },
+ "Finance Companies": {
+  "vi": "Công ty Tài chính",
+  "th": "บริษัทการเงิน",
+  "id": "Perusahaan Pembiayaan",
+  "ms": "Syarikat Kewangan",
+  "from": "SG-H1542"
+ },
+ "Financial Advisers": {
+  "vi": "Cố vấn tài chính",
+  "th": "ที่ปรึกษาทางการเงิน",
+  "id": "Penasihat Keuangan",
+  "ms": "Penasihat Kewangan",
+  "from": "SG-H1553"
+ },
+ "Financial Holding Companies": {
+  "vi": "Công ty cổ phần tài chính",
+  "th": "บริษัทโฮลดิ้งทางการเงิน",
+  "id": "Perusahaan Induk Keuangan",
+  "ms": "Syarikat Pegangan Kewangan",
+  "from": "SG-H1560"
+ },
+ "Financial Services and Markets": {
+  "vi": "Dịch vụ tài chính và thị trường",
+  "th": "บริการการเงินและตลาด",
+  "id": "Jasa Keuangan dan Pasar",
+  "ms": "Perkhidmatan Kewangan dan Pasaran",
+  "from": "SG-H1580"
+ },
+ "Fire Safety": {
+  "vi": "An toàn cháy nổ",
+  "th": "ความปลอดภัยด้านอัคคีภัย",
+  "id": "Keselamatan Kebakaran",
+  "ms": "Keselamatan Kebakaran",
+  "from": "SG-H1593"
+ },
+ "Geographical Indications": {
+  "vi": "Chỉ dẫn địa lý",
+  "th": "สิ่งบ่งชี้ทางภูมิศาสตร์",
+  "id": "Indikasi Geografis",
+  "ms": "Petunjuk Geografi",
+  "from": "SG-H1615"
+ },
+ "Goods and Services Tax": {
+  "vi": "Thuế hàng hóa và dịch vụ",
+  "th": "ภาษีสินค้าและบริการ",
+  "id": "Pajak Barang dan Jasa",
+  "ms": "Cukai Barang dan Perkhidmatan",
+  "from": "SG-H007"
+ },
+ "Goods and Services Tax Voucher Fund": {
+  "vi": "Quỹ Phiếu Hỗ trợ Thuế Hàng hóa và Dịch vụ",
+  "th": "กองทุนบัตรช่วยเหลือภาษีสินค้าและบริการ",
+  "id": "Dana Baucer Cukai Barang dan Perkhidmatan",
+  "ms": "Dana Baucar Cukai Barang dan Perkhidmatan",
+  "from": "SG-H1636"
+ },
+ "Government Contracts": {
+  "vi": "Hợp đồng Chính phủ",
+  "th": "สัญญาภาครัฐ",
+  "id": "Kontrak Kerajaan",
+  "ms": "Kontrak Kerajaan",
+  "from": "SG-H1639"
+ },
+ "Government Procurement": {
+  "vi": "Mua sắm Chính phủ",
+  "th": "การจัดซื้อจัดจ้างภาครัฐ",
+  "id": "Perolehan Kerajaan",
+  "ms": "Perolehan Kerajaan",
+  "from": "SG-H1645"
+ },
+ "Guns, Explosives and Weapons Control": {
+  "vi": "Kiểm soát súng, chất nổ và vũ khí",
+  "th": "การควบคุมปืน วัตถุระเบิด และอาวุธ",
+  "id": "Pengendalian Senjata Api, Bahan Peledak dan Senjata",
+  "ms": "Kawalan Senjata Api, Bahan Letupan dan Senjata",
+  "from": "SG-H1681"
+ },
+ "Health Products": {
+  "vi": "Sản phẩm y tế",
+  "th": "ผลิตภัณฑ์สุขภาพ",
+  "id": "Produk Kesehatan",
+  "ms": "Produk Kesihatan",
+  "from": "SG-H1703"
+ },
+ "Healthcare Services": {
+  "vi": "Dịch vụ chăm sóc sức khỏe",
+  "th": "บริการสุขภาพ",
+  "id": "Layanan Kesehatan",
+  "ms": "Perkhidmatan Penjagaan Kesihatan",
+  "from": "SG-H1733"
+ },
+ "Hire-Purchase": {
+  "vi": "Thuê mua",
+  "th": "เช่าซื้อ",
+  "id": "Sewa Beli",
+  "ms": "Sewa Beli",
+  "from": "SG-H1747"
+ },
+ "Home Team Corps": {
+  "vi": "Đoàn Thanh niên Lực lượng Nội vụ",
+  "th": "กองกำลังเยาวชนกิจการภายใน",
+  "id": "Kor Pasukan Dalam Negeri",
+  "ms": "Kor Pasukan Dalam Negeri",
+  "from": "SG-H1754"
+ },
+ "Home Team Science and Technology Agency": {
+  "vi": "Cơ quan Khoa học và Công nghệ Nội chính",
+  "th": "องค์การวิทยาศาสตร์และเทคโนโลยีฝ่ายกิจการภายใน",
+  "id": "Badan Ilmu Pengetahuan dan Teknologi Tim Dalam Negeri",
+  "ms": "Agensi Sains dan Teknologi Pasukan Dalam Negeri",
+  "from": "SG-H1757"
+ },
+ "House to House and Street Collections": {
+  "vi": "Quyên góp Từng nhà và Trên đường phố",
+  "th": "การเรี่ยไรตามบ้านและตามถนน",
+  "id": "Kutipan Dari Rumah ke Rumah dan di Jalan",
+  "ms": "Kutipan Dari Rumah ke Rumah dan di Jalan",
+  "from": "SG-H1763"
+ },
+ "Housing and Development": {
+  "vi": "Nhà ở và Phát triển",
+  "th": "ที่อยู่อาศัยและการพัฒนา",
+  "id": "Perumahan dan Pembangunan",
+  "ms": "Perumahan dan Pembangunan",
+  "from": "SG-H1860"
+ },
+ "Allied Health Professions": {
+  "vi": "Các ngành Y tế Tổng hợp",
+  "th": "วิชาชีพสุขภาพแบบผสมผสาน",
+  "id": "Profesi Kesehatan Terpadu",
+  "ms": "Profesion Kesihatan Bersekutu",
+  "from": "SG-H185"
+ },
+ "Human Biomedical Research": {
+  "vi": "Nghiên cứu y sinh trên người",
+  "th": "การวิจัยชีวการแพทย์ในมนุษย์",
+  "id": "Penelitian Biomedis Manusia",
+  "ms": "Penyelidikan Bioperubatan Manusia",
+  "from": "SG-H1874"
+ },
+ "Human Organ Transplant": {
+  "vi": "Cấy ghép Nội tạng Người",
+  "th": "การปลูกถ่ายอวัยวะมนุษย์",
+  "id": "Pemindahan Organ Manusia",
+  "ms": "Pemindahan Organ Manusia",
+  "from": "SG-H1879"
+ },
+ "Amusement Rides Safety": {
+  "vi": "An toàn trò chơi giải trí",
+  "th": "ความปลอดภัยเครื่องเล่น",
+  "id": "Keselamatan Wahana Permainan",
+  "ms": "Keselamatan Tunggangan Hiburan",
+  "from": "SG-H190"
+ },
+ "Immigration": {
+  "vi": "Nhập cư",
+  "th": "การตรวจคนเข้าเมือง",
+  "id": "Keimigrasian",
+  "ms": "Imigresen",
+  "from": "SG-H1899"
+ },
+ "Income Tax": {
+  "vi": "Thuế thu nhập",
+  "th": "ภาษีเงินได้",
+  "id": "Pajak Penghasilan",
+  "ms": "Cukai Pendapatan",
+  "from": "SG-H011"
+ },
+ "Animals and Birds": {
+  "vi": "Động vật và chim",
+  "th": "สัตว์และนก",
+  "id": "Hewan dan Burung",
+  "ms": "Haiwan dan Burung",
+  "from": "SG-H210"
+ },
+ "Apostille": {
+  "vi": "Chứng nhận Apostille",
+  "th": "การรับรองอโพสทิล",
+  "id": "Apostille",
+  "ms": "Apostille",
+  "from": "SG-H212"
+ },
+ "Appraisers": {
+  "vi": "Giám định viên",
+  "th": "ผู้ประเมินราคา",
+  "id": "Penilai",
+  "ms": "Penilai",
+  "from": "SG-H242"
+ },
+ "Arbitration": {
+  "vi": "Trọng tài",
+  "th": "อนุญาโตตุลาการ",
+  "id": "Arbitrase",
+  "ms": "Timbang Tara",
+  "from": "SG-H003"
+ },
+ "Architects": {
+  "vi": "Kiến trúc sư",
+  "th": "สถาปนิก",
+  "id": "Arsitek",
+  "ms": "Arkitek",
+  "from": "SG-H258"
+ },
+ "Industrial Relations": {
+  "vi": "Quan hệ lao động",
+  "th": "แรงงานสัมพันธ์",
+  "id": "Hubungan Industrial",
+  "ms": "Hubungan Perindustrian",
+  "from": "SG-H005"
+ },
+ "Infectious Diseases": {
+  "vi": "Bệnh truyền nhiễm",
+  "th": "โรคติดต่อ",
+  "id": "Penyakit Menular",
+  "ms": "Penyakit Berjangkit",
+  "from": "SG-H2611"
+ },
+ "Info-communications Media Development Authority": {
+  "vi": "Cơ quan phát triển truyền thông và thông tin",
+  "th": "หน่วยงานพัฒนาสื่อสารสนเทศและสื่อ",
+  "id": "Otoritas Pengembangan Media dan Info-komunikasi",
+  "ms": "Pihak Berkuasa Pembangunan Media dan Info-komunikasi",
+  "from": "SG-H2618"
+ },
+ "Infrastructure Protection": {
+  "vi": "Bảo vệ cơ sở hạ tầng",
+  "th": "การคุ้มครองโครงสร้างพื้นฐาน",
+  "id": "Perlindungan Infrastruktur",
+  "ms": "Perlindungan Infrastruktur",
+  "from": "SG-H2747"
+ },
+ "Inland Revenue Authority of Singapore": {
+  "vi": "Cơ quan Thuế nội địa Singapore",
+  "th": "กรมสรรพากรภายในประเทศสิงคโปร์",
+  "id": "Otoritas Pajak Dalam Negeri Singapura",
+  "ms": "Pihak Berkuasa Hasil Dalam Negeri Singapura",
+  "from": "SG-H2761"
+ },
+ "Inquiries": {
+  "vi": "Điều tra",
+  "th": "การสอบสวน",
+  "id": "Siasatan",
+  "ms": "Siasatan",
+  "from": "SG-H2765"
+ },
+ "Insolvency, Restructuring and Dissolution": {
+  "vi": "Mất khả năng thanh toán, Tái cơ cấu và Giải thể",
+  "th": "การล้มละลาย การปรับโครงสร้าง และการชำระบัญชี",
+  "id": "Kepailitan, Restrukturisasi dan Pembubaran",
+  "ms": "Insolvensi, Penstrukturan dan Pembubaran",
+  "from": "SG-H019"
+ },
+ "Banking": {
+  "vi": "Ngân hàng",
+  "th": "การธนาคาร",
+  "id": "Perbankan",
+  "ms": "Perbankan",
+  "from": "SG-H301"
+ },
+ "Insurance": {
+  "vi": "Bảo hiểm",
+  "th": "การประกันภัย",
+  "id": "Asuransi",
+  "ms": "Insurans",
+  "from": "SG-H2830"
+ },
+ "Internal Security": {
+  "vi": "An ninh nội bộ",
+  "th": "ความมั่นคงภายใน",
+  "id": "Keamanan Dalam Negeri",
+  "ms": "Keselamatan Dalam Negeri",
+  "from": "SG-H2841"
+ },
+ "International Arbitration": {
+  "vi": "Trọng tài Quốc tế",
+  "th": "อนุญาโตตุลาการระหว่างประเทศ",
+  "id": "Arbitrase Internasional",
+  "ms": "Timbang Tara Antarabangsa",
+  "from": "SG-H009"
+ },
+ "International Child Abduction": {
+  "vi": "Bắt cóc Trẻ em Quốc tế",
+  "th": "การลักพาเด็กข้ามชาติ",
+  "id": "Penculikan Kanak-Kanak Antarabangsa",
+  "ms": "Penculikan Kanak-Kanak Antarabangsa",
+  "from": "SG-H2845"
+ },
+ "Interpretation": {
+  "vi": "Giải thích pháp luật",
+  "th": "การตีความ",
+  "id": "Penafsiran",
+  "ms": "Tafsiran",
+  "from": "SG-H2906"
+ },
+ "Intoxicating Substances": {
+  "vi": "Chất gây say",
+  "th": "สารที่ทำให้มึนเมา",
+  "id": "Zat Memabukkan",
+  "ms": "Bahan Memabukkan",
+  "from": "SG-H2913"
+ },
+ "Judges’ Remuneration": {
+  "vi": "Thù lao Thẩm phán",
+  "th": "ค่าตอบแทนผู้พิพากษา",
+  "id": "Saraan Hakim",
+  "ms": "Saraan Hakim",
+  "from": "SG-H2918"
+ },
+ "Jurong Town Corporation": {
+  "vi": "Tổng công ty Jurong Town",
+  "th": "บรรษัทเมืองจูรง",
+  "id": "Perusahaan Jurong Town",
+  "ms": "Perbadanan Bandar Jurong",
+  "from": "SG-H2931"
+ },
+ "Land Acquisition": {
+  "vi": "Trưng dụng Đất",
+  "th": "การเวนคืนที่ดิน",
+  "id": "Pengadaan Tanah",
+  "ms": "Pengambilan Tanah",
+  "from": "SG-H2935"
+ },
+ "Land Betterment Charge": {
+  "vi": "Phí cải thiện đất",
+  "th": "ค่าธรรมเนียมการพัฒนาที่ดิน",
+  "id": "Biaya Peningkatan Lahan",
+  "ms": "Fi Penambahbaikan Tanah",
+  "from": "SG-H2942"
+ },
+ "Land Revenue Collection": {
+  "vi": "Thu Thuế Đất",
+  "th": "การจัดเก็บรายได้ที่ดิน",
+  "id": "Pemungutan Hasil Tanah",
+  "ms": "Pemungutan Hasil Tanah",
+  "from": "SG-H2944"
+ },
+ "Land Surveyors": {
+  "vi": "Nhân viên đo đạc đất",
+  "th": "ช่างรังวัดที่ดิน",
+  "id": "Juru Ukur Tanah",
+  "ms": "Juruukur Tanah",
+  "from": "SG-H2951"
+ },
+ "Land Titles": {
+  "vi": "Quyền sở hữu đất",
+  "th": "สิทธิในที่ดิน",
+  "id": "Hak atas Tanah",
+  "ms": "Hakmilik Tanah",
+  "from": "SG-H2964"
+ },
+ "Land Transport Authority of Singapore": {
+  "vi": "Cơ quan Giao thông Đường bộ Singapore",
+  "th": "องค์การขนส่งทางบกแห่งสิงคโปร์",
+  "id": "Otoritas Angkutan Darat Singapura",
+  "ms": "Pihak Berkuasa Pengangkutan Darat Singapura",
+  "from": "SG-H2976"
+ },
+ "Legal Profession": {
+  "vi": "Nghề luật",
+  "th": "วิชาชีพกฎหมาย",
+  "id": "Profesi Hukum",
+  "ms": "Profesion Guaman",
+  "from": "SG-H3017"
+ },
+ "Limited Liability Partnerships": {
+  "vi": "Công ty hợp danh trách nhiệm hữu hạn",
+  "th": "ห้างหุ้นส่วนจำกัดความรับผิด",
+  "id": "Persekutuan Komanditer Terbatas",
+  "ms": "Perkongsian Liabiliti Terhad",
+  "from": "SG-H013"
+ },
+ "Maintenance of Parents": {
+  "vi": "Cấp dưỡng Cha mẹ",
+  "th": "การเลี้ยงดูบิดามารดา",
+  "id": "Nafkah Ibu Bapa",
+  "ms": "Nafkah Ibu Bapa",
+  "from": "SG-H3050"
+ },
+ "Maintenance of Racial Harmony": {
+  "vi": "Duy trì Hòa hợp Chủng tộc",
+  "th": "การรักษาความปรองดองทางเชื้อชาติ",
+  "id": "Pemeliharaan Kerukunan Ras",
+  "ms": "Pemeliharaan Keharmonian Kaum",
+  "from": "SG-H3056"
+ },
+ "Maintenance of Religious Harmony": {
+  "vi": "Duy trì Hòa hợp Tôn giáo",
+  "th": "การรักษาความปรองดองทางศาสนา",
+  "id": "Pemeliharaan Kerukunan Umat Beragama",
+  "ms": "Pemeliharaan Keharmonian Agama",
+  "from": "SG-H3061"
+ },
+ "Bills of Exchange": {
+  "vi": "Hối phiếu",
+  "th": "ตั๋วแลกเงิน",
+  "id": "Surat Wesel",
+  "ms": "Bil Pertukaran",
+  "from": "SG-H307"
+ },
+ "Maritime and Port Authority of Singapore": {
+  "vi": "Cơ quan Hàng hải và Cảng Singapore",
+  "th": "การท่าเรือและทางทะเลแห่งสิงคโปร์",
+  "id": "Otoritas Maritim dan Pelabuhan Singapura",
+  "ms": "Pihak Berkuasa Maritim dan Pelabuhan Singapura",
+  "from": "SG-H3095"
+ },
+ "Bills of Sale": {
+  "vi": "Chứng thư Bán tài sản",
+  "th": "ตราสารขายทรัพย์",
+  "id": "Surat Ikatan Jualan",
+  "ms": "Surat Ikatan Jualan",
+  "from": "SG-H311"
+ },
+ "Massage Establishments": {
+  "vi": "Cơ sở Massage",
+  "th": "สถานประกอบการนวด",
+  "id": "Tempat Urut",
+  "ms": "Premis Urut",
+  "from": "SG-H3103"
+ },
+ "Medical and Elderly Care Endowment Schemes": {
+  "vi": "Các chương trình Quỹ tài trợ Y tế và Chăm sóc Người cao tuổi",
+  "th": "โครงการกองทุนการแพทย์และการดูแลผู้สูงอายุ",
+  "id": "Skema Dana Abadi Medis dan Perawatan Lansia",
+  "ms": "Skim Endowmen Perubatan dan Penjagaan Warga Emas",
+  "from": "SG-H3112"
+ },
+ "Medical Registration": {
+  "vi": "Đăng ký y khoa",
+  "th": "การขึ้นทะเบียนแพทย์",
+  "id": "Registrasi Medis",
+  "ms": "Pendaftaran Perubatan",
+  "from": "SG-H3117"
+ },
+ "Medicines": {
+  "vi": "Dược phẩm",
+  "th": "ยา",
+  "id": "Obat",
+  "ms": "Ubat",
+  "from": "SG-H3142"
+ },
+ "Biological Agents and Toxins": {
+  "vi": "Tác nhân Sinh học và Độc tố",
+  "th": "เชื้อก่อโรคและสารพิษ",
+  "id": "Agen Biologis dan Toksin",
+  "ms": "Agen Biologi dan Toksin",
+  "from": "SG-H317"
+ },
+ "MediShield Life Scheme": {
+  "vi": "Chương trình MediShield Life",
+  "th": "โครงการ MediShield Life",
+  "id": "Skema MediShield Life",
+  "ms": "Skim MediShield Life",
+  "from": "SG-H3148"
+ },
+ "Mental Capacity": {
+  "vi": "Năng lực Tinh thần",
+  "th": "ความสามารถทางจิต",
+  "id": "Kapasitas Mental",
+  "ms": "Kapasiti Mental",
+  "from": "SG-H3153"
+ },
+ "Merchant Shipping": {
+  "vi": "Vận tải biển",
+  "th": "การเดินเรือพาณิชย์",
+  "id": "Pelayaran Niaga",
+  "ms": "Perkapalan Saudagar",
+  "from": "SG-H3214"
+ },
+ "Boundaries and Survey Maps": {
+  "vi": "Ranh giới và bản đồ đo đạc",
+  "th": "เขตแดนและแผนที่รังวัด",
+  "id": "Batas dan Peta Ukur",
+  "ms": "Sempadan dan Peta Ukur",
+  "from": "SG-H326"
+ },
+ "Military Manoeuvres": {
+  "vi": "Diễn tập Quân sự",
+  "th": "การซ้อมรบ",
+  "id": "Gerakan Ketenteraan",
+  "ms": "Gerakan Ketenteraan",
+  "from": "SG-H3223"
+ },
+ "Misuse of Drugs": {
+  "vi": "Lạm dụng ma túy",
+  "th": "การใช้ยาเสพติดในทางที่ผิด",
+  "id": "Penyalahgunaan Narkotika",
+  "ms": "Penyalahgunaan Dadah",
+  "from": "SG-H3245"
+ },
+ "Monetary Authority of Singapore": {
+  "vi": "Cơ quan Tiền tệ Singapore",
+  "th": "องค์การเงินตราแห่งสิงคโปร์",
+  "id": "Otoritas Moneter Singapura",
+  "ms": "Pihak Berkuasa Monetari Singapura",
+  "from": "SG-H3250"
+ },
+ "Moneylenders": {
+  "vi": "Người cho vay",
+  "th": "ผู้ให้กู้ยืม",
+  "id": "Pemberi Pinjaman",
+  "ms": "Pemberi Pinjam Wang",
+  "from": "SG-H3253"
+ },
+ "Multimodal Transport": {
+  "vi": "Vận tải Đa phương thức",
+  "th": "การขนส่งหลายรูปแบบ",
+  "id": "Pengangkutan Multimodal",
+  "ms": "Pengangkutan Multimodal",
+  "from": "SG-H3265"
+ },
+ "Mutual Assistance in Criminal Matters": {
+  "vi": "Tương trợ tư pháp trong các vấn đề hình sự",
+  "th": "ความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา",
+  "id": "Bantuan Timbal Balik dalam Masalah Pidana",
+  "ms": "Bantuan Bersama dalam Perkara Jenayah",
+  "from": "SG-H3289"
+ },
+ "Mutual Benefit Organisations": {
+  "vi": "Tổ chức Tương trợ",
+  "th": "องค์กรสงเคราะห์ซึ่งกันและกัน",
+  "id": "Organisasi Kesejahteraan Bersama",
+  "ms": "Pertubuhan Faedah Bersama",
+  "from": "SG-H3291"
+ },
+ "Broadcasting": {
+  "vi": "Phát sóng",
+  "th": "การแพร่ภาพกระจายเสียง",
+  "id": "Penyiaran",
+  "ms": "Penyiaran",
+  "from": "SG-H342"
+ },
+ "National Council of Social Service": {
+  "vi": "Hội đồng Dịch vụ Xã hội Quốc gia",
+  "th": "สภาบริการสังคมแห่งชาติ",
+  "id": "Dewan Pelayanan Sosial Nasional",
+  "ms": "Majlis Perkhidmatan Sosial Kebangsaan",
+  "from": "SG-H3306"
+ },
+ "National Environment Agency": {
+  "vi": "Cơ quan Môi trường Quốc gia",
+  "th": "องค์การสิ่งแวดล้อมแห่งชาติ",
+  "id": "Badan Lingkungan Nasional",
+  "ms": "Agensi Alam Sekitar Kebangsaan",
+  "from": "SG-H3309"
+ },
+ "National Heritage Board": {
+  "vi": "Hội đồng Di sản Quốc gia",
+  "th": "คณะกรรมการมรดกแห่งชาติ",
+  "id": "Dewan Warisan Nasional",
+  "ms": "Lembaga Warisan Negara",
+  "from": "SG-H3312"
+ },
+ "National Library Board": {
+  "vi": "Hội đồng Thư viện Quốc gia",
+  "th": "คณะกรรมการห้องสมุดแห่งชาติ",
+  "id": "Dewan Perpustakaan Nasional",
+  "ms": "Lembaga Perpustakaan Negara",
+  "from": "SG-H3315"
+ },
+ "National Parks Board": {
+  "vi": "Ủy ban Công viên Quốc gia",
+  "th": "คณะกรรมการอุทยานแห่งชาติ",
+  "id": "Lembaga Taman Negara",
+  "ms": "Lembaga Taman Negara",
+  "from": "SG-H3318"
+ },
+ "National Registration": {
+  "vi": "Đăng ký Quốc gia",
+  "th": "การทะเบียนแห่งชาติ",
+  "id": "Pendaftaran Negara",
+  "ms": "Pendaftaran Negara",
+  "from": "SG-H3323"
+ },
+ "National Registry of Diseases": {
+  "vi": "Cơ quan đăng ký bệnh tật quốc gia",
+  "th": "ทะเบียนโรคแห่งชาติ",
+  "id": "Registri Penyakit Nasional",
+  "ms": "Daftar Penyakit Kebangsaan",
+  "from": "SG-H3333"
+ },
+ "Newspaper and Printing Presses": {
+  "vi": "Báo chí và nhà in",
+  "th": "หนังสือพิมพ์และโรงพิมพ์",
+  "id": "Surat Kabar dan Percetakan",
+  "ms": "Akhbar dan Mesin Cetak",
+  "from": "SG-H3355"
+ },
+ "Nurses and Midwives": {
+  "vi": "Điều dưỡng và Hộ sinh",
+  "th": "พยาบาลและผดุงครรภ์",
+  "id": "Perawat dan Bidan",
+  "ms": "Jururawat dan Bidan",
+  "from": "SG-H3372"
+ },
+ "Oaths and Declarations": {
+  "vi": "Tuyên thệ và Khai báo",
+  "th": "คำปฏิญาณและคำแถลง",
+  "id": "Sumpah dan Perakuan",
+  "ms": "Sumpah dan Perakuan",
+  "from": "SG-H3375"
+ },
+ "Online Criminal Harms": {
+  "vi": "Tác hại hình sự trực tuyến",
+  "th": "ภัยอาชญากรรมออนไลน์",
+  "id": "Bahaya Pidana Daring",
+  "ms": "Bahaya Jenayah Dalam Talian",
+  "from": "SG-H3384"
+ },
+ "Optometrists and Opticians": {
+  "vi": "Bác sĩ đo thị lực và kỹ thuật viên kính",
+  "th": "นักทัศนมาตรและช่างแว่นตา",
+  "id": "Optometris dan Optisian",
+  "ms": "Optometris dan Optisian",
+  "from": "SG-H3402"
+ },
+ "Organised Crime": {
+  "vi": "Tội phạm Có tổ chức",
+  "th": "อาชญากรรมองค์กร",
+  "id": "Kejahatan Terorganisasi",
+  "ms": "Jenayah Terancang",
+  "from": "SG-H3460"
+ },
+ "Building and Construction Authority": {
+  "vi": "Cơ quan Xây dựng và Thi công",
+  "th": "องค์การอาคารและการก่อสร้าง",
+  "id": "Otoritas Bangunan dan Konstruksi",
+  "ms": "Pihak Berkuasa Bangunan dan Pembinaan",
+  "from": "SG-H350"
+ },
+ "Parking Places": {
+  "vi": "Bãi đỗ xe",
+  "th": "สถานที่จอดรถ",
+  "id": "Tempat Parkir",
+  "ms": "Tempat Letak Kereta",
+  "from": "SG-H3479"
+ },
+ "Parks and Trees": {
+  "vi": "Công viên và cây xanh",
+  "th": "สวนสาธารณะและต้นไม้",
+  "id": "Taman dan Pohon",
+  "ms": "Taman dan Pokok",
+  "from": "SG-H3488"
+ },
+ "Parliamentary Pensions": {
+  "vi": "Lương hưu Nghị viên",
+  "th": "บำนาญสมาชิกรัฐสภา",
+  "id": "Pencen Ahli Parlimen",
+  "ms": "Pencen Ahli Parlimen",
+  "from": "SG-H3492"
+ },
+ "Pensions": {
+  "vi": "Lương hưu",
+  "th": "บำนาญ",
+  "id": "Pencen",
+  "ms": "Pencen",
+  "from": "SG-H3502"
+ },
+ "Pioneer Generation and Merdeka Generation Funds": {
+  "vi": "Quỹ Thế hệ Tiên phong và Thế hệ Merdeka",
+  "th": "กองทุนคนรุ่นบุกเบิกและคนรุ่นเมอร์เดกา",
+  "id": "Dana Generasi Perintis dan Generasi Merdeka",
+  "ms": "Dana Generasi Perintis dan Generasi Merdeka",
+  "from": "SG-H3528"
+ },
+ "Building Control": {
+  "vi": "Kiểm soát xây dựng",
+  "th": "การควบคุมอาคาร",
+  "id": "Pengendalian Bangunan",
+  "ms": "Kawalan Bangunan",
+  "from": "SG-H378"
+ },
+ "Planning": {
+  "vi": "Quy hoạch",
+  "th": "การผังเมือง",
+  "id": "Tata Ruang",
+  "ms": "Perancangan",
+  "from": "SG-H3559"
+ },
+ "Platform Workers": {
+  "vi": "Lao động nền tảng",
+  "th": "แรงงานแพลตฟอร์ม",
+  "id": "Pekerja Platform",
+  "ms": "Pekerja Platform",
+  "from": "SG-H3568"
+ },
+ "Sale of Goods": {
+  "vi": "Mua bán Hàng hóa",
+  "th": "การซื้อขายสินค้า",
+  "id": "Jual Beli Barang",
+  "ms": "Jualan Barang",
+  "from": "SG-H023"
+ },
+ "Bus Services Industry": {
+  "vi": "Ngành dịch vụ xe buýt",
+  "th": "อุตสาหกรรมบริการรถโดยสาร",
+  "id": "Industri Layanan Bus",
+  "ms": "Industri Perkhidmatan Bas",
+  "from": "SG-H401"
+ },
+ "Business Names Registration": {
+  "vi": "Đăng ký tên doanh nghiệp",
+  "th": "การจดทะเบียนชื่อธุรกิจ",
+  "id": "Pendaftaran Nama Usaha",
+  "ms": "Pendaftaran Nama Perniagaan",
+  "from": "SG-H407"
+ },
+ "Business Trusts": {
+  "vi": "Tín thác Thương mại",
+  "th": "ทรัสต์ธุรกิจ",
+  "id": "Perwaliamanatan Bisnis",
+  "ms": "Amanah Perniagaan",
+  "from": "SG-H412"
+ },
+ "Carbon Pricing": {
+  "vi": "Định giá carbon",
+  "th": "การกำหนดราคาคาร์บอน",
+  "id": "Penetapan Harga Karbon",
+  "ms": "Penetapan Harga Karbon",
+  "from": "SG-H426"
+ },
+ "CareShield Life and Long-Term Care": {
+  "vi": "CareShield Life và chăm sóc dài hạn",
+  "th": "CareShield Life และการดูแลระยะยาว",
+  "id": "CareShield Life dan Perawatan Jangka Panjang",
+  "ms": "CareShield Life dan Penjagaan Jangka Panjang",
+  "from": "SG-H436"
+ },
+ "Carriage by Air": {
+  "vi": "Vận chuyển Hàng không",
+  "th": "การขนส่งทางอากาศ",
+  "id": "Pengangkutan Udara",
+  "ms": "Pengangkutan Udara",
+  "from": "SG-H441"
+ },
+ "Carriage of Goods by Sea": {
+  "vi": "Vận chuyển Hàng hóa Đường biển",
+  "th": "การขนส่งสินค้าทางทะเล",
+  "id": "Pengangkutan Barang melalui Laut",
+  "ms": "Pengangkutan Barang melalui Laut",
+  "from": "SG-H443"
+ },
+ "Casino Control": {
+  "vi": "Kiểm soát sòng bạc",
+  "th": "การควบคุมคาสิโน",
+  "id": "Pengendalian Kasino",
+  "ms": "Kawalan Kasino",
+  "from": "SG-H482"
+ },
+ "Central Provident Fund": {
+  "vi": "Quỹ Tiết kiệm Trung ương",
+  "th": "กองทุนสำรองเลี้ยงชีพกลาง",
+  "id": "Dana Simpanan Pusat",
+  "ms": "Kumpulan Wang Simpanan Pusat",
+  "from": "SG-H549"
+ },
+ "Charities": {
+  "vi": "Từ thiện",
+  "th": "การกุศล",
+  "id": "Amal",
+  "ms": "Kebajikan",
+  "from": "SG-H577"
+ },
+ "Child Development Co-Savings": {
+  "vi": "Tiết kiệm Chung Phát triển Trẻ em",
+  "th": "การออมร่วมเพื่อพัฒนาเด็ก",
+  "id": "Tabungan Bersama Pengembangan Anak",
+  "ms": "Simpanan Bersama Pembangunan Kanak-Kanak",
+  "from": "SG-H584"
+ },
+ "Children and Young Persons": {
+  "vi": "Trẻ em và người vị thành niên",
+  "th": "เด็กและเยาวชน",
+  "id": "Anak-anak dan Remaja",
+  "ms": "Kanak-kanak dan Orang Muda",
+  "from": "SG-H600"
+ },
+ "Chit Funds": {
+  "vi": "Quỹ hụi",
+  "th": "กองทุนแชร์",
+  "id": "Dana Arisan",
+  "ms": "Kumpulan Wang Kutu",
+  "from": "SG-H608"
+ },
+ "Civil Aviation Authority of Singapore": {
+  "vi": "Cơ quan Hàng không Dân dụng Singapore",
+  "th": "องค์การการบินพลเรือนแห่งสิงคโปร์",
+  "id": "Otoritas Penerbangan Sipil Singapura",
+  "ms": "Pihak Berkuasa Penerbangan Awam Singapura",
+  "from": "SG-H631"
+ },
+ "Civil Defence": {
+  "vi": "Phòng thủ dân sự",
+  "th": "การป้องกันพลเรือน",
+  "id": "Pertahanan Sipil",
+  "ms": "Pertahanan Awam",
+  "from": "SG-H638"
+ },
+ "Civil Law": {
+  "vi": "Dân sự",
+  "th": "กฎหมายแพ่ง",
+  "id": "Hukum Perdata",
+  "ms": "Undang-Undang Sivil",
+  "from": "SG-H014"
+ },
+ "Co-operative Societies": {
+  "vi": "Hợp tác xã",
+  "th": "สหกรณ์",
+  "id": "Koperasi",
+  "ms": "Koperasi",
+  "from": "SG-H692"
+ },
+ "Common Services Tunnels": {
+  "vi": "Đường hầm Dịch vụ Dùng chung",
+  "th": "อุโมงค์บริการร่วม",
+  "id": "Terowong Perkhidmatan Bersama",
+  "ms": "Terowong Perkhidmatan Bersama",
+  "from": "SG-H753"
+ },
+ "Community Disputes Resolution": {
+  "vi": "Giải quyết tranh chấp cộng đồng",
+  "th": "การระงับข้อพิพาทชุมชน",
+  "id": "Penyelesaian Sengketa Masyarakat",
+  "ms": "Penyelesaian Pertikaian Komuniti",
+  "from": "SG-H762"
+ },
+ "Community Mediation Centres": {
+  "vi": "Trung tâm Hòa giải Cộng đồng",
+  "th": "ศูนย์ไกล่เกลี่ยชุมชน",
+  "id": "Pusat Pengantaraan Komuniti",
+  "ms": "Pusat Pengantaraan Komuniti",
+  "from": "SG-H765"
+ },
+ "Companies": {
+  "vi": "Công ty",
+  "th": "บริษัท",
+  "id": "Perusahaan",
+  "ms": "Syarikat",
+  "from": "SG-H004"
+ },
+ "Competition": {
+  "vi": "Cạnh tranh",
+  "th": "การแข่งขัน",
+  "id": "Persaingan Usaha",
+  "ms": "Persaingan",
+  "from": "SG-H795"
+ },
+ "Compulsory Education": {
+  "vi": "Giáo dục Bắt buộc",
+  "th": "การศึกษาภาคบังคับ",
+  "id": "Pendidikan Wajib",
+  "ms": "Pendidikan Wajib",
+  "from": "SG-H801"
+ },
+ "Computer Misuse": {
+  "vi": "Lạm dụng Máy tính",
+  "th": "การใช้คอมพิวเตอร์โดยมิชอบ",
+  "id": "Penyalahgunaan Komputer",
+  "ms": "Penyalahgunaan Komputer",
+  "from": "SG-H803"
+ },
+ "Control of Plants": {
+  "vi": "Kiểm soát thực vật",
+  "th": "การควบคุมพืช",
+  "id": "Pengendalian Tanaman",
+  "ms": "Kawalan Tumbuhan",
+  "from": "SG-H833"
+ },
+ "Control of Vectors and Pesticides": {
+  "vi": "Kiểm soát vật trung gian truyền bệnh và thuốc trừ sâu",
+  "th": "การควบคุมพาหะนำโรคและสารกำจัดศัตรูพืช",
+  "id": "Pengendalian Vektor dan Pestisida",
+  "ms": "Kawalan Vektor dan Racun Perosak",
+  "from": "SG-H843"
+ },
+ "Conveyancing and Law of Property": {
+  "vi": "Chuyển nhượng và Tài sản",
+  "th": "การโอนกรรมสิทธิ์และทรัพย์สิน",
+  "id": "Pengalihan Hak dan Harta",
+  "ms": "Pemindahan Hakmilik dan Harta",
+  "from": "SG-H847"
+ },
+ "Copyright": {
+  "vi": "Quyền tác giả",
+  "th": "ลิขสิทธิ์",
+  "id": "Hak Cipta",
+  "ms": "Hak Cipta",
+  "from": "SG-H017"
+ },
+ "Coroners": {
+  "vi": "Điều tra viên tử thi",
+  "th": "เจ้าพนักงานชันสูตรศพ",
+  "id": "Pemeriksa Kematian",
+  "ms": "Pemeriksa Kematian",
+  "from": "SG-H860"
+ },
+ "Corporate Service Providers": {
+  "vi": "Nhà cung cấp Dịch vụ Doanh nghiệp",
+  "th": "ผู้ให้บริการองค์กร",
+  "id": "Penyedia Jasa Korporasi",
+  "ms": "Penyedia Perkhidmatan Korporat",
+  "from": "SG-H865"
+ },
+ "Credit Bureau": {
+  "vi": "Cục Thông tin Tín dụng",
+  "th": "สำนักข้อมูลเครดิต",
+  "id": "Biro Kredit",
+  "ms": "Biro Kredit",
+  "from": "SG-H909"
+ },
+ "Cross-Border Railways": {
+  "vi": "Đường sắt xuyên biên giới",
+  "th": "รถไฟข้ามพรมแดน",
+  "id": "Kereta Api Lintas Batas",
+  "ms": "Keretapi Rentas Sempadan",
+  "from": "SG-H960"
+ }
+}

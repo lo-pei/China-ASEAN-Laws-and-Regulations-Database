@@ -1,0 +1,583 @@
+{
+ "batch": "sg-p1-b20",
+ "note": "SG 尾段：体裁 + 母法 + 括注 组合合成",
+ "count": 96,
+ "items": {
+  "SG-H2919": {
+   "vi": "Quy tắc Ủy ban Tư pháp (Kháng cáo hình sự)",
+   "th": "กฎคณะกรรมการตุลาการ (การอุทธรณ์คดีอาญา)",
+   "id": "Peraturan Komite Yudisial (Banding Pidana)",
+   "ms": "Kaedah Jawatankuasa Kehakiman (Rayuan Jenayah)"
+  },
+  "SG-H2920": {
+   "vi": "Luật Tố tụng tư pháp (Quản lý việc đưa tin) 1960",
+   "th": "พระราชบัญญัติกระบวนพิจารณาคดี (การควบคุมการรายงานข่าว) 1960",
+   "id": "Undang-Undang tentang Proses Peradilan (Pengaturan Pemberitaan) 1960",
+   "ms": "Akta Prosiding Kehakiman (Pengawalan Laporan) 1960"
+  },
+  "SG-H2921": {
+   "vi": "Quy chế Dịch vụ Tư pháp (Hội đồng Nhân sự) 2022",
+   "th": "ข้อบังคับบริการตุลาการ (คณะกรรมการบุคลากร) 2022",
+   "id": "Peraturan Layanan Yudisial (Dewan Kepegawaian) 2022",
+   "ms": "Peraturan Perkhidmatan Kehakiman (Lembaga Personel) 2022"
+  },
+  "SG-H2922": {
+   "vi": "Thông báo Dịch vụ Tư pháp (Cấp bậc ngưỡng) 2022",
+   "th": "ประกาศบริการตุลาการ (ระดับขั้นต่ำ) 2022",
+   "id": "Pemberitahuan Layanan Yudisial (Tingkat Ambang) 2022",
+   "ms": "Pemberitahuan Perkhidmatan Kehakiman (Gred Ambang) 2022"
+  },
+  "SG-H2928": {
+   "vi": "Quy chế Tổng công ty Jurong Town (Công viên)",
+   "th": "ข้อบังคับบรรษัทเมืองจูรง (สวนสาธารณะ)",
+   "id": "Peraturan Perusahaan Jurong Town (Taman)",
+   "ms": "Peraturan Perbadanan Bandar Jurong (Taman)"
+  },
+  "SG-H2941": {
+   "vi": "Quy chế Phí cải thiện đất (Bảng mức thu và phương pháp định giá) 2022",
+   "th": "ข้อบังคับค่าธรรมเนียมการพัฒนาที่ดิน (ตารางอัตราและวิธีการประเมินมูลค่า) 2022",
+   "id": "Peraturan Biaya Peningkatan Lahan (Tabel Tarif dan Metode Penilaian) 2022",
+   "ms": "Peraturan Fi Penambahbaikan Tanah (Jadual Kadar dan Kaedah Penilaian) 2022"
+  },
+  "SG-H2950": {
+   "vi": "Quy tắc Nhân viên đo đạc đất (Ủy ban điều tra)",
+   "th": "กฎช่างรังวัดที่ดิน (คณะกรรมการสอบสวน)",
+   "id": "Peraturan Juru Ukur Tanah (Komite Investigasi)",
+   "ms": "Kaedah Juruukur Tanah (Jawatankuasa Siasatan)"
+  },
+  "SG-H2955": {
+   "vi": "Thông báo Quyền sở hữu đất (Phân tầng) (Áp dụng Điều 84E và 84F đối với các bất động sản khác) 2005",
+   "th": "ประกาศสิทธิในที่ดิน (อาคารชุด) (การใช้บังคับมาตรา 84E และ 84F กับอสังหาริมทรัพย์อื่น) 2005",
+   "id": "Pemberitahuan Hak atas Tanah (Strata) (Pemberlakuan Pasal 84E dan 84F pada Estat Lain) 2005",
+   "ms": "Pemberitahuan Hakmilik Tanah (Strata) (Penggunaan Seksyen 84E dan 84F kepada Estet Lain) 2005"
+  },
+  "SG-H2956": {
+   "vi": "Thông báo Quyền sở hữu đất (Phân tầng) (Đất được chỉ định) (Hợp nhất)",
+   "th": "ประกาศสิทธิในที่ดิน (อาคารชุด) (ที่ดินที่กำหนด) (การรวมฉบับ)",
+   "id": "Pemberitahuan Hak atas Tanah (Strata) (Tanah yang Ditetapkan) (Konsolidasi)",
+   "ms": "Pemberitahuan Hakmilik Tanah (Strata) (Tanah yang Ditetapkan) (Penyatuan)"
+  },
+  "SG-H2957": {
+   "vi": "Thông báo Quyền sở hữu đất (Phân tầng) (Đất được chỉ định) 2010",
+   "th": "ประกาศสิทธิในที่ดิน (อาคารชุด) (ที่ดินที่กำหนด) 2010",
+   "id": "Pemberitahuan Hak atas Tanah (Strata) (Tanah yang Ditetapkan) 2010",
+   "ms": "Pemberitahuan Hakmilik Tanah (Strata) (Tanah yang Ditetapkan) 2010"
+  },
+  "SG-H2958": {
+   "vi": "Thông báo Quyền sở hữu đất (Phân tầng) (Đất được chỉ định) 2014",
+   "th": "ประกาศสิทธิในที่ดิน (อาคารชุด) (ที่ดินที่กำหนด) 2014",
+   "id": "Pemberitahuan Hak atas Tanah (Strata) (Tanah yang Ditetapkan) 2014",
+   "ms": "Pemberitahuan Hakmilik Tanah (Strata) (Tanah yang Ditetapkan) 2014"
+  },
+  "SG-H2959": {
+   "vi": "Thông báo Quyền sở hữu đất (Phân tầng) (Không áp dụng Điều 6) (Hợp nhất)",
+   "th": "ประกาศสิทธิในที่ดิน (อาคารชุด) (การไม่ใช้บังคับมาตรา 6) (การรวมฉบับ)",
+   "id": "Pemberitahuan Hak atas Tanah (Strata) (Tidak Berlakunya Pasal 6) (Konsolidasi)",
+   "ms": "Pemberitahuan Hakmilik Tanah (Strata) (Tidak Menggunakan Seksyen 6) (Penyatuan)"
+  },
+  "SG-H2960": {
+   "vi": "Quy chế Quyền sở hữu đất (Phân tầng) (Thông báo hủy bỏ)",
+   "th": "ข้อบังคับสิทธิในที่ดิน (อาคารชุด) (หนังสือบอกเลิกสัญญา)",
+   "id": "Peraturan Hak atas Tanah (Strata) (Pemberitahuan Pembatalan)",
+   "ms": "Peraturan Hakmilik Tanah (Strata) (Notis Pembatalan)"
+  },
+  "SG-H2961": {
+   "vi": "Quy chế Quyền sở hữu đất (Phân tầng) (Điều chỉnh thời kỳ ban đầu) 1996",
+   "th": "ข้อบังคับสิทธิในที่ดิน (อาคารชุด) (การเปลี่ยนแปลงระยะเวลาเริ่มต้น) 1996",
+   "id": "Peraturan Hak atas Tanah (Strata) (Perubahan Periode Awal) 1996",
+   "ms": "Peraturan Hakmilik Tanah (Strata) (Perubahan Tempoh Permulaan) 1996"
+  },
+  "SG-H2966": {
+   "vi": "Thông báo Giao thông Đường bộ và Các vấn đề Liên quan (Ngày bắt đầu có hiệu lực) (Số 2) 2026",
+   "th": "ประกาศการขนส่งทางบกและเรื่องที่เกี่ยวข้อง (วันเริ่มมีผลใช้บังคับ) (ฉบับที่ 2) 2026",
+   "id": "Pemberitahuan Angkutan Darat dan Hal Terkait (Mulai Berlaku) (Nomor 2) 2026",
+   "ms": "Pemberitahuan Pengangkutan Darat dan Perkara Berkaitan (Mula Berkuat Kuasa) (No. 2) 2026"
+  },
+  "SG-H2967": {
+   "vi": "Thông báo Giao thông Đường bộ và Các vấn đề Liên quan (Ngày bắt đầu có hiệu lực) (Số 3) 2026",
+   "th": "ประกาศการขนส่งทางบกและเรื่องที่เกี่ยวข้อง (วันเริ่มมีผลใช้บังคับ) (ฉบับที่ 3) 2026",
+   "id": "Pemberitahuan Angkutan Darat dan Hal Terkait (Mulai Berlaku) (Nomor 3) 2026",
+   "ms": "Pemberitahuan Pengangkutan Darat dan Perkara Berkaitan (Mula Berkuat Kuasa) (No. 3) 2026"
+  },
+  "SG-H2968": {
+   "vi": "Thông báo Giao thông Đường bộ và Các vấn đề Liên quan (Ngày bắt đầu có hiệu lực) (Số 4) 2026",
+   "th": "ประกาศการขนส่งทางบกและเรื่องที่เกี่ยวข้อง (วันเริ่มมีผลใช้บังคับ) (ฉบับที่ 4) 2026",
+   "id": "Pemberitahuan Angkutan Darat dan Hal Terkait (Mulai Berlaku) (Nomor 4) 2026",
+   "ms": "Pemberitahuan Pengangkutan Darat dan Perkara Berkaitan (Mula Berkuat Kuasa) (No. 4) 2026"
+  },
+  "SG-H2969": {
+   "vi": "Thông báo Giao thông Đường bộ và Các vấn đề Liên quan (Ngày bắt đầu có hiệu lực) (Số 5) 2026",
+   "th": "ประกาศการขนส่งทางบกและเรื่องที่เกี่ยวข้อง (วันเริ่มมีผลใช้บังคับ) (ฉบับที่ 5) 2026",
+   "id": "Pemberitahuan Angkutan Darat dan Hal Terkait (Mulai Berlaku) (Nomor 5) 2026",
+   "ms": "Pemberitahuan Pengangkutan Darat dan Perkara Berkaitan (Mula Berkuat Kuasa) (No. 5) 2026"
+  },
+  "SG-H2970": {
+   "vi": "Thông báo Giao thông Đường bộ và Các vấn đề Liên quan (Ngày bắt đầu có hiệu lực) 2026",
+   "th": "ประกาศการขนส่งทางบกและเรื่องที่เกี่ยวข้อง (วันเริ่มมีผลใช้บังคับ) 2026",
+   "id": "Pemberitahuan Angkutan Darat dan Hal Terkait (Mulai Berlaku) 2026",
+   "ms": "Pemberitahuan Pengangkutan Darat dan Perkara Berkaitan (Mula Berkuat Kuasa) 2026"
+  },
+  "SG-H2971": {
+   "vi": "Quy chế Giao thông Đường bộ và Các vấn đề Liên quan (Quy định chuyển tiếp) 2026",
+   "th": "ข้อบังคับการขนส่งทางบกและเรื่องที่เกี่ยวข้อง (บทบัญญัติเฉพาะกาล) 2026",
+   "id": "Peraturan Angkutan Darat dan Hal Terkait (Ketentuan Peralihan) 2026",
+   "ms": "Peraturan Pengangkutan Darat dan Perkara Berkaitan (Peruntukan Peralihan) 2026"
+  },
+  "SG-H2991": {
+   "vi": "Quy tắc Nghề luật (Kỳ thi hành nghề nước ngoài) 2011",
+   "th": "กฎวิชาชีพกฎหมาย (การสอบผู้ประกอบวิชาชีพต่างประเทศ) 2011",
+   "id": "Peraturan Profesi Hukum (Ujian Praktisi Asing) 2011",
+   "ms": "Kaedah Profesion Guaman (Peperiksaan Pengamal Asing) 2011"
+  },
+  "SG-H2992": {
+   "vi": "Điều lệ Nghề luật (Đại hội đồng)",
+   "th": "ข้อกำหนดวิชาชีพกฎหมาย (การประชุมใหญ่)",
+   "id": "Peraturan Kecil Profesi Hukum (Rapat Umum)",
+   "ms": "Undang-Undang Kecil Profesion Guaman (Mesyuarat Agung)"
+  },
+  "SG-H2993": {
+   "vi": "Quy tắc Nghề luật (Điều tra khiếu nại về dịch vụ nghề nghiệp không đạt yêu cầu)",
+   "th": "กฎวิชาชีพกฎหมาย (การสอบสวนข้อร้องเรียนเกี่ยวกับบริการวิชาชีพที่ไม่เพียงพอ)",
+   "id": "Peraturan Profesi Hukum (Penyelidikan Keluhan Layanan Profesional Tidak Memadai)",
+   "ms": "Kaedah Profesion Guaman (Siasatan Aduan Perkhidmatan Profesional Tidak Memadai)"
+  },
+  "SG-H2994": {
+   "vi": "Quy tắc Nghề luật (Pháp nhân hành nghề luật) 2015",
+   "th": "กฎวิชาชีพกฎหมาย (นิติบุคคลประกอบกิจการกฎหมาย) 2015",
+   "id": "Peraturan Profesi Hukum (Entitas Praktik Hukum) 2015",
+   "ms": "Kaedah Profesion Guaman (Entiti Amalan Undang-Undang) 2015"
+  },
+  "SG-H2995": {
+   "vi": "Quy tắc Nghề luật (Khóa học quản lý hành nghề luật) 2015",
+   "th": "กฎวิชาชีพกฎหมาย (หลักสูตรการจัดการการประกอบวิชาชีพกฎหมาย) 2015",
+   "id": "Peraturan Profesi Hukum (Kursus Manajemen Praktik Hukum) 2015",
+   "ms": "Kaedah Profesion Guaman (Kursus Pengurusan Amalan Undang-Undang) 2015"
+  },
+  "SG-H2996": {
+   "vi": "Quy tắc Nghề luật (Báo cáo bắt buộc về dịch vụ trợ giúp pháp lý miễn phí được chỉ định) 2015",
+   "th": "กฎวิชาชีพกฎหมาย (การรายงานภาคบังคับเกี่ยวกับบริการกฎหมายเพื่อสาธารณประโยชน์ที่ระบุ) 2015",
+   "id": "Peraturan Profesi Hukum (Pelaporan Wajib atas Layanan Pro Bono Tertentu) 2015",
+   "ms": "Kaedah Profesion Guaman (Pelaporan Mandatori bagi Perkhidmatan Pro Bono Tertentu) 2015"
+  },
+  "SG-H2997": {
+   "vi": "Quy tắc Nghề luật (Áp dụng sửa đổi của Luật đối với dịch vụ quốc tế) 2015",
+   "th": "กฎวิชาชีพกฎหมาย (การใช้บังคับกฎหมายที่แก้ไขสำหรับบริการระหว่างประเทศ) 2015",
+   "id": "Peraturan Profesi Hukum (Pemberlakuan Undang-Undang yang Dimodifikasi bagi Layanan Internasional) 2015",
+   "ms": "Kaedah Profesion Guaman (Penggunaan Akta yang Diubah Suai bagi Perkhidmatan Antarabangsa) 2015"
+  },
+  "SG-H2998": {
+   "vi": "Quy tắc Nghề luật (Giấy chứng nhận hành nghề)",
+   "th": "กฎวิชาชีพกฎหมาย (ใบอนุญาตประกอบวิชาชีพ)",
+   "id": "Peraturan Profesi Hukum (Sertifikat Praktik)",
+   "ms": "Kaedah Profesion Guaman (Sijil Amalan)"
+  },
+  "SG-H3000": {
+   "vi": "Quy tắc Nghề luật (Cơ quan luật định theo quy định và văn phòng luật trong dịch vụ công)",
+   "th": "กฎวิชาชีพกฎหมาย (หน่วยงานตามกฎหมายตามที่กำหนดและสำนักงานกฎหมายในบริการสาธารณะ)",
+   "id": "Peraturan Profesi Hukum (Badan Statuter yang Ditetapkan dan Kantor Hukum dalam Layanan Publik)",
+   "ms": "Kaedah Profesion Guaman (Badan Berkanun yang Ditetapkan dan Pejabat Undang-Undang dalam Perkhidmatan Awam)"
+  },
+  "SG-H3001": {
+   "vi": "Quy tắc Nghề luật (Phòng chống rửa tiền, tài trợ khủng bố và tài trợ phổ biến vũ khí) 2015",
+   "th": "กฎวิชาชีพกฎหมาย (การป้องกันการฟอกเงิน การระดมทุนเพื่อการก่อการร้าย และการระดมทุนเพื่อการแพร่ขยายอาวุธ) 2015",
+   "id": "Peraturan Profesi Hukum (Pencegahan Pencucian Uang, Pendanaan Terorisme dan Pendanaan Proliferasi) 2015",
+   "ms": "Kaedah Profesion Guaman (Pencegahan Pengubahan Wang Haram, Pembiayaan Keganasan dan Pembiayaan Percambahan) 2015"
+  },
+  "SG-H3002": {
+   "vi": "Quy tắc Nghề luật (Dịch vụ pháp lý miễn phí) 2013",
+   "th": "กฎวิชาชีพกฎหมาย (บริการกฎหมายเพื่อสาธารณประโยชน์) 2013",
+   "id": "Peraturan Profesi Hukum (Layanan Hukum Pro Bono) 2013",
+   "ms": "Kaedah Profesion Guaman (Perkhidmatan Undang-Undang Pro Bono) 2013"
+  },
+  "SG-H3003": {
+   "vi": "Quy tắc Nghề luật (Tố tụng trước Hội đồng 3 thẩm phán Tòa án Tối cao) 2022",
+   "th": "กฎวิชาชีพกฎหมาย (กระบวนพิจารณาต่อหน้าคณะผู้พิพากษาศาลสูง 3 ท่าน) 2022",
+   "id": "Peraturan Profesi Hukum (Proses di hadapan Majelis 3 Hakim Mahkamah Agung) 2022",
+   "ms": "Kaedah Profesion Guaman (Prosiding di hadapan Panel 3 Hakim Mahkamah Agung) 2022"
+  },
+  "SG-H3004": {
+   "vi": "Quy tắc Nghề luật (Hành vi nghề nghiệp) 2015",
+   "th": "กฎวิชาชีพกฎหมาย (จรรยาบรรณวิชาชีพ) 2015",
+   "id": "Peraturan Profesi Hukum (Perilaku Profesional) 2015",
+   "ms": "Kaedah Profesion Guaman (Kelakuan Profesional) 2015"
+  },
+  "SG-H3005": {
+   "vi": "Quy tắc Nghề luật (Bảo hiểm bồi thường nghề nghiệp)",
+   "th": "กฎวิชาชีพกฎหมาย (การประกันภัยชดเชยความรับผิดวิชาชีพ)",
+   "id": "Peraturan Profesi Hukum (Asuransi Indemnitas Profesional)",
+   "ms": "Kaedah Profesion Guaman (Insurans Indemniti Profesional)"
+  },
+  "SG-H3006": {
+   "vi": "Quy tắc Nghề luật (Giấy chứng nhận hành nghề tạm thời) 2024",
+   "th": "กฎวิชาชีพกฎหมาย (ใบอนุญาตประกอบวิชาชีพชั่วคราว) 2024",
+   "id": "Peraturan Profesi Hukum (Sertifikat Praktik Sementara) 2024",
+   "ms": "Kaedah Profesion Guaman (Sijil Amalan Sementara) 2024"
+  },
+  "SG-H3008": {
+   "vi": "Quy tắc Nghề luật (Cá nhân được quản lý) 2015",
+   "th": "กฎวิชาชีพกฎหมาย (บุคคลที่ถูกกำกับ) 2015",
+   "id": "Peraturan Profesi Hukum (Individu yang Diatur) 2015",
+   "ms": "Kaedah Profesion Guaman (Individu yang Dikawal) 2015"
+  },
+  "SG-H3009": {
+   "vi": "Quy tắc Nghề luật (Đại diện tại Tòa án Thương mại Quốc tế Singapore) 2014",
+   "th": "กฎวิชาชีพกฎหมาย (การเป็นตัวแทนในศาลพาณิชย์ระหว่างประเทศสิงคโปร์) 2014",
+   "id": "Peraturan Profesi Hukum (Perwakilan di Pengadilan Niaga Internasional Singapura) 2014",
+   "ms": "Kaedah Profesion Guaman (Perwakilan di Mahkamah Komersial Antarabangsa Singapura) 2014"
+  },
+  "SG-H3010": {
+   "vi": "Quy tắc Nghề luật (Tài khoản của luật sư)",
+   "th": "กฎวิชาชีพกฎหมาย (บัญชีทนายความ)",
+   "id": "Peraturan Profesi Hukum (Akun Advokat)",
+   "ms": "Kaedah Profesion Guaman (Akaun Peguamcara)"
+  },
+  "SG-H3011": {
+   "vi": "Quy tắc Nghề luật (Quỹ bồi thường luật sư)",
+   "th": "กฎวิชาชีพกฎหมาย (กองทุนชดเชยทนายความ)",
+   "id": "Peraturan Profesi Hukum (Dana Kompensasi Advokat)",
+   "ms": "Kaedah Profesion Guaman (Tabung Pampasan Peguamcara)"
+  },
+  "SG-H3012": {
+   "vi": "Lệnh Nghề luật (Thù lao luật sư)",
+   "th": "คำสั่งวิชาชีพกฎหมาย (ค่าตอบแทนทนายความ)",
+   "id": "Perintah Profesi Hukum (Remunerasi Advokat)",
+   "ms": "Perintah Profesion Guaman (Ganjaran Peguamcara)"
+  },
+  "SG-H3013": {
+   "vi": "Quy tắc Nghề luật (Tài khoản tín thác của luật sư)",
+   "th": "กฎวิชาชีพกฎหมาย (บัญชีทรัสต์ทนายความ)",
+   "id": "Peraturan Profesi Hukum (Akun Perwalian Advokat)",
+   "ms": "Kaedah Profesion Guaman (Akaun Amanah Peguamcara)"
+  },
+  "SG-H3014": {
+   "vi": "Quy tắc Nghề luật (Quỹ tiền không có người nhận) 2019",
+   "th": "กฎวิชาชีพกฎหมาย (กองทุนเงินที่ไม่มีผู้รับ) 2019",
+   "id": "Peraturan Profesi Hukum (Dana Uang Tak Terklaim) 2019",
+   "ms": "Kaedah Profesion Guaman (Tabung Wang Tidak Dituntut) 2019"
+  },
+  "SG-H3015": {
+   "vi": "Thông báo Nghề luật (Ngày được ấn định cho mục đích của Điều 75B)",
+   "th": "ประกาศวิชาชีพกฎหมาย (วันที่กำหนดขึ้นเพื่อวัตถุประสงค์ของมาตรา 75B)",
+   "id": "Pemberitahuan Profesi Hukum (Hari yang Ditetapkan untuk Keperluan Pasal 75B)",
+   "ms": "Pemberitahuan Profesion Undang-Undang (Hari yang Ditetapkan bagi Tujuan Seksyen 75B)"
+  },
+  "SG-H3016": {
+   "vi": "Thông báo Nghề luật (Ngày được ấn định cho mục đích của Điều 75C)",
+   "th": "ประกาศวิชาชีพกฎหมาย (วันที่กำหนดขึ้นเพื่อวัตถุประสงค์ของมาตรา 75C)",
+   "id": "Pemberitahuan Profesi Hukum (Hari yang Ditetapkan untuk Keperluan Pasal 75C)",
+   "ms": "Pemberitahuan Profesion Undang-Undang (Hari yang Ditetapkan bagi Tujuan Seksyen 75C)"
+  },
+  "SG-H3018": {
+   "vi": "Quy chế Dịch vụ Pháp lý (Các hội đồng nhân sự) 2022",
+   "th": "ข้อบังคับบริการกฎหมาย (คณะกรรมการบุคลากร) 2022",
+   "id": "Peraturan Layanan Hukum (Dewan-Dewan Kepegawaian) 2022",
+   "ms": "Peraturan Perkhidmatan Undang-Undang (Lembaga-Lembaga Personel) 2022"
+  },
+  "SG-H3019": {
+   "vi": "Thông báo Dịch vụ Pháp lý (Cấp bậc ngưỡng) 2022",
+   "th": "ประกาศบริการกฎหมาย (ระดับขั้นต่ำ) 2022",
+   "id": "Pemberitahuan Layanan Hukum (Tingkat Ambang) 2022",
+   "ms": "Pemberitahuan Perkhidmatan Undang-Undang (Gred Ambang) 2022"
+  },
+  "SG-H3025": {
+   "vi": "Quy chế Công ty hợp danh trách nhiệm hữu hạn (Tên trùng nhau) 2015",
+   "th": "ข้อบังคับห้างหุ้นส่วนจำกัดความรับผิด (ชื่อซ้ำกัน) 2015",
+   "id": "Peraturan Persekutuan Komanditer Terbatas (Nama yang Sama) 2015",
+   "ms": "Peraturan Perkongsian Liabiliti Terhad (Nama yang Sama) 2015"
+  },
+  "SG-H3026": {
+   "vi": "Quy chế Công ty hợp danh trách nhiệm hữu hạn (Sổ đăng ký người kiểm soát) 2022",
+   "th": "ข้อบังคับห้างหุ้นส่วนจำกัดความรับผิด (ทะเบียนผู้ควบคุม) 2022",
+   "id": "Peraturan Persekutuan Komanditer Terbatas (Daftar Pengendali) 2022",
+   "ms": "Peraturan Perkongsian Liabiliti Terhad (Daftar Pengawal) 2022"
+  },
+  "SG-H3027": {
+   "vi": "Quy chế Công ty hợp danh trách nhiệm hữu hạn (Xóa tên khỏi sổ đăng ký) 2015",
+   "th": "ข้อบังคับห้างหุ้นส่วนจำกัดความรับผิด (การถอนชื่อออกจากทะเบียน) 2015",
+   "id": "Peraturan Persekutuan Komanditer Terbatas (Penghapusan dari Daftar) 2015",
+   "ms": "Peraturan Perkongsian Liabiliti Terhad (Pemadaman daripada Daftar) 2015"
+  },
+  "SG-H3028": {
+   "vi": "Quy tắc Công ty hợp danh trách nhiệm hữu hạn (Thanh lý)",
+   "th": "กฎห้างหุ้นส่วนจำกัดความรับผิด (การชำระบัญชี)",
+   "id": "Peraturan Persekutuan Komanditer Terbatas (Likuidasi)",
+   "ms": "Kaedah Perkongsian Liabiliti Terhad (Penggulungan)"
+  },
+  "SG-H3030": {
+   "vi": "Thông báo Hợp danh hữu hạn (Chỉ thị theo Điều 17A(1)(d)) 2015",
+   "th": "ประกาศห้างหุ้นส่วนจำกัด (คำสั่งตามมาตรา 17A(1)(d)) 2015",
+   "id": "Pemberitahuan Persekutuan Komanditer (Arahan menurut Pasal 17A(1)(d)) 2015",
+   "ms": "Pemberitahuan Perkongsian Terhad (Arahan di bawah Seksyen 17A(1)(d)) 2015"
+  },
+  "SG-H3033": {
+   "vi": "Quy chế Kiểm soát rượu (Cung cấp và tiêu thụ) (Tố tụng kháng nghị) 2015",
+   "th": "ข้อบังคับการควบคุมสุรา (การจำหน่ายและการบริโภค) (กระบวนพิจารณาอุทธรณ์) 2015",
+   "id": "Peraturan Pengendalian Minuman Keras (Pasokan dan Konsumsi) (Proses Banding) 2015",
+   "ms": "Peraturan Kawalan Minuman Keras (Pembekalan dan Penggunaan) (Prosiding Rayuan) 2015"
+  },
+  "SG-H3035": {
+   "vi": "Lệnh Kiểm soát rượu (Cung cấp và tiêu thụ) (Công bố khu vực kiểm soát rượu) 2015",
+   "th": "คำสั่งการควบคุมสุรา (การจำหน่ายและการบริโภค) (การประกาศเขตควบคุมสุรา) 2015",
+   "id": "Perintah Pengendalian Minuman Keras (Pasokan dan Konsumsi) (Deklarasi Zona Pengendalian Minuman Keras) 2015",
+   "ms": "Perintah Kawalan Minuman Keras (Pembekalan dan Penggunaan) (Pengisytiharan Zon Kawalan Minuman Keras) 2015"
+  },
+  "SG-H3036": {
+   "vi": "Lệnh Kiểm soát rượu (Cung cấp và tiêu thụ) (Miễn trừ giấy phép bán rượu) 2015",
+   "th": "คำสั่งการควบคุมสุรา (การจำหน่ายและการบริโภค) (การยกเว้นใบอนุญาตจำหน่ายสุรา) 2015",
+   "id": "Perintah Pengendalian Minuman Keras (Pasokan dan Konsumsi) (Pembebasan Izin Minuman Keras) 2015",
+   "ms": "Perintah Kawalan Minuman Keras (Pembekalan dan Penggunaan) (Pengecualian Lesen Minuman Keras) 2015"
+  },
+  "SG-H3038": {
+   "vi": "Quy chế Kiểm soát rượu (Cung cấp và tiêu thụ) (Cấp phép bán rượu) 2015",
+   "th": "ข้อบังคับการควบคุมสุรา (การจำหน่ายและการบริโภค) (การออกใบอนุญาตจำหน่ายสุรา) 2015",
+   "id": "Peraturan Pengendalian Minuman Keras (Pasokan dan Konsumsi) (Perizinan Minuman Keras) 2015",
+   "ms": "Peraturan Kawalan Minuman Keras (Pembekalan dan Penggunaan) (Pelesenan Minuman Keras) 2015"
+  },
+  "SG-H3039": {
+   "vi": "Quy chế Kiểm soát rượu (Cung cấp và tiêu thụ) (Hạn chế tiêu thụ) 2015",
+   "th": "ข้อบังคับการควบคุมสุรา (การจำหน่ายและการบริโภค) (ข้อจำกัดการบริโภค) 2015",
+   "id": "Peraturan Pengendalian Minuman Keras (Pasokan dan Konsumsi) (Pembatasan Konsumsi) 2015",
+   "ms": "Peraturan Kawalan Minuman Keras (Pembekalan dan Penggunaan) (Sekatan Penggunaan) 2015"
+  },
+  "SG-H3041": {
+   "vi": "Lệnh Kiểm soát rượu (Cung cấp và tiêu thụ) (Cung cấp rượu — Hoàn cảnh được chỉ định) 2023",
+   "th": "คำสั่งการควบคุมสุรา (การจำหน่ายและการบริโภค) (การจำหน่ายสุรา — สถานการณ์ที่ระบุ) 2023",
+   "id": "Perintah Pengendalian Minuman Keras (Pasokan dan Konsumsi) (Pasokan Minuman Keras — Keadaan Tertentu) 2023",
+   "ms": "Perintah Kawalan Minuman Keras (Pembekalan dan Penggunaan) (Pembekalan Minuman Keras — Keadaan Tertentu) 2023"
+  },
+  "SG-H3042": {
+   "vi": "Lệnh Kiểm soát rượu (Cung cấp và tiêu thụ) (Giờ kinh doanh) 2015",
+   "th": "คำสั่งการควบคุมสุรา (การจำหน่ายและการบริโภค) (เวลาทำการค้า) 2015",
+   "id": "Perintah Pengendalian Minuman Keras (Pasokan dan Konsumsi) (Jam Operasional) 2015",
+   "ms": "Perintah Kawalan Minuman Keras (Pembekalan dan Penggunaan) (Waktu Perniagaan) 2015"
+  },
+  "SG-H3046": {
+   "vi": "Luật Các khoản vay (Ngân hàng quốc tế) 1958",
+   "th": "พระราชบัญญัติเงินกู้ (ธนาคารระหว่างประเทศ) 1958",
+   "id": "Undang-Undang tentang Pinjaman (Bank Internasional) 1958",
+   "ms": "Akta Pinjaman (Bank Antarabangsa) 1958"
+  },
+  "SG-H3047": {
+   "vi": "Luật Lực lượng địa phương (Cứu trợ khó khăn tài chính) 1953",
+   "th": "พระราชบัญญัติกองกำลังท้องถิ่น (การบรรเทาความเดือดร้อนทางการเงิน) 1953",
+   "id": "Undang-Undang tentang Pasukan Lokal (Keringanan Kesulitan Keuangan) 1953",
+   "ms": "Akta Angkatan Tempatan (Pelepasan Kesulitan Kewangan) 1953"
+  },
+  "SG-H3049": {
+   "vi": "Thông báo Cấp dưỡng Cha mẹ (Cơ quan công quyền) 2024",
+   "th": "ประกาศการเลี้ยงดูบิดามารดา (หน่วยงานรัฐ) 2024",
+   "id": "Pemberitahuan Nafkah Ibu Bapa (Otoritas Publik) 2024",
+   "ms": "Pemberitahuan Nafkah Ibu Bapa (Pihak Berkuasa Awam) 2024"
+  },
+  "SG-H3053": {
+   "vi": "Quy chế Duy trì Hòa hợp Chủng tộc (Biện pháp chống ảnh hưởng nước ngoài) 2026",
+   "th": "ข้อบังคับการรักษาความปรองดองทางเชื้อชาติ (มาตรการต่อต้านอิทธิพลต่างประเทศ) 2026",
+   "id": "Peraturan Pemeliharaan Kerukunan Ras (Tindakan terhadap Pengaruh Asing) 2026",
+   "ms": "Peraturan Pemeliharaan Keharmonian Kaum (Langkah terhadap Pengaruh Asing) 2026"
+  },
+  "SG-H3054": {
+   "vi": "Quy chế Duy trì Hòa hợp Chủng tộc (Lệnh cấm) 2026",
+   "th": "ข้อบังคับการรักษาความปรองดองทางเชื้อชาติ (คำสั่งห้าม) 2026",
+   "id": "Peraturan Pemeliharaan Kerukunan Ras (Perintah Penahanan) 2026",
+   "ms": "Peraturan Pemeliharaan Keharmonian Kaum (Perintah Larangan) 2026"
+  },
+  "SG-H3055": {
+   "vi": "Quy chế Duy trì Hòa hợp Chủng tộc (Tống đạt tài liệu) 2026",
+   "th": "ข้อบังคับการรักษาความปรองดองทางเชื้อชาติ (การส่งเอกสาร) 2026",
+   "id": "Peraturan Pemeliharaan Kerukunan Ras (Penyampaian Dokumen) 2026",
+   "ms": "Peraturan Pemeliharaan Keharmonian Kaum (Penyerahan Dokumen) 2026"
+  },
+  "SG-H3060": {
+   "vi": "Quy chế Duy trì Hòa hợp Tôn giáo (Lệnh cấm) 2026",
+   "th": "ข้อบังคับการรักษาความปรองดองทางศาสนา (คำสั่งห้าม) 2026",
+   "id": "Peraturan Pemeliharaan Kerukunan Umat Beragama (Perintah Penahanan) 2026",
+   "ms": "Peraturan Pemeliharaan Keharmonian Agama (Perintah Larangan) 2026"
+  },
+  "SG-H3062": {
+   "vi": "Thông báo Lệnh cấp dưỡng (Thi hành tương hỗ) (Chỉ định quốc gia đối ứng — Australia) 2014",
+   "th": "ประกาศคำสั่งค่าอุปการะเลี้ยงดู (การบังคับใช้ซึ่งกันและกัน) (การกำหนดประเทศที่ให้การตอบแทน — ออสเตรเลีย) 2014",
+   "id": "Pemberitahuan Perintah Nafkah (Penegakan Timbal Balik) (Penetapan Negara Timbal Balik — Australia) 2014",
+   "ms": "Pemberitahuan Perintah Nafkah (Penguatkuasaan Timbal Balik) (Penetapan Negara Timbal Balik — Australia) 2014"
+  },
+  "SG-H3063": {
+   "vi": "Thông báo Lệnh cấp dưỡng (Thi hành tương hỗ) (Chỉ định quốc gia đối ứng — Khu Hành chính Đặc biệt Hồng Kông) 2014",
+   "th": "ประกาศคำสั่งค่าอุปการะเลี้ยงดู (การบังคับใช้ซึ่งกันและกัน) (การกำหนดประเทศที่ให้การตอบแทน — เขตบริหารพิเศษฮ่องกง) 2014",
+   "id": "Pemberitahuan Perintah Nafkah (Penegakan Timbal Balik) (Penetapan Negara Timbal Balik — Daerah Administratif Khusus Hong Kong) 2014",
+   "ms": "Pemberitahuan Perintah Nafkah (Penguatkuasaan Timbal Balik) (Penetapan Negara Timbal Balik — Wilayah Pentadbiran Khas Hong Kong) 2014"
+  },
+  "SG-H3064": {
+   "vi": "Thông báo Lệnh cấp dưỡng (Thi hành tương hỗ) (Chỉ định quốc gia đối ứng — New Zealand) 2014",
+   "th": "ประกาศคำสั่งค่าอุปการะเลี้ยงดู (การบังคับใช้ซึ่งกันและกัน) (การกำหนดประเทศที่ให้การตอบแทน — นิวซีแลนด์) 2014",
+   "id": "Pemberitahuan Perintah Nafkah (Penegakan Timbal Balik) (Penetapan Negara Timbal Balik — Selandia Baru) 2014",
+   "ms": "Pemberitahuan Perintah Nafkah (Penguatkuasaan Timbal Balik) (Penetapan Negara Timbal Balik — New Zealand) 2014"
+  },
+  "SG-H3065": {
+   "vi": "Thông báo Lệnh cấp dưỡng (Thi hành tương hỗ) (Chỉ định quốc gia đối ứng — Tỉnh Manitoba) 2014",
+   "th": "ประกาศคำสั่งค่าอุปการะเลี้ยงดู (การบังคับใช้ซึ่งกันและกัน) (การกำหนดประเทศที่ให้การตอบแทน — รัฐแมนิโทบา) 2014",
+   "id": "Pemberitahuan Perintah Nafkah (Penegakan Timbal Balik) (Penetapan Negara Timbal Balik — Provinsi Manitoba) 2014",
+   "ms": "Pemberitahuan Perintah Nafkah (Penguatkuasaan Timbal Balik) (Penetapan Negara Timbal Balik — Wilayah Manitoba) 2014"
+  },
+  "SG-H3066": {
+   "vi": "Thông báo Lệnh cấp dưỡng (Thi hành tương hỗ) (Chỉ định các quốc gia đối ứng)",
+   "th": "ประกาศคำสั่งค่าอุปการะเลี้ยงดู (การบังคับใช้ซึ่งกันและกัน) (การกำหนดประเทศที่ให้การตอบแทน)",
+   "id": "Pemberitahuan Perintah Nafkah (Penegakan Timbal Balik) (Penetapan Negara Timbal Balik)",
+   "ms": "Pemberitahuan Perintah Nafkah (Penguatkuasaan Timbal Balik) (Penetapan Negara Timbal Balik)"
+  },
+  "SG-H3067": {
+   "vi": "Thông báo Lệnh cấp dưỡng (Thi hành tương hỗ) (Chỉ định các quốc gia đối ứng) 2016",
+   "th": "ประกาศคำสั่งค่าอุปการะเลี้ยงดู (การบังคับใช้ซึ่งกันและกัน) (การกำหนดประเทศที่ให้การตอบแทน) 2016",
+   "id": "Pemberitahuan Perintah Nafkah (Penegakan Timbal Balik) (Penetapan Negara Timbal Balik) 2016",
+   "ms": "Pemberitahuan Perintah Nafkah (Penguatkuasaan Timbal Balik) (Penetapan Negara Timbal Balik) 2016"
+  },
+  "SG-H3082": {
+   "vi": "Thông báo Cơ quan Hàng hải và Cảng Singapore (Lệ phí cấp lại hoặc bản sao có chứng nhận giấy phép) 2022",
+   "th": "ประกาศการท่าเรือและทางทะเลแห่งสิงคโปร์ (ค่าธรรมเนียมการออกใบอนุญาตใหม่หรือสำเนารับรอง) 2022",
+   "id": "Pemberitahuan Otoritas Maritim dan Pelabuhan Singapura (Biaya Penggantian atau Salinan Tersertifikasi Izin) 2022",
+   "ms": "Pemberitahuan Pihak Berkuasa Maritim dan Pelabuhan Singapura (Fi Penggantian atau Salinan Bertauliah Lesen) 2022"
+  },
+  "SG-H3083": {
+   "vi": "Quy chế Cơ quan Hàng hải và Cảng Singapore (Kỳ thi giấy phép định biên tàu trong cảng)",
+   "th": "ข้อบังคับการท่าเรือและทางทะเลแห่งสิงคโปร์ (การสอบใบอนุญาตจัดกำลังคนเรือในท่า)",
+   "id": "Peraturan Otoritas Maritim dan Pelabuhan Singapura (Ujian Izin Awak Kapal Pelabuhan)",
+   "ms": "Peraturan Pihak Berkuasa Maritim dan Pelabuhan Singapura (Peperiksaan Lesen Awak Kapal Pelabuhan)"
+  },
+  "SG-H3084": {
+   "vi": "Quy chế Cơ quan Hàng hải và Cảng Singapore (Tàu trong cảng)",
+   "th": "ข้อบังคับการท่าเรือและทางทะเลแห่งสิงคโปร์ (เรือในท่า)",
+   "id": "Peraturan Otoritas Maritim dan Pelabuhan Singapura (Kapal Pelabuhan)",
+   "ms": "Peraturan Pihak Berkuasa Maritim dan Pelabuhan Singapura (Kapal Pelabuhan)"
+  },
+  "SG-H3086": {
+   "vi": "Thông báo Cơ quan Hàng hải và Cảng Singapore (Khu vực dẫn tàu) 2010",
+   "th": "ประกาศการท่าเรือและทางทะเลแห่งสิงคโปร์ (เขตนำร่อง) 2010",
+   "id": "Pemberitahuan Otoritas Maritim dan Pelabuhan Singapura (Distrik Pandu) 2010",
+   "ms": "Pemberitahuan Pihak Berkuasa Maritim dan Pelabuhan Singapura (Daerah Pandu) 2010"
+  },
+  "SG-H3087": {
+   "vi": "Quy chế Cơ quan Hàng hải và Cảng Singapore (Dẫn tàu)",
+   "th": "ข้อบังคับการท่าเรือและทางทะเลแห่งสิงคโปร์ (การนำร่อง)",
+   "id": "Peraturan Otoritas Maritim dan Pelabuhan Singapura (Pemanduan)",
+   "ms": "Peraturan Pihak Berkuasa Maritim dan Pelabuhan Singapura (Pemanduan)"
+  },
+  "SG-H3088": {
+   "vi": "Quy chế Cơ quan Hàng hải và Cảng Singapore (Tàu giải trí)",
+   "th": "ข้อบังคับการท่าเรือและทางทะเลแห่งสิงคโปร์ (เรือสำราญ)",
+   "id": "Peraturan Otoritas Maritim dan Pelabuhan Singapura (Kapal Rekreasi)",
+   "ms": "Peraturan Pihak Berkuasa Maritim dan Pelabuhan Singapura (Kapal Rekreasi)"
+  },
+  "SG-H3089": {
+   "vi": "Thông báo Cơ quan Hàng hải và Cảng Singapore (Giới hạn cảng — Tạm đình chỉ) 2019",
+   "th": "ประกาศการท่าเรือและทางทะเลแห่งสิงคโปร์ (เขตจำกัดท่าเรือ — การระงับ) 2019",
+   "id": "Pemberitahuan Otoritas Maritim dan Pelabuhan Singapura (Batas Pelabuhan — Penangguhan) 2019",
+   "ms": "Pemberitahuan Pihak Berkuasa Maritim dan Pelabuhan Singapura (Had Pelabuhan — Penggantungan) 2019"
+  },
+  "SG-H3090": {
+   "vi": "Thông báo Cơ quan Hàng hải và Cảng Singapore (Giới hạn cảng) 2010",
+   "th": "ประกาศการท่าเรือและทางทะเลแห่งสิงคโปร์ (เขตจำกัดท่าเรือ) 2010",
+   "id": "Pemberitahuan Otoritas Maritim dan Pelabuhan Singapura (Batas Pelabuhan) 2010",
+   "ms": "Pemberitahuan Pihak Berkuasa Maritim dan Pelabuhan Singapura (Had Pelabuhan) 2010"
+  },
+  "SG-H3091": {
+   "vi": "Quy chế Cơ quan Hàng hải và Cảng Singapore (Cảng)",
+   "th": "ข้อบังคับการท่าเรือและทางทะเลแห่งสิงคโปร์ (ท่าเรือ)",
+   "id": "Peraturan Otoritas Maritim dan Pelabuhan Singapura (Pelabuhan)",
+   "ms": "Peraturan Pihak Berkuasa Maritim dan Pelabuhan Singapura (Pelabuhan)"
+  },
+  "SG-H3092": {
+   "vi": "Quy chế Cơ quan Hàng hải và Cảng Singapore (Khu vực cấm neo đậu — Tạm đình chỉ) 2019",
+   "th": "ข้อบังคับการท่าเรือและทางทะเลแห่งสิงคโปร์ (เขตห้ามทอดสมอ — การระงับ) 2019",
+   "id": "Peraturan Otoritas Maritim dan Pelabuhan Singapura (Area Berlabuh Terlarang — Penangguhan) 2019",
+   "ms": "Peraturan Pihak Berkuasa Maritim dan Pelabuhan Singapura (Kawasan Larangan Berlabuh — Penggantungan) 2019"
+  },
+  "SG-H3093": {
+   "vi": "Quy chế Cơ quan Hàng hải và Cảng Singapore (Đăng ký và tuyển dụng thuyền viên)",
+   "th": "ข้อบังคับการท่าเรือและทางทะเลแห่งสิงคโปร์ (การขึ้นทะเบียนและการจ้างลูกเรือ)",
+   "id": "Peraturan Otoritas Maritim dan Pelabuhan Singapura (Pendaftaran dan Penempatan Pelaut)",
+   "ms": "Peraturan Pihak Berkuasa Maritim dan Pelabuhan Singapura (Pendaftaran dan Penggajian Pelaut)"
+  },
+  "SG-H3094": {
+   "vi": "Thông báo Cơ quan Hàng hải và Cảng Singapore (Biểu phí, mức thu và lệ phí chung)",
+   "th": "ประกาศการท่าเรือและทางทะเลแห่งสิงคโปร์ (อัตราค่าธรรมเนียม ค่าบริการ และค่าธรรมเนียมทั่วไป)",
+   "id": "Pemberitahuan Otoritas Maritim dan Pelabuhan Singapura (Skala Iuran, Tarif dan Biaya Umum)",
+   "ms": "Pemberitahuan Pihak Berkuasa Maritim dan Pelabuhan Singapura (Skala Duti, Kadar dan Fi Am)"
+  },
+  "SG-H3098": {
+   "vi": "Thông báo Dạy võ thuật (Miễn trừ)",
+   "th": "ประกาศการสอนศิลปะการต่อสู้ (การยกเว้น)",
+   "id": "Pemberitahuan Pengajaran Seni Bela Diri (Pembebasan)",
+   "ms": "Pemberitahuan Pengajaran Seni Mempertahankan Diri (Pengecualian)"
+  },
+  "SG-H3099": {
+   "vi": "Thông báo Dạy võ thuật (Miễn trừ) 1997",
+   "th": "ประกาศการสอนศิลปะการต่อสู้ (การยกเว้น) 1997",
+   "id": "Pemberitahuan Pengajaran Seni Bela Diri (Pembebasan) 1997",
+   "ms": "Pemberitahuan Pengajaran Seni Mempertahankan Diri (Pengecualian) 1997"
+  },
+  "SG-H3105": {
+   "vi": "Quy tắc Huân chương (COVID-19) 2022",
+   "th": "กฎเหรียญ (โควิด-19) 2022",
+   "id": "Peraturan Medali (COVID-19) 2022",
+   "ms": "Kaedah Pingat (COVID-19) 2022"
+  },
+  "SG-H3106": {
+   "vi": "Thông báo Cơ quan Phát triển Truyền thông Singapore (Bộ quy tắc thực hành) (Miễn trừ) 2003",
+   "th": "ประกาศหน่วยงานพัฒนาสื่อสิงคโปร์ (แนวปฏิบัติ) (การยกเว้น) 2003",
+   "id": "Pemberitahuan Otoritas Pengembangan Media Singapura (Kode Praktik) (Pembebasan) 2003",
+   "ms": "Pemberitahuan Pihak Berkuasa Pembangunan Media Singapura (Kod Amalan) (Pengecualian) 2003"
+  },
+  "SG-H3108": {
+   "vi": "Thông báo Y học (Trị liệu, giáo dục và nghiên cứu) (Bệnh viện và trường y được chấp thuận) 2010",
+   "th": "ประกาศการแพทย์ (การบำบัด การศึกษา และการวิจัย) (โรงพยาบาลและโรงเรียนแพทย์ที่ได้รับอนุมัติ) 2010",
+   "id": "Pemberitahuan Kedokteran (Terapi, Pendidikan dan Penelitian) (Rumah Sakit dan Sekolah Kedokteran yang Disetujui) 2010",
+   "ms": "Pemberitahuan Perubatan (Terapi, Pendidikan dan Penyelidikan) (Hospital dan Sekolah Perubatan yang Diluluskan) 2010"
+  },
+  "SG-H3109": {
+   "vi": "Luật Y học (Trị liệu, giáo dục và nghiên cứu) 1972",
+   "th": "พระราชบัญญัติการแพทย์ (การบำบัด การศึกษา และการวิจัย) 1972",
+   "id": "Undang-Undang tentang Kedokteran (Terapi, Pendidikan dan Penelitian) 1972",
+   "ms": "Akta Perubatan (Terapi, Pendidikan dan Penyelidikan) 1972"
+  },
+  "SG-H3111": {
+   "vi": "Lệnh Các chương trình Quỹ tài trợ Y tế và Chăm sóc Người cao tuổi (Ủy ban Medifund) 2015",
+   "th": "คำสั่งโครงการกองทุนการแพทย์และการดูแลผู้สูงอายุ (คณะกรรมการ Medifund) 2015",
+   "id": "Perintah Skema Dana Abadi Medis dan Perawatan Lansia (Komite Medifund) 2015",
+   "ms": "Perintah Skim Endowmen Perubatan dan Penjagaan Warga Emas (Jawatankuasa Medifund) 2015"
+  },
+  "SG-H3115": {
+   "vi": "Lệnh Đăng ký y khoa (Thành viên Hội đồng Y khoa Singapore — Miễn trừ) 2024",
+   "th": "คำสั่งการขึ้นทะเบียนแพทย์ (สมาชิกสภาแพทยศาสตร์สิงคโปร์ — การยกเว้น) 2024",
+   "id": "Perintah Registrasi Medis (Anggota Dewan Kedokteran Singapura — Pembebasan) 2024",
+   "ms": "Perintah Pendaftaran Perubatan (Ahli Majlis Perubatan Singapura — Pengecualian) 2024"
+  },
+  "SG-H3116": {
+   "vi": "Lệnh Đăng ký y khoa (Nhiệm kỳ) 2004",
+   "th": "คำสั่งการขึ้นทะเบียนแพทย์ (วาระการดำรงตำแหน่ง) 2004",
+   "id": "Perintah Registrasi Medis (Masa Jabatan) 2004",
+   "ms": "Perintah Pendaftaran Perubatan (Tempoh Jawatan) 2004"
+  },
+  "SG-H3192": {
+   "vi": "Quy chế Vận tải biển (Tàu giải trí) 2020",
+   "th": "ข้อบังคับการเดินเรือพาณิชย์ (เรือสำราญ) 2020",
+   "id": "Peraturan Pelayaran Niaga (Kapal Rekreasi) 2020",
+   "ms": "Peraturan Perkapalan Saudagar (Kapal Rekreasi) 2020"
+  },
+  "SG-H406": {
+   "vi": "Quy chế Đăng ký tên doanh nghiệp (Tên trùng nhau) 2015",
+   "th": "ข้อบังคับการจดทะเบียนชื่อธุรกิจ (ชื่อซ้ำกัน) 2015",
+   "id": "Peraturan Pendaftaran Nama Usaha (Nama yang Sama) 2015",
+   "ms": "Peraturan Pendaftaran Nama Perniagaan (Nama yang Sama) 2015"
+  },
+  "SG-H775": {
+   "vi": "Quy chế Công ty (Tên trùng nhau) 2015",
+   "th": "ข้อบังคับบริษัท (ชื่อซ้ำกัน) 2015",
+   "id": "Peraturan Perusahaan (Nama yang Sama) 2015",
+   "ms": "Peraturan Syarikat (Nama yang Sama) 2015"
+  },
+  "SG-H784": {
+   "vi": "Quy chế Công ty (Xóa tên khỏi sổ đăng ký) 2015",
+   "th": "ข้อบังคับบริษัท (การถอนชื่อออกจากทะเบียน) 2015",
+   "id": "Peraturan Perusahaan (Penghapusan dari Daftar) 2015",
+   "ms": "Peraturan Syarikat (Pemadaman daripada Daftar) 2015"
+  }
+ }
+}

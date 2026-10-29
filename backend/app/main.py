@@ -40,7 +40,7 @@ from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
-from . import db, search as search_mod, vectors as vec_mod, hybrid as hybrid_mod, embedder
+from . import db, search as search_mod, vectors as vec_mod, hybrid as hybrid_mod, embedder, qa as qa_mod
 from . import security
 
 APP_VERSION = "0.1.0-phaseA"
@@ -367,100 +367,11 @@ def _fmt_no(no) -> str:
         return str(no)
 
 
-@app.post("/api/qa", summary="问答（条文级向量召回）",
+@app.post("/api/qa", summary="问答（BM25+向量 RRF 条文召回）",
          dependencies=[Depends(security.require_api_key)])
 def qa(req: QARequest) -> Dict[str, Any]:
-    """用条文级 bge-m3 向量召回真实条文，返回可直接引用的依据列表。
-
-    Phase B：召回 + 引用（未接生成模型）。
-    去重键用「法规中文标题 + 条号」：语料里同一部法常有多个记录
-    （如《中华人民共和国数据安全法》同时存在 CN-DATA-2021 与 CN-PIA-002），
-    不去重会在依据里重复列出同一条。
-    """
-    if not vec_mod.load() or not embedder.available():
-        # 向量不可用时退回法规级检索 + 条文关键词命中
-        res = search_mod.search(q=req.question, mode="semantic",
-                                country=req.country, page=1, size=req.topk)
-        cites: List[Dict[str, Any]] = []
-        for it in res["items"]:
-            for h in search_mod.article_hits(req.question, it["id"], limit=2):
-                a = h["article"]
-                cites.append({"lawId": it["id"], "lawTitle": it["title"],
-                              "country": it["country"], "no": a["no"],
-                              "noLabel": _fmt_no(a["no"]), "text": a["text"], "score": None})
-        return {"question": req.question, "mode": "bm25-fallback",
-                "note": "向量索引不可用，已退回 BM25 检索。",
-                "citations": cites[:req.topk * 2], "candidates": res["items"]}
-
-    emb = embedder.get()
-    if emb is None:
-        # 模型加载失败：与上面的"向量不可用"走同一套降级，不要在这里抛 AttributeError。
-        # 失败原因见 embedder.last_error()，也暴露在 /api/vectors 的 modelError 字段。
-        res = search_mod.search(q=req.question, mode="semantic",
-                                country=req.country, page=1, size=req.topk)
-        cites: List[Dict[str, Any]] = []
-        for it in res["items"]:
-            for h in search_mod.article_hits(req.question, it["id"], limit=2):
-                a = h["article"]
-                cites.append({"lawId": it["id"], "lawTitle": it["title"],
-                              "country": it["country"], "no": a["no"],
-                              "noLabel": _fmt_no(a["no"]), "text": a["text"], "score": None})
-        return {"question": req.question, "mode": "bm25-fallback",
-                "note": "嵌入模型加载失败，已退回 BM25 检索。原因：%s"
-                        % (embedder.last_error() or "未知"),
-                "citations": cites[:req.topk * 2], "candidates": res["items"]}
-    qv = emb.encode([req.question])[0]
-    hits = vec_mod.search_articles(qv, topk=req.topk * 6)
-
-    seen = set()
-    cites: List[Dict[str, Any]] = []
-    for meta, sc in hits:
-        lid = meta["law_id"]
-        r = db.row("SELECT country, title_zh, title_en, title_orig FROM laws WHERE id=?", (lid,))
-        if not r:
-            continue
-        if req.country and r["country"] != req.country.upper():
-            continue
-        title_zh = r["title_zh"] or r["title_en"] or r["title_orig"] or lid
-        a = db.row("SELECT text_zh, text_en, text_orig, lang, no_label, heading FROM articles "
-                   "WHERE law_id=? AND no=? AND IFNULL(dup_index,1)=IFNULL(?,1)",
-                   (lid, meta["no"], meta["dup_index"]))
-        if not a:
-            continue
-        # 去重键：条文正文前 80 字。语料里同一部法常有多个记录（标题可能为空或带 _2010 后缀），
-        # 只按「标题+条号」去重抓不住；用正文内容才能跨记录收敛到同一条文。
-        body_key = ((a["text_zh"] or a["text_en"] or a["text_orig"] or "").strip())[:80]
-        key = body_key if body_key else (title_zh, _fmt_no(meta["no"]))
-        if key in seen:
-            continue
-        seen.add(key)
-        # 只放真正有内容的语言键：留空字符串会让前端误以为"有英文"。
-        text = {}
-        if a["text_zh"]:
-            text["zh"] = a["text_zh"]
-        if a["text_en"]:
-            text["en"] = a["text_en"]
-        if a["text_orig"]:
-            text[a["lang"] or "orig"] = a["text_orig"]
-        cites.append({
-            "lawId": lid,
-            "lawTitle": {"zh": r["title_zh"], "en": r["title_en"], "orig": r["title_orig"]},
-            "country": r["country"],
-            "no": _num_no(meta["no"]),
-            "noLabel": _label_of(a["no_label"], meta["no"]),
-            "heading": a["heading"],
-            "text": text,
-            "score": round(float(sc), 4),
-        })
-        if len(cites) >= req.topk:
-            break
-
-    return {
-        "question": req.question,
-        "mode": "article-vector",
-        "note": "Phase B：条文级向量召回，未接生成模型。依据为原文条文，可按 lawId + no 回溯。",
-        "citations": cites,
-    }
+    """条文级混合召回：BM25 条文候选 + 向量候选 + RRF + 国别前置过滤 + 阈值。"""
+    return qa_mod.retrieve(req.question, country=req.country, topk=req.topk)
 
 
 # ---------------------------------------------------------------- 错误可观测性

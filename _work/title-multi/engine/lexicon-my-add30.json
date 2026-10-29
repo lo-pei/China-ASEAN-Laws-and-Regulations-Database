@@ -1,0 +1,163 @@
+{
+  "_note": "MY 类型词增补：前置型「RULES OF COURT」等法院规则，以及 PERINTAH/ORDINANCE 变体",
+  "types": {
+    "RULES OF COURT": {
+      "zh": "法院规则",
+      "vi": "Quy tắc Tòa án",
+      "th": "ข้อบังคับศาล",
+      "id": "Tata Tertib Mahkamah",
+      "ms": "Kaedah Mahkamah"
+    },
+    "RULES OF THE FEDERAL COURT": {
+      "zh": "联邦法院规则",
+      "vi": "Quy tắc Tòa án Liên bang",
+      "th": "ข้อบังคับศาลกลาง",
+      "id": "Tata Tertib Mahkamah Persekutuan",
+      "ms": "Kaedah Mahkamah Persekutuan"
+    },
+    "RULES OF THE COURT OF APPEAL": {
+      "zh": "上诉法院规则",
+      "vi": "Quy tắc Tòa phúc thẩm",
+      "th": "ข้อบังคับศาลอุทธรณ์",
+      "id": "Tata Tertib Mahkamah Rayuan",
+      "ms": "Kaedah Mahkamah Rayuan"
+    },
+    "RULES OF THE HIGH COURT": {
+      "zh": "高等法院规则",
+      "vi": "Quy tắc Tòa án Cấp cao",
+      "th": "ข้อบังคับศาลสูง",
+      "id": "Tata Tertib Mahkamah Tinggi",
+      "ms": "Kaedah Mahkamah Tinggi"
+    },
+    "PERINTAH": {
+      "zh": "令",
+      "vi": "Lệnh",
+      "th": "คำสั่ง",
+      "id": "Perintah",
+      "ms": "Perintah"
+    },
+    "ORDINANCE": {
+      "zh": "条例",
+      "vi": "Pháp lệnh",
+      "th": "พระราชกำหนด",
+      "id": "Ordinansi",
+      "ms": "Ordinan"
+    }
+  },
+  "heads": {
+    "SOCIAL AND WELFARE SERVICES LOTTERIES BOARD": {
+      "zh": "社会福利服务彩票局",
+      "vi": "Ban Xổ số Dịch vụ Phúc lợi Xã hội",
+      "th": "คณะกรรมการสลากบริการสังคมและสวัสดิการ",
+      "id": "Badan Lotere Layanan Sosial dan Kesejahteraan",
+      "ms": "Lembaga Loteri Perkhidmatan Kebajikan Sosial"
+    },
+    "BRETTON WOODS AGREEMENTS": {
+      "zh": "布雷顿森林协定",
+      "vi": "Các Hiệp định Bretton Woods",
+      "th": "ความตกลงบริตตันวูดส์",
+      "id": "Persetujuan Bretton Woods",
+      "ms": "Perjanjian Bretton Woods"
+    }
+  },
+  "brackets": {
+    "JOHORE PORT": {
+      "zh": "柔佛港",
+      "vi": "Cảng Johor",
+      "th": "ท่าเรือยะโฮร์",
+      "id": "Pelabuhan Johor",
+      "ms": "Pelabuhan Johor"
+    },
+    "KUANTAN PORT": {
+      "zh": "关丹港",
+      "vi": "Cảng Kuantan",
+      "th": "ท่าเรือกวนตัน",
+      "id": "Pelabuhan Kuantan",
+      "ms": "Pelabuhan Kuantan"
+    },
+    "CORRIGENDUM": {
+      "zh": "勘误",
+      "vi": "Đính chính",
+      "th": "แก้ไขข้อผิดพลาด",
+      "id": "Koreksi",
+      "ms": "Pindaan Kecil"
+    },
+    "MODIFICATION OF LAND ACQUISITION ACT, 1960": {
+      "zh": "1960年土地征收法之修改",
+      "vi": "Sửa đổi Luật Thu hồi Đất năm 1960",
+      "th": "การแก้ไขพระราชบัญญัติการเวนคืนที่ดิน ค.ศ. 1960",
+      "id": "Perubahan Undang-Undang Pengambilan Tanah Tahun 1960",
+      "ms": "Pengubahsuaian Akta Pengambilan Tanah 1960"
+    },
+    "FIT AND PROPER PERSON": {
+      "zh": "合适适当人选",
+      "vi": "Người phù hợp và thích đáng",
+      "th": "บุคคลที่มีความเหมาะสม",
+      "id": "Orang yang Layak dan Patut",
+      "ms": "Orang Yang Layak dan Wajar"
+    },
+    "INTERNATIONAL FINANCE CORPORATION": {
+      "zh": "国际金融公司",
+      "vi": "Công ty Tài chính Quốc tế",
+      "th": "บรรษัทการเงินระหว่างประเทศ",
+      "id": "Korporasi Keuangan Internasional",
+      "ms": "Perbadanan Kewangan Antarabangsa"
+    },
+    "EXTENSION TO BORNEO STATES": {
+      "zh": "延伸至婆罗洲各州",
+      "vi": "Mở rộng đến các bang Borneo",
+      "th": "การขยายไปยังรัฐบอร์เนียว",
+      "id": "Perluasan ke Negara Bagian Borneo",
+      "ms": "Pelanjutan ke Negeri-Negeri Borneo"
+    },
+    "SEDITION": {
+      "zh": "煽动",
+      "vi": "Xúi giục",
+      "th": "การยุยงปลุกปั่น",
+      "id": "Hasutan",
+      "ms": "Hasutan"
+    },
+    "EXTENSION TO SARAWAK": {
+      "zh": "延伸至砂拉越",
+      "vi": "Mở rộng đến Sarawak",
+      "th": "การขยายไปยังซาราวัก",
+      "id": "Perluasan ke Sarawak",
+      "ms": "Pelanjutan ke Sarawak"
+    },
+    "PART V SECOND SCHEDULE": {
+      "zh": "第五编第二附表",
+      "vi": "Phần V Phụ lục thứ hai",
+      "th": "ภาค 5 ภาคผนวกที่สอง",
+      "id": "Bagian V Lampiran Kedua",
+      "ms": "Bahagian V Jadual Kedua"
+    },
+    "ASSENTIAL POWERS": {
+      "zh": "基本权力",
+      "vi": "Các quyền hạn thiết yếu",
+      "th": "อำนาจจำเป็น",
+      "id": "Kewenangan Pokok",
+      "ms": "Kuasa Penting"
+    },
+    "REGULAR FORCES": {
+      "zh": "正规部队",
+      "vi": "Lực lượng chính quy",
+      "th": "กำลังรบประจำการ",
+      "id": "Angkatan Reguler",
+      "ms": "Angkatan Tetap"
+    },
+    "DESERTERS AND ABSENTEES WITHOUT LEAVE": {
+      "zh": "逃兵与擅离职守者",
+      "vi": "Người đào ngũ và vắng mặt không phép",
+      "th": "ผู้หลบหนีและผู้ละทิ้งหน้าที่",
+      "id": "Pembelot dan yang Absen Tanpa Izin",
+      "ms": "Pembelot dan Yang Meninggalkan Tugas Tanpa Izin"
+    },
+    "PRESCRIBED FORM": {
+      "zh": "规定表格",
+      "vi": "Mẫu quy định",
+      "th": "แบบฟอร์มที่กำหนด",
+      "id": "Formulir yang Ditetapkan",
+      "ms": "Borang yang Ditetapkan"
+    }
+  }
+}

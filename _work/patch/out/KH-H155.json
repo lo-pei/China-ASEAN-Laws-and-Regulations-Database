@@ -1,0 +1,34 @@
+{
+ "lawId": "KH-H155",
+ "pack": "kh-p02",
+ "sourceLang": "km",
+ "targetLang": "en",
+ "titleEn": "Law on the Establishment of the Ministry of Agriculture, Forestry and Fisheries",
+ "model": "deepseek-v4.1-flash",
+ "articles": [
+  {
+   "key": "1",
+   "no": 1,
+   "noLabel": "Article 1",
+   "en": "The Ministry of Agriculture, Forestry and Fisheries is hereby established under the Royal Government of Cambodia.\nArticle 2: The Ministry of Agriculture, Forestry and Fisheries shall have the competence to lead and manage the agriculture sector of the Kingdom of Cambodia."
+  },
+  {
+   "key": "3",
+   "no": 3,
+   "noLabel": "Article 3",
+   "en": "The Ministry of Agriculture, Forestry and Fisheries shall be led by one Minister, who may be assisted by Secretaries of State and/or Under-Secretaries of State as necessary.\nArticle 4: The organisational structure and functioning of the Ministry of Agriculture, Forestry and Fisheries shall be determined by sub-decree."
+  },
+  {
+   "key": "5",
+   "no": 5,
+   "noLabel": "Article 5",
+   "en": "Any provisions contrary to this Law shall be considered null and void."
+  },
+  {
+   "key": "6",
+   "no": 6,
+   "noLabel": "Article 6",
+   "en": "This Law is declared to be urgent.\nDone at Phnom Penh, 24 January 1996, and respectfully submitted for the Royal signature; Norodom Sihanouk; First Prime Minister, Second Prime Minister, Norodom Ranariddh, Hun Sen."
+  }
+ ]
+}

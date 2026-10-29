@@ -1,0 +1,613 @@
+{
+ "batch": "sg-p1-b19",
+ "note": "SG 尾段：体裁 + 母法 + 括注 组合合成",
+ "count": 101,
+ "items": {
+  "SG-H1173": {
+   "vi": "Lệnh Quan hệ ngoại giao và lãnh sự (ICPO-INTERPOL) 2012",
+   "th": "คำสั่งความสัมพันธ์ทางการทูตและกงสุล (ICPO-INTERPOL) 2012",
+   "id": "Perintah Hubungan Diplomatik dan Konsuler (ICPO-INTERPOL) 2012",
+   "ms": "Perintah Hubungan Diplomatik dan Konsular (ICPO-INTERPOL) 2012"
+  },
+  "SG-H1174": {
+   "vi": "Lệnh Quan hệ ngoại giao và lãnh sự (Trung tâm Hợp tác Khu vực IEA) 2025",
+   "th": "คำสั่งความสัมพันธ์ทางการทูตและกงสุล (ศูนย์ความร่วมมือระดับภูมิภาค IEA) 2025",
+   "id": "Perintah Hubungan Diplomatik dan Konsuler (Pusat Kerja Sama Regional IEA) 2025",
+   "ms": "Perintah Hubungan Diplomatik dan Konsular (Pusat Kerjasama Serantau IEA) 2025"
+  },
+  "SG-H1175": {
+   "vi": "Lệnh Quan hệ ngoại giao và lãnh sự (Quỹ Tiền tệ Quốc tế) 2008",
+   "th": "คำสั่งความสัมพันธ์ทางการทูตและกงสุล (กองทุนการเงินระหว่างประเทศ) 2008",
+   "id": "Perintah Hubungan Diplomatik dan Konsuler (Dana Moneter Internasional) 2008",
+   "ms": "Perintah Hubungan Diplomatik dan Konsular (Tabung Kewangan Antarabangsa) 2008"
+  },
+  "SG-H1176": {
+   "vi": "Lệnh Quan hệ ngoại giao và lãnh sự (Tòa án Quốc tế về Luật Biển) 2023",
+   "th": "คำสั่งความสัมพันธ์ทางการทูตและกงสุล (ศาลระหว่างประเทศว่าด้วยกฎหมายทะเล) 2023",
+   "id": "Perintah Hubungan Diplomatik dan Konsuler (Pengadilan Internasional untuk Hukum Laut) 2023",
+   "ms": "Perintah Hubungan Diplomatik dan Konsular (Tribunal Antarabangsa bagi Undang-Undang Laut) 2023"
+  },
+  "SG-H1177": {
+   "vi": "Lệnh Quan hệ ngoại giao và lãnh sự (Cơ quan Bảo lãnh Đầu tư Đa phương) 2020",
+   "th": "คำสั่งความสัมพันธ์ทางการทูตและกงสุล (หน่วยงานค้ำประกันการลงทุนพหุภาคี) 2020",
+   "id": "Perintah Hubungan Diplomatik dan Konsuler (Badan Penjaminan Investasi Multilateral) 2020",
+   "ms": "Perintah Hubungan Diplomatik dan Konsular (Agensi Jaminan Pelaburan Multilateral) 2020"
+  },
+  "SG-H1178": {
+   "vi": "Lệnh Quan hệ ngoại giao và lãnh sự (Tòa án Trọng tài Thường trực) 2007",
+   "th": "คำสั่งความสัมพันธ์ทางการทูตและกงสุล (ศาลอนุญาโตตุลาการถาวร) 2007",
+   "id": "Perintah Hubungan Diplomatik dan Konsuler (Pengadilan Arbitrase Permanen) 2007",
+   "ms": "Perintah Hubungan Diplomatik dan Konsular (Mahkamah Timbang Tara Kekal) 2007"
+  },
+  "SG-H1180": {
+   "vi": "Lệnh Quan hệ ngoại giao và lãnh sự (Chương trình Phát triển Liên Hợp Quốc) 2020",
+   "th": "คำสั่งความสัมพันธ์ทางการทูตและกงสุล (โครงการพัฒนาแห่งสหประชาชาติ) 2020",
+   "id": "Perintah Hubungan Diplomatik dan Konsuler (Program Pembangunan Perserikatan Bangsa-Bangsa) 2020",
+   "ms": "Perintah Hubungan Diplomatik dan Konsular (Program Pembangunan Pertubuhan Bangsa-Bangsa Bersatu) 2020"
+  },
+  "SG-H1181": {
+   "vi": "Lệnh Quan hệ ngoại giao và lãnh sự (Các tổ chức thuộc Nhóm Ngân hàng Thế giới) 2020",
+   "th": "คำสั่งความสัมพันธ์ทางการทูตและกงสุล (องค์กรในกลุ่มธนาคารโลก) 2020",
+   "id": "Perintah Hubungan Diplomatik dan Konsuler (Organisasi Kelompok Bank Dunia) 2020",
+   "ms": "Perintah Hubungan Diplomatik dan Konsular (Pertubuhan Kumpulan Bank Dunia) 2020"
+  },
+  "SG-H1182": {
+   "vi": "Lệnh Quan hệ ngoại giao và lãnh sự (Tổ chức Khí tượng Thế giới) 2018",
+   "th": "คำสั่งความสัมพันธ์ทางการทูตและกงสุล (องค์การอุตุนิยมวิทยาโลก) 2018",
+   "id": "Perintah Hubungan Diplomatik dan Konsuler (Organisasi Meteorologi Dunia) 2018",
+   "ms": "Perintah Hubungan Diplomatik dan Konsular (Pertubuhan Meteorologi Sedunia) 2018"
+  },
+  "SG-H2759": {
+   "vi": "Quy chế Cơ quan Thuế nội địa Singapore (Lãi suất theo quy định cho Điều 17D) 2024",
+   "th": "ข้อบังคับกรมสรรพากรภายในประเทศสิงคโปร์ (อัตราดอกเบี้ยตามที่กำหนดสำหรับมาตรา 17D) 2024",
+   "id": "Peraturan Otoritas Pajak Dalam Negeri Singapura (Suku Bunga yang Ditetapkan untuk Pasal 17D) 2024",
+   "ms": "Peraturan Pihak Berkuasa Hasil Dalam Negeri Singapura (Kadar Faedah yang Ditetapkan bagi Seksyen 17D) 2024"
+  },
+  "SG-H2760": {
+   "vi": "Quy chế Cơ quan Thuế nội địa Singapore (Chương trình tín dụng tiền lương — Lệ phí) 2014",
+   "th": "ข้อบังคับกรมสรรพากรภายในประเทศสิงคโปร์ (โครงการเครดิตค่าจ้าง — ค่าธรรมเนียม) 2014",
+   "id": "Peraturan Otoritas Pajak Dalam Negeri Singapura (Skema Kredit Upah — Biaya) 2014",
+   "ms": "Peraturan Pihak Berkuasa Hasil Dalam Negeri Singapura (Skim Kredit Gaji — Fi) 2014"
+  },
+  "SG-H2766": {
+   "vi": "Thông báo Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Sửa đổi) (Ngày bắt đầu có hiệu lực) 2026",
+   "th": "ประกาศการล้มละลาย การปรับโครงสร้าง และการเลิกนิติบุคคล (แก้ไขเพิ่มเติม) (วันเริ่มมีผลใช้บังคับ) 2026",
+   "id": "Pemberitahuan Insolvensi, Restrukturisasi dan Pembubaran (Perubahan) (Mulai Berlaku) 2026",
+   "ms": "Pemberitahuan Insolvensi, Penstrukturan Semula dan Pembubaran (Pindaan) (Mula Berkuat Kuasa) 2026"
+  },
+  "SG-H2774": {
+   "vi": "Lệnh Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Miễn trừ theo Điều 412(1)(d)) 2026",
+   "th": "คำสั่งการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การยกเว้นตามมาตรา 412(1)(d)) 2026",
+   "id": "Perintah Kepailitan, Restrukturisasi dan Pembubaran (Pembebasan Pasal 412(1)(d)) 2026",
+   "ms": "Perintah Insolvensi, Penstrukturan dan Pembubaran (Pengecualian Seksyen 412(1)(d)) 2026"
+  },
+  "SG-H2775": {
+   "vi": "Lệnh Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Gia hạn thời hạn theo quy định cho Phần 5A và 10A) 2021",
+   "th": "คำสั่งการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การขยายระยะเวลาตามที่กำหนดสำหรับภาค 5A และ 10A) 2021",
+   "id": "Perintah Kepailitan, Restrukturisasi dan Pembubaran (Perpanjangan Periode yang Ditetapkan untuk Bagian 5A dan 10A) 2021",
+   "ms": "Perintah Insolvensi, Penstrukturan dan Pembubaran (Pelanjutan Tempoh yang Ditetapkan bagi Bahagian 5A dan 10A) 2021"
+  },
+  "SG-H2776": {
+   "vi": "Quy chế Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Nộp, đăng ký và trình tài liệu) 2020",
+   "th": "ข้อบังคับการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การยื่น การจดทะเบียน และการส่งเอกสาร) 2020",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Penyampaian, Pendaftaran dan Pengajuan Dokumen) 2020",
+   "ms": "Peraturan Insolvensi, Penstrukturan dan Pembubaran (Pemfailan, Pendaftaran dan Penyerahan Dokumen) 2020"
+  },
+  "SG-H2777": {
+   "vi": "Lệnh Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Gia hạn thêm thời hạn theo quy định cho Phần 5A và 10A) 2022",
+   "th": "คำสั่งการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การขยายระยะเวลาเพิ่มเติมตามที่กำหนดสำหรับภาค 5A และ 10A) 2022",
+   "id": "Perintah Kepailitan, Restrukturisasi dan Pembubaran (Perpanjangan Lanjutan Periode yang Ditetapkan untuk Bagian 5A dan 10A) 2022",
+   "ms": "Perintah Insolvensi, Penstrukturan dan Pembubaran (Pelanjutan Lanjut Tempoh yang Ditetapkan bagi Bahagian 5A dan 10A) 2022"
+  },
+  "SG-H2778": {
+   "vi": "Lệnh Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Gia hạn thêm thời hạn theo quy định cho Phần 5A và 10A) 2024",
+   "th": "คำสั่งการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การขยายระยะเวลาเพิ่มเติมตามที่กำหนดสำหรับภาค 5A และ 10A) 2024",
+   "id": "Perintah Kepailitan, Restrukturisasi dan Pembubaran (Perpanjangan Lanjutan Periode yang Ditetapkan untuk Bagian 5A dan 10A) 2024",
+   "ms": "Perintah Insolvensi, Penstrukturan dan Pembubaran (Pelanjutan Lanjut Tempoh yang Ditetapkan bagi Bahagian 5A dan 10A) 2024"
+  },
+  "SG-H2779": {
+   "vi": "Quy chế Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Người hành nghề phá sản) 2020",
+   "th": "ข้อบังคับการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (ผู้ประกอบวิชาชีพด้านการล้มละลาย) 2020",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Praktisi Insolvensi) 2020",
+   "ms": "Peraturan Insolvensi, Penstrukturan dan Pembubaran (Pengamal Insolvensi) 2020"
+  },
+  "SG-H2780": {
+   "vi": "Quy chế Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Quản lý tư pháp) 2020",
+   "th": "ข้อบังคับการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การบริหารจัดการโดยศาล) 2020",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Manajemen Yudisial) 2020",
+   "ms": "Peraturan Insolvensi, Penstrukturan dan Pembubaran (Pengurusan Kehakiman) 2020"
+  },
+  "SG-H2781": {
+   "vi": "Quy chế Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Tiền phạt do nộp muộn) 2020",
+   "th": "ข้อบังคับการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (ค่าปรับการยื่นล่าช้า) 2020",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Denda Keterlambatan Pendaftaran) 2020",
+   "ms": "Peraturan Insolvensi, Penstrukturan dan Pembubaran (Penalti Kelewatan Pendaftaran) 2020"
+  },
+  "SG-H2782": {
+   "vi": "Lệnh Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Số tiền tối đa được thanh toán ưu tiên) 2020",
+   "th": "คำสั่งการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (จำนวนเงินสูงสุดที่ต้องชำระตามลำดับบุริมสิทธิ) 2020",
+   "id": "Perintah Kepailitan, Restrukturisasi dan Pembubaran (Jumlah Maksimum yang Dibayarkan Secara Prioritas) 2020",
+   "ms": "Perintah Insolvensi, Penstrukturan dan Pembubaran (Jumlah Maksimum yang Dibayar Secara Keutamaan) 2020"
+  },
+  "SG-H2783": {
+   "vi": "Lệnh Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Sửa đổi các Luật được chỉ định theo Điều 72U) (Thu hồi) 2026",
+   "th": "คำสั่งการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การแก้ไขกฎหมายที่ระบุตามมาตรา 72U) (การเพิกถอน) 2026",
+   "id": "Perintah Kepailitan, Restrukturisasi dan Pembubaran (Modifikasi Undang-Undang Tertentu menurut Pasal 72U) (Pencabutan) 2026",
+   "ms": "Perintah Insolvensi, Penstrukturan dan Pembubaran (Pengubahsuaian Akta Tertentu di bawah Seksyen 72U) (Pembatalan) 2026"
+  },
+  "SG-H2784": {
+   "vi": "Quy chế Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Lệ phí của Quản thủ chính thức) 2020",
+   "th": "ข้อบังคับการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (ค่าธรรมเนียมผู้จัดการทรัพย์สินอย่างเป็นทางการ) 2020",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Biaya Wali Pailit Resmi) 2020",
+   "ms": "Peraturan Insolvensi, Penstrukturan dan Pembubaran (Fi Pemegang Harta Rasmi) 2020"
+  },
+  "SG-H2785": {
+   "vi": "Quy tắc Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Phá sản cá nhân) 2020",
+   "th": "กฎการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การล้มละลายส่วนบุคคล) 2020",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Insolvensi Perorangan) 2020",
+   "ms": "Kaedah Insolvensi, Penstrukturan dan Pembubaran (Insolvensi Individu) 2020"
+  },
+  "SG-H2786": {
+   "vi": "Quy chế Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Thỏa thuận và tố tụng theo quy định) 2020",
+   "th": "ข้อบังคับการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (ข้อตกลงและกระบวนพิจารณาตามที่กำหนด) 2020",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Pengaturan dan Proses yang Ditetapkan) 2020",
+   "ms": "Peraturan Insolvensi, Penstrukturan dan Pembubaran (Pengaturan dan Prosiding yang Ditetapkan) 2020"
+  },
+  "SG-H2787": {
+   "vi": "Lệnh Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Công ty và pháp nhân theo quy định) 2020",
+   "th": "คำสั่งการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (บริษัทและนิติบุคคลตามที่กำหนด) 2020",
+   "id": "Perintah Kepailitan, Restrukturisasi dan Pembubaran (Perusahaan dan Entitas yang Ditetapkan) 2020",
+   "ms": "Perintah Insolvensi, Penstrukturan dan Pembubaran (Syarikat dan Entiti yang Ditetapkan) 2020"
+  },
+  "SG-H2788": {
+   "vi": "Lệnh Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Công ty theo quy định cho các mục đích của Điều 72A và 250A) 2021",
+   "th": "คำสั่งการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (บริษัทตามที่กำหนดเพื่อวัตถุประสงค์ของมาตรา 72A และ 250A) 2021",
+   "id": "Perintah Kepailitan, Restrukturisasi dan Pembubaran (Perusahaan yang Ditetapkan untuk Keperluan Pasal 72A dan 250A) 2021",
+   "ms": "Perintah Insolvensi, Penstrukturan dan Pembubaran (Syarikat yang Ditetapkan bagi Tujuan Seksyen 72A dan 250A) 2021"
+  },
+  "SG-H2789": {
+   "vi": "Lệnh Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Công ty theo quy định tại Điều 440) 2020",
+   "th": "คำสั่งการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (บริษัทตามที่กำหนดภายใต้มาตรา 440) 2020",
+   "id": "Perintah Kepailitan, Restrukturisasi dan Pembubaran (Perusahaan yang Ditetapkan menurut Pasal 440) 2020",
+   "ms": "Perintah Insolvensi, Penstrukturan dan Pembubaran (Syarikat yang Ditetapkan di bawah Seksyen 440) 2020"
+  },
+  "SG-H2790": {
+   "vi": "Quy chế Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Hợp đồng theo quy định tại Điều 440) 2020",
+   "th": "ข้อบังคับการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (สัญญาตามที่กำหนดภายใต้มาตรา 440) 2020",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Kontrak yang Ditetapkan menurut Pasal 440) 2020",
+   "ms": "Peraturan Insolvensi, Penstrukturan dan Pembubaran (Kontrak yang Ditetapkan di bawah Seksyen 440) 2020"
+  },
+  "SG-H2791": {
+   "vi": "Lệnh Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Tiêu chí và hoàn cảnh theo quy định tại Điều 72F và 250F) 2021",
+   "th": "คำสั่งการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (เกณฑ์และสถานการณ์ตามที่กำหนดภายใต้มาตรา 72F และ 250F) 2021",
+   "id": "Perintah Kepailitan, Restrukturisasi dan Pembubaran (Kriteria dan Keadaan yang Ditetapkan menurut Pasal 72F dan 250F) 2021",
+   "ms": "Perintah Insolvensi, Penstrukturan dan Pembubaran (Kriteria dan Keadaan yang Ditetapkan di bawah Seksyen 72F dan 250F) 2021"
+  },
+  "SG-H2792": {
+   "vi": "Lệnh Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Thời hạn theo quy định cho Phần 5A và 10A) 2021",
+   "th": "คำสั่งการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (ระยะเวลาตามที่กำหนดสำหรับภาค 5A และ 10A) 2021",
+   "id": "Perintah Kepailitan, Restrukturisasi dan Pembubaran (Periode yang Ditetapkan untuk Bagian 5A dan 10A) 2021",
+   "ms": "Perintah Insolvensi, Penstrukturan dan Pembubaran (Tempoh yang Ditetapkan bagi Bahagian 5A dan 10A) 2021"
+  },
+  "SG-H2793": {
+   "vi": "Quy chế Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Chứng từ công nợ trong phương án thỏa thuận) 2020",
+   "th": "ข้อบังคับการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (หลักฐานการเป็นหนี้ในแผนข้อตกลง) 2020",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Bukti Utang dalam Skema Pengaturan) 2020",
+   "ms": "Peraturan Insolvensi, Penstrukturan dan Pembubaran (Bukti Hutang dalam Skim Pengaturan) 2020"
+  },
+  "SG-H2794": {
+   "vi": "Quy chế Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Tiếp nhận tài sản) 2020",
+   "th": "ข้อบังคับการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การเป็นผู้ควบคุมทรัพย์สิน) 2020",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Penerimaan Aset) 2020",
+   "ms": "Peraturan Insolvensi, Penstrukturan dan Pembubaran (Penerimaan Aset) 2020"
+  },
+  "SG-H2795": {
+   "vi": "Thông báo Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Công nhận tương hỗ quản thủ chính thức) 2020",
+   "th": "ประกาศการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การรับรองผู้จัดการทรัพย์สินอย่างเป็นทางการซึ่งกันและกัน) 2020",
+   "id": "Pemberitahuan Kepailitan, Restrukturisasi dan Pembubaran (Pengakuan Timbal Balik Wali Pailit Resmi) 2020",
+   "ms": "Pemberitahuan Insolvensi, Penstrukturan dan Pembubaran (Pengiktirafan Timbal Balik Pemegang Harta Rasmi) 2020"
+  },
+  "SG-H2796": {
+   "vi": "Thông báo Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Bãi bỏ Luật Phá sản) 2020",
+   "th": "ประกาศการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การยกเลิกพระราชบัญญัติล้มละลาย) 2020",
+   "id": "Pemberitahuan Kepailitan, Restrukturisasi dan Pembubaran (Pencabutan Undang-Undang Kepailitan) 2020",
+   "ms": "Pemberitahuan Insolvensi, Penstrukturan dan Pembubaran (Pemansuhan Akta Kebankrapan) 2020"
+  },
+  "SG-H2798": {
+   "vi": "Quy chế Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Tái cơ cấu nợ đơn giản hóa) 2021",
+   "th": "ข้อบังคับการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การปรับโครงสร้างหนี้แบบง่าย) 2021",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Restrukturisasi Utang Sederhana) 2021",
+   "ms": "Peraturan Insolvensi, Penstrukturan dan Pembubaran (Penstrukturan Semula Hutang Dipermudah) 2021"
+  },
+  "SG-H2799": {
+   "vi": "Quy chế Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Thanh lý đơn giản hóa) 2021",
+   "th": "ข้อบังคับการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การชำระบัญชีแบบง่าย) 2021",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Likuidasi Sederhana) 2021",
+   "ms": "Peraturan Insolvensi, Penstrukturan dan Pembubaran (Penggulungan Dipermudah) 2021"
+  },
+  "SG-H2800": {
+   "vi": "Quy chế Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Thỏa thuận tự nguyện) 2020",
+   "th": "ข้อบังคับการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (ข้อตกลงโดยสมัครใจ) 2020",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Pengaturan Sukarela) 2020",
+   "ms": "Peraturan Insolvensi, Penstrukturan dan Pembubaran (Pengaturan Sukarela) 2020"
+  },
+  "SG-H2801": {
+   "vi": "Quy chế Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Thanh lý tự nguyện) 2020",
+   "th": "ข้อบังคับการล้มละลาย การปรับโครงสร้าง และการชำระบัญชี (การชำระบัญชีโดยสมัครใจ) 2020",
+   "id": "Peraturan Kepailitan, Restrukturisasi dan Pembubaran (Likuidasi Sukarela) 2020",
+   "ms": "Peraturan Insolvensi, Penstrukturan dan Pembubaran (Penggulungan Sukarela) 2020"
+  },
+  "SG-H2802": {
+   "vi": "Thông báo Mất khả năng thanh toán, Tái cơ cấu và Giải thể (Ngày bắt đầu có hiệu lực) 2026",
+   "th": "ประกาศการล้มละลาย การปรับโครงสร้าง และการเลิกนิติบุคคล (วันเริ่มมีผลใช้บังคับ) 2026",
+   "id": "Pemberitahuan Insolvensi, Restrukturisasi dan Pembubaran (Mulai Berlaku) 2026",
+   "ms": "Pemberitahuan Insolvensi, Penstrukturan Semula dan Pembubaran (Mula Berkuat Kuasa) 2026"
+  },
+  "SG-H2813": {
+   "vi": "Quy chế Bảo hiểm (Miễn trừ thời hạn nộp báo cáo) 2006",
+   "th": "ข้อบังคับการประกันภัย (การยกเว้นกำหนดเวลาการยื่นรายงาน) 2006",
+   "id": "Peraturan Asuransi (Pembebasan dari Tenggat Penyampaian Laporan) 2006",
+   "ms": "Peraturan Insurans (Pengecualian daripada Tarikh Akhir Penyerahan Laporan) 2006"
+  },
+  "SG-H2815": {
+   "vi": "Quy chế Bảo hiểm (Bảo hiểm bảo lãnh tài chính)",
+   "th": "ข้อบังคับการประกันภัย (การประกันภัยค้ำประกันทางการเงิน)",
+   "id": "Peraturan Asuransi (Asuransi Jaminan Keuangan)",
+   "ms": "Peraturan Insurans (Insurans Jaminan Kewangan)"
+  },
+  "SG-H2816": {
+   "vi": "Quy chế Bảo hiểm (Quy định chung và miễn trừ cho doanh nghiệp tự bảo hiểm) 2018",
+   "th": "ข้อบังคับการประกันภัย (บทบัญญัติทั่วไปและการยกเว้นสำหรับผู้รับประกันภัยแบบแคปทีฟ) 2018",
+   "id": "Peraturan Asuransi (Ketentuan Umum dan Pembebasan bagi Penanggung Asuransi Captive) 2018",
+   "ms": "Peraturan Insurans (Peruntukan Am dan Pengecualian bagi Penanggung Insurans Captive) 2018"
+  },
+  "SG-H2817": {
+   "vi": "Quy chế Bảo hiểm (Quy định chung và miễn trừ cho doanh nghiệp bảo hiểm tương hỗ hàng hải) 2018",
+   "th": "ข้อบังคับการประกันภัย (บทบัญญัติทั่วไปและการยกเว้นสำหรับผู้รับประกันภัยทางทะเลแบบช่วยเหลือซึ่งกันและกัน) 2018",
+   "id": "Peraturan Asuransi (Ketentuan Umum dan Pembebasan bagi Penanggung Asuransi Bahari Timbal Balik) 2018",
+   "ms": "Peraturan Insurans (Peruntukan Am dan Pengecualian bagi Penanggung Insurans Marin Bersama) 2018"
+  },
+  "SG-H2818": {
+   "vi": "Quy chế Bảo hiểm (Quy định chung và miễn trừ cho phương tiện tái bảo hiểm có mục đích đặc biệt) 2018",
+   "th": "ข้อบังคับการประกันภัย (บทบัญญัติทั่วไปและการยกเว้นสำหรับนิติบุคคลเฉพาะกิจรับประกันภัยต่อ) 2018",
+   "id": "Peraturan Asuransi (Ketentuan Umum dan Pembebasan bagi Kendaraan Reasuransi Tujuan Khusus) 2018",
+   "ms": "Peraturan Insurans (Peruntukan Am dan Pengecualian bagi Wahana Insurans Semula Tujuan Khas) 2018"
+  },
+  "SG-H2819": {
+   "vi": "Quy chế Bảo hiểm (Quy định chung)",
+   "th": "ข้อบังคับการประกันภัย (บทบัญญัติทั่วไป)",
+   "id": "Peraturan Asuransi (Ketentuan Umum)",
+   "ms": "Peraturan Insurans (Peruntukan Am)"
+  },
+  "SG-H2820": {
+   "vi": "Quy chế Bảo hiểm (Trung gian bảo hiểm)",
+   "th": "ข้อบังคับการประกันภัย (ตัวกลาง)",
+   "id": "Peraturan Asuransi (Perantara)",
+   "ms": "Peraturan Insurans (Pengantara)"
+  },
+  "SG-H2821": {
+   "vi": "Quy chế Bảo hiểm (Chương trình Lloyd’s châu Á)",
+   "th": "ข้อบังคับการประกันภัย (โครงการ Lloyd’s เอเชีย)",
+   "id": "Peraturan Asuransi (Skema Lloyd’s Asia)",
+   "ms": "Peraturan Insurans (Skim Lloyd’s Asia)"
+  },
+  "SG-H2822": {
+   "vi": "Quy chế Bảo hiểm (Chương trình Lloyd’s) (Thu hồi) 2022",
+   "th": "ข้อบังคับการประกันภัย (โครงการ Lloyd’s) (การเพิกถอน) 2022",
+   "id": "Peraturan Asuransi (Skema Lloyd’s) (Pencabutan) 2022",
+   "ms": "Peraturan Insurans (Skim Lloyd’s) (Pembatalan) 2022"
+  },
+  "SG-H2823": {
+   "vi": "Quy chế Bảo hiểm (Chỉ định người thụ hưởng) 2009",
+   "th": "ข้อบังคับการประกันภัย (การระบุผู้รับผลประโยชน์) 2009",
+   "id": "Peraturan Asuransi (Penunjukan Penerima Manfaat) 2009",
+   "ms": "Peraturan Insurans (Penamaan Penerima Manfaat) 2009"
+  },
+  "SG-H2824": {
+   "vi": "Quy chế Bảo hiểm (Quyền lợi theo quy định tại Điều 34(6)) 2023",
+   "th": "ข้อบังคับการประกันภัย (ผลประโยชน์ตามที่กำหนดภายใต้มาตรา 34(6)) 2023",
+   "id": "Peraturan Asuransi (Kepentingan yang Ditetapkan menurut Pasal 34(6)) 2023",
+   "ms": "Peraturan Insurans (Kepentingan yang Ditetapkan di bawah Seksyen 34(6)) 2023"
+  },
+  "SG-H2828": {
+   "vi": "Quy chế Bảo hiểm (Định giá và vốn) 2004",
+   "th": "ข้อบังคับการประกันภัย (การประเมินมูลค่าและเงินกองทุน) 2004",
+   "id": "Peraturan Asuransi (Penilaian dan Modal) 2004",
+   "ms": "Peraturan Insurans (Penilaian dan Modal) 2004"
+  },
+  "SG-H2829": {
+   "vi": "Quy chế Bảo hiểm (Lệ phí nền tảng tổng hợp trực tuyến) 2015",
+   "th": "ข้อบังคับการประกันภัย (ค่าธรรมเนียมผู้รวบรวมข้อมูลทางเว็บ) 2015",
+   "id": "Peraturan Asuransi (Biaya Agregator Web) 2015",
+   "ms": "Peraturan Insurans (Fi Pengagregat Web) 2015"
+  },
+  "SG-H2837": {
+   "vi": "Quy chế An ninh nội bộ (Trợ cấp thương tật)",
+   "th": "ข้อบังคับความมั่นคงภายใน (เงินช่วยเหลือผู้บาดเจ็บ)",
+   "id": "Peraturan Keamanan Dalam Negeri (Tunjangan Cedera)",
+   "ms": "Peraturan Keselamatan Dalam Negeri (Elaun Kecederaan)"
+  },
+  "SG-H2838": {
+   "vi": "Lệnh An ninh nội bộ (Cấm tài liệu) (Hợp nhất)",
+   "th": "คำสั่งความมั่นคงภายใน (การห้ามเอกสาร) (การรวมฉบับ)",
+   "id": "Perintah Keamanan Dalam Negeri (Larangan Dokumen) (Konsolidasi)",
+   "ms": "Perintah Keselamatan Dalam Negeri (Larangan Dokumen) (Penyatuan)"
+  },
+  "SG-H2839": {
+   "vi": "Lệnh An ninh nội bộ (Cấm biểu tượng)",
+   "th": "คำสั่งความมั่นคงภายใน (การห้ามตราสัญลักษณ์)",
+   "id": "Perintah Keamanan Dalam Negeri (Larangan Lambang)",
+   "ms": "Perintah Keselamatan Dalam Negeri (Larangan Lambang)"
+  },
+  "SG-H2840": {
+   "vi": "Lệnh An ninh nội bộ (Cấm ấn phẩm) (Hợp nhất)",
+   "th": "คำสั่งความมั่นคงภายใน (การห้ามสิ่งพิมพ์) (การรวมฉบับ)",
+   "id": "Perintah Keamanan Dalam Negeri (Larangan Terbitan) (Konsolidasi)",
+   "ms": "Perintah Keselamatan Dalam Negeri (Larangan Penerbitan) (Penyatuan)"
+  },
+  "SG-H2850": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Ban Thư ký APEC) 1993",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (สำนักเลขาธิการ APEC) 1993",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Sekretariat APEC) 1993",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Sekretariat APEC) 1993"
+  },
+  "SG-H2851": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Văn phòng Nghiên cứu Kinh tế Vĩ mô ASEAN+3) 2016",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (สำนักงานวิจัยเศรษฐกิจมหภาคอาเซียน+3) 2016",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Kantor Riset Makroekonomi ASEAN+3) 2016",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pejabat Penyelidikan Makroekonomi ASEAN+3) 2016"
+  },
+  "SG-H2852": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Ngân hàng Phát triển Châu Á) 2020",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (ธนาคารพัฒนาเอเชีย) 2020",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Bank Pembangunan Asia) 2020",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Bank Pembangunan Asia) 2020"
+  },
+  "SG-H2853": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Bank for International Settlements) 2020",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (Bank for International Settlements) 2020",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Bank for International Settlements) 2020",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Bank for International Settlements) 2020"
+  },
+  "SG-H2854": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Trường Cao đẳng Nhân viên Kế hoạch Colombo về Giáo dục Kỹ thuật viên) 1974",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (วิทยาลัยเจ้าหน้าที่แผนโคลัมโบด้านการศึกษาช่างเทคนิค) 1974",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Sekolah Tinggi Staf Rencana Colombo untuk Pendidikan Teknisi) 1974",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Kolej Staf Pelan Colombo bagi Pendidikan Juruteknik) 1974"
+  },
+  "SG-H2855": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Ban Thư ký Khối Thịnh vượng chung) 2008",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (สำนักเลขาธิการเครือจักรภพ) 2008",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Sekretariat Persemakmuran) 2008",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Sekretariat Komanwel) 2008"
+  },
+  "SG-H2856": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Tổ chức Lương thực và Nông nghiệp) 1949",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (องค์การอาหารและเกษตร) 1949",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Organisasi Pangan dan Pertanian) 1949",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pertubuhan Makanan dan Pertanian) 1949"
+  },
+  "SG-H2857": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (ICPO-INTERPOL) 2012",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (ICPO-INTERPOL) 2012",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (ICPO-INTERPOL) 2012",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (ICPO-INTERPOL) 2012"
+  },
+  "SG-H2858": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Trung tâm Hợp tác Khu vực IEA) 2025",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (ศูนย์ความร่วมมือระดับภูมิภาค IEA) 2025",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Pusat Kerja Sama Regional IEA) 2025",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pusat Kerjasama Serantau IEA) 2025"
+  },
+  "SG-H2859": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Viện Đào tạo Khu vực IMF-Singapore) 2004",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (สถาบันฝึกอบรมระดับภูมิภาค IMF-สิงคโปร์) 2004",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Institut Pelatihan Regional IMF-Singapura) 2004",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Institut Latihan Serantau IMF-Singapura) 2004"
+  },
+  "SG-H2860": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (INTELSAT)",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (INTELSAT)",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (INTELSAT)",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (INTELSAT)"
+  },
+  "SG-H2861": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Cơ quan Năng lượng Nguyên tử Quốc tế) 1973",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (ทบวงการพลังงานปรมาณูระหว่างประเทศ) 1973",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Badan Tenaga Atom Internasional) 1973",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Agensi Tenaga Atom Antarabangsa) 1973"
+  },
+  "SG-H2862": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Tổ chức Hàng không Dân dụng Quốc tế) 1949",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (องค์การการบินพลเรือนระหว่างประเทศ) 1949",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Organisasi Penerbangan Sipil Internasional) 1949",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pertubuhan Penerbangan Awam Antarabangsa) 1949"
+  },
+  "SG-H2863": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Tổ chức Lao động Quốc tế) 1949",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (องค์การแรงงานระหว่างประเทศ) 1949",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Organisasi Buruh Internasional) 1949",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pertubuhan Buruh Antarabangsa) 1949"
+  },
+  "SG-H2864": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Quỹ Tiền tệ Quốc tế) 2008",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (กองทุนการเงินระหว่างประเทศ) 2008",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Dana Moneter Internasional) 2008",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Tabung Kewangan Antarabangsa) 2008"
+  },
+  "SG-H2865": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Nhóm Nghiên cứu Cao su Quốc tế) 2022",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (กลุ่มศึกษายางระหว่างประเทศ) 2022",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Kelompok Studi Karet Internasional) 2022",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Kumpulan Kajian Getah Antarabangsa) 2022"
+  },
+  "SG-H2866": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Liên minh Viễn thông Quốc tế) 1955",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (สหภาพโทรคมนาคมระหว่างประเทศ) 1955",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Persatuan Telekomunikasi Internasional) 1955",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Kesatuan Telekomunikasi Antarabangsa) 1955"
+  },
+  "SG-H2867": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Tòa án Quốc tế về Luật Biển) 2023",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (ศาลระหว่างประเทศว่าด้วยกฎหมายทะเล) 2023",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Pengadilan Internasional untuk Hukum Laut) 2023",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Tribunal Antarabangsa bagi Undang-Undang Laut) 2023"
+  },
+  "SG-H2868": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Cơ quan Bảo lãnh Đầu tư Đa phương) 2002",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (หน่วยงานค้ำประกันการลงทุนพหุภาคี) 2002",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Badan Penjaminan Investasi Multilateral) 2002",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Agensi Jaminan Pelaburan Multilateral) 2002"
+  },
+  "SG-H2869": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Tòa án Trọng tài Thường trực) 2007",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (ศาลอนุญาโตตุลาการถาวร) 2007",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Pengadilan Arbitrase Permanen) 2007",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Mahkamah Timbang Tara Kekal) 2007"
+  },
+  "SG-H2870": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Trung tâm Chia sẻ Thông tin ReCAAP) 2007",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (ศูนย์แลกเปลี่ยนข้อมูล ReCAAP) 2007",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Pusat Berbagi Informasi ReCAAP) 2007",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pusat Perkongsian Maklumat ReCAAP) 2007"
+  },
+  "SG-H2871": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Trung tâm Phát triển Nghề cá Đông Nam Á) 1969",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (ศูนย์พัฒนาการประมงเอเชียตะวันออกเฉียงใต้) 1969",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Pusat Pengembangan Perikanan Asia Tenggara) 1969",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pusat Pembangunan Perikanan Asia Tenggara) 1969"
+  },
+  "SG-H2872": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Tổ chức Bộ trưởng Giáo dục Đông Nam Á) 1971",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (องค์การรัฐมนตรีศึกษาแห่งเอเชียตะวันออกเฉียงใต้) 1971",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Organisasi Menteri Pendidikan Asia Tenggara) 1971",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pertubuhan Menteri Pendidikan Asia Tenggara) 1971"
+  },
+  "SG-H2873": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Liên Hợp Quốc và Tòa án Công lý Quốc tế) 1948",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (สหประชาชาติและศาลยุติธรรมระหว่างประเทศ) 1948",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Perserikatan Bangsa-Bangsa dan Mahkamah Internasional) 1948",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pertubuhan Bangsa-Bangsa Bersatu dan Mahkamah Keadilan Antarabangsa) 1948"
+  },
+  "SG-H2874": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Chương trình Phát triển Liên Hợp Quốc) 2020",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (โครงการพัฒนาแห่งสหประชาชาติ) 2020",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Program Pembangunan Perserikatan Bangsa-Bangsa) 2020",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Program Pembangunan Pertubuhan Bangsa-Bangsa Bersatu) 2020"
+  },
+  "SG-H2875": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc) 1949",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (องค์การการศึกษา วิทยาศาสตร์ และวัฒนธรรมแห่งสหประชาชาติ) 1949",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Organisasi Pendidikan, Ilmu Pengetahuan dan Kebudayaan Perserikatan Bangsa-Bangsa) 1949",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pertubuhan Pendidikan, Saintifik dan Kebudayaan Pertubuhan Bangsa-Bangsa Bersatu) 1949"
+  },
+  "SG-H2876": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Liên minh Bưu chính Thế giới) 1955",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (สหภาพไปรษณีย์สากล) 1955",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Persatuan Pos Universal) 1955",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Kesatuan Pos Sejagat) 1955"
+  },
+  "SG-H2877": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Các tổ chức thuộc Nhóm Ngân hàng Thế giới) 2020",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (องค์กรในกลุ่มธนาคารโลก) 2020",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Organisasi Kelompok Bank Dunia) 2020",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pertubuhan Kumpulan Bank Dunia) 2020"
+  },
+  "SG-H2878": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Tổ chức Y tế Thế giới) 1949",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (องค์การอนามัยโลก) 1949",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Organisasi Kesehatan Dunia) 1949",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pertubuhan Kesihatan Sedunia) 1949"
+  },
+  "SG-H2879": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Tổ chức Sở hữu Trí tuệ Thế giới) 2005",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (องค์การทรัพย์สินทางปัญญาโลก) 2005",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Organisasi Kekayaan Intelektual Dunia) 2005",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pertubuhan Harta Intelek Sedunia) 2005"
+  },
+  "SG-H2880": {
+   "vi": "Lệnh Tổ chức quốc tế (Quyền miễn trừ và đặc quyền) (Tổ chức Khí tượng Thế giới) 2018",
+   "th": "คำสั่งองค์การระหว่างประเทศ (ความคุ้มกันและเอกสิทธิ์) (องค์การอุตุนิยมวิทยาโลก) 2018",
+   "id": "Perintah Organisasi Internasional (Kekebalan dan Hak Istimewa) (Organisasi Meteorologi Dunia) 2018",
+   "ms": "Perintah Pertubuhan Antarabangsa (Kekebalan dan Keistimewaan) (Pertubuhan Meteorologi Sedunia) 2018"
+  },
+  "SG-H2897": {
+   "vi": "Lệnh Giải thích pháp luật (Lệ phí cấp giấy chứng nhận xin quyền vận chuyển) 2011",
+   "th": "คำสั่งการตีความ (ค่าธรรมเนียมใบรับรองการขอสิทธิการจราจรทางอากาศ) 2011",
+   "id": "Perintah Penafsiran (Biaya Sertifikat Permohonan Hak Angkut) 2011",
+   "ms": "Perintah Tafsiran (Fi Sijil Permohonan Hak Trafik) 2011"
+  },
+  "SG-H2898": {
+   "vi": "Quy chế Giải thích pháp luật (Công báo) 2025",
+   "th": "ข้อบังคับการตีความ (ราชกิจจานุเบกษา) 2025",
+   "id": "Peraturan Penafsiran (Berita Negara) 2025",
+   "ms": "Peraturan Tafsiran (Warta Kerajaan) 2025"
+  },
+  "SG-H2899": {
+   "vi": "Lệnh Giải thích pháp luật (Luật Cơ quan Khoa học Y tế — Lệ phí) 2017",
+   "th": "คำสั่งการตีความ (พระราชบัญญัติหน่วยงานวิทยาศาสตร์สุขภาพ — ค่าธรรมเนียม) 2017",
+   "id": "Perintah Penafsiran (Undang-Undang Badan Ilmu Kesehatan — Biaya) 2017",
+   "ms": "Perintah Tafsiran (Akta Pihak Berkuasa Sains Kesihatan — Fi) 2017"
+  },
+  "SG-H2900": {
+   "vi": "Lệnh Giải thích pháp luật (Ủy ban Nhà ở và Phát triển — Lệ phí) 2026",
+   "th": "คำสั่งการตีความ (คณะกรรมการที่อยู่อาศัยและการพัฒนา — ค่าธรรมเนียม) 2026",
+   "id": "Perintah Penafsiran (Badan Perumahan dan Pembangunan — Biaya) 2026",
+   "ms": "Perintah Tafsiran (Lembaga Perumahan dan Pembangunan — Fi) 2026"
+  },
+  "SG-H2901": {
+   "vi": "Lệnh Giải thích pháp luật (Lệnh Kiểm soát Giá (Gạo) — Lệ phí) 2009",
+   "th": "คำสั่งการตีความ (คำสั่งควบคุมราคา (ข้าว) — ค่าธรรมเนียม) 2009",
+   "id": "Perintah Penafsiran (Perintah Pengendalian Harga (Beras) — Biaya) 2009",
+   "ms": "Perintah Tafsiran (Perintah Kawalan Harga (Beras) — Fi) 2009"
+  },
+  "SG-H2902": {
+   "vi": "Lệnh Giải thích pháp luật (Giảm lệ phí theo Quy chế Cấp phép Khách sạn) 2020",
+   "th": "คำสั่งการตีความ (การลดหย่อนค่าธรรมเนียมตามข้อบังคับการออกใบอนุญาตโรงแรม) 2020",
+   "id": "Perintah Penafsiran (Keringanan Biaya menurut Peraturan Perizinan Hotel) 2020",
+   "ms": "Perintah Tafsiran (Pelepasan Fi di bawah Peraturan Pelesenan Hotel) 2020"
+  },
+  "SG-H2903": {
+   "vi": "Lệnh Giải thích pháp luật (Giảm lệ phí theo Quy chế Cấp phép Khách sạn) 2021",
+   "th": "คำสั่งการตีความ (การลดหย่อนค่าธรรมเนียมตามข้อบังคับการออกใบอนุญาตโรงแรม) 2021",
+   "id": "Perintah Penafsiran (Keringanan Biaya menurut Peraturan Perizinan Hotel) 2021",
+   "ms": "Perintah Tafsiran (Pelepasan Fi di bawah Peraturan Pelesenan Hotel) 2021"
+  },
+  "SG-H2904": {
+   "vi": "Lệnh Giải thích pháp luật (Cơ quan Thực phẩm Singapore — Lệ phí giấy chứng nhận xuất khẩu) 2024",
+   "th": "คำสั่งการตีความ (สำนักงานอาหารสิงคโปร์ — ค่าธรรมเนียมใบรับรองการส่งออก) 2024",
+   "id": "Perintah Penafsiran (Badan Pangan Singapura — Biaya Sertifikat Ekspor) 2024",
+   "ms": "Perintah Tafsiran (Agensi Makanan Singapura — Fi Sijil Eksport) 2024"
+  },
+  "SG-H2905": {
+   "vi": "Lệnh Giải thích pháp luật (Cơ quan Thực phẩm Singapore — Lệ phí) 2023",
+   "th": "คำสั่งการตีความ (สำนักงานอาหารสิงคโปร์ — ค่าธรรมเนียม) 2023",
+   "id": "Perintah Penafsiran (Badan Pangan Singapura — Biaya) 2023",
+   "ms": "Perintah Tafsiran (Agensi Makanan Singapura — Fi) 2023"
+  },
+  "SG-H2911": {
+   "vi": "Quy chế Chất gây say (Điều trị và phục hồi)",
+   "th": "ข้อบังคับสารที่ทำให้มึนเมา (การบำบัดและการฟื้นฟู)",
+   "id": "Peraturan Zat Memabukkan (Perawatan dan Rehabilitasi)",
+   "ms": "Peraturan Bahan Memabukkan (Rawatan dan Pemulihan)"
+  },
+  "SG-H2912": {
+   "vi": "Quy chế Chất gây say (Sử dụng thông tin trong sổ đăng ký và cơ sở dữ liệu DNA) 2026",
+   "th": "ข้อบังคับสารที่ทำให้มึนเมา (การใช้ข้อมูลในทะเบียนและฐานข้อมูลดีเอ็นเอ) 2026",
+   "id": "Peraturan Zat Memabukkan (Penggunaan Informasi dalam Register dan Basis Data DNA) 2026",
+   "ms": "Peraturan Bahan Memabukkan (Penggunaan Maklumat dalam Daftar dan Pangkalan Data DNA) 2026"
+  },
+  "SG-H3244": {
+   "vi": "Quy chế Lạm dụng ma túy (Sử dụng thông tin trong sổ đăng ký và cơ sở dữ liệu DNA) 2026",
+   "th": "ข้อบังคับการใช้ยาเสพติดในทางที่ผิด (การใช้ข้อมูลในทะเบียนและฐานข้อมูลดีเอ็นเอ) 2026",
+   "id": "Peraturan Penyalahgunaan Narkotika (Penggunaan Informasi dalam Register dan Basis Data DNA) 2026",
+   "ms": "Peraturan Penyalahgunaan Dadah (Penggunaan Maklumat dalam Daftar dan Pangkalan Data DNA) 2026"
+  },
+  "SG-H3564": {
+   "vi": "Lệnh Lao động nền tảng (Số tiền tối đa được thanh toán ưu tiên) 2024",
+   "th": "คำสั่งแรงงานแพลตฟอร์ม (จำนวนเงินสูงสุดที่ต้องชำระตามลำดับบุริมสิทธิ) 2024",
+   "id": "Perintah Pekerja Platform (Jumlah Maksimum yang Dibayarkan Secara Prioritas) 2024",
+   "ms": "Perintah Pekerja Platform (Jumlah Maksimum yang Dibayar Secara Keutamaan) 2024"
+  }
+ }
+}

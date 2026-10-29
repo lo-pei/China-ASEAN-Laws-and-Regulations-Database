@@ -96,10 +96,42 @@ html[data-theme="dark"] .nav__item.is-active { color: var(--calr-blue-400); box-
 
 /* 右侧工具区固定，不占用品牌区宽度 */
 .header__tools { justify-self: end; display: flex; align-items: center; gap: 8px; min-width: 0; }
+/* 界面语言：保留用户习惯的原生下拉（只统一视觉） */
 .lang-select {
-  width: auto; padding: 6px 26px 6px 10px;
+  width: auto; padding: 6px 28px 6px 10px; min-height: 32px;
   background-color: var(--bg-page); color: var(--text-primary); border-color: var(--border);
 }
+.lang-select option { color: var(--text-primary); background: var(--bg-surface); }
+
+/* 自绘语言下拉（历史样式保留，当前未使用） */
+.lang-dd { position: relative; flex: 0 0 auto; }
+.lang-dd__btn {
+  display: inline-flex; align-items: center; gap: 8px; height: 32px; padding: 0 10px;
+  border: 1px solid var(--border); background: var(--bg-page); color: var(--text-primary);
+  border-radius: var(--radius-sm); cursor: pointer; font-size: var(--fs-small); line-height: 1;
+  transition: border-color var(--transition), background var(--transition);
+}
+.lang-dd__btn:hover { border-color: var(--calr-blue-400); background: var(--bg-surface); }
+.lang-dd__btn:focus-visible { outline: 2px solid var(--calr-blue-400); outline-offset: 2px; }
+.lang-dd.is-open .lang-dd__btn { border-color: var(--calr-blue-500); background: var(--bg-surface); }
+.lang-dd__caret { width: 0; height: 0; border-left: 4px solid transparent; border-right: 4px solid transparent; border-top: 5px solid var(--text-secondary); transition: transform var(--transition); }
+.lang-dd.is-open .lang-dd__caret { transform: rotate(180deg); }
+.lang-dd__menu {
+  position: absolute; right: 0; top: calc(100% + 6px); min-width: 176px; padding: 6px;
+  background: var(--bg-surface); border: 1px solid var(--border); border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md); z-index: 90;
+}
+.lang-dd__menu[hidden] { display: none; }
+.lang-dd__opt {
+  display: flex; align-items: center; gap: 10px; width: 100%; padding: 8px 10px;
+  border: 0; border-radius: var(--radius-sm); background: transparent; color: var(--text-primary);
+  font-size: var(--fs-small); text-align: left; cursor: pointer;
+}
+.lang-dd__opt:hover { background: var(--calr-gray-100); }
+.lang-dd__opt.is-active { background: var(--calr-blue-50); color: var(--calr-blue-600); font-weight: 600; }
+.lang-dd__code { margin-left: auto; font-family: var(--font-mono); font-size: 10px; opacity: .65; letter-spacing: .04em; }
+html[data-theme="dark"] .lang-dd__opt:hover { background: var(--calr-gray-800); }
+html[data-theme="dark"] .lang-dd__opt.is-active { background: rgba(59, 130, 246, .16); }
 .lang-select option { color: var(--text-primary); background: var(--bg-surface); }
 
 /* 外观切换：32px 图标按钮，单击在浅色 / 深色间切换 */

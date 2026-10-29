@@ -1,0 +1,28 @@
+{
+ "lawId": "KH-H163",
+ "pack": "kh-p02",
+ "sourceLang": "km",
+ "targetLang": "en",
+ "titleEn": "Supplementary Provision to the Law on Audit",
+ "model": "deepseek-v4.1-flash",
+ "articles": [
+  {
+   "key": "1",
+   "no": 1,
+   "noLabel": "Article 1",
+   "en": "Article 40 shall be added to Chapter 8 of the Law on Audit of the Kingdom of Cambodia promulgated by Royal Kram No. NS/RKM/0300/10 dated 3 March 2000, as follows:"
+  },
+  {
+   "key": "40",
+   "no": 40,
+   "noLabel": "Article 40",
+   "en": "In necessary cases, at the request of the Permanent Committee of the National Assembly, the National Assembly may decide to establish a special commission to review the activities and operations of the National Audit Authority."
+  },
+  {
+   "key": "2",
+   "no": 2,
+   "noLabel": "Article 2",
+   "en": "- This Law is declared to be urgent.\nPhnom Penh, 24 November 2000. Signed and respectfully submitted to the King for signature: Norodom Sihanouk. Prime Minister, signature.\nHun Sen, having respectfully reported to the Prime Minister; Senior Minister and Minister of Economy and Finance, signature: Keat Chhon.\n2104"
+  }
+ ]
+}

@@ -1,0 +1,355 @@
+{
+ "_note": "TH 主题增补（113–162）",
+ "subjects": {
+  "การประกอบกิจการกระจายเสียงและกิจการโทรทัศน์": {
+   "zh": "广播与电视业务经营",
+   "en": "Operation of Broadcasting and Television Businesses",
+   "vi": "Kinh doanh phát thanh và truyền hình",
+   "id": "Penyelenggaraan Usaha Penyiaran dan Televisi",
+   "ms": "Pengendalian Perniagaan Penyiaran dan Televisyen"
+  },
+  "การแพทย์ฉุกเฉิน": {
+   "zh": "急救医疗",
+   "en": "Emergency Medical Services",
+   "vi": "Cấp cứu y tế",
+   "id": "Pelayanan Medis Darurat",
+   "ms": "Perkhidmatan Perubatan Kecemasan"
+  },
+  "ส่งผู้ร้ายข้ามแดน": {
+   "zh": "引渡",
+   "en": "Extradition",
+   "vi": "Dẫn độ",
+   "id": "Ekstradisi",
+   "ms": "Ekstradisi"
+  },
+  "สภาองค์กรชุมชน": {
+   "zh": "社区组织理事会",
+   "en": "Community Organisation Council",
+   "vi": "Hội đồng tổ chức cộng đồng",
+   "id": "Dewan Organisasi Masyarakat",
+   "ms": "Majlis Organisasi Komuniti"
+  },
+  "ส่งเสริมการศึกษานอกระบบและการศึกษาตามอัธยาศัย": {
+   "zh": "非正规教育与自主学习促进",
+   "en": "Promotion of Non-Formal and Informal Education",
+   "vi": "Thúc đẩy giáo dục không chính quy và giáo dục thường xuyên",
+   "id": "Pengembangan Pendidikan Nonformal dan Informal",
+   "ms": "Penggalakan Pendidikan Tidak Formal dan Tidak Rasmi"
+  },
+  "การบริหารราชการจังหวัดชายแดนภาคใต้": {
+   "zh": "南部边境府行政管理",
+   "en": "Administration of the Southern Border Provinces",
+   "vi": "Quản lý hành chính các tỉnh biên giới phía Nam",
+   "id": "Penyelenggaraan Pemerintahan Provinsi Perbatasan Selatan",
+   "ms": "Pentadbiran Wilayah Sempadan Selatan"
+  },
+  "สภาเกษตรกรแห่งชาติ": {
+   "zh": "全国农民理事会",
+   "en": "National Farmers Council",
+   "vi": "Hội đồng Nông dân Quốc gia",
+   "id": "Dewan Petani Nasional",
+   "ms": "Majlis Pesawah Kebangsaan"
+  },
+  "ระเบียบบริหารราชการฝ่ายรัฐสภา": {
+   "zh": "立法机关行政管理",
+   "en": "Administration of the Legislative Branch",
+   "vi": "Quản lý hành chính cơ quan lập pháp",
+   "id": "Administrasi Lembaga Legislatif",
+   "ms": "Pentadbiran Badan Perundangan"
+  },
+  "สถาบันดนตรีกัลยาณิวัฒนา": {
+   "zh": "甘拉雅尼瓦塔纳音乐学院",
+   "en": "Kanlayaniwatthana Institute of Music",
+   "vi": "Học viện Âm nhạc Kanlayaniwatthana",
+   "id": "Institut Musik Kanlayaniwatthana",
+   "ms": "Institut Muzik Kanlayaniwatthana"
+  },
+  "การรับขนของทางถนนระหว่างประเทศ": {
+   "zh": "国际公路货物运输",
+   "en": "International Carriage of Goods by Road",
+   "vi": "Vận tải hàng hóa quốc tế bằng đường bộ",
+   "id": "Pengangkutan Barang Internasional melalui Jalan",
+   "ms": "Pengangkutan Barang Antarabangsa melalui Jalan Raya"
+  },
+  "การกลับไปใช้สิทธิในบำเหน็จบำนาญ ตามพระราชบัญญัติบำเหน็จบำนาญข้าราชการ พ.ศ. 2494": {
+   "zh": "依《公务员退休金法》（佛历2494年／1951年）恢复退休金权利",
+   "en": "Restoration of Pension Rights under the Government Pension Act, B.E. 2494",
+   "vi": "Phục hồi quyền hưởng hưu trí theo Luật Hưu trí Công chức, Phật lịch 2494 (1951)",
+   "id": "Pemulihan Hak Pensiun berdasarkan Undang-Undang Pensiun Pegawai Negeri Tahun 1951",
+   "ms": "Pemulihan Hak Pencen di bawah Akta Pencen Penjawat Awam 1951"
+  },
+  "การอำนวยความสะดวกในการพิจารณาอนุญาตของทางราชการ": {
+   "zh": "政府许可审批便利化",
+   "en": "Facilitation of the Consideration of Government Permits",
+   "vi": "Tạo thuận lợi trong xem xét cấp phép của cơ quan nhà nước",
+   "id": "Kemudahan Pertimbangan Perizinan Pemerintah",
+   "ms": "Kemudahan Pertimbangan Permit Kerajaan"
+  },
+  "การทวงถามหนี้": {
+   "zh": "债务催收",
+   "en": "Debt Collection",
+   "vi": "Thu hồi nợ",
+   "id": "Penagihan Utang",
+   "ms": "Kutipan Hutang"
+  },
+  "กองทุนพัฒนาสื่อปลอดภัยและสร้างสรรค์": {
+   "zh": "安全与创意媒体发展基金",
+   "en": "Safe and Creative Media Development Fund",
+   "vi": "Quỹ phát triển truyền thông an toàn và sáng tạo",
+   "id": "Dana Pengembangan Media Aman dan Kreatif",
+   "ms": "Kumpulan Wang Pembangunan Media Selamat dan Kreatif"
+  },
+  "กองทุนพัฒนาระบบสถาบันการเงินเฉพาะกิจ": {
+   "zh": "专门金融机构体系发展基金",
+   "en": "Fund for the Development of the Specialised Financial Institution System",
+   "vi": "Quỹ phát triển hệ thống tổ chức tài chính chuyên trách",
+   "id": "Dana Pengembangan Sistem Lembaga Keuangan Khusus",
+   "ms": "Kumpulan Wang Pembangunan Sistem Institusi Kewangan Khas"
+  },
+  "การบริหารทุนหมุนเวียน": {
+   "zh": "周转资金管理",
+   "en": "Administration of Revolving Funds",
+   "vi": "Quản lý quỹ luân chuyển",
+   "id": "Pengelolaan Dana Bergulir",
+   "ms": "Pentadbiran Dana Pusingan"
+  },
+  "ความเท่าเทียมระหว่างเพศ": {
+   "zh": "性别平等",
+   "en": "Gender Equality",
+   "vi": "Bình đẳng giới",
+   "id": "Kesetaraan Gender",
+   "ms": "Kesaksamaan Gender"
+  },
+  "ส่งเสริมการบริหารจัดการทรัพยากรทางทะเลและชายฝั่ง": {
+   "zh": "海洋与海岸带资源管理促进",
+   "en": "Promotion of Marine and Coastal Resource Management",
+   "vi": "Thúc đẩy quản lý tài nguyên biển và ven biển",
+   "id": "Pengembangan Pengelolaan Sumber Daya Laut dan Pesisir",
+   "ms": "Penggalakan Pengurusan Sumber Laut dan Pesisir"
+  },
+  "คุมประพฤติ": {
+   "zh": "缓刑监督",
+   "en": "Probation",
+   "vi": "Giám sát thử thách",
+   "id": "Pembebasan Bersyarat",
+   "ms": "Percubaan"
+  },
+  "จัดตั้งศาลอาญาคดีทุจริตและประพฤติมิชอบ": {
+   "zh": "贪腐与渎职刑事案件法院设立",
+   "en": "Establishment of the Criminal Court for Corruption and Misconduct Cases",
+   "vi": "Thành lập Tòa án Hình sự các vụ án tham nhũng và hành vi sai trái",
+   "id": "Pembentukan Pengadilan Pidana Perkara Korupsi dan Perilaku Tercela",
+   "ms": "Penubuhan Mahkamah Jenayah Kes Rasuah dan Kelakuan Tidak Senonoh"
+  },
+  "การออกเสียงประชามติร่างรัฐธรรมนูญ": {
+   "zh": "宪法草案公投",
+   "en": "Referendum on a Draft Constitution",
+   "vi": "Trưng cầu dân ý về dự thảo hiến pháp",
+   "id": "Referendum Rancangan Undang-Undang Dasar",
+   "ms": "Referendum Rang Perlembagaan"
+  },
+  "ส่งเสริมและรักษามรดกภูมิปัญญาทางวัฒนธรรม": {
+   "zh": "非物质文化遗产的促进与保护",
+   "en": "Promotion and Preservation of the Intangible Cultural Heritage",
+   "vi": "Thúc đẩy và bảo tồn di sản văn hóa phi vật thể",
+   "id": "Pengembangan dan Pelestarian Warisan Budaya Takbenda",
+   "ms": "Penggalakan dan Pemeliharaan Warisan Budaya Tidak Ketara"
+  },
+  "วิธีพิจารณาคดีอาญาของผู้ดำรงตำแหน่งทางการเมือง": {
+   "zh": "政治职位人员刑事案件审理程序",
+   "en": "Criminal Procedure for Persons Holding Political Positions",
+   "vi": "Thủ tục xét xử hình sự đối với người giữ chức vụ chính trị",
+   "id": "Tata Cara Pemeriksaan Pidana bagi Pejabat Politik",
+   "ms": "Tatacara Perbicaraan Jenayah bagi Pemegang Jawatan Politik"
+  },
+  "การแข่งขันทางการค้า": {
+   "zh": "贸易竞争",
+   "en": "Trade Competition",
+   "vi": "Cạnh tranh thương mại",
+   "id": "Persaingan Usaha",
+   "ms": "Persaingan Perdagangan"
+  },
+  "การพัฒนาดิจิทัลเพื่อเศรษฐกิจและสังคม": {
+   "zh": "经济与社会数字发展",
+   "en": "Digital Development for Economy and Society",
+   "vi": "Phát triển số vì kinh tế và xã hội",
+   "id": "Pengembangan Digital untuk Ekonomi dan Masyarakat",
+   "ms": "Pembangunan Digital untuk Ekonomi dan Masyarakat"
+  },
+  "การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ": {
+   "zh": "政府采购与物资管理",
+   "en": "Government Procurement and Supplies Administration",
+   "vi": "Mua sắm công và quản lý vật tư nhà nước",
+   "id": "Pengadaan Barang/Jasa Pemerintah dan Pengelolaan Barang Milik Negara",
+   "ms": "Perolehan Kerajaan dan Pentadbiran Bekalan"
+  },
+  "แผนและขั้นตอนการดำเนินการปฏิรูปประเทศ": {
+   "zh": "国家改革计划与实施步骤",
+   "en": "Plan and Procedure for National Reform",
+   "vi": "Kế hoạch và trình tự thực hiện cải cách quốc gia",
+   "id": "Rencana dan Prosedur Pelaksanaan Reformasi Nasional",
+   "ms": "Pelan dan Prosedur Pelaksanaan Reformasi Negara"
+  },
+  "ราชทัณฑ์": {
+   "zh": "狱政",
+   "en": "Corrections",
+   "vi": "Quản giáo",
+   "id": "Pemasyarakatan",
+   "ms": "Penjara"
+  },
+  "แร่": {
+   "zh": "矿产",
+   "en": "Minerals",
+   "vi": "Khoáng sản",
+   "id": "Mineral",
+   "ms": "Mineral"
+  },
+  "การบริหารการแก้ไขบำบัดฟื้นฟูเด็กและเยาวชนที่กระทำผิด": {
+   "zh": "违法儿童与青少年矫正治疗与康复管理",
+   "en": "Administration of Correction, Treatment and Rehabilitation of Juvenile Offenders",
+   "vi": "Quản lý giáo dục, điều trị và phục hồi cho trẻ em và thanh thiếu niên vi phạm",
+   "id": "Penyelenggaraan Pembinaan, Perawatan dan Rehabilitasi Anak dan Remaja Pelanggar Hukum",
+   "ms": "Pentadbiran Pembetulan, Rawatan dan Pemulihan Kanak-kanak dan Remaja Pesalah"
+  },
+  "วิธีพิจารณาของศาลรัฐธรรมนูญ": {
+   "zh": "宪法法院审理程序",
+   "en": "Procedure of the Constitutional Court",
+   "vi": "Thủ tục tố tụng của Tòa án Hiến pháp",
+   "id": "Tata Cara Beracara Pengadilan Konstitusi",
+   "ms": "Tatacara Mahkamah Perlembagaan"
+  },
+  "วินัยการเงินการคลังของรัฐ": {
+   "zh": "国家财政纪律",
+   "en": "Fiscal and Financial Discipline of the State",
+   "vi": "Kỷ luật tài chính của Nhà nước",
+   "id": "Disiplin Fiskal dan Keuangan Negara",
+   "ms": "Disiplin Fiskal dan Kewangan Negara"
+  },
+  "สถาบันเทคโนโลยีจิตรลดา": {
+   "zh": "吉拉达技术学院",
+   "en": "Chitralada Technology Institute",
+   "vi": "Học viện Công nghệ Chitralada",
+   "id": "Institut Teknologi Chitralada",
+   "ms": "Institut Teknologi Chitralada"
+  },
+  "การบริหารงานและการให้บริการภาครัฐผ่านระบบดิจิทัล": {
+   "zh": "政府行政与公共服务数字化",
+   "en": "Government Administration and Service Delivery through Digital Systems",
+   "vi": "Quản lý và cung cấp dịch vụ công qua hệ thống số",
+   "id": "Penyelenggaraan Pemerintahan dan Pelayanan Publik melalui Sistem Digital",
+   "ms": "Pentadbiran dan Penyampaian Perkhidmatan Kerajaan melalui Sistem Digital"
+  },
+  "การเวนคืนและการได้มาซึ่งอสังหาริมทรัพย์": {
+   "zh": "不动产征收与取得",
+   "en": "Expropriation and Acquisition of Immovable Property",
+   "vi": "Trưng thu và thu hồi bất động sản",
+   "id": "Pengadaan Tanah dan Perolehan Properti",
+   "ms": "Pengambilan Balik dan Perolehan Harta Tak Alih"
+  },
+  "หลักเกณฑ์การจัดทำร่างกฎหมายและการประเมินผลสัมฤทธิ์ของกฎหมาย": {
+   "zh": "立法起草与法规成效评估准则",
+   "en": "Criteria for Legislative Drafting and Regulatory Impact Assessment",
+   "vi": "Tiêu chí soạn thảo văn bản pháp luật và đánh giá tác động pháp luật",
+   "id": "Kriteria Penyusunan Rancangan Peraturan dan Penilaian Dampak Regulasi",
+   "ms": "Kriteria Penggubalan Rang Undang-Undang dan Penilaian Kesan Perundangan"
+  },
+  "สภากาชาดไทย": {
+   "zh": "泰国红十字会",
+   "en": "Thai Red Cross Society",
+   "vi": "Hội Chữ thập đỏ Thái Lan",
+   "id": "Palang Merah Thailand",
+   "ms": "Persatuan Palang Merah Thailand"
+  },
+  "รักษาช้างป่า": {
+   "zh": "野象保护",
+   "en": "Conservation of Wild Elephants",
+   "vi": "Bảo tồn voi rừng",
+   "id": "Pelestarian Gajah Liar",
+   "ms": "Pemuliharaan Gajah Liar"
+  },
+  "วินัยตำรวจ": {
+   "zh": "警察纪律",
+   "en": "Police Discipline",
+   "vi": "Kỷ luật cảnh sát",
+   "id": "Disiplin Polisi",
+   "ms": "Disiplin Polis"
+  },
+  "โทรเลขและโทรศัพท์": {
+   "zh": "电报与电话",
+   "en": "Telegraph and Telephone",
+   "vi": "Điện báo và điện thoại",
+   "id": "Telegraf dan Telepon",
+   "ms": "Telegraf dan Telefon"
+  },
+  "ยกฐานะศาลแขวงแม่สะเรียง ศาลแขวงแม่สอด ศาลแขวงตะกั่วป่า และศาลแขวงหลังสวน เป็นศาลจังหวัด": {
+   "zh": "将夜沙良、夜速、达瓜巴与朗萱初级法院升格为府级法院",
+   "en": "Upgrading of the Mae Sariang, Mae Sot, Takua Pa and Lang Suan District Courts to Provincial Courts",
+   "vi": "Nâng cấp các Tòa án cấp huyện Mae Sariang, Mae Sot, Takua Pa và Lang Suan thành Tòa án cấp tỉnh",
+   "id": "Peningkatan Pengadilan Kecil Mae Sariang, Mae Sot, Takua Pa dan Lang Suan menjadi Pengadilan Negeri",
+   "ms": "Naik Taraf Mahkamah Kecil Mae Sariang, Mae Sot, Takua Pa dan Lang Suan kepada Mahkamah Daerah"
+  },
+  "การพิมพ์": {
+   "zh": "印刷",
+   "en": "Printing",
+   "vi": "In ấn",
+   "id": "Percetakan",
+   "ms": "Percetakan"
+  },
+  "บำเหน็จบำนาญข้าราชการ": {
+   "zh": "公务员退休金",
+   "en": "Government Service Pensions",
+   "vi": "Hưu trí công chức",
+   "id": "Pensiun Pegawai Negeri",
+   "ms": "Pencen Penjawat Awam"
+  },
+  "ป้องกันการกระทำอันเป็นคอมมิวนิสต์": {
+   "zh": "防制共产主义行为",
+   "en": "Prevention of Communist Acts",
+   "vi": "Phòng chống hành vi cộng sản",
+   "id": "Pencegahan Tindakan Komunis",
+   "ms": "Pencegahan Perbuatan Komunis"
+  },
+  "รับราชการทหาร": {
+   "zh": "兵役",
+   "en": "Military Service",
+   "vi": "Nghĩa vụ quân sự",
+   "id": "Wajib Militer",
+   "ms": "Perkhidmatan Tentera"
+  },
+  "รายได้เทศบาล": {
+   "zh": "市政收入",
+   "en": "Municipal Revenue",
+   "vi": "Thu nhập của thành phố",
+   "id": "Pendapatan Kotamadya",
+   "ms": "Hasil Perbandaran"
+  },
+  "บำเหน็จบำนาญข้าราชการส่วนท้องถิ่น": {
+   "zh": "地方公务员退休金",
+   "en": "Local Government Service Pensions",
+   "vi": "Hưu trí công chức địa phương",
+   "id": "Pensiun Pegawai Negeri Daerah",
+   "ms": "Pencen Penjawat Awam Tempatan"
+  },
+  "ยา": {
+   "zh": "药品",
+   "en": "Drugs",
+   "vi": "Dược phẩm",
+   "id": "Obat",
+   "ms": "Ubat"
+  },
+  "มหาวิทยาลัยเกษตรศาสตร์": {
+   "zh": "农业大学",
+   "en": "Kasetsart University",
+   "vi": "Đại học Kasetsart",
+   "id": "Universitas Kasetsart",
+   "ms": "Universiti Kasetsart"
+  },
+  "เหรียญพิทักษ์เสรีชน": {
+   "zh": "自由卫士勋章",
+   "en": "Freedom Defender Medal",
+   "vi": "Huy chương Người bảo vệ tự do",
+   "id": "Medali Pembela Kebebasan",
+   "ms": "Pingat Pembela Kebebasan"
+  }
+ }
+}

@@ -1,0 +1,10 @@
+'use strict';
+const fs = require('fs');
+const vm = require('vm');
+const path = require('path');
+const c = { window: {} };
+vm.createContext(c);
+vm.runInContext(fs.readFileSync(path.join(__dirname, '../../prototype/data/fulltext/cn.js'), 'utf8'), c);
+const ids = Object.keys(c.window.CALR_FULLTEXT);
+const { execFileSync } = require('child_process');
+execFileSync(process.execPath, [path.join(__dirname, 'spotcheck.js'), ...ids], { stdio: 'inherit' });

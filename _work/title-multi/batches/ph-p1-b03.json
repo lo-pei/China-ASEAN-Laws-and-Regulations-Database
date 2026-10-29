@@ -1,0 +1,234 @@
+{
+ "batch": "ph-p1-b03",
+ "scope": "PH 核心法 38 部（条文数 >= 100，含民法典/宪法/各类法典）",
+ "items": {
+  "PH-H027": {
+   "vi": "Bộ luật Dân sự Philippines",
+   "th": "ประมวลกฎหมายแพ่งฟิลิปปินส์",
+   "id": "Kitab Undang-Undang Hukum Perdata Filipina",
+   "ms": "Kanun Undang-Undang Sivil Filipina"
+  },
+  "PH-H5648": {
+   "vi": "Bộ luật Chính quyền Địa phương năm 1991",
+   "th": "ประมวลกฎหมายการปกครองท้องถิ่น ค.ศ. 1991",
+   "id": "Kitab Undang-Undang Pemerintahan Daerah Tahun 1991",
+   "ms": "Kanun Undang-Undang Kerajaan Tempatan 1991"
+  },
+  "PH-CONSTITUTION-1987": {
+   "vi": "Hiến pháp nước Cộng hòa Philippines năm 1987",
+   "th": "รัฐธรรมนูญแห่งสาธารณรัฐฟิลิปปินส์ ค.ศ. 1987",
+   "id": "Konstitusi Republik Filipina Tahun 1987",
+   "ms": "Perlembagaan Republik Filipina 1987"
+  },
+  "PH-LABOR-1974": {
+   "vi": "Bộ luật Lao động Philippines",
+   "th": "ประมวลกฎหมายแรงงานฟิลิปปินส์",
+   "id": "Kitab Undang-Undang Ketenagakerjaan Filipina",
+   "ms": "Kanun Undang-Undang Buruh Filipina"
+  },
+  "PH-H9311": {
+   "vi": "Đạo luật Hiện đại hóa Quản lý Hải quan và Thuế quan",
+   "th": "พระราชบัญญัติการปรับปรุงการบริหารศุลกากรและภาษีศุลกากรให้ทันสมัย",
+   "id": "Undang-Undang Modernisasi Administrasi Bea Cukai dan Tarif",
+   "ms": "Akta Pemodenan Pentadbiran Kastam dan Tarif"
+  },
+  "PH-H012": {
+   "vi": "Bộ luật Thuế Nội địa Quốc gia",
+   "th": "ประมวลกฎหมายภาษีอากรภายในประเทศ",
+   "id": "Kitab Undang-Undang Pajak Dalam Negeri",
+   "ms": "Kanun Undang-Undang Hasil Dalam Negeri"
+  },
+  "PH-H7980": {
+   "vi": "Bộ luật Hợp tác xã Philippines năm 2008",
+   "th": "ประมวลกฎหมายสหกรณ์ฟิลิปปินส์ ค.ศ. 2008",
+   "id": "Kitab Undang-Undang Koperasi Filipina Tahun 2008",
+   "ms": "Kanun Undang-Undang Koperasi Filipina 2008"
+  },
+  "PH-H011": {
+   "vi": "Đạo luật Cải cách Thuế năm 1997 (sửa đổi Bộ luật Thuế Nội địa Quốc gia)",
+   "th": "พระราชบัญญัติปฏิรูปภาษี ค.ศ. 1997 (แก้ไขประมวลกฎหมายภาษีอากรภายในประเทศ)",
+   "id": "Undang-Undang Reformasi Perpajakan Tahun 1997 (mengubah Kitab Undang-Undang Pajak Dalam Negeri)",
+   "ms": "Akta Pembaharuan Cukai 1997 (meminda Kanun Undang-Undang Hasil Dalam Negeri)"
+  },
+  "PH-H4901": {
+   "vi": "Bộ luật Bầu cử năm 1971",
+   "th": "ประมวลกฎหมายการเลือกตั้ง ค.ศ. 1971",
+   "id": "Kitab Undang-Undang Pemilihan Tahun 1971",
+   "ms": "Kanun Undang-Undang Pilihan Raya 1971"
+  },
+  "PH-H9499": {
+   "vi": "Luật Tổ chức Bangsamoro năm 2019",
+   "th": "กฎหมายจัดตั้งบังซาโมโร ค.ศ. 2019",
+   "id": "Undang-Undang Organik Bangsamoro Tahun 2019",
+   "ms": "Undang-Undang Organik Bangsamoro 2019"
+  },
+  "PH-IP-1997": {
+   "vi": "Bộ luật Sở hữu Trí tuệ Philippines",
+   "th": "ประมวลกฎหมายทรัพย์สินทางปัญญาฟิลิปปินส์",
+   "id": "Kitab Undang-Undang Kekayaan Intelektual Filipina",
+   "ms": "Kanun Undang-Undang Harta Intelek Filipina"
+  },
+  "PH-H7522": {
+   "vi": "Luật Tổ chức Vùng Tự trị Hồi giáo Mindanao (mở rộng)",
+   "th": "กฎหมายจัดตั้งเขตปกครองตนเองมุสลิมมินดาเนา (ฉบับขยาย)",
+   "id": "Undang-Undang Organik Daerah Otonom Muslim Mindanao (Diperluas)",
+   "ms": "Undang-Undang Organik Wilayah Autonomi Islam Mindanao (Diperluas)"
+  },
+  "PH-H5262": {
+   "vi": "Luật Tổ chức Vùng Tự trị Cordillera",
+   "th": "กฎหมายจัดตั้งเขตปกครองตนเองคอร์ดิเยรา",
+   "id": "Undang-Undang Organik Daerah Otonom Cordillera",
+   "ms": "Undang-Undang Organik Wilayah Autonomi Cordillera"
+  },
+  "PH-H274": {
+   "vi": "Bộ luật Bầu cử (sửa đổi)",
+   "th": "ประมวลกฎหมายการเลือกตั้ง (ฉบับปรับปรุง)",
+   "id": "Kitab Undang-Undang Pemilihan (Revisi)",
+   "ms": "Kanun Undang-Undang Pilihan Raya (Semakan)"
+  },
+  "PH-H5231": {
+   "vi": "Luật Tổ chức Vùng Tự trị Hồi giáo Mindanao",
+   "th": "กฎหมายจัดตั้งเขตปกครองตนเองมุสลิมมินดาเนา",
+   "id": "Undang-Undang Organik Daerah Otonom Muslim Mindanao",
+   "ms": "Undang-Undang Organik Wilayah Autonomi Islam Mindanao"
+  },
+  "PH-CORPORATION-2019": {
+   "vi": "Bộ luật Doanh nghiệp (sửa đổi)",
+   "th": "ประมวลกฎหมายบริษัท (ฉบับปรับปรุง)",
+   "id": "Kitab Undang-Undang Perusahaan (Revisi)",
+   "ms": "Kanun Undang-Undang Syarikat (Semakan)"
+  },
+  "PH-H3148": {
+   "vi": "Bộ luật Cải cách Ruộng đất Nông nghiệp",
+   "th": "ประมวลกฎหมายปฏิรูปที่ดินเพื่อเกษตรกรรม",
+   "id": "Kitab Undang-Undang Reformasi Agraria",
+   "ms": "Kanun Undang-Undang Pembaharuan Tanah Pertanian"
+  },
+  "PH-H8479": {
+   "vi": "Đạo luật về Người lao động Di trú và Người Philippines ở Nước ngoài năm 2009 (sửa đổi)",
+   "th": "พระราชบัญญัติแรงงานอพยพและชาวฟิลิปปินส์ในต่างประเทศ ค.ศ. 2009 (ฉบับแก้ไข)",
+   "id": "Undang-Undang Pekerja Migran dan Warga Filipina di Luar Negeri Tahun 2009 (Perubahan)",
+   "ms": "Akta Pekerja Migran dan Rakyat Filipina di Luar Negara 2009 (Pindaan)"
+  },
+  "PH-H1769": {
+   "vi": "Luật Cơ bản về Hợp tác xã",
+   "th": "พระราชบัญญัติพื้นฐานสหกรณ์ทั่วไป",
+   "id": "Undang-Undang Dasar Koperasi Umum",
+   "ms": "Akta Asas Koperasi Am"
+  },
+  "PH-H6912": {
+   "vi": "Đạo luật Thành lập Vùng Tự trị Cordillera",
+   "th": "พระราชบัญญัติจัดตั้งเขตปกครองตนเองคอร์ดิเยรา",
+   "id": "Undang-Undang Pembentukan Daerah Otonom Cordillera",
+   "ms": "Akta Penubuhan Wilayah Autonomi Cordillera"
+  },
+  "PH-H8599": {
+   "vi": "Đạo luật Phục hồi Tài chính và Phá sản năm 2010",
+   "th": "พระราชบัญญัติการฟื้นฟูทางการเงินและล้มละลาย ค.ศ. 2010",
+   "id": "Undang-Undang Rehabilitasi Keuangan dan Kepailitan Tahun 2010",
+   "ms": "Akta Pemulihan Kewangan dan Insolvensi 2010"
+  },
+  "PH-H359": {
+   "vi": "Đạo luật Thành lập Ngân hàng Trung ương Philippines",
+   "th": "พระราชบัญญัติจัดตั้งธนาคารกลางฟิลิปปินส์",
+   "id": "Undang-Undang Pembentukan Bank Sentral Filipina",
+   "ms": "Akta Penubuhan Bank Pusat Filipina"
+  },
+  "PH-H6134": {
+   "vi": "Đạo luật mới về Ngân hàng Trung ương",
+   "th": "พระราชบัญญัติธนาคารกลางฉบับใหม่",
+   "id": "Undang-Undang Baru Bank Sentral",
+   "ms": "Akta Baharu Bank Pusat"
+  },
+  "PH-H7020": {
+   "vi": "Bộ luật Thủy sản Philippines năm 1998",
+   "th": "ประมวลกฎหมายการประมงฟิลิปปินส์ ค.ศ. 1998",
+   "id": "Kitab Undang-Undang Perikanan Filipina Tahun 1998",
+   "ms": "Kanun Undang-Undang Perikanan Filipina 1998"
+  },
+  "PH-H5428": {
+   "vi": "Bộ luật Hợp tác xã Philippines",
+   "th": "ประมวลกฎหมายสหกรณ์ฟิลิปปินส์",
+   "id": "Kitab Undang-Undang Koperasi Filipina",
+   "ms": "Kanun Undang-Undang Koperasi Filipina"
+  },
+  "PH-H6909": {
+   "vi": "Đạo luật Hiện đại hóa Nông nghiệp và Thủy sản năm 1997",
+   "th": "พระราชบัญญัติการพัฒนาการเกษตรและการประมงให้ทันสมัย ค.ศ. 1997",
+   "id": "Undang-Undang Modernisasi Pertanian dan Perikanan Tahun 1997",
+   "ms": "Akta Pemodenan Pertanian dan Perikanan 1997"
+  },
+  "PH-H10403": {
+   "vi": "Đạo luật Cải cách Mua sắm Chính phủ (sửa đổi)",
+   "th": "พระราชบัญญัติปฏิรูปการจัดซื้อจัดจ้างภาครัฐ (ฉบับแก้ไข)",
+   "id": "Undang-Undang Reformasi Pengadaan Pemerintah (Perubahan)",
+   "ms": "Akta Pembaharuan Perolehan Kerajaan (Pindaan)"
+  },
+  "PH-H10700": {
+   "vi": "Đạo luật Phân bổ Ngân sách Hoạt động của Chính phủ năm 2026",
+   "th": "พระราชบัญญัติจัดสรรงบประมาณการดำเนินงานของรัฐบาล ค.ศ. 2026",
+   "id": "Undang-Undang Pengalokasian Anggaran Penyelenggaraan Pemerintahan Tahun 2026",
+   "ms": "Akta Peruntukan Wang Pentadbiran Kerajaan 2026"
+  },
+  "PH-H8052": {
+   "vi": "Đạo luật Du lịch năm 2009",
+   "th": "พระราชบัญญัติการท่องเที่ยว ค.ศ. 2009",
+   "id": "Undang-Undang Pariwisata Tahun 2009",
+   "ms": "Akta Pelancongan 2009"
+  },
+  "PH-H10370": {
+   "vi": "Đạo luật Phân bổ Ngân sách Hoạt động của Chính phủ năm 2024",
+   "th": "พระราชบัญญัติจัดสรรงบประมาณการดำเนินงานของรัฐบาล ค.ศ. 2024",
+   "id": "Undang-Undang Pengalokasian Anggaran Penyelenggaraan Pemerintahan Tahun 2024",
+   "ms": "Akta Peruntukan Wang Pentadbiran Kerajaan 2024"
+  },
+  "PH-H3160": {
+   "vi": "Đạo luật sửa đổi Hiến chương Thành phố Cebu",
+   "th": "พระราชบัญญัติแก้ไขกฎบัตรเมือง Cebu",
+   "id": "Undang-Undang mengubah Piagam Kota Cebu",
+   "ms": "Akta meminda Piagam Bandaraya Cebu"
+  },
+  "PH-H10713": {
+   "vi": "Quy tắc Tố tụng về Các vụ án Sở hữu Trí tuệ (sửa đổi) năm 2020",
+   "th": "ข้อกำหนดวิธีพิจารณาคดีทรัพย์สินทางปัญญา (ฉบับปรับปรุง) ค.ศ. 2020",
+   "id": "Peraturan Tata Cara Perkara Kekayaan Intelektual (Revisi) Tahun 2020",
+   "ms": "Kaedah Prosedur Kes Harta Intelek (Semakan) 2020"
+  },
+  "PH-H2674": {
+   "vi": "Đạo luật sửa đổi Hiến chương Thành phố Tacloban và cho các mục đích khác",
+   "th": "พระราชบัญญัติแก้ไขกฎบัตรเมือง Tacloban และเพื่อวัตถุประสงค์อื่น",
+   "id": "Undang-Undang mengubah Piagam Kota Tacloban dan untuk tujuan lain",
+   "ms": "Akta meminda Piagam Bandaraya Tacloban dan untuk tujuan lain"
+  },
+  "PH-H9398": {
+   "vi": "Đạo luật Điều chỉnh Mức Tiền phạt và Giá trị Tài sản làm Căn cứ Xác định Hình phạt",
+   "th": "พระราชบัญญัติปรับปรุงจำนวนค่าปรับและมูลค่าทรัพย์สินที่ใช้เป็นฐานในการกำหนดโทษ",
+   "id": "Undang-Undang Penyesuaian Nilai Denda dan Harta sebagai Dasar Penetapan Hukuman",
+   "ms": "Akta Penyelarasan Nilai Denda dan Harta sebagai Asas Penetapan Hukuman"
+  },
+  "PH-H390": {
+   "vi": "Đạo luật Tư pháp năm 1948",
+   "th": "พระราชบัญญัติตุลาการ ค.ศ. 1948",
+   "id": "Undang-Undang Peradilan Tahun 1948",
+   "ms": "Akta Kehakiman 1948"
+  },
+  "PH-H4294": {
+   "vi": "Đạo luật thành lập Thành phố Batangas",
+   "th": "พระราชบัญญัติจัดตั้งเมือง Batangas",
+   "id": "Undang-Undang membentuk Kota Batangas",
+   "ms": "Akta mewujudkan Bandaraya Batangas"
+  },
+  "PH-H4644": {
+   "vi": "Đạo luật thành lập Thành phố San Jose",
+   "th": "พระราชบัญญัติจัดตั้งเมือง San Jose",
+   "id": "Undang-Undang membentuk Kota San Jose",
+   "ms": "Akta mewujudkan Bandaraya San Jose"
+  },
+  "PH-H500": {
+   "vi": "Hiến chương Thành phố Manila (sửa đổi)",
+   "th": "กฎบัตรเมือง Manila (ฉบับแก้ไข)",
+   "id": "Piagam Kota Manila (Revisi)",
+   "ms": "Piagam Bandaraya Manila (Semakan)"
+  }
+ }
+}

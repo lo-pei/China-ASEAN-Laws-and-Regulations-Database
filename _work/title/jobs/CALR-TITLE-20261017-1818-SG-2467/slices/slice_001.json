@@ -1,0 +1,956 @@
+{
+ "jobId": "CALR-TITLE-20261017-1818-SG-2467",
+ "shard": 1,
+ "items": [
+  {
+   "id": "SG-H1165",
+   "en": "Development Fund Act 1959",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H327",
+   "en": "Boy Scouts Association Act 1926",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H443",
+   "en": "Carriage of Goods by Sea Act 1972",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3624",
+   "en": "Roman Catholic Archbishop Act 1975",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3172",
+   "en": "Merchant Shipping (Fees) Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H639",
+   "en": "Civil Defence Force Fund Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1396",
+   "en": "Estate Agents (Fees) Regulations 2010",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1522",
+   "en": "Films (Classification Ratings) Order 2021",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H331",
+   "en": "Broadcasting (Class Licence) Notification",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H199",
+   "en": "Animals and Birds (Importation) Order 2009",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H509",
+   "en": "Central Provident Fund (Exemption) Order 2018",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H747",
+   "en": "Common Gaming Houses (Exemption) Notification",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1204",
+   "en": "Education (Schools Magazines) Regulations 1959",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1532",
+   "en": "Films (Film Content Assessor) Regulations 2019",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H439",
+   "en": "Carriage by Air (Parties to Conventions) Order",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1591",
+   "en": "Fire Safety (Fire Safety Engineers) Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H271",
+   "en": "Attorney-General (Additional Functions) Act 2014",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3215",
+   "en": "Methodist Episcopal Location Board Ordinance 1908",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H572",
+   "en": "Charities (Registration of Charities) Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2105",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2006",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3200",
+   "en": "Merchant Shipping (Seamen’s Allotments) Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3195",
+   "en": "Merchant Shipping (Provisions and Water) Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H251",
+   "en": "Arbitration (International Investment Disputes) Rules",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H859",
+   "en": "Coroners (Remuneration of Assessors) Regulations 2010",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H257",
+   "en": "Architects (Professional Conduct and Ethics) Rules 2001",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3151",
+   "en": "Mental Capacity (Public Guardian Fees) Regulations 2010",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3485",
+   "en": "Parks and Trees (Planting Areas) (Exemption) Order 2019",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1306",
+   "en": "Energy Conservation (Registrable Corporations) Order 2013",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H160",
+   "en": "Air Navigation (Exemption for Project KESTREL) Order 2026",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1626",
+   "en": "Goods and Services Tax (Excluded Transactions) Order 1994",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2038",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2012",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2077",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2015",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2089",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 7) Order 2007",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3201",
+   "en": "Merchant Shipping (Seamen’s Wages and Accounts) Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1520",
+   "en": "Films (Class Licence for Video Games Distribution) Order 2019",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3137",
+   "en": "Medicines (Prohibition of Sale, Supply and Importation) Order",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3243",
+   "en": "Misuse of Drugs (Urine Specimens and Urine Tests) Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2888",
+   "en": "Interpretation (Delegations by Minister for Finance) Order 2024",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2255",
+   "en": "Income Tax (Filing of Estimates of Chargeable Income) Rules 2017",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3242",
+   "en": "Misuse of Drugs (Singapore Armed Forces) (Exemption) Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3636",
+   "en": "Secretary of the Synod of the Diocese of Singapore Ordinance 1959",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H627",
+   "en": "Civil Aviation Authority of Singapore (Service Charge) Order 2009",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3128",
+   "en": "Medicines (Export Licence for Psychotropic Substances) Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3326",
+   "en": "National Registry of Diseases (Cancer Notification) Regulations 2009",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H495",
+   "en": "Central Provident Fund (Closure of Special Account) Regulations 2025",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H590",
+   "en": "Children and Young Persons (Juvenile Case Conference) Regulations 2001",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2794",
+   "en": "Insolvency, Restructuring and Dissolution (Receivership) Regulations 2020",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3212",
+   "en": "Merchant Shipping (Wreck Removal) (Compulsory Insurance) Regulations 2017",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3548",
+   "en": "Planning (Enterprise District — Lodgment Authorisation) Notification 2020",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H387",
+   "en": "Building Maintenance and Strata Management (Strata Units) Regulations 2005",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H757",
+   "en": "Community Disputes Resolution (Appeals under Section 13W) Regulations 2025",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1178",
+   "en": "Diplomatic and Consular Relations (Permanent Court of Arbitration) Order 2007",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H371",
+   "en": "Building Control (Regulating Fixed Installation Contractors) Regulations 2022",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1523",
+   "en": "Films (Classification — Exempt Films Other than Video Games) Notification 2019",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2937",
+   "en": "Land Betterment Charge (Concessionary Relief — Golden Mile Complex) Order 2024",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H929",
+   "en": "Criminal Procedure Code (Pleading Guilty by Electronic Means) Regulations 2010",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1340",
+   "en": "Environmental Protection and Management (Prescribed Regulated Goods) Order 2022",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1655",
+   "en": "Guns, Explosives and Weapons Control (Aviation Industry — Exemption) Order 2025",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3327",
+   "en": "National Registry of Diseases (Chronic Kidney Failure Notification) Regulations 2011",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1797",
+   "en": "Housing and Development (Penalties for Late Payment — Markets and Food Centres) Rules",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3542",
+   "en": "Planning (Development of Land Authorisation for Specified Property) Notification 2015",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1954",
+   "en": "Income Tax (Concessionary Rate of Tax for Approved Insurance Brokers) Regulations 2009",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H474",
+   "en": "Casino Control (Problem Gambling — Saving and Transitional Provisions) Regulations 2026",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3325",
+   "en": "National Registry of Diseases (Acute Myocardial Infarction Notification) Regulations 2012",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1951",
+   "en": "Income Tax (Concessionary Rate of Tax for Approved Finance and Treasury Centre) Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2876",
+   "en": "International Organisations (Immunities and Privileges) (Universal Postal Union) Order 1955",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1176",
+   "en": "Diplomatic and Consular Relations (International Tribunal for the Law of the Sea) Order 2023",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H624",
+   "en": "Civil Aviation Authority of Singapore (Savings and Transitional Provisions) Regulations 2009",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H069",
+   "en": "Active Mobility (Dealing in Personal Mobility Devices and Mobility Vehicles) Regulations 2018",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2855",
+   "en": "International Organisations (Immunities and Privileges) (Commonwealth Secretariat) Order 2008",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3094",
+   "en": "Maritime and Port Authority of Singapore (Scale of Dues, Rates and General Fees) Notification",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1658",
+   "en": "Guns, Explosives and Weapons Control (Explosive Precursor Disposal — Class Licence) Order 2025",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1952",
+   "en": "Income Tax (Concessionary Rate of Tax for Approved Finance and Treasury Centre) Regulations 2017",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2864",
+   "en": "International Organisations (Immunities and Privileges) (International Monetary Fund) Order 2008",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3139",
+   "en": "Medicines (Traditional Medicines, Homoeopathic Medicines and other Substances) (Exemption) Order",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H842",
+   "en": "Control of Vectors and Pesticides (Specified Mosquito Control Work — Exemption) Regulations 2026",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2125",
+   "en": "Income Tax (Exemption of Income of Foreign Account of Philanthropic Purpose Trust) Regulations 2007",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3531",
+   "en": "Planning (Change in Use Authorisation for People’s Association Community Centres) Notification 2026",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H078",
+   "en": "Active Mobility (Exemption for Use of Vehicle on Specified Footpath — Marina Bay) (No. 2) Order 2022",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1972",
+   "en": "Income Tax (Concessionary Rate of Tax or Exemption for Income Derived from Debt Securities) Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3163",
+   "en": "Merchant Shipping (Civil Liability and Compensation for Oil Pollution) (Compulsory Insurance) Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1657",
+   "en": "Guns, Explosives and Weapons Control (Dealing in Certain Lower-risk Explosives — Class Licence) Order 2025",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2866",
+   "en": "International Organisations (Immunities and Privileges) (International Telecommunications Union) Order 1955",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H1961",
+   "en": "Income Tax (Concessionary Rate of Tax for Foreign Income of Approved Container Investment Enterprise) Order 2017",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H3161",
+   "en": "Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) (Compulsory Insurance) Regulations",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H2144",
+   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 2) Notification 2003",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H875",
+   "en": "Corruption, Drug Trafficking and Other Serious Crimes (Cross Border Movements of Physical Currency and Bearer Negotiable Instruments) Regulations 2007",
+   "hint": "7 条"
+  },
+  {
+   "id": "SG-H308",
+   "en": "Bills of Lading Act 1992",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1507",
+   "en": "Fees (Property Tax) Order",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1739",
+   "en": "Highway (Revision) Code 2019",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1639",
+   "en": "Government Contracts Act 1966",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H318",
+   "en": "Bishop of Singapore Ordinance 1911",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3609",
+   "en": "Redemptorist Fathers Ordinance 1948",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H915",
+   "en": "Criminal Law (Identity Cards) Rules",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1881",
+   "en": "Hydrogen Cyanide (Fumigation) Act 1947",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H343",
+   "en": "Brothers of St. Gabriel Ordinance 1950",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H080",
+   "en": "Active Mobility (Fees) Regulations 2018",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1048",
+   "en": "Customs (Duties — Exemption) Order 2021",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1494",
+   "en": "Fees (Government Columbaria) Order 2024",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1694",
+   "en": "Health Products (Exemptions) Order 2016",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2748",
+   "en": "Inheritance (Family Provision) Act 1966",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H567",
+   "en": "Charities (Large Charities) Regulations",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1894",
+   "en": "Immigration (Prohibition of Entry) Order",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3072",
+   "en": "Manufacture of Optical Discs Regulations",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H632",
+   "en": "Civil Defence (Appeals) Regulations 2019",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H114",
+   "en": "Active Mobility (Shared Paths) Order 2018",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3219",
+   "en": "Military Manoeuvres (Firing Ground) Rules",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H602",
+   "en": "Chit Funds (Advertisements) Regulations 1972",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3102",
+   "en": "Massage Establishments (Exemption) Order 2018",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H679",
+   "en": "Co-operative Societies (Exemption) Order 2010",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H957",
+   "en": "Cross-Border Railways (Fees) Regulations 2020",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1710",
+   "en": "Healthcare Services (Appeals) Regulations 2022",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1682",
+   "en": "Harbour Board Superannuation Scheme Regulations",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1746",
+   "en": "Hire-Purchase (Motor Vehicles) Regulations 2013",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3012",
+   "en": "Legal Profession (Solicitors’ Remuneration) Order",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1628",
+   "en": "Goods and Services Tax (Imports Relief) Order 1994",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1795",
+   "en": "Housing and Development (Mortgage to Lender) Rules",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3629",
+   "en": "Sale of Goods (United Nations Convention) Act 1995",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H462",
+   "en": "Casino Control (Internal Controls) Regulations 2013",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H475",
+   "en": "Casino Control (Proceedings of Authority) Rules 2008",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1264",
+   "en": "Employment (Retrenchment Reporting) Notification 2019",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3576",
+   "en": "Presbyterian Church of England Mission Ordinance 1903",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1236",
+   "en": "Employment (Administrative Penalties) Regulations 2016",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1512",
+   "en": "Fees (State Courts — Criminal Jurisdiction) Order 2014",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1638",
+   "en": "Government Contracts (Authorisation) Notification 2022",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2586",
+   "en": "Income Tax (Transfer Pricing Documentation) Rules 2018",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1290",
+   "en": "Endangered Species (Import and Export) (Fees) Rules 2026",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H159",
+   "en": "Air Navigation (Exemption for Project HORNET) Order 2026",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2891",
+   "en": "Interpretation (Delegations by Minister for Law) Order 2024",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1427",
+   "en": "Evidence (Civil Proceedings in Other Jurisdictions) Act 1979",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2298",
+   "en": "Income Tax (Land Intensification Allowance) Regulations 2012",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H339",
+   "en": "Broadcasting (Online Codes of Practice Procedure) Rules 2023",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H045",
+   "en": "Accountants (Prescribed Documents and Information) Rules 2024",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1799",
+   "en": "Housing and Development (Penalties — Rental Flats) Rules 2010",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2849",
+   "en": "International Interests in Aircraft Equipment Regulations 2026",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2889",
+   "en": "Interpretation (Delegations by Minister for Health) Order 2024",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2995",
+   "en": "Legal Profession (Legal Practice Management Course) Rules 2015",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H543",
+   "en": "Central Provident Fund (Service of Documents) Regulations 2024",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H592",
+   "en": "Children and Young Persons (Leave and Visits) Regulations 2026",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1357",
+   "en": "Environmental Public Health (Corrective Work Order) Regulations",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1765",
+   "en": "Housing and Development (Agreements for Sale and Purchase) Rules",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2826",
+   "en": "Insurance (Transitional and Savings Provisions) Regulations 2003",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2892",
+   "en": "Interpretation (Delegations by Minister for Manpower) Order 2024",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1320",
+   "en": "Enterprise Singapore Board (Certification Marks) Notification 2018",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H315",
+   "en": "Biological Agents and Toxins (Proficiency Testing) Regulations 2008",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3395",
+   "en": "Online Safety (Relief and Accountability) (Service) Regulations 2026",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H517",
+   "en": "Central Provident Fund (Medisave Account Transfers) Regulations 2016",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H325",
+   "en": "Boundaries and Survey Maps (Singapore Land Authority Fees) Rules 2005",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1364",
+   "en": "Environmental Public Health (Exempted Controlled Works) Regulations 2023",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3478",
+   "en": "Parking Places (Vehicle Removal, Storage and Release Charges) Rules 2018",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1386",
+   "en": "Environmental Public Health (Specified Construction Sites) Regulations 2021",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1629",
+   "en": "Goods and Services Tax (International Arrangements Relief) Notification 1994",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2893",
+   "en": "Interpretation (Delegations by Minister for National Development) Order 2024",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1181",
+   "en": "Diplomatic and Consular Relations (World Bank Group Organisations) Order 2020",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2278",
+   "en": "Income Tax (Income from Funds Managed for Foreign Investors) Regulations 2003",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H912",
+   "en": "Criminal Justice Reform (Saving and Transitional Provisions) Regulations 2018",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3126",
+   "en": "Medicines (Cessation of Application of Act to Therapeutic Products) Order 2016",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1665",
+   "en": "Guns, Explosives and Weapons Control (Maritime Industry — Exemption) Order 2025",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1328",
+   "en": "Environmental Protection and Management (Exempted Controlled Works) Regulations 2023",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2781",
+   "en": "Insolvency, Restructuring and Dissolution (Late Lodgment Penalties) Regulations 2020",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2894",
+   "en": "Interpretation (Delegations by Minister for Social and Family Development) Order 2024",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H382",
+   "en": "Building Maintenance and Strata Management (HDB Privatised Estates — Exemption) Order",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H921",
+   "en": "Criminal Procedure (Saving and Transitional Provisions — Disclosure) Regulations 2025",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1955",
+   "en": "Income Tax (Concessionary Rate of Tax for Approved Insurance Brokers) Regulations 2017",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2601",
+   "en": "Infectious Diseases (Certificates of Vaccination or Other Prophylaxis) Regulations 2008",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H894",
+   "en": "COVID-19 (Temporary Measures) (Prescribed Matters for Second Schedule) Regulations 2021",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H333",
+   "en": "Broadcasting (Exemption of Broadcasting Services by Educational Institutions) Order 2010",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1283",
+   "en": "Employment of Foreign Manpower (Work Pass Exemptions — Specified Activities) Notification",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3386",
+   "en": "Online Safety (Relief and Accountability) (Damages in Court Proceedings) Regulations 2026",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2279",
+   "en": "Income Tax (Income from Syndicated Offshore Credit and Underwriting Facilities) Regulations",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H079",
+   "en": "Active Mobility (Exemption for Use of Vehicle on Specified Footpath — Marina Bay) Order 2022",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1870",
+   "en": "Human Biomedical Research (Requirements for Appropriate Consent — Exemption) Regulations 2019",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2746",
+   "en": "Infrastructure Protection (Special Developments and Special Infrastructures) Regulations 2018",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3040",
+   "en": "Liquor Control (Supply and Consumption) (Saving and Transitional Provisions) Regulations 2015",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2012",
+   "en": "Income Tax (Exemption of Foreign Income of Approved Shipping Investment Enterprise) Order 2023",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1464",
+   "en": "Extradition (United Nations Convention against Transnational Organised Crime) Notification 2022",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2767",
+   "en": "Insolvency, Restructuring and Dissolution (Assignment of Proceeds of an Action) Regulations 2020",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H384",
+   "en": "Building Maintenance and Strata Management (Small Management Corporations — Exemption) Order 2018",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1574",
+   "en": "Financial Services and Markets (Prescribed Financial Institutions under Section 49) Regulations 2024",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1677",
+   "en": "Guns, Explosives and Weapons Control (Transporting for Animal Management — Class Licence) Order 2025",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2617",
+   "en": "Info-communications Media Development Authority (Saving and Transitional Provisions) Regulations 2016",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3067",
+   "en": "Maintenance Orders (Reciprocal Enforcement) (Designation of Reciprocating Countries) Notification 2016",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H054",
+   "en": "Accounting and Corporate Regulatory Authority (Information, Documents and Notification) Regulations 2024",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1908",
+   "en": "Income Tax (Adjustment on Change of Basis of Computing Taxable Surplus of Life Insurers) Regulations 2009",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H502",
+   "en": "Central Provident Fund (Dependants’ Protection Insurance Scheme — Transfer of Liabilities) Regulations 2005",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1546",
+   "en": "Financial Advisers (Exemption for Cross-Border Arrangements) (Foreign Related Corporations) Regulations 2021",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H3082",
+   "en": "Maritime and Port Authority of Singapore (Fees for Replacement or Certified Copy of Licence) Notification 2022",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H1698",
+   "en": "Health Products (Medical Devices and Therapeutic Products for World Aquatics Delegations — Exemption) Order 2025",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H2773",
+   "en": "Insolvency, Restructuring and Dissolution (Electronic Meeting and Resolution by Correspondence) Regulations 2020",
+   "hint": "6 条"
+  },
+  {
+   "id": "SG-H876",
+   "en": "Corruption, Drug Trafficking and Other Serious Crimes (Disclosure of Documents and Information) Regulations 2015",
+   "hint": "6 条"
+  }
+ ]
+}

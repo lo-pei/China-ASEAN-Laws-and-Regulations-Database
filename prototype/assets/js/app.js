@@ -18,13 +18,10 @@
   };
   var THEME_LABEL = { light: '浅色', dark: '深色' };
 
-  /* 顶部导航：主页 / 法律检索 / 跨语言比对 / AI 智能查询 */
+  /* 顶部导航：主页 / 法律检索 / AI 智能查询 */
   var NAV = [
     { path: '/', label: '主页', view: 'home' },
     { path: '/search', label: '法律检索', view: 'search' },
-    /* 跨语言比对页面此前早已实现（/compare），但没有入口，界面上点不到。
-       放在导航第三位：它是最能体现「中国—东盟」跨法域价值的差异化功能。 */
-    { path: '/compare', label: '跨语言比对', view: 'compare' },
     { path: '/assistant', label: 'AI 智能查询', view: 'assistant' }
   ];
 
@@ -105,12 +102,20 @@
         }).join('') + '</nav>' +
         '<div class="header__tools">' +
           '<button class="nav-toggle" id="nav-toggle" type="button" aria-expanded="false" aria-label="' + U().attr(t('展开导航')) + '">' + CALR.ui.icon('menu') + '</button>' +
-          '<label class="sr-only" for="ui-lang">' + U().esc(t('界面语言')) + '</label>' +
-          '<select class="select lang-select" id="ui-lang" title="' + U().attr(t('界面语言')) + '">' +
-            CALR.i18n.langs().map(function (l) {
-              return '<option value="' + U().esc(l.code) + '"' + (l.code === CALR.i18n.lang() ? ' selected' : '') + '>' + U().esc(l.native) + '</option>';
-            }).join('') +
-          '</select>' +
+          '<label class="sr-only" for="ui-lang-btn">' + U().esc(t('界面语言')) + '</label>' +
+          '<div class="lang-dd" id="lang-dd">' +
+            '<button class="lang-dd__btn" id="ui-lang-btn" type="button" aria-haspopup="listbox" aria-expanded="false" title="' + U().attr(t('界面语言')) + '">' +
+              '<span class="lang-dd__native">' + U().esc(CALR.i18n.langInfo().native) + '</span>' +
+              '<span class="lang-dd__caret" aria-hidden="true"></span>' +
+            '</button>' +
+            '<div class="lang-dd__menu" id="ui-lang-menu" role="listbox" aria-labelledby="ui-lang-btn" hidden>' +
+              CALR.i18n.langs().map(function (l) {
+                var on = l.code === CALR.i18n.lang();
+                return '<button type="button" class="lang-dd__opt' + (on ? ' is-active' : '') + '" role="option" data-lang="' + U().attr(l.code) + '" aria-selected="' + (on ? 'true' : 'false') + '">' +
+                  '<span>' + U().esc(l.native) + '</span><span class="lang-dd__code">' + U().esc(l.code.toUpperCase()) + '</span></button>';
+              }).join('') +
+            '</div>' +
+          '</div>' +
           /* 外观切换：单击在 浅色 ⇄ 深色 之间切换 */
           '<button class="icon-btn" id="theme-btn" type="button" ' +
             'title="' + U().attr(t('外观') + '：' + t(THEME_LABEL[mode])) + '" ' +
@@ -119,7 +124,35 @@
         '</div>' +
       '</div>';
 
-    U().on(U().$('#ui-lang', host), 'change', function (e) { CALR.i18n.setLang(e.target.value); });
+    var langDD = U().$('#lang-dd', host);
+    var langBtn = U().$('#ui-lang-btn', host);
+    var langMenu = U().$('#ui-lang-menu', host);
+    function closeLang(open) {
+      if (!langMenu) return;
+      var isOpen = !!open;
+      langMenu.hidden = !isOpen;
+      if (langBtn) langBtn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      if (langDD) langDD.classList.toggle('is-open', isOpen);
+    }
+    if (langBtn) U().on(langBtn, 'click', function (e) {
+      e.stopPropagation();
+      closeLang(langMenu.hidden);
+    });
+    U().$$('[data-lang]', host).forEach(function (b) {
+      U().on(b, 'click', function (e) {
+        e.stopPropagation();
+        closeLang(false);
+        CALR.i18n.setLang(b.getAttribute('data-lang'));
+      });
+    });
+    if (langDD) U().on(langDD, 'keydown', function (e) {
+      if (e.key === 'Escape') { closeLang(false); if (langBtn) langBtn.focus(); }
+    });
+    if (host._langOutside) document.removeEventListener('click', host._langOutside);
+    host._langOutside = function (e) {
+      if (langDD && !langDD.contains(e.target)) closeLang(false);
+    };
+    document.addEventListener('click', host._langOutside);
 
     /* 单击循环切换外观：浅色 → 深色 → 跟随系统 → 浅色 */
     U().on(U().$('#theme-btn', host), 'click', cycleTheme);
@@ -190,7 +223,7 @@
           '<div class="footer__brand">' +
             '<div class="footer__brandtitle">' + U().esc(t('中国—东盟法律法规数据库')) + '</div>' +
             '<p class="footer__branddesc">' +
-              U().esc(t('面向东盟十一国与中国共十二个法域的法律法规检索平台，提供法规查询、跨语言条款比对与法律术语对照。')) +
+              U().esc(t('面向东盟十一国与中国共十二个法域的法律法规检索平台，提供法规查询、智能问答与规范引注。')) +
             '</p>' +
             '<div class="footer__contact">' +
               '<span class="footer__contactlabel">' + U().esc(t('联系方式')) + '</span>' +

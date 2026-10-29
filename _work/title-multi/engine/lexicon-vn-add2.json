@@ -1,0 +1,719 @@
+{
+ "_note": "VN 法律标题主题词（P–Đ），含税法系列与组织法系列",
+ "subjects": {
+  "Phá sản": {
+   "zh": "破产",
+   "en": "bankruptcy",
+   "th": "การล้มละลาย",
+   "id": "Kepailitan",
+   "ms": "Kebankrapan"
+  },
+  "Phá sản doanh nghiệp": {
+   "zh": "企业破产",
+   "en": "enterprise bankruptcy",
+   "th": "การล้มละลายของวิสาหกิจ",
+   "id": "Kepailitan Perseroan",
+   "ms": "Kebankrapan Perusahaan"
+  },
+  "Phòng cháy và chữa cháy": {
+   "zh": "消防",
+   "en": "fire prevention and fighting",
+   "th": "การป้องกันและดับเพลิง",
+   "id": "Pencegahan dan Penanggulangan Kebakaran",
+   "ms": "Pencegahan dan Pemadaman Kebakaran"
+  },
+  "Phòng cháy, chữa cháy và cứu nạn, cứu hộ": {
+   "zh": "消防与救援",
+   "en": "fire prevention and fighting, rescue and salvage",
+   "th": "การป้องกันและดับเพลิง การกู้ภัยและกู้ชีพ",
+   "id": "Pencegahan Kebakaran serta Penyelamatan dan Pertolongan",
+   "ms": "Pencegahan Kebakaran serta Penyela Matan dan Penyelamatan"
+  },
+  "Phòng không nhân dân": {
+   "zh": "人民防空",
+   "en": "people's air defence",
+   "th": "การป้องกันทางอากาศของประชาชน",
+   "id": "Pertahanan Udara Rakyat",
+   "ms": "Pertahanan Udara Rakyat"
+  },
+  "Phòng, chống bạo lực gia đình": {
+   "zh": "反家庭暴力",
+   "en": "prevention and combating of domestic violence",
+   "th": "การป้องกันและปราบปรามความรุนแรงในครอบครัว",
+   "id": "Pencegahan dan Penanggulangan Kekerasan dalam Rumah Tangga",
+   "ms": "Pencegahan dan Pembanterasan Keganasan Rumah Tangga"
+  },
+  "Phòng, chống bệnh truyền nhiễm": {
+   "zh": "传染病防治",
+   "en": "prevention and control of infectious diseases",
+   "th": "การป้องกันและควบคุมโรคติดต่อ",
+   "id": "Pencegahan dan Pengendalian Penyakit Menular",
+   "ms": "Pencegahan dan Kawalan Penyakit Berjangkit"
+  },
+  "Phòng, chống ma túy": {
+   "zh": "禁毒",
+   "en": "drug prevention and control",
+   "th": "การป้องกันและปราบปรามยาเสพติด",
+   "id": "Pencegahan dan Pemberantasan Narkotika",
+   "ms": "Pencegahan dan Pembanterasan Dadah"
+  },
+  "Phòng, chống mua bán người": {
+   "zh": "反人口贩运",
+   "en": "prevention and combating of human trafficking",
+   "th": "การป้องกันและปราบปรามการค้ามนุษย์",
+   "id": "Pencegahan dan Pemberantasan Perdagangan Orang",
+   "ms": "Pencegahan dan Pembanterasan Pemerdagangan Orang"
+  },
+  "Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS)": {
+   "zh": "艾滋病防治",
+   "en": "prevention and control of HIV/AIDS",
+   "th": "การป้องกันและควบคุมโรคเอดส์",
+   "id": "Pencegahan dan Pengendalian HIV/AIDS",
+   "ms": "Pencegahan dan Kawalan HIV/AIDS"
+  },
+  "Phòng, chống rửa tiền": {
+   "zh": "反洗钱",
+   "en": "anti-money laundering",
+   "th": "การป้องกันและปราบปรามการฟอกเงิน",
+   "id": "Pencegahan dan Pemberantasan Pencucian Uang",
+   "ms": "Pencegahan dan Pembanterasan Pengubahan Wang Haram"
+  },
+  "Phòng, chống tham nhũng": {
+   "zh": "反腐败",
+   "en": "anti-corruption",
+   "th": "การป้องกันและปราบปรามการทุจริต",
+   "id": "Pencegahan dan Pemberantasan Korupsi",
+   "ms": "Pencegahan dan Pembanterasan Rasuah"
+  },
+  "Phòng, chống tác hại của thuốc lá": {
+   "zh": "控制烟草危害",
+   "en": "prevention and control of tobacco harms",
+   "th": "การป้องกันและควบคุมอันตรายจากยาสูบ",
+   "id": "Pencegahan dan Pengendalian Bahaya Tembakau",
+   "ms": "Pencegahan dan Kawalan Bahaya Tembakau"
+  },
+  "Phổ biến, giáo dục pháp luật": {
+   "zh": "法制宣传与教育",
+   "en": "legal dissemination and education",
+   "th": "การเผยแพร่และให้การศึกษากฎหมาย",
+   "id": "Penyuluhan dan Pendidikan Hukum",
+   "ms": "Penyebaran dan Pendidikan Undang-Undang"
+  },
+  "Phổ cập giáo dục tiểu học": {
+   "zh": "普及小学教育",
+   "en": "universalisation of primary education",
+   "th": "การขยายการศึกษาประถมศึกษา",
+   "id": "Pemerataan Pendidikan Dasar",
+   "ms": "Peluasan Pendidikan Rendah"
+  },
+  "Quy hoạch": {
+   "zh": "规划",
+   "en": "planning",
+   "th": "การผัง",
+   "id": "Penataan Ruang",
+   "ms": "Perancangan"
+  },
+  "Quy hoạch đô thị": {
+   "zh": "城市规划",
+   "en": "urban planning",
+   "th": "การผังเมือง",
+   "id": "Penataan Ruang Kota",
+   "ms": "Perancangan Bandar"
+  },
+  "Quy hoạch đô thị và nông thôn": {
+   "zh": "城乡规划",
+   "en": "urban and rural planning",
+   "th": "การผังเมืองและชนบท",
+   "id": "Penataan Ruang Kota dan Desa",
+   "ms": "Perancangan Bandar dan Luar Bandar"
+  },
+  "Quản lý nợ công": {
+   "zh": "公共债务管理",
+   "en": "public debt management",
+   "th": "การบริหารหนี้สาธารณะ",
+   "id": "Pengelolaan Utang Negara",
+   "ms": "Pengurusan Hutang Awam"
+  },
+  "Quản lý thuế": {
+   "zh": "税收管理",
+   "en": "tax administration",
+   "th": "การบริหารภาษี",
+   "id": "Administrasi Perpajakan",
+   "ms": "Pentadbiran Cukai"
+  },
+  "Quản lý, bảo vệ công trình quốc phòng và khu quân sự": {
+   "zh": "国防工程与军事区的管理保护",
+   "en": "management and protection of defence works and military zones",
+   "th": "การบริหารและคุ้มครองสิ่งก่อสร้างป้องกันประเทศและเขตทหาร",
+   "id": "Pengelolaan dan Perlindungan Bangunan Pertahanan dan Kawasan Militer",
+   "ms": "Pengurusan dan Perlindungan Binaan Pertahanan dan Kawasan Tentera"
+  },
+  "Quản lý, sử dụng tài sản công": {
+   "zh": "公共财产管理与使用",
+   "en": "management and use of public assets",
+   "th": "การบริหารและใช้ทรัพย์สินสาธารณะ",
+   "id": "Pengelolaan dan Penggunaan Aset Publik",
+   "ms": "Pengurusan dan Penggunaan Aset Awam"
+  },
+  "Quản lý, sử dụng tài sản nhà nước": {
+   "zh": "国有财产管理与使用",
+   "en": "management and use of state assets",
+   "th": "การบริหารและใช้ทรัพย์สินของรัฐ",
+   "id": "Pengelolaan dan Penggunaan Aset Negara",
+   "ms": "Pengurusan dan Penggunaan Aset Negara"
+  },
+  "Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ": {
+   "zh": "武器、爆炸物与辅助工具的管理使用",
+   "en": "management and use of weapons, explosives and support tools",
+   "th": "การบริหารและใช้อาวุธ วัตถุระเบิด และเครื่องมือสนับสนุน",
+   "id": "Pengelolaan dan Penggunaan Senjata, Bahan Peledak dan Alat Pendukung",
+   "ms": "Pengurusan dan Penggunaan Senjata, Bahan Letupan dan Alat Sokongan"
+  },
+  "Quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp": {
+   "zh": "国家投入企业生产经营资金的管理使用",
+   "en": "management and use of state capital invested in production and business at enterprises",
+   "th": "การบริหารและใช้ทุนของรัฐที่ลงทุนในการผลิตและธุรกิจในวิสาหกิจ",
+   "id": "Pengelolaan dan Penggunaan Modal Negara yang Diinvestasikan dalam Produksi dan Usaha pada Perseroan",
+   "ms": "Pengurusan dan Penggunaan Modal Negara yang Dilaburkan dalam Pengeluaran dan Perniagaan di Perusahaan"
+  },
+  "Quảng cáo": {
+   "zh": "广告",
+   "en": "advertising",
+   "th": "การโฆษณา",
+   "id": "Periklanan",
+   "ms": "Pengiklanan"
+  },
+  "Quốc phòng": {
+   "zh": "国防",
+   "en": "national defence",
+   "th": "การป้องกันประเทศ",
+   "id": "Pertahanan Negara",
+   "ms": "Pertahanan Negara"
+  },
+  "Quốc tịch Việt Nam": {
+   "zh": "越南国籍",
+   "en": "Vietnamese nationality",
+   "th": "สัญชาติเวียดนาม",
+   "id": "Kewarganegaraan Vietnam",
+   "ms": "Kewarganegaraan Vietnam"
+  },
+  "Sĩ quan Quân đội nhân dân Việt Nam": {
+   "zh": "越南人民军军官",
+   "en": "officers of the Vietnam People's Army",
+   "th": "นายทหารกองทัพประชาชนเวียดนาม",
+   "id": "Perwira Tentara Rakyat Vietnam",
+   "ms": "Pegawai Tentera Rakyat Vietnam"
+  },
+  "Sở hữu trí tuệ": {
+   "zh": "知识产权",
+   "en": "intellectual property",
+   "th": "ทรัพย์สินทางปัญญา",
+   "id": "Kekayaan Intelektual",
+   "ms": "Harta Intelek"
+  },
+  "Sử dụng năng lượng tiết kiệm và hiệu quả": {
+   "zh": "能源的节约与高效利用",
+   "en": "economical and efficient use of energy",
+   "th": "การใช้พลังงานอย่างประหยัดและมีประสิทธิภาพ",
+   "id": "Penggunaan Energi yang Hemat dan Efisien",
+   "ms": "Penggunaan Tenaga yang Cekap dan Berkesan"
+  },
+  "Thanh tra": {
+   "zh": "监察",
+   "en": "inspection",
+   "th": "การตรวจสอบ",
+   "id": "Inspeksi",
+   "ms": "Pemeriksaan"
+  },
+  "Thi hành án dân sự": {
+   "zh": "民事判决执行",
+   "en": "execution of civil judgments",
+   "th": "การบังคับคดีแพ่ง",
+   "id": "Pelaksanaan Putusan Perdata",
+   "ms": "Pelaksanaan Penghakiman Sivil"
+  },
+  "Thi hành án hình sự": {
+   "zh": "刑事判决执行",
+   "en": "execution of criminal judgments",
+   "th": "การบังคับคดีอาญา",
+   "id": "Pelaksanaan Putusan Pidana",
+   "ms": "Pelaksanaan Hukuman Jenayah"
+  },
+  "Thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú": {
+   "zh": "临时拘留、临时羁押与禁止离开居住地措施的执行",
+   "en": "execution of temporary detention, temporary custody and prohibition of departure from residence",
+   "th": "การบังคับใช้การควบคุมตัวชั่วคราว การคุมขังชั่วคราว และการห้ามออกจากถิ่นที่อยู่",
+   "id": "Pelaksanaan Penahanan Sementara, Penahanan dan Larangan Meninggalkan Tempat Kediaman",
+   "ms": "Pelaksanaan Tahanan Sementara, Tahanan Reman dan Larangan Meninggalkan Tempat Kediaman"
+  },
+  "Thi đua, khen thưởng": {
+   "zh": "竞赛与奖励",
+   "en": "emulation and commendation",
+   "th": "การเชิดชูเกียรติและการให้รางวัล",
+   "id": "Kepeloporan dan Penghargaan",
+   "ms": "Pertandingan dan Ganjaran"
+  },
+  "Thi đua, khen thường": {
+   "zh": "竞赛与奖励",
+   "en": "emulation and commendation",
+   "th": "การเชิดชูเกียรติและการให้รางวัล",
+   "id": "Kepeloporan dan Penghargaan",
+   "ms": "Pertandingan dan Ganjaran"
+  },
+  "Thuế Chuyển quyền sử dụng đất": {
+   "zh": "土地使用权转让税",
+   "en": "tax on transfer of land use rights",
+   "th": "ภาษีการโอนสิทธิการใช้ที่ดิน",
+   "id": "Pajak Pengalihan Hak Guna Tanah",
+   "ms": "Cukai Pindahmilik Hak Guna Tanah"
+  },
+  "Thuế Doanh thu": {
+   "zh": "营业税",
+   "en": "turnover tax",
+   "th": "ภาษีการค้า",
+   "id": "Pajak Peredaran",
+   "ms": "Cukai Perolehan"
+  },
+  "Thuế Lợi tức": {
+   "zh": "利润税",
+   "en": "profits tax",
+   "th": "ภาษีกำไร",
+   "id": "Pajak Laba",
+   "ms": "Cukai Keuntungan"
+  },
+  "Thuế Tiêu thụ đặc biệt": {
+   "zh": "特别消费税",
+   "en": "special consumption tax",
+   "th": "ภาษีสรรพสามิต",
+   "id": "Pajak Barang Mewah",
+   "ms": "Cukai Barang Mewah"
+  },
+  "Thuế Xuất khẩu, thuế Nhập khẩu": {
+   "zh": "出口税与进口税",
+   "en": "export and import duties",
+   "th": "ภาษีส่งออกและภาษีนำเข้า",
+   "id": "Bea Keluar dan Bea Masuk",
+   "ms": "Duti Eksport dan Duti Import"
+  },
+  "Thuế bảo vệ môi trường": {
+   "zh": "环境保护税",
+   "en": "environmental protection tax",
+   "th": "ภาษีคุ้มครองสิ่งแวดล้อม",
+   "id": "Pajak Perlindungan Lingkungan Hidup",
+   "ms": "Cukai Perlindungan Alam Sekitar"
+  },
+  "Thuế giá trị gia tăng": {
+   "zh": "增值税",
+   "en": "value added tax",
+   "th": "ภาษีมูลค่าเพิ่ม",
+   "id": "Pajak Pertambahan Nilai",
+   "ms": "Cukai Barang dan Perkhidmatan"
+  },
+  "Thuế thu nhập cá nhân": {
+   "zh": "个人所得税",
+   "en": "personal income tax",
+   "th": "ภาษีเงินได้บุคคลธรรมดา",
+   "id": "Pajak Penghasilan Pribadi",
+   "ms": "Cukai Pendapatan Peribadi"
+  },
+  "Thuế thu nhập doanh nghiệp": {
+   "zh": "企业所得税",
+   "en": "corporate income tax",
+   "th": "ภาษีเงินได้นิติบุคคล",
+   "id": "Pajak Penghasilan Badan",
+   "ms": "Cukai Pendapatan Syarikat"
+  },
+  "Thuế tài nguyên": {
+   "zh": "资源税",
+   "en": "resource tax",
+   "th": "ภาษีทรัพยากร",
+   "id": "Pajak Sumber Daya Alam",
+   "ms": "Cukai Sumber Asli"
+  },
+  "Thuế xuất khẩu, thuế nhập khẩu hàng mậu dịch": {
+   "zh": "贸易货物进出口税",
+   "en": "export and import duties on commercial goods",
+   "th": "ภาษีส่งออกและนำเข้าสินค้าพาณิชย์",
+   "id": "Bea Keluar dan Bea Masuk Barang Dagangan",
+   "ms": "Duti Eksport dan Duti Import Barang Dagangan"
+  },
+  "Thương mại": {
+   "zh": "贸易",
+   "en": "trade",
+   "th": "การค้า",
+   "id": "Perdagangan",
+   "ms": "Perdagangan"
+  },
+  "Thể dục, thể thao": {
+   "zh": "体育",
+   "en": "sports",
+   "th": "กีฬา",
+   "id": "Olahraga",
+   "ms": "Sukan"
+  },
+  "Thống kê": {
+   "zh": "统计",
+   "en": "statistics",
+   "th": "สถิติ",
+   "id": "Statistik",
+   "ms": "Perangkaan"
+  },
+  "Thủ đô": {
+   "zh": "首都",
+   "en": "capital",
+   "th": "เมืองหลวง",
+   "id": "Ibu Kota",
+   "ms": "Ibu Negara"
+  },
+  "Thủy sản": {
+   "zh": "水产业",
+   "en": "fisheries",
+   "th": "การประมง",
+   "id": "Perikanan",
+   "ms": "Perikanan"
+  },
+  "Thực hành tiết kiệm, chống lãng phí": {
+   "zh": "厉行节约与反对浪费",
+   "en": "practice of thrift and combat against waste",
+   "th": "การประหยัดและการต่อต้านการฟุ่มเฟือย",
+   "id": "Penghematan dan Pemberantasan Pemborosan",
+   "ms": "Amalan Berjimat Cermat dan Membanteras Pembaziran"
+  },
+  "Tiêu chuẩn và quy chuẩn kỹ thuật": {
+   "zh": "标准与技术规范",
+   "en": "standards and technical regulations",
+   "th": "มาตรฐานและข้อกำหนดทางเทคนิค",
+   "id": "Standar dan Persyaratan Teknis",
+   "ms": "Piawaian dan Peraturan Teknikal"
+  },
+  "Tiếp cận thông tin": {
+   "zh": "信息获取",
+   "en": "access to information",
+   "th": "การเข้าถึงข้อมูลข่าวสาร",
+   "id": "Akses Informasi",
+   "ms": "Akses Maklumat"
+  },
+  "Trí tuệ nhân tạo": {
+   "zh": "人工智能",
+   "en": "artificial intelligence",
+   "th": "ปัญญาประดิษฐ์",
+   "id": "Kecerdasan Buatan",
+   "ms": "Kecerdasan Buatan"
+  },
+  "Trưng mua, trưng dụng tài sản": {
+   "zh": "财产征购与征用",
+   "en": "purchase and requisition of assets",
+   "th": "การจัดซื้อและการเวนคืนทรัพย์สิน",
+   "id": "Pembelian dan Pengambilalihan Aset",
+   "ms": "Pembelian dan Pengambilan Aset"
+  },
+  "Trật tự, an toàn giao thông đường bộ": {
+   "zh": "道路交通秩序与安全",
+   "en": "road traffic order and safety",
+   "th": "ความเป็นระเบียบและความปลอดภัยของการจราจรทางบก",
+   "id": "Ketertiban dan Keselamatan Lalu Lintas Jalan",
+   "ms": "Ketenteraman dan Keselamatan Lalu Lintas Jalan"
+  },
+  "Trồng trọt": {
+   "zh": "种植",
+   "en": "cultivation",
+   "th": "การเพาะปลูก",
+   "id": "Budidaya Tanaman",
+   "ms": "Penanaman"
+  },
+  "Trợ giúp pháp lý": {
+   "zh": "法律援助",
+   "en": "legal aid",
+   "th": "การให้ความช่วยเหลือทางกฎหมาย",
+   "id": "Bantuan Hukum",
+   "ms": "Bantuan Guaman"
+  },
+  "Tài nguyên nước": {
+   "zh": "水资源",
+   "en": "water resources",
+   "th": "ทรัพยากรน้ำ",
+   "id": "Sumber Daya Air",
+   "ms": "Sumber Air"
+  },
+  "Tín ngưỡng, tôn giáo": {
+   "zh": "信仰与宗教",
+   "en": "belief and religion",
+   "th": "ความเชื่อและศาสนา",
+   "id": "Kepercayaan dan Agama",
+   "ms": "Kepercayaan dan Agama"
+  },
+  "Tương trợ tư pháp": {
+   "zh": "司法协助",
+   "en": "judicial assistance",
+   "th": "การช่วยเหลือทางตุลาการ",
+   "id": "Bantuan Timbal Balik di Bidang Hukum",
+   "ms": "Bantuan Kehakiman"
+  },
+  "Tương trợ tư pháp về hình sự": {
+   "zh": "刑事司法协助",
+   "en": "judicial assistance in criminal matters",
+   "th": "การช่วยเหลือทางตุลาการในเรื่องอาญา",
+   "id": "Bantuan Timbal Balik di Bidang Hukum Pidana",
+   "ms": "Bantuan Kehakiman Jenayah"
+  },
+  "Tố tụng dân sự": {
+   "zh": "民事诉讼",
+   "en": "civil procedure",
+   "th": "วิธีพิจารณาความแพ่ง",
+   "id": "Hukum Acara Perdata",
+   "ms": "Prosedur Sivil"
+  },
+  "Tố tụng hành chính": {
+   "zh": "行政诉讼",
+   "en": "administrative procedure",
+   "th": "วิธีพิจารณาคดีปกครอง",
+   "id": "Hukum Acara Tata Usaha Negara",
+   "ms": "Prosedur Pentadbiran"
+  },
+  "Tố tụng hình sự": {
+   "zh": "刑事诉讼",
+   "en": "criminal procedure",
+   "th": "วิธีพิจารณาความอาญา",
+   "id": "Hukum Acara Pidana",
+   "ms": "Prosedur Jenayah"
+  },
+  "Tổ chức Chính phủ": {
+   "zh": "政府组织",
+   "en": "organisation of the Government",
+   "th": "การจัดตั้งรัฐบาล",
+   "id": "Susunan Pemerintah",
+   "ms": "Organisasi Kerajaan"
+  },
+  "Tổ chức Hội đồng Bộ trưởng": {
+   "zh": "部长会议组织",
+   "en": "organisation of the Council of Ministers",
+   "th": "การจัดตั้งสภาคณะรัฐมนตรี",
+   "id": "Susunan Dewan Menteri",
+   "ms": "Organisasi Majlis Menteri"
+  },
+  "Tổ chức Hội đồng Chính phủ": {
+   "zh": "政府会议组织",
+   "en": "organisation of the Government Council",
+   "th": "การจัดตั้งสภารัฐบาล",
+   "id": "Susunan Dewan Pemerintah",
+   "ms": "Organisasi Majlis Kerajaan"
+  },
+  "Tổ chức Hội đồng nhân dân và Uỷ ban hành chính các cấp": {
+   "zh": "各级人民议会与行政委员会组织",
+   "en": "organisation of People's Councils and administrative committees at all levels",
+   "th": "การจัดตั้งสภาประชาชนและคณะกรรมการบริหารทุกระดับ",
+   "id": "Susunan Dewan Perwakilan Rakyat Daerah dan Komite Administrasi di Semua Tingkat",
+   "ms": "Organisasi Majlis Rakyat dan Jawatankuasa Pentadbiran Semua Peringkat"
+  },
+  "Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân": {
+   "zh": "人民议会与人民委员会组织",
+   "en": "organisation of People's Councils and People's Committees",
+   "th": "การจัดตั้งสภาประชาชนและคณะกรรมการประชาชน",
+   "id": "Susunan Dewan Perwakilan Rakyat Daerah dan Komite Rakyat",
+   "ms": "Organisasi Majlis Rakyat dan Jawatankuasa Rakyat"
+  },
+  "Tổ chức Quốc hội": {
+   "zh": "国会组织",
+   "en": "organisation of the National Assembly",
+   "th": "การจัดตั้งสภาแห่งชาติ",
+   "id": "Susunan Majelis Nasional",
+   "ms": "Organisasi Parlimen"
+  },
+  "Tổ chức Quốc hội và Hội đồng Nhà nước": {
+   "zh": "国会与国务委员会组织",
+   "en": "organisation of the National Assembly and the Council of State",
+   "th": "การจัดตั้งสภาแห่งชาติและสภาแห่งรัฐ",
+   "id": "Susunan Majelis Nasional dan Dewan Negara",
+   "ms": "Organisasi Parlimen dan Majlis Negara"
+  },
+  "Tổ chức Tòa án nhân dân": {
+   "zh": "人民法院组织",
+   "en": "organisation of People's Courts",
+   "th": "การจัดตั้งศาลประชาชน",
+   "id": "Susunan Pengadilan Rakyat",
+   "ms": "Organisasi Mahkamah Rakyat"
+  },
+  "Tổ chức Viện kiểm sát nhân dân": {
+   "zh": "人民检察院组织",
+   "en": "organisation of People's Procuracy",
+   "th": "การจัดตั้งองค์กรอัยการประชาชน",
+   "id": "Susunan Kejaksaan Rakyat",
+   "ms": "Organisasi Pendakwa Raya Rakyat"
+  },
+  "Tổ chức cơ quan điều tra hình sự": {
+   "zh": "刑事侦查机关组织",
+   "en": "organisation of criminal investigation bodies",
+   "th": "การจัดตั้งหน่วยสืบสวนคดีอาญา",
+   "id": "Susunan Badan Penyidik Pidana",
+   "ms": "Organisasi Badan Siasatan Jenayah"
+  },
+  "Viên chức": {
+   "zh": "公职人员",
+   "en": "public employees",
+   "th": "ข้าราชการพลเรือน",
+   "id": "Pegawai Publik",
+   "ms": "Pegawai Awam"
+  },
+  "Về việc Quy định chế độ phục vụ của sỹ quan Quân đội nhân dân Việt Nam": {
+   "zh": "越南人民军军官服役制度",
+   "en": "service regime for officers of the Vietnam People's Army",
+   "th": "ข้อกำหนดเกี่ยวกับระบบการรับราชการของนายทหารกองทัพประชาชนเวียดนาม",
+   "id": "Pengaturan Rezim Dinas Perwira Tentara Rakyat Vietnam",
+   "ms": "Peraturan Rejim Perkhidmatan Pegawai Tentera Rakyat Vietnam"
+  },
+  "Về việc Tổ chức chính quyền địa phương": {
+   "zh": "地方政权组织",
+   "en": "organisation of local government",
+   "th": "ข้อกำหนดการจัดตั้งรัฐบาลท้องถิ่น",
+   "id": "Pengaturan Susunan Pemerintahan Daerah",
+   "ms": "Peraturan Organisasi Kerajaan Tempatan"
+  },
+  "Về việc quy định quyền tự do hội họp": {
+   "zh": "集会自由规制",
+   "en": "regulation of freedom of assembly",
+   "th": "ข้อกำหนดเสรีภาพในการชุมนุม",
+   "id": "Pengaturan Kebebasan Berkumpul",
+   "ms": "Peraturan Kebebasan Berhimpun"
+  },
+  "Về việc đảm bảo quyền tự do thân thể và quyền bất khả xâm phạm đối với nhà ở, đồ vật, thư tín của nhân dân": {
+   "zh": "人身自由及人民住宅、财物、通信不可侵犯权的保障",
+   "en": "guarantee of the right to personal freedom and the inviolability of people's homes, property and correspondence",
+   "th": "ข้อกำหนดการรับรองเสรีภาพในร่างกายและความมิอาจล่วงละเมิดเคหสถาน ทรัพย์สิน และจดหมายของประชาชน",
+   "id": "Pengaturan Jaminan Kebebasan Jasmani dan Kekebalan Rumah, Barang dan Surat Rakyat",
+   "ms": "Peraturan Jaminan Kebebasan Diri dan Ketidakbolehcerobohan Rumah, Harta dan Surat Rakyat"
+  },
+  "Xuất bản": {
+   "zh": "出版",
+   "en": "publication",
+   "th": "การพิมพ์",
+   "id": "Penerbitan",
+   "ms": "Penerbitan"
+  },
+  "Xây dựng": {
+   "zh": "建设",
+   "en": "construction",
+   "th": "การก่อสร้าง",
+   "id": "Konstruksi",
+   "ms": "Pembinaan"
+  },
+  "các luật liên quan đến đầu tư xây dựng cơ bản": {
+   "zh": "与基本建设投资相关的法律",
+   "en": "laws related to basic construction investment",
+   "th": "กฎหมายที่เกี่ยวกับการลงทุนก่อสร้างพื้นฐาน",
+   "id": "Undang-Undang Terkait Investasi Pembangunan Dasar",
+   "ms": "Undang-Undang Berkaitan Pelaburan Pembinaan Asas"
+  },
+  "các luật về thuế": {
+   "zh": "有关税收的法律",
+   "en": "laws on taxes",
+   "th": "กฎหมายเกี่ยวกับภาษี",
+   "id": "Undang-Undang Perpajakan",
+   "ms": "Undang-Undang Cukai"
+  },
+  "Đa dạng sinh học": {
+   "zh": "生物多样性",
+   "en": "biodiversity",
+   "th": "ความหลากหลายทางชีวภาพ",
+   "id": "Keanekaragaman Hayati",
+   "ms": "Kepelbagaian Biologi"
+  },
+  "Điện lực": {
+   "zh": "电力",
+   "en": "electricity",
+   "th": "ไฟฟ้า",
+   "id": "Ketenagalistrikan",
+   "ms": "Tenaga Elektrik"
+  },
+  "Điện ảnh": {
+   "zh": "电影",
+   "en": "cinematography",
+   "th": "ภาพยนตร์",
+   "id": "Perfilman",
+   "ms": "Perfileman"
+  },
+  "Đo đạc và bản đồ": {
+   "zh": "测量与制图",
+   "en": "surveying and mapping",
+   "th": "การรังวัดและแผนที่",
+   "id": "Survei dan Pemetaan",
+   "ms": "Ukur dan Pemetaan"
+  },
+  "Đê điều": {
+   "zh": "堤防",
+   "en": "dykes",
+   "th": "คันกั้นน้ำ",
+   "id": "Tanggul",
+   "ms": "Benteng Air"
+  },
+  "Đường bộ": {
+   "zh": "道路",
+   "en": "roads",
+   "th": "ทางหลวง",
+   "id": "Jalan Raya",
+   "ms": "Jalan Raya"
+  },
+  "Đường sắt": {
+   "zh": "铁路",
+   "en": "railways",
+   "th": "ทางรถไฟ",
+   "id": "Perkeretaapian",
+   "ms": "Kereta Api"
+  },
+  "Đất đai": {
+   "zh": "土地",
+   "en": "land",
+   "th": "ที่ดิน",
+   "id": "Pertanahan",
+   "ms": "Tanah"
+  },
+  "Đấu giá tài sản": {
+   "zh": "财产拍卖",
+   "en": "asset auction",
+   "th": "การประมูลทรัพย์สิน",
+   "id": "Lelang Aset",
+   "ms": "Lelongan Aset"
+  },
+  "Đấu thầu": {
+   "zh": "招标投标",
+   "en": "bidding",
+   "th": "การประกวดราคา",
+   "id": "Pengadaan Barang dan Jasa",
+   "ms": "Tender"
+  },
+  "Đầu tư": {
+   "zh": "投资",
+   "en": "investment",
+   "th": "การลงทุน",
+   "id": "Penanaman Modal",
+   "ms": "Pelaburan"
+  },
+  "Đầu tư công": {
+   "zh": "公共投资",
+   "en": "public investment",
+   "th": "การลงทุนสาธารณะ",
+   "id": "Investasi Publik",
+   "ms": "Pelaburan Awam"
+  },
+  "Đầu tư nước ngoài tại Việt Nam": {
+   "zh": "外国在越南投资",
+   "en": "foreign investment in Vietnam",
+   "th": "การลงทุนจากต่างประเทศในเวียดนาม",
+   "id": "Penanaman Modal Asing di Vietnam",
+   "ms": "Pelaburan Asing di Vietnam"
+  },
+  "Đặc xá": {
+   "zh": "特赦",
+   "en": "amnesty",
+   "th": "การนิรโทษกรรม",
+   "id": "Amnesti",
+   "ms": "Pengampunan"
+  },
+  "Địa chất và Khoáng sản": {
+   "zh": "地质与矿产",
+   "en": "geology and minerals",
+   "th": "ธรณีวิทยาและแร่ธาตุ",
+   "id": "Geologi dan Mineral",
+   "ms": "Geologi dan Mineral"
+  }
+ }
+}

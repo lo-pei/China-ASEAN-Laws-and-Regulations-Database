@@ -92,6 +92,8 @@ New-NetFirewallRule -DisplayName "CALR 8000" -Direction Inbound -Protocol TCP -L
    Copy-Item "\\tsclient\D\A项目\Database_China–ASEAN Laws and Regulations Database\_out\calr-model.tar.gz"   C:\calr\ -Force
    ```
 
+   > 注：`_out/` 已于 2026-10-29 归档到 `_work/_archive-2026-10-29/_out/`；上两条命令中的 `_out\` 按此替换后再执行。
+
    
 
 4. **务必校验 Hash（防丢包损坏）**：

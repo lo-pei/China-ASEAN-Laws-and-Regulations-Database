@@ -1,0 +1,697 @@
+{
+ "batch": "sg-p1-b11",
+ "note": "SG 尾段：体裁 + 母法 + 括注 组合合成",
+ "count": 115,
+ "items": {
+  "SG-H044": {
+   "vi": "Quy tắc Kế toán viên (Công ty kế toán, hãng kế toán và công ty trách nhiệm hữu hạn hợp danh kế toán)",
+   "th": "กฎนักบัญชี (บรรษัทการบัญชี สำนักงานบัญชี และห้างหุ้นส่วนจำกัดความรับผิดทางการบัญชี)",
+   "id": "Peraturan Akuntan (Korporasi Akuntansi, Kantor Akuntansi dan Persekutuan Terbatas Akuntansi)",
+   "ms": "Kaedah Akauntan (Perbadanan Perakaunan, Firma Perakaunan dan Perkongsian Liabiliti Terhad Perakaunan)"
+  },
+  "SG-H1146": {
+   "vi": "Lệnh Chương trình bảo hiểm tiền gửi và bảo vệ chủ hợp đồng (Khoản đóng phí bảo hiểm bổ sung) 2011",
+   "th": "คำสั่งโครงการประกันเงินฝากและการคุ้มครองผู้ถือกรมธรรม์ (การส่งเงินสมทบเบี้ยประกันเพิ่มเติม) 2011",
+   "id": "Perintah Skema Penjaminan Simpanan dan Perlindungan Pemegang Polis (Kontribusi Premi Tambahan) 2011",
+   "ms": "Perintah Skim Insurans Deposit dan Perlindungan Pemegang Polisi (Sumbangan Premium Tambahan) 2011"
+  },
+  "SG-H1207": {
+   "vi": "Lệnh Chương trình tài trợ và tiết kiệm giáo dục (Mức đóng góp Edusave năm 2014) 2014",
+   "th": "คำสั่งโครงการกองทุนและการออมเพื่อการศึกษา (จำนวนเงินสมทบ Edusave ประจำปี 2014) 2014",
+   "id": "Perintah Skema Dana Abadi dan Tabungan Pendidikan (Jumlah Kontribusi Edusave Tahun 2014) 2014",
+   "ms": "Perintah Skim Endowmen dan Simpanan Pendidikan (Jumlah Sumbangan Edusave bagi Tahun 2014) 2014"
+  },
+  "SG-H1208": {
+   "vi": "Lệnh Chương trình tài trợ và tiết kiệm giáo dục (Mức đóng góp Edusave năm 2015) 2014",
+   "th": "คำสั่งโครงการกองทุนและการออมเพื่อการศึกษา (จำนวนเงินสมทบ Edusave ประจำปี 2015) 2014",
+   "id": "Perintah Skema Dana Abadi dan Tabungan Pendidikan (Jumlah Kontribusi Edusave Tahun 2015) 2014",
+   "ms": "Perintah Skim Endowmen dan Simpanan Pendidikan (Jumlah Sumbangan Edusave bagi Tahun 2015) 2014"
+  },
+  "SG-H1209": {
+   "vi": "Lệnh Chương trình tài trợ và tiết kiệm giáo dục (Mức đóng góp Edusave năm 2016) 2015",
+   "th": "คำสั่งโครงการกองทุนและการออมเพื่อการศึกษา (จำนวนเงินสมทบ Edusave ประจำปี 2016) 2015",
+   "id": "Perintah Skema Dana Abadi dan Tabungan Pendidikan (Jumlah Kontribusi Edusave Tahun 2016) 2015",
+   "ms": "Perintah Skim Endowmen dan Simpanan Pendidikan (Jumlah Sumbangan Edusave bagi Tahun 2016) 2015"
+  },
+  "SG-H1210": {
+   "vi": "Lệnh Chương trình tài trợ và tiết kiệm giáo dục (Mức đóng góp Edusave năm 2017) 2016",
+   "th": "คำสั่งโครงการกองทุนและการออมเพื่อการศึกษา (จำนวนเงินสมทบ Edusave ประจำปี 2017) 2016",
+   "id": "Perintah Skema Dana Abadi dan Tabungan Pendidikan (Jumlah Kontribusi Edusave Tahun 2017) 2016",
+   "ms": "Perintah Skim Endowmen dan Simpanan Pendidikan (Jumlah Sumbangan Edusave bagi Tahun 2017) 2016"
+  },
+  "SG-H1211": {
+   "vi": "Lệnh Chương trình tài trợ và tiết kiệm giáo dục (Mức đóng góp Edusave năm 2018) 2017",
+   "th": "คำสั่งโครงการกองทุนและการออมเพื่อการศึกษา (จำนวนเงินสมทบ Edusave ประจำปี 2018) 2017",
+   "id": "Perintah Skema Dana Abadi dan Tabungan Pendidikan (Jumlah Kontribusi Edusave Tahun 2018) 2017",
+   "ms": "Perintah Skim Endowmen dan Simpanan Pendidikan (Jumlah Sumbangan Edusave bagi Tahun 2018) 2017"
+  },
+  "SG-H1212": {
+   "vi": "Lệnh Chương trình tài trợ và tiết kiệm giáo dục (Mức đóng góp Edusave năm 2019) 2018",
+   "th": "คำสั่งโครงการกองทุนและการออมเพื่อการศึกษา (จำนวนเงินสมทบ Edusave ประจำปี 2019) 2018",
+   "id": "Perintah Skema Dana Abadi dan Tabungan Pendidikan (Jumlah Kontribusi Edusave Tahun 2019) 2018",
+   "ms": "Perintah Skim Endowmen dan Simpanan Pendidikan (Jumlah Sumbangan Edusave bagi Tahun 2019) 2018"
+  },
+  "SG-H1213": {
+   "vi": "Lệnh Chương trình tài trợ và tiết kiệm giáo dục (Mức đóng góp Edusave năm 2020) 2020",
+   "th": "คำสั่งโครงการกองทุนและการออมเพื่อการศึกษา (จำนวนเงินสมทบ Edusave ประจำปี 2020) 2020",
+   "id": "Perintah Skema Dana Abadi dan Tabungan Pendidikan (Jumlah Kontribusi Edusave Tahun 2020) 2020",
+   "ms": "Perintah Skim Endowmen dan Simpanan Pendidikan (Jumlah Sumbangan Edusave bagi Tahun 2020) 2020"
+  },
+  "SG-H1214": {
+   "vi": "Lệnh Chương trình tài trợ và tiết kiệm giáo dục (Mức đóng góp Edusave năm 2021) 2020",
+   "th": "คำสั่งโครงการกองทุนและการออมเพื่อการศึกษา (จำนวนเงินสมทบ Edusave ประจำปี 2021) 2020",
+   "id": "Perintah Skema Dana Abadi dan Tabungan Pendidikan (Jumlah Kontribusi Edusave Tahun 2021) 2020",
+   "ms": "Perintah Skim Endowmen dan Simpanan Pendidikan (Jumlah Sumbangan Edusave bagi Tahun 2021) 2020"
+  },
+  "SG-H1215": {
+   "vi": "Lệnh Chương trình tài trợ và tiết kiệm giáo dục (Mức đóng góp Edusave năm 2022) 2021",
+   "th": "คำสั่งโครงการกองทุนและการออมเพื่อการศึกษา (จำนวนเงินสมทบ Edusave ประจำปี 2022) 2021",
+   "id": "Perintah Skema Dana Abadi dan Tabungan Pendidikan (Jumlah Kontribusi Edusave Tahun 2022) 2021",
+   "ms": "Perintah Skim Endowmen dan Simpanan Pendidikan (Jumlah Sumbangan Edusave bagi Tahun 2022) 2021"
+  },
+  "SG-H1216": {
+   "vi": "Lệnh Chương trình tài trợ và tiết kiệm giáo dục (Mức đóng góp Edusave năm 2023) 2022",
+   "th": "คำสั่งโครงการกองทุนและการออมเพื่อการศึกษา (จำนวนเงินสมทบ Edusave ประจำปี 2023) 2022",
+   "id": "Perintah Skema Dana Abadi dan Tabungan Pendidikan (Jumlah Kontribusi Edusave Tahun 2023) 2022",
+   "ms": "Perintah Skim Endowmen dan Simpanan Pendidikan (Jumlah Sumbangan Edusave bagi Tahun 2023) 2022"
+  },
+  "SG-H1217": {
+   "vi": "Lệnh Chương trình tài trợ và tiết kiệm giáo dục (Mức đóng góp Edusave năm 2024) 2023",
+   "th": "คำสั่งโครงการกองทุนและการออมเพื่อการศึกษา (จำนวนเงินสมทบ Edusave ประจำปี 2024) 2023",
+   "id": "Perintah Skema Dana Abadi dan Tabungan Pendidikan (Jumlah Kontribusi Edusave Tahun 2024) 2023",
+   "ms": "Perintah Skim Endowmen dan Simpanan Pendidikan (Jumlah Sumbangan Edusave bagi Tahun 2024) 2023"
+  },
+  "SG-H1218": {
+   "vi": "Lệnh Chương trình tài trợ và tiết kiệm giáo dục (Mức đóng góp Edusave năm 2025) 2024",
+   "th": "คำสั่งโครงการกองทุนและการออมเพื่อการศึกษา (จำนวนเงินสมทบ Edusave ประจำปี 2025) 2024",
+   "id": "Perintah Skema Dana Abadi dan Tabungan Pendidikan (Jumlah Kontribusi Edusave Tahun 2025) 2024",
+   "ms": "Perintah Skim Endowmen dan Simpanan Pendidikan (Jumlah Sumbangan Edusave bagi Tahun 2025) 2024"
+  },
+  "SG-H1219": {
+   "vi": "Lệnh Chương trình tài trợ và tiết kiệm giáo dục (Mức đóng góp Edusave năm 2026) 2025",
+   "th": "คำสั่งโครงการกองทุนและการออมเพื่อการศึกษา (จำนวนเงินสมทบ Edusave ประจำปี 2026) 2025",
+   "id": "Perintah Skema Dana Abadi dan Tabungan Pendidikan (Jumlah Kontribusi Edusave Tahun 2026) 2025",
+   "ms": "Perintah Skim Endowmen dan Simpanan Pendidikan (Jumlah Sumbangan Edusave bagi Tahun 2026) 2025"
+  },
+  "SG-H1236": {
+   "vi": "Quy chế Việc làm (Chế tài hành chính) 2016",
+   "th": "ข้อบังคับการจ้างงาน (บทลงโทษทางปกครอง) 2016",
+   "id": "Peraturan Ketenagakerjaan (Sanksi Administratif) 2016",
+   "ms": "Peraturan Pekerjaan (Penalti Pentadbiran) 2016"
+  },
+  "SG-H1237": {
+   "vi": "Thông báo Việc làm (Cơ sở y tế được chấp thuận) 2008",
+   "th": "ประกาศการจ้างงาน (สถาบันการแพทย์ที่ได้รับอนุมัติ) 2008",
+   "id": "Pemberitahuan Ketenagakerjaan (Institusi Medis yang Disetujui) 2008",
+   "ms": "Pemberitahuan Pekerjaan (Institusi Perubatan yang Diluluskan) 2008"
+  },
+  "SG-H1311": {
+   "vi": "Quy chế Nhập ngũ (Hội đồng tư vấn) 2003",
+   "th": "ข้อบังคับการเกณฑ์ทหาร (คณะกรรมการที่ปรึกษา) 2003",
+   "id": "Peraturan Wajib Militer (Dewan Penasihat) 2003",
+   "ms": "Peraturan Kerahan (Lembaga Penasihat) 2003"
+  },
+  "SG-H1319": {
+   "vi": "Thông báo Cơ quan Phát triển Doanh nghiệp Singapore (Dấu công nhận) 2018",
+   "th": "ประกาศองค์การพัฒนาวิสาหกิจสิงคโปร์ (เครื่องหมายการรับรอง) 2018",
+   "id": "Pemberitahuan Badan Pengembangan Usaha Singapura (Tanda Akreditasi) 2018",
+   "ms": "Pemberitahuan Lembaga Pembangunan Perusahaan Singapura (Tanda Akreditasi) 2018"
+  },
+  "SG-H1324": {
+   "vi": "Quy chế Bảo vệ và quản lý môi trường (Tạp chất trong không khí)",
+   "th": "ข้อบังคับการคุ้มครองและจัดการสิ่งแวดล้อม (สิ่งเจือปนในอากาศ)",
+   "id": "Peraturan Perlindungan dan Pengelolaan Lingkungan Hidup (Kotoran Udara)",
+   "ms": "Peraturan Perlindungan dan Pengurusan Alam Sekitar (Kekotoran Udara)"
+  },
+  "SG-H140": {
+   "vi": "Quy chế Hàng không (101 — Hoạt động của máy bay không người lái) 2019",
+   "th": "ข้อบังคับการเดินอากาศ (101 — การปฏิบัติการอากาศยานไร้คนขับ) 2019",
+   "id": "Peraturan Navigasi Udara (101 — Operasi Pesawat Udara Nirawak) 2019",
+   "ms": "Peraturan Navigasi Udara (101 — Operasi Pesawat Udara Tanpa Pemandu) 2019"
+  },
+  "SG-H141": {
+   "vi": "Quy chế Hàng không (119 — Chứng nhận người khai thác hàng không) 2018",
+   "th": "ข้อบังคับการเดินอากาศ (119 — การรับรองผู้ประกอบการเดินอากาศ) 2018",
+   "id": "Peraturan Navigasi Udara (119 — Sertifikasi Operator Udara) 2018",
+   "ms": "Peraturan Navigasi Udara (119 — Pensijilan Pengendali Udara) 2018"
+  },
+  "SG-H142": {
+   "vi": "Quy chế Hàng không (121 — Vận tải hàng không thương mại bằng máy bay lớn) 2018",
+   "th": "ข้อบังคับการเดินอากาศ (121 — การขนส่งทางอากาศเชิงพาณิชย์ด้วยเครื่องบินขนาดใหญ่) 2018",
+   "id": "Peraturan Navigasi Udara (121 — Pengangkutan Udara Komersial dengan Pesawat Besar) 2018",
+   "ms": "Peraturan Navigasi Udara (121 — Pengangkutan Udara Komersial dengan Pesawat Besar) 2018"
+  },
+  "SG-H143": {
+   "vi": "Quy chế Hàng không (125 — Hàng không tổng quát phức tạp) 2018",
+   "th": "ข้อบังคับการเดินอากาศ (125 — การบินทั่วไปแบบซับซ้อน) 2018",
+   "id": "Peraturan Navigasi Udara (125 — Penerbangan Umum Kompleks) 2018",
+   "ms": "Peraturan Navigasi Udara (125 — Penerbangan Am Kompleks) 2018"
+  },
+  "SG-H144": {
+   "vi": "Quy chế Hàng không (129 — Giấy phép người khai thác nước ngoài) 2026",
+   "th": "ข้อบังคับการเดินอากาศ (129 — ใบอนุญาตผู้ประกอบการเดินอากาศต่างประเทศ) 2026",
+   "id": "Peraturan Navigasi Udara (129 — Izin Operator Asing) 2026",
+   "ms": "Peraturan Navigasi Udara (129 — Permit Pengendali Asing) 2026"
+  },
+  "SG-H145": {
+   "vi": "Quy chế Hàng không (135 — Vận tải hàng không thương mại bằng trực thăng và máy bay nhỏ) 2018",
+   "th": "ข้อบังคับการเดินอากาศ (135 — การขนส่งทางอากาศเชิงพาณิชย์ด้วยเฮลิคอปเตอร์และเครื่องบินขนาดเล็ก) 2018",
+   "id": "Peraturan Navigasi Udara (135 — Pengangkutan Udara Komersial dengan Helikopter dan Pesawat Kecil) 2018",
+   "ms": "Peraturan Navigasi Udara (135 — Pengangkutan Udara Komersial dengan Helikopter dan Pesawat Kecil) 2018"
+  },
+  "SG-H146": {
+   "vi": "Quy chế Hàng không (137 — Công tác trên không) 2018",
+   "th": "ข้อบังคับการเดินอากาศ (137 — งานทางอากาศ) 2018",
+   "id": "Peraturan Navigasi Udara (137 — Pekerjaan Udara) 2018",
+   "ms": "Peraturan Navigasi Udara (137 — Kerja Udara) 2018"
+  },
+  "SG-H147": {
+   "vi": "Quy chế Hàng không (139 — Sân bay) 2023",
+   "th": "ข้อบังคับการเดินอากาศ (139 — สนามบิน) 2023",
+   "id": "Peraturan Navigasi Udara (139 — Bandar Udara) 2023",
+   "ms": "Peraturan Navigasi Udara (139 — Lapangan Terbang) 2023"
+  },
+  "SG-H148": {
+   "vi": "Quy chế Hàng không (47 — Đăng ký tàu bay) 2026",
+   "th": "ข้อบังคับการเดินอากาศ (47 — การจดทะเบียนอากาศยาน) 2026",
+   "id": "Peraturan Navigasi Udara (47 — Pendaftaran Pesawat Udara) 2026",
+   "ms": "Peraturan Navigasi Udara (47 — Pendaftaran Pesawat Udara) 2026"
+  },
+  "SG-H149": {
+   "vi": "Quy chế Hàng không (67 — Chứng nhận y tế hàng không) 2026",
+   "th": "ข้อบังคับการเดินอากาศ (67 — การรับรองทางการแพทย์การบิน) 2026",
+   "id": "Peraturan Navigasi Udara (67 — Sertifikasi Medis Penerbangan) 2026",
+   "ms": "Peraturan Navigasi Udara (67 — Pensijilan Perubatan Penerbangan) 2026"
+  },
+  "SG-H150": {
+   "vi": "Quy chế Hàng không (91 — Quy tắc khai thác chung) 2018",
+   "th": "ข้อบังคับการเดินอากาศ (91 — กฎการปฏิบัติการทั่วไป) 2018",
+   "id": "Peraturan Navigasi Udara (91 — Peraturan Operasi Umum) 2018",
+   "ms": "Peraturan Navigasi Udara (91 — Kaedah Operasi Am) 2018"
+  },
+  "SG-H151": {
+   "vi": "Quy chế Hàng không (92 — Vận chuyển hàng hóa nguy hiểm) 2022",
+   "th": "ข้อบังคับการเดินอากาศ (92 — การขนส่งสินค้าอันตราย) 2022",
+   "id": "Peraturan Navigasi Udara (92 — Pengangkutan Barang Berbahaya) 2022",
+   "ms": "Peraturan Navigasi Udara (92 — Pengangkutan Barang Berbahaya) 2022"
+  },
+  "SG-H152": {
+   "vi": "Quy chế Hàng không (96 — Hoạt động trên không và đèn nguy hiểm) 2025",
+   "th": "ข้อบังคับการเดินอากาศ (96 — กิจกรรมทางอากาศและไฟที่เป็นอันตราย) 2025",
+   "id": "Peraturan Navigasi Udara (96 — Kegiatan Udara dan Lampu Berbahaya) 2025",
+   "ms": "Peraturan Navigasi Udara (96 — Aktiviti Udara dan Lampu Berbahaya) 2025"
+  },
+  "SG-H153": {
+   "vi": "Quy chế Hàng không (98 — Khai thác đặc biệt) 2018",
+   "th": "ข้อบังคับการเดินอากาศ (98 — การปฏิบัติการพิเศษ) 2018",
+   "id": "Peraturan Navigasi Udara (98 — Operasi Khusus) 2018",
+   "ms": "Peraturan Navigasi Udara (98 — Operasi Khas) 2018"
+  },
+  "SG-H154": {
+   "vi": "Quy chế Hàng không (99 — Kiểm tra hơi thở đối với rượu) 2019",
+   "th": "ข้อบังคับการเดินอากาศ (99 — การตรวจวัดแอลกอฮอล์จากลมหายใจ) 2019",
+   "id": "Peraturan Navigasi Udara (99 — Uji Napas untuk Alkohol) 2019",
+   "ms": "Peraturan Navigasi Udara (99 — Ujian Nafas untuk Alkohol) 2019"
+  },
+  "SG-H1454": {
+   "vi": "Quy tắc Dẫn độ (Đơn xin cấp lệnh) 2022",
+   "th": "กฎการส่งผู้ร้ายข้ามแดน (การขอหมาย) 2022",
+   "id": "Peraturan Ekstradisi (Permohonan Surat Perintah) 2022",
+   "ms": "Kaedah Ekstradisi (Permohonan Waran) 2022"
+  },
+  "SG-H1484": {
+   "vi": "Lệnh Phí (Phán quyết thuế trước bạ) (Miễn giảm)",
+   "th": "คำสั่งค่าธรรมเนียม (การวินิจฉัยอากรแสตมป์) (การลดหย่อน)",
+   "id": "Perintah Biaya (Penetapan Bea Meterai) (Keringanan)",
+   "ms": "Perintah Fi (Penghakiman Duti Setem) (Pelepasan)"
+  },
+  "SG-H1564": {
+   "vi": "Quy chế Dịch vụ tài chính và thị trường (Kháng nghị theo Phần 3) 2024",
+   "th": "ข้อบังคับบริการการเงินและตลาด (การอุทธรณ์ตามภาค 3) 2024",
+   "id": "Peraturan Jasa Keuangan dan Pasar (Banding menurut Bagian 3) 2024",
+   "ms": "Peraturan Perkhidmatan Kewangan dan Pasaran (Rayuan menurut Bahagian 3) 2024"
+  },
+  "SG-H1581": {
+   "vi": "Quy chế An toàn cháy nổ (Dịch vụ giám sát báo động) 2020",
+   "th": "ข้อบังคับความปลอดภัยด้านอัคคีภัย (บริการเฝ้าระวังสัญญาณเตือน) 2020",
+   "id": "Peraturan Keselamatan Kebakaran (Layanan Pemantauan Alarm) 2020",
+   "ms": "Peraturan Keselamatan Kebakaran (Perkhidmatan Pemantauan Penggera) 2020"
+  },
+  "SG-H1582": {
+   "vi": "Quy chế An toàn cháy nổ (Hội đồng tư vấn kháng nghị) 2020",
+   "th": "ข้อบังคับความปลอดภัยด้านอัคคีภัย (คณะกรรมการที่ปรึกษาการอุทธรณ์) 2020",
+   "id": "Peraturan Keselamatan Kebakaran (Dewan Penasihat Banding) 2020",
+   "ms": "Peraturan Keselamatan Kebakaran (Lembaga Penasihat Rayuan) 2020"
+  },
+  "SG-H1619": {
+   "vi": "Quy chế Thuế hàng hóa và dịch vụ (Thủ tục kháng nghị đối với Hội đồng xét duyệt) 2023",
+   "th": "ข้อบังคับภาษีสินค้าและบริการ (วิธีพิจารณาอุทธรณ์สำหรับคณะกรรมการทบทวน) 2023",
+   "id": "Peraturan Pajak Barang dan Jasa (Prosedur Banding untuk Dewan Peninjau) 2023",
+   "ms": "Peraturan Cukai Barang dan Perkhidmatan (Prosedur Rayuan bagi Lembaga Semakan) 2023"
+  },
+  "SG-H1620": {
+   "vi": "Lệnh Thuế hàng hóa và dịch vụ (Áp dụng Luật Hải quan 1960) (Các quy định về xét xử, tố tụng, tội phạm và chế tài) 1994",
+   "th": "คำสั่งภาษีสินค้าและบริการ (การใช้บังคับพระราชบัญญัติศุลกากร ค.ศ. 1960) (บทบัญญัติว่าด้วยการพิจารณาคดี กระบวนพิจารณา ความผิด และบทลงโทษ) 1994",
+   "id": "Perintah Pajak Barang dan Jasa (Penerapan Undang-Undang Kepabeanan 1960) (Ketentuan tentang Persidangan, Proses Hukum, Pelanggaran dan Sanksi) 1994",
+   "ms": "Perintah Cukai Barang dan Perkhidmatan (Penggunaan Akta Kastam 1960) (Peruntukan tentang Perbicaraan, Prosiding, Kesalahan dan Penalti) 1994"
+  },
+  "SG-H1621": {
+   "vi": "Lệnh Thuế hàng hóa và dịch vụ (Áp dụng pháp luật về thuế hải quan và thuế tiêu thụ đặc biệt) 1994",
+   "th": "คำสั่งภาษีสินค้าและบริการ (การใช้บังคับกฎหมายเกี่ยวกับภาษีศุลกากรและภาษีสรรพสามิต) 1994",
+   "id": "Perintah Pajak Barang dan Jasa (Penerapan Peraturan Perundang-undangan tentang Bea Masuk dan Cukai) 1994",
+   "ms": "Perintah Cukai Barang dan Perkhidmatan (Penggunaan Perundangan berkaitan Duti Kastam dan Eksais) 1994"
+  },
+  "SG-H1652": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Quản lý động vật — Miễn trừ) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การจัดการสัตว์ — การยกเว้น) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Pengelolaan Hewan — Pembebasan) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Pengurusan Haiwan — Pengecualian) 2025"
+  },
+  "SG-H1653": {
+   "vi": "Lệnh Kiểm soát súng, chất nổ và vũ khí (Triển lãm vũ khí — Giấy phép theo nhóm) 2025",
+   "th": "คำสั่งการควบคุมปืน วัตถุระเบิด และอาวุธ (การแสดงอาวุธ — ใบอนุญาตประเภท) 2025",
+   "id": "Perintah Pengendalian Senjata Api, Bahan Peledak dan Senjata (Pameran Senjata — Lisensi Kelas) 2025",
+   "ms": "Perintah Kawalan Senjata Api, Bahan Letupan dan Senjata (Pameran Senjata — Lesen Kelas) 2025"
+  },
+  "SG-H1685": {
+   "vi": "Quy chế Sản phẩm y tế (Thành phần hoạt tính) 2023",
+   "th": "ข้อบังคับผลิตภัณฑ์สุขภาพ (ส่วนผสมออกฤทธิ์) 2023",
+   "id": "Peraturan Produk Kesehatan (Bahan Aktif) 2023",
+   "ms": "Peraturan Produk Kesihatan (Bahan Aktif) 2023"
+  },
+  "SG-H1686": {
+   "vi": "Quy chế Sản phẩm y tế (Quảng cáo sản phẩm sức khỏe được chỉ định) 2016",
+   "th": "ข้อบังคับผลิตภัณฑ์สุขภาพ (การโฆษณาผลิตภัณฑ์สุขภาพที่กำหนด) 2016",
+   "id": "Peraturan Produk Kesehatan (Iklan Produk Kesehatan Tertentu) 2016",
+   "ms": "Peraturan Produk Kesihatan (Pengiklanan Produk Kesihatan Tertentu) 2016"
+  },
+  "SG-H1687": {
+   "vi": "Lệnh Sản phẩm y tế (Ứng dụng di động AI độc lập — Miễn trừ) 2026",
+   "th": "คำสั่งผลิตภัณฑ์สุขภาพ (แอปพลิเคชันมือถือ AI แบบอิสระ — การยกเว้น) 2026",
+   "id": "Perintah Produk Kesehatan (Aplikasi Seluler AI Mandiri — Pembebasan) 2026",
+   "ms": "Perintah Produk Kesihatan (Aplikasi Mudah Alih AI Berdiri Sendiri — Pengecualian) 2026"
+  },
+  "SG-H1706": {
+   "vi": "Quy chế Dịch vụ chăm sóc sức khỏe (Dịch vụ bệnh viện cấp tính) 2023",
+   "th": "ข้อบังคับบริการสุขภาพ (บริการโรงพยาบาลผู้ป่วยเฉียบพลัน) 2023",
+   "id": "Peraturan Layanan Kesehatan (Layanan Rumah Sakit Akut) 2023",
+   "ms": "Peraturan Perkhidmatan Penjagaan Kesihatan (Perkhidmatan Hospital Akut) 2023"
+  },
+  "SG-H1707": {
+   "vi": "Lệnh Dịch vụ chăm sóc sức khỏe (Quảng cáo — Miễn trừ) 2021",
+   "th": "คำสั่งบริการสุขภาพ (การโฆษณา — การยกเว้น) 2021",
+   "id": "Perintah Layanan Kesehatan (Iklan — Pembebasan) 2021",
+   "ms": "Perintah Perkhidmatan Penjagaan Kesihatan (Pengiklanan — Pengecualian) 2021"
+  },
+  "SG-H1708": {
+   "vi": "Quy chế Dịch vụ chăm sóc sức khỏe (Quảng cáo) 2021",
+   "th": "ข้อบังคับบริการสุขภาพ (การโฆษณา) 2021",
+   "id": "Peraturan Layanan Kesehatan (Iklan) 2021",
+   "ms": "Peraturan Perkhidmatan Penjagaan Kesihatan (Pengiklanan) 2021"
+  },
+  "SG-H1709": {
+   "vi": "Quy chế Dịch vụ chăm sóc sức khỏe (Dịch vụ trung tâm phẫu thuật ngoại trú) 2023",
+   "th": "ข้อบังคับบริการสุขภาพ (บริการศูนย์ศัลยกรรมผู้ป่วยนอก) 2023",
+   "id": "Peraturan Layanan Kesehatan (Layanan Pusat Bedah Rawat Jalan) 2023",
+   "ms": "Peraturan Perkhidmatan Penjagaan Kesihatan (Perkhidmatan Pusat Pembedahan Ambulatori) 2023"
+  },
+  "SG-H1765": {
+   "vi": "Quy tắc Nhà ở và Phát triển (Hợp đồng mua bán)",
+   "th": "กฎที่อยู่อาศัยและการพัฒนา (สัญญาซื้อขาย)",
+   "id": "Peraturan Perumahan dan Pembangunan (Perjanjian Jual Beli)",
+   "ms": "Kaedah Perumahan dan Pembangunan (Perjanjian Jual Beli)"
+  },
+  "SG-H1766": {
+   "vi": "Quy tắc Nhà ở và Phát triển (Động vật) 2024",
+   "th": "กฎที่อยู่อาศัยและการพัฒนา (สัตว์) 2024",
+   "id": "Peraturan Perumahan dan Pembangunan (Hewan) 2024",
+   "ms": "Kaedah Perumahan dan Pembangunan (Haiwan) 2024"
+  },
+  "SG-H1767": {
+   "vi": "Quy tắc Nhà ở và Phát triển (Kháng nghị đối với chế tài tài chính) 2021",
+   "th": "กฎที่อยู่อาศัยและการพัฒนา (การอุทธรณ์ต่อบทลงโทษทางการเงิน) 2021",
+   "id": "Peraturan Perumahan dan Pembangunan (Banding terhadap Sanksi Finansial) 2021",
+   "ms": "Kaedah Perumahan dan Pembangunan (Rayuan terhadap Penalti Kewangan) 2021"
+  },
+  "SG-H1768": {
+   "vi": "Quy tắc Nhà ở và Phát triển (Áp dụng Phần IV đối với Chương trình Thiết kế — Xây dựng — Bán)",
+   "th": "กฎที่อยู่อาศัยและการพัฒนา (การใช้บังคับภาค IV แก่โครงการออกแบบ-ก่อสร้าง-ขาย)",
+   "id": "Peraturan Perumahan dan Pembangunan (Penerapan Bagian IV pada Skema Rancang-Bangun-Jual)",
+   "ms": "Kaedah Perumahan dan Pembangunan (Penggunaan Bahagian IV bagi Skim Reka-Bina-Jual)"
+  },
+  "SG-H1769": {
+   "vi": "Quy tắc Nhà ở và Phát triển (Cơ quan phê duyệt)",
+   "th": "กฎที่อยู่อาศัยและการพัฒนา (หน่วยงานผู้อนุมัติ)",
+   "id": "Peraturan Perumahan dan Pembangunan (Otoritas Pemberi Persetujuan)",
+   "ms": "Kaedah Perumahan dan Pembangunan (Pihak Berkuasa Pelulus)"
+  },
+  "SG-H1910": {
+   "vi": "Quy chế Thuế thu nhập (Sáp nhập công ty) 2011",
+   "th": "ข้อบังคับภาษีเงินได้ (การควบรวมบริษัท) 2011",
+   "id": "Peraturan Pajak Penghasilan (Penggabungan Perusahaan) 2011",
+   "ms": "Peraturan Cukai Pendapatan (Penggabungan Syarikat) 2011"
+  },
+  "SG-H1911": {
+   "vi": "Quy chế Thuế thu nhập (Thủ tục kháng nghị đối với Hội đồng xét duyệt) 2023",
+   "th": "ข้อบังคับภาษีเงินได้ (วิธีพิจารณาอุทธรณ์สำหรับคณะกรรมการทบทวน) 2023",
+   "id": "Peraturan Pajak Penghasilan (Prosedur Banding untuk Dewan Peninjau) 2023",
+   "ms": "Peraturan Cukai Pendapatan (Prosedur Rayuan bagi Lembaga Semakan) 2023"
+  },
+  "SG-H1918": {
+   "vi": "Thông báo Thuế thu nhập (Chương trình lương hưu được chấp thuận)",
+   "th": "ประกาศภาษีเงินได้ (โครงการบำนาญที่ได้รับอนุมัติ)",
+   "id": "Pemberitahuan Pajak Penghasilan (Skema Pensiun yang Disetujui)",
+   "ms": "Pemberitahuan Cukai Pendapatan (Skim Pencen yang Diluluskan)"
+  },
+  "SG-H1919": {
+   "vi": "Quy chế Thuế thu nhập (Quỹ tín thác đơn vị được chấp thuận)",
+   "th": "ข้อบังคับภาษีเงินได้ (ทรัสต์หน่วยลงทุนที่ได้รับอนุมัติ)",
+   "id": "Peraturan Pajak Penghasilan (Perwalian Unit yang Disetujui)",
+   "ms": "Peraturan Cukai Pendapatan (Amanah Unit yang Diluluskan)"
+  },
+  "SG-H1922": {
+   "vi": "Thông báo Thuế thu nhập (Argosy Pte. Ltd. — Miễn trừ theo Điều 13(4)) (Số 2) 2023",
+   "th": "ประกาศภาษีเงินได้ (Argosy Pte. Ltd. — การยกเว้นตามมาตรา 13(4)) (ฉบับที่ 2) 2023",
+   "id": "Pemberitahuan Pajak Penghasilan (Argosy Pte. Ltd. — Pembebasan menurut Pasal 13(4)) (Nomor 2) 2023",
+   "ms": "Pemberitahuan Cukai Pendapatan (Argosy Pte. Ltd. — Pengecualian menurut Seksyen 13(4)) (No. 2) 2023"
+  },
+  "SG-H249": {
+   "vi": "Lệnh Trọng tài (Người được chỉ định theo Điều 59A) (Hợp nhất) 2025",
+   "th": "คำสั่งอนุญาโตตุลาการ (บุคคลที่ได้รับแต่งตั้งตามมาตรา 59A) (การรวมฉบับ) 2025",
+   "id": "Perintah Arbitrase (Orang yang Ditetapkan menurut Pasal 59A) (Konsolidasi) 2025",
+   "ms": "Perintah Timbang Tara (Orang yang Ditetapkan menurut Seksyen 59A) (Penyatuan) 2025"
+  },
+  "SG-H252": {
+   "vi": "Thông báo Kiến trúc sư (Trình độ được chấp thuận) 1999",
+   "th": "ประกาศสถาปนิก (คุณวุฒิที่ได้รับอนุมัติ) 1999",
+   "id": "Pemberitahuan Arsitek (Kualifikasi yang Disetujui) 1999",
+   "ms": "Pemberitahuan Arkitek (Kelayakan yang Diluluskan) 1999"
+  },
+  "SG-H2806": {
+   "vi": "Quy chế Bảo hiểm (Sổ sách kế toán và báo biểu) 2018",
+   "th": "ข้อบังคับการประกันภัย (บัญชีและงบการเงิน) 2018",
+   "id": "Peraturan Asuransi (Akun dan Laporan Keuangan) 2018",
+   "ms": "Peraturan Insurans (Akaun dan Penyata) 2018"
+  },
+  "SG-H2807": {
+   "vi": "Quy chế Bảo hiểm (Chuyên viên tính toán bảo hiểm) 2013",
+   "th": "ข้อบังคับการประกันภัย (นักคณิตศาสตร์ประกันภัย) 2013",
+   "id": "Peraturan Asuransi (Aktuaris) 2013",
+   "ms": "Peraturan Insurans (Aktuari) 2013"
+  },
+  "SG-H2809": {
+   "vi": "Quy chế Bảo hiểm (Môi giới bảo hiểm hàng hải, hàng không và quá cảnh được chấp thuận và môi giới tái bảo hiểm được chấp thuận)",
+   "th": "ข้อบังคับการประกันภัย (นายหน้าประกันภัยทางทะเล การบิน และการขนส่งผ่านแดนที่ได้รับอนุมัติ และนายหน้าประกันภัยต่อที่ได้รับอนุมัติ)",
+   "id": "Peraturan Asuransi (Pialang Asuransi Kelautan, Penerbangan dan Transit yang Disetujui serta Pialang Reasuransi yang Disetujui)",
+   "ms": "Peraturan Insurans (Broker Insurans Marin, Penerbangan dan Transit yang Diluluskan serta Broker Insurans Semula yang Diluluskan)"
+  },
+  "SG-H2810": {
+   "vi": "Quy chế Bảo hiểm (Doanh nghiệp bảo hiểm hàng hải, hàng không và quá cảnh được chấp thuận)",
+   "th": "ข้อบังคับการประกันภัย (ผู้รับประกันภัยทางทะเล การบิน และการขนส่งผ่านแดนที่ได้รับอนุมัติ)",
+   "id": "Peraturan Asuransi (Penanggung Asuransi Kelautan, Penerbangan dan Transit yang Disetujui)",
+   "ms": "Peraturan Insurans (Penanggung Insurans Marin, Penerbangan dan Transit yang Diluluskan)"
+  },
+  "SG-H2842": {
+   "vi": "Lệnh Trọng tài Quốc tế (Người được chỉ định theo Điều 19C) (Hợp nhất) 2025",
+   "th": "คำสั่งอนุญาโตตุลาการระหว่างประเทศ (บุคคลที่ได้รับแต่งตั้งตามมาตรา 19C) (การรวมฉบับ) 2025",
+   "id": "Perintah Arbitrase Internasional (Orang yang Ditetapkan menurut Pasal 19C) (Konsolidasi) 2025",
+   "ms": "Perintah Timbang Tara Antarabangsa (Orang yang Ditetapkan menurut Seksyen 19C) (Penyatuan) 2025"
+  },
+  "SG-H2843": {
+   "vi": "Quy chế Bắt cóc Trẻ em Quốc tế (Áp dụng pháp luật về trợ giúp pháp lý và tư vấn pháp lý) 2011",
+   "th": "ข้อบังคับการลักพาเด็กข้ามชาติ (การใช้บังคับกฎหมายเกี่ยวกับความช่วยเหลือทางกฎหมายและคำแนะนำทางกฎหมาย) 2011",
+   "id": "Peraturan Penculikan Kanak-Kanak Antarabangsa (Penerapan Peraturan Perundang-undangan tentang Bantuan Hukum dan Nasihat Hukum) 2011",
+   "ms": "Peraturan Penculikan Kanak-Kanak Antarabangsa (Penggunaan Perundangan berkaitan Bantuan Guaman dan Nasihat Guaman) 2011"
+  },
+  "SG-H2908": {
+   "vi": "Thông báo Chất gây say (Trung tâm được chấp thuận) 2018",
+   "th": "ประกาศสารที่ทำให้มึนเมา (ศูนย์ที่ได้รับอนุมัติ) 2018",
+   "id": "Pemberitahuan Zat Memabukkan (Pusat yang Disetujui) 2018",
+   "ms": "Pemberitahuan Bahan Memabukkan (Pusat yang Diluluskan) 2018"
+  },
+  "SG-H2917": {
+   "vi": "Lệnh Thù lao Thẩm phán (Tiền lương hằng năm được tính lương hưu)",
+   "th": "คำสั่งค่าตอบแทนผู้พิพากษา (เงินเดือนประจำปีที่คำนวณบำนาญ)",
+   "id": "Perintah Saraan Hakim (Gaji Tahunan yang Dapat Dipensiunkan)",
+   "ms": "Perintah Saraan Hakim (Gaji Tahunan yang Layak Pencen)"
+  },
+  "SG-H2933": {
+   "vi": "Quy chế Trưng dụng Đất (Hội đồng kháng nghị — Phí)",
+   "th": "ข้อบังคับการเวนคืนที่ดิน (คณะกรรมการอุทธรณ์ — ค่าธรรมเนียม)",
+   "id": "Peraturan Pengadaan Tanah (Dewan Banding — Biaya)",
+   "ms": "Peraturan Pengambilan Tanah (Lembaga Rayuan — Fi)"
+  },
+  "SG-H2934": {
+   "vi": "Quy chế Trưng dụng Đất (Hội đồng kháng nghị)",
+   "th": "ข้อบังคับการเวนคืนที่ดิน (คณะกรรมการอุทธรณ์)",
+   "id": "Peraturan Pengadaan Tanah (Dewan Banding)",
+   "ms": "Peraturan Pengambilan Tanah (Lembaga Rayuan)"
+  },
+  "SG-H2983": {
+   "vi": "Quy tắc Nghề luật (Báo cáo của kế toán viên)",
+   "th": "กฎวิชาชีพกฎหมาย (รายงานของผู้ทำบัญชี)",
+   "id": "Peraturan Profesi Hukum (Laporan Akuntan)",
+   "ms": "Kaedah Profesion Guaman (Laporan Akauntan)"
+  },
+  "SG-H2984": {
+   "vi": "Thông báo Nghề luật (Kết nạp đột xuất) 2012",
+   "th": "ประกาศวิชาชีพกฎหมาย (การรับเข้าเป็นกรณีพิเศษ) 2012",
+   "id": "Pemberitahuan Profesi Hukum (Penerimaan Ad Hoc) 2012",
+   "ms": "Pemberitahuan Profesion Guaman (Penerimaan Ad Hoc) 2012"
+  },
+  "SG-H2985": {
+   "vi": "Quy tắc Nghề luật (Phí hành chính) 2024",
+   "th": "กฎวิชาชีพกฎหมาย (ค่าธรรมเนียมทางปกครอง) 2024",
+   "id": "Peraturan Profesi Hukum (Biaya Administratif) 2024",
+   "ms": "Kaedah Profesion Guaman (Fi Pentadbiran) 2024"
+  },
+  "SG-H2986": {
+   "vi": "Quy tắc Nghề luật (Kết nạp) 2024",
+   "th": "กฎวิชาชีพกฎหมาย (การรับเข้า) 2024",
+   "id": "Peraturan Profesi Hukum (Penerimaan) 2024",
+   "ms": "Kaedah Profesion Guaman (Kemasukan) 2024"
+  },
+  "SG-H3057": {
+   "vi": "Lệnh Duy trì Hòa hợp Tôn giáo (Áp dụng Điều 16D và 16E) 2025",
+   "th": "คำสั่งการรักษาความปรองดองทางศาสนา (การใช้บังคับมาตรา 16D และ 16E) 2025",
+   "id": "Perintah Pemeliharaan Kerukunan Umat Beragama (Penerapan Pasal 16D dan 16E) 2025",
+   "ms": "Perintah Pemeliharaan Keharmonian Agama (Penggunaan Seksyen 16D dan 16E) 2025"
+  },
+  "SG-H3110": {
+   "vi": "Thông báo Các chương trình Quỹ tài trợ Y tế và Chăm sóc Người cao tuổi (Cơ sở được chấp thuận) 2016",
+   "th": "ประกาศโครงการกองทุนการแพทย์และการดูแลผู้สูงอายุ (สถาบันที่ได้รับอนุมัติ) 2016",
+   "id": "Pemberitahuan Skema Dana Abadi Medis dan Perawatan Lansia (Institusi yang Disetujui) 2016",
+   "ms": "Pemberitahuan Skim Endowmen Perubatan dan Penjagaan Warga Emas (Institusi yang Diluluskan) 2016"
+  },
+  "SG-H3119": {
+   "vi": "Lệnh Dược phẩm (Quảng cáo và bán hàng) (Miễn trừ) 2023",
+   "th": "คำสั่งยา (การโฆษณาและการขาย) (การยกเว้น) 2023",
+   "id": "Perintah Obat (Iklan dan Penjualan) (Pembebasan) 2023",
+   "ms": "Perintah Ubat (Pengiklanan dan Penjualan) (Pengecualian) 2023"
+  },
+  "SG-H3120": {
+   "vi": "Luật Dược phẩm (Quảng cáo và bán hàng) 1955",
+   "th": "พระราชบัญญัติยา (การโฆษณาและการขาย) 1955",
+   "id": "Undang-Undang tentang Obat (Iklan dan Penjualan) 1955",
+   "ms": "Akta Ubat (Pengiklanan dan Penjualan) 1955"
+  },
+  "SG-H3121": {
+   "vi": "Lệnh Dược phẩm (Quảng cáo) (Miễn trừ)",
+   "th": "คำสั่งยา (การโฆษณา) (การยกเว้น)",
+   "id": "Perintah Obat (Iklan) (Pembebasan)",
+   "ms": "Perintah Ubat (Pengiklanan) (Pengecualian)"
+  },
+  "SG-H3122": {
+   "vi": "Lệnh Dược phẩm (Quảng cáo cho dịch vụ chăm sóc sức khỏe phải cấp phép) (Miễn trừ) 2023",
+   "th": "คำสั่งยา (การโฆษณาบริการสุขภาพที่ต้องขอใบอนุญาต) (การยกเว้น) 2023",
+   "id": "Perintah Obat (Iklan untuk Layanan Kesehatan yang Wajib Berlisensi) (Pembebasan) 2023",
+   "ms": "Perintah Ubat (Pengiklanan bagi Perkhidmatan Penjagaan Kesihatan yang Boleh Dilesenkan) (Pengecualian) 2023"
+  },
+  "SG-H319": {
+   "vi": "Lệnh Ranh giới và bản đồ đo đạc (Thay đổi ranh giới) (Hợp nhất) 1992",
+   "th": "คำสั่งเขตแดนและแผนที่รังวัด (การเปลี่ยนแปลงเขตแดน) (การรวมฉบับ) 1992",
+   "id": "Perintah Batas dan Peta Ukur (Perubahan Batas) (Konsolidasi) 1992",
+   "ms": "Perintah Sempadan dan Peta Ukur (Perubahan Sempadan) (Penyatuan) 1992"
+  },
+  "SG-H3232": {
+   "vi": "Quy chế Lạm dụng ma túy (Cơ sở được chấp thuận) (Kỷ luật)",
+   "th": "ข้อบังคับการใช้ยาเสพติดในทางที่ผิด (สถาบันที่ได้รับอนุมัติ) (วินัย)",
+   "id": "Peraturan Penyalahgunaan Narkotika (Institusi yang Disetujui) (Disiplin)",
+   "ms": "Peraturan Penyalahgunaan Dadah (Institusi yang Diluluskan) (Disiplin)"
+  },
+  "SG-H3234": {
+   "vi": "Quy chế Lạm dụng ma túy (Cơ sở được chấp thuận, quan sát y tế và điều trị phục hồi)",
+   "th": "ข้อบังคับการใช้ยาเสพติดในทางที่ผิด (สถาบันที่ได้รับอนุมัติ การสังเกตทางการแพทย์ และการบำบัดฟื้นฟู)",
+   "id": "Peraturan Penyalahgunaan Narkotika (Institusi yang Disetujui, Pengamatan Medis serta Perawatan dan Rehabilitasi)",
+   "ms": "Peraturan Penyalahgunaan Dadah (Institusi yang Diluluskan, Pemerhatian Perubatan serta Rawatan dan Pemulihan)"
+  },
+  "SG-H3325": {
+   "vi": "Quy chế Cơ quan đăng ký bệnh tật quốc gia (Khai báo nhồi máu cơ tim cấp) 2012",
+   "th": "ข้อบังคับทะเบียนโรคแห่งชาติ (การแจ้งข้อมูลกล้ามเนื้อหัวใจตายเฉียบพลัน) 2012",
+   "id": "Peraturan Registri Penyakit Nasional (Pemberitahuan Infark Miokard Akut) 2012",
+   "ms": "Peraturan Daftar Penyakit Kebangsaan (Pemberitahuan Infarksi Miokardium Akut) 2012"
+  },
+  "SG-H3345": {
+   "vi": "Quy tắc Báo chí và nhà in (Đơn và giấy phép)",
+   "th": "กฎหนังสือพิมพ์และโรงพิมพ์ (คำขอและใบอนุญาต)",
+   "id": "Peraturan Surat Kabar dan Percetakan (Permohonan dan Lisensi)",
+   "ms": "Kaedah Akhbar dan Mesin Cetak (Permohonan dan Lesen)"
+  },
+  "SG-H3346": {
+   "vi": "Quy tắc Báo chí và nhà in (Đơn và giấy phép) 2004",
+   "th": "กฎหนังสือพิมพ์และโรงพิมพ์ (คำขอและใบอนุญาต) 2004",
+   "id": "Peraturan Surat Kabar dan Percetakan (Permohonan dan Izin) 2004",
+   "ms": "Kaedah Akhbar dan Mesin Cetak (Permohonan dan Permit) 2004"
+  },
+  "SG-H3379": {
+   "vi": "Quy chế Tác hại hình sự trực tuyến (Kháng nghị lên Bộ trưởng) 2024",
+   "th": "ข้อบังคับภัยอาชญากรรมออนไลน์ (การอุทธรณ์ต่อรัฐมนตรี) 2024",
+   "id": "Peraturan Bahaya Pidana Daring (Banding kepada Menteri) 2024",
+   "ms": "Peraturan Bahaya Jenayah Dalam Talian (Rayuan kepada Menteri) 2024"
+  },
+  "SG-H3491": {
+   "vi": "Luật Lương hưu Nghị viên (Bãi bỏ) 2012",
+   "th": "พระราชบัญญัติบำนาญสมาชิกรัฐสภา (การยกเลิก) 2012",
+   "id": "Undang-Undang tentang Pencen Ahli Parlimen (Penghapusan) 2012",
+   "ms": "Akta Pencen Ahli Parlimen (Penghapusan) 2012"
+  },
+  "SG-H3525": {
+   "vi": "Quy chế Quỹ Thế hệ Tiên phong và Thế hệ Merdeka (Ban kháng nghị) 2015",
+   "th": "ข้อบังคับกองทุนคนรุ่นบุกเบิกและคนรุ่นเมอร์เดกา (คณะผู้อุทธรณ์) 2015",
+   "id": "Peraturan Dana Generasi Perintis dan Generasi Merdeka (Panel Banding) 2015",
+   "ms": "Peraturan Dana Generasi Perintis dan Generasi Merdeka (Panel Rayuan) 2015"
+  },
+  "SG-H353": {
+   "vi": "Quy chế Kiểm soát xây dựng (Kiểm tra viên được công nhận và tổ chức kiểm tra được công nhận)",
+   "th": "ข้อบังคับการควบคุมอาคาร (ผู้ตรวจสอบที่ได้รับการรับรองและองค์กรตรวจสอบที่ได้รับการรับรอง)",
+   "id": "Peraturan Pengendalian Bangunan (Pemeriksa Terakreditasi dan Organisasi Pemeriksa Terakreditasi)",
+   "ms": "Peraturan Kawalan Bangunan (Pemeriksa Terakreditasi dan Organisasi Pemeriksaan Terakreditasi)"
+  },
+  "SG-H354": {
+   "vi": "Thông báo Kiểm soát xây dựng (Ngày được ấn định cho các chương trình nhân lực) 2008",
+   "th": "ประกาศการควบคุมอาคาร (วันที่กำหนดสำหรับโครงการกำลังคน) 2008",
+   "id": "Pemberitahuan Pengendalian Bangunan (Hari yang Ditetapkan untuk Program Tenaga Kerja) 2008",
+   "ms": "Pemberitahuan Kawalan Bangunan (Hari yang Ditetapkan bagi Program Tenaga Kerja) 2008"
+  },
+  "SG-H3562": {
+   "vi": "Quy chế Lao động nền tảng (Chế tài hành chính) 2024",
+   "th": "ข้อบังคับแรงงานแพลตฟอร์ม (บทลงโทษทางปกครอง) 2024",
+   "id": "Peraturan Pekerja Platform (Sanksi Administratif) 2024",
+   "ms": "Peraturan Pekerja Platform (Penalti Pentadbiran) 2024"
+  },
+  "SG-H402": {
+   "vi": "Quy chế Đăng ký tên doanh nghiệp (Áp dụng đối với nghề luật) 2015",
+   "th": "ข้อบังคับการจดทะเบียนชื่อธุรกิจ (การใช้บังคับแก่วิชาชีพกฎหมาย) 2015",
+   "id": "Peraturan Pendaftaran Nama Usaha (Penerapan pada Profesi Hukum) 2015",
+   "ms": "Peraturan Pendaftaran Nama Perniagaan (Penggunaan pada Profesion Guaman) 2015"
+  },
+  "SG-H409": {
+   "vi": "Lệnh Tín thác Thương mại (Sổ sách kế toán của quỹ tín thác kinh doanh đã đăng ký) (Thay thế kỳ kế toán) 2020",
+   "th": "คำสั่งทรัสต์ธุรกิจ (บัญชีของทรัสต์ธุรกิจที่จดทะเบียน) (การแทนที่ระยะเวลา) 2020",
+   "id": "Perintah Perwaliamanatan Bisnis (Akun Perwalian Bisnis Terdaftar) (Penggantian Periode) 2020",
+   "ms": "Perintah Amanah Perniagaan (Akaun Amanah Perniagaan Berdaftar) (Penggantian Tempoh) 2020"
+  },
+  "SG-H419": {
+   "vi": "Lệnh Định giá carbon (Hạn ngạch — Chuyển giao chức năng và quyền hạn) 2023",
+   "th": "คำสั่งการกำหนดราคาคาร์บอน (โควตา — การมอบหมายหน้าที่และอำนาจ) 2023",
+   "id": "Perintah Penetapan Harga Karbon (Kuota — Pelimpahan Fungsi dan Wewenang) 2023",
+   "ms": "Perintah Penetapan Harga Karbon (Kuota — Penyerahan Fungsi dan Kuasa) 2023"
+  },
+  "SG-H420": {
+   "vi": "Quy chế Định giá carbon (Hạn ngạch — Ngày theo quy định) 2023",
+   "th": "ข้อบังคับการกำหนดราคาคาร์บอน (โควตา — วันที่กำหนด) 2023",
+   "id": "Peraturan Penetapan Harga Karbon (Kuota — Tanggal yang Ditetapkan) 2023",
+   "ms": "Peraturan Penetapan Harga Karbon (Kuota — Tarikh yang Ditetapkan) 2023"
+  },
+  "SG-H444": {
+   "vi": "Quy chế Kiểm soát sòng bạc (Hoạt động quảng cáo) 2010",
+   "th": "ข้อบังคับการควบคุมคาสิโน (การโฆษณา) 2010",
+   "id": "Peraturan Pengendalian Kasino (Periklanan) 2010",
+   "ms": "Peraturan Kawalan Kasino (Pengiklanan) 2010"
+  },
+  "SG-H558": {
+   "vi": "Quy chế Từ thiện (Sổ sách kế toán và báo cáo thường niên) 2011",
+   "th": "ข้อบังคับการกุศล (บัญชีและรายงานประจำปี) 2011",
+   "id": "Peraturan Amal (Akun dan Laporan Tahunan) 2011",
+   "ms": "Peraturan Kebajikan (Akaun dan Laporan Tahunan) 2011"
+  },
+  "SG-H581": {
+   "vi": "Lệnh Tiết kiệm Chung Phát triển Trẻ em (Áp dụng các quy định của Luật Việc làm)",
+   "th": "คำสั่งการออมร่วมเพื่อพัฒนาเด็ก (การใช้บังคับบทบัญญัติแห่งพระราชบัญญัติการจ้างงาน)",
+   "id": "Perintah Tabungan Bersama Pengembangan Anak (Penerapan Ketentuan Undang-Undang Ketenagakerjaan)",
+   "ms": "Perintah Simpanan Bersama Pembangunan Kanak-Kanak (Penggunaan Peruntukan Akta Pekerjaan)"
+  },
+  "SG-H586": {
+   "vi": "Thông báo Trẻ em và người vị thành niên (Bệnh viện được chấp thuận) 2020",
+   "th": "ประกาศเด็กและเยาวชน (โรงพยาบาลที่ได้รับอนุมัติ) 2020",
+   "id": "Pemberitahuan Anak-anak dan Remaja (Rumah Sakit yang Disetujui) 2020",
+   "ms": "Pemberitahuan Kanak-kanak dan Orang Muda (Hospital yang Diluluskan) 2020"
+  },
+  "SG-H602": {
+   "vi": "Quy chế Quỹ hụi (Các quảng cáo) 1972",
+   "th": "ข้อบังคับกองทุนแชร์ (การโฆษณา) 1972",
+   "id": "Peraturan Dana Arisan (Iklan-Iklan) 1972",
+   "ms": "Peraturan Kumpulan Wang Kutu (Pengiklanan) 1972"
+  },
+  "SG-H611": {
+   "vi": "Lệnh Cơ quan Hàng không Dân dụng Singapore (Lệ phí phát triển sân bay) 2018",
+   "th": "คำสั่งองค์การการบินพลเรือนแห่งสิงคโปร์ (ค่าธรรมเนียมการพัฒนาสนามบิน) 2018",
+   "id": "Perintah Otoritas Penerbangan Sipil Singapura (Retribusi Pengembangan Bandar Udara) 2018",
+   "ms": "Perintah Pihak Berkuasa Penerbangan Awam Singapura (Levi Pembangunan Lapangan Terbang) 2018"
+  },
+  "SG-H612": {
+   "vi": "Quy tắc Cơ quan Hàng không Dân dụng Singapore (Quy hoạch tổng thể sân bay) 2009",
+   "th": "กฎองค์การการบินพลเรือนแห่งสิงคโปร์ (แผนแม่บทสนามบิน) 2009",
+   "id": "Peraturan Otoritas Penerbangan Sipil Singapura (Rencana Induk Bandar Udara) 2009",
+   "ms": "Kaedah Pihak Berkuasa Penerbangan Awam Singapura (Pelan Induk Lapangan Terbang) 2009"
+  },
+  "SG-H614": {
+   "vi": "Quy tắc Cơ quan Hàng không Dân dụng Singapore (Kháng nghị lên Bộ trưởng) 2009",
+   "th": "กฎองค์การการบินพลเรือนแห่งสิงคโปร์ (การอุทธรณ์ต่อรัฐมนตรี) 2009",
+   "id": "Peraturan Otoritas Penerbangan Sipil Singapura (Banding kepada Menteri) 2009",
+   "ms": "Kaedah Pihak Berkuasa Penerbangan Awam Singapura (Rayuan kepada Menteri) 2009"
+  },
+  "SG-H633": {
+   "vi": "Quy chế Phòng thủ dân sự (Bắt giữ, khám xét, điều tra và xét xử tội phạm)",
+   "th": "ข้อบังคับการป้องกันพลเรือน (การจับกุม การค้น การสอบสวน และการพิจารณาคดีความผิด)",
+   "id": "Peraturan Pertahanan Sipil (Penangkapan, Penggeledahan, Penyidikan dan Persidangan Pelanggaran)",
+   "ms": "Peraturan Pertahanan Awam (Penangkapan, Penggeledahan, Siasatan dan Perbicaraan Kesalahan)"
+  },
+  "SG-H757": {
+   "vi": "Quy chế Giải quyết tranh chấp cộng đồng (Kháng nghị theo Điều 13W) 2025",
+   "th": "ข้อบังคับการระงับข้อพิพาทชุมชน (การอุทธรณ์ตามมาตรา 13W) 2025",
+   "id": "Peraturan Penyelesaian Sengketa Masyarakat (Banding menurut Pasal 13W) 2025",
+   "ms": "Peraturan Penyelesaian Pertikaian Komuniti (Rayuan menurut Seksyen 13W) 2025"
+  },
+  "SG-H766": {
+   "vi": "Quy chế Công ty (Kiểm toán viên công ty được chấp thuận) (Quy định chuyển tiếp và bảo lưu) 2004",
+   "th": "ข้อบังคับบริษัท (ผู้สอบบัญชีบริษัทที่ได้รับอนุมัติ) (บทเฉพาะกาลและบทสงวนสิทธิ) 2004",
+   "id": "Peraturan Perusahaan (Auditor Perusahaan yang Disetujui) (Ketentuan Peralihan dan Penyimpanan) 2004",
+   "ms": "Peraturan Syarikat (Juruaudit Syarikat yang Diluluskan) (Peruntukan Peralihan dan Pemeliharaan) 2004"
+  },
+  "SG-H767": {
+   "vi": "Quy chế Công ty (Người thanh lý được chấp thuận) (Quy định chuyển tiếp và bảo lưu) 2004",
+   "th": "ข้อบังคับบริษัท (ผู้ชำระบัญชีที่ได้รับอนุมัติ) (บทเฉพาะกาลและบทสงวนสิทธิ) 2004",
+   "id": "Peraturan Perusahaan (Likuidator yang Disetujui) (Ketentuan Peralihan dan Penyimpanan) 2004",
+   "ms": "Peraturan Syarikat (Pelikuidasi yang Diluluskan) (Peruntukan Peralihan dan Pemeliharaan) 2004"
+  },
+  "SG-H824": {
+   "vi": "Quy tắc Kiểm soát thực vật (Dấu công nhận, chứng nhận và kiểm tra) 2019",
+   "th": "กฎการควบคุมพืช (เครื่องหมายการรับรอง การออกใบรับรอง และการตรวจสอบ) 2019",
+   "id": "Peraturan Pengendalian Tanaman (Tanda Akreditasi, Sertifikasi dan Inspeksi) 2019",
+   "ms": "Kaedah Kawalan Tumbuhan (Tanda Akreditasi, Pensijilan dan Pemeriksaan) 2019"
+  },
+  "SG-H825": {
+   "vi": "Quy tắc Kiểm soát thực vật (Phí dịch vụ phân tích và kiểm tra)",
+   "th": "กฎการควบคุมพืช (ค่าธรรมเนียมบริการวิเคราะห์และตรวจสอบ)",
+   "id": "Peraturan Pengendalian Tanaman (Biaya Layanan Analisis dan Inspeksi)",
+   "ms": "Kaedah Kawalan Tumbuhan (Fi Perkhidmatan Analisis dan Pemeriksaan)"
+  },
+  "SG-H848": {
+   "vi": "Quy chế Quyền tác giả (Biện pháp kiểm soát truy cập — Ngoại lệ theo quy định) 2024",
+   "th": "ข้อบังคับลิขสิทธิ์ (มาตรการควบคุมการเข้าถึง — ข้อยกเว้นตามที่กำหนด) 2024",
+   "id": "Peraturan Hak Cipta (Tindakan Pengendalian Akses — Pengecualian yang Ditetapkan) 2024",
+   "ms": "Peraturan Hak Cipta (Langkah Kawalan Akses — Pengecualian yang Ditetapkan) 2024"
+  }
+ }
+}

@@ -1,0 +1,4685 @@
+{
+ "ok": [
+  "PH-H10362",
+  "PH-H1744",
+  "PH-H748",
+  "PH-H9533",
+  "PH-H8525",
+  "PH-H7697",
+  "PH-H1746",
+  "PH-H5649",
+  "PH-H7623",
+  "PH-H10403",
+  "PH-H10336",
+  "PH-H6406",
+  "PH-H10691",
+  "PH-H7223",
+  "PH-H7224",
+  "PH-H10352",
+  "PH-H6334",
+  "PH-H6728",
+  "PH-H6670",
+  "PH-H6701",
+  "PH-H6772",
+  "PH-H6156",
+  "PH-H592",
+  "PH-H9911",
+  "PH-H10601",
+  "PH-H6400",
+  "PH-H10532",
+  "PH-H10641",
+  "PH-H336",
+  "PH-H4902",
+  "PH-H1634",
+  "PH-H9644",
+  "PH-H10694",
+  "PH-H1806",
+  "PH-H996",
+  "PH-H7674",
+  "PH-H1134",
+  "PH-H5841",
+  "PH-H10074",
+  "PH-H9631",
+  "PH-H481",
+  "PH-H8176",
+  "PH-H8177",
+  "PH-H8178",
+  "PH-H9717",
+  "PH-H2401",
+  "PH-H9769",
+  "PH-H10069",
+  "PH-H10284",
+  "PH-H1212",
+  "PH-H5715",
+  "PH-H3063",
+  "PH-H6522",
+  "PH-H7634",
+  "PH-H9593",
+  "PH-H9773",
+  "PH-H10639",
+  "PH-H1434",
+  "PH-H2428",
+  "PH-H493",
+  "PH-H6203",
+  "PH-H7034"
+ ],
+ "rejected": [
+  {
+   "lawId": "PH-H029",
+   "old": 86,
+   "new": 86,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2017/ra_10963_2017.html"
+  },
+  {
+   "lawId": "PH-H8451",
+   "old": 68,
+   "new": 69,
+   "oldHasChapter": true,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2010/ra_9994_2010.html"
+  },
+  {
+   "lawId": "PH-H10700",
+   "old": 114,
+   "new": 116,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2026/ra_12314_2026.html"
+  },
+  {
+   "lawId": "PH-H4277",
+   "old": 112,
+   "new": 112,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5478_1969.html"
+  },
+  {
+   "lawId": "PH-H4317",
+   "old": 110,
+   "new": 110,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5518_1969.html"
+  },
+  {
+   "lawId": "PH-H10370",
+   "old": 106,
+   "new": 106,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2023/ra_11975_2023.html"
+  },
+  {
+   "lawId": "PH-H528",
+   "old": 86,
+   "new": 86,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1950/ra_537_1950.html"
+  },
+  {
+   "lawId": "PH-H9105",
+   "old": 79,
+   "new": 79,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2015/ra_10654_2015.html"
+  },
+  {
+   "lawId": "PH-H6144",
+   "old": 71,
+   "new": 72,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1993/ra_7663_1993.html"
+  },
+  {
+   "lawId": "PH-H7834",
+   "old": 62,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9372_2007.html"
+  },
+  {
+   "lawId": "PH-H9367",
+   "old": 61,
+   "new": 60,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10919_2016.html"
+  },
+  {
+   "lawId": "PH-H6355",
+   "old": 59,
+   "new": 59,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7875_1995.html"
+  },
+  {
+   "lawId": "PH-H5185",
+   "old": 56,
+   "new": 56,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1988/ra_6688_1988.html"
+  },
+  {
+   "lawId": "PH-H6201",
+   "old": 54,
+   "new": 54,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7720_1994.html"
+  },
+  {
+   "lawId": "PH-H6310",
+   "old": 54,
+   "new": 54,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7829_1994.html"
+  },
+  {
+   "lawId": "PH-H9294",
+   "old": 54,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10846_2016.html"
+  },
+  {
+   "lawId": "PH-H10289",
+   "old": 53,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11861_2022.html"
+  },
+  {
+   "lawId": "PH-H10371",
+   "old": 53,
+   "new": 51,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_11976_2024.html"
+  },
+  {
+   "lawId": "PH-H5338",
+   "old": 53,
+   "new": 53,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1990/ra_6848_1990.html"
+  },
+  {
+   "lawId": "PH-H6667",
+   "old": 52,
+   "new": 52,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1996/ra_8189_1996.html"
+  },
+  {
+   "lawId": "PH-H2357",
+   "old": 51,
+   "new": 51,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1960/ra_2629_1960.html"
+  },
+  {
+   "lawId": "PH-H5139",
+   "old": 51,
+   "new": 51,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1987/ra_6642_1987.html"
+  },
+  {
+   "lawId": "PH-H7727",
+   "old": 50,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9262_2004.html"
+  },
+  {
+   "lawId": "PH-H5767",
+   "old": 49,
+   "new": 49,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7279_1992.html"
+  },
+  {
+   "lawId": "PH-H9656",
+   "old": 49,
+   "new": 49,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11211_2019.html"
+  },
+  {
+   "lawId": "PH-H649",
+   "old": 48,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1951/ra_660_1951.html"
+  },
+  {
+   "lawId": "PH-H8524",
+   "old": 47,
+   "new": 47,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2010/ra_10067_2010.html"
+  },
+  {
+   "lawId": "PH-H10455",
+   "old": 46,
+   "new": 35,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_12066_2024.html"
+  },
+  {
+   "lawId": "PH-PSA-2022",
+   "old": 46,
+   "new": 35,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11659_2022.html"
+  },
+  {
+   "lawId": "PH-H9042",
+   "old": 45,
+   "new": 45,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10590_2013.html"
+  },
+  {
+   "lawId": "PH-H10600",
+   "old": 44,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12214_2025.html"
+  },
+  {
+   "lawId": "PH-H6521",
+   "old": 44,
+   "new": 43,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8042_1995.html"
+  },
+  {
+   "lawId": "PH-H6529",
+   "old": 43,
+   "new": 43,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8050_1995.html"
+  },
+  {
+   "lawId": "PH-H5266",
+   "old": 42,
+   "new": 39,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1989/ra_6770_1989.html"
+  },
+  {
+   "lawId": "PH-H5793",
+   "old": 42,
+   "new": 41,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7305_1992.html"
+  },
+  {
+   "lawId": "PH-H7831",
+   "old": 42,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9369_2007.html"
+  },
+  {
+   "lawId": "PH-H816",
+   "old": 42,
+   "new": 42,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1954/ra_981_1954.html"
+  },
+  {
+   "lawId": "PH-H4704",
+   "old": 41,
+   "new": 41,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_6111_1969.html"
+  },
+  {
+   "lawId": "PH-H7677",
+   "old": 41,
+   "new": 41,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2003/ra_9211_2003.html"
+  },
+  {
+   "lawId": "PH-H10122",
+   "old": 40,
+   "new": 40,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11694_2022.html"
+  },
+  {
+   "lawId": "PH-H10290",
+   "old": 40,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11862_2022.html"
+  },
+  {
+   "lawId": "PH-H4635",
+   "old": 40,
+   "new": 40,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_6042_1969.html"
+  },
+  {
+   "lawId": "PH-H536",
+   "old": 40,
+   "new": 40,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1950/ra_545_1950.html"
+  },
+  {
+   "lawId": "PH-H5654",
+   "old": 40,
+   "new": 40,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1991/ra_7166_1991.html"
+  },
+  {
+   "lawId": "PH-H135",
+   "old": 39,
+   "new": 39,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1946/ra_36_1946.html"
+  },
+  {
+   "lawId": "PH-H4936",
+   "old": 39,
+   "new": 39,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1972/ra_6424_1972.html"
+  },
+  {
+   "lawId": "PH-H6277",
+   "old": 39,
+   "new": 39,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7796_1994.html"
+  },
+  {
+   "lawId": "PH-H6966",
+   "old": 39,
+   "new": 39,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8492_1998.html"
+  },
+  {
+   "lawId": "PH-H10361",
+   "old": 38,
+   "new": 38,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2023/ra_11966_2023.html"
+  },
+  {
+   "lawId": "PH-H9943",
+   "old": 38,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2020/ra_11511_2020.html"
+  },
+  {
+   "lawId": "PH-H10452",
+   "old": 37,
+   "new": 37,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_12063_2024.html"
+  },
+  {
+   "lawId": "PH-H7705",
+   "old": 37,
+   "new": 37,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9239_2004.html"
+  },
+  {
+   "lawId": "PH-H10078",
+   "old": 36,
+   "new": 36,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11650_2022.html"
+  },
+  {
+   "lawId": "PH-H10380",
+   "old": 36,
+   "new": 36,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_11985_2024.html"
+  },
+  {
+   "lawId": "PH-H3644",
+   "old": 36,
+   "new": 36,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1965/ra_4618_1965.html"
+  },
+  {
+   "lawId": "PH-H5842",
+   "old": 36,
+   "new": 36,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7354_1992.html"
+  },
+  {
+   "lawId": "PH-H1819",
+   "old": 35,
+   "new": 35,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1958/ra_2080_1958.html"
+  },
+  {
+   "lawId": "PH-H3686",
+   "old": 35,
+   "new": 35,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1966/ra_4670_1966.html"
+  },
+  {
+   "lawId": "PH-H6910",
+   "old": 35,
+   "new": 35,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8436_1997.html"
+  },
+  {
+   "lawId": "PH-H9058",
+   "old": 35,
+   "new": 35,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10606_2013.html"
+  },
+  {
+   "lawId": "PH-H9077",
+   "old": 35,
+   "new": 35,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10625_2013.html"
+  },
+  {
+   "lawId": "PH-H2936",
+   "old": 34,
+   "new": 34,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1962/ra_3500_1962.html"
+  },
+  {
+   "lawId": "PH-H3576",
+   "old": 34,
+   "new": 34,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1965/ra_4374_1965.html"
+  },
+  {
+   "lawId": "PH-H6317",
+   "old": 34,
+   "new": 34,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7836_1994.html"
+  },
+  {
+   "lawId": "PH-H9766",
+   "old": 34,
+   "new": 34,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11333_2019.html"
+  },
+  {
+   "lawId": "PH-EODB-2018",
+   "old": 33,
+   "new": 18,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11032_2018.html"
+  },
+  {
+   "lawId": "PH-H10268",
+   "old": 33,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11840_2022.html"
+  },
+  {
+   "lawId": "PH-H10391",
+   "old": 33,
+   "new": 33,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_11996_2024.html"
+  },
+  {
+   "lawId": "PH-H2427",
+   "old": 33,
+   "new": 33,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1960/ra_2700_1960.html"
+  },
+  {
+   "lawId": "PH-H3679",
+   "old": 33,
+   "new": 33,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1966/ra_4663_1966.html"
+  },
+  {
+   "lawId": "PH-H5143",
+   "old": 33,
+   "new": 33,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1988/ra_6646_1988.html"
+  },
+  {
+   "lawId": "PH-H5881",
+   "old": 33,
+   "new": 33,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7393_1992.html"
+  },
+  {
+   "lawId": "PH-H720",
+   "old": 33,
+   "new": 33,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1953/ra_877_1953.html"
+  },
+  {
+   "lawId": "PH-H8158",
+   "old": 33,
+   "new": 33,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9700_2009.html"
+  },
+  {
+   "lawId": "PH-H8805",
+   "old": 33,
+   "new": 33,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2012/ra_10353_2012.html"
+  },
+  {
+   "lawId": "PH-H007",
+   "old": 32,
+   "new": 32,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1953/ra_876_1953.html"
+  },
+  {
+   "lawId": "PH-H10027",
+   "old": 32,
+   "new": 32,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11597_2021.html"
+  },
+  {
+   "lawId": "PH-H1184",
+   "old": 32,
+   "new": 32,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1350_1955.html"
+  },
+  {
+   "lawId": "PH-H4326",
+   "old": 32,
+   "new": 32,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5527_1969.html"
+  },
+  {
+   "lawId": "PH-H759",
+   "old": 32,
+   "new": 32,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1953/ra_917_1953.html"
+  },
+  {
+   "lawId": "PH-H7656",
+   "old": 32,
+   "new": 1,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2003/ra_9189_2003.html"
+  },
+  {
+   "lawId": "PH-H8186",
+   "old": 32,
+   "new": 32,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9728_2009.html"
+  },
+  {
+   "lawId": "PH-H8824",
+   "old": 32,
+   "new": 32,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10372_2013.html"
+  },
+  {
+   "lawId": "PH-H9726",
+   "old": 32,
+   "new": 32,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11293_2019.html"
+  },
+  {
+   "lawId": "PH-H10360",
+   "old": 31,
+   "new": 31,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2023/ra_11965_2023.html"
+  },
+  {
+   "lawId": "PH-H10375",
+   "old": 31,
+   "new": 31,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_11980_2024.html"
+  },
+  {
+   "lawId": "PH-H10676",
+   "old": 31,
+   "new": 31,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12290_2025.html"
+  },
+  {
+   "lawId": "PH-H2954",
+   "old": 31,
+   "new": 31,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1963/ra_3518_1963.html"
+  },
+  {
+   "lawId": "PH-H4325",
+   "old": 31,
+   "new": 31,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5526_1969.html"
+  },
+  {
+   "lawId": "PH-H4621",
+   "old": 31,
+   "new": 31,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_6028_1969.html"
+  },
+  {
+   "lawId": "PH-H6842",
+   "old": 31,
+   "new": 31,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8367_1997.html"
+  },
+  {
+   "lawId": "PH-H7960",
+   "old": 31,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2008/ra_9500_2008.html"
+  },
+  {
+   "lawId": "PH-H8137",
+   "old": 31,
+   "new": 31,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9679_2009.html"
+  },
+  {
+   "lawId": "PH-H9318",
+   "old": 31,
+   "new": 31,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10870_2016.html"
+  },
+  {
+   "lawId": "PH-H9797",
+   "old": 31,
+   "new": 31,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11364_2019.html"
+  },
+  {
+   "lawId": "PH-H10183",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11755_2022.html"
+  },
+  {
+   "lawId": "PH-H10328",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11900_2022.html"
+  },
+  {
+   "lawId": "PH-H10535",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12148_2025.html"
+  },
+  {
+   "lawId": "PH-H10681",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12295_2025.html"
+  },
+  {
+   "lawId": "PH-H10682",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12296_2025.html"
+  },
+  {
+   "lawId": "PH-H1234",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1400_1955.html"
+  },
+  {
+   "lawId": "PH-H5565",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1991/ra_7076_1991.html"
+  },
+  {
+   "lawId": "PH-H5794",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7306_1992.html"
+  },
+  {
+   "lawId": "PH-H5880",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7392_1992.html"
+  },
+  {
+   "lawId": "PH-H719",
+   "old": 30,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1953/ra_875_1953.html"
+  },
+  {
+   "lawId": "PH-H8233",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9775_2009.html"
+  },
+  {
+   "lawId": "PH-H8512",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2010/ra_10055_2010.html"
+  },
+  {
+   "lawId": "PH-H8543",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2010/ra_10086_2010.html"
+  },
+  {
+   "lawId": "PH-H8578",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2010/ra_10121_2010.html"
+  },
+  {
+   "lawId": "PH-H8806",
+   "old": 30,
+   "new": 30,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2012/ra_10354_2012.html"
+  },
+  {
+   "lawId": "PH-H10004",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11574_2021.html"
+  },
+  {
+   "lawId": "PH-H10016",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11586_2021.html"
+  },
+  {
+   "lawId": "PH-H10017",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11587_2021.html"
+  },
+  {
+   "lawId": "PH-H10211",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11783_2022.html"
+  },
+  {
+   "lawId": "PH-H10418",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_12024_2024.html"
+  },
+  {
+   "lawId": "PH-H10602",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12216_2025.html"
+  },
+  {
+   "lawId": "PH-H10680",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12294_2025.html"
+  },
+  {
+   "lawId": "PH-H10684",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12298_2025.html"
+  },
+  {
+   "lawId": "PH-H3989",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1967/ra_5186_1967.html"
+  },
+  {
+   "lawId": "PH-H535",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1950/ra_544_1950.html"
+  },
+  {
+   "lawId": "PH-H5915",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7431_1992.html"
+  },
+  {
+   "lawId": "PH-H6103",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7621_1992.html"
+  },
+  {
+   "lawId": "PH-H6390",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7910_1995.html"
+  },
+  {
+   "lawId": "PH-H6840",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8365_1997.html"
+  },
+  {
+   "lawId": "PH-H8179",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9721_2009.html"
+  },
+  {
+   "lawId": "PH-H8180",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9722_2009.html"
+  },
+  {
+   "lawId": "PH-H8204",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9746_2009.html"
+  },
+  {
+   "lawId": "PH-H8290",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9832_2009.html"
+  },
+  {
+   "lawId": "PH-H8310",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9852_2009.html"
+  },
+  {
+   "lawId": "PH-H8312",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9854_2009.html"
+  },
+  {
+   "lawId": "PH-H8424",
+   "old": 29,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2010/ra_9966_2010.html"
+  },
+  {
+   "lawId": "PH-H8455",
+   "old": 29,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2010/ra_9998_2010.html"
+  },
+  {
+   "lawId": "PH-H8528",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2010/ra_10071_2010.html"
+  },
+  {
+   "lawId": "PH-H8681",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2012/ra_10228_2012.html"
+  },
+  {
+   "lawId": "PH-H9035",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10583_2013.html"
+  },
+  {
+   "lawId": "PH-H9036",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10584_2013.html"
+  },
+  {
+   "lawId": "PH-H9037",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10585_2013.html"
+  },
+  {
+   "lawId": "PH-H9047",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10595_2013.html"
+  },
+  {
+   "lawId": "PH-H9048",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10596_2013.html"
+  },
+  {
+   "lawId": "PH-H9049",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10597_2013.html"
+  },
+  {
+   "lawId": "PH-H9050",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10598_2013.html"
+  },
+  {
+   "lawId": "PH-H9051",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10599_2013.html"
+  },
+  {
+   "lawId": "PH-H9052",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10600_2013.html"
+  },
+  {
+   "lawId": "PH-H9595",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11150_2018.html"
+  },
+  {
+   "lawId": "PH-H9632",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11187_2019.html"
+  },
+  {
+   "lawId": "PH-H9665",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11220_2019.html"
+  },
+  {
+   "lawId": "PH-H9716",
+   "old": 29,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11283_2019.html"
+  },
+  {
+   "lawId": "PH-H9768",
+   "old": 29,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11335_2019.html"
+  },
+  {
+   "lawId": "PH-H9796",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11363_2019.html"
+  },
+  {
+   "lawId": "PH-H9832",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11399_2019.html"
+  },
+  {
+   "lawId": "PH-H985",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1954/ra_1150_1954.html"
+  },
+  {
+   "lawId": "PH-H9984",
+   "old": 29,
+   "new": 29,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11554_2021.html"
+  },
+  {
+   "lawId": "PH-H10015",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11585_2021.html"
+  },
+  {
+   "lawId": "PH-H10287",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11859_2022.html"
+  },
+  {
+   "lawId": "PH-H10417",
+   "old": 28,
+   "new": 19,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_12023_2024.html"
+  },
+  {
+   "lawId": "PH-H10454",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_12065_2024.html"
+  },
+  {
+   "lawId": "PH-H10668",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12282_2025.html"
+  },
+  {
+   "lawId": "PH-H2739",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1961/ra_3135_1961.html"
+  },
+  {
+   "lawId": "PH-H3825",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1966/ra_4864_1966.html"
+  },
+  {
+   "lawId": "PH-H403",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1948/ra_309_1948.html"
+  },
+  {
+   "lawId": "PH-H4477",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5680_1969.html"
+  },
+  {
+   "lawId": "PH-H6140",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1993/ra_7659_1993.html"
+  },
+  {
+   "lawId": "PH-H6403",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7923_1995.html"
+  },
+  {
+   "lawId": "PH-H6525",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8046_1995.html"
+  },
+  {
+   "lawId": "PH-H6942",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8468_1998.html"
+  },
+  {
+   "lawId": "PH-H7609",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9141_2001.html"
+  },
+  {
+   "lawId": "PH-H7766",
+   "old": 28,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9302_2004.html"
+  },
+  {
+   "lawId": "PH-H7857",
+   "old": 28,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9395_2007.html"
+  },
+  {
+   "lawId": "PH-H7863",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9402_2007.html"
+  },
+  {
+   "lawId": "PH-H7864",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9403_2007.html"
+  },
+  {
+   "lawId": "PH-H7979",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9519_2009.html"
+  },
+  {
+   "lawId": "PH-H8169",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9711_2009.html"
+  },
+  {
+   "lawId": "PH-H8202",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9744_2009.html"
+  },
+  {
+   "lawId": "PH-H8450",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2010/ra_9993_2010.html"
+  },
+  {
+   "lawId": "PH-H8542",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2010/ra_10085_2010.html"
+  },
+  {
+   "lawId": "PH-H8682",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2012/ra_10229_2012.html"
+  },
+  {
+   "lawId": "PH-H9027",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10575_2013.html"
+  },
+  {
+   "lawId": "PH-H9056",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10604_2013.html"
+  },
+  {
+   "lawId": "PH-H9057",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10605_2013.html"
+  },
+  {
+   "lawId": "PH-H9193",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10744_2016.html"
+  },
+  {
+   "lawId": "PH-H9248",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10800_2016.html"
+  },
+  {
+   "lawId": "PH-H9478",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11033_2018.html"
+  },
+  {
+   "lawId": "PH-H9616",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11171_2019.html"
+  },
+  {
+   "lawId": "PH-H9715",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11282_2019.html"
+  },
+  {
+   "lawId": "PH-H9767",
+   "old": 28,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11334_2019.html"
+  },
+  {
+   "lawId": "PH-H9942",
+   "old": 28,
+   "new": 28,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2020/ra_11510_2020.html"
+  },
+  {
+   "lawId": "PH-H10378",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_11983_2024.html"
+  },
+  {
+   "lawId": "PH-H10617",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12231_2025.html"
+  },
+  {
+   "lawId": "PH-H1759",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1957/ra_2013_1957.html"
+  },
+  {
+   "lawId": "PH-H3024",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1963/ra_3588_1963.html"
+  },
+  {
+   "lawId": "PH-H3741",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1966/ra_4726_1966.html"
+  },
+  {
+   "lawId": "PH-H5006",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1972/ra_6506_1972.html"
+  },
+  {
+   "lawId": "PH-H5844",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7356_1992.html"
+  },
+  {
+   "lawId": "PH-H6364",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7884_1995.html"
+  },
+  {
+   "lawId": "PH-H6412",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7932_1995.html"
+  },
+  {
+   "lawId": "PH-H6922",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8448_1998.html"
+  },
+  {
+   "lawId": "PH-H7032",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8562_1998.html"
+  },
+  {
+   "lawId": "PH-H7061",
+   "old": 27,
+   "new": 16,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8591_1998.html"
+  },
+  {
+   "lawId": "PH-H7082",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8612_1998.html"
+  },
+  {
+   "lawId": "PH-H7513",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9045_2001.html"
+  },
+  {
+   "lawId": "PH-H7523",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9055_2001.html"
+  },
+  {
+   "lawId": "PH-H7894",
+   "old": 27,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9433_2007.html"
+  },
+  {
+   "lawId": "PH-H7917",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9456_2007.html"
+  },
+  {
+   "lawId": "PH-H7951",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9490_2007.html"
+  },
+  {
+   "lawId": "PH-H8175",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9717_2009.html"
+  },
+  {
+   "lawId": "PH-H8683",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2012/ra_10230_2012.html"
+  },
+  {
+   "lawId": "PH-H8684",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2012/ra_10231_2012.html"
+  },
+  {
+   "lawId": "PH-H8816",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10364_2013.html"
+  },
+  {
+   "lawId": "PH-H9046",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10594_2013.html"
+  },
+  {
+   "lawId": "PH-H9743",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11310_2019.html"
+  },
+  {
+   "lawId": "PH-H9790",
+   "old": 27,
+   "new": 27,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11357_2019.html"
+  },
+  {
+   "lawId": "PH-H10141",
+   "old": 26,
+   "new": 4,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11713_2022.html"
+  },
+  {
+   "lawId": "PH-H10196",
+   "old": 26,
+   "new": 17,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11768_2022.html"
+  },
+  {
+   "lawId": "PH-H10404",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_12010_2024.html"
+  },
+  {
+   "lawId": "PH-H10685",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12299_2025.html"
+  },
+  {
+   "lawId": "PH-H10686",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12300_2025.html"
+  },
+  {
+   "lawId": "PH-H125",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1946/ra_26_1946.html"
+  },
+  {
+   "lawId": "PH-H3988",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1967/ra_5185_1967.html"
+  },
+  {
+   "lawId": "PH-H6141",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1993/ra_7660_1993.html"
+  },
+  {
+   "lawId": "PH-H6671",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1996/ra_8193_1996.html"
+  },
+  {
+   "lawId": "PH-H7017",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8547_1998.html"
+  },
+  {
+   "lawId": "PH-H7033",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8563_1998.html"
+  },
+  {
+   "lawId": "PH-H7121",
+   "old": 26,
+   "new": 1,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8651_1998.html"
+  },
+  {
+   "lawId": "PH-H7125",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8655_1998.html"
+  },
+  {
+   "lawId": "PH-H7158",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8688_1998.html"
+  },
+  {
+   "lawId": "PH-H7737",
+   "old": 26,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9272_2004.html"
+  },
+  {
+   "lawId": "PH-H7799",
+   "old": 26,
+   "new": 1,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2005/ra_9337_2005.html"
+  },
+  {
+   "lawId": "PH-H8187",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9729_2009.html"
+  },
+  {
+   "lawId": "PH-H9657",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11212_2019.html"
+  },
+  {
+   "lawId": "PH-H9881",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11448_2019.html"
+  },
+  {
+   "lawId": "PH-H9967",
+   "old": 26,
+   "new": 26,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11537_2021.html"
+  },
+  {
+   "lawId": "PH-H10123",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11695_2022.html"
+  },
+  {
+   "lawId": "PH-H10405",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_12011_2024.html"
+  },
+  {
+   "lawId": "PH-H10422",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_12028_2024.html"
+  },
+  {
+   "lawId": "PH-H10696",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12310_2025.html"
+  },
+  {
+   "lawId": "PH-H139",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1946/ra_40_1946.html"
+  },
+  {
+   "lawId": "PH-H5859",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7371_1992.html"
+  },
+  {
+   "lawId": "PH-H5860",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7372_1992.html"
+  },
+  {
+   "lawId": "PH-H591",
+   "old": 25,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1951/ra_602_1951.html"
+  },
+  {
+   "lawId": "PH-H6299",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7818_1994.html"
+  },
+  {
+   "lawId": "PH-H6325",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7844_1994.html"
+  },
+  {
+   "lawId": "PH-H6359",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7879_1995.html"
+  },
+  {
+   "lawId": "PH-H6393",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7913_1995.html"
+  },
+  {
+   "lawId": "PH-H6582",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8103_1995.html"
+  },
+  {
+   "lawId": "PH-H6913",
+   "old": 25,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8439_1997.html"
+  },
+  {
+   "lawId": "PH-H7120",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8650_1998.html"
+  },
+  {
+   "lawId": "PH-H753",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1953/ra_911_1953.html"
+  },
+  {
+   "lawId": "PH-H7610",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9142_2001.html"
+  },
+  {
+   "lawId": "PH-H827",
+   "old": 25,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1954/ra_992_1954.html"
+  },
+  {
+   "lawId": "PH-H8305",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9847_2009.html"
+  },
+  {
+   "lawId": "PH-H8623",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2012/ra_10168_2012.html"
+  },
+  {
+   "lawId": "PH-H9098",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2014/ra_10646_2014.html"
+  },
+  {
+   "lawId": "PH-H9143",
+   "old": 25,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2015/ra_10693_2015.html"
+  },
+  {
+   "lawId": "PH-H9500",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11055_2018.html"
+  },
+  {
+   "lawId": "PH-H9572",
+   "old": 25,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11127_2018.html"
+  },
+  {
+   "lawId": "PH-H9902",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2020/ra_11470_2020.html"
+  },
+  {
+   "lawId": "PH-H9938",
+   "old": 25,
+   "new": 25,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2020/ra_11506_2020.html"
+  },
+  {
+   "lawId": "PH-H10533",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12146_2025.html"
+  },
+  {
+   "lawId": "PH-H10567",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12180_2025.html"
+  },
+  {
+   "lawId": "PH-H1199",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1365_1955.html"
+  },
+  {
+   "lawId": "PH-H1998",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1959/ra_2263_1959.html"
+  },
+  {
+   "lawId": "PH-H2356",
+   "old": 24,
+   "new": 15,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1960/ra_2628_1960.html"
+  },
+  {
+   "lawId": "PH-H3350",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1964/ra_4147_1964.html"
+  },
+  {
+   "lawId": "PH-H517",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1950/ra_426_1950.html"
+  },
+  {
+   "lawId": "PH-H6064",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7581_1992.html"
+  },
+  {
+   "lawId": "PH-H6069",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7586_1992.html"
+  },
+  {
+   "lawId": "PH-H6574",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8095_1995.html"
+  },
+  {
+   "lawId": "PH-H6717",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1996/ra_8239_1996.html"
+  },
+  {
+   "lawId": "PH-H6972",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8498_1998.html"
+  },
+  {
+   "lawId": "PH-H7129",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8659_1998.html"
+  },
+  {
+   "lawId": "PH-H7497",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9029_2001.html"
+  },
+  {
+   "lawId": "PH-H7606",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9138_2001.html"
+  },
+  {
+   "lawId": "PH-H7625",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9157_2001.html"
+  },
+  {
+   "lawId": "PH-H7626",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9158_2001.html"
+  },
+  {
+   "lawId": "PH-H7627",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9159_2001.html"
+  },
+  {
+   "lawId": "PH-H7738",
+   "old": 24,
+   "new": 1,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9273_2004.html"
+  },
+  {
+   "lawId": "PH-H7763",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9299_2004.html"
+  },
+  {
+   "lawId": "PH-H7777",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9313_2004.html"
+  },
+  {
+   "lawId": "PH-H7778",
+   "old": 24,
+   "new": 1,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9314_2004.html"
+  },
+  {
+   "lawId": "PH-H8842",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10390_2013.html"
+  },
+  {
+   "lawId": "PH-H9089",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2014/ra_10637_2014.html"
+  },
+  {
+   "lawId": "PH-H9292",
+   "old": 24,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10844_2016.html"
+  },
+  {
+   "lawId": "PH-H960",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1954/ra_1125_1954.html"
+  },
+  {
+   "lawId": "PH-H9844",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11411_2019.html"
+  },
+  {
+   "lawId": "PH-H9935",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2020/ra_11503_2020.html"
+  },
+  {
+   "lawId": "PH-H9941",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2020/ra_11509_2020.html"
+  },
+  {
+   "lawId": "PH-H9947",
+   "old": 24,
+   "new": 24,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2020/ra_11515_2020.html"
+  },
+  {
+   "lawId": "PH-MSME-2008",
+   "old": 24,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2008/ra_9501_2008.html"
+  },
+  {
+   "lawId": "PH-H10126",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11698_2022.html"
+  },
+  {
+   "lawId": "PH-H10376",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_11981_2024.html"
+  },
+  {
+   "lawId": "PH-H10411",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_12017_2024.html"
+  },
+  {
+   "lawId": "PH-H10414",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2024/ra_12020_2024.html"
+  },
+  {
+   "lawId": "PH-H10585",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12199_2025.html"
+  },
+  {
+   "lawId": "PH-H10663",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12277_2025.html"
+  },
+  {
+   "lawId": "PH-H10664",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12278_2025.html"
+  },
+  {
+   "lawId": "PH-H10688",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12302_2025.html"
+  },
+  {
+   "lawId": "PH-H10689",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12303_2025.html"
+  },
+  {
+   "lawId": "PH-H10692",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12306_2025.html"
+  },
+  {
+   "lawId": "PH-H1626",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1957/ra_1792_1957.html"
+  },
+  {
+   "lawId": "PH-H2897",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1962/ra_3461_1962.html"
+  },
+  {
+   "lawId": "PH-H3098",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1963/ra_3662_1963.html"
+  },
+  {
+   "lawId": "PH-H3359",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1964/ra_4156_1964.html"
+  },
+  {
+   "lawId": "PH-H4719",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1970/ra_6132_1970.html"
+  },
+  {
+   "lawId": "PH-H4903",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1971/ra_6390_1971.html"
+  },
+  {
+   "lawId": "PH-H5232",
+   "old": 23,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1989/ra_6735_1989.html"
+  },
+  {
+   "lawId": "PH-H5254",
+   "old": 23,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1989/ra_6758_1989.html"
+  },
+  {
+   "lawId": "PH-H5796",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7308_1992.html"
+  },
+  {
+   "lawId": "PH-H6115",
+   "old": 23,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7633_1992.html"
+  },
+  {
+   "lawId": "PH-H6523",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8044_1995.html"
+  },
+  {
+   "lawId": "PH-H6544",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8065_1995.html"
+  },
+  {
+   "lawId": "PH-H661",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1951/ra_673_1951.html"
+  },
+  {
+   "lawId": "PH-H6653",
+   "old": 23,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8175_1995.html"
+  },
+  {
+   "lawId": "PH-H6719",
+   "old": 23,
+   "new": 14,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1996/ra_8241_1996.html"
+  },
+  {
+   "lawId": "PH-H7018",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8548_1998.html"
+  },
+  {
+   "lawId": "PH-H7098",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8628_1998.html"
+  },
+  {
+   "lawId": "PH-H7614",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9146_2001.html"
+  },
+  {
+   "lawId": "PH-H7628",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9160_2001.html"
+  },
+  {
+   "lawId": "PH-H7725",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9260_2004.html"
+  },
+  {
+   "lawId": "PH-H7726",
+   "old": 23,
+   "new": 1,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9261_2004.html"
+  },
+  {
+   "lawId": "PH-H7775",
+   "old": 23,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9311_2004.html"
+  },
+  {
+   "lawId": "PH-H7776",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9312_2004.html"
+  },
+  {
+   "lawId": "PH-H7947",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9486_2007.html"
+  },
+  {
+   "lawId": "PH-H8796",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2012/ra_10343_2012.html"
+  },
+  {
+   "lawId": "PH-H9102",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2014/ra_10650_2014.html"
+  },
+  {
+   "lawId": "PH-H9265",
+   "old": 23,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10817_2016.html"
+  },
+  {
+   "lawId": "PH-H9331",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10883_2016.html"
+  },
+  {
+   "lawId": "PH-H9339",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10891_2016.html"
+  },
+  {
+   "lawId": "PH-H9483",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11038_2018.html"
+  },
+  {
+   "lawId": "PH-H9534",
+   "old": 23,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11089_2018.html"
+  },
+  {
+   "lawId": "PH-H9635",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11190_2019.html"
+  },
+  {
+   "lawId": "PH-H9853",
+   "old": 23,
+   "new": 23,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11420_2019.html"
+  },
+  {
+   "lawId": "PH-H10002",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11572_2021.html"
+  },
+  {
+   "lawId": "PH-H10257",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11829_2022.html"
+  },
+  {
+   "lawId": "PH-H10675",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12289_2025.html"
+  },
+  {
+   "lawId": "PH-H1665",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1957/ra_1831_1957.html"
+  },
+  {
+   "lawId": "PH-H2444",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1960/ra_2717_1960.html"
+  },
+  {
+   "lawId": "PH-H2704",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1961/ra_3098_1961.html"
+  },
+  {
+   "lawId": "PH-H4623",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_6030_1969.html"
+  },
+  {
+   "lawId": "PH-H4722",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1970/ra_6135_1970.html"
+  },
+  {
+   "lawId": "PH-H5020",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1972/ra_6520_1972.html"
+  },
+  {
+   "lawId": "PH-H5471",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1991/ra_6981_1991.html"
+  },
+  {
+   "lawId": "PH-H5570",
+   "old": 22,
+   "new": 3,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1991/ra_7082_1991.html"
+  },
+  {
+   "lawId": "PH-H5795",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7307_1992.html"
+  },
+  {
+   "lawId": "PH-H6159",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7678_1994.html"
+  },
+  {
+   "lawId": "PH-H6167",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7686_1994.html"
+  },
+  {
+   "lawId": "PH-H6301",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7820_1994.html"
+  },
+  {
+   "lawId": "PH-H6421",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7941_1995.html"
+  },
+  {
+   "lawId": "PH-H6483",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8004_1995.html"
+  },
+  {
+   "lawId": "PH-H6486",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8007_1995.html"
+  },
+  {
+   "lawId": "PH-H6545",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8066_1995.html"
+  },
+  {
+   "lawId": "PH-H6882",
+   "old": 22,
+   "new": 2,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8407_1997.html"
+  },
+  {
+   "lawId": "PH-H7446",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2000/ra_8978_2000.html"
+  },
+  {
+   "lawId": "PH-H7460",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_8992_2001.html"
+  },
+  {
+   "lawId": "PH-H7470",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9002_2001.html"
+  },
+  {
+   "lawId": "PH-H7584",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9116_2001.html"
+  },
+  {
+   "lawId": "PH-H7598",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9130_2001.html"
+  },
+  {
+   "lawId": "PH-H7617",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9149_2001.html"
+  },
+  {
+   "lawId": "PH-H7647",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2002/ra_9180_2002.html"
+  },
+  {
+   "lawId": "PH-H7701",
+   "old": 22,
+   "new": 1,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9235_2004.html"
+  },
+  {
+   "lawId": "PH-H7702",
+   "old": 22,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9236_2004.html"
+  },
+  {
+   "lawId": "PH-H7753",
+   "old": 22,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9289_2004.html"
+  },
+  {
+   "lawId": "PH-H7779",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9315_2004.html"
+  },
+  {
+   "lawId": "PH-H7785",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9321_2004.html"
+  },
+  {
+   "lawId": "PH-H8315",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9857_2009.html"
+  },
+  {
+   "lawId": "PH-H9095",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2014/ra_10643_2014.html"
+  },
+  {
+   "lawId": "PH-H9243",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10795_2016.html"
+  },
+  {
+   "lawId": "PH-H9270",
+   "old": 22,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10822_2016.html"
+  },
+  {
+   "lawId": "PH-H9338",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10890_2016.html"
+  },
+  {
+   "lawId": "PH-H9340",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10892_2016.html"
+  },
+  {
+   "lawId": "PH-H9343",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10895_2016.html"
+  },
+  {
+   "lawId": "PH-H9345",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10897_2016.html"
+  },
+  {
+   "lawId": "PH-H9346",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10898_2016.html"
+  },
+  {
+   "lawId": "PH-H9350",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10902_2016.html"
+  },
+  {
+   "lawId": "PH-H9351",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10903_2016.html"
+  },
+  {
+   "lawId": "PH-H9376",
+   "old": 22,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2017/ra_10929_2017.html"
+  },
+  {
+   "lawId": "PH-H9417",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_10972_2018.html"
+  },
+  {
+   "lawId": "PH-H9655",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11210_2019.html"
+  },
+  {
+   "lawId": "PH-H9677",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11235_2019.html"
+  },
+  {
+   "lawId": "PH-H9755",
+   "old": 22,
+   "new": 22,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11322_2019.html"
+  },
+  {
+   "lawId": "PH-H10011",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11581_2021.html"
+  },
+  {
+   "lawId": "PH-H10077",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11649_2022.html"
+  },
+  {
+   "lawId": "PH-H10106",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11678_2022.html"
+  },
+  {
+   "lawId": "PH-H10187",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11759_2022.html"
+  },
+  {
+   "lawId": "PH-H10193",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11765_2022.html"
+  },
+  {
+   "lawId": "PH-H10263",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11835_2022.html"
+  },
+  {
+   "lawId": "PH-H10265",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11837_2022.html"
+  },
+  {
+   "lawId": "PH-H10266",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11838_2022.html"
+  },
+  {
+   "lawId": "PH-H10269",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11841_2022.html"
+  },
+  {
+   "lawId": "PH-H1245",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1411_1955.html"
+  },
+  {
+   "lawId": "PH-H1446",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1956/ra_1612_1956.html"
+  },
+  {
+   "lawId": "PH-H1623",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1957/ra_1789_1957.html"
+  },
+  {
+   "lawId": "PH-H4570",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5974_1969.html"
+  },
+  {
+   "lawId": "PH-H4821",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1971/ra_6234_1971.html"
+  },
+  {
+   "lawId": "PH-H5448",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1990/ra_6958_1990.html"
+  },
+  {
+   "lawId": "PH-H5592",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1991/ra_7104_1991.html"
+  },
+  {
+   "lawId": "PH-H6099",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7617_1992.html"
+  },
+  {
+   "lawId": "PH-H6168",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7687_1994.html"
+  },
+  {
+   "lawId": "PH-H6197",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7716_1994.html"
+  },
+  {
+   "lawId": "PH-H6264",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7783_1994.html"
+  },
+  {
+   "lawId": "PH-H639",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1951/ra_650_1951.html"
+  },
+  {
+   "lawId": "PH-H6413",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7933_1995.html"
+  },
+  {
+   "lawId": "PH-H6419",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7939_1995.html"
+  },
+  {
+   "lawId": "PH-H6424",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7945_1995.html"
+  },
+  {
+   "lawId": "PH-H6426",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7947_1995.html"
+  },
+  {
+   "lawId": "PH-H6676",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1996/ra_8198_1996.html"
+  },
+  {
+   "lawId": "PH-H6807",
+   "old": 21,
+   "new": 1,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8332_1997.html"
+  },
+  {
+   "lawId": "PH-H6809",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8334_1997.html"
+  },
+  {
+   "lawId": "PH-H6920",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8446_1998.html"
+  },
+  {
+   "lawId": "PH-H6985",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8511_1998.html"
+  },
+  {
+   "lawId": "PH-H7148",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8678_1998.html"
+  },
+  {
+   "lawId": "PH-H7423",
+   "old": 21,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2000/ra_8955_2000.html"
+  },
+  {
+   "lawId": "PH-H7427",
+   "old": 21,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2000/ra_8959_2000.html"
+  },
+  {
+   "lawId": "PH-H7429",
+   "old": 21,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2000/ra_8961_2000.html"
+  },
+  {
+   "lawId": "PH-H7430",
+   "old": 21,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2000/ra_8962_2000.html"
+  },
+  {
+   "lawId": "PH-H7449",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2000/ra_8981_2000.html"
+  },
+  {
+   "lawId": "PH-H7462",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_8994_2001.html"
+  },
+  {
+   "lawId": "PH-H7585",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9117_2001.html"
+  },
+  {
+   "lawId": "PH-H7601",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9133_2001.html"
+  },
+  {
+   "lawId": "PH-H7682",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2003/ra_9216_2003.html"
+  },
+  {
+   "lawId": "PH-H7781",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9317_2004.html"
+  },
+  {
+   "lawId": "PH-H7829",
+   "old": 21,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9367_2007.html"
+  },
+  {
+   "lawId": "PH-H7965",
+   "old": 21,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2008/ra_9505_2008.html"
+  },
+  {
+   "lawId": "PH-H8165",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9707_2009.html"
+  },
+  {
+   "lawId": "PH-H8635",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2012/ra_10182_2012.html"
+  },
+  {
+   "lawId": "PH-H8636",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2012/ra_10183_2012.html"
+  },
+  {
+   "lawId": "PH-H8825",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10373_2013.html"
+  },
+  {
+   "lawId": "PH-H9240",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10792_2016.html"
+  },
+  {
+   "lawId": "PH-H9337",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10889_2016.html"
+  },
+  {
+   "lawId": "PH-H9342",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10894_2016.html"
+  },
+  {
+   "lawId": "PH-H9378",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2017/ra_10931_2017.html"
+  },
+  {
+   "lawId": "PH-H9890",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11457_2019.html"
+  },
+  {
+   "lawId": "PH-H9944",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2020/ra_11512_2020.html"
+  },
+  {
+   "lawId": "PH-H995",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1954/ra_1160_1954.html"
+  },
+  {
+   "lawId": "PH-H9955",
+   "old": 21,
+   "new": 21,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11524_2021.html"
+  },
+  {
+   "lawId": "PH-H10093",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11665_2022.html"
+  },
+  {
+   "lawId": "PH-H10102",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11674_2022.html"
+  },
+  {
+   "lawId": "PH-H10103",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11675_2022.html"
+  },
+  {
+   "lawId": "PH-H10104",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11676_2022.html"
+  },
+  {
+   "lawId": "PH-H10105",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11677_2022.html"
+  },
+  {
+   "lawId": "PH-H10107",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11679_2022.html"
+  },
+  {
+   "lawId": "PH-H10185",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11757_2022.html"
+  },
+  {
+   "lawId": "PH-H10186",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11758_2022.html"
+  },
+  {
+   "lawId": "PH-H10201",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11773_2022.html"
+  },
+  {
+   "lawId": "PH-H10202",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11774_2022.html"
+  },
+  {
+   "lawId": "PH-H10229",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11801_2022.html"
+  },
+  {
+   "lawId": "PH-H10258",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11830_2022.html"
+  },
+  {
+   "lawId": "PH-H10259",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11831_2022.html"
+  },
+  {
+   "lawId": "PH-H10264",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11836_2022.html"
+  },
+  {
+   "lawId": "PH-H10322",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11894_2022.html"
+  },
+  {
+   "lawId": "PH-H10698",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12312_2025.html"
+  },
+  {
+   "lawId": "PH-H10707",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2026/ra_12321_2026.html"
+  },
+  {
+   "lawId": "PH-H1101",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1267_1955.html"
+  },
+  {
+   "lawId": "PH-H1179",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1345_1955.html"
+  },
+  {
+   "lawId": "PH-H164",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1946/ra_65_1946.html"
+  },
+  {
+   "lawId": "PH-H1686",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1957/ra_1852_1957.html"
+  },
+  {
+   "lawId": "PH-H1711",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1957/ra_1900_1957.html"
+  },
+  {
+   "lawId": "PH-H1832",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1958/ra_2093_1958.html"
+  },
+  {
+   "lawId": "PH-H2000",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1959/ra_2265_1959.html"
+  },
+  {
+   "lawId": "PH-H2041",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1959/ra_2308_1959.html"
+  },
+  {
+   "lawId": "PH-H2685",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1961/ra_3079_1961.html"
+  },
+  {
+   "lawId": "PH-H2918",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1962/ra_3482_1962.html"
+  },
+  {
+   "lawId": "PH-H3027",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1963/ra_3591_1963.html"
+  },
+  {
+   "lawId": "PH-H3329",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1964/ra_4126_1964.html"
+  },
+  {
+   "lawId": "PH-H3428",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1965/ra_4226_1965.html"
+  },
+  {
+   "lawId": "PH-H3745",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1966/ra_4730_1966.html"
+  },
+  {
+   "lawId": "PH-H4073",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1968/ra_5270_1968.html"
+  },
+  {
+   "lawId": "PH-H4286",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5487_1969.html"
+  },
+  {
+   "lawId": "PH-H4320",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5521_1969.html"
+  },
+  {
+   "lawId": "PH-H4502",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5705_1969.html"
+  },
+  {
+   "lawId": "PH-H4554",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5958_1969.html"
+  },
+  {
+   "lawId": "PH-H4633",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1969/ra_6040_1969.html"
+  },
+  {
+   "lawId": "PH-H475",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1949/ra_382_1949.html"
+  },
+  {
+   "lawId": "PH-H4826",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1971/ra_6239_1971.html"
+  },
+  {
+   "lawId": "PH-H5101",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1972/ra_6603_1972.html"
+  },
+  {
+   "lawId": "PH-H5429",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1990/ra_6939_1990.html"
+  },
+  {
+   "lawId": "PH-H5459",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1990/ra_6969_1990.html"
+  },
+  {
+   "lawId": "PH-H579",
+   "old": 20,
+   "new": 16,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1950/ra_590_1950.html"
+  },
+  {
+   "lawId": "PH-H6119",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7637_1992.html"
+  },
+  {
+   "lawId": "PH-H641",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1951/ra_652_1951.html"
+  },
+  {
+   "lawId": "PH-H6526",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8047_1995.html"
+  },
+  {
+   "lawId": "PH-H6674",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1996/ra_8196_1996.html"
+  },
+  {
+   "lawId": "PH-H6677",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1996/ra_8199_1996.html"
+  },
+  {
+   "lawId": "PH-H6693",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1996/ra_8215_1996.html"
+  },
+  {
+   "lawId": "PH-H6756",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8279_1997.html"
+  },
+  {
+   "lawId": "PH-H6757",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8280_1997.html"
+  },
+  {
+   "lawId": "PH-H6758",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8281_1997.html"
+  },
+  {
+   "lawId": "PH-H6779",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8304_1997.html"
+  },
+  {
+   "lawId": "PH-H6812",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8337_1997.html"
+  },
+  {
+   "lawId": "PH-H6815",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8340_1997.html"
+  },
+  {
+   "lawId": "PH-H6816",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8341_1997.html"
+  },
+  {
+   "lawId": "PH-H6817",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8342_1997.html"
+  },
+  {
+   "lawId": "PH-H6823",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8348_1997.html"
+  },
+  {
+   "lawId": "PH-H6824",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8349_1997.html"
+  },
+  {
+   "lawId": "PH-H6825",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8350_1997.html"
+  },
+  {
+   "lawId": "PH-H6826",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8351_1997.html"
+  },
+  {
+   "lawId": "PH-H6827",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8352_1997.html"
+  },
+  {
+   "lawId": "PH-H6844",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8369_1997.html"
+  },
+  {
+   "lawId": "PH-H6923",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8449_1998.html"
+  },
+  {
+   "lawId": "PH-H6924",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8450_1998.html"
+  },
+  {
+   "lawId": "PH-H6957",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8483_1998.html"
+  },
+  {
+   "lawId": "PH-H6958",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8484_1998.html"
+  },
+  {
+   "lawId": "PH-H6960",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8486_1998.html"
+  },
+  {
+   "lawId": "PH-H6967",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8493_1998.html"
+  },
+  {
+   "lawId": "PH-H6984",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8510_1998.html"
+  },
+  {
+   "lawId": "PH-H7004",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8531_1998.html"
+  },
+  {
+   "lawId": "PH-H7035",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8565_1998.html"
+  },
+  {
+   "lawId": "PH-H7036",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8566_1998.html"
+  },
+  {
+   "lawId": "PH-H7046",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8576_1998.html"
+  },
+  {
+   "lawId": "PH-H7047",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8577_1998.html"
+  },
+  {
+   "lawId": "PH-H7049",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8579_1998.html"
+  },
+  {
+   "lawId": "PH-H7059",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8589_1998.html"
+  },
+  {
+   "lawId": "PH-H7060",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8590_1998.html"
+  },
+  {
+   "lawId": "PH-H7067",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8597_1998.html"
+  },
+  {
+   "lawId": "PH-H7076",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8606_1998.html"
+  },
+  {
+   "lawId": "PH-H7080",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8610_1998.html"
+  },
+  {
+   "lawId": "PH-H7085",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8615_1998.html"
+  },
+  {
+   "lawId": "PH-H7092",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8622_1998.html"
+  },
+  {
+   "lawId": "PH-H7097",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8627_1998.html"
+  },
+  {
+   "lawId": "PH-H7105",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8635_1998.html"
+  },
+  {
+   "lawId": "PH-H7106",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8636_1998.html"
+  },
+  {
+   "lawId": "PH-H7107",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8637_1998.html"
+  },
+  {
+   "lawId": "PH-H7123",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8653_1998.html"
+  },
+  {
+   "lawId": "PH-H7124",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8654_1998.html"
+  },
+  {
+   "lawId": "PH-H7127",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8657_1998.html"
+  },
+  {
+   "lawId": "PH-H7144",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8674_1998.html"
+  },
+  {
+   "lawId": "PH-H7145",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8675_1998.html"
+  },
+  {
+   "lawId": "PH-H7146",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8676_1998.html"
+  },
+  {
+   "lawId": "PH-H7147",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8677_1998.html"
+  },
+  {
+   "lawId": "PH-H716",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1953/ra_872_1953.html"
+  },
+  {
+   "lawId": "PH-H7160",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8690_1998.html"
+  },
+  {
+   "lawId": "PH-H7174",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8704_1998.html"
+  },
+  {
+   "lawId": "PH-H7185",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8715_1998.html"
+  },
+  {
+   "lawId": "PH-H7186",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8716_1998.html"
+  },
+  {
+   "lawId": "PH-H7189",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8719_1998.html"
+  },
+  {
+   "lawId": "PH-H7190",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8720_1998.html"
+  },
+  {
+   "lawId": "PH-H7191",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8721_1998.html"
+  },
+  {
+   "lawId": "PH-H7199",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8729_1998.html"
+  },
+  {
+   "lawId": "PH-H7422",
+   "old": 20,
+   "new": 19,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2000/ra_8954_2000.html"
+  },
+  {
+   "lawId": "PH-H7424",
+   "old": 20,
+   "new": 19,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2000/ra_8956_2000.html"
+  },
+  {
+   "lawId": "PH-H7463",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_8995_2001.html"
+  },
+  {
+   "lawId": "PH-H7530",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9062_2001.html"
+  },
+  {
+   "lawId": "PH-H7531",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9063_2001.html"
+  },
+  {
+   "lawId": "PH-H7574",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9106_2001.html"
+  },
+  {
+   "lawId": "PH-H7587",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9119_2001.html"
+  },
+  {
+   "lawId": "PH-H7589",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9121_2001.html"
+  },
+  {
+   "lawId": "PH-H7592",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9124_2001.html"
+  },
+  {
+   "lawId": "PH-H7595",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9127_2001.html"
+  },
+  {
+   "lawId": "PH-H7597",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9129_2001.html"
+  },
+  {
+   "lawId": "PH-H7599",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9131_2001.html"
+  },
+  {
+   "lawId": "PH-H7607",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9139_2001.html"
+  },
+  {
+   "lawId": "PH-H7616",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9148_2001.html"
+  },
+  {
+   "lawId": "PH-H7636",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2002/ra_9169_2002.html"
+  },
+  {
+   "lawId": "PH-H7638",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2002/ra_9171_2002.html"
+  },
+  {
+   "lawId": "PH-H7653",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2003/ra_9186_2003.html"
+  },
+  {
+   "lawId": "PH-H7659",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2003/ra_9192_2003.html"
+  },
+  {
+   "lawId": "PH-H7675",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2003/ra_9209_2003.html"
+  },
+  {
+   "lawId": "PH-H7716",
+   "old": 20,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9250_2004.html"
+  },
+  {
+   "lawId": "PH-H7767",
+   "old": 20,
+   "new": 0,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9303_2004.html"
+  },
+  {
+   "lawId": "PH-H7780",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9316_2004.html"
+  },
+  {
+   "lawId": "PH-H7782",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9318_2004.html"
+  },
+  {
+   "lawId": "PH-H7783",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9319_2004.html"
+  },
+  {
+   "lawId": "PH-H7978",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9518_2009.html"
+  },
+  {
+   "lawId": "PH-H8140",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9682_2009.html"
+  },
+  {
+   "lawId": "PH-H9038",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10586_2013.html"
+  },
+  {
+   "lawId": "PH-H9419",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_10974_2018.html"
+  },
+  {
+   "lawId": "PH-H9444",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_10999_2018.html"
+  },
+  {
+   "lawId": "PH-H9445",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11000_2018.html"
+  },
+  {
+   "lawId": "PH-H9446",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11001_2018.html"
+  },
+  {
+   "lawId": "PH-H9447",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11002_2018.html"
+  },
+  {
+   "lawId": "PH-H9448",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11003_2018.html"
+  },
+  {
+   "lawId": "PH-H9648",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11203_2019.html"
+  },
+  {
+   "lawId": "PH-H9779",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11346_2019.html"
+  },
+  {
+   "lawId": "PH-H9794",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11361_2019.html"
+  },
+  {
+   "lawId": "PH-H9799",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11366_2019.html"
+  },
+  {
+   "lawId": "PH-H9872",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11439_2019.html"
+  },
+  {
+   "lawId": "PH-H9940",
+   "old": 20,
+   "new": 12,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2020/ra_11508_2020.html"
+  },
+  {
+   "lawId": "PH-H9946",
+   "old": 20,
+   "new": 20,
+   "oldHasChapter": false,
+   "newHasChapter": false,
+   "url": "https://lawphil.net/statutes/repacts/ra2020/ra_11514_2020.html"
+  }
+ ],
+ "failed": []
+}

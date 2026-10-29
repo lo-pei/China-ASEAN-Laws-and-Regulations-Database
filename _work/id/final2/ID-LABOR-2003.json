@@ -1,0 +1,3239 @@
+{
+ "lawId": "ID-LABOR-2003",
+ "order": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10",
+  "11",
+  "12",
+  "13",
+  "14",
+  "15",
+  "16",
+  "17",
+  "18",
+  "19",
+  "20",
+  "21",
+  "22",
+  "23",
+  "24",
+  "25",
+  "26",
+  "27",
+  "28",
+  "29",
+  "30",
+  "31",
+  "32",
+  "33",
+  "34",
+  "35",
+  "36",
+  "37",
+  "38",
+  "39",
+  "40",
+  "41",
+  "42",
+  "43",
+  "44",
+  "45",
+  "46",
+  "47",
+  "48",
+  "49",
+  "50",
+  "51",
+  "52",
+  "53",
+  "54",
+  "55",
+  "56",
+  "57",
+  "58",
+  "59",
+  "60",
+  "61",
+  "62",
+  "63",
+  "64",
+  "65",
+  "66",
+  "67",
+  "68",
+  "69",
+  "70",
+  "71",
+  "72",
+  "73",
+  "74",
+  "75",
+  "76",
+  "77",
+  "78",
+  "79",
+  "80",
+  "81",
+  "82",
+  "83",
+  "84",
+  "85",
+  "86",
+  "87",
+  "88",
+  "89",
+  "90",
+  "91",
+  "92",
+  "93",
+  "94",
+  "95",
+  "96",
+  "97",
+  "98",
+  "99",
+  "100",
+  "101",
+  "102",
+  "103",
+  "104",
+  "105",
+  "106",
+  "107",
+  "108",
+  "109",
+  "110",
+  "111",
+  "112",
+  "113",
+  "114",
+  "115",
+  "116",
+  "117",
+  "118",
+  "119",
+  "120",
+  "121",
+  "122",
+  "123",
+  "124",
+  "125",
+  "126",
+  "127",
+  "128",
+  "129",
+  "130",
+  "131",
+  "132",
+  "133",
+  "134",
+  "135",
+  "136",
+  "137",
+  "138",
+  "139",
+  "140",
+  "141",
+  "142",
+  "143",
+  "144",
+  "145",
+  "146",
+  "147",
+  "148",
+  "149",
+  "150",
+  "151",
+  "152",
+  "153",
+  "154",
+  "155",
+  "156",
+  "157",
+  "158",
+  "159",
+  "160",
+  "161",
+  "162",
+  "163",
+  "164",
+  "165",
+  "166",
+  "167",
+  "168",
+  "169",
+  "170",
+  "171",
+  "172",
+  "173",
+  "174",
+  "175",
+  "176",
+  "177",
+  "178",
+  "179",
+  "180",
+  "181",
+  "182",
+  "183",
+  "184",
+  "185",
+  "186",
+  "187",
+  "188",
+  "189",
+  "190",
+  "191",
+  "192",
+  "193"
+ ],
+ "babs": {
+  "21830601": {
+   "number": "I",
+   "heading": "KETENTUAN UMUM"
+  },
+  "21830602": {
+   "number": "II",
+   "heading": "LANDASAN, ASAS, DAN TUJUAN"
+  },
+  "21830603": {
+   "number": "III",
+   "heading": "KESEMPATAN DAN PERLAKUAN YANG SAMA"
+  },
+  "21830604": {
+   "number": "IV",
+   "heading": "PERENCANAAN TENAGA KERJA DAN INFORMASI KETENAGAKERJAAN"
+  },
+  "21830605": {
+   "number": "V",
+   "heading": "PELATIHAN KERJA"
+  },
+  "21830606": {
+   "number": "VI",
+   "heading": "PENEMPATAN TENAGA KERJA"
+  },
+  "21830607": {
+   "number": "VII",
+   "heading": "PERLUASAN KESEMPATAN KERJA"
+  },
+  "21830608": {
+   "number": "VIII",
+   "heading": "PENGGUNAAN TENAGA KERJA ASING"
+  },
+  "21830609": {
+   "number": "IX",
+   "heading": "HUBUNGAN KERJA"
+  },
+  "21830610": {
+   "number": "X",
+   "heading": "PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  "21830611": {
+   "number": "XI",
+   "heading": "HUBUNGAN INDUSTRIAL"
+  },
+  "21830612": {
+   "number": "XII",
+   "heading": "PEMUTUSAN HUBUNGAN KERJA"
+  },
+  "21830613": {
+   "number": "XIII",
+   "heading": "PEMBINAAN"
+  },
+  "21830614": {
+   "number": "XIV",
+   "heading": "PENGAWASAN"
+  },
+  "21830615": {
+   "number": "XV",
+   "heading": "PENYIDIKAN"
+  },
+  "21830616": {
+   "number": "XVI",
+   "heading": "KETENTUAN PIDANA DAN SANKSI ADMINISTRATIF"
+  },
+  "21830617": {
+   "number": "XVII",
+   "heading": "KETENTUAN PERALIHAN"
+  },
+  "21830618": {
+   "number": "XVIII",
+   "heading": "KETENTUAN PENUTUP"
+  }
+ },
+ "structure": {
+  "bab-I": {
+   "number": "I",
+   "heading": "KETENTUAN UMUM",
+   "label": "BAB I KETENTUAN UMUM"
+  },
+  "bab-II": {
+   "number": "II",
+   "heading": "LANDASAN, ASAS, DAN TUJUAN",
+   "label": "BAB II LANDASAN, ASAS, DAN TUJUAN"
+  },
+  "bab-III": {
+   "number": "III",
+   "heading": "KESEMPATAN DAN PERLAKUAN YANG SAMA",
+   "label": "BAB III KESEMPATAN DAN PERLAKUAN YANG SAMA"
+  },
+  "bab-IV": {
+   "number": "IV",
+   "heading": "PERENCANAAN TENAGA KERJA DAN INFORMASI KETENAGAKERJAAN",
+   "label": "BAB IV PERENCANAAN TENAGA KERJA DAN INFORMASI KETENAGAKERJAAN"
+  },
+  "bab-V": {
+   "number": "V",
+   "heading": "PELATIHAN KERJA",
+   "label": "BAB V PELATIHAN KERJA"
+  },
+  "bab-VI": {
+   "number": "VI",
+   "heading": "PENEMPATAN TENAGA KERJA",
+   "label": "BAB VI PENEMPATAN TENAGA KERJA"
+  },
+  "bab-VII": {
+   "number": "VII",
+   "heading": "PERLUASAN KESEMPATAN KERJA",
+   "label": "BAB VII PERLUASAN KESEMPATAN KERJA"
+  },
+  "bab-VIII": {
+   "number": "VIII",
+   "heading": "PENGGUNAAN TENAGA KERJA ASING",
+   "label": "BAB VIII PENGGUNAAN TENAGA KERJA ASING"
+  },
+  "bab-IX": {
+   "number": "IX",
+   "heading": "HUBUNGAN KERJA",
+   "label": "BAB IX HUBUNGAN KERJA"
+  },
+  "bab-X": {
+   "number": "X",
+   "heading": "PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN",
+   "label": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  "bab-XI": {
+   "number": "XI",
+   "heading": "HUBUNGAN INDUSTRIAL",
+   "label": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  "bab-XII": {
+   "number": "XII",
+   "heading": "PEMUTUSAN HUBUNGAN KERJA",
+   "label": "BAB XII PEMUTUSAN HUBUNGAN KERJA"
+  },
+  "bab-XIII": {
+   "number": "XIII",
+   "heading": "PEMBINAAN",
+   "label": "BAB XIII PEMBINAAN"
+  },
+  "bab-XIV": {
+   "number": "XIV",
+   "heading": "PENGAWASAN",
+   "label": "BAB XIV PENGAWASAN"
+  },
+  "bab-XV": {
+   "number": "XV",
+   "heading": "PENYIDIKAN",
+   "label": "BAB XV PENYIDIKAN"
+  },
+  "bab-XVI": {
+   "number": "XVI",
+   "heading": "KETENTUAN PIDANA DAN SANKSI ADMINISTRATIF",
+   "label": "BAB XVI KETENTUAN PIDANA DAN SANKSI ADMINISTRATIF"
+  },
+  "bab-XVII": {
+   "number": "XVII",
+   "heading": "KETENTUAN PERALIHAN",
+   "label": "BAB XVII KETENTUAN PERALIHAN"
+  },
+  "bab-XVIII": {
+   "number": "XVIII",
+   "heading": "KETENTUAN PENUTUP",
+   "label": "BAB XVIII KETENTUAN PENUTUP"
+  }
+ },
+ "articles": [
+  {
+   "label": "1",
+   "title": "Pasal 1",
+   "paragraphs": [
+    "6. Perusahaan adalah :",
+    "a. setiap bentuk usaha yang berbadan hukum atau tidak, milik orang perseorangan, milik persekutuan, atau milik badan hukum, baik milik swasta maupun milik negara yang mempekerjakan pekerja/buruh dengan membayar upah atau imbalan dalam bentuk lain;",
+    "b. usaha-usaha sosial dan usaha -usaha lain yang mempunyai pengurus dan mempekerjakan orang lain dengan membayar upah atau imbalan dalam bentuk lain.",
+    "7. Perencanaan tenaga kerja adalah proses penyusunan rencana ketenagakerjaan secara sis tematis yang dijadikan dasar dan acuan dalam penyusunan kebijakan, strategi, dan pelaksanaan program pembangunan ketenagakerjaan yang berkesinambungan.",
+    "8. Informasi ketenagakerjaan adalah gabungan, ran gkaian, dan analisis data yang berbentuk angka yang telah diolah, naskah dan dokumen yang mempunyai arti, nilai dan makna tertentu mengenai ketenagakerjaan.",
+    "9. Pelatihan kerja adalah keseluruhan kegiatan untuk memberi, memperoleh, meningkatkan, serta mengembangkan kompetensi kerja, produktivitas, disiplin, sikap, dan etos kerja pada tingkat keterampilan dan keahlian tertentu sesuai dengan jenjang dan kualifikasi jabatan atau pekerjaan.",
+    "10. Kompetensi kerja adalah kemampuan kerja setiap individu yang mencakup aspek pengetahuan, keterampilan, dan sikap kerja yang sesuai dengan standar yang ditetapkan.",
+    "11. Pemagangan adalah bagian dari sistem pelatihan kerja yang diselenggarakan secara terpadu antara pelatihan di lembaga pelatihan dengan bekerja secara langsung di bawah bimbingan dan pengawasan instruktur atau pekerja/buruh yang lebih berpengalaman, dalam proses produksi barang dan/atau jasa di perusa haan, dalam rangka menguasai keterampilan atau keahlian tertentu.",
+    "12. Pelayanan penempatan tenaga kerja adalah kegiatan untuk mempertemukan tenaga kerja dengan pemberi kerja, sehingga tenaga kerja dapat mem peroleh pekerjaan yang sesuai dengan bakat, minat, dan kemampuannya, dan pemberi kerja dapat memperoleh tenaga kerja yang sesuai dengan kebutuhannya.",
+    "13. Tenaga kerja asing adalah warga negara asing pemegang visa dengan maksud bekerja di wilayah Indonesia.",
+    "14. Perjanjian kerja adalah perjanjian antara pekerja/buruh dengan pengusaha atau pemberi kerja yang memuat syarat-syarat kerja, hak, dan kewajiban para pihak.",
+    "15. Hubungan kerja adalah hubungan antara pengusaha dengan pekerja/buruh berdasarkan perjanjian kerja, yang mempunyai unsur pekerjaan, upah, dan perintah.",
+    "16. Hubungan industrial adalah suatu sistem hubungan yang terbentuk antara para pelaku dalam proses produksi barang dan/atau jasa yang terdiri dari unsur pengus aha, pekerja/buruh, dan pemerintah yang didasarkan pada nilai-nilai Pancasila dan Undang -Undang Dasar Negara",
+    "Republik Indonesia Tahun 1945.",
+    "17. Serikat pekerja/serikat buruh adalah organisasi yang dibentuk dari, oleh, dan untuk pekerja/buruh baik di perusahaan maupun di luar perusahaan, yang bersifat bebas, terbuka, mandiri, demokratis, dan bertanggung jawab guna memperjuangkan, membela serta melindungi hak dan kepentingan pekerja/buruh serta meningkatkan kesejahteraan pekerja/buruh dan keluarganya.",
+    "18. Lembaga kerja sama bipartit adalah forum komunikasi dan konsultasi mengenai hal -hal yang berkaitan dengan hubungan industrial di satu perusahaan yang anggotanya terdiri dari pengusaha dan serikat pekerja/serikat buruh yang sudah tercatat di instansi yang bertanggung jawab di bidang ketenagakerjaan atau unsur pekerja/buruh.",
+    "19. Lembaga kerja sama tripartit adalah forum komunikasi, konsultasi dan musyawarah tentang masalah ketenagakerjaan yang anggotanya terdiri dari unsur organisasi pengusaha, serikat peke rja/serikat buruh, dan pemerintah.",
+    "20. Peraturan perusahaan adalah peraturan yang dibuat secara tertulis oleh pengusaha yang memuat syarat-syarat kerja dan tata tertib perusahaan.",
+    "21. Perjanjian kerja bersama adalah perjanjian yang merupakan hasil perundi ngan antara serikat pekerja/serikat buruh atau beberapa serikat pekerja/serikat buruh yang tercatat pada instansi yang bertanggung jawab di bidang ketenagakerjaan dengan pengusaha, atau beberapa pengusaha atau perkumpulan pengusaha yang memuat syarat -syarat kerja, hak dan kewajiban kedua belah pihak.",
+    "22. Perselisihan hubungan industrial adalah perbedaan pendapat yang mengakibatkan pertentangan antara pengusaha atau gabungan pengusaha dengan pekerja/buruh atau serikat pekerja/serikat buruh karena adanya perselisihan mengenai hak, perselisihan kepentingan, dan perselisihan pemutusan hubungan kerja serta perselisihan antar serikat pekerja/serikat buruh hanya dalam satu perusahaan.",
+    "23. Mogok kerja adalah tindakan pekerja/buruh yang direncanakan d an dilaksanakan secara bersama -sama dan/atau oleh serikat pekerja/serikat buruh untuk menghentikan atau memperlambat pekerjaan.",
+    "24. Penutupan perusahaan (lock out) adalah tindakan pengusaha untuk menolak pekerja/buruh selu ruhnya atau sebagian untuk menjalankan pekerjaan.",
+    "25. Pemutusan hubungan kerja adalah pengakhiran hubungan kerja karena suatu hal tertentu yang mengakibatkan berakhirnya hak dan kewajiban antara pekerja/buruh dan pengusaha.",
+    "26. Anak adalah setiap orang yang berumur dibawah 18",
+    "(delapan belas) tahun.",
+    "27. Siang hari adalah waktu antara pukul 06.00 sampai dengan pukul 18.00.",
+    "28. 1 (satu) hari adalah waktu selama 24 (dua puluh empat)",
+    "jam.",
+    "29. Seminggu adalah waktu selama 7 (tujuh) hari.",
+    "30. Upah adalah hak pekerja/buruh yang diterima dan dinyatakan dalam bentuk uang sebagai imbalan dari pengusaha atau pemberi kerja kepada pekerja/buruh yang ditetapkan dan dibayarkan menurut suatu perjanjian kerja, kesepakatan, atau peraturan perundang -undangan, termasuk tunjangan bagi pekerja/buruh dan keluarganya atas suatu pekerjaan dan/atau jasa yang telah atau akan dilakukan.",
+    "31. Kesejahteraan pekerja/buruh adalah suatu pemenuhan kebutuhan dan/atau keperluan yang bersifat jasmaniah dan rohaniah , baik di dalam maupun di luar hubungan kerja, yang secara langsung atau tidak langsung dapat mempertinggi produktivitas kerja dalam lingkungan kerja yang aman dan sehat.",
+    "32. Pengawasan ketenagakerjaan adalah kegiatan mengawasi dan menegakkan pelaksanaan peraturan perundang-undangan di bidang ketenagakerjaan.",
+    "33. Menteri adalah menteri yang bertanggung jawab di bidang ketenagakerjaan.",
+    "BAB II",
+    "Pembangunan ketenagakerjaan berlandaskan Pancasila dan",
+    "Undang-Undang Dasar Negara Republik Indonesia Tahun",
+    "1945.",
+    "Pembangunan ketenagakerjaan diselenggarakan atas asas keterpaduan dengan melalui koordinasi fungsional lintas sektoral pusat dan daerah."
+   ],
+   "penjelasan": [],
+   "parentId": 21830601,
+   "source": "official-pdf",
+   "chapter": "BAB I KETENTUAN UMUM"
+  },
+  {
+   "label": "2",
+   "title": "Pasal 2",
+   "paragraphs": [
+    "Pembangunan ketenagakerjaan berlandaskan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945."
+   ],
+   "penjelasan": [],
+   "parentId": 21830602,
+   "source": "pasal.id",
+   "chapter": "BAB II LANDASAN, ASAS, DAN TUJUAN"
+  },
+  {
+   "label": "3",
+   "title": "Pasal 3",
+   "paragraphs": [
+    "Pembangunan ketenagakerjaan diselenggarakan atas asas keterpaduan dengan melalui koordinasi fungsional lintas sektoral pusat dan daerah."
+   ],
+   "penjelasan": [],
+   "parentId": 21830602,
+   "source": "pasal.id",
+   "chapter": "BAB II LANDASAN, ASAS, DAN TUJUAN"
+  },
+  {
+   "label": "4",
+   "title": "Pasal 4",
+   "paragraphs": [
+    "Pembangunan ketenagakerjaan bertujuan:\na. memberdayakan dan mendayagunakan tenaga kerja secara optimal dan manusiawi;\nb. mewujudkan pemerataan kesempatan kerja dan penyediaan tenaga kerja yang sesuai dengan kebutuhan pembangunan nasional dan daerah;\nc. memberikan perlindungan kepada tenaga kerja dalam mewujudkan kesejahteraan; dan\nd. meningkatkan kesejahteraan tenaga kerja dan keluarganya."
+   ],
+   "penjelasan": [],
+   "parentId": 21830602,
+   "source": "pasal.id",
+   "chapter": "BAB II LANDASAN, ASAS, DAN TUJUAN"
+  },
+  {
+   "label": "5",
+   "title": "Pasal 5",
+   "paragraphs": [
+    "Setiap tenaga kerja memiliki kesempatan yang sama tanpa diskriminasi untuk memperoleh pekerjaan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830603,
+   "source": "pasal.id",
+   "chapter": "BAB III KESEMPATAN DAN PERLAKUAN YANG SAMA"
+  },
+  {
+   "label": "6",
+   "title": "Pasal 6",
+   "paragraphs": [
+    "Setiap pekerja/buruh berhak memperoleh perlakuan yang sama tanpa diskriminasi dari pengusaha."
+   ],
+   "penjelasan": [],
+   "parentId": 21830603,
+   "source": "pasal.id",
+   "chapter": "BAB III KESEMPATAN DAN PERLAKUAN YANG SAMA"
+  },
+  {
+   "label": "7",
+   "title": "Pasal 7",
+   "paragraphs": [
+    "(1) Dalam rangka pembangunan ketenagakerjaan, pemerintah menetapkan kebijakan dan menyusun perencanaan tenaga kerja.",
+    "(2) Perencanaan tenaga kerja meliputi:\na. perencanaan tenaga kerja makro; dan\nb. perencanaan tenaga kerja mikro.",
+    "(3) Dalam penyusunan kebijakan, strategi, dan pelaksanaan program pembangunan ketenagakerjaan yang berkesinambungan, pemerintah harus berpedoman pada perencanaan tenaga kerja sebagaimana dimaksud dalam ayat (1)."
+   ],
+   "penjelasan": [],
+   "parentId": 21830604,
+   "source": "pasal.id",
+   "chapter": "BAB IV PERENCANAAN TENAGA KERJA DAN INFORMASI KETENAGAKERJAAN"
+  },
+  {
+   "label": "8",
+   "title": "Pasal 8",
+   "paragraphs": [
+    "(1) Perencanaan tenaga kerja disusun atas dasar informasi ketenagakerjaan yang antara lain meliputi:\na. penduduk dan tenaga kerja;\nb. kesempatan kerja;\nc. pelatihan kerja termasuk kompetensi kerja;\nd. produktivitas tenaga kerja;\ne. hubungan industrial;\nf. kondisi lingkungan kerja;\ng. pengupahan dan kesejahteraan tenaga kerja; dan\nh. jaminan sosial tenaga kerja.",
+    "(2) Informasi ketenagakerjaan sebagaimana dimaksud dalam ayat (1), diperoleh dari semua pihak yang terkait, baik instansi pemerintah maupun swasta."
+   ],
+   "penjelasan": [],
+   "parentId": 21830604,
+   "source": "pasal.id",
+   "chapter": "BAB IV PERENCANAAN TENAGA KERJA DAN INFORMASI KETENAGAKERJAAN"
+  },
+  {
+   "label": "9",
+   "title": "Pasal 9",
+   "paragraphs": [
+    "Pelatihan kerja diselenggarakan dan diarahkan untuk membekali, meningkatkan, dan mengembangkan kompetensi kerja guna meningkatkan kemampuan, produktivitas, dan kesejahteraan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "10",
+   "title": "Pasal 10",
+   "paragraphs": [
+    "(1) Pelatihan kerja dilaksanakan dengan memperhatikan kebutuhan pasar kerja dan dunia usaha, baik di dalam maupun di luar hubungan kerja.",
+    "(2) Pelatihan kerja diselenggarakan berdasarkan program pelatihan yang mengacu pada standar kompetensi kerja.",
+    "(3) Pelatihan kerja dapat dilakukan secara berjenjang.",
+    "(4) Ketentuan mengenai tata cara penetapan standar kompetensi kerja sebagaimana dimaksud dalam ayat (2) diatur dengan Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "11",
+   "title": "Pasal 11",
+   "paragraphs": [
+    "Setiap tenaga kerja berhak untuk memperoleh dan/atau meningkatkan dan/atau mengembangkan kompetensi kerja sesuai dengan bakat, minat, dan kemampuannya melalui pelatihan kerja."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "12",
+   "title": "Pasal 12",
+   "paragraphs": [
+    "(1) Pengusaha bertanggung jawab atas peningkatan dan/atau pengembangan kompetensi pekerjanya melalui pelatihan kerja.",
+    "(2) Peningkatan dan/atau pengembangan kompetensi sebagaimana dimaksud dalam ayat (1) diwajibkan bagi pengusaha yang memenuhi persyaratan yang diatur dengan Keputusan Menteri.",
+    "(3) Setiap pekerja/buruh memiliki kesempatan yang sama untuk mengikuti pelatihan kerja sesuai dengan bidang tugasnya."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "13",
+   "title": "Pasal 13",
+   "paragraphs": [
+    "(1) Pelatihan kerja diselenggarakan oleh lembaga pelatihan kerja pemerintah dan/atau lembaga pelatihan kerja swasta.",
+    "(2) Pelatihan kerja dapat diselenggarakan di tempat pelatihan atau tempat kerja.",
+    "(3) Lembaga pelatihan kerja pemerintah sebagaimana dimaksud dalam ayat (1) dalam menyelenggarakan pelatihan kerja dapat bekerja sama dengan swasta."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "14",
+   "title": "Pasal 14",
+   "paragraphs": [
+    "(1) Lembaga pelatihan kerja swasta dapat berbentuk badan hukum Indonesia atau perorangan.",
+    "(2) Lembaga pelatihan kerja swasta sebagaimana dimaksud dalam ayat (1) wajib memperoleh izin atau mendaftar ke instansi yang bertanggung jawab di bidang ketenagakerjaan di kabupaten/kota.",
+    "(3) Lembaga pelatihan kerja yang diselenggarakan oleh instansi pemerintah mendaftarkan kegiatannya kepada instansi yang bertanggung jawab di bidang ketenagakerjaan di kabupaten/kota."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "15",
+   "title": "Pasal 15",
+   "paragraphs": [
+    "Penyelenggara pelatihan kerja wajib memenuhi persyaratan:\na. tersedianya tenaga kepelatihan;\nb. adanya kurikulum yang sesuai dengan tingkat pelatihan;\nc. tersedianya sarana dan prasarana pelatihan kerja; dan\nd. tersedianya dana bagi kelangsungan kegiatan penyelenggaraan pelatihan kerja."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "16",
+   "title": "Pasal 16",
+   "paragraphs": [
+    "(1) Lembaga pelatihan kerja swasta yang telah memperoleh izin dan lembaga pelatihan kerja pemerintah yang telah terdaftar dapat memperoleh akreditasi dari lembaga akreditasi.",
+    "(2) Lembaga akreditasi sebagaimana dimaksud dalam ayat (1) bersifat independen terdiri atas unsur masyarakat dan pemerintah ditetapkan dengan Keputusan Menteri.",
+    "(3) Organisasi dan tata kerja lembaga akreditasi sebagaimana dimaksud dalam ayat (2) diatur dengan Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "17",
+   "title": "Pasal 17",
+   "paragraphs": [
+    "(1) Instansi yang bertanggung jawab di bidang ketenagakerjaan di kabupaten/kota dapat menghentikan sementara pelaksanaan penyelenggaraan pelatihan kerja, apabila dalam pelaksanaannya ternyata:\na. tidak sesuai dengan arah pelatihan kerja sebagaimana dimaksud dalam"
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "18",
+   "title": "Pasal 18",
+   "paragraphs": [
+    "(1) Tenaga kerja berhak memperoleh pengakuan kompetensi kerja setelah mengikuti pelatihan kerja yang diselenggarakan lembaga pelatihan kerja pemerintah, lembaga pelatihan kerja swasta, atau pelatihan di tempat kerja.",
+    "(2) Pengakuan kompetensi kerja sebagaimana dimaksud dalam ayat (1) dilakukan melalui sertifikasi kompetensi kerja.",
+    "(3) Sertifikasi kompetensi kerja sebagaimana dimaksud dalam ayat (2) dapat pula diikuti oleh tenaga kerja yang telah berpengalaman."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "19",
+   "title": "Pasal 19",
+   "paragraphs": [
+    "Pelatihan kerja bagi tenaga kerja penyandang cacat dilaksanakan dengan memperhatikan jenis, derajat kecacatan, dan kemampuan tenaga kerja penyandang cacat yang bersangkutan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "20",
+   "title": "Pasal 20",
+   "paragraphs": [
+    "(1) Untuk mendukung peningkatan pelatihan kerja dalam rangka pembangunan ketenagakerjaan, dikembangkan satu sistem pelatihan kerja nasional yang merupakan acuan pelaksanaan pelatihan kerja di semua bidang dan/atau sektor.",
+    "(2) Ketentuan mengenai bentuk, mekanisme, dan kelembagaan sistem pelatihan kerja nasional sebagaimana dimaksud dalam ayat (1) diatur dengan Peraturan Pemerintah."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "21",
+   "title": "Pasal 21",
+   "paragraphs": [
+    "Pelatihan kerja dapat diselenggarakan dengan sistem pemagangan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "22",
+   "title": "Pasal 22",
+   "paragraphs": [
+    "(1) Pemagangan dilaksanakan atas dasar perjanjian pemagangan antara peserta dengan pengusaha yang dibuat secara tertulis.",
+    "(2) Perjanjian pemagangan sebagaimana dimaksud dalam ayat (1), sekurang-kurangnya memuat ketentuan hak dan kewajiban peserta dan pengusaha serta jangka waktu pemagangan.",
+    "(3) Pemagangan yang diselenggarakan tidak melalui perjanjian pemagangan sebagaimana dimaksud dalam ayat (1), dianggap tidak sah dan status peserta berubah menjadi pekerja/buruh perusahaan yang bersangkutan"
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "23",
+   "title": "Pasal 23",
+   "paragraphs": [
+    "Tenaga kerja yang telah mengikuti program pemagangan berhak atas pengakuan kualifikasi kompetensi kerja dari perusahaan atau lembaga sertifikasi."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "24",
+   "title": "Pasal 24",
+   "paragraphs": [
+    "Pemagangan dapat dilaksanakan di perusahaan sendiri atau di tempat penyelenggaraan pelatihan kerja, atau perusahaan lain, baik di dalam maupun di luar wilayah Indonesia."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "25",
+   "title": "Pasal 25",
+   "paragraphs": [
+    "(1) Pemagangan yang dilakukan di luar wilayah Indonesia wajib mendapat izin dari Menteri atau pejabat yang ditunjuk.",
+    "(2) Untuk memperoleh izin sebagaimana dimaksud dalam ayat (1), penyelenggara pemagangan harus berbentuk badan hukum Indonesia sesuai dengan peraturan perundang-undangan yang berlaku.",
+    "(3) Ketentuan mengenai tata cara perizinan pemagangan di luar wilayah Indonesia sebagaimana dimaksud dalam ayat (1) dan ayat (2), diatur dengan Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "26",
+   "title": "Pasal 26",
+   "paragraphs": [
+    "(1) Penyelenggaraan pemagangan di luar wilayah Indonesia harus mem-perhatikan:\na. harkat dan martabat bangsa Indonesia;\nb. penguasaan kompetensi yang lebih tinggi; dan\nc. perlindungan dan kesejahteraan peserta pemagangan, termasuk melaksanakan ibadahnya.",
+    "(2) Menteri atau pejabat yang ditunjuk dapat menghentikan pelaksanaan pemagangan di luar wilayah Indonesia apabila di dalam pelaksanaannya ternyata tidak sesuai dengan ketentuan sebagaimana dimaksud dalam ayat (1)."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "27",
+   "title": "Pasal 27",
+   "paragraphs": [
+    "(1) Menteri dapat mewajibkan kepada perusahaan yang memenuhi persyaratan untuk melaksanakan program pemagangan.",
+    "(2) Dalam menetapkan persyaratan sebagaimana dimaksud dalam ayat (1), Menteri harus memperhatikan kepentingan perusahaan, masyarakat, dan negara."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "28",
+   "title": "Pasal 28",
+   "paragraphs": [
+    "(1) Untuk memberikan saran dan pertimbangan dalam penetapan kebijakan serta melakukan koordinasi pelatihan kerja dan pemagangan dibentuk lembaga koordinasi pelatihan kerja nasional.",
+    "(2) Pembentukan, keanggotaan, dan tata kerja lembaga koordinasi pelatihan kerja sebagaimana dimaksud dalam ayat (1), diatur dengan Keputusan Presiden."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "29",
+   "title": "Pasal 29",
+   "paragraphs": [
+    "(1) Pemerintah Pusat dan/atau Pemerintah Daerah melakukan pembinaan pelatihan kerja dan pemagangan.",
+    "(2) Pembinaan pelatihan kerja dan pemagangan ditujukan ke arah peningkatan relevansi, kualitas, dan efisiensi penyelenggaraan pelatihan kerja dan produktivitas.",
+    "(3) Peningkatan produktivitas sebagaimana dimaksud dalam ayat (2), dilakukan melalui pengembangan budaya produktif, etos kerja, teknologi, dan efisiensi kegiatan ekonomi, menuju terwujudnya produktivitas nasional."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "30",
+   "title": "Pasal 30",
+   "paragraphs": [
+    "(1) Untuk meningkatkan produktivitas sebagaimana dimaksud dalam Pasal 29 ayat (2) dibentuk lembaga produktivitas yang bersifat nasional.",
+    "(2) Lembaga produktivitas sebagaimana dimaksud dalam ayat (1) berbentuk jejaring kelembagaan pelayanan peningkatan produktivitas, yang bersifat lintas sektor maupun daerah.",
+    "(3) Pembentukan, keanggotaan, dan tata kerja lembaga produktivitas nasional sebagaimana dimaksud dalam ayat (1), diatur dengan Keputusan Presiden."
+   ],
+   "penjelasan": [],
+   "parentId": 21830605,
+   "source": "pasal.id",
+   "chapter": "BAB V PELATIHAN KERJA"
+  },
+  {
+   "label": "31",
+   "title": "Pasal 31",
+   "paragraphs": [
+    "Setiap tenaga kerja mempunyai hak dan kesempatan yang sama untuk memilih, mendapatkan, atau pindah pekerjaan dan memperoleh penghasilan yang layak di dalam atau di luar negeri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830606,
+   "source": "pasal.id",
+   "chapter": "BAB VI PENEMPATAN TENAGA KERJA"
+  },
+  {
+   "label": "32",
+   "title": "Pasal 32",
+   "paragraphs": [
+    "(1) Penempatan tenaga kerja dilaksanakan berdasarkan asas terbuka, bebas, obyektif, serta adil, dan setara tanpa diskriminasi.",
+    "(2) Penempatan tenaga kerja diarahkan untuk menempatkan tenaga kerja pada jabatan yang tepat sesuai dengan keahlian, keterampilan, bakat, minat, dan kemampuan dengan memperhatikan harkat, martabat, hak asasi, dan perlindungan hukum.",
+    "(3) Penempatan tenaga kerja dilaksanakan dengan memperhatikan pemerataan kesempatan kerja dan penyediaan tenaga kerja sesuai dengan kebutuhan program nasional dan daerah."
+   ],
+   "penjelasan": [],
+   "parentId": 21830606,
+   "source": "pasal.id",
+   "chapter": "BAB VI PENEMPATAN TENAGA KERJA"
+  },
+  {
+   "label": "33",
+   "title": "Pasal 33",
+   "paragraphs": [
+    "Penempatan tenaga kerja terdiri dari:\na. penempatan tenaga kerja di dalam negeri; dan\nb. penempatan tenaga kerja di luar negeri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830606,
+   "source": "pasal.id",
+   "chapter": "BAB VI PENEMPATAN TENAGA KERJA"
+  },
+  {
+   "label": "34",
+   "title": "Pasal 34",
+   "paragraphs": [
+    "Ketentuan mengenai penempatan tenaga kerja di luar negeri sebagaimana dimaksud dalam Pasal 33 huruf b diatur dengan undang-undang."
+   ],
+   "penjelasan": [],
+   "parentId": 21830606,
+   "source": "pasal.id",
+   "chapter": "BAB VI PENEMPATAN TENAGA KERJA"
+  },
+  {
+   "label": "35",
+   "title": "Pasal 35",
+   "paragraphs": [
+    "(1) Pemberi kerja yang memerlukan tenaga kerja dapat merekrut sendiri tenaga kerja yang dibutuhkan atau melalui pelaksana penempatan tenaga kerja.",
+    "(2) Pelaksana penempatan tenaga kerja sebagaimana dimaksud dalam ayat (1) wajib memberikan perlindungan sejak rekrutmen sampai penempatan tenaga kerja",
+    "(3) Pemberi kerja sebagaimana dimaksud dalam ayat (1) dalam mempekerjakan tenaga kerja wajib memberikan perlindungan yang mencakup kesejahteraan, keselamatan, dan kesehatan baik mental maupun fisik tenaga kerja."
+   ],
+   "penjelasan": [],
+   "parentId": 21830606,
+   "source": "pasal.id",
+   "chapter": "BAB VI PENEMPATAN TENAGA KERJA"
+  },
+  {
+   "label": "36",
+   "title": "Pasal 36",
+   "paragraphs": [
+    "(1) Penempatan tenaga kerja oleh pelaksana sebagaimana dimaksud dalam Pasal 35 ayat (1) dilakukan dengan memberikan pelayanan penempatan tenaga kerja.",
+    "(2) Pelayanan penempatan tenaga kerja sebagaimana dimaksud dalam ayat (1) bersifat terpadu dalam satu sistem penempatan tenaga kerja yang meliputi unsur-unsur:\na. pencari kerja;\nb. lowongan pekerjaan;\nc. informasi pasar kerja;\nd. mekanisme antar kerja; dan\ne. kelembagaan penempatan tenaga kerja."
+   ],
+   "penjelasan": [],
+   "parentId": 21830606,
+   "source": "pasal.id",
+   "chapter": "BAB VI PENEMPATAN TENAGA KERJA"
+  },
+  {
+   "label": "37",
+   "title": "Pasal 37",
+   "paragraphs": [
+    "(1) Pelaksana penempatan tenaga kerja sebagaimana dimaksud dalam Pasal 35 ayat (1) terdiri dari:\na. instansi pemerintah yang bertanggung jawab di bidang ketenagakerjaan; dan\nb. lembaga swasta berbadan hukum.",
+    "(2) Lembaga penempatan tenaga kerja swasta sebagaimana dimaksud dalam ayat (1) huruf b dalam melaksanakan pelayanan penempatan tenaga kerja wajib memiliki izin tertulis dari Menteri atau pejabat yang ditunjuk."
+   ],
+   "penjelasan": [],
+   "parentId": 21830606,
+   "source": "pasal.id",
+   "chapter": "BAB VI PENEMPATAN TENAGA KERJA"
+  },
+  {
+   "label": "38",
+   "title": "Pasal 38",
+   "paragraphs": [
+    "(1) Pelaksana penempatan tenaga kerja sebagaimana dimaksud dalam Pasal 37 ayat (1) huruf a, dilarang memungut biaya penempatan, baik langsung maupun tidak langsung, sebagian atau keseluruhan kepada tenaga kerja dan pengguna tenaga kerja.",
+    "(2) Lembaga penempatan tenaga kerja swasta sebagaimana dimaksud dalam Pasal 37 ayat (1)"
+   ],
+   "penjelasan": [],
+   "parentId": 21830606,
+   "source": "pasal.id",
+   "chapter": "BAB VI PENEMPATAN TENAGA KERJA"
+  },
+  {
+   "label": "39",
+   "title": "Pasal 39",
+   "paragraphs": [
+    "(1) Pemerintah bertanggung jawab mengupayakan perluasan kesempatan kerja baik di dalam maupun di luar hubungan kerja.",
+    "(2) Pemerintah dan masyarakat bersama-sama mengupayakan perluasan kesempatan kerja baik di dalam maupun di luar hubungan kerja.",
+    "(3) Semua kebijakan pemerintah baik pusat maupun daerah di setiap sektor diarahkan untuk mewujudkan perluasan kesempatan kerja baik di dalam maupun di luar hubungan kerja.",
+    "(4) Lembaga keuangan baik perbankan maupun non perbankan, dan dunia usaha perlu membantu dan memberikan kemudahan bagi setiap kegiatan masyarakat yang dapat menciptakan atau mengembangkan perluasan kesempatan kerja."
+   ],
+   "penjelasan": [],
+   "parentId": 21830607,
+   "source": "pasal.id",
+   "chapter": "BAB VII PERLUASAN KESEMPATAN KERJA"
+  },
+  {
+   "label": "40",
+   "title": "Pasal 40",
+   "paragraphs": [
+    "(1) Perluasan kesempatan kerja di luar hubungan kerja dilakukan melalui penciptaan kegiatan yang produktif dan berkelanjutan dengan mendayagunakan potensi sumber daya alam, sumber daya manusia dan teknologi tepat guna.",
+    "(2) Penciptaan perluasan kesempatan kerja sebagaimana dimaksud dalam ayat (1) dilakukan dengan pola pembentukan dan pembinaan tenaga kerja mandiri, penerapan sistem padat karya, penerapan teknologi tepat guna, dan pendayagunaan tenaga kerja sukarela atau pola lain yang dapat mendorong terciptanya perluasan kesempatan kerja."
+   ],
+   "penjelasan": [],
+   "parentId": 21830607,
+   "source": "pasal.id",
+   "chapter": "BAB VII PERLUASAN KESEMPATAN KERJA"
+  },
+  {
+   "label": "41",
+   "title": "Pasal 41",
+   "paragraphs": [
+    "(1) Pemerintah menetapkan kebijakan ketenagakerjaan dan perluasan kesempatan kerja.",
+    "(2) Pemerintah dan masyarakat bersama-sama mengawasi pelaksanaan kebijakan sebagaimana dimaksud dalam ayat (1).",
+    "(3) Dalam melaksanakan tugas sebagaimana dimaksud dalam ayat (2) dapat dibentuk badan koordinasi yang beranggotakan unsur pemerintah dan unsur masyarakat.",
+    "(4) Ketentuan mengenai perluasan kesempatan kerja, dan pembentukan badan koordinasi sebagaimana dimaksud dalam"
+   ],
+   "penjelasan": [],
+   "parentId": 21830607,
+   "source": "pasal.id",
+   "chapter": "BAB VII PERLUASAN KESEMPATAN KERJA"
+  },
+  {
+   "label": "42",
+   "title": "Pasal 42",
+   "paragraphs": [
+    "(1) Setiap pemberi kerja yang mempekerjakan tenaga kerja asing wajib memiliki izin tertulis dari Menteri atau pejabat yang ditunjuk.",
+    "(2) Pemberi kerja orang perseorangan dilarang mempekerjakan tenaga kerja asing.",
+    "(3) Kewajiban memiliki izin sebagaimana dimaksud dalam ayat (1), tidak berlaku bagi perwakilan negara asing yang mempergunakan tenaga kerja asing sebagai pegawai diplomatik dan konsuler.",
+    "(4) Tenaga kerja asing dapat dipekerjakan di Indonesia hanya dalam hubungan kerja untuk jabatan tertentu dan waktu tertentu.",
+    "(5) Ketentuan mengenai jabatan tertentu dan waktu tertentu sebagaimana dimaksud dalam ayat (4) ditetapkan dengan Keputusan Menteri.",
+    "(6) Tenaga kerja asing sebagaimana dimaksud dalam ayat (4) yang masa kerjanya habis dan tidak dapat diperpanjang dapat digantikan oleh tenaga kerja asing lainnya."
+   ],
+   "penjelasan": [],
+   "parentId": 21830608,
+   "source": "pasal.id",
+   "chapter": "BAB VIII PENGGUNAAN TENAGA KERJA ASING"
+  },
+  {
+   "label": "43",
+   "title": "Pasal 43",
+   "paragraphs": [
+    "(1) Pemberi kerja yang menggunakan tenaga kerja asing harus memiliki rencana penggunaan tenaga kerja asing yang disahkan oleh Menteri atau pejabat yang ditunjuk.",
+    "(2) Rencana penggunaan tenaga kerja asing sebagaimana dimaksud dalam ayat (1) sekurang-kurangnya memuat keterangan:\na. alasan penggunaan tenaga kerja asing;\nb. jabatan dan/atau kedudukan tenaga kerja asing dalam struktur organisasi perusahaan yang bersangkutan;\nc. jangka waktu penggunaan tenaga kerja asing; dan\nd. penunjukan tenaga kerja warga negara Indonesia sebagai pendamping tenaga kerja asing yang dipekerjakan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830608,
+   "source": "pasal.id",
+   "chapter": "BAB VIII PENGGUNAAN TENAGA KERJA ASING"
+  },
+  {
+   "label": "44",
+   "title": "Pasal 44",
+   "paragraphs": [
+    "(1) Pemberi kerja tenaga kerja asing wajib menaati ketentuan mengenai jabatan dan standar kompetensi yang berlaku.",
+    "(2) Ketentuan mengenai jabatan dan standar kompetensi sebagaimana dimaksud dalam ayat (1) diatur dengan Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830608,
+   "source": "pasal.id",
+   "chapter": "BAB VIII PENGGUNAAN TENAGA KERJA ASING"
+  },
+  {
+   "label": "45",
+   "title": "Pasal 45",
+   "paragraphs": [
+    "(1) Pemberi kerja tenaga kerja asing wajib:\na. menunjuk tenaga kerja warga negara Indonesia sebagai tenaga pendamping tenaga kerja asing yang dipekerjakan untuk alih teknologi dan alih keahlian dari tenaga kerja asing; dan\nb. melaksanakan pendidikan dan pelatihan kerja bagi tenaga kerja Indonesia sebagaimana dimaksud pada huruf a yang sesuai dengan kualifikasi jabatan yang diduduki oleh tenaga kerja asing.",
+    "(2) Ketentuan sebagaimana dimaksud dalam ayat (1) tidak berlaku bagi tenaga kerja asing yang menduduki jabatan direksi dan/atau komisaris."
+   ],
+   "penjelasan": [],
+   "parentId": 21830608,
+   "source": "pasal.id",
+   "chapter": "BAB VIII PENGGUNAAN TENAGA KERJA ASING"
+  },
+  {
+   "label": "46",
+   "title": "Pasal 46",
+   "paragraphs": [
+    "(1) Tenaga kerja asing dilarang menduduki jabatan yang mengurusi personalia dan/atau jabatan-jabatan tertentu.",
+    "(2) Jabatan-jabatan tertentu sebagaimana dimaksud dalam ayat (1) diatur dengan Keputusan Menteri"
+   ],
+   "penjelasan": [],
+   "parentId": 21830608,
+   "source": "pasal.id",
+   "chapter": "BAB VIII PENGGUNAAN TENAGA KERJA ASING"
+  },
+  {
+   "label": "47",
+   "title": "Pasal 47",
+   "paragraphs": [
+    "(1) Pemberi kerja wajib membayar kompensasi atas setiap tenaga kerja asing yang dipekerjakannya.",
+    "(2) Kewajiban membayar kompensasi sebagaimana dimaksud dalam ayat (1) tidak berlaku bagi instansi pemerintah, perwakilan negara asing, badan-badan internasional, lembaga sosial, lembaga keagamaan, dan jabatan-jabatan tertentu di lembaga pendidikan.",
+    "(3) Ketentuan mengenai jabatan-jabatan tertentu di lembaga pendidikan sebagaimana dimaksud dalam ayat (2) diatur dengan Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830608,
+   "source": "pasal.id",
+   "chapter": "BAB VIII PENGGUNAAN TENAGA KERJA ASING"
+  },
+  {
+   "label": "48",
+   "title": "Pasal 48",
+   "paragraphs": [
+    "Pemberi kerja yang mempekerjakan tenaga kerja asing wajib memulangkan tenaga kerja asing ke negara asalnya setelah hubungan kerjanya berakhir."
+   ],
+   "penjelasan": [],
+   "parentId": 21830608,
+   "source": "pasal.id",
+   "chapter": "BAB VIII PENGGUNAAN TENAGA KERJA ASING"
+  },
+  {
+   "label": "49",
+   "title": "Pasal 49",
+   "paragraphs": [
+    "Ketentuan mengenai penggunaan tenaga kerja asing serta pelaksanaan pendidikan dan pelatihan tenaga kerja pendamping diatur dengan Keputusan Presiden."
+   ],
+   "penjelasan": [],
+   "parentId": 21830608,
+   "source": "pasal.id",
+   "chapter": "BAB VIII PENGGUNAAN TENAGA KERJA ASING"
+  },
+  {
+   "label": "50",
+   "title": "Pasal 50",
+   "paragraphs": [
+    "Hubungan kerja terjadi karena adanya perjanjian kerja antara pengusaha dan pekerja/buruh."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "51",
+   "title": "Pasal 51",
+   "paragraphs": [
+    "(1) Perjanjian kerja dibuat secara tertulis atau lisan.",
+    "(2) Perjanjian kerja yang dipersyaratkan secara tertulis dilaksanakan sesuai dengan peraturan perundang-undangan yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "52",
+   "title": "Pasal 52",
+   "paragraphs": [
+    "(1) Perjanjian kerja dibuat atas dasar:\na. kesepakatan kedua belah pihak;\nb. kemampuan atau kecakapan melakukan perbuatan hukum;\nc. adanya pekerjaan yang diperjanjikan; dan\nd. pekerjaan yang diperjanjikan tidak bertentangan dengan ketertiban umum, kesusilaan, dan peraturan perundang-undangan yang berlaku.",
+    "(2) Perjanjian kerja yang dibuat oleh para pihak yang bertentangan dengan ketentuan sebagaimana dimaksud dalam ayat",
+    "(3) Perjanjian kerja yang dibuat oleh para pihak yang bertentangan dengan ketentuan sebagaimana dimaksud dalam ayat"
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "53",
+   "title": "Pasal 53",
+   "paragraphs": [
+    "Segala hal dan/atau biaya yang diperlukan bagi pelaksanaan pembuatan perjanjian kerja dilaksanakan oleh dan menjadi tanggung jawab pengusaha."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "54",
+   "title": "Pasal 54",
+   "paragraphs": [
+    "(1) Perjanjian kerja yang dibuat secara tertulis sekurangkurangnya memuat:\na. nama, alamat perusahaan, dan jenis usaha;\nb. nama, jenis kelamin, umur, dan alamat pekerja/buruh;\nc. jabatan atau jenis pekerjaan;\nd. tempat pekerjaan;\ne. besarnya upah dan cara pembayarannya;\nf. syaratsyarat kerja yang memuat hak dan kewajiban pengusaha dan pekerja/buruh;\ng. mulai dan jangka waktu berlakunya perjanjian kerja;\nh. tempat dan tanggal perjanjian kerja dibuat; dan\ni. tanda tangan para pihak dalam perjanjian kerja."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "55",
+   "title": "Pasal 55",
+   "paragraphs": [
+    "Perjanjian kerja tidak dapat ditarik kembali dan/atau diubah, kecuali atas persetujuan para pihak."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "56",
+   "title": "Pasal 56",
+   "paragraphs": [
+    "(1) Perjanjian kerja dibuat untuk waktu tertentu atau untuk waktu tidak tertentu.",
+    "(2) Perjanjian kerja untuk waktu tertentu sebagaimana dimaksud dalam ayat (1) didasarkan atas:\na. jangka waktu; atau\nb. selesainya suatu pekerjaan tertentu."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "57",
+   "title": "Pasal 57",
+   "paragraphs": [
+    "(1) Perjanjian kerja untuk waktu tertentu dibuat secara tertulis serta harus menggunakan bahasa Indonesia dan huruf latin.",
+    "(2) Perjanjian kerja untuk waktu tertentu yang dibuat tidak tertulis bertentangan dengan ketentuan sebagaimana dimaksud dalam ayat (1) dinyatakan sebagai perjanjian kerja untuk waktu tidak tertentu.",
+    "(3) Dalam hal perjanjian kerja dibuat dalam bahasa Indonesia dan bahasa asing, apabila kemudian terdapat perbedaan penafsiran antara keduanya, maka yang berlaku perjanjian kerja yang dibuat dalam bahasa Indonesia."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "58",
+   "title": "Pasal 58",
+   "paragraphs": [
+    "(1) Perjanjian kerja untuk waktu tertentu tidak dapat mensyaratkan adanya masa percobaan kerja.",
+    "(2) Dalam hal disyaratkan masa percobaan kerja dalam perjanjian kerja sebagaimana dimaksud dalam ayat (1), masa percobaan kerja yang disyaratkan batal demi hukum."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "59",
+   "title": "Pasal 59",
+   "paragraphs": [
+    "(1) Perjanjian kerja untuk waktu tertentu hanya dapat dibuat untuk pekerjaan tertentu yang menurut jenis dan sifat atau kegiatan pekerjaannya akan selesai dalam waktu tertentu, yaitu:",
+    "a. pekerjaan yang sekali selesai atau yang sementara sifatnya;",
+    "b. pekerjaaan y ang diperkirakan penyelesaiannya dalam waktu yang tidak terlalu lama dan paling lama 3 (tiga)",
+    "tahun;",
+    "c. pekerjaan yang bersifat musiman; atau d. pekerjaan yang berhubungan dengan produk baru, kegiatan baru, atau produk tambahan yang masih dalam percobaan atau penjajakan.",
+    "(2) Perjanjian kerja untuk waktu tertentu tidak dapat diadakan untuk pekerjaan yang bersifat tetap.",
+    "(3) Perjanjian kerja untuk waktu tertentu dapat diperpanjang atau diperbaharui.",
+    "(4) Perjanjian kerja waktu tertentu yang didasarkan atas jangka waktu tertentu dapat diadakan untuk paling lama 2",
+    "(dua) tahun dan hanya boleh diperpanjang 1 (satu) kali untuk jangka waktu paling lama 1 (satu) tahun.",
+    "(5) Pengusaha yang bermaksud memperpanjang perjanjian kerja waktu tertentu tersebut, paling lama 7 (tuj uh) hari sebelum perjanjian kerja waktu tertentu berakhir telah memberitahukan maksudnya secara tertulis kepada pekerja/buruh yang bersangkutan.",
+    "(6) Pembaruan perjanjian kerja waktu tertentu hanya dapat diadakan setelah melebihi masa tenggang waktu 30 (tiga puluh) hari berakhirnya perjanjian kerja waktu tertentu yang lama, pembaruan perjanjian kerja waktu tertentu ini hanya boleh dilakukan 1 (satu) kali dan paling lama 2 (dua)",
+    "tahun.",
+    "(7) Perjanjian k erja untuk waktu tertentu yang tidak memenuhi ketentuan sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (4), ayat (5), dan ayat (6) maka demi hukum menjadi perjanjian kerja waktu tidak tertentu.",
+    "(8) Hal-hal lain yang belum diatur dalam pasal ini aka n diatur lebih lanjut dengan Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "official-pdf",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "60",
+   "title": "Pasal 60",
+   "paragraphs": [
+    "(1) Perjanjian kerja untuk waktu tidak tertentu dapat mensyaratkan masa percobaan kerja paling lama 3 (tiga) bulan.",
+    "(2) Dalam masa percobaan kerja sebagaimana dimaksud dalam ayat (1), pengusaha dilarang membayar upah di bawah upah minimum yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "61",
+   "title": "Pasal 61",
+   "paragraphs": [
+    "(1) Perjanjian kerja berakhir apabila:\na. pekerja meninggal dunia;\nb. berakhirnya jangka waktu perjanjian kerja;\nc. adanya putusan pengadilan dan/atau putusan atau penetapan lembaga penyelesaian perselisihan hubungan industrial yang telah mempunyai kekuatan hukum tetap; atau\nd. adanya keadaan atau kejadian tertentu yang dicantumkan dalam perjanjian kerja, peraturan perusahaan, atau perjanjian kerja bersama yang dapat menyebabkan berakhirnya hubungan kerja."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "62",
+   "title": "Pasal 62",
+   "paragraphs": [
+    "Apabila salah satu pihak mengakhiri hubungan kerja sebelum berakhirnya jangka waktu yang ditetapkan dalam perjanjian kerja waktu tertentu, atau berakhirnya hubungan kerja bukan karena ketentuan sebagaimana dimaksud dalam Pasal 61 ayat (1), pihak yang mengakhiri hubungan kerja diwajibkan membayar ganti rugi kepada pihak lainnya sebesar upah pekerja/buruh sampai batas waktu berakhirnya jangka waktu perjanjian kerja."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "63",
+   "title": "Pasal 63",
+   "paragraphs": [
+    "(1) Dalam hal perjanjian kerja waktu tidak tertentu dibuat secara lisan, maka pengusaha wajib membuat surat pengangkatan bagi pekerja/buruh yang bersangkutan.",
+    "(2) Surat pengangkatan sebagaimana dimaksud dalam ayat (1), sekurang kurangnya memuat keterangan:\na. nama dan alamat pekerja/buruh;\nb. tanggal mulai bekerja;\nc. jenis pekerjaan; dan\nd. besarnya upah."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "64",
+   "title": "Pasal 64",
+   "paragraphs": [
+    "Perusahaan dapat menyerahkan sebagian pelaksanaan pekerjaan kepada perusahaan lainnya melalui perjanjian pemborongan pekerjaan atau penyedia-an jasa pekerja/buruh yang dibuat secara tertulis."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "pasal.id",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "65",
+   "title": "Pasal 65",
+   "paragraphs": [
+    "(1) Penyerahan sebagian pelaksanaan pekerjaan kepada perusahaan lain dilaksanakan melalui perjanjian pemborongan pekerjaan yang dibuat secara tertulis.",
+    "(2) Pekerjaan yang dapat diserahkan kepada perusahaan lain sebagaimana dimaksud dalam ayat (1) harus memenuhi syarat-syarat sebagai berikut:",
+    "a. dilakukan secara terpisah dari kegiatan utama;",
+    "b. dilakukan dengan perintah langsung atau tidak langsung dari pemberi pekerjaan;",
+    "c. merupakan kegiatan penunjang perusahaan secara keseluruhan; dan d. tidak menghambat proses produksi secara langsung.",
+    "(3) Perusahaan lain sebagaimana dimaksud dalam ayat (1)",
+    "harus berbentuk badan hukum.",
+    "(4) Perlindungan kerja dan syarat -syarat kerj a bagi pekerja/buruh pada perusahaan lain sebagaimana dimaksud dalam ayat (2) sekurang-kurangnya sama dengan perlindungan kerja dan syarat -syarat kerja pada perusahaan pemberi pekerjaan atau sesuai dengan peraturan perundang-undangan yang berlaku.",
+    "(5) Perubahan dan/atau penambahan syarat -syarat sebagaimana dimaksud dalam ayat (2) diatur lebih lanjut dengan Keputusan Menteri.",
+    "(6) Hubungan kerja dalam pelaksanaan pekerjaan sebagaimana dimaksud dalam ayat (1) diatur dalam perjanjian kerja secara tertulis ant ara perusahaan lain dan pekerja/buruh yang dipekerjakannya.",
+    "(7) Hubungan kerja sebagaimana dimaksud dalam ayat (6)",
+    "dapat didasarkan atas perjanjian kerja waktu tidak tertentu atau perjanjian kerja waktu tertentu apabila memenuhi persyaratan sebagaimana dimaksud dalam",
+    "Pasal 59.",
+    "(8) Dalam hal ketentuan sebagaimana dimaksud dalam ayat",
+    "(2), dan ayat (3), tidak terpenuhi, maka demi hukum status hubungan kerja pekerja/buruh dengan perusahaan penerima pemborongan beralih menjadi hubungan kerja pekerja/buruh dengan perusahaan pemberi pekerjaan.",
+    "(9) Dalam hal hubungan kerja beralih ke perusahaan pemberi pekerjaan sebagaimana dimaksud dalam ayat (8), maka hubungan kerja pekerja/buruh dengan pemberi pekerjaan sesuai dengan hubungan kerja sebagaimana dimaksud dalam ayat (7)."
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "official-pdf",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "66",
+   "title": "Pasal 66",
+   "paragraphs": [
+    "(1) Pekerja/buruh dari perusahaan penyedia jasa pekerja/buruh tidak boleh digunakan oleh pemberi kerja untuk melaksanakan kegiatan pokok atau kegiatan yang berhubungan langsung dengan proses produksi, kecuali untuk kegiatan jasa penunjang atau keg iatan yang tidak berhubungan langsung dengan proses produksi.",
+    "(2) Penyedia jasa pekerja/buruh untuk kegiatan jasa penunjang atau kegiatan yang tidak berhubungan langsung dengan proses produksi harus memenuhi syarat sebagai berikut:",
+    "a. adanya hubungan kerja ant ara pekerja/buruh dan perusahaan penyedia jasa pekerja/buruh;",
+    "b. perjanjian kerja yang berlaku dalam hubungan kerja sebagaimana dimaksud pada huruf a adalah perjanjian kerja untuk waktu tertentu yang memenuhi persyaratan sebagaimana dimaksud dalam Pasal 59 dan/atau perjanjian kerja waktu tidak tertentu yang dibuat secara tertulis dan ditandatangani oleh kedua belah pihak;",
+    "c. perlindungan upah dan kesejahteraan, syarat -syarat kerja, serta perselisihan yang timbul menjadi tanggung jawab perusahaan penyedia jasa pekerja/buruh; dan d. perjanjian antara perusahaan pengguna jasa pekerja/buruh dan perusahaan lain yang bertindak sebagai perusahaan penyedia jasa pekerja/buruh dibuat secara tertulis dan wajib memuat pasal -pasal sebagaimana dimaksud dalam undang-undang ini.",
+    "(3) Penyedia jasa pekerja/buruh merupakan bentuk usaha yang berbadan hukum dan memiliki izin dari instansi yang bertanggung jawab di bidang ketenagakerjaan.",
+    "(4) Dalam hal ketentuan sebagaimana dimaksud dalam ayat (1), ayat (2) huruf a, huruf b, dan huru f d serta ayat",
+    "(3) tidak terpenuhi, maka demi hukum status hubungan kerja antara pekerja/buruh dan perusahaan penyedia jasa pekerja/buruh beralih menjadi hubungan kerja antara pekerja/buruh dan perusahaan pemberi pekerjaan.",
+    "BAB X",
+    "PERLINDUNGAN, PENGUPAHAN,",
+    "DAN KESEJAHTERAAN",
+    "Bagian Kesatu",
+    "Perlindungan",
+    "Paragraf 1",
+    "Penyandang Cacat"
+   ],
+   "penjelasan": [],
+   "parentId": 21830609,
+   "source": "official-pdf",
+   "chapter": "BAB IX HUBUNGAN KERJA"
+  },
+  {
+   "label": "67",
+   "title": "Pasal 67",
+   "paragraphs": [
+    "(1) Pengusaha yang mempekerjakan tenaga kerja penyandang cacat wajib memberikan perlindungan sesuai dengan jenis dan derajat kecacatannya.",
+    "(2) Pemberian perlindungan sebagaimana dimaksud dalam ayat (1) dilaksanakan sesuai dengan peraturan perundang-undangan yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830882,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "68",
+   "title": "Pasal 68",
+   "paragraphs": [
+    "Pengusaha dilarang mempekerjakan anak."
+   ],
+   "penjelasan": [],
+   "parentId": 21830883,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "69",
+   "title": "Pasal 69",
+   "paragraphs": [
+    "(1) Ketentuan sebagaimana dimaksud dalam Pasal 68 dapat dikecualikan bagi anak yang berumur antara 13 (tiga belas) tahun sampai dengan 15 (lima belas) tahun untuk melakukan pekerjaan ringan sepanjang tidak mengganggu perkembangan dan kesehatan fisik, mental, dan sosial."
+   ],
+   "penjelasan": [],
+   "parentId": 21830883,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "70",
+   "title": "Pasal 70",
+   "paragraphs": [
+    "(1) Anak dapat melakukan pekerjaan di tempat kerja yang merupakan bagian dari kurikulum pendidikan atau pelatihan yang disahkan oleh pejabat yang berwenang.",
+    "(2) Anak sebagaimana dimaksud dalam ayat (1) paling sedikit berumur 14 (empat belas) tahun.",
+    "(3) Pekerjaan sebagaimana dimaksud dalam ayat (1) dapat dilakukan dengan syarat:\na. diberi petunjuk yang jelas tentang cara pelaksanaan pekerjaan serta bimbingan dan pengawasan dalam melaksanakan pekerjaan; dan\nb. diberi perlindungan keselamatan dan kesehatan kerja."
+   ],
+   "penjelasan": [],
+   "parentId": 21830883,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "71",
+   "title": "Pasal 71",
+   "paragraphs": [
+    "(1) Anak dapat melakukan pekerjaan untuk mengembangkan bakat dan minatnya.",
+    "(2) Pengusaha yang mempekerjakan anak sebagaimana dimaksud dalam ayat (1) wajib memenuhi syarat:\na. di bawah pengawasan langsung dari orang tua atau wali;\nb. waktu kerja paling lama 3 (tiga) jam sehari; dan\nc. kondisi dan lingkungan kerja tidak mengganggu perkembangan fisik, mental, sosial, dan waktu sekolah.",
+    "(3) Ketentuan mengenai anak yang bekerja untuk mengembangkan bakat dan minat sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur dengan Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830883,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "72",
+   "title": "Pasal 72",
+   "paragraphs": [
+    "Dalam hal anak dipekerjakan bersama-sama dengan pekerja/buruh dewasa, maka tempat kerja anak harus dipisahkan dari tempat kerja pekerja/buruh dewasa."
+   ],
+   "penjelasan": [],
+   "parentId": 21830883,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "73",
+   "title": "Pasal 73",
+   "paragraphs": [
+    "Anak dianggap bekerja bilamana berada di tempat kerja, kecuali dapat dibuktikan sebaliknya."
+   ],
+   "penjelasan": [],
+   "parentId": 21830883,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "74",
+   "title": "Pasal 74",
+   "paragraphs": [
+    "(1) Siapapun dilarang mempekerjakan dan melibatkan anak pada pekerjaan-pekerjaan yang terburuk.",
+    "(2) Pekerjaan-pekerjaan yang terburuk yang dimaksud dalam ayat (1) meliputi:\na. segala pekerjaan dalam bentuk perbudakan atau sejenisnya;\nb. segala pekerjaan yang memanfaatkan, menyediakan, atau menawarkan anak untuk pelacuran, produksi pornografi, pertunjukan porno, atau perjudian;\nc. segala pekerjaan yang memanfaatkan, menyediakan, atau melibatkan anak untuk produksi dan perdagangan minuman keras, narkotika, psikotropika, dan zat adiktif lainnya; dan/atau\nd. semua pekerjaan yang membahayakan kesehatan, keselamatan, atau moral anak."
+   ],
+   "penjelasan": [],
+   "parentId": 21830883,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "75",
+   "title": "Pasal 75",
+   "paragraphs": [
+    "(1) Pemerintah berkewajiban melakukan upaya penanggulangan anak yang bekerja di luar hubungan kerja.",
+    "(2) Upaya penanggulangan sebagaimana dimaksud dalam ayat (1) diatur dengan Peraturan Pemerintah."
+   ],
+   "penjelasan": [],
+   "parentId": 21830883,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "76",
+   "title": "Pasal 76",
+   "paragraphs": [
+    "(1) Pekerja/buruh perempuan yang berumur kurang dari 18 (delapan belas) tahun dilarang dipekerjakan antara pukul 23.00 sampai dengan pukul 07.00.",
+    "(2) Pengusaha dilarang mempekerjakan pekerja/buruh perempuan hamil yang menurut keterangan dokter berbahaya bagi kesehatan dan keselamatan kandungannya maupun dirinya apabila bekerja antara pukul 23.00 sampai dengan pukul 07.00."
+   ],
+   "penjelasan": [],
+   "parentId": 21830884,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "77",
+   "title": "Pasal 77",
+   "paragraphs": [
+    "(1) Setiap pengusaha wajib melaksanakan ketentuan waktu kerja.",
+    "(2) Waktu kerja sebagaimana dimaksud dalam ayat (1) meliputi:\na. 7 (tujuh) jam 1 (satu) hari dan 40 (empat puluh) jam 1 (satu) minggu untuk 6 (enam) hari kerja dalam 1 (satu) minggu;\natau\nb. 8 (delapan) jam 1 (satu) hari dan 40 (empat puluh) jam 1 (satu) minggu untuk 5 (lima) hari kerja dalam 1 (satu) minggu.",
+    "(3) Ketentuan waktu kerja sebagaimana dimaksud dalam ayat (2) tidak berlaku bagi sektor usaha atau pekerjaan tertentu."
+   ],
+   "penjelasan": [],
+   "parentId": 21830885,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "78",
+   "title": "Pasal 78",
+   "paragraphs": [
+    "(1) Pengusaha yang mempekerjakan pekerja/buruh melebihi waktu kerja sebagaimana dimaksud dalam Pasal 77 ayat (2) harus memenuhi syarat:\na. ada persetujuan pekerja/buruh yang bersangkutan; dan\nb. waktu kerja lembur hanya dapat dilakukan paling banyak 3 (tiga) jam dalam 1 (satu) hari dan 14 (empat belas) jam dalam 1 (satu) minggu."
+   ],
+   "penjelasan": [],
+   "parentId": 21830885,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "79",
+   "title": "Pasal 79",
+   "paragraphs": [
+    "(1) Pengusaha wajib memberi waktu istirahat dan cuti kepada pekerja/buruh.",
+    "(2) Waktu istirahat dan cuti sebagaimana dimaksud dalam ayat (1), meliputi :",
+    "a. istirahat antara jam kerja, sekurang-kurangnya setengah jam setelah bekerja selama 4 (empat) jam terus menerus dan waktu istirahat tersebut tidak termasuk jam kerja;",
+    "b. istirahat mingguan 1 (satu) hari untuk 6 (enam) hari kerja dalam 1 (satu) minggu atau 2 (dua) hari untuk 5",
+    "(lima) hari kerja dalam 1 (satu) minggu;",
+    "c. cuti tahunan, sekurang -kurangnya 12 (dua belas) hari kerja setelah pekerja/buruh yang bersangkutan bekerja selama 12 (dua belas) bulan secara terus menerus; dan d. istirahat panjang sekurang -kurangnya 2 (dua) bulan dan dilaksanakan pada tahun ketujuh dan kedelapan masing-masing 1 (satu) bulan bagi pekerja/buruh yang telah bekerja selama 6 (enam) tahun secara terus - menerus pada perusahaan yang sama dengan ketentuan pek erja/buruh tersebut tidak berhak lagi atas istirahat tahunannya dalam 2 (dua) tahun berjalan dan selanjutnya berlaku untuk setiap kelipatan masa kerja 6 (enam) tahun.",
+    "(3) Pelaksanaan waktu istirahat tahunan sebagaimana dimaksud dalam ayat (2) huruf c diatu r dalam perjanjian kerja, peraturan perusahaan, atau perjanjian kerja bersama.",
+    "(4) Hak istirahat panjang sebagaimana dimaksud dalam ayat (2) huruf d hanya berlaku bagi pekerja/buruh yang bekerja pada perusahaan tertentu.",
+    "(5) Perusahaan tertentu sebagaimana dimaksud dalam ayat (4)",
+    "diatur dengan Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830885,
+   "source": "official-pdf",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "80",
+   "title": "Pasal 80",
+   "paragraphs": [
+    "(1) Pengusaha wajib memberikan kesempatan yang secukupnya kepada pekerja/buruh untuk melaksanakan ibadah yang diwajibkan oleh agamanya."
+   ],
+   "penjelasan": [],
+   "parentId": 21830885,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "81",
+   "title": "Pasal 81",
+   "paragraphs": [
+    "(1) Pekerja/buruh perempuan yang dalam masa haid merasakan sakit dan memberitahukan kepada pengusaha, tidak wajib bekerja pada hari pertama dan kedua pada waktu haid.",
+    "(2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) diatur dalam perjanjian kerja, peraturan perusahaan, atau perjanjian kerja bersama."
+   ],
+   "penjelasan": [],
+   "parentId": 21830885,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "82",
+   "title": "Pasal 82",
+   "paragraphs": [
+    "(1) Pekerja/buruh perempuan berhak memperoleh istirahat selama 1,5 (satu setengah) bulan sebelum saatnya melahirkan anak dan 1,5 (satu setengah) bulan sesudah melahirkan menurut perhitungan dokter kandungan atau bidan.",
+    "(2) Pekerja/buruh perempuan yang mengalami keguguran kandungan berhak memperoleh istirahat 1,5 (satu setengah) bulan atau sesuai dengan surat keterangan dokter kandungan atau bidan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830885,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "83",
+   "title": "Pasal 83",
+   "paragraphs": [
+    "Pekerja/buruh perempuan yang anaknya masih menyusu harus diberi kesempatan sepatutnya untuk menyusui anaknya jika hal itu harus dilakukan selama waktu kerja."
+   ],
+   "penjelasan": [],
+   "parentId": 21830885,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "84",
+   "title": "Pasal 84",
+   "paragraphs": [
+    "Setiap pekerja/buruh yang menggunakan hak waktu istirahat sebagaimana dimaksud dalam Pasal 79 ayat (2) huruf b, c, dan d, Pasal 80, dan Pasal 82 berhak mendapat upah penuh."
+   ],
+   "penjelasan": [],
+   "parentId": 21830885,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "85",
+   "title": "Pasal 85",
+   "paragraphs": [
+    "(1) Pekerja/buruh tidak wajib bekerja pada hari-hari libur resmi.",
+    "(2) Pengusaha dapat mempekerjakan pekerja/buruh untuk bekerja pada hari-hari libur resmi apabila jenis dan sifat pekerjaan tersebut harus dilaksanakan atau dijalankan secara terus menerus atau pada keadaan lain berdasarkan kesepakatan antara pekerja/buruh dengan pengusaha.",
+    "(3) Pengusaha yang mempekerjakan pekerja/buruh yang melakukan pekerjaan pada hari libur resmi sebagaimana dimaksud dalam ayat (2) wajib membayar upah kerja lembur."
+   ],
+   "penjelasan": [],
+   "parentId": 21830885,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "86",
+   "title": "Pasal 86",
+   "paragraphs": [
+    "(1) Setiap pekerja/buruh mempunyai hak untuk memperoleh perlindungan atas:\na. keselamatan dan kesehatan kerja;\nb. moral dan kesusilaan; dan\nc. perlakuan yang sesuai dengan harkat dan martabat manusia serta nilainilai agama.",
+    "(2) Untuk melindungi keselamatan pekerja/buruh guna mewujudkan produktivitas kerja yang optimal diselenggarakan upaya keselamatan dan kesehatan kerja.",
+    "(3) Perlindungan sebagaimana dimaksud dalam ayat (1) dan ayat (2) dilaksanakan sesuai dengan peraturan perundang-undangan yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830886,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "87",
+   "title": "Pasal 87",
+   "paragraphs": [
+    "(1) Setiap perusahaan wajib menerapkan sistem manajemen keselamatan dan kesehatan kerja yang terintegrasi dengan sistem manajemen perusahaan.",
+    "(2) Ketentuan mengenai penerapan sistem manajemen keselamatan dan kesehatan kerja sebagaimana dimaksud dalam ayat (1) diatur dengan Peraturan Pemerintah."
+   ],
+   "penjelasan": [],
+   "parentId": 21830886,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "88",
+   "title": "Pasal 88",
+   "paragraphs": [
+    "(1) Setiap pekerja/buruh berhak memperoleh penghasilan yang memenuhi penghidupan yang layak bagi kemanusiaan.",
+    "(2) Untuk mewujudkan penghasilan yang memenuhi penghidupan yang layak bagi kemanusiaan sebagaimana dimaksud dalam ayat (1), pemerintah menetapkan kebijakan pengupahan yang melindungi pekerja/buruh."
+   ],
+   "penjelasan": [],
+   "parentId": 21830687,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "89",
+   "title": "Pasal 89",
+   "paragraphs": [
+    "(1) Upah minimum sebagaimana dimaksud dalam Pasal 88 ayat (3) huruf a dapat terdiri atas:\na. upah minimum berdasarkan wilayah provinsi atau kabupaten/kota;\nb. upah minimum berdasarkan sektor pada wilayah provinsi atau kabupaten/kota.",
+    "(2) Upah minimum sebagaimana dimaksud dalam ayat (1) diarahkan kepada pencapaian kebutuhan hidup layak."
+   ],
+   "penjelasan": [],
+   "parentId": 21830687,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "90",
+   "title": "Pasal 90",
+   "paragraphs": [
+    "(1) Pengusaha dilarang membayar upah lebih rendah dari upah minimum sebagaimana dimaksud dalam Pasal 89.",
+    "(2) Bagi pengusaha yang tidak mampu membayar upah minimum sebagaimana dimaksud dalam Pasal 89 dapat dilakukan penangguhan.",
+    "(3) Tata cara penangguhan sebagaimana dimaksud dalam ayat (2) diatur dengan Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830687,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "91",
+   "title": "Pasal 91",
+   "paragraphs": [
+    "(1) Pengaturan pengupahan yang ditetapkan atas kesepakatan antara pengusaha dan pekerja/buruh atau serikat pekerja/serikat buruh tidak boleh lebih rendah dari ketentuan pengupahan yang ditetapkan peraturan perundang-undangan yang berlaku.",
+    "(2) Dalam hal kesepakatan sebagaimana dimaksud dalam ayat (1) lebih rendah atau bertentangan dengan peraturan perundang-undangan, kesepakatan tersebut batal demi hukum, dan pengusaha wajib membayar upah pekerja/buruh menurut peraturan perundang-undangan yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830687,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "92",
+   "title": "Pasal 92",
+   "paragraphs": [
+    "(1) Pengusaha menyusun struktur dan skala upah dengan memperhatikan golongan, jabatan, masa kerja, pendidikan, dan kompetensi.",
+    "(2) Pengusaha melakukan peninjauan upah secara berkala dengan memperhatikan kemampuan perusahaan dan produktivitas.",
+    "(3) Ketentuan mengenai struktur dan skala upah sebagaimana dimaksud dalam ayat (1) diatur dengan Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830687,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "93",
+   "title": "Pasal 93",
+   "paragraphs": [
+    "(1) Upah tidak dibayar apabila pekerja/buruh tidak melakukan pekerjaan.",
+    "(2) Ketentuan sebagaimana dimaksud dalam ayat (1) tidak berlaku, dan pengusaha wajib membayar upah apabila:",
+    "a. pekerja/buruh sakit sehingga tidak dapat melakukan pekerjaan;",
+    "b. pekerja/buruh perempuan yang sakit pada hari pertama dan kedua masa haidnya sehingga tidak dapat melakukan pekerjaan;",
+    "c. pekerja/buruh tidak masuk bekerja karena pekerja/buruh menikah, menikahkan, mengkhitankan, membaptiskan anaknya, isteri melahirkan atau keguguran kandungan, suami atau isteri atau anak atau menantu atau orang tua atau mertua atau anggota keluarga dalam satu rumah meninggal dunia;",
+    "d. pekerja/buruh tidak dapat melakukan pekerjaannya karena sedang menjalankan kewajiban terhadap negara;",
+    "e. pekerja/buruh tidak dapat melakukan pekerjaannya karena menjalankan ibadah yang diperintahkan agamanya;",
+    "f. pekerja/buruh bersedia melakukan pekerjaan yang telah dijanjikan tetapi pengusaha tidak mempekerjakannya, baik karena kesalahan sendiri maupun halangan yang seharusnya dapat dihindari pengusaha;",
+    "g. pekerja/buruh melaksanakan hak istirahat;",
+    "h. pekerja/buruh melaksanakan tugas serikat pekerja/serikat buruh atas persetujuan pengusaha; dan i. pekerja/buruh melaksanakan tugas pendidikan dari perusahaan.",
+    "(3) Upah yan g dibayarkan kepada pekerja/buruh yang sakit sebagaimana dimaksud dalam ayat (2) huruf a sebagai berikut :",
+    "a. untuk 4 (empat) bulan pertama, dibayar 100% (seratus perseratus) dari upah;",
+    "b. untuk 4 (empat) bulan kedua, dibayar 75% (tujuh puluh lima perseratus) dari upah;",
+    "c. untuk 4 (empat) bulan ketiga, dibayar 50% (lima puluh perseratus) dari upah; dan d. untuk bulan selanjutnya dibayar 25% (dua puluh lima perseratus) dari upah sebelum pemutusan hubungan kerja dilakukan oleh pengusaha.",
+    "(4) Upah yang dibayarkan kepad a pekerja /buruh yang tidak masuk bekerja sebagaimana dimaksud dalam ayat (2)",
+    "huruf c sebagai berikut:",
+    "a. pekerja/buruh menikah, dibayar untuk selama 3 (tiga)",
+    "hari;",
+    "b. menikahkan anaknya, dibayar untuk selama 2 (dua)",
+    "hari;",
+    "c. mengkhitankan anaknya, dibayar un tuk selama 2 (dua)",
+    "hari;",
+    "d. membaptiskan anaknya, dibayar untuk selama 2 (dua)",
+    "hari;",
+    "e. isteri melahirkan atau keguguran kandungan, dibayar untuk selama 2 (dua) hari;",
+    "f. suami/isteri, orang tua/mertua atau anak atau menantu meninggal dunia, dibayar untuk selama 2",
+    "(dua) hari; dan g. anggota keluarga dalam satu rumah meninggal dunia, dibayar untuk selama 1 (satu) hari.",
+    "(5) Pengaturan pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (2) ditetapkan dalam perjanjian kerja, peraturan perusahaan, atau perjan jian kerja bersama."
+   ],
+   "penjelasan": [],
+   "parentId": 21830687,
+   "source": "official-pdf",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "94",
+   "title": "Pasal 94",
+   "paragraphs": [
+    "Dalam hal komponen upah terdiri dari upah pokok dan tunjangan tetap maka besarnya upah pokok sedikit-dikitnya 75 % (tujuh puluh lima perseratus) dari jumlah upah pokok dan tunjangan tetap."
+   ],
+   "penjelasan": [],
+   "parentId": 21830687,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "95",
+   "title": "Pasal 95",
+   "paragraphs": [
+    "(1) Pelanggaran yang dilakukan oleh pekerja/buruh karena kesengajaan atau kelalaiannya dapat dikenakan denda.",
+    "(2) Pengusaha yang karena kesengajaan atau kelalaiannya mengakibatkan keterlambatan pembayaran upah, dikenakan denda sesuai dengan persentase tertentu dari upah pekerja/buruh.",
+    "(3) Pemerintah mengatur pengenaan denda kepada pengusaha dan/atau pekerja/buruh, dalam pembayaran upah."
+   ],
+   "penjelasan": [],
+   "parentId": 21830687,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "96",
+   "title": "Pasal 96",
+   "paragraphs": [
+    "Tuntutan pembayaran upah pekerja/buruh dan segala pembayaran yang timbul dari hubungan kerja menjadi kadaluwarsa setelah melampaui jangka waktu 2 (dua) tahun sejak timbulnya hak."
+   ],
+   "penjelasan": [],
+   "parentId": 21830687,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "97",
+   "title": "Pasal 97",
+   "paragraphs": [
+    "Ketentuan mengenai penghasilan yang layak, kebijakan pengupahan, kebutuhan hidup layak, dan perlindungan pengupahan sebagaimana dimaksud dalam Pasal 88, penetapan upah minimum sebagaimana dimaksud dalam Pasal 89, dan pengenaan denda sebagaimana dimaksud dalam Pasal 95 ayat (1), ayat (2) dan ayat (3) diatur dengan Peraturan Pemerintah."
+   ],
+   "penjelasan": [],
+   "parentId": 21830687,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "98",
+   "title": "Pasal 98",
+   "paragraphs": [
+    "(1) Untuk memberikan saran, pertimbangan, dan merumuskan kebijakan pengupahan yang akan ditetapkan oleh pemerintah, serta untuk pengembangan sistem pengupahan nasional dibentuk Dewan Pengupahan Nasional, Provinsi, dan Kabupaten/Kota.",
+    "(2) Keanggotaan Dewan Pengupahan sebagaimana dimaksud dalam ayat (1) terdiri dari unsur pemerintah, organisasi pengusaha, serikat pekerja/serikat buruh, perguruan tinggi, dan pakar."
+   ],
+   "penjelasan": [],
+   "parentId": 21830687,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "99",
+   "title": "Pasal 99",
+   "paragraphs": [
+    "(1) Setiap pekerja/buruh dan keluarganya berhak untuk memperoleh jaminan sosial tenaga kerja.",
+    "(2) Jaminan sosial tenaga kerja sebagaimana dimaksud dalam ayat (1), dilaksanakan sesuai dengan peraturan perundang-undangan yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830688,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "100",
+   "title": "Pasal 100",
+   "paragraphs": [
+    "(1) Untuk meningkatkan kesejahteraan bagi pekerja/buruh dan keluarganya, pengusaha wajib menyediakan fasilitas kesejahteraan.",
+    "(2) Penyediaan fasilitas kesejahteraan sebagaimana dimaksud dalam ayat (1), dilaksanakan dengan memperhatikan kebutuhan pekerja/buruh dan ukuran kemampuan perusahaan.",
+    "(3) Ketentuan mengenai jenis dan kriteria fasilitas kesejahteraan sesuai dengan kebutuhan pekerja/buruh dan ukuran kemampuan perusahaan sebagaimana dimaksud dalam ayat (1) dan ayat (2), diatur dengan Peraturan Pemerintah."
+   ],
+   "penjelasan": [],
+   "parentId": 21830688,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "101",
+   "title": "Pasal 101",
+   "paragraphs": [
+    "(1) Untuk meningkatkan kesejahteraan pekerja/buruh, dibentuk koperasi pekerja/buruh dan usaha-usaha produktif di perusahaan.",
+    "(2) Pemerintah, pengusaha, dan pekerja/buruh atau serikat pekerja/serikat buruh berupaya menumbuhkembangkan koperasi pekerja/buruh, dan mengembangkan usaha produktif sebagaimana dimaksud dalam ayat (1).",
+    "(3) Pembentukan koperasi sebagaimana dimaksud dalam ayat (1), dilaksanakan sesuai dengan peraturan perundang-undangan yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830688,
+   "source": "pasal.id",
+   "chapter": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN"
+  },
+  {
+   "label": "102",
+   "title": "Pasal 102",
+   "paragraphs": [
+    "(1) Dalam melaksanakan hubungan industrial, pemerintah mempunyai fungsi menetapkan kebijakan, memberikan pelayanan, melaksanakan pengawasan, dan melakukan penindakan terhadap pelanggaran peraturan perundang-undangan ketenagakerjaan.",
+    "(2) Dalam melaksanakan hubungan industrial, pekerja/buruh dan serikat pekerja/serikat buruhnya mempunyai fungsi menjalankan pekerjaan sesuai dengan kewajibannya, menjaga ketertiban demi kelangsungan produksi, menyalurkan aspirasi secara demokratis, mengembangkan keterampilan, dan keahliannya serta ikut memajukan perusahaan dan memperjuangkan kesejahteraan anggota beserta keluarganya.",
+    "(3) Dalam melaksanakan hubungan industrial, pengusaha dan organisasi pengusahanya mempunyai fungsi menciptakan kemitraan, mengembangkan usaha, memperluas lapangan kerja, dan memberikan kesejahteraan pekerja/buruh secara terbuka, demokratis, dan berkeadilan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830689,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "103",
+   "title": "Pasal 103",
+   "paragraphs": [
+    "Hubungan Industrial dilaksanakan melalui sarana:\na. serikat pekerja/serikat buruh;\nb. organisasi pengusaha;\nc. lembaga kerja sama bipartit;\nd. lembaga kerja sama tripartit;\ne. peraturan perusahaan;\nf. perjanjian kerja bersama;\ng. peraturan perundang-undangan ketenagakerjaan; dan\nh. lembaga penyelesaian perselisihan hubungan industrial."
+   ],
+   "penjelasan": [],
+   "parentId": 21830689,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "104",
+   "title": "Pasal 104",
+   "paragraphs": [
+    "(1) Setiap pekerja/buruh berhak membentuk dan menjadi anggota serikat pekerja/serikat buruh.",
+    "(2) Dalam melaksanakan fungsi sebagaimana dimaksud dalam Pasal 102, serikat pekerja/serikat buruh berhak menghimpun dan mengelola keuangan serta mempertanggungjawabkan keuangan organisasi termasuk dana mogok.",
+    "(3) Besarnya dan tata cara pemungutan dana mogok sebagaimana dimaksud dalam ayat (2) diatur dalam anggaran dasar dan/atau anggaran rumah tangga serikat pekerja/serikat buruh yang bersangkutan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830690,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "105",
+   "title": "Pasal 105",
+   "paragraphs": [
+    "(1) Setiap pengusaha berhak membentuk dan menjadi anggota organisasi pengusaha.",
+    "(2) Ketentuan mengenai organisasi pengusaha diatur sesuai dengan peraturan perundang-undangan yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830691,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "106",
+   "title": "Pasal 106",
+   "paragraphs": [
+    "(1) Setiap perusahaan yang mempekerjakan 50 (lima puluh) orang pekerja/buruh atau lebih wajib membentuk lembaga kerja sama bipartit.",
+    "(2) Lembaga kerja sama bipartit sebagaimana dimaksud dalam ayat (1) berfungsi sebagai forum komunikasi, dan konsultasi mengenai hal ketenagakerjaan di perusahaan.",
+    "(3) Susunan keanggotaan lembaga kerja sama bipartit sebagaimana dimaksud dalam ayat (2) terdiri dari unsur pengusaha dan unsur pekerja/buruh yang ditunjuk oleh pekerja/buruh secara demokratis untuk mewakili kepentingan pekerja/buruh di perusahaan yang bersangkutan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830692,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "107",
+   "title": "Pasal 107",
+   "paragraphs": [
+    "(1) Lembaga kerja sama tripartit memberikan pertimbangan, saran, dan pendapat kepada pemerintah dan pihak terkait dalam penyusunan kebijakan dan pemecahan masalah ketenagakerjaan.",
+    "(2) Lembaga Kerja sama Tripartit sebagaimana dimaksud dalam ayat (1), terdiri dari:\na. Lembaga Kerja sama Tripartit Nasional, Provinsi, dan Kabupaten/ Kota; dan\nb. Lembaga Kerja sama Tripartit Sektoral Nasional, Provinsi, dan Kabupaten/Kota."
+   ],
+   "penjelasan": [],
+   "parentId": 21830693,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "108",
+   "title": "Pasal 108",
+   "paragraphs": [
+    "(1) Pengusaha yang mempekerjakan pekerja/buruh sekurang-kurangnya 10 (sepuluh) orang wajib membuat peraturan perusahaan yang mulai berlaku setelah disahkan oleh Menteri atau pejabat yang ditunjuk.",
+    "(2) Kewajiban membuat peraturan perusahaan sebagaimana dimaksud dalam ayat (1) tidak berlaku bagi perusahaan yang telah memiliki perjanjian kerja bersama."
+   ],
+   "penjelasan": [],
+   "parentId": 21830694,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "109",
+   "title": "Pasal 109",
+   "paragraphs": [
+    "Peraturan perusahaan disusun oleh dan menjadi tanggung jawab dari pengusaha yang bersangkutan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830694,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "110",
+   "title": "Pasal 110",
+   "paragraphs": [
+    "(1) Peraturan perusahaan disusun dengan memperhatikan saran dan pertimbangan dari wakil pekerja/buruh di perusahaan yang bersangkutan.",
+    "(2) Dalam hal di perusahaan yang bersangkutan telah terbentuk serikat pekerja/serikat buruh maka wakil pekerja/buruh sebagaimana dimaksud dalam ayat (1) adalah pengurus serikat pekerja/serikat buruh.",
+    "(3) Dalam hal di perusahaan yang bersangkutan belum terbentuk serikat pekerja/serikat buruh, wakil pekerja/buruh sebagaimana dimaksud dalam ayat (1) adalah pekerja/buruh yang dipilih secara demokratis untuk mewakili kepentingan para pekerja/buruh di perusahaan yang bersangkutan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830694,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "111",
+   "title": "Pasal 111",
+   "paragraphs": [
+    "(1) Peraturan perusahaan sekurang-kurangnya memuat:\na. hak dan kewajiban pengusaha;\nb. hak dan kewajiban pekerja/buruh;\nc. syarat kerja;\nd. tata tertib perusahaan; dan\ne. jangka waktu berlakunya peraturan perusahaan.",
+    "(2) Ketentuan dalam peraturan perusahaan tidak boleh bertentangan dengan ketentuan peraturan perundang-undangan yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830694,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "112",
+   "title": "Pasal 112",
+   "paragraphs": [
+    "(1) Pengesahan peraturan perusahaan oleh Menteri atau pejabat yang ditunjuk sebagaimana dimaksud dalam Pasal 108 ayat (1) harus sudah diberikan dalam waktu paling lama 30 (tiga puluh) hari kerja sejak naskah peraturan perusahaan diterima."
+   ],
+   "penjelasan": [],
+   "parentId": 21830694,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "113",
+   "title": "Pasal 113",
+   "paragraphs": [
+    "(1) Perubahan peraturan perusahaan sebelum berakhir jangka waktu berlakunya hanya dapat dilakukan atas dasar kesepakatan antara pengusaha dan wakil pekerja/buruh.",
+    "(2) Peraturan perusahaan hasil perubahan sebagaimana dimaksud dalam ayat (1) harus mendapat pengesahan dari Menteri atau pejabat yang ditunjuk."
+   ],
+   "penjelasan": [],
+   "parentId": 21830694,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "114",
+   "title": "Pasal 114",
+   "paragraphs": [
+    "Pengusaha wajib memberitahukan dan menjelaskan isi serta memberikan naskah peraturan perusahaan atau perubahannya kepada pekerja/buruh."
+   ],
+   "penjelasan": [],
+   "parentId": 21830694,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "115",
+   "title": "Pasal 115",
+   "paragraphs": [
+    "Ketentuan mengenai tata cara pembuatan dan pengesahan peraturan perusahaan diatur dengan Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830694,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "116",
+   "title": "Pasal 116",
+   "paragraphs": [
+    "(1) Perjanjian kerja bersama dibuat oleh serikat pekerja/serikat buruh atau beberapa serikat pekerja/serikat buruh yang telah tercatat pada instansi yang bertanggung jawab di bidang ketenagakerjaan dengan pengusaha atau beberapa pengusaha.",
+    "(2) Penyusunan perjanjian kerja bersama sebagaimana dimaksud dalam ayat (1) dilaksanakan secara musyawarah."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "117",
+   "title": "Pasal 117",
+   "paragraphs": [
+    "Dalam hal musyawarah sebagaimana dimaksud dalam Pasal 116 ayat (2) tidak mencapai kesepakatan, maka penyelesaiannya dilakukan melalui prosedur penyelesaian perselisihan hubungan industrial."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "118",
+   "title": "Pasal 118",
+   "paragraphs": [
+    "Dalam 1 (satu) perusahaan hanya dapat dibuat 1 (satu) perjanjian kerja bersama yang berlaku bagi seluruh pekerja/buruh di perusahaan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "119",
+   "title": "Pasal 119",
+   "paragraphs": [
+    "(1) Dalam hal di satu perusahaan hanya terdapat satu serikat pekerja/ serikat buruh, maka serikat pekerja/serikat buruh tersebut berhak mewakili pekerja/buruh dalam perundingan pembuatan perjanjian kerja bersama dengan pengusaha apabila memiliki jumlah anggota lebih dari 50% (lima puluh perseratus) dari jumlah seluruh pekerja/buruh di perusahaan yang bersangkutan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "120",
+   "title": "Pasal 120",
+   "paragraphs": [
+    "(1) Dalam hal di satu perusahaan terdapat lebih dari 1 (satu) serikat pekerja/serikat buruh maka yang berhak mewakili pekerja/buruh melakukan perundingan dengan pengusaha yang jumlah keanggotaannya lebih dari 50% (lima puluh perseratus) dari seluruh jumlah pekerja/buruh di perusahaan tersebut.",
+    "(2) Dalam hal ketentuan sebagaimana dimaksud dalam ayat (1) tidak terpenuhi, maka serikat pekerja/serikat buruh dapat melakukan koalisi sehingga tercapai jumlah lebih dari 50% (lima puluh perseratus) dari seluruh jumlah pekerja/buruh di perusahaan tersebut untuk mewakili dalam perundingan dengan pengusaha."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "121",
+   "title": "Pasal 121",
+   "paragraphs": [
+    "Keanggotaan serikat pekerja/serikat buruh sebagaimana dimaksud dalam Pasal 119 dan Pasal 120 dibuktikan dengan kartu tanda anggota."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "122",
+   "title": "Pasal 122",
+   "paragraphs": [
+    "Pemungutan suara sebagaimana dimaksud dalam Pasal 119 ayat (2) diselenggarakan oleh panitia yang terdiri dari wakil-wakil pekerja/ buruh dan pengurus serikat pekerja/serikat buruh yang disaksikan oleh pihak pejabat yang bertanggung jawab di bidang ketenagakerjaan dan pengusaha."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "123",
+   "title": "Pasal 123",
+   "paragraphs": [
+    "(1) Masa berlakunya perjanjian kerja bersama paling lama 2 (dua) tahun.",
+    "(2) Perjanjian kerja bersama sebagaimana dimaksud dalam ayat (1) dapat diperpanjang masa berlakunya paling lama 1 (satu) tahun berdasarkan kesepakatan tertulis antara pengusaha dengan serikat pekerja/serikat buruh.",
+    "(3) Perundingan pembuatan perjanjian kerja bersama berikutnya dapat dimulai paling cepat 3 (tiga) bulan sebelum berakhirnya perjanjian kerja bersama yang sedang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "124",
+   "title": "Pasal 124",
+   "paragraphs": [
+    "(1) Perjanjian kerja bersama paling sedikit memuat:\na. hak dan kewajiban pengusaha;\nb. hak dan kewajiban serikat pekerja/serikat buruh serta pekerja/buruh;\nc. jangka waktu dan tanggal mulai berlakunya perjanjian kerja bersama; dan\nd. tanda tangan para pihak pembuat perjanjian kerja bersama.",
+    "(2) Ketentuan dalam perjanjian kerja bersama tidak boleh bertentangan dengan peraturan perundang-undangan yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "125",
+   "title": "Pasal 125",
+   "paragraphs": [
+    "Dalam hal kedua belah pihak sepakat mengadakan perubahan perjanjian kerja bersama, maka perubahan tersebut merupakan bagian yang tidak terpisahkan dari perjanjian kerja bersama yang sedang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "pasal.id",
+   "chapter": "BAB XI HUBUNGAN INDUSTRIAL"
+  },
+  {
+   "label": "126",
+   "title": "Pasal 126",
+   "paragraphs": [
+    "(1) Pengusaha, serikat pekerja/serikat buruh dan pekerja/buruh wajib melaksanakan ketentuan yang ada dalam perjanjian kerja bersama.",
+    "(2) Pengusaha dan serikat pekerja/serikat buruh wajib memberitahukan isi perjanjian kerja bersama atau perubahannya kepada seluruh pekerja/buruh.",
+    "(3) Pengusaha harus mencetak dan membagikan naskah perjanjian kerja bersama kepada setiap pekerja/buruh atas biaya perusahaan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "127",
+   "title": "Pasal 127",
+   "paragraphs": [
+    "(1) Perjanjian kerja yang dibuat oleh pengusaha dan pekerja/buruh tidak boleh bertentangan dengan perjanjian kerja bersama.",
+    "(2) Dalam hal ketentuan dalam perjanjian kerja sebagaimana dimaksud dalam ay at (1) bertentangan dengan perjanjian kerja bersama, maka ketentuan dalam perjanjian kerja tersebut batal demi hukum dan yang berlaku adalah ketentuan dalam perjanjian kerja bersama."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "128",
+   "title": "Pasal 128",
+   "paragraphs": [
+    "Dalam hal perjanjian kerja tidak memuat aturan -aturan y ang diatur dalam perjanjian kerja bersama maka yang berlaku adalah aturan-aturan dalam perjanjian kerja bersama."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "129",
+   "title": "Pasal 129",
+   "paragraphs": [
+    "(1) Pengusaha dilarang mengganti perjanjian kerja bersama dengan peraturan perusahaan, selama di perusahaan yang bersangkutan masih ada serikat pekerja/serikat buruh.",
+    "(2) Dalam hal di perusahaan tidak ada lagi serikat pekerja/serikat buruh dan perjanjian kerja bersama diganti dengan peraturan perusahaan, maka ketentuan yang ada dalam peraturan perusahaan tidak boleh lebih rendah dari ketentuan yang ada dalam perjanjian kerja bersama."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "130",
+   "title": "Pasal 130",
+   "paragraphs": [
+    "(1) Dalam hal perjanjian kerja bersama yang sudah berakhir masa berlakunya akan diperpanjang atau diperbaharui dan di perusahaan tersebut hanya terdapat 1 (satu) serikat pekerja/serikat buruh, maka perpanjangan atau pembuatan pembaharuan perjanjian kerja bersama tidak mensyaratkan ketentuan dalam Pasal 119.",
+    "(2) Dalam hal perjanjian kerja bersama yang sudah berakhir masa berlakunya akan diperpanjang atau diperbaharui dan di perusahaan tersebut terdapat lebih dari 1 (satu) serikat pekerja/serikat buruh dan serikat pekerja /serikat buruh yang dulu berunding tidak lagi memenuhi ketentuan",
+    "Pasal 120 ayat (1), maka perpanjangan atau pembuatan pembaharuan perjanjian kerja bersama dilakukan oleh serikat pekerja /serikat buruh yang anggotanya lebih 50%",
+    "(lima puluh perseratus) dari jumlah seluruh pekerja/buruh di perusahaan bersama-sama dengan serikat pekerja/serikat buruh yang membuat perjanjian kerja bersama terdahulu dengan membentuk tim perunding secara proporsional.",
+    "(3) Dalam hal perjanjian kerja bersama yang sudah berakhir masa berlakunya akan diperpanjang atau diperbaharui dan di perusahaan tersebut terdapat lebih dari 1 (satu) serikat pekerja/serikat buruh dan tidak satupun serikat pekerja/serikat buruh yang ada memenuhi ketentuan Pasal",
+    "120 ayat (1), maka perpanjangan atau pembuatan pembaharuan perjanjian kerja bersama dilakukan menurut ketentuan Pasal 120 ayat (2) dan ayat (3)."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "131",
+   "title": "Pasal 131",
+   "paragraphs": [
+    "(1) Dalam hal terjadi pembubaran serikat pekerja/serikat buruh atau pengalihan kepemilikan perusahaan maka perjanjian kerja bersama tetap berlaku sampai berakhirnya jangka waktu perjanjian kerja bersama.",
+    "(2) Dalam hal terjadi penggabungan perusahaan (merger) dan masing-masing perusahaan mempunyai perjanji an kerja bersama maka perjanjian kerja bersama yang berlaku adalah perjanjian kerja bersama yang lebih menguntungkan pekerja/buruh.",
+    "(3) Dalam hal terjadi penggabungan perusahaan (merger) antara perusahaan yang mempunyai perjanjian kerja bersama dengan perusahaan yang belum mempunyai perjanjian kerja bersama maka perjanjian kerja bersama tersebut berlaku bagi perusahaan yang bergabung (merger) sampai dengan berakhirnya jangka waktu perjanjian kerja bersama."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "132",
+   "title": "Pasal 132",
+   "paragraphs": [
+    "(1) Perjanjian kerja bersama mulai ber laku pada hari penandatanganan kecuali ditentukan lain dalam perjanjian kerja bersama tersebut.",
+    "(2) Perjanjian kerja bersama yang ditandatangani oleh pihak yang membuat perjanjian kerja bersama selanjutnya didaftarkan oleh pengusaha pada instansi yang bertanggung jawab di bidang ketenagakerjaan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "133",
+   "title": "Pasal 133",
+   "paragraphs": [
+    "Ketentuan mengenai persyaratan serta tata cara pembuatan, perpanjangan, perubahan, dan pendaftaran perjanjian kerja bersama diatur dengan Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "134",
+   "title": "Pasal 134",
+   "paragraphs": [
+    "Dalam mewujudkan pelaksanaan hak dan kewajiban pekerja/buruh dan pengusaha, pemerintah wajib melaksanakan pengawasan dan penegakan peraturan perundang -undangan ketenagakerjaan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "135",
+   "title": "Pasal 135",
+   "paragraphs": [
+    "Pelaksanaan peraturan perundang -undangan ketenagakerjaan dalam mewujudkan hubungan industrial merupakan tanggung jawab pekerja/buruh, pengusaha, dan pemerintah.",
+    "Bagian Kedelapan",
+    "Lembaga Penyelesaian Perselisihan",
+    "Hubungan Industrial",
+    "Paragraf 1",
+    "Perselisihan Hubungan Industrial"
+   ],
+   "penjelasan": [],
+   "parentId": 21830695,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "136",
+   "title": "Pasal 136",
+   "paragraphs": [
+    "(1) Penyelesaian perselisihan hubungan ind ustrial wajib dilaksanakan oleh pengusaha dan pekerja/buruh atau serikat pekerja/serikat buruh secara musyawarah untuk mufakat.",
+    "(2) Dalam hal penyelesaian secara musyawarah untuk mufakat sebagaimana dimaksud dalam ayat (1) tidak tercapai, maka pengusaha dan pekerja/buruh atau serikat pekerja /serikat buruh menyelesaikan perselisihan hubungan industrial melalui prosedur penyelesaian perselisihan hubungan industrial yang diatur dengan undang-undang.",
+    "Paragraf 2",
+    "Mogok Kerja"
+   ],
+   "penjelasan": [],
+   "parentId": 21830935,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "137",
+   "title": "Pasal 137",
+   "paragraphs": [
+    "Mogok kerja sebag ai hak dasar pekerja/buruh dan serikat pekerja/serikat buruh dilakukan secara sah, tertib, dan damai sebagai akibat gagalnya perundingan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830936,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "138",
+   "title": "Pasal 138",
+   "paragraphs": [
+    "(1) Pekerja/buruh dan/atau serikat pekerja/serikat buruh yang bermaksud mengajak pekerja/buruh lain untuk mogok kerja pada saat mogok kerja berlangsung dilakukan dengan tidak melanggar hukum.",
+    "(2) Pekerja/buruh yang diajak mogok kerja sebagaimana dimaksud dalam ayat (1), dapat memenuhi atau tidak memenuhi ajakan tersebut."
+   ],
+   "penjelasan": [],
+   "parentId": 21830936,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "139",
+   "title": "Pasal 139",
+   "paragraphs": [
+    "Pelaksanaan mogok kerja bagi pekerja/buruh yang bekerja pada perusahaan yang melayani kepentingan umum dan/atau perusahaan yang jenis kegiatannya membahayakan keselamatan jiwa manusia diatur sedemikian rupa sehingga tidak mengganggu kepentingan umum dan/atau membahayakan keselamatan orang lain."
+   ],
+   "penjelasan": [],
+   "parentId": 21830936,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "140",
+   "title": "Pasal 140",
+   "paragraphs": [
+    "(1) Sekurang-kurangnya dalam waktu 7 (tujuh) hari kerja sebelum mogok kerja dilaksanakan, pekerja/buruh dan serikat pekerja/serikat buruh wajib memberitahukan secara tertulis kepada pengusaha dan instansi yang bertanggung jawab di bidang ketenagakerjaan setempat.",
+    "(2) Pemberitahuan sebagaimana dimaksud dalam ayat (1)",
+    "sekurang-kurangnya memuat:",
+    "a. waktu (hari, tanggal, dan jam) dimulai dan diakhiri mogok kerja;",
+    "b. tempat mogok kerja;",
+    "c. alasan dan sebab -sebab mengapa harus melakukan mogok kerja; dan d. tanda tangan ketua dan sekretaris dan/atau masing - masing ketua dan sekretaris serikat pekerja/serikat buruh sebagai penanggung jawab mogok kerja.",
+    "(3) Dalam hal mogok kerja akan dilakukan oleh pekerja/buruh yang tidak menjadi anggota serikat pekerj a/serikat buruh, maka pemberitahuan sebagaimana dimaksud dalam ayat (2) ditandatangani oleh perwakilan pekerja/buruh yang ditunjuk sebagai koordinator dan/atau penanggung jawab mogok kerja.",
+    "(4) Dalam hal mogok kerja dilakukan tidak sebagaimana dimaksud d alam ayat (1), maka demi menyelamatkan alat produksi dan aset perusahaan, pengusaha dapat mengambil tindakan sementara dengan cara:",
+    "a. melarang para pekerja/buruh yang mogok kerja berada di lokasi kegiatan proses produksi; atau b. bila dianggap perlu melarang p ekerja/buruh yang mogok kerja berada di lokasi perusahaan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830936,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "141",
+   "title": "Pasal 141",
+   "paragraphs": [
+    "(1) Instansi pemerintah dan pihak perusahaan yang menerima surat pemberitahuan mogok kerja sebagaimana dimaksud dalam Pasal 140 wajib memberikan tanda terima.",
+    "(2) Sebelum dan selama mogok ke rja berlangsung, instansi yang bertanggung jawab di bidang ketenagakerjaan wajib menyelesaikan masalah yang menyebabkan timbulnya pemogokan dengan mempertemukan dan merundingkannya dengan para pihak yang berselisih.",
+    "(3) Dalam hal perundingan sebagaimana dimak sud dalam ayat (2) menghasilkan kesepakatan, maka harus dibuatkan perjanjian bersama yang ditandatangani oleh para pihak dan pegawai dari instansi yang bertanggung jawab di bidang ketenagakerjaan sebagai saksi.",
+    "(4) Dalam hal perundingan sebagaimana dimak sud dalam ayat (2) tidak menghasilkan kesepakatan, maka pegawai dari instansi yang bertanggung jawab di bidang ketenagakerjaan segera menyerahkan masalah yang menyebabkan terjadinya mogok kerja kepada lembaga penyelesaian perselisihan hubungan industrial yang berwenang.",
+    "(5) Dalam hal perundingan tidak menghasilkan kesepakatan sebagaimana dimaksud dalam ayat (4), maka atas dasar perundingan antara pengusaha dengan serikat pekerja/serikat buruh atau penanggung jawab mogok kerja, mogok kerja dapat diteruskan ata u dihentikan untuk sementara atau dihentikan sama sekali."
+   ],
+   "penjelasan": [],
+   "parentId": 21830936,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "142",
+   "title": "Pasal 142",
+   "paragraphs": [
+    "(1) Mogok kerja yang dilakukan tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 139 dan Pasal 140 adalah mogok kerja tidak sah.",
+    "(2) Akibat hukum dari mogok kerja yang tidak sah sebagaimana dimaksud dalam ayat (1) akan diatur dengan",
+    "Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830936,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "143",
+   "title": "Pasal 143",
+   "paragraphs": [
+    "(1) Siapapun tidak dapat menghalang -halangi pekerja/buruh dan serikat pekerja/serikat buruh untuk menggunakan hak mogok kerja yang dilakukan secara sah, tertib, dan damai.",
+    "(2) Siapapun dilarang melakukan penangkapan dan/atau penahanan terhadap pekerja/buruh dan pengurus serikat pekerja/serikat buruh yang melakukan mogok kerja secara sah, tertib, dan damai sesuai dengan peraturan perundang - undangan yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830936,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "144",
+   "title": "Pasal 144",
+   "paragraphs": [
+    "Terhadap mogok kerja yang dilakukan sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 140, pengusaha dilarang:",
+    "a. mengganti pekerja/buruh yang mogok kerja dengan pekerja/buruh lain dari luar perusahaan; atau b. memberikan sanksi atau tindakan balasan dalam b entuk apapun kepada pekerja/buruh dan pengurus serikat pekerja/serikat buruh selama dan sesudah melakukan mogok kerja."
+   ],
+   "penjelasan": [],
+   "parentId": 21830936,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "145",
+   "title": "Pasal 145",
+   "paragraphs": [
+    "Dalam hal pekerja/buruh yang melakukan mogok kerja secara sah dalam melakukan tuntutan hak normatif yang sungguh - sungguh di langgar oleh pengusaha, pekerja/buruh berhak mendapatkan upah.",
+    "Paragraf 3",
+    "Penutupan Perusahaan (lock-out)"
+   ],
+   "penjelasan": [],
+   "parentId": 21830936,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "146",
+   "title": "Pasal 146",
+   "paragraphs": [
+    "(1) Penutupan perusahaan (lock out) merupakan hak dasar pengusaha untuk menolak pekerja/buruh sebagian atau seluruhnya untuk menjala nkan pekerjaan sebagai akibat gagalnya perundingan.",
+    "(2) Pengusaha tidak dibenarkan melakukan penutupan perusahaan (lock out) sebagai tindakan balasan sehubungan adanya tuntutan normatif dari pekerja/buruh dan/atau serikat pekerja/serikat buruh.",
+    "(3) Tindakan penutupan perusahaan (lock out) harus dilakukan sesuai dengan ketentuan hukum yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830937,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "147",
+   "title": "Pasal 147",
+   "paragraphs": [
+    "Penutupan perusahaan (lock out) dilarang dilakukan pada perusahaan-perusahaan yang melayani kepentingan umum dan/atau jenis kegiatan yang membahayakan keselamatan jiwa manusia, meliputi rumah sakit, pelayanan jaringan air bersih, pusat pengendali telekomunikasi, pusat penyedia tenaga listrik, pengolahan minyak dan gas bumi, serta kereta api."
+   ],
+   "penjelasan": [],
+   "parentId": 21830937,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "148",
+   "title": "Pasal 148",
+   "paragraphs": [
+    "(1) Pengusaha wajib memberitahukan secara tertulis kepada pekerja/buruh dan/atau serikat pekerja/serikat buruh, serta instansi yang bertanggung jawab di bidang ketenagakerjaan setempat sekurang -kurangnya 7 (tujuh)",
+    "hari kerja sebelum penutupan perusahaan (lock out)",
+    "dilaksanakan.",
+    "(2) Pemberitahuan seba gaimana dimaksud dalam ayat (1)",
+    "sekurang-kurangnya memuat:",
+    "a. waktu (hari, tanggal, dan jam) dimulai dan diakhiri penutupan perusahaan (lock out); dan b. alasan dan sebab -sebab melakukan penutupan perusahaan (lock out).",
+    "(3) Pemberitahuan sebagaimana dimaksud dalam ayat (1)",
+    "ditandatangani oleh pengusaha dan/atau pimpinan perusahaan yang bersangkutan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830937,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "149",
+   "title": "Pasal 149",
+   "paragraphs": [
+    "(1) Pekerja/buruh atau serikat pekerja/serikat buruh dan instansi yang bertanggung jawab di bidang ketenagakerjaan yang menerima secara langsung surat pemberi tahuan penutupan perusahaan (lock out) sebagaimana dimaksud dalam Pasal 148 harus memberikan tanda bukti penerimaan dengan mencantumkan hari, tanggal, dan jam penerim",
+    "(2) Sebelum dan selama penutupan perusahaan (lock out)",
+    "berlangsung, instansi yang bertanggung jawab di bidang ketenagakerjaan berwenang langsung menyelesaikan masalah yang menyebabkan timbulnya penutupan perusahaan (lock out) dengan mempertemukan dan merundingkannya dengan para pihak yang berselisih.",
+    "(3) Dalam hal perundingan sebagaimana dimaksud da lam ayat (2) menghasilkan kesepakatan, maka harus dibuat perjanjian bersama yang ditandatangani oleh para pihak dan pegawai dari instansi yang bertanggung jawab di bidang ketenagakerjaan sebagai saksi.",
+    "(4) Dalam hal perundingan sebagaimana dimaksud da lam ayat (2) tidak menghasilkan kesepakatan, maka pegawai dari instansi yang bertanggung jawab di bidang ketenagakerjaan segera menyerahkan masalah yang menyebabkan terjadinya penutupan perusahaan (lock out)",
+    "kepada lembaga penyelesaian perselisihan hubun gan industrial.",
+    "(5) Apabila perundingan tidak menghasilkan kesepakatan sebagaimana dimaksud dalam ayat (4), maka atas dasar perundingan antara pengusaha dan serikat pekerja/serikat buruh, penutupan perusahaan (lock out) dapat diteruskan atau dihentikan untuk sementara atau dihentikan sama sekali.",
+    "(6) Pemberitahuan sebagaimana dimaksud dalam Pasal 148 ayat (1) dan ayat (2) tidak diperlukan apabila:",
+    "a. pekerja/buruh atau serikat pekerja/serikat buruh melanggar prosedur mogok kerja sebagaimana dimaksud dalam Pasal 140;",
+    "b. pekerja/buruh atau serikat pekerja/serikat buruh melanggar ketentuan normatif yang ditentukan dalam perjanjian kerja, peraturan perusahaan, perjanjian kerja bersama, atau peraturan perundang -undangan yang berlaku.",
+    "BAB XII",
+    "PEMUTUSAN HUBUNGAN KERJA"
+   ],
+   "penjelasan": [],
+   "parentId": 21830937,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "150",
+   "title": "Pasal 150",
+   "paragraphs": [
+    "Ketentuan mengenai pemutusan hubungan kerja dalam undang-undang ini meliputi pemutusan hubungan kerja yang terjadi di badan usaha yang berbadan hukum atau tidak, milik orang perseorangan, milik persekutuan atau milik badan hukum, baik m ilik swasta maupun milik negara, maupun usaha-usaha sosial dan usaha -usaha lain yang mempunyai pengurus dan mempekerjakan orang lain dengan membayar upah atau imbalan dalam bentuk lain."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "151",
+   "title": "Pasal 151",
+   "paragraphs": [
+    "(1) Pengusaha, pekerja/buruh, serikat pekerja/serikat buruh, dan pemerintah, dengan segala upaya harus mengusahakan agar jangan terjadi pemutusan hubungan kerja.",
+    "(2) Dalam hal segala upaya telah dilakukan, tetapi pemutusan hubungan kerja tidak dapat dihindari, maka maksud pemutusan hubungan kerja wajib dirundin gkan oleh pengusaha dan serikat pekerja/serikat buruh atau dengan pekerja/buruh apabila pekerja/buruh yang bersangkutan tidak menjadi anggota serikat pekerja/serikat buruh.",
+    "(3) Dalam hal perundingan sebagaimana dimaksud dalam ayat (2) benar -benar tidak mengh asilkan persetujuan, pengusaha hanya dapat memutuskan hubungan kerja dengan pekerja/buruh setelah memperoleh penetapan dari lembaga penyelesaian perselisihan hubungan industrial."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "152",
+   "title": "Pasal 152",
+   "paragraphs": [
+    "(1) Permohonan penetapan pemutusan hubungan kerja diajukan secara te rtulis kepada lembaga penyelesaian perselisihan hubungan industrial disertai alasan yang menjadi dasarnya.",
+    "(2) Permohonan penetapan sebagaimana dimaksud dalam ayat (1) dapat diterima oleh lembaga penyelesaian perselisihan hubungan industrial apabil a telah dirundingkan sebagaimana dimaksud dalam Pasal 151 ayat (2).",
+    "(3) Penetapan atas permohonan pemutusan hubungan kerja hanya dapat diberikan oleh lembaga penyelesaian perselisihan hubungan industrial jika ternyata maksud untuk memutuskan hubungan kerja telah dirundingkan, tetapi perundingan tersebut tidak menghasilkan kesepakatan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "153",
+   "title": "Pasal 153",
+   "paragraphs": [
+    "(1) Pengusaha dilarang melakukan pemutusan hubungan kerja dengan alasan:",
+    "a. pekerja/buruh berhalangan masuk kerja karena sakit menurut keterangan dokter selama waktu tidak melampaui 12 (dua belas) bulan secara terus-menerus;",
+    "b. pekerja/buruh berhalangan menjalankan pekerjaannya karena memenuhi kewajiban terhadap negara sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;",
+    "c. pekerja/buruh menjalankan iba dah yang diperintahkan agamanya;",
+    "d. pekerja/buruh menikah;",
+    "e. pekerja/buruh perempuan hamil, melahirkan, gugur kandungan, atau menyusui bayinya;",
+    "f. pekerja/buruh mempunyai pertalian darah dan/atau ikatan perkawinan dengan pekerja/buruh lainnya di dalam satu pe rusahaan, kecuali telah diatur dalam perjanjian kerja, peraturan perusahan, atau perjanjian kerja bersama;",
+    "g. pekerja/buruh mendirikan, menjadi anggota dan/atau pengurus serikat pekerja/serikat buruh, pekerja/buruh melakukan kegiatan serikat pekerja/serikat buruh di luar jam kerja, atau di dalam jam kerja atas kesepakatan pengusaha, atau berdasarkan ketentuan yang diatur dalam perjanjian kerja, peraturan perusahaan, atau perjanjian kerja bersama;",
+    "h. pekerja/buruh yang mengadukan pengusaha kepada yang berwajib mengenai perbuatan pengusaha yang melakukan tindak pidana kejahatan;",
+    "i. karena perbedaan paham, agama, aliran politik, suku, warna kulit, golongan, jenis kelamin, kondisi fisik, atau status perkawinan;",
+    "j. pekerja/buruh dalam keadaan cacat tetap, sakit akibat kecelakaan kerja, atau sakit karena hubungan kerja yang menurut surat keterangan dokter yang jangka waktu penyembuhannya belum dapat dipastikan.",
+    "(2) Pemutusan hubungan kerja yang dilakukan dengan alasan sebagaimana dimaksud dalam ayat (1) batal demi hukum dan pengusaha wajib mempekerjakan kembali pekerja/buruh yang bersangkutan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "154",
+   "title": "Pasal 154",
+   "paragraphs": [
+    "Penetapan sebagaimana dimaksud dalam Pasal 151 ayat (3)",
+    "tidak diperlukan dalam hal:",
+    "a. pekerja/buruh masih dalam masa percobaan kerja, bilamana telah dipersyaratkan secara tertulis sebelumnya;",
+    "b. pekerja/buruh mengajukan permintaan pengunduran diri, secara tertulis atas kemauan sendiri tanpa ada indikasi adanya tekanan/intimidasi dari pengusaha, berakhirnya hubungan kerja sesuai dengan perjanjian kerja waktu tertentu untuk pertama kali;",
+    "c. pekerja/buruh mencapai usia pensiun sesuai dengan ketetapan dalam perjanjian kerja, peraturan perusahaan, perjanjian kerja bersama, atau peraturan perundang - undangan; atau d. pekerja/buruh meninggal dunia."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "155",
+   "title": "Pasal 155",
+   "paragraphs": [
+    "(1) Pemutusan hubungan ker ja tanpa penetapan sebagaimana dimaksud dalam Pasal 151 ayat (3) batal demi hukum.",
+    "(2) Selama putusan lembaga penyelesaian perselisihan hubungan industrial belum ditetapkan, baik pengusaha maupun pekerja/buruh harus tetap melaksanakan segala kewajibannya.",
+    "(3) Pengusaha dapat melakukan penyimpangan terhadap ketentuan sebagaimana dimaksud dalam ayat (2) berupa tindakan skorsing kepada pekerja/buruh yang sedang dalam proses pemutusan hubungan kerja dengan tetap wajib membayar upah beserta hak-hak lainnya yang biasa diterima pekerja/buruh."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "156",
+   "title": "Pasal 156",
+   "paragraphs": [
+    "(1) Dalam hal terjadi pemutusan hubungan kerja, pengusaha diwajibkan membayar uang pesangon dan atau uang penghargaan masa kerja dan uang penggantian hak yang seharusnya diterima.",
+    "(2) Perhitungan uang pesangon sebagaimana dima ksud dalam ayat (1) paling sedikit sebagai berikut:",
+    "a. masa kerja kurang dari 1 (satu) tahun, 1 (satu) bulan upah;",
+    "b. masa kerja 1 (satu) tahun atau lebih tetapi kurang dari 2",
+    "(dua) tahun, 2 (dua) bulan upah;",
+    "c. masa kerja 2 (dua) tahun atau lebih tetapi kurang dari 3",
+    "(tiga) tahun, 3 (tiga) bulan upah;",
+    "d. masa kerja 3 (tiga) tahun atau lebih tetapi kurang dari 4",
+    "(empat) tahun, 4 (empat) bulan upah;",
+    "e. masa kerja 4 (empat) tahun atau lebih tetapi kurang dari 5 (lima) tahun, 5 (lima) bulan upah;",
+    "f. masa kerja 5 (lima) tahun atau lebih, tetapi kurang dari 6",
+    "(enam) tahun, 6 (enam) bulan upah;",
+    "g. masa kerja 6 (enam) tahun atau lebih tetapi kurang dari",
+    "7 (tujuh) tahun, 7 (tujuh) bulan upah.",
+    "h. masa kerja 7 (tujuh) tahun atau lebih tetapi kurang dari",
+    "8 (delapan) tahun, 8 (delapan) bulan upah;",
+    "i. masa kerja 8 (delapan) tahun atau lebih, 9 (sembilan)",
+    "bulan upah.",
+    "(3) Perhitungan uang penghargaan masa kerja sebagaimana dimaksud dalam ayat (1) ditetapkan sebagai berikut :",
+    "a. masa kerja 3 (tiga) tahun atau lebih tetapi kurang dari 6",
+    "(enam) tahun, 2 (dua) bulan upah;",
+    "b. masa kerja 6 (enam) tahun atau lebih tetapi kurang dari",
+    "9 (sembilan) tahun, 3 (tiga) bulan upah;",
+    "c. masa kerja 9 (sembilan) tahun atau lebih tetapi kurang dari 12 (dua belas) tahun, 4 (empat) bulan upah;",
+    "d. masa kerja 12 (duabelas) tahun atau lebih tetapi kurang dari 15 (lima belas) tahun, 5 (lima) bulan upah;",
+    "e. masa kerja 15 (lima belas) tahun atau lebih tetapi kurang dari 18 (delapan belas) tahun, 6 (enam) bulan upah;",
+    "f. masa kerja 18 (delapan belas) tahun atau lebih tetapi kurang dari 21 (dua puluh satu) tahun, 7 (tujuh) bulan upah;",
+    "g. masa kerja 21 (dua puluh satu) tahun atau lebih tetapi kurang dari 24 (dua puluh empat) tahun, 8 (delapan)",
+    "bulan upah;",
+    "h. masa kerja 24 (dua puluh empat) tahun atau lebih, 10",
+    "(sepuluh ) bulan upah.",
+    "(4) Uang peng gantian hak yang seharusnya diterima sebagaimana dimaksud dalam ayat (1) meliputi:",
+    "a. cuti tahunan yang belum diambil dan belum gugur;",
+    "b. biaya atau ongkos pulang untuk pekerja/buruh dan keluarganya ketempat dimana pekerja/buruh diterima bekerja;",
+    "c. penggantian perumahan serta pengobatan dan perawatan ditetapkan 15% (lima belas perseratus) dari uang pesangon dan/atau uang penghargaan masa kerja bagi yang memenuhi syarat;",
+    "d. hal-hal lain yang ditetapkan dalam perjanjian kerja, peraturan perusahaan atau perjanjian kerja bersama.",
+    "(5) Perubahan perhitungan uang pesangon, perhitungan uang penghargaan masa kerja, dan uang penggantian hak sebagaimana dimaksud dalam ayat (2), ayat (3), dan ayat (4)",
+    "ditetapkan dengan Peraturan Pemerintah."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "157",
+   "title": "Pasal 157",
+   "paragraphs": [
+    "(1) Komponen upah yang digunakan sebagai dasar perhitungan uang pesangon, uang penghargaan masa kerja, dan uang pengganti hak yang seharusnya diterima yang tertunda, terdiri atas:",
+    "a. upah pokok;",
+    "b. segala macam bentuk tunjangan yang bersifat tetap yang diberikan kepada pekerja/bu ruh dan keluarganya, termasuk harga pembelian dari catu yang diberikan kepada pekerja/buruh secara cuma -cuma, yang apabila catu harus dibayar pekerja/buruh dengan subsidi, maka sebagai upah dianggap selisih antara harga pembelian dengan harga yang harus di bayar oleh pekerja/buruh.",
+    "(2) Dalam hal penghasilan pekerja/buruh dibayarkan atas dasar perhitungan harian, maka penghasilan sebulan adalah sama dengan 30 kali penghasilan sehari.",
+    "(3) Dalam hal upah pekerja/buruh dibayarkan atas dasar perhitungan satuan hasil, potongan/borongan atau komisi, maka penghasilan sehari adalah sama dengan pendapatan rata-rata per hari selama 12 (dua belas) bulan terakhir, dengan ketentuan tidak boleh kurang dari ketentuan upah minimum provinsi atau kabupaten/kota.",
+    "(4) Dalam hal pekerjaa n tergantung pada keadaan cuaca dan upahnya didasarkan pada upah borongan, maka perhitungan upah sebulan dihitung dari upah rata -rata 12",
+    "(dua belas) bulan terakhir."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "158",
+   "title": "Pasal 158",
+   "paragraphs": [
+    "(1) Pengusaha dapat memutuskan hubungan kerja terhadap pekerja/buruh dengan alasan pekerja/buruh telah melakukan kesalahan berat sebagai berikut:",
+    "a. melakukan penipuan, pencurian, atau penggelapan barang dan/atau uang milik perusahaan;",
+    "b. memberikan keterangan palsu atau yang dipalsukan sehingga merugikan perusahaan;",
+    "c. mabuk, meminum minum an keras yang memabukkan, memakai dan/atau mengedarkan narkotika, psikotropika, dan zat adiktif lainnya di lingkungan kerja;",
+    "d. melakukan perbuatan asusila atau perjudian di lingkungan kerja;",
+    "e. menyerang, menganiaya, mengancam, atau mengintimidasi teman seke rja atau pengusaha di lingkungan kerja;",
+    "f. membujuk teman sekerja atau pengusaha untuk melakukan perbuatan yang bertentangan dengan peraturan perundang-undangan;",
+    "g. dengan ceroboh atau sengaja merusak atau membiarkan dalam keadaan bahaya barang milik perusahaan yang menimbulkan kerugian bagi perusahaan;",
+    "h. dengan ceroboh atau sengaja membiarkan teman sekerja atau pengusaha dalam keadaan bahaya di tempat kerja;",
+    "i. membongkar atau membocorkan rahasia perusahaan yang seharusnya dirahasiakan kecuali untuk kepentingan negara; atau j. melakukan perbuatan lainnya di lingkungan perusahaan yang diancam pidana penjara 5 (lima) tahun atau lebih.",
+    "(2) Kesalahan berat sebagaimana dimaksud dalam ayat (1)",
+    "harus didukung dengan bukti sebagai berikut:",
+    "a. pekerja/buruh tertangkap tangan;",
+    "b. ada pengakuan dari pekerja/buruh yang bersangkutan;",
+    "atau c. bukti lain berupa laporan kejadian yang dibuat oleh pihak yang berwenang di perusahaan yang bersangkutan dan didukung oleh sekurang-kurangnya 2",
+    "(dua) orang saksi.",
+    "(3) Pekerja/buruh yang diputus hubun gan kerjanya berdasarkan alasan sebagaimana dimaksud dalam ayat (1), dapat memperoleh uang penggantian hak sebagai dimaksud dalam Pasal 156 ayat (4).",
+    "(4) Bagi pekerja/buruh sebagaimana dimaksud dalam ayat (1)",
+    "yang tugas dan fungsinya tidak mewakili kepenting an pengusaha secara langsung, selain uang penggantian hak sesuai ketentuan Pasal 156 ayat (4) diberikan uang pisah yang besarnya dan pelaksanaannya diatur dalam perjanjian kerja, peraturan perusahaan, atau perjanjian kerja bersama."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "159",
+   "title": "Pasal 159",
+   "paragraphs": [
+    "Apabila pekerja/buruh tidak menerima pemutusan hubungan kerja sebagaimana dimaksud dalam Pasal 158 ayat (1), pekerja/buruh yang bersangkutan dapat mengajukan gugatan ke lembaga penyelesaian perselisihan hubungan industrial."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "160",
+   "title": "Pasal 160",
+   "paragraphs": [
+    "(1) Dalam hal pekerja/buruh dit ahan pihak yang berwajib karena diduga melakukan tindak pidana bukan atas pengaduan pengusaha , maka pengusaha tidak wajib membayar upah tetapi wajib memberikan bantuan kepada keluarga pekerja/buruh yang menjadi tanggungannya dengan ketentuan sebagai berikut:",
+    "a. untuk 1 (satu) orang tanggungan : 25% (dua puluh lima perseratus) dari upah;",
+    "b. untuk 2 (dua) orang tanggungan : 35% (tiga puluh lima perseratus) dari upah;",
+    "c. untuk 3 (tiga) orang tanggungan : 45% (empat puluh lima perseratus) dari upah;",
+    "d. untuk 4 (empat) orang tanggungan atau lebih : 50% (lima puluh perseratus) dari upah.",
+    "(2) Bantuan sebagaimana dimaksud dalam ayat (1) diberikan untuk paling lama 6 (enam) bulan takwin terhitung sejak hari pertama pekerja/buruh ditahan oleh pihak yang berwajib.",
+    "(3) Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/buruh yang setelah 6 (enam) bulan tidak dapat melakukan pekerjaan sebagaimana mestinya karena dalam proses perkara pidana sebagaimana dimaksud dalam ayat (1).",
+    "(4) Dalam hal pengadilan memutuskan per kara pidana sebelum masa 6 (enam) bulan sebagaimana dimaksud dalam ayat (3) berakhir dan pekerja/buruh dinyatakan tidak bersalah, maka pengusaha wajib mempekerjakan pekerja/buruh kembali.",
+    "(5) Dalam hal pengadilan memutuskan perkara pidana sebelum masa 6 (enam) bulan berakhir dan pekerja/buruh dinyatakan bersalah, maka pengusaha dapat melakukan pemutusan hubungan kerja kepada pekerja/buruh yang bersangkutan.",
+    "(6) Pemutusan hubungan kerja sebagaimana dimaksud dalam ayat (3) dan ayat (5) dilakukan tanpa penetapan lembaga penyelesaian perselisihan hubungan industrial.",
+    "(7) Pengusaha wajib membayar kepada pekerja/buruh yang mengalami pemutusan hubungan kerja sebagaimana dimaksud dalam ayat (3) dan ayat (5), uang penghargaan masa kerja 1 (satu) kali ketentuan Pasal 156 a yat (3) dan uang penggantian hak sesuai ketentuan dalam Pasal 156 ayat (4)."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "161",
+   "title": "Pasal 161",
+   "paragraphs": [
+    "(1) Dalam hal pekerja/buruh melakukan pelanggaran ketentuan yang diatur dalam perjanjian kerja, peraturan perusahaan atau perjanjian kerja bersama, pengusaha dapat melakuk an pemutusan hubungan kerja, setelah kepada pekerja/buruh yang bersangkutan diberikan surat peringatan pertama, kedua, dan ketiga secara berturut - turut.",
+    "(2) Surat peringatan sebagaimana dimaksud dalam ayat (1)",
+    "masing-masing berlaku untuk paling lama 6 (enam) bulan, kecuali ditetapkan lain dalam perjanjian kerja, peraturan perusahaan atau perjanjian kerja bersama.",
+    "(3) Pekerja/buruh yang mengalami pemutusan hubungan kerja dengan alasan sebagaimana dimaksud dalam ayat (1)",
+    "memperoleh uang pesangon sebesar 1 (satu) kali ketentuan",
+    "Pasal 156 ayat (2), uang penghargaan masa kerja sebesar 1",
+    "(satu) kali ketentuan Pasal 156 ayat (3) dan uang penggantian hak sesuai ketentuan Pasal 156 ayat (4)."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "162",
+   "title": "Pasal 162",
+   "paragraphs": [
+    "(1) Pekerja/buruh yang mengundurkan diri atas kemauan sendiri, memperoleh uang penggantian hak sesuai ketentuan Pasal 156 ayat (4).",
+    "(2) Bagi pekerja/buruh yang mengundurkan diri atas kemauan sendiri, yang tugas dan fungsinya tidak mewakili kepentingan pengusaha secara langsung, selain menerima uang penggantian hak sesu ai ketentuan Pasal 156 ayat (4)",
+    "diberikan uang pisah yang besarnya dan pelaksanaannya diatur dalam perjanjian kerja, peraturan perusahaan atau perjanjian kerja bersama.",
+    "(3) Pekerja/buruh yang mengundurkan diri sebagaimana dimaksud dalam ayat (1) harus memenuhi syarat :",
+    "a. mengajukan permohonan pengunduran diri secara tertulis selambat -lambatnya 30 (tiga puluh) hari sebelum tanggal mulai pengunduran diri;",
+    "b. tidak terikat dalam ikatan dinas; dan c. tetap melaksanakan kewajibannya sampai tanggal mulai pengunduran diri.",
+    "(4) Pemutusan hubungan kerja dengan alasan pengunduran diri atas kemauan sendiri dilakukan tanpa penetapan lembaga penyelesaian perselisihan hubungan industrial."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "163",
+   "title": "Pasal 163",
+   "paragraphs": [
+    "(1) Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/buruh dalam hal terjadi perubahan status, penggabungan, peleburan, atau perubahan kepemilikan perusahaan dan pekerja/buruh tidak bersedia melanjutkan hubungan kerja, maka pekerja/buruh berhak atas uang pesangon sebesar 1 (satu) kali sesuai ketentuan",
+    "Pasal 156 ayat (2 ), uang perhargaan masa kerja 1 (satu)",
+    "kali ketentuan Pasal 156 ayat (3) dan uang penggantian hak sesuai ketentuan dalam Pasal 156 ayat (4).",
+    "(2) Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/buruh karena perubahan status, penggabungan, atau peleburan perusahaan, dan pengusaha tidak bersedia menerima pekerja/buruh di perusahaannya, maka pekerja/buruh berhak atas uang pesangon sebesar 2 (dua) kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja 1 (satu) kali ketentuan dalam Pasal 156 ayat (3), dan uang penggantian hak sesuai ketentuan dalam Pasal 156 ayat (4)."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "164",
+   "title": "Pasal 164",
+   "paragraphs": [
+    "(1) Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/buruh karena perusahaan tutup yang disebabkan perusahaan mengalami kerugian secara terus menerus selama 2 (dua) tahun, atau keadaan memaksa",
+    "(force majeur) , dengan ketentuan pekerja/buruh berhak atas uang pesangon sebesar 1 (satu) kali ketentuan Pasal",
+    "156 ayat (2) uang penghargaan masa kerja sebesar 1 (satu)",
+    "kali ketentuan Pasal 156 ayat (3) dan uang penggantian hak sesuai ketentuan Pasal 156 ayat (4).",
+    "(2) Kerugian perusahaan sebagaimana dimaksud dalam ayat (1) harus dibuktikan dengan laporan keuangan 2 (dua)",
+    "tahun terakhir yang telah diaudit oleh akuntan publik.",
+    "(3) Pengusaha dapat melakukan pe mutusan hubungan kerja terhadap pekerja/buruh karena perusahaan tutup bukan karena mengalami kerugian 2 (dua) tahun berturut -turut atau bukan karena keadaan memaksa ( force majeur) tetapi perusahaan melakukan efisiensi, dengan ketentuan pekerja/buruh berhak atas uang pesangon sebesar 2 (dua)",
+    "kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja sebesar 1 (satu) kali ketentuan Pasal 156 ayat (3) dan uang penggantian hak sesuai sesuai ketentuan Pasal 156 ayat (4)."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "165",
+   "title": "Pasal 165",
+   "paragraphs": [
+    "Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/buruh karena perusahaan pailit, dengan ketentuan pekerja/buruh berhak atas uang pesangon sebesar 1",
+    "(satu) kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja sebesar 1 (satu) kali ketentuan Pas al 156 ayat (3)",
+    "dan uang penggantian hak sesuai ketentuan Pasal 156 ayat (4)."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "166",
+   "title": "Pasal 166",
+   "paragraphs": [
+    "Dalam hal hubungan kerja berakhir karena pekerja/buruh meninggal dunia, kepada ahli warisnya diberikan sejumlah uang yang besar perhitungannya sama dengan perhitung an 2",
+    "(dua) kali uang pesangon sesuai ketentuan Pasal 156 ayat (2), 1",
+    "(satu) kali uang penghargaan masa kerja sesuai ketentuan",
+    "Pasal 156 ayat (3), dan uang penggantian hak sesuai ketentuan",
+    "Pasal 156 ayat (4)."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "167",
+   "title": "Pasal 167",
+   "paragraphs": [
+    "(1) Pengusaha dapat melakukan pemutu san hubungan kerja terhadap pekerja/buruh karena memasuki usia pensiun dan apabila pengusaha telah mengikutkan pekerja/buruh pada program pensiun yang iurannya dibayar penuh oleh pengusaha, maka pekerja/buruh tidak berhak mendapatkan uang pesangon sesuai k etentuan Pasal 156 ayat (2), uang penghargaan masa kerja sesuai ketentuan",
+    "Pasal 156 ayat (3), tetapi tetap berhak atas uang penggantian hak sesuai ketentuan Pasal 156 ayat (4).",
+    "(2) Dalam hal besarnya jaminan atau manfaat pensiun yang diterima sekaligus dalam program pensiun sebagaimana dimaksud dalam ayat (1) ternyata lebih kecil daripada jumlah uang pesangon 2 (dua) kali ketentuan Pasal 156 ayat (2) dan uang penghargaan masa kerja 1 (satu) kali ketentuan Pasal 156 ayat (3), dan uang penggantian hak sesuai ket entuan Pasal 156 ayat (4), maka selisihnya dibayar oleh pengusaha.",
+    "(3) Dalam hal pengusaha telah mengikutsertakan pekerja/buruh dalam program pensiun yang iurannya/preminya dibayar oleh pengusaha dan pekerja/buruh, maka yang diperhitungkan dengan uang pesangon yaitu uang pensiun yang premi/iurannya dibayar oleh pengusaha.",
+    "(4) Ketentuan sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) dapat diatur lain dalam perjanjian kerja, peraturan perusahaan, atau perjanjian kerja bersama.",
+    "(5) Dalam hal pengusa ha tidak mengikutsertakan pekerja/buruh yang mengalami pemutusan hubungan kerja karena usia pensiun pada program pensiun maka pengusaha wajib memberikan kepada pekerja/buruh uang pesangon sebesar 2 (dua) kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja 1 (satu) kali ketentuan Pasal",
+    "156 ayat (3) dan uang penggantian hak sesuai ketentuan",
+    "Pasal 156 ayat (4).",
+    "(6) Hak atas manfaat pensiun sebagaimana yang dimaksud dalam ayat (1), ayat (2), ayat (3), dan ayat (4) tidak menghilangkan hak pekerja/buruh atas jaminan hari tua yang bersifat wajib sesuai dengan peraturan perundang - undangan yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "168",
+   "title": "Pasal 168",
+   "paragraphs": [
+    "(1) Pekerja/buruh yang mangkir selama 5 (lima) hari kerja atau lebih berturut-turut tanpa keterangan secara tertulis yang dilengkapi dengan bukti y ang sah dan telah dipanggil oleh pengusaha 2 (dua) kali secara patut dan tertulis dapat diputus hubungan kerjanya karena dikualifikasikan mengundurkan diri.",
+    "(2) Keterangan tertulis dengan bukti yang sah sebagaimana dimaksud dalam ayat (1) harus diserahkan pa ling lambat pada hari pertama pekerja/buruh masuk bekerja.",
+    "(3) Pemutusan hubungan kerja sebagaimana dimaksud dalam ayat (1) pekerja/buruh yang bersangkutan berhak menerima uang penggantian hak sesuai ketentuan Pasal",
+    "156 ayat (4) dan diberikan uang p isah yang besarnya dan pelaksanaannya diatur dalam perjanjian kerja, peraturan perusahaan, atau perjanjian kerja bersama."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "169",
+   "title": "Pasal 169",
+   "paragraphs": [
+    "(1) Pekerja/buruh dapat mengajukan permohonan pemutusan hubungan kerja kepada lembaga penyelesaian perselisihan hubungan indu strial dalam hal pengusaha melakukan perbuatan sebagai berikut:",
+    "a. menganiaya, menghina secara kasar atau mengancam pekerja/buruh;",
+    "b. membujuk dan/atau menyuruh pekerja/buruh untuk melakukan perbuatan yang bertentangan dengan peraturan perundang-undangan;",
+    "c. tidak membayar upah tepat pada waktu yang telah ditentukan selama 3 (tiga) bulan berturut -turut atau lebih;",
+    "d. tidak melakukan kewajiban yang telah dijanjikan kepada pekerja/buruh;",
+    "e. memerintahkan pekerja/buruh untuk melaksanakan pekerjaan di luar yang diperjanjikan; atau f. memberikan pekerjaan yang membahayakan jiwa, keselamatan, kesehatan, dan kesusilaan pekerja/buruh sedangkan pekerjaan tersebut tidak dicantumkan pada perjanjian kerja.",
+    "(2) Pemutusan hubungan kerja dengan alasan sebagaimana dimaksud dalam ayat (1) peke rja/buruh berhak mendapat uang pesangon 2 (dua) kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja 1 (satu) kali ketentuan",
+    "Pasal 156 ayat (3), dan uang penggantian hak sesuai ketentuan Pasal 156 ayat (4).",
+    "(3) Dalam hal pengusaha dinyatakan tida k melakukan perbuatan sebagaimana dimaksud dalam ayat (1) oleh lembaga penyelesaian perselisihan hubungan industrial maka pengusaha dapat melakukan pemutusan hubungan kerja tanpa penetapan lembaga penyelesaian perselisihan hubungan industrial dan pekerja/buruh yang bersangkutan tidak berhak atas uang pesangon sesuai ketentuan",
+    "Pasal 156 ayat (2), dan uang penghargaan masa kerja sesuai ketentuan Pasal 156 ayat (3)."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "170",
+   "title": "Pasal 170",
+   "paragraphs": [
+    "Pemutusan hubungan kerja yang dilakukan tidak memenuhi ketentuan Pasal 15 1 ayat (3) dan Pasal 168, kecuali Pasal",
+    "158 ayat (1), Pasal 160 ayat (3), Pasal 162, dan Pasal 169 batal demi hukum dan pengusaha wajib mempekerjakan pekerja/buruh yang bersangkutan serta membayar seluruh upah dan hak yang seharusnya diterima."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "171",
+   "title": "Pasal 171",
+   "paragraphs": [
+    "Pekerja/buruh yang mengalami pemutusan hubungan kerja tanpa penetapan lembaga penyelesaian perselisihan hubungan industrial yang berwenang sebagaimana dimaksud dalam",
+    "Pasal 158 ayat (1), Pasal 160 ayat (3), dan Pasal 162, dan pekerja/buruh yang ber sangkutan tidak dapat menerima pemutusan hubungan kerja tersebut, maka pekerja/buruh dapat mengajukan gugatan ke lembaga penyelesaian perselisihan hubungan industrial dalam waktu paling lama 1",
+    "(satu) tahun sejak tanggal dilakukan pemutusan hubungan kerjanya."
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "172",
+   "title": "Pasal 172",
+   "paragraphs": [
+    "Pekerja/buruh yang mengalami sakit berkepanjangan, mengalami cacat akibat kecelakaan kerja dan tidak dapat melakukan pekerjaannya setelah melampaui batas 12 (dua belas) bulan dapat mengajukan pemutusan hubungan kerja dan diberikan uang pe sangon 2 (dua) kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja 2 (dua) kali ketentuan",
+    "Pasal 156 ayat (3), dan uang pengganti hak 1 (satu) kali ketentuan Pasal 156 ayat (4).",
+    "BAB XIII",
+    "P E M B I N A A N"
+   ],
+   "penjelasan": [],
+   "parentId": 21830612,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "173",
+   "title": "Pasal 173",
+   "paragraphs": [
+    "(1) Pemerintah melakuka n pembinaan terhadap unsur -unsur dan kegiatan yang berhubungan dengan ketenagakerjaan.",
+    "(2) Pembinaan sebagaimana dimaksud dalam ayat (1), dapat mengikutsertakan organisasi pengusaha, serikat pekerja/serikat buruh, dan organisasi profesi terkait.",
+    "(3) Pembinaan sebagaimana dimaksud dalam ayat (1), dan ayat (2), dilaksanakan secara terpadu dan terkoordinasi."
+   ],
+   "penjelasan": [],
+   "parentId": 21830613,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "174",
+   "title": "Pasal 174",
+   "paragraphs": [
+    "Dalam rangka pembinaan ketenagakerjaan, pemerintah, organisasi pengusaha, serikat pekerja/serikat buruh dan organisasi profesi terkait dapat melakukan kerja sama internasional di bidang ketenagakerjaan sesuai dengan peraturan perundang-undangan yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830613,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "175",
+   "title": "Pasal 175",
+   "paragraphs": [
+    "(1) Pemerintah dapat memberikan penghargaan kepada orang atau lembaga yang telah berjasa dalam pembinaan ketenagakerjaan.",
+    "(2) Penghargaan sebagaimana dimaksud dalam ayat (1) dapat diberikan dalam bentuk piagam, uang, dan/atau bentuk lainnya.",
+    "BAB XIV",
+    "PENGAWASAN"
+   ],
+   "penjelasan": [],
+   "parentId": 21830613,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "176",
+   "title": "Pasal 176",
+   "paragraphs": [
+    "Pengawasan ketenagakerjaan dilakukan oleh pegawai pengawas ketenagakerjaan yang mempunyai komp etensi dan independen guna menjamin pelaksanaan peraturan perundang -undangan ketenagakerjaan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830614,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "177",
+   "title": "Pasal 177",
+   "paragraphs": [
+    "Pegawai pengawas ketenagakerjaan sebagaimana dimaksud dalam Pasal 176 ditetapkan oleh Menteri atau pejabat yang ditunjuk."
+   ],
+   "penjelasan": [],
+   "parentId": 21830614,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "178",
+   "title": "Pasal 178",
+   "paragraphs": [
+    "(1) Pengawasan ketenagakerjaan dilaksanakan oleh unit kerja tersendiri pada instansi yang lingkup tugas dan tanggung jawabnya di bidang ketenagakerjaan pada pemerintah pusat, pemerintah provinsi, dan pemerintah kabupaten/kota.",
+    "(2) Pelaksanaan pengawasan ketenagakerjaan seb agaimana dimaksud dalam ayat (1) diatur dengan Keputusan Presiden."
+   ],
+   "penjelasan": [],
+   "parentId": 21830614,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "179",
+   "title": "Pasal 179",
+   "paragraphs": [
+    "(1) Unit kerja pengawasan ketenagakerjaan sebagaimana dimaksud dalam Pasal 178 pada pemerintah provinsi dan pemerintah kabupaten/kota wajib menyampaikan laporan pelaksanaan pengawasan ketenagakerjaan kepada Menteri.",
+    "(2) Tata cara penyampaian laporan sebagaimana dimaksud dalam ayat (1) ditetapkan dengan Keputusan Menteri."
+   ],
+   "penjelasan": [],
+   "parentId": 21830614,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "180",
+   "title": "Pasal 180",
+   "paragraphs": [
+    "Ketentuan mengenai persyaratan penunjukan, hak dan kewajiban, serta wewenang pegawai pengawas ke tenagakerjaan sebagaimana dimaksud dalam Pasal 176 sesuai dengan peraturan perundang-undangan yang berlaku."
+   ],
+   "penjelasan": [],
+   "parentId": 21830614,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "181",
+   "title": "Pasal 181",
+   "paragraphs": [
+    "Pegawai pengawas ketenagakerjaan dalam melaksanakan tugasnya sebagaimana dimaksud dalam Pasal 176 wajib :",
+    "a. merahasiakan segala sesua tu yang menurut sifatnya patut dirahasiakan;",
+    "b. tidak menyalahgunakan kewenangannya.",
+    "BAB XV",
+    "P E N Y I D I K A N"
+   ],
+   "penjelasan": [],
+   "parentId": 21830614,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "182",
+   "title": "Pasal 182",
+   "paragraphs": [
+    "(1) Selain penyidik pejabat Polisi Negara Republik Indonesia, juga kepada pegawai pengawas ketenagakerjaan dapat diberi wewenang k husus sebagai penyidik pegawai negeri sipil sesuai dengan peraturan perundang -undangan yang berlaku.",
+    "(2) Penyidik Pegawai Negeri Sipil sebagaimana dimaksud dalam ayat (1) berwenang :",
+    "a. melakukan pemeriksaan atas kebenaran laporan serta keterangan tentang tin dak pidana di bidang ketenagakerjaan;",
+    "b. melakukan pemeriksaan terhadap orang yang diduga melakukan tindak pidana di bidang ketenagakerjaan;",
+    "c. meminta keterangan dan bahan bukti dari orang atau badan hukum sehubungan dengan tindak pidana di bidang ketenagakerjaan;",
+    "d. melakukan pemeriksaan atau penyitaan bahan atau barang bukti dalam perkara tindak pidana di bidang ketenagakerjaan;",
+    "e. melakukan pemeriksaan atas surat dan/atau dokumen lain tentang tindak pidana di bidang ketenagakerjaan;",
+    "f. meminta bantu an tenaga ahli dalam rangka pelaksanaan tugas penyidikan tindak pidana di bidang ketenagakerjaan; dan g. menghentikan penyidikan apabila tidak terdapat cukup bukti yang membuktikan tentang adanya tindak pidana di bidang ketenagakerjaan.",
+    "(3) Kewenangan peny idik pegawai negeri sipil sebagaimana dimaksud dalam ayat (2) dilaksanakan sesuai dengan peraturan perundang-undangan yang berlaku.",
+    "BAB XVI",
+    "KETENTUAN PIDANA DAN SANKSI",
+    "ADMINISTRATIF",
+    "Bagian Pertama",
+    "Ketentuan Pidana"
+   ],
+   "penjelasan": [],
+   "parentId": 21830615,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "183",
+   "title": "Pasal 183",
+   "paragraphs": [
+    "(1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 74, dikenakan sanksi pidana penjara paling singkat 2 (dua) tahun dan paling lama 5 (lima) tahun dan/atau denda paling sedikit Rp 200.000.000,00 (dua ratus juta rupiah) dan paling bany ak Rp 500.000.000,00",
+    "(lima ratus juta rupiah).",
+    "(2) Tindak pidana sebagaimana dimaksud dalam ayat (1)",
+    "merupakan tindak pidana kejahatan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830616,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "184",
+   "title": "Pasal 184",
+   "paragraphs": [
+    "(1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 167 ayat (5), dikenakan sanksi pidana penjara paling singkat 1 (satu) tahun dan paling lama 5",
+    "(lima) tahun dan/atau denda paling sedikit Rp",
+    "100.000.000.00 (seratus juta rupiah) dan paling banyak",
+    "Rp 500.000.000.00 (lima ratus juta rupiah).",
+    "(2) Tindak pidana sebagaimana dimaksud dalam ayat (1)",
+    "merupakan tindak pidana kejahatan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830616,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "185",
+   "title": "Pasal 185",
+   "paragraphs": [
+    "(1) Barang siapa melanggar ketentuan sebagaiman a dimaksud dalam Pasal 42 ayat (1) dan ayat (2), Pasal 68, Pasal 69 ayat (2), Pasal 80, Pasal 82, Pasal 90 ayat (1), Pasal 143, dan Pasal 160 ayat (4) dan ayat (7), dikenakan sanksi pidana penjara paling singkat 1 (satu) tahun dan paling lama 4 (empat) tahun dan/atau denda paling sedikit Rp",
+    "100.000.000,00 (seratus juta rupiah) dan paling banyak Rp",
+    "400.000.000,00 (empat ratus juta rupiah).",
+    "(2) Tindak pidana sebagaimana dimaksud dalam ayat (1)",
+    "merupakan tindak pidana kejahatan."
+   ],
+   "penjelasan": [],
+   "parentId": 21830616,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "186",
+   "title": "Pasal 186",
+   "paragraphs": [
+    "(1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 35 ayat (2) dan ayat (3), Pasal 93 ayat (2),",
+    "Pasal 137, dan Pasal 138 ayat (1), dikenakan sanksi pidana penjara paling singkat 1 (satu) bulan dan paling lama 4",
+    "(empat) tahun dan/atau denda paling sedikit Rp",
+    "10.000.000,00 (sepuluh juta rupiah) dan paling banyak",
+    "Rp 400.000.000,00 (empat ratus juta rupiah).",
+    "(2) Tindak pidana sebagaimana dimaksud dalam ayat (1)",
+    "merupakan tindak pidana pelanggaran."
+   ],
+   "penjelasan": [],
+   "parentId": 21830616,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "187",
+   "title": "Pasal 187",
+   "paragraphs": [
+    "(1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 37 ayat (2), Pasal 44 ayat (1), Pasal 45 ayat (1),",
+    "Pasal 67 ayat (1), Pasal 71 ayat (2), Pasal 76, Pasal 78 ayat",
+    "(2), Pa sal 79 ayat (1) dan ayat (2), Pasal 85 ayat (3), dan",
+    "Pasal 144, dikenakan sanksi pidana kurungan paling singkat 1 (satu) bulan dan paling lama 12 (dua belas)",
+    "bulan dan/atau denda paling sedikit Rp 10.000.000,00",
+    "(sepuluh juta rupiah) dan pa ling banyak Rp",
+    "100.000.000,00 (seratus juta rupiah).",
+    "(2) Tindak pidana sebagaimana dimaksud dalam ayat (1)",
+    "merupakan tindak pidana pelanggaran."
+   ],
+   "penjelasan": [],
+   "parentId": 21830616,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "188",
+   "title": "Pasal 188",
+   "paragraphs": [
+    "(1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 14 ayat (2), Pasal 38 ayat (2), Pasal 63 ayat",
+    "(1), Pasal 78 ayat (1), Pasal 108 ayat (1), Pasal 111 ayat (3),",
+    "Pasal 114, dan Pasal 148, dikenakan sanksi pidana denda paling sedikit Rp 5.000.000,00 (lima juta rupiah) dan paling banyak Rp 50.000.000,00 (lima puluh juta rupiah).",
+    "(2) Tindak pidana sebagaimana dimaksud dalam ayat (1)",
+    "merupakan tindak pidana pelanggaran."
+   ],
+   "penjelasan": [],
+   "parentId": 21830616,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "189",
+   "title": "Pasal 189",
+   "paragraphs": [
+    "Sanksi pidana penjara, kurungan, dan/atau denda tidak menghilangkan kewajiban pengusaha membayar hak -hak dan/atau ganti kerugian kepada tenaga kerja atau pekerja/buruh.",
+    "Bagian Kedua",
+    "Sanksi Administratif"
+   ],
+   "penjelasan": [],
+   "parentId": 21830616,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "190",
+   "title": "Pasal 190",
+   "paragraphs": [
+    "(1) Menteri atau pejabat yang ditunjuk mengenakan sanksi administratif atas pelanggaran ketentuan -ketentuan sebagaimana diatur dalam Pasal 5, Pasal 6, Pasal 15,",
+    "Pasal 25, Pasal 38 ayat (2), Pasal 45 ayat (1), Pasal 47 ayat",
+    "(1), Pasal 48, Pasal 87, Pasal 106, Pasal 126 ayat (3), dan",
+    "Pasal 160 ayat (1) dan ayat (2) Undang -undang ini serta peraturan pelaksanaannya.",
+    "(2) Sanksi administratif sebagaimana dimaksud dalam ayat (1)",
+    "berupa :",
+    "a. teguran;",
+    "b. peringatan tertulis;",
+    "c. pembatasan kegiatan usaha;",
+    "d. pembekuan kegiatan usaha;",
+    "e. pembatalan persetujuan;",
+    "f. pembatalan pendaftaran;",
+    "g. penghentian sementara sebahagian atau seluruh alat produksi;",
+    "h. pencabutan ijin.",
+    "(3) Ketentuan mengenai sanksi administrat if sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur lebih lanjut oleh Menteri.",
+    "BAB XVII",
+    "KETENTUAN PERALIHAN"
+   ],
+   "penjelasan": [],
+   "parentId": 21830735,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "191",
+   "title": "Pasal 191",
+   "paragraphs": [
+    "Semua peraturan pelaksanaan yang mengatur ketenagakerjaan tetap berlaku sepanjang tidak bertentangan dan/atau belu m diganti dengan peraturan yang baru berdasarkan",
+    "Undang-undang ini.",
+    "BAB XVIII",
+    "KETENTUAN PENUTUP"
+   ],
+   "penjelasan": [],
+   "parentId": 21830617,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "192",
+   "title": "Pasal 192",
+   "paragraphs": [
+    "Pada saat mulai berlakunya Undang-undang ini, maka :",
+    "1. Ordonansi tentang Pengerahan Orang Indonesia Untuk",
+    "Melakukan Pekerjaan Di Luar Indonesia (Staatsblad Tahun",
+    "1887 Nomor 8);",
+    "2. Ordonansi tanggal 17 Desember 1925 Peraturan tentang",
+    "Pembatasan Kerja Anak Dan Kerja Malam Bagi Wanita",
+    "(Staatsblad Tahun 1925 Nomor 647);",
+    "3. Ordonansi Tahun 1926 Peraturan mengenai Kerja",
+    "Anak-anak Dan Orang Mu da Di Atas Kapal (Staatsblad",
+    "Tahun 1926 Nomor 87);",
+    "4. Ordonansi tanggal 4 Mei 1936 tentang Ordonansi untuk",
+    "Mengatur Kegiatan -kegiatan Mencari Calon Pekerja",
+    "(Staatsblad Tahun 1936 Nomor 208);",
+    "5. Ordonansi tentang Pemulangan Buruh Yang Diterima Atau",
+    "Dikerahkan Dari Luar Indonesia (Staatsblad Tahun 1939",
+    "Nomor 545);",
+    "6. Ordonansi Nomor 9 Tahun 1949 tentang Pembatasan Kerja",
+    "Anak-anak (Staatsblad Tahun 1949 Nomor 8);",
+    "7. Undang-undang Nomor 1 Tahun 1951 tentang Pernyataan",
+    "Berlakunya Undang -undang Kerja Tahun 1948 No mor 12",
+    "Dari Republik Indonesia Untuk Seluruh Indonesia",
+    "(Lembaran Negara Tahun 1951 Nomor 2);",
+    "8. Undang-undang Nomor 21 Tahun 1954 tentang Perjanjian",
+    "Perburuhan Antara Serikat Buruh Dan Majikan",
+    "(Lembaran Negara Tahun 1954 Nomor 69, Tamba han",
+    "Lembaran Negara Nomor 598a);",
+    "9. Undang-undang Nomor 3 Tahun 1958 tentang Penempatan",
+    "Tenaga Asing (Lembaran Negara Tahun 1958 Nomor 8 );",
+    "10. Undang-undang Nomor 8 Tahun 1961 tentang Wajib Kerja",
+    "Sarjana (Lembaran Negara Tahun 1961 Nomor 207,",
+    "Tambahan Lembaran Negara Nomor 2270);",
+    "11. Undang-undang Nomor 7 Pnps Tahun 1963 tentang",
+    "Pencegahan Pemogokan dan/atau Penutupan (Lock Out)",
+    "Di Perusahaan, Jawatan, dan Badan Yang Vital (Lembaran",
+    "Negara Tahun 1963 Nomor 67);",
+    "12. Undang-undang No. 14 Tahun 1969 tentang",
+    "Ketentuan-ketentuan Pokok Mengenai Tenaga Kerja",
+    "(Lembaran Negara Tahun 1969 Nomor 55, Tambahan",
+    "Lembaran Negara Nomor 2912);",
+    "13. Undang-undang Nomor 25 Tahun 1997 tentang",
+    "Ketenagakerjaan (Lembaran Negara Tahun 1997 Nomor 73,",
+    "Tambahan Lembaran Negara Nomor 3702);",
+    "14. Undang-undang Nomor 11 Tahun 1998 tentang Perubahan",
+    "Berlakunya Undang-undang Nomor 25 Tahun 1997 tentang",
+    "Ketenagakerjaan (Lembaran Negara 1998 Nomor 184,",
+    "Tambahan Lembaran Negara Nomor 3791);",
+    "15. Undang-undang Nomor 28 Tahun 2000 tentang Penetapan",
+    "Peraturan Pemerintah Pe ngganti Undang -undang Nomor 3",
+    "Tahun 2000 tentang Perubahan Atas Undang -undang",
+    "Nomor 11 Tahun 1998 tentang Perubahan Berlakunya",
+    "Undang-undang Nomor 25 Tahun 1997 tentang",
+    "Ketenagakerjaan Menjadi Undang-undang (Lembaran",
+    "Negara Tahun 2000 Nomor 240, Tambahan L embaran",
+    "Negara Nomor 4042).",
+    "dinyatakan tidak berlaku lagi."
+   ],
+   "penjelasan": [],
+   "parentId": 21830618,
+   "source": "official-pdf",
+   "chapter": ""
+  },
+  {
+   "label": "193",
+   "title": "Pasal 193",
+   "paragraphs": [
+    "Undang-undang ini mulai berlaku pada tanggal diundangkan.",
+    "Agar setiap orang mengetahuinya, memerintahkan pengundangan undang -undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+    "Disahkan di Jakarta pada tanggal 25 Maret 2003",
+    "MEGAWATI SOEKARNOPUTRI",
+    "Diundangkan di Jakarta pada tanggal 25 Maret 2003",
+    "SEKRETARIS NEGARA",
+    "BAMBANG KESOWO",
+    "LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2003 NOMOR 39."
+   ],
+   "penjelasan": [],
+   "parentId": 21830618,
+   "source": "official-pdf",
+   "chapter": ""
+  }
+ ],
+ "sections": [
+  {
+   "label": "BAB I KETENTUAN UMUM",
+   "articles": [
+    "1"
+   ]
+  },
+  {
+   "label": "BAB II LANDASAN, ASAS, DAN TUJUAN",
+   "articles": [
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  {
+   "label": "BAB III KESEMPATAN DAN PERLAKUAN YANG SAMA",
+   "articles": [
+    "5",
+    "6"
+   ]
+  },
+  {
+   "label": "BAB IV PERENCANAAN TENAGA KERJA DAN INFORMASI KETENAGAKERJAAN",
+   "articles": [
+    "7",
+    "8"
+   ]
+  },
+  {
+   "label": "BAB V PELATIHAN KERJA",
+   "articles": [
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30"
+   ]
+  },
+  {
+   "label": "BAB VI PENEMPATAN TENAGA KERJA",
+   "articles": [
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38"
+   ]
+  },
+  {
+   "label": "BAB VII PERLUASAN KESEMPATAN KERJA",
+   "articles": [
+    "39",
+    "40",
+    "41"
+   ]
+  },
+  {
+   "label": "BAB VIII PENGGUNAAN TENAGA KERJA ASING",
+   "articles": [
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49"
+   ]
+  },
+  {
+   "label": "BAB IX HUBUNGAN KERJA",
+   "articles": [
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66"
+   ]
+  },
+  {
+   "label": "BAB X PERLINDUNGAN, PENGUPAHAN, DAN KESEJAHTERAAN",
+   "articles": [
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101"
+   ]
+  },
+  {
+   "label": "BAB XI HUBUNGAN INDUSTRIAL",
+   "articles": [
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125"
+   ]
+  }
+ ]
+}

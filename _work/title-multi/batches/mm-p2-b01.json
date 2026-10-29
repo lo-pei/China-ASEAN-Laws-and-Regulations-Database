@@ -1,0 +1,488 @@
+{
+ "batch": "mm-p2-b01",
+ "scope": "MM 缅甸法全 80 部（四语 vi/th/id/ms 整域清零）",
+ "note": "语义基准 title.zh/title.en；缅甸非泰国法域，年份一律 ค.ศ.；IBRD、Hluttaw 等缩写不展开；另按 §5.4 修 1 处 zh 书名号。",
+ "items": {
+  "MM-H001": {
+   "vi": "Luật Trọng tài",
+   "th": "พระราชบัญญัติอนุญาโตตุลาการ",
+   "id": "Undang-Undang Arbitrase",
+   "ms": "Akta Timbang Tara"
+  },
+  "MM-H003": {
+   "vi": "Luật Cạnh tranh",
+   "th": "พระราชบัญญัติการแข่งขันทางการค้า",
+   "id": "Undang-Undang Persaingan Usaha",
+   "ms": "Akta Persaingan"
+  },
+  "MM-H005": {
+   "vi": "Luật Bảo vệ người tiêu dùng",
+   "th": "พระราชบัญญัติคุ้มครองผู้บริโภค",
+   "id": "Undang-Undang Perlindungan Konsumen",
+   "ms": "Akta Perlindungan Pengguna"
+  },
+  "MM-H057": {
+   "vi": "Luật Bảo vệ người tiêu dùng năm 2019",
+   "th": "พระราชบัญญัติคุ้มครองผู้บริโภค ค.ศ. 2019",
+   "id": "Undang-Undang Perlindungan Konsumen Tahun 2019",
+   "ms": "Akta Perlindungan Pengguna 2019"
+  },
+  "MM-H006": {
+   "vi": "Luật Quyền tác giả",
+   "th": "พระราชบัญญัติลิขสิทธิ์",
+   "id": "Undang-Undang Hak Cipta",
+   "ms": "Akta Hak Cipta"
+  },
+  "MM-H059": {
+   "vi": "Luật Quyền tác giả năm 2019",
+   "th": "พระราชบัญญัติลิขสิทธิ์ ค.ศ. 2019",
+   "id": "Undang-Undang Hak Cipta Tahun 2019",
+   "ms": "Akta Hak Cipta 2019"
+  },
+  "MM-H106": {
+   "vi": "Luật Quyền tác giả năm 2019",
+   "th": "พระราชบัญญัติลิขสิทธิ์ ค.ศ. 2019",
+   "id": "Undang-Undang Hak Cipta Tahun 2019",
+   "ms": "Akta Hak Cipta 2019"
+  },
+  "MM-H017": {
+   "vi": "Luật Sáng chế",
+   "th": "พระราชบัญญัติสิทธิบัตร",
+   "id": "Undang-Undang Paten",
+   "ms": "Akta Paten"
+  },
+  "MM-H032": {
+   "vi": "Luật Sáng chế năm 2019",
+   "th": "พระราชบัญญัติสิทธิบัตร ค.ศ. 2019",
+   "id": "Undang-Undang Paten Tahun 2019",
+   "ms": "Akta Paten 2019"
+  },
+  "MM-H060": {
+   "vi": "Luật Sáng chế năm 2019",
+   "th": "พระราชบัญญัติสิทธิบัตร ค.ศ. 2019",
+   "id": "Undang-Undang Paten Tahun 2019",
+   "ms": "Akta Paten 2019"
+  },
+  "MM-H020": {
+   "vi": "Luật Nhãn hiệu",
+   "th": "พระราชบัญญัติเครื่องหมายการค้า",
+   "id": "Undang-Undang Merek",
+   "ms": "Akta Cap Dagangan"
+  },
+  "MM-H061": {
+   "vi": "Luật Nhãn hiệu năm 2019",
+   "th": "พระราชบัญญัติเครื่องหมายการค้า ค.ศ. 2019",
+   "id": "Undang-Undang Merek Tahun 2019",
+   "ms": "Akta Cap Dagangan 2019"
+  },
+  "MM-H101": {
+   "vi": "Luật Nhãn hiệu năm 2019",
+   "th": "พระราชบัญญัติเครื่องหมายการค้า ค.ศ. 2019",
+   "id": "Undang-Undang Merek Tahun 2019",
+   "ms": "Akta Cap Dagangan 2019"
+  },
+  "MM-H102": {
+   "vi": "Luật Kiểu dáng công nghiệp năm 2019",
+   "th": "พระราชบัญญัติการออกแบบอุตสาหกรรม ค.ศ. 2019",
+   "id": "Undang-Undang Desain Industri Tahun 2019",
+   "ms": "Akta Reka Bentuk Industri 2019"
+  },
+  "MM-H007": {
+   "vi": "Luật Giao dịch điện tử",
+   "th": "พระราชบัญญัติธุรกรรมทางอิเล็กทรอนิกส์",
+   "id": "Undang-Undang Transaksi Elektronik",
+   "ms": "Akta Transaksi Elektronik"
+  },
+  "MM-H009": {
+   "vi": "Luật Phá sản năm 2020",
+   "th": "พระราชบัญญัติล้มละลาย ค.ศ. 2020",
+   "id": "Undang-Undang Kepailitan Tahun 2020",
+   "ms": "Akta Insolvensi 2020"
+  },
+  "MM-H105": {
+   "vi": "Luật Phá sản",
+   "th": "พระราชบัญญัติล้มละลาย",
+   "id": "Undang-Undang Kepailitan",
+   "ms": "Akta Insolvensi"
+  },
+  "MM-H010": {
+   "vi": "Quy chế Phá sản",
+   "th": "ข้อบังคับการล้มละลาย",
+   "id": "Peraturan Kepailitan",
+   "ms": "Peraturan Insolvensi"
+  },
+  "MM-H012": {
+   "vi": "Luật Tiền lương tối thiểu",
+   "th": "พระราชบัญญัติค่าจ้างขั้นต่ำ",
+   "id": "Undang-Undang Upah Minimum",
+   "ms": "Akta Upah Minimum"
+  },
+  "MM-H089": {
+   "vi": "Luật Tiền lương tối thiểu năm 2013",
+   "th": "พระราชบัญญัติค่าจ้างขั้นต่ำ ค.ศ. 2013",
+   "id": "Undang-Undang Upah Minimum Tahun 2013",
+   "ms": "Akta Upah Minimum 2013"
+  },
+  "MM-H058": {
+   "vi": "Luật Tiền lương tối thiểu Myanmar năm 2013",
+   "th": "พระราชบัญญัติค่าจ้างขั้นต่ำเมียนมา ค.ศ. 2013",
+   "id": "Undang-Undang Upah Minimum Myanmar Tahun 2013",
+   "ms": "Akta Upah Minimum Myanmar 2013"
+  },
+  "MM-H090": {
+   "vi": "Quy chế Tiền lương tối thiểu (năm 2013)",
+   "th": "ข้อบังคับค่าจ้างขั้นต่ำ (ค.ศ. 2013)",
+   "id": "Peraturan Upah Minimum (Tahun 2013)",
+   "ms": "Peraturan Upah Minimum (2013)"
+  },
+  "MM-H025": {
+   "vi": "Luật Giải quyết tranh chấp lao động",
+   "th": "พระราชบัญญัติการระงับข้อพิพาทแรงงาน",
+   "id": "Undang-Undang Penyelesaian Perselisihan Perburuhan",
+   "ms": "Akta Penyelesaian Pertikaian Buruh"
+  },
+  "MM-H087": {
+   "vi": "Luật Giải quyết tranh chấp lao động năm 2012",
+   "th": "พระราชบัญญัติการระงับข้อพิพาทแรงงาน ค.ศ. 2012",
+   "id": "Undang-Undang Penyelesaian Perselisihan Perburuhan Tahun 2012",
+   "ms": "Akta Penyelesaian Pertikaian Buruh 2012"
+  },
+  "MM-H086": {
+   "vi": "Quy chế Tổ chức lao động",
+   "th": "ข้อบังคับองค์กรแรงงาน",
+   "id": "Peraturan Organisasi Tenaga Kerja",
+   "ms": "Peraturan Pertubuhan Buruh"
+  },
+  "MM-H013": {
+   "vi": "Luật Công ty",
+   "th": "พระราชบัญญัติบริษัท",
+   "id": "Undang-Undang Perseroan",
+   "ms": "Akta Syarikat"
+  },
+  "MM-H083": {
+   "vi": "Luật Công ty năm 2017",
+   "th": "พระราชบัญญัติบริษัท ค.ศ. 2017",
+   "id": "Undang-Undang Perseroan Tahun 2017",
+   "ms": "Akta Syarikat 2017"
+  },
+  "MM-H053": {
+   "vi": "Luật Công ty Myanmar (Luật số 29 năm 2017)",
+   "th": "พระราชบัญญัติบริษัทเมียนมา (กฎหมายฉบับที่ 29 ค.ศ. 2017)",
+   "id": "Undang-Undang Perseroan Myanmar (Undang-Undang Nomor 29 Tahun 2017)",
+   "ms": "Akta Syarikat Myanmar (Undang-Undang Nombor 29 Tahun 2017)"
+  },
+  "MM-H036": {
+   "vi": "Luật Công ty Myanmar (Luật số 29 năm 2017)",
+   "th": "พระราชบัญญัติบริษัทเมียนมา (กฎหมายฉบับที่ 29 ค.ศ. 2017)",
+   "id": "Undang-Undang Perseroan Myanmar (Undang-Undang Nomor 29 Tahun 2017)",
+   "ms": "Akta Syarikat Myanmar (Undang-Undang Nombor 29 Tahun 2017)"
+  },
+  "MM-H014": {
+   "vi": "Luật Đầu tư",
+   "th": "พระราชบัญญัติการลงทุน",
+   "id": "Undang-Undang Investasi",
+   "ms": "Akta Pelaburan"
+  },
+  "MM-H039": {
+   "vi": "Luật Đầu tư (Luật của Pyidaungsu Hluttaw số 40/2016)",
+   "th": "พระราชบัญญัติการลงทุน (กฎหมายสภาประชาชนฉบับที่ 40/2016)",
+   "id": "Undang-Undang Investasi (Undang-Undang Pyidaungsu Hluttaw Nomor 40/2016)",
+   "ms": "Akta Pelaburan (Undang-Undang Pyidaungsu Hluttaw Nombor 40/2016)"
+  },
+  "MM-H093": {
+   "vi": "Luật Đầu tư Myanmar năm 2016",
+   "th": "พระราชบัญญัติการลงทุนเมียนมา ค.ศ. 2016",
+   "id": "Undang-Undang Investasi Myanmar Tahun 2016",
+   "ms": "Akta Pelaburan Myanmar 2016"
+  },
+  "MM-H054": {
+   "vi": "Quy chế Đầu tư Myanmar (Thông báo số 35 năm 2017)",
+   "th": "ข้อบังคับการลงทุนเมียนมา (ประกาศฉบับที่ 35 ค.ศ. 2017)",
+   "id": "Peraturan Investasi Myanmar (Pengumuman Nomor 35 Tahun 2017)",
+   "ms": "Peraturan Pelaburan Myanmar (Pemberitahuan Nombor 35 Tahun 2017)"
+  },
+  "MM-H094": {
+   "vi": "Thông báo số 35/2017",
+   "th": "ประกาศฉบับที่ 35/2017",
+   "id": "Pengumuman Nomor 35/2017",
+   "ms": "Pemberitahuan Nombor 35/2017"
+  },
+  "MM-H099": {
+   "vi": "Thông báo số 60/2018 về Điều lệ mẫu của công ty",
+   "th": "ประกาศฉบับที่ 60/2018 ว่าด้วยข้อบังคับบริษัทต้นแบบ",
+   "id": "Pengumuman Nomor 60/2018 tentang Anggaran Dasar Model Perusahaan",
+   "ms": "Pemberitahuan Nombor 60/2018 tentang Perlembagaan Model Syarikat"
+  },
+  "MM-H095": {
+   "vi": "Quy chế Khu kinh tế đặc biệt",
+   "th": "ข้อบังคับเขตเศรษฐกิจพิเศษ",
+   "id": "Peraturan Kawasan Ekonomi Khusus",
+   "ms": "Peraturan Zon Ekonomi Khas"
+  },
+  "MM-H019": {
+   "vi": "Luật Quản lý thuế",
+   "th": "พระราชบัญญัติการบริหารภาษี",
+   "id": "Undang-Undang Administrasi Perpajakan",
+   "ms": "Akta Pentadbiran Cukai"
+  },
+  "MM-H021": {
+   "vi": "Luật Thuế Liên bang",
+   "th": "พระราชบัญญัติภาษีสหภาพ",
+   "id": "Undang-Undang Perpajakan Kesatuan",
+   "ms": "Akta Percukaian Kesatuan"
+  },
+  "MM-H028": {
+   "vi": "Luật Thuế thu nhập",
+   "th": "พระราชบัญญัติภาษีเงินได้",
+   "id": "Undang-Undang Pajak Penghasilan",
+   "ms": "Akta Cukai Pendapatan"
+  },
+  "MM-H055": {
+   "vi": "Luật Thuế thu nhập",
+   "th": "พระราชบัญญัติภาษีเงินได้",
+   "id": "Undang-Undang Pajak Penghasilan",
+   "ms": "Akta Cukai Pendapatan"
+  },
+  "MM-H018": {
+   "vi": "Luật Giải quyết tranh chấp (bản sửa đổi tháng 9 năm 2014)",
+   "th": "พระราชบัญญัติการระงับข้อพิพาท (ฉบับแก้ไข กันยายน ค.ศ. 2014)",
+   "id": "Undang-Undang Penyelesaian Sengketa (Revisi September 2014)",
+   "ms": "Akta Penyelesaian Pertikaian (Semakan September 2014)"
+  },
+  "MM-H023": {
+   "vi": "Luật Trọng tài năm 2016",
+   "th": "พระราชบัญญัติอนุญาโตตุลาการ ค.ศ. 2016",
+   "id": "Undang-Undang Arbitrase Tahun 2016",
+   "ms": "Akta Timbang Tara 2016"
+  },
+  "MM-H081": {
+   "vi": "Luật Trọng tài năm 2016",
+   "th": "พระราชบัญญัติอนุญาโตตุลาการ ค.ศ. 2016",
+   "id": "Undang-Undang Arbitrase Tahun 2016",
+   "ms": "Akta Timbang Tara 2016"
+  },
+  "MM-H082": {
+   "vi": "Bộ luật Tố tụng dân sự",
+   "th": "ประมวลกฎหมายวิธีพิจารณาความแพ่ง",
+   "id": "Kitab Undang-Undang Hukum Acara Perdata",
+   "ms": "Kanun Tatacara Sivil"
+  },
+  "MM-H111": {
+   "vi": "Bộ luật Hình sự",
+   "th": "ประมวลกฎหมายอาญา",
+   "id": "Kitab Undang-Undang Hukum Pidana",
+   "ms": "Kanun Keseksaan"
+  },
+  "MM-H051": {
+   "vi": "Hiến pháp nước Cộng hòa Liên bang Myanmar năm 2008",
+   "th": "รัฐธรรมนูญแห่งสาธารณรัฐแห่งสหภาพเมียนมา ค.ศ. 2008",
+   "id": "Undang-Undang Dasar Republik Persatuan Myanmar Tahun 2008",
+   "ms": "Perlembagaan Republik Kesatuan Myanmar 2008"
+  },
+  "MM-H052": {
+   "vi": "Hiến pháp nước Cộng hòa Liên bang Myanmar năm 2008",
+   "th": "รัฐธรรมนูญแห่งสาธารณรัฐแห่งสหภาพเมียนมา ค.ศ. 2008",
+   "id": "Undang-Undang Dasar Republik Persatuan Myanmar Tahun 2008",
+   "ms": "Perlembagaan Republik Kesatuan Myanmar 2008"
+  },
+  "MM-H119": {
+   "vi": "Hiến pháp nước Cộng hòa Liên bang Myanmar",
+   "th": "รัฐธรรมนูญแห่งสาธารณรัฐแห่งสหภาพเมียนมา",
+   "id": "Undang-Undang Dasar Republik Persatuan Myanmar",
+   "ms": "Perlembagaan Republik Kesatuan Myanmar"
+  },
+  "MM-H066": {
+   "vi": "Luật Bảo hiểm năm 1993",
+   "th": "พระราชบัญญัติการประกันภัย ค.ศ. 1993",
+   "id": "Undang-Undang Asuransi Tahun 1993",
+   "ms": "Akta Insurans 1993"
+  },
+  "MM-H098": {
+   "vi": "Luật Ngân hàng Trung ương Myanmar năm 2013",
+   "th": "พระราชบัญญัติธนาคารกลางเมียนมา ค.ศ. 2013",
+   "id": "Undang-Undang Bank Sentral Myanmar Tahun 2013",
+   "ms": "Akta Bank Pusat Myanmar 2013"
+  },
+  "MM-H065": {
+   "vi": "Quy chế thi hành Luật Ngân hàng Trung ương Myanmar",
+   "th": "ข้อบังคับการดำเนินการตามพระราชบัญญัติธนาคารกลางเมียนมา",
+   "id": "Peraturan Pelaksanaan Undang-Undang Bank Sentral Myanmar",
+   "ms": "Peraturan Pelaksanaan Akta Bank Pusat Myanmar"
+  },
+  "MM-H122": {
+   "vi": "Chỉ thị IBRD số 1/2020: Chỉ thị về đại lý bảo hiểm",
+   "th": "คำสั่ง IBRD ฉบับที่ 1/2020: คำสั่งว่าด้วยตัวแทนประกันภัย",
+   "id": "Arahan IBRD Nomor 1/2020: Arahan tentang Agen Asuransi",
+   "ms": "Arahan IBRD Nombor 1/2020: Arahan mengenai Ejen Insurans"
+  },
+  "MM-H123": {
+   "vi": "Chỉ thị IBRD số 2/2020: Chỉ thị về bảo hiểm qua ngân hàng",
+   "th": "คำสั่ง IBRD ฉบับที่ 2/2020: คำสั่งว่าด้วยการประกันภัยผ่านธนาคาร",
+   "id": "Arahan IBRD Nomor 2/2020: Arahan tentang Bancassurance",
+   "ms": "Arahan IBRD Nombor 2/2020: Arahan mengenai Bancassurance"
+  },
+  "MM-H124": {
+   "vi": "Chỉ thị IBRD số 3/2020: Chỉ thị về phê duyệt sản phẩm bảo hiểm",
+   "th": "คำสั่ง IBRD ฉบับที่ 3/2020: คำสั่งว่าด้วยการอนุมัติผลิตภัณฑ์ประกันภัย",
+   "id": "Arahan IBRD Nomor 3/2020: Arahan tentang Persetujuan Produk Asuransi",
+   "ms": "Arahan IBRD Nombor 3/2020: Arahan mengenai Kelulusan Produk Insurans"
+  },
+  "MM-H125": {
+   "vi": "Chỉ thị IBRD số 4/2020: Chỉ thị về tái bảo hiểm",
+   "th": "คำสั่ง IBRD ฉบับที่ 4/2020: คำสั่งว่าด้วยการประกันภัยต่อ",
+   "id": "Arahan IBRD Nomor 4/2020: Arahan tentang Reasuransi",
+   "ms": "Arahan IBRD Nombor 4/2020: Arahan mengenai Insurans Semula"
+  },
+  "MM-H126": {
+   "vi": "Chỉ thị IBRD số 5/2020: Chỉ thị về các hợp đồng bảo hiểm hiện hữu tại Khu kinh tế đặc biệt Thilawa",
+   "th": "คำสั่ง IBRD ฉบับที่ 5/2020: คำสั่งว่าด้วยกรมธรรม์ประกันภัยที่มีอยู่เดิมในเขตเศรษฐกิจพิเศษทิลาวา",
+   "id": "Arahan IBRD Nomor 5/2020: Arahan tentang Polis Asuransi yang Ada di Kawasan Ekonomi Khusus Thilawa",
+   "ms": "Arahan IBRD Nombor 5/2020: Arahan mengenai Polisi Insurans Sedia Ada di Zon Ekonomi Khas Thilawa"
+  },
+  "MM-H062": {
+   "vi": "Luật Bảo tồn đa dạng sinh học và các khu bảo tồn năm 2018",
+   "th": "พระราชบัญญัติการอนุรักษ์ความหลากหลายทางชีวภาพและพื้นที่คุ้มครอง ค.ศ. 2018",
+   "id": "Undang-Undang Konservasi Keanekaragaman Hayati dan Kawasan Lindung Tahun 2018",
+   "ms": "Akta Pemuliharaan Kepelbagaian Biologi dan Kawasan Perlindungan 2018"
+  },
+  "MM-H064": {
+   "vi": "Luật Thủy sản nước ngọt",
+   "th": "พระราชบัญญัติการประมงน้ำจืด",
+   "id": "Undang-Undang Perikanan Air Tawar",
+   "ms": "Akta Perikanan Air Tawar"
+  },
+  "MM-H063": {
+   "vi": "Luật Hàng hóa và Dịch vụ thiết yếu năm 2012",
+   "th": "พระราชบัญญัติสินค้าและบริการจำเป็น ค.ศ. 2012",
+   "id": "Undang-Undang Barang dan Jasa Penting Tahun 2012",
+   "ms": "Akta Barang dan Perkhidmatan Perlu 2012"
+  },
+  "MM-H067": {
+   "vi": "Luật Khách sạn và Du lịch năm 1993",
+   "th": "พระราชบัญญัติโรงแรมและการท่องเที่ยว ค.ศ. 1993",
+   "id": "Undang-Undang Perhotelan dan Pariwisata Tahun 1993",
+   "ms": "Akta Hotel dan Pelancongan 1993"
+  },
+  "MM-H096": {
+   "vi": "Luật Việc làm ở nước ngoài (năm 1999)",
+   "th": "พระราชบัญญัติการจ้างงานในต่างประเทศ (ค.ศ. 1999)",
+   "id": "Undang-Undang Penempatan Kerja ke Luar Negeri (Tahun 1999)",
+   "ms": "Akta Pekerjaan di Luar Negara (1999)"
+  },
+  "MM-H068": {
+   "vi": "Luật về Ủy ban Quản lý Hluttaw năm 2018",
+   "th": "พระราชบัญญัติว่าด้วยคณะกรรมการบริหารรัฐสภา ค.ศ. 2018",
+   "id": "Undang-Undang tentang Komite Pengelolaan Hluttaw Tahun 2018",
+   "ms": "Akta mengenai Jawatankuasa Pengurusan Hluttaw 2018"
+  },
+  "MM-H117": {
+   "vi": "Luật về Tiền lương, Phụ cấp và Quyền lợi của Chủ tịch và Ủy viên Ban Chấp hành các Đơn vị tự quản và Khu tự quản",
+   "th": "พระราชบัญญัติว่าด้วยเงินเดือน เบี้ยเลี้ยง และสิทธิประโยชน์ของประธานและกรรมการบริหารของเขตปกครองตนเองและเขตปกครองตนเองพิเศษ",
+   "id": "Undang-Undang tentang Gaji, Tunjangan, dan Hak Ketua serta Anggota Komite Eksekutif Divisi Otonom dan Zona Otonom",
+   "ms": "Akta mengenai Gaji, Elaun dan Keistimewaan Pengerusi serta Ahli Jawatankuasa Eksekutif Bahagian Berautonomi dan Zon Berautonomi"
+  },
+  "MM-H118": {
+   "vi": "Luật về Cơ quan lãnh đạo các Đơn vị tự quản và Khu tự quản",
+   "th": "พระราชบัญญัติว่าด้วยองค์กรนำของเขตปกครองตนเองและเขตปกครองตนเองพิเศษ",
+   "id": "Undang-Undang tentang Badan Pimpinan Divisi Otonom dan Zona Otonom",
+   "ms": "Akta mengenai Badan Pimpinan Bahagian Berautonomi dan Zon Berautonomi"
+  },
+  "MM-H114": {
+   "vi": "Luật Sửa đổi Luật Đô thị bang Kayah",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติเทศบาลรัฐกะยา",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Kotapraja Negara Bagian Kayah",
+   "ms": "Akta Pindaan kepada Akta Perbandaran Negeri Kayah"
+  },
+  "MM-H115": {
+   "vi": "Luật Sửa đổi Luật các Ủy ban Đô thị bang Kayin",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติคณะกรรมการเทศบาลรัฐกะยิน",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Komite Kotapraja Negara Bagian Kayin",
+   "ms": "Akta Pindaan kepada Akta Jawatankuasa Perbandaran Negeri Kayin"
+  },
+  "MM-H084": {
+   "vi": "Luật Xuất khẩu và Nhập khẩu năm 2012",
+   "th": "พระราชบัญญัติการส่งออกและนำเข้า ค.ศ. 2012",
+   "id": "Undang-Undang Ekspor dan Impor Tahun 2012",
+   "ms": "Akta Eksport dan Import 2012"
+  },
+  "MM-H085": {
+   "vi": "Luật Sửa đổi Luật Nhà máy năm 2016",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติโรงงาน ค.ศ. 2016",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Pabrik Tahun 2016",
+   "ms": "Akta Pindaan kepada Akta Kilang 2016"
+  },
+  "MM-H088": {
+   "vi": "Luật Sửa đổi Luật Nghỉ phép và Ngày lễ năm 1951 (tháng 7 năm 2014)",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติการลาพักผ่อนและวันหยุด ค.ศ. 1951 (กรกฎาคม ค.ศ. 2014)",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Cuti dan Hari Libur 1951 (Juli 2014)",
+   "ms": "Akta Pindaan kepada Akta Cuti dan Hari Kelepasan 1951 (Julai 2014)"
+  },
+  "MM-H097": {
+   "vi": "Luật Sửa đổi Luật Cửa hàng và Nơi làm việc năm 2016",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติร้านค้าและสถานที่ทำงาน ค.ศ. 2016",
+   "id": "Undang-Undang Perubahan atas Undang-Undang Toko dan Tempat Kerja Tahun 2016",
+   "ms": "Akta Pindaan kepada Akta Kedai dan Tempat Kerja 2016"
+  },
+  "MM-H107": {
+   "vi": "Pháp lệnh thành lập tòa án để thực thi công lý trong giai đoạn hiện nay",
+   "th": "ข้อบัญญัติจัดตั้งศาลเพื่อการบริหารงานยุติธรรมในระยะปัจจุบัน",
+   "id": "Peraturan Penetapan Pengadilan untuk Penyelenggaraan Keadilan pada Masa Sekarang",
+   "ms": "Peraturan Penubuhan Mahkamah untuk Pentadbiran Keadilan pada Masa Kini"
+  },
+  "MM-H108": {
+   "vi": "Sửa đổi Phụ lục 1 và 2 của Luật Hộ chiếu Myanmar",
+   "th": "การแก้ไขเพิ่มเติมภาคผนวก 1 และ 2 แห่งพระราชบัญญัติหนังสือเดินทางเมียนมา",
+   "id": "Perubahan atas Lampiran 1 dan 2 Undang-Undang Paspor Myanmar",
+   "ms": "Pindaan kepada Jadual 1 dan 2 Akta Pasport Myanmar"
+  },
+  "MM-H109": {
+   "vi": "Lệnh bãi bỏ Luật Bảo vệ đoàn kết dân tộc năm 1964",
+   "th": "คำสั่งยกเลิกพระราชบัญญัติคุ้มครองเอกภาพแห่งชาติ ค.ศ. 1964",
+   "id": "Perintah Pencabutan Undang-Undang Perlindungan Persatuan Nasional Tahun 1964",
+   "ms": "Perintah Pembatalan Akta Perlindungan Perpaduan Nasional 1964",
+   "zh": "废止1964年国家统一保护法的命令"
+  },
+  "MM-H110": {
+   "vi": "Luật về Ủy ban Thương mại Nông sản Nhà nước năm 1949",
+   "th": "พระราชบัญญัติคณะกรรมการการค้าผลิตผลเกษตรแห่งรัฐ ค.ศ. 1949",
+   "id": "Undang-Undang Komisi Perdagangan Hasil Pertanian Negara Tahun 1949",
+   "ms": "Akta Suruhanjaya Perdagangan Hasil Pertanian Negeri 1949"
+  },
+  "MM-H112": {
+   "vi": "Luật Đăng ký nuôi con nuôi",
+   "th": "พระราชบัญญัติการจดทะเบียนการรับบุตรบุญธรรม",
+   "id": "Undang-Undang Pencatatan Pengangkatan Anak",
+   "ms": "Akta Pendaftaran Pengambilan Anak Angkat"
+  },
+  "MM-H113": {
+   "vi": "Luật Liên hợp quốc (Quyền ưu đãi và miễn trừ)",
+   "th": "พระราชบัญญัติสหประชาชาติ (เอกสิทธิ์และความคุ้มกัน)",
+   "id": "Undang-Undang Perserikatan Bangsa-Bangsa (Hak Istimewa dan Kekebalan)",
+   "ms": "Akta Pertubuhan Bangsa-Bangsa Bersatu (Keistimewaan dan Kekebalan)"
+  },
+  "MM-H116": {
+   "vi": "Luật Quyền trẻ em",
+   "th": "พระราชบัญญัติสิทธิเด็ก",
+   "id": "Undang-Undang Hak Anak",
+   "ms": "Akta Hak Kanak-Kanak"
+  },
+  "MM-H121": {
+   "vi": "Luật Quyền của người khuyết tật",
+   "th": "พระราชบัญญัติสิทธิของคนพิการ",
+   "id": "Undang-Undang Hak Penyandang Disabilitas",
+   "ms": "Akta Hak Orang Kurang Upaya"
+  },
+  "MM-H120": {
+   "vi": "Luật Nghỉ phép và Ngày lễ năm 1951",
+   "th": "พระราชบัญญัติการลาพักผ่อนและวันหยุด ค.ศ. 1951",
+   "id": "Undang-Undang Cuti dan Hari Libur 1951",
+   "ms": "Akta Cuti dan Hari Kelepasan 1951"
+  },
+  "MM-H016": {
+   "vi": "Luật Khu kinh tế đặc biệt",
+   "th": "พระราชบัญญัติเขตเศรษฐกิจพิเศษ",
+   "id": "Undang-Undang Kawasan Ekonomi Khusus",
+   "ms": "Akta Zon Ekonomi Khas"
+  }
+ }
+}

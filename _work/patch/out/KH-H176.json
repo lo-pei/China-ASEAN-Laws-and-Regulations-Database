@@ -1,0 +1,40 @@
+{
+ "lawId": "KH-H176",
+ "pack": "kh-p03",
+ "sourceLang": "km",
+ "targetLang": "en",
+ "titleEn": "Law on the Establishment of the Ministry of Land Management, Urban Planning and Construction",
+ "model": "deepseek-v4.1-flash",
+ "articles": [
+  {
+   "key": "1",
+   "no": 1,
+   "noLabel": "Article 1",
+   "en": "The Ministry of Land Management, Urban Planning and Construction is hereby established under the Royal Government of the Kingdom of Cambodia.\nArticle 2: The Ministry of Land Management, Urban Planning and Construction shall have the competence to lead and manage the land management, urban planning and construction sector of the Kingdom of Cambodia."
+  },
+  {
+   "key": "3",
+   "no": 3,
+   "noLabel": "Article 3",
+   "en": "The Ministry of Land Management, Urban Planning and Construction shall be led by one Minister, who may be assisted by Secretaries of State and/or Under-Secretaries of State as necessary."
+  },
+  {
+   "key": "4",
+   "no": 4,
+   "noLabel": "Article 4",
+   "en": "The organisational structure and functioning of the Ministry of Land Management, Urban Planning and Construction shall be determined by sub-decree."
+  },
+  {
+   "key": "5",
+   "no": 5,
+   "noLabel": "Article 5",
+   "en": "Any provisions contrary to this Law shall be considered null and void."
+  },
+  {
+   "key": "6",
+   "no": 6,
+   "noLabel": "Article 6",
+   "en": "This Law is declared to be urgent."
+  }
+ ]
+}

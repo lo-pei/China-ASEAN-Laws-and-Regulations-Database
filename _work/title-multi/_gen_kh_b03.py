@@ -1,0 +1,315 @@
+# -*- coding: utf-8 -*-
+"""KH 标题多语种批次生成器（第 3 批：48 部，H108–H156）。"""
+import json, io, os
+
+items = {}
+
+items["KH-H108"] = {
+    "vi": "Luật phê chuẩn việc Vương quốc Campuchia trở thành thành viên Nghị định thư về Trấn áp các hành vi bất hợp pháp chống lại an toàn của các giàn cố định trên thềm lục địa",
+    "th": "พระราชบัญญัติให้ความเห็นชอบการที่ราชอาณาจักรกัมพูชาเข้าเป็นภาคีพิธีสารว่าด้วยการปราบปรามการกระทำอันมิชอบด้วยกฎหมายต่อความปลอดภัยของแท่นติดตั้งถาวรบนไหล่ทวีป",
+    "id": "Undang-Undang tentang Persetujuan Kerajaan Kamboja Menjadi Anggota Protokol Penindasan Tindakan Melanggar Hukum terhadap Keselamatan Platform Tetap di Landas Kontinen",
+    "ms": "Akta tentang Persetujuan Kerajaan Kemboja Menjadi Anggota Protokol Pembasmian Tindakan Haram terhadap Keselamatan Pelantar Tetap di Pentas Benua",
+}
+items["KH-H109"] = {
+    "vi": "Sắc lệnh Hoàng gia về việc thành lập Cơ quan Quốc gia Bảo vệ và Quản lý Angkor và vùng Siem Reap, mang tên APSARA",
+    "th": "พระราชกฤษฎีกาว่าด้วยการจัดตั้งองค์การแห่งชาติเพื่อการคุ้มครองและการจัดการนครวัดและพื้นที่เสียมราฐ ในชื่อ APSARA",
+    "id": "Dekrit Kerajaan tentang Pendirian Otoritas Nasional untuk Pelindungan dan Pengelolaan Angkor dan Wilayah Siem Reap, bernama APSARA",
+    "ms": "Dekri Kerajaan mengenai Penubuhan Pihak Berkuasa Nasional bagi Perlindungan dan Pengurusan Angkor dan Wilayah Siem Reap, bernama APSARA",
+}
+items["KH-H110"] = {
+    "vi": "Luật về Nghĩa vụ quân sự",
+    "th": "พระราชบัญญัติว่าด้วยการรับราชการทหาร",
+    "id": "Undang-Undang tentang Wajib Militer",
+    "ms": "Akta mengenai Perkhidmatan Tentera",
+}
+items["KH-H111"] = {
+    "vi": "Luật về Quy chế Thượng nghị sĩ",
+    "th": "พระราชบัญญัติว่าด้วยสถานะของสมาชิกวุฒิสภา",
+    "id": "Undang-Undang tentang Statuta Anggota Senat",
+    "ms": "Akta mengenai Statut Anggota Senat",
+}
+items["KH-H112"] = {
+    "vi": "Luật về Quản lý hành nghề y tế tư nhân, y tế phụ trợ và trợ giúp y tế",
+    "th": "พระราชบัญญัติว่าด้วยการจัดการการประกอบวิชาชีพเวชกรรมเอกชน การประกอบโรคศิลปะ และผู้ช่วยเหลือทางการแพทย์",
+    "id": "Undang-Undang tentang Pengelolaan Praktik Kedokteran Swasta, Paramedis, dan Asisten Medis",
+    "ms": "Akta mengenai Pengurusan Amalan Perubatan Swasta, Paramedik dan Pembantu Perubatan",
+}
+items["KH-H113"] = {
+    "vi": "Sắc lệnh Hoàng gia về Chế độ thừa kế",
+    "th": "พระราชกฤษฎีกาว่าด้วยระบบมรดก",
+    "id": "Dekrit Kerajaan tentang Sistem Warisan",
+    "ms": "Dekri Kerajaan mengenai Sistem Pewarisan",
+}
+items["KH-H114"] = {
+    "vi": "Sắc lệnh Hoàng gia số 0821/564 về Tổ chức và Hoạt động của Hội đồng Quốc gia về Kinh tế và Xã hội số",
+    "th": "พระราชกฤษฎีกาฉบับที่ 0821/564 ว่าด้วยการจัดองค์กรและการดำเนินงานของสภาแห่งชาติว่าด้วยเศรษฐกิจและสังคมดิจิทัล",
+    "id": "Dekrit Kerajaan Nomor 0821/564 tentang Organisasi dan Tata Kerja Dewan Nasional Ekonomi dan Masyarakat Digital",
+    "ms": "Dekri Kerajaan Nombor 0821/564 mengenai Organisasi dan Fungsi Majlis Nasional Ekonomi dan Masyarakat Digital",
+}
+items["KH-H115"] = {
+    "vi": "Thông tư liên tịch số 491 về Phân bổ nguồn thu từ dịch vụ công và tiền xử phạt của Bộ Mỏ và Năng lượng",
+    "th": "กฎกระทรวงร่วมฉบับที่ 491 ว่าด้วยการจัดสรรเงินได้จากบริการสาธารณะและค่าปรับของกระทรวงเหมืองแร่และพลังงาน",
+    "id": "Peraturan Menteri Bersama Nomor 491 tentang Alokasi Penerimaan dari Pelayanan Publik dan Sanksi Denda Kementerian Pertambangan dan Energi",
+    "ms": "Peraturan Menteri Bersama Nombor 491 mengenai Peruntukan Hasil daripada Perkhidmatan Awam dan Penalti Kementerian Lombong dan Tenaga",
+}
+items["KH-H116"] = {
+    "vi": "Sắc lệnh Hoàng gia về việc thành lập Cơ quan Quản lý lưu vực Tonle Sap",
+    "th": "พระราชกฤษฎีกาว่าด้วยการจัดตั้งองค์การจัดการลุ่มน้ำโตนเลสาบ",
+    "id": "Dekrit Kerajaan tentang Pendirian Otoritas Pengelolaan Cekungan Tonle Sap",
+    "ms": "Dekri Kerajaan mengenai Penubuhan Pihak Berkuasa Pengurusan Lembangan Tonle Sap",
+}
+items["KH-H117"] = {
+    "vi": "Thông tư liên tịch số 507 về Phụ cấp bữa ăn học sinh, phụ cấp đầu bếp và thủ tục xác định số lượng học sinh, đầu bếp",
+    "th": "กฎกระทรวงร่วมฉบับที่ 507 ว่าด้วยเงินช่วยเหลือค่าอาหารนักเรียน ค่าตอบแทนพ่อครัว และขั้นตอนการกำหนดจำนวนนักเรียนและพ่อครัว",
+    "id": "Peraturan Menteri Bersama Nomor 507 tentang Tunjangan Makan Siswa, Tunjangan Juru Masak, dan Tata Cara Penetapan Jumlah Siswa dan Juru Masak",
+    "ms": "Peraturan Menteri Bersama Nombor 507 mengenai Elaun Makan Pelajar, Elaun Tukang Masak dan Tatacara Menentukan Bilangan Pelajar dan Tukang Masak",
+}
+items["KH-H118"] = {
+    "vi": "Luật về Kế toán doanh nghiệp, Kiểm toán và Nghề kế toán",
+    "th": "พระราชบัญญัติว่าด้วยบัญชีกิจการ การสอบบัญชี และวิชาชีพบัญชี",
+    "id": "Undang-Undang tentang Akuntansi Perusahaan, Auditnya, dan Profesi Akuntan",
+    "ms": "Akta mengenai Akaun Korporat, Auditnya dan Profesion Perakaunan",
+}
+items["KH-H119"] = {
+    "vi": "Sắc lệnh Hoàng gia về Tổ chức và Hoạt động của Hội đồng Quốc gia Khoa học và Công nghệ",
+    "th": "พระราชกฤษฎีกาว่าด้วยการจัดองค์กรและการดำเนินงานของสภาแห่งชาติว่าด้วยวิทยาศาสตร์และเทคโนโลยี",
+    "id": "Dekrit Kerajaan tentang Organisasi dan Tata Kerja Dewan Nasional Ilmu Pengetahuan dan Teknologi",
+    "ms": "Dekri Kerajaan mengenai Organisasi dan Fungsi Majlis Nasional Sains dan Teknologi",
+}
+items["KH-H120"] = {
+    "vi": "Sắc lệnh Hoàng gia số 661 về việc thành lập và hoạt động của Hội đồng Luật gia",
+    "th": "พระราชกฤษฎีกาฉบับที่ 661 ว่าด้วยการจัดตั้งและการดำเนินงานของสภาผู้ทรงคุณวุฒิทางกฎหมาย",
+    "id": "Dekrit Kerajaan Nomor 661 tentang Pendirian dan Penyelenggaraan Dewan Ahli Hukum",
+    "ms": "Dekri Kerajaan Nombor 661 mengenai Penubuhan dan Pelaksanaan Majlis Ahli Perundangan",
+}
+items["KH-H121"] = {
+    "vi": "Luật Quyết toán ngân sách nhà nước năm 1997",
+    "th": "พระราชบัญญัติการชำระบัญชีงบประมาณแผ่นดินประจำปี ค.ศ. 1997",
+    "id": "Undang-Undang Pertanggungjawaban Anggaran Pendapatan dan Belanja Negara Tahun 1997",
+    "ms": "Akta Penyelesaian Belanjawan Negara Tahun 1997",
+}
+items["KH-H122"] = {
+    "vi": "Sắc lệnh Hoàng gia về việc thành lập Ủy ban Quốc gia thực hiện Chương trình Bảo vệ rừng và Giao đất vì Phát triển bền vững",
+    "th": "พระราชกฤษฎีกาว่าด้วยการจัดตั้งคณะกรรมการแห่งชาติเพื่อดำเนินโครงการคุ้มครองป่าไม้และการจัดสรรที่ดินเพื่อการพัฒนาที่ยั่งยืน",
+    "id": "Dekrit Kerajaan tentang Pendirian Komite Nasional Pelaksanaan Program Pelindungan Hutan dan Pemberian Tanah untuk Pembangunan Berkelanjutan",
+    "ms": "Dekri Kerajaan mengenai Penubuhan Jawatankuasa Nasional bagi Pelaksanaan Program Perlindungan Hutan dan Pemberian Tanah untuk Pembangunan Lestari",
+}
+items["KH-H123"] = {
+    "vi": "Sắc lệnh Hoàng gia về Tổ chức và Hoạt động của Ủy ban Quốc gia về Học tập suốt đời",
+    "th": "พระราชกฤษฎีกาว่าด้วยการจัดองค์กรและการดำเนินงานของคณะกรรมการแห่งชาติว่าด้วยการเรียนรู้ตลอดชีวิต",
+    "id": "Dekrit Kerajaan tentang Organisasi dan Tata Kerja Komite Nasional Pembelajaran Sepanjang Hayat",
+    "ms": "Dekri Kerajaan mengenai Organisasi dan Fungsi Jawatankuasa Nasional Pembelajaran Sepanjang Hayat",
+}
+items["KH-H125"] = {
+    "vi": "Luật về các tình tiết tăng nặng của tội phạm",
+    "th": "พระราชบัญญัติว่าด้วยพฤติการณ์เพิ่มโทษแห่งความผิดอาญา",
+    "id": "Undang-Undang tentang Keadaan yang Memberatkan Tindak Pidana",
+    "ms": "Akta mengenai Keadaan yang Memberatkan Kesalahan Jenayah",
+}
+items["KH-H126"] = {
+    "vi": "Luật về Tổ chức và Hoạt động của Hội đồng Thẩm phán Tối cao",
+    "th": "พระราชบัญญัติว่าด้วยการจัดองค์กรและการดำเนินงานของสภาตุลาการสูงสุด",
+    "id": "Undang-Undang tentang Organisasi dan Tata Kerja Dewan Kehakiman Agung",
+    "ms": "Akta mengenai Organisasi dan Fungsi Majlis Kehakiman Agung",
+}
+items["KH-H127"] = {
+    "vi": "Luật về Quản lý dược phẩm",
+    "th": "พระราชบัญญัติว่าด้วยการจัดการยา",
+    "id": "Undang-Undang tentang Pengelolaan Obat",
+    "ms": "Akta mengenai Pengurusan Farmaseutikal",
+}
+items["KH-H128"] = {
+    "vi": "Luật về Bắt cóc, Mua bán và Bóc lột người",
+    "th": "พระราชบัญญัติว่าด้วยการลักพาตัว การค้ามนุษย์ และการแสวงหาผลประโยชน์จากบุคคล",
+    "id": "Undang-Undang tentang Penculikan, Perdagangan Orang, dan Eksploitasi Orang",
+    "ms": "Akta mengenai Penculikan, Pemerdagangan Orang dan Eksploitasi Manusia",
+}
+items["KH-H129"] = {
+    "vi": "Sắc lệnh Hoàng gia số 70 về việc thành lập Khu nghỉ dưỡng Koh Kae",
+    "th": "พระราชกฤษฎีกาฉบับที่ 70 ว่าด้วยการจัดตั้งรีสอร์ตเกาะแก",
+    "id": "Dekrit Kerajaan Nomor 70 tentang Pendirian Kawasan Wisata Koh Kae",
+    "ms": "Dekri Kerajaan Nombor 70 mengenai Penubuhan Peranginan Koh Kae",
+}
+items["KH-H130"] = {
+    "vi": "Luật về Tổ chức và Chức năng của Hội đồng Quốc phòng Tối cao",
+    "th": "พระราชบัญญัติว่าด้วยการจัดองค์กรและหน้าที่ของสภาป้องกันประเทศสูงสุด",
+    "id": "Undang-Undang tentang Organisasi dan Fungsi Dewan Pertahanan Nasional Agung",
+    "ms": "Akta mengenai Organisasi dan Fungsi Majlis Pertahanan Nasional Agung",
+}
+items["KH-H131"] = {
+    "vi": "Luật phê chuẩn Nghị định thư sửa đổi lần thứ hai Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á, Manila ngày 25 tháng 7 năm 1998",
+    "th": "พระราชบัญญัติให้ความเห็นชอบพิธีสารแก้ไขครั้งที่สองของสนธิสัญญามิตรภาพและความร่วมมือในเอเชียตะวันออกเฉียงใต้ ณ กรุงมะนิลา วันที่ 25 กรกฎาคม ค.ศ. 1998",
+    "id": "Undang-Undang tentang Persetujuan Protokol Kedua yang Mengubah Traktat Persahabatan dan Kerja Sama di Asia Tenggara, Manila, 25 Juli 1998",
+    "ms": "Akta tentang Persetujuan Protokol Kedua yang Meminda Perjanjian Persahabatan dan Kerjasama di Asia Tenggara, Manila, 25 Julai 1998",
+}
+items["KH-H132"] = {
+    "vi": "Sắc lệnh Hoàng gia về việc thành lập Hội đồng Cải cách Pháp luật và Tư pháp",
+    "th": "พระราชกฤษฎีกาว่าด้วยการจัดตั้งสภาการปฏิรูปกฎหมายและกระบวนการยุติธรรม",
+    "id": "Dekrit Kerajaan tentang Pendirian Dewan Reformasi Hukum dan Peradilan",
+    "ms": "Dekri Kerajaan mengenai Penubuhan Majlis Pembaharuan Undang-Undang dan Kehakiman",
+}
+items["KH-H133"] = {
+    "vi": "Luật Sửa đổi Luật về các Đảng phái Chính trị và Luật Sửa đổi Luật về các Đảng phái Chính trị",
+    "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติว่าด้วยพรรคการเมือง และพระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติว่าด้วยพรรคการเมือง",
+    "id": "Undang-Undang tentang Perubahan atas Undang-Undang Partai Politik dan Undang-Undang tentang Perubahan Undang-Undang Partai Politik",
+    "ms": "Akta tentang Pindaan kepada Akta Parti Politik dan Akta tentang Pindaan Akta Parti Politik",
+}
+items["KH-H134"] = {
+    "vi": "Quyết định số 141 về việc thành lập Tổ công tác đánh giá tác động của văn bản pháp luật thuộc Bộ Kế hoạch",
+    "th": "คำสั่งฉบับที่ 141 ว่าด้วยการจัดตั้งคณะทำงานประเมินผลกระทบของเครื่องมือทางกฎหมายของกระทรวงแผน",
+    "id": "Keputusan Nomor 141 tentang Pembentukan Kelompok Kerja Penilaian Dampak Instrumen Hukum Kementerian Perencanaan",
+    "ms": "Perintah Nombor 141 mengenai Penubuhan Kumpulan Kerja Penilaian Kesan Instrumen Perundangan Kementerian Perancangan",
+}
+items["KH-H135"] = {
+    "vi": "Thông tư liên tịch số 321 về việc lập dự toán thu ngân sách năm 2024 của Bộ Công chính và Giao thông",
+    "th": "กฎกระทรวงร่วมฉบับที่ 321 ว่าด้วยการจัดตั้งงบประมาณรายรับประจำปี ค.ศ. 2024 ของกระทรวงโยธาธิการและคมนาคม",
+    "id": "Peraturan Menteri Bersama Nomor 321 tentang Penetapan Anggaran Penerimaan Tahun 2024 pada Kementerian Pekerjaan Umum dan Perhubungan",
+    "ms": "Peraturan Menteri Bersama Nombor 321 mengenai Penetapan Belanjawan Hasil Tahun 2024 di Kementerian Kerja Raya dan Pengangkutan",
+}
+items["KH-H136"] = {
+    "vi": "Sắc lệnh Hoàng gia số 436 về việc thành lập Công viên Học viện Hoàng gia Campuchia Techo Sen Russey Treb",
+    "th": "พระราชกฤษฎีกาฉบับที่ 436 ว่าด้วยการจัดตั้งอุทยานราชบัณฑิตยสถานกัมพูชาเตโชเซนรัสสีเตรบ",
+    "id": "Dekrit Kerajaan Nomor 436 tentang Pendirian Taman Akademi Kerajaan Kamboja Techo Sen Russey Treb",
+    "ms": "Dekri Kerajaan Nombor 436 mengenai Penubuhan Taman Akademi Diraja Kemboja Techo Sen Russey Treb",
+}
+items["KH-H137"] = {
+    "vi": "Luật về Chế độ một vợ một chồng",
+    "th": "พระราชบัญญัติว่าด้วยการมีคู่สมรสเพียงคนเดียว",
+    "id": "Undang-Undang tentang Monogami",
+    "ms": "Akta mengenai Monogami",
+}
+items["KH-H138"] = {
+    "vi": "Luật về Thủ tục xử phạt vi phạm hành chính",
+    "th": "พระราชบัญญัติว่าด้วยวิธีพิจารณาค่าปรับทางแพ่ง",
+    "id": "Undang-Undang tentang Tata Cara Denda Perdata",
+    "ms": "Akta mengenai Tatacara Denda Sivil",
+}
+items["KH-H1387"] = {
+    "vi": "Luật Chống tham nhũng (toàn văn)",
+    "th": "พระราชบัญญัติต่อต้านการทุจริต (ฉบับเต็ม)",
+    "id": "Undang-Undang Pemberantasan Korupsi (Teks Lengkap)",
+    "ms": "Akta Pembanterasan Rasuah (Teks Penuh)",
+}
+items["KH-H140"] = {
+    "vi": "Thông tư liên tịch số 306 về việc lập dự toán thu ngân sách của Bộ Môi trường",
+    "th": "กฎกระทรวงร่วมฉบับที่ 306 ว่าด้วยการจัดตั้งงบประมาณรายรับของกระทรวงสิ่งแวดล้อม",
+    "id": "Peraturan Menteri Bersama Nomor 306 tentang Penetapan Anggaran Penerimaan pada Kementerian Lingkungan Hidup",
+    "ms": "Peraturan Menteri Bersama Nombor 306 mengenai Penetapan Belanjawan Hasil di Kementerian Alam Sekitar",
+}
+items["KH-H141"] = {
+    "vi": "Sắc lệnh Hoàng gia về việc thành lập Hội đồng Giáo dục Quốc gia Tối cao",
+    "th": "พระราชกฤษฎีกาว่าด้วยการจัดตั้งสภาศึกษาแห่งชาติชั้นสูง",
+    "id": "Dekrit Kerajaan tentang Pendirian Dewan Pendidikan Nasional Agung",
+    "ms": "Dekri Kerajaan mengenai Penubuhan Majlis Pendidikan Nasional Agung",
+}
+items["KH-H142"] = {
+    "vi": "Sắc lệnh Hoàng gia về việc điều chỉnh tuổi nghỉ hưu của nữ công chức",
+    "th": "พระราชกฤษฎีกาว่าด้วยการปรับอายุเกษียณราชการของข้าราชการสตรี",
+    "id": "Dekrit Kerajaan tentang Penyesuaian Usia Pensiun Pegawai Negeri Perempuan",
+    "ms": "Dekri Kerajaan mengenai Penyelarasan Umur Persaraan Pegawai Awam Wanita",
+}
+items["KH-H143"] = {
+    "vi": "Luật về việc điều chỉnh Luật Quản lý tài chính năm 2009",
+    "th": "พระราชบัญญัติว่าด้วยการปรับปรุงพระราชบัญญัติการบริหารการเงินปี ค.ศ. 2009",
+    "id": "Undang-Undang tentang Penyesuaian atas Undang-Undang Pengelolaan Keuangan Tahun 2009",
+    "ms": "Akta mengenai Penyelarasan kepada Akta Pengurusan Kewangan Tahun 2009",
+}
+items["KH-H144"] = {
+    "vi": "Sắc lệnh Hoàng gia số 1022/1292 về việc điều chỉnh địa giới hành chính giữa tỉnh Pailin và tỉnh Battambang",
+    "th": "พระราชกฤษฎีกาฉบับที่ 1022/1292 ว่าด้วยการปรับเขตการปกครองระหว่างจังหวัดไพลินและจังหวัดพระตะบอง",
+    "id": "Dekrit Kerajaan Nomor 1022/1292 tentang Penyesuaian Batas Administratif antara Provinsi Pailin dan Provinsi Battambang",
+    "ms": "Dekri Kerajaan Nombor 1022/1292 mengenai Penyelarasan Sempadan Pentadbiran antara Wilayah Pailin dan Wilayah Battambang",
+}
+items["KH-H145"] = {
+    "vi": "Luật về việc thành lập Bộ Thanh tra",
+    "th": "พระราชบัญญัติว่าด้วยการจัดตั้งกระทรวงตรวจการแผ่นดิน",
+    "id": "Undang-Undang tentang Pembentukan Kementerian Inspeksi",
+    "ms": "Akta mengenai Penubuhan Kementerian Pemeriksaan",
+}
+items["KH-H146"] = {
+    "vi": "Thông tư liên tịch số 151 về việc lập dự toán thu ngân sách năm 2024 của Bộ Y tế",
+    "th": "กฎกระทรวงร่วมฉบับที่ 151 ว่าด้วยการจัดตั้งงบประมาณรายรับประจำปี ค.ศ. 2024 ของกระทรวงสาธารณสุข",
+    "id": "Peraturan Menteri Bersama Nomor 151 tentang Penetapan Anggaran Penerimaan Tahun 2024 pada Kementerian Kesehatan",
+    "ms": "Peraturan Menteri Bersama Nombor 151 mengenai Penetapan Belanjawan Hasil Tahun 2024 di Kementerian Kesihatan",
+}
+items["KH-H147"] = {
+    "vi": "Sắc lệnh Hoàng gia số 0822/1008 về việc thành lập Khu bảo tồn động vật hoang dã và Vườn thực vật Phnom Tamao",
+    "th": "พระราชกฤษฎีกาฉบับที่ 0822/1008 ว่าด้วยการจัดตั้งเขตรักษาพันธุ์สัตว์ป่าและสวนพฤกษศาสตร์พนมตะเมา",
+    "id": "Dekrit Kerajaan Nomor 0822/1008 tentang Pendirian Taman Suaka Satwa Liar dan Kebun Raya Phnom Tamao",
+    "ms": "Dekri Kerajaan Nombor 0822/1008 mengenai Penubuhan Taman Perlindungan Hidupan Liar dan Taman Botani Phnom Tamao",
+}
+items["KH-H148"] = {
+    "vi": "Luật về việc thành lập Bộ Công nghiệp và Thủ công nghiệp",
+    "th": "พระราชบัญญัติว่าด้วยการจัดตั้งกระทรวงอุตสาหกรรมและหัตถกรรม",
+    "id": "Undang-Undang tentang Pembentukan Kementerian Perindustrian dan Kerajinan",
+    "ms": "Akta mengenai Penubuhan Kementerian Perindustrian dan Kraftangan",
+}
+items["KH-H149"] = {
+    "vi": "Luật về việc thành lập Bộ Công nghiệp, Khoa học, Công nghệ và Đổi mới sáng tạo",
+    "th": "พระราชบัญญัติว่าด้วยการจัดตั้งกระทรวงอุตสาหกรรม วิทยาศาสตร์ เทคโนโลยีและนวัตกรรม",
+    "id": "Undang-Undang tentang Pembentukan Kementerian Perindustrian, Ilmu Pengetahuan, Teknologi, dan Inovasi",
+    "ms": "Akta mengenai Penubuhan Kementerian Perindustrian, Sains, Teknologi dan Inovasi",
+}
+items["KH-H150"] = {
+    "vi": "Nghị định số 29 về việc phân loại lại và tặng cho tài sản nhà nước",
+    "th": "พระราชกฤษฎีกาฉบับที่ 29 ว่าด้วยการจัดประเภทใหม่และการบริจาคทรัพย์สินของรัฐ",
+    "id": "Peraturan Pemerintah Nomor 29 tentang Reklasifikasi dan Hibah Barang Milik Negara",
+    "ms": "Peraturan Kerajaan Nombor 29 mengenai Pengelasan Semula dan Derma Harta Kerajaan",
+}
+items["KH-H151"] = {
+    "vi": "Sắc lệnh Hoàng gia số 0421/345 về việc khai trương Tòa án tỉnh Kep",
+    "th": "พระราชกฤษฎีกาฉบับที่ 0421/345 ว่าด้วยการเปิดทำการศาลจังหวัดเกบ",
+    "id": "Dekrit Kerajaan Nomor 0421/345 tentang Peresmian Pengadilan Provinsi Kep",
+    "ms": "Dekri Kerajaan Nombor 0421/345 mengenai Pelancaran Mahkamah Wilayah Kep",
+}
+items["KH-H152"] = {
+    "vi": "Luật về việc thành lập Quốc vụ khanh Biên giới",
+    "th": "พระราชบัญญัติว่าด้วยการจัดตั้งสำนักเลขาธิการแห่งรัฐด้านกิจการชายแดน",
+    "id": "Undang-Undang tentang Pembentukan Sekretariat Negara Urusan Perbatasan",
+    "ms": "Akta mengenai Penubuhan Sekretariat Negara Hal Ehwal Sempadan",
+}
+items["KH-H153"] = {
+    "vi": "Sắc lệnh Hoàng gia số 176 về việc thu hồi Khu bảo tồn động vật hoang dã Snoul tại tỉnh Kratie và Khu bảo tồn động vật hoang dã Roneam Daun Sam tại tỉnh Battambang",
+    "th": "พระราชกฤษฎีกาฉบับที่ 176 ว่าด้วยการเพิกถอนเขตรักษาพันธุ์สัตว์ป่าสนูลในจังหวัดกระแจะและเขตรักษาพันธุ์สัตว์ป่าโรเนียมดวนซัมในจังหวัดพระตะบอง",
+    "id": "Dekrit Kerajaan Nomor 176 tentang Pencabutan Suaka Satwa Liar Snoul di Provinsi Kratie dan Suaka Satwa Liar Roneam Daun Sam di Provinsi Battambang",
+    "ms": "Dekri Kerajaan Nombor 176 mengenai Pembatalan Suaka Hidupan Liar Snoul di Wilayah Kratie dan Suaka Hidupan Liar Roneam Daun Sam di Wilayah Battambang",
+}
+items["KH-H154"] = {
+    "vi": "Sắc lệnh Hoàng gia số 0819/1301 về việc thành lập Tòa án Phúc thẩm Tboung Khmum",
+    "th": "พระราชกฤษฎีกาฉบับที่ 0819/1301 ว่าด้วยการจัดตั้งศาลอุทธรณ์ตบองคอมุม",
+    "id": "Dekrit Kerajaan Nomor 0819/1301 tentang Pendirian Pengadilan Banding Tboung Khmum",
+    "ms": "Dekri Kerajaan Nombor 0819/1301 mengenai Penubuhan Mahkamah Rayuan Tboung Khmum",
+}
+items["KH-H155"] = {
+    "vi": "Luật về việc thành lập Bộ Nông nghiệp, Lâm nghiệp và Thủy sản",
+    "th": "พระราชบัญญัติว่าด้วยการจัดตั้งกระทรวงเกษตร ป่าไม้ และประมง",
+    "id": "Undang-Undang tentang Pembentukan Kementerian Pertanian, Kehutanan, dan Perikanan",
+    "ms": "Akta mengenai Penubuhan Kementerian Pertanian, Perhutanan dan Perikanan",
+}
+items["KH-H156"] = {
+    "vi": "Luật về việc thành lập Bộ Môi trường",
+    "th": "พระราชบัญญัติว่าด้วยการจัดตั้งกระทรวงสิ่งแวดล้อม",
+    "id": "Undang-Undang tentang Pembentukan Kementerian Lingkungan Hidup",
+    "ms": "Akta mengenai Penubuhan Kementerian Alam Sekitar",
+}
+
+ZH_FIX = {
+    "KH-H108": "关于批准柬埔寨王国成为制止危及大陆架固定平台安全非法行为议定书成员的法律",
+    "KH-H131": "关于批准1998年7月25日马尼拉东南亚友好合作条约第二修改议定书的法律",
+}
+for k, v in ZH_FIX.items():
+    items[k]["zh"] = v
+
+doc = {
+    "batch": "kh-p2-b03",
+    "scope": "KH 柬埔寨法 第 3 批 48 部（H108–H156）",
+    "note": "语义基准为 title.zh/title.en；Royal Decree → Sắc lệnh Hoàng gia／พระราชกฤษฎีกา／Dekrit Kerajaan；"
+            "Sub-decree → Nghị định／พระราชกฤษฎีกา／Peraturan Pemerintah；"
+            "Inter-Ministerial Prakas → Thông tư liên tịch／กฎกระทรวงร่วม／Peraturan Menteri Bersama。"
+            "另按 §2.2 清除既有 zh 书名号 2 处。",
+    "items": items,
+}
+out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "batches", "kh-p2-b03.json")
+io.open(out, "w", encoding="utf-8", newline="\n").write(
+    json.dumps(doc, ensure_ascii=False, indent=1))
+print("写出", out, "部数", len(items))

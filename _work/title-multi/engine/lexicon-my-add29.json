@@ -1,0 +1,418 @@
+{
+  "_note": "MY 附属法规括号术语 · add29（双缺后段，含大学校名组）",
+  "brackets": {
+    "NON-APPLICATION OF DIVISION 5 OF PART VI": {
+      "zh": "第六部第5分部的不适用",
+      "vi": "Không áp dụng Phần 5 của Chương VI",
+      "th": "การไม่ใช้บังคับหมวด 5 แห่งภาค VI",
+      "id": "Ketidakberlakuan Divisi 5 Bagian VI",
+      "ms": "Ketidakterapan Bahagian 5 Bab VI"
+    },
+    "OIL PALM PRODUCT AND PALM OIL GOODS": {
+      "zh": "油棕产品与棕榈油货物",
+      "vi": "Sản phẩm cọ dầu và hàng hóa dầu cọ",
+      "th": "ผลิตภัณฑ์ปาล์มน้ำมันและสินค้าน้ำมันปาล์ม",
+      "id": "Produk Kelapa Sawit dan Barang Minyak Sawit",
+      "ms": "Produk Sawit dan Barang Minyak Sawit"
+    },
+    "PAYMENT": {
+      "zh": "付款",
+      "vi": "Thanh toán",
+      "th": "การชำระเงิน",
+      "id": "Pembayaran",
+      "ms": "Pembayaran"
+    },
+    "PENANG PORT": {
+      "zh": "槟城港",
+      "vi": "Cảng Penang",
+      "th": "ท่าเรือปีนัง",
+      "id": "Pelabuhan Penang",
+      "ms": "Pelabuhan Pulau Pinang"
+    },
+    "PHOTOGRAPH": {
+      "zh": "照片",
+      "vi": "Ảnh",
+      "th": "ภาพถ่าย",
+      "id": "Foto",
+      "ms": "Fotograf"
+    },
+    "POOL BETTING DUTY": {
+      "zh": "同注分彩投注税",
+      "vi": "Thuế cá cược góp quỹ",
+      "th": "อากรการพนันแบบแบ่งเงินกอง",
+      "id": "Bea Taruhan Pool",
+      "ms": "Duti Pertaruhan Pool"
+    },
+    "PREMIX PREPARATION": {
+      "zh": "预混制剂",
+      "vi": "Chế phẩm pha trộn sẵn",
+      "th": "สิ่งปรุงผสมสำเร็จ",
+      "id": "Sediaan Premiks",
+      "ms": "Penyediaan Premiks"
+    },
+    "PRESCRIPTION FOR NON-APPLICATION": {
+      "zh": "不适用的规定",
+      "vi": "Quy định về việc không áp dụng",
+      "th": "การกำหนดให้ไม่ใช้บังคับ",
+      "id": "Penetapan Ketidakberlakuan",
+      "ms": "Penetapan Ketidakterapan"
+    },
+    "PRESCRIPTION OF CAPITAL MARKET PRODUCT": {
+      "zh": "资本市场产品的指定",
+      "vi": "Quy định sản phẩm thị trường vốn",
+      "th": "การกำหนดผลิตภัณฑ์ตลาดทุน",
+      "id": "Penetapan Produk Pasar Modal",
+      "ms": "Penetapan Produk Pasaran Modal"
+    },
+    "PRESCRIPTION OF SECURITIES": {
+      "zh": "证券的指定",
+      "vi": "Quy định chứng khoán",
+      "th": "การกำหนดหลักทรัพย์",
+      "id": "Penetapan Efek",
+      "ms": "Penetapan Sekuriti"
+    },
+    "PRESCRIPTION OF SECURITIES AND ISLAMIC SECURITIES": {
+      "zh": "证券及伊斯兰证券的指定",
+      "vi": "Quy định chứng khoán và chứng khoán Hồi giáo",
+      "th": "การกำหนดหลักทรัพย์และหลักทรัพย์อิสลาม",
+      "id": "Penetapan Efek dan Surat Berharga Syariah",
+      "ms": "Penetapan Sekuriti dan Sekuriti Islam"
+    },
+    "PRIVATE MEDICAL CLINICS OR PRIVATE DENTAL CLINICS": {
+      "zh": "私营诊疗所或私营牙科诊疗所",
+      "vi": "Phòng khám y tế tư nhân hoặc phòng khám nha khoa tư nhân",
+      "th": "คลินิกแพทย์เอกชนหรือคลินิกทันตกรรมเอกชน",
+      "id": "Klinik Medis Swasta atau Klinik Gigi Swasta",
+      "ms": "Klinik Perubatan Swasta atau Klinik Pergigian Swasta"
+    },
+    "PROCEDURE": {
+      "zh": "程序",
+      "vi": "Thủ tục",
+      "th": "ขั้นตอน",
+      "id": "Prosedur",
+      "ms": "Tatacara"
+    },
+    "PROCESSING AND APPROVAL FEES": {
+      "zh": "办理与批准费",
+      "vi": "Phí xử lý và phê duyệt",
+      "th": "ค่าธรรมเนียมการดำเนินการและการอนุมัติ",
+      "id": "Biaya Pemrosesan dan Persetujuan",
+      "ms": "Fi Pemprosesan dan Kelulusan"
+    },
+    "PROHIBITION OF SALE AND PURCHASE OF CONTROLLED ARTICLE": {
+      "zh": "禁止买卖受管制物品",
+      "vi": "Cấm bán và mua hàng hóa bị kiểm soát",
+      "th": "การห้ามขายและซื้อสิ่งของควบคุม",
+      "id": "Larangan Penjualan dan Pembelian Barang Terkendali",
+      "ms": "Larangan Penjualan dan Pembelian Barang Kawalan"
+    },
+    "PROHIBITION OF USE OF STATEMENT, EXPRESSION OR INDICATION": {
+      "zh": "禁止使用特定语句、表述或标示",
+      "vi": "Cấm sử dụng lời tuyên bố, cách diễn đạt hoặc dấu hiệu",
+      "th": "การห้ามใช้ข้อความ ถ้อยคำ หรือเครื่องหมาย",
+      "id": "Larangan Penggunaan Pernyataan, Ungkapan, atau Indikasi",
+      "ms": "Larangan Penggunaan Kenyataan, Ungkapan atau Petunjuk"
+    },
+    "PROHIBITION ON SALE AND PURCHASE OF CONTROLLED ARTICLE": {
+      "zh": "禁止买卖受管制物品",
+      "vi": "Cấm bán và mua hàng hóa bị kiểm soát",
+      "th": "การห้ามขายและซื้อสิ่งของควบคุม",
+      "id": "Larangan atas Penjualan dan Pembelian Barang Terkendali",
+      "ms": "Larangan atas Penjualan dan Pembelian Barang Kawalan"
+    },
+    "PROHIBITION ON USE OF ROAD": {
+      "zh": "禁止使用道路",
+      "vi": "Cấm sử dụng đường",
+      "th": "การห้ามใช้ถนน",
+      "id": "Larangan Penggunaan Jalan",
+      "ms": "Larangan Penggunaan Jalan"
+    },
+    "REAL ESTATE INVESTMENT TRUSTS": {
+      "zh": "房地产投资信托",
+      "vi": "Tín thác đầu tư bất động sản",
+      "th": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์",
+      "id": "Perwalian Investasi Real Estat",
+      "ms": "Amanah Pelaburan Harta Tanah"
+    },
+    "REGISTERED BUSINESS": {
+      "zh": "注册业务",
+      "vi": "Cơ sở kinh doanh đã đăng ký",
+      "th": "ธุรกิจที่จดทะเบียน",
+      "id": "Usaha Terdaftar",
+      "ms": "Perniagaan Berdaftar"
+    },
+    "REMITTANCE SYSTEM APPROVED UNDER THE MONEY SERVICES BUSINESS ACT 2011": {
+      "zh": "依2011年货币服务业法核准的汇款系统",
+      "vi": "Hệ thống chuyển tiền được phê duyệt theo Luật Kinh doanh Dịch vụ Tiền tệ 2011",
+      "th": "ระบบการโอนเงินที่ได้รับอนุมัติภายใต้พระราชบัญญัติธุรกิจบริการเงินตรา ค.ศ. 2011",
+      "id": "Sistem Remitansi yang Disetujui berdasarkan Undang-Undang Usaha Jasa Keuangan 2011",
+      "ms": "Sistem Penghantaran Wang yang Diluluskan di bawah Akta Perniagaan Perkhidmatan Wang 2011"
+    },
+    "REQUIREMENTS AND SUBMISSION OF DOCUMENTS OR INFORMATION": {
+      "zh": "文件或信息的要求与提交",
+      "vi": "Yêu cầu và việc nộp tài liệu hoặc thông tin",
+      "th": "ข้อกำหนดและการยื่นเอกสารหรือข้อมูล",
+      "id": "Persyaratan dan Penyampaian Dokumen atau Informasi",
+      "ms": "Keperluan dan Penyerahan Dokumen atau Maklumat"
+    },
+    "RON 95 PETROL": {
+      "zh": "RON95汽油",
+      "vi": "Xăng RON 95",
+      "th": "น้ำมันเบนซิน RON 95",
+      "id": "Bensin RON 95",
+      "ms": "Petrol RON 95"
+    },
+    "SAFEGUARD MEASURE": {
+      "zh": "保障措施",
+      "vi": "Biện pháp tự vệ",
+      "th": "มาตรการปกป้อง",
+      "id": "Tindakan Pengamanan",
+      "ms": "Langkah Perlindungan"
+    },
+    "SCALE OF RATES": {
+      "zh": "费率表",
+      "vi": "Biểu mức phí",
+      "th": "ตารางอัตราค่าธรรมเนียม",
+      "id": "Skala Tarif",
+      "ms": "Skala Kadar"
+    },
+    "SECURITY COUNCIL RESOLUTIONS": {
+      "zh": "安全理事会决议",
+      "vi": "Các nghị quyết của Hội đồng Bảo an",
+      "th": "มติคณะมนตรีความมั่นคง",
+      "id": "Resolusi Dewan Keamanan",
+      "ms": "Resolusi Majlis Keselamatan"
+    },
+    "SLOW MOVING VEHICLES": {
+      "zh": "慢行车辆",
+      "vi": "Xe chạy chậm",
+      "th": "ยานพาหนะที่เคลื่อนที่ช้า",
+      "id": "Kendaraan Lambat",
+      "ms": "Kenderaan Perlahan"
+    },
+    "SPORTS TOTO": {
+      "zh": "体育多多博彩公司",
+      "vi": "Công ty Xổ số Thể thao Toto",
+      "th": "บริษัทสปอร์ตโตโต้",
+      "id": "Sports Toto",
+      "ms": "Sports Toto"
+    },
+    "STATION AND TRANSPORT HUB": {
+      "zh": "车站与交通枢纽",
+      "vi": "Ga và đầu mối giao thông",
+      "th": "สถานีและศูนย์กลางการขนส่ง",
+      "id": "Stasiun dan Simpul Transportasi",
+      "ms": "Stesen dan Hab Pengangkutan"
+    },
+    "SUBSIDIARY OF THE CORPORATION": {
+      "zh": "该公司的子公司",
+      "vi": "Công ty con của tổng công ty",
+      "th": "บริษัทย่อยของบรรษัท",
+      "id": "Anak Perusahaan Korporasi",
+      "ms": "Anak Syarikat Perbadanan"
+    },
+    "SUPPLEMENTARY SUPPLY": {
+      "zh": "追加拨款",
+      "vi": "Kinh phí bổ sung",
+      "th": "งบประมาณรายจ่ายเพิ่มเติม",
+      "id": "Peruntukan Tambahan",
+      "ms": "Peruntukan Tambahan"
+    },
+    "SWEETENED BEVERAGES": {
+      "zh": "含糖饮料",
+      "vi": "Đồ uống có đường",
+      "th": "เครื่องดื่มที่มีน้ำตาล",
+      "id": "Minuman Berpemanis",
+      "ms": "Minuman Bergula"
+    },
+    "TEACHERS PROVIDENT FUND": {
+      "zh": "教师公积金",
+      "vi": "Quỹ Tiết kiệm Giáo viên",
+      "th": "กองทุนสำรองเลี้ยงชีพครู",
+      "id": "Dana Simpanan Guru",
+      "ms": "Kumpulan Wang Simpanan Guru"
+    },
+    "TERMINAL LICENSING": {
+      "zh": "终端发牌",
+      "vi": "Cấp phép bến bãi",
+      "th": "การออกใบอนุญาตสถานีรับส่ง",
+      "id": "Perizinan Terminal",
+      "ms": "Pelesenan Terminal"
+    },
+    "TRANSPACIFIC JOINT VENTURE AGREEMENT BETWEEN ALL NIPPON AIRWAYS CO., LTD. AND UNITED AIRLINES, INC.": {
+      "zh": "全日空株式会社与美国联合航空股份有限公司之间的跨太平洋合资协议",
+      "vi": "Hiệp định liên doanh xuyên Thái Bình Dương giữa All Nippon Airways Co., Ltd. và United Airlines, Inc.",
+      "th": "ข้อตกลงร่วมทุนข้ามแปซิฟิกระหว่าง All Nippon Airways Co., Ltd. และ United Airlines, Inc.",
+      "id": "Perjanjian Usaha Patungan Trans-Pasifik antara All Nippon Airways Co., Ltd. dan United Airlines, Inc.",
+      "ms": "Perjanjian Usaha Sama Trans-Pasifik antara All Nippon Airways Co., Ltd. dan United Airlines, Inc."
+    },
+    "TRANSPACIFIC JOINT VENTURE AGREEMENT BETWEEN ALL NIPPON AIRWAYS CO., LTD. AND UNITED AIRLINES, LTD.": {
+      "zh": "全日空株式会社与美国联合航空有限公司之间的跨太平洋合资协议",
+      "vi": "Hiệp định liên doanh xuyên Thái Bình Dương giữa All Nippon Airways Co., Ltd. và United Airlines, Ltd.",
+      "th": "ข้อตกลงร่วมทุนข้ามแปซิฟิกระหว่าง All Nippon Airways Co., Ltd. และ United Airlines, Ltd.",
+      "id": "Perjanjian Usaha Patungan Trans-Pasifik antara All Nippon Airways Co., Ltd. dan United Airlines, Ltd.",
+      "ms": "Perjanjian Usaha Sama Trans-Pasifik antara All Nippon Airways Co., Ltd. dan United Airlines, Ltd."
+    },
+    "UNDERGROUND LAND": {
+      "zh": "地下土地",
+      "vi": "Đất ngầm",
+      "th": "ที่ดินใต้ดิน",
+      "id": "Tanah Bawah Tanah",
+      "ms": "Tanah Bawah Tanah"
+    },
+    "UNIVERSITI KEBANGSAAN MALAYSIA": {
+      "zh": "马来西亚国民大学",
+      "vi": "Đại học Kebangsaan Malaysia",
+      "th": "มหาวิทยาลัยเกอบังซาอันมาเลเซีย",
+      "id": "Universitas Kebangsaan Malaysia",
+      "ms": "Universiti Kebangsaan Malaysia"
+    },
+    "UNIVERSITI MALAYSIA KELANTAN": {
+      "zh": "马来西亚吉兰丹大学",
+      "vi": "Đại học Malaysia Kelantan",
+      "th": "มหาวิทยาลัยมาเลเซียกลันตัน",
+      "id": "Universitas Malaysia Kelantan",
+      "ms": "Universiti Malaysia Kelantan"
+    },
+    "UNIVERSITI MALAYSIA PAHANG": {
+      "zh": "马来西亚彭亨大学",
+      "vi": "Đại học Malaysia Pahang",
+      "th": "มหาวิทยาลัยมาเลเซียปะหัง",
+      "id": "Universitas Malaysia Pahang",
+      "ms": "Universiti Malaysia Pahang"
+    },
+    "UNIVERSITI MALAYSIA PERLIS": {
+      "zh": "马来西亚玻璃市大学",
+      "vi": "Đại học Malaysia Perlis",
+      "th": "มหาวิทยาลัยมาเลเซียเปอร์ลิส",
+      "id": "Universitas Malaysia Perlis",
+      "ms": "Universiti Malaysia Perlis"
+    },
+    "UNIVERSITI MALAYSIA SABAH": {
+      "zh": "马来西亚沙巴大学",
+      "vi": "Đại học Malaysia Sabah",
+      "th": "มหาวิทยาลัยมาเลเซียซาบาห์",
+      "id": "Universitas Malaysia Sabah",
+      "ms": "Universiti Malaysia Sabah"
+    },
+    "UNIVERSITI MALAYSIA SARAWAK": {
+      "zh": "马来西亚砂拉越大学",
+      "vi": "Đại học Malaysia Sarawak",
+      "th": "มหาวิทยาลัยมาเลเซียซาราวัก",
+      "id": "Universitas Malaysia Sarawak",
+      "ms": "Universiti Malaysia Sarawak"
+    },
+    "UNIVERSITI MALAYSIA TERENGGANU": {
+      "zh": "马来西亚登嘉楼大学",
+      "vi": "Đại học Malaysia Terengganu",
+      "th": "มหาวิทยาลัยมาเลเซียตรังกานู",
+      "id": "Universitas Malaysia Terengganu",
+      "ms": "Universiti Malaysia Terengganu"
+    },
+    "UNIVERSITI PENDIDIKAN SULTAN IDRIS": {
+      "zh": "苏丹依德里斯教育大学",
+      "vi": "Đại học Sư phạm Sultan Idris",
+      "th": "มหาวิทยาลัยครุศาสตร์สุลต่านอิดริส",
+      "id": "Universitas Pendidikan Sultan Idris",
+      "ms": "Universiti Pendidikan Sultan Idris"
+    },
+    "UNIVERSITI PUTRA MALAYSIA": {
+      "zh": "马来西亚博特拉大学",
+      "vi": "Đại học Putra Malaysia",
+      "th": "มหาวิทยาลัยปุตรามาเลเซีย",
+      "id": "Universitas Putra Malaysia",
+      "ms": "Universiti Putra Malaysia"
+    },
+    "UNIVERSITI SAINS ISLAM MALAYSIA": {
+      "zh": "马来西亚伊斯兰理科大学",
+      "vi": "Đại học Khoa học Hồi giáo Malaysia",
+      "th": "มหาวิทยาลัยวิทยาศาสตร์อิสลามมาเลเซีย",
+      "id": "Universitas Sains Islam Malaysia",
+      "ms": "Universiti Sains Islam Malaysia"
+    },
+    "UNIVERSITI SAINS MALAYSIA": {
+      "zh": "马来西亚理科大学",
+      "vi": "Đại học Khoa học Malaysia",
+      "th": "มหาวิทยาลัยวิทยาศาสตร์มาเลเซีย",
+      "id": "Universitas Sains Malaysia",
+      "ms": "Universiti Sains Malaysia"
+    },
+    "UNIVERSITI SULTAN ZAINAL ABIDIN": {
+      "zh": "苏丹再纳阿比丁大学",
+      "vi": "Đại học Sultan Zainal Abidin",
+      "th": "มหาวิทยาลัยสุลต่านไซนัลอาบิดิน",
+      "id": "Universitas Sultan Zainal Abidin",
+      "ms": "Universiti Sultan Zainal Abidin"
+    },
+    "UNIVERSITI TEKNIKAL MALAYSIA MELAKA": {
+      "zh": "马来西亚马六甲技术大学",
+      "vi": "Đại học Kỹ thuật Malaysia Melaka",
+      "th": "มหาวิทยาลัยเทคนิคมาเลเซียเมอลากา",
+      "id": "Universitas Teknikal Malaysia Melaka",
+      "ms": "Universiti Teknikal Malaysia Melaka"
+    },
+    "UNIVERSITI TEKNOLOGI MALAYSIA": {
+      "zh": "马来西亚理工大学",
+      "vi": "Đại học Công nghệ Malaysia",
+      "th": "มหาวิทยาลัยเทคโนโลยีมาเลเซีย",
+      "id": "Universitas Teknologi Malaysia",
+      "ms": "Universiti Teknologi Malaysia"
+    },
+    "UNIVERSITI TUN HUSSEIN ONN MALAYSIA": {
+      "zh": "马来西亚敦胡先翁大学",
+      "vi": "Đại học Tun Hussein Onn Malaysia",
+      "th": "มหาวิทยาลัยตุนฮุสเซนออนมาเลเซีย",
+      "id": "Universitas Tun Hussein Onn Malaysia",
+      "ms": "Universiti Tun Hussein Onn Malaysia"
+    },
+    "UNIVERSITY OF MALAYA": {
+      "zh": "马来亚大学",
+      "vi": "Đại học Malaya",
+      "th": "มหาวิทยาลัยมาลายา",
+      "id": "Universitas Malaya",
+      "ms": "Universiti Malaya"
+    },
+    "VARIATION OF AND ADDITION TO, THE CONSTITUTION": {
+      "zh": "章程的变更与增补",
+      "vi": "Thay đổi và bổ sung Hiến chương",
+      "th": "การแก้ไขเพิ่มเติมและเพิ่มเติมข้อบังคับ",
+      "id": "Perubahan dan Penambahan Anggaran Dasar",
+      "ms": "Perubahan dan Tambahan Perlembagaan"
+    },
+    "VARIATION OF AND ADDITION TO, THECONSTITUTION": {
+      "zh": "章程的变更与增补",
+      "vi": "Thay đổi và bổ sung Hiến chương",
+      "th": "การแก้ไขเพิ่มเติมและเพิ่มเติมข้อบังคับ",
+      "id": "Perubahan dan Penambahan Anggaran Dasar",
+      "ms": "Perubahan dan Tambahan Perlembagaan"
+    },
+    "VARIATION OF, AND ADDITION TO, THE CONSTITUTION": {
+      "zh": "章程的变更与增补",
+      "vi": "Thay đổi và bổ sung Hiến chương",
+      "th": "การแก้ไขเพิ่มเติมและเพิ่มเติมข้อบังคับ",
+      "id": "Perubahan dan Penambahan Anggaran Dasar",
+      "ms": "Perubahan dan Tambahan Perlembagaan"
+    },
+    "WHOLESALE FUND": {
+      "zh": "批发基金",
+      "vi": "Quỹ bán buôn",
+      "th": "กองทุนขายส่ง",
+      "id": "Dana Grosir",
+      "ms": "Dana Borong"
+    },
+    "WINDING UP": {
+      "zh": "清盘",
+      "vi": "Giải thể",
+      "th": "การชำระบัญชี",
+      "id": "Likuidasi",
+      "ms": "Penggulungan"
+    },
+    "WOMEN RETURNING TO WORK AFTER CEASING FROM EMPLOYMENT TEMPORARILY": {
+      "zh": "暂离职场后重返工作的妇女",
+      "vi": "Phụ nữ trở lại làm việc sau khi tạm nghỉ việc",
+      "th": "สตรีที่กลับเข้าทำงานหลังหยุดงานชั่วคราว",
+      "id": "Perempuan yang Kembali Bekerja setelah Berhenti Sementara",
+      "ms": "Wanita yang Kembali Bekerja selepas Berhenti Kerja Sementara"
+    }
+  }
+}

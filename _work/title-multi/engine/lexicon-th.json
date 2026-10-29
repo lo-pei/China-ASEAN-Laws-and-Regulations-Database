@@ -1,0 +1,16 @@
+{
+  "types": {
+    "พระราชบัญญัติประกอบรัฐธรรมนูญ": { "zh": "组织法", "en": "Organic Act", "vi": "Luật Tổ chức", "id": "Undang-Undang Organik", "ms": "Akta Organik" },
+    "พระราชบัญญัติ": { "zh": "法", "en": "Act", "vi": "Luật", "id": "Undang-Undang", "ms": "Akta" },
+    "พระราชกำหนด": { "zh": "紧急法令", "en": "Emergency Decree", "vi": "Sắc lệnh khẩn cấp", "id": "Peraturan Darurat", "ms": "Ordinan Darurat" },
+    "พระราชกฤษฎีกา": { "zh": "敕令", "en": "Royal Decree", "vi": "Nghị định Hoàng gia", "id": "Peraturan Kerajaan", "ms": "Peraturan Diraja" },
+    "ประมวลกฎหมาย": { "zh": "法典", "en": "Code", "vi": "Bộ luật", "id": "Kitab Undang-Undang", "ms": "Kanun" },
+    "รัฐธรรมนูญ": { "zh": "宪法", "en": "Constitution", "vi": "Hiến pháp", "id": "Undang-Undang Dasar", "ms": "Perlembagaan" },
+    "กฎกระทรวง": { "zh": "部令", "en": "Ministerial Regulation", "vi": "Quy định của Bộ", "id": "Peraturan Menteri", "ms": "Peraturan Menteri" },
+    "ข้อบังคับ": { "zh": "规章", "en": "Regulation", "vi": "Quy chế", "id": "Peraturan", "ms": "Peraturan" },
+    "ระเบียบ": { "zh": "条例", "en": "Regulation", "vi": "Quy chế", "id": "Peraturan", "ms": "Peraturan" },
+    "ประกาศ": { "zh": "公告", "en": "Notification", "vi": "Thông báo", "id": "Pengumuman", "ms": "Pemberitahuan" },
+    "คำสั่ง": { "zh": "命令", "en": "Order", "vi": "Lệnh", "id": "Perintah", "ms": "Perintah" },
+    "มติ": { "zh": "决议", "en": "Resolution", "vi": "Nghị quyết", "id": "Resolusi", "ms": "Resolusi" }
+  }
+}

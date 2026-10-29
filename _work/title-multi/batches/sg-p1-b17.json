@@ -1,0 +1,541 @@
+{
+ "batch": "sg-p1-b17",
+ "note": "SG 尾段：体裁 + 母法 + 括注 组合合成",
+ "count": 89,
+ "items": {
+  "SG-H1683": {
+   "vi": "Luật Chất thải nguy hại (Kiểm soát xuất khẩu, nhập khẩu và quá cảnh) 1997",
+   "th": "พระราชบัญญัติของเสียอันตราย (การควบคุมการส่งออก การนำเข้า และการขนถ่ายผ่านแดน) 1997",
+   "id": "Undang-Undang tentang Limbah Bahan Berbahaya (Pengendalian Ekspor, Impor dan Transit) 1997",
+   "ms": "Akta Sisa Berbahaya (Kawalan Eksport, Import dan Transit) 1997"
+  },
+  "SG-H1684": {
+   "vi": "Quy chế Chất thải nguy hại (Kiểm soát xuất khẩu, nhập khẩu và quá cảnh) 1998",
+   "th": "ข้อบังคับของเสียอันตราย (การควบคุมการส่งออก การนำเข้า และการขนถ่ายผ่านแดน) 1998",
+   "id": "Peraturan Limbah Bahan Berbahaya (Pengendalian Ekspor, Impor dan Transit) 1998",
+   "ms": "Peraturan Sisa Berbahaya (Kawalan Eksport, Import dan Transit) 1998"
+  },
+  "SG-H1696": {
+   "vi": "Quy chế Sản phẩm y tế (Giấy chứng nhận thực hành sản xuất tốt — Sản phẩm mỹ phẩm) 2011",
+   "th": "ข้อบังคับผลิตภัณฑ์สุขภาพ (หนังสือรับรองหลักเกณฑ์วิธีการผลิตที่ดี — ผลิตภัณฑ์เครื่องสำอาง) 2011",
+   "id": "Peraturan Produk Kesehatan (Sertifikat Cara Pembuatan yang Baik — Produk Kosmetik) 2011",
+   "ms": "Peraturan Produk Kesihatan (Sijil Amalan Pengilangan Baik — Produk Kosmetik) 2011"
+  },
+  "SG-H1697": {
+   "vi": "Quy chế Sản phẩm y tế (Cấp phép nhà thuốc bán lẻ) 2016",
+   "th": "ข้อบังคับผลิตภัณฑ์สุขภาพ (การออกใบอนุญาตร้านขายยา) 2016",
+   "id": "Peraturan Produk Kesehatan (Perizinan Apotek Ritel) 2016",
+   "ms": "Peraturan Produk Kesihatan (Pelesenan Farmasi Runcit) 2016"
+  },
+  "SG-H1698": {
+   "vi": "Lệnh Sản phẩm y tế (Trang thiết bị y tế và sản phẩm trị liệu cho đoàn đại biểu World Aquatics — Miễn trừ) 2025",
+   "th": "คำสั่งผลิตภัณฑ์สุขภาพ (อุปกรณ์การแพทย์และผลิตภัณฑ์บำบัดสำหรับคณะผู้แทน World Aquatics — การยกเว้น) 2025",
+   "id": "Perintah Produk Kesehatan (Perangkat Medis dan Produk Terapeutik bagi Delegasi World Aquatics — Pembebasan) 2025",
+   "ms": "Perintah Produk Kesihatan (Peranti Perubatan dan Produk Terapeutik bagi Delegasi World Aquatics — Pengecualian) 2025"
+  },
+  "SG-H1699": {
+   "vi": "Quy chế Sản phẩm y tế (Trang thiết bị y tế) 2010",
+   "th": "ข้อบังคับผลิตภัณฑ์สุขภาพ (อุปกรณ์การแพทย์) 2010",
+   "id": "Peraturan Produk Kesehatan (Perangkat Medis) 2010",
+   "ms": "Peraturan Produk Kesihatan (Peranti Perubatan) 2010"
+  },
+  "SG-H1700": {
+   "vi": "Quy chế Sản phẩm y tế (Kẹo cao su nha khoa) 2016",
+   "th": "ข้อบังคับผลิตภัณฑ์สุขภาพ (หมากฝรั่งทางทันตกรรม) 2016",
+   "id": "Peraturan Produk Kesehatan (Permen Karet Gigi) 2016",
+   "ms": "Peraturan Produk Kesihatan (Gula-gula Getah Pergigian) 2016"
+  },
+  "SG-H1701": {
+   "vi": "Lệnh Sản phẩm y tế (Cung cấp trang thiết bị y tế — Miễn trừ) 2022",
+   "th": "คำสั่งผลิตภัณฑ์สุขภาพ (การจัดหาอุปกรณ์การแพทย์ — การยกเว้น) 2022",
+   "id": "Perintah Produk Kesehatan (Pasokan Perangkat Medis — Pembebasan) 2022",
+   "ms": "Perintah Produk Kesihatan (Pembekalan Peranti Perubatan — Pengecualian) 2022"
+  },
+  "SG-H1702": {
+   "vi": "Quy chế Sản phẩm y tế (Sản phẩm trị liệu) 2016",
+   "th": "ข้อบังคับผลิตภัณฑ์สุขภาพ (ผลิตภัณฑ์บำบัด) 2016",
+   "id": "Peraturan Produk Kesehatan (Produk Terapeutik) 2016",
+   "ms": "Peraturan Produk Kesihatan (Produk Terapeutik) 2016"
+  },
+  "SG-H1721": {
+   "vi": "Lệnh Dịch vụ chăm sóc sức khỏe (Miễn trừ cho tiêm phòng cúm tại nhà thuốc bán lẻ được chấp thuận) 2024",
+   "th": "คำสั่งบริการสุขภาพ (การยกเว้นสำหรับการฉีดวัคซีนไข้หวัดใหญ่ที่ร้านขายยาที่ได้รับอนุมัติ) 2024",
+   "id": "Perintah Layanan Kesehatan (Pembebasan bagi Vaksinasi Influenza di Apotek Ritel yang Disetujui) 2024",
+   "ms": "Perintah Perkhidmatan Penjagaan Kesihatan (Pengecualian bagi Vaksinasi Influenza di Farmasi Runcit yang Diluluskan) 2024"
+  },
+  "SG-H1725": {
+   "vi": "Quy chế Dịch vụ chăm sóc sức khỏe (Dịch vụ ngân hàng mô người) 2023",
+   "th": "ข้อบังคับบริการสุขภาพ (บริการธนาคารเนื้อเยื่อมนุษย์) 2023",
+   "id": "Peraturan Layanan Kesehatan (Layanan Bank Jaringan Manusia) 2023",
+   "ms": "Peraturan Perkhidmatan Penjagaan Kesihatan (Perkhidmatan Bank Tisu Manusia) 2023"
+  },
+  "SG-H1726": {
+   "vi": "Lệnh Dịch vụ chăm sóc sức khỏe (Viện Sức khỏe Tâm thần) (Miễn trừ) 2023",
+   "th": "คำสั่งบริการสุขภาพ (สถาบันสุขภาพจิต) (การยกเว้น) 2023",
+   "id": "Perintah Layanan Kesehatan (Institut Kesehatan Jiwa) (Pembebasan) 2023",
+   "ms": "Perintah Perkhidmatan Penjagaan Kesihatan (Institut Kesihatan Mental) (Pengecualian) 2023"
+  },
+  "SG-H1727": {
+   "vi": "Lệnh Dịch vụ chăm sóc sức khỏe (National University Hospital (Singapore) Pte Ltd — Miễn trừ) 2023",
+   "th": "คำสั่งบริการสุขภาพ (National University Hospital (Singapore) Pte Ltd — การยกเว้น) 2023",
+   "id": "Perintah Layanan Kesehatan (National University Hospital (Singapore) Pte Ltd — Pembebasan) 2023",
+   "ms": "Perintah Perkhidmatan Penjagaan Kesihatan (National University Hospital (Singapore) Pte Ltd — Pengecualian) 2023"
+  },
+  "SG-H1728": {
+   "vi": "Quy chế Dịch vụ chăm sóc sức khỏe (Dịch vụ y học hạt nhân) 2023",
+   "th": "ข้อบังคับบริการสุขภาพ (บริการเวชศาสตร์นิวเคลียร์) 2023",
+   "id": "Peraturan Layanan Kesehatan (Layanan Kedokteran Nuklir) 2023",
+   "ms": "Peraturan Perkhidmatan Penjagaan Kesihatan (Perkhidmatan Perubatan Nuklear) 2023"
+  },
+  "SG-H1729": {
+   "vi": "Quy chế Dịch vụ chăm sóc sức khỏe (Dịch vụ nhà dưỡng lão) 2023",
+   "th": "ข้อบังคับบริการสุขภาพ (บริการสถานพยาบาลผู้สูงอายุ) 2023",
+   "id": "Peraturan Layanan Kesehatan (Layanan Panti Jompo) 2023",
+   "ms": "Peraturan Perkhidmatan Penjagaan Kesihatan (Perkhidmatan Rumah Jagaan) 2023"
+  },
+  "SG-H1730": {
+   "vi": "Quy chế Dịch vụ chăm sóc sức khỏe (Dịch vụ nha khoa ngoại trú) 2023",
+   "th": "ข้อบังคับบริการสุขภาพ (บริการทันตกรรมผู้ป่วยนอก) 2023",
+   "id": "Peraturan Layanan Kesehatan (Layanan Gigi Rawat Jalan) 2023",
+   "ms": "Peraturan Perkhidmatan Penjagaan Kesihatan (Perkhidmatan Pergigian Pesakit Luar) 2023"
+  },
+  "SG-H1731": {
+   "vi": "Quy chế Dịch vụ chăm sóc sức khỏe (Dịch vụ y tế ngoại trú) 2023",
+   "th": "ข้อบังคับบริการสุขภาพ (บริการทางการแพทย์ผู้ป่วยนอก) 2023",
+   "id": "Peraturan Layanan Kesehatan (Layanan Medis Rawat Jalan) 2023",
+   "ms": "Peraturan Perkhidmatan Penjagaan Kesihatan (Perkhidmatan Perubatan Pesakit Luar) 2023"
+  },
+  "SG-H1732": {
+   "vi": "Quy chế Dịch vụ chăm sóc sức khỏe (Dịch vụ lọc thận ngoại trú) 2023",
+   "th": "ข้อบังคับบริการสุขภาพ (บริการฟอกไตผู้ป่วยนอก) 2023",
+   "id": "Peraturan Layanan Kesehatan (Layanan Dialisis Ginjal Rawat Jalan) 2023",
+   "ms": "Peraturan Perkhidmatan Penjagaan Kesihatan (Perkhidmatan Dialisis Buah Pinggang Pesakit Luar) 2023"
+  },
+  "SG-H1734": {
+   "vi": "Quy chế Dịch vụ chăm sóc sức khỏe (Quy định bảo lưu và chuyển tiếp) 2021",
+   "th": "ข้อบังคับบริการสุขภาพ (บทบัญญัติการสงวนสิทธิและเฉพาะกาล) 2021",
+   "id": "Peraturan Layanan Kesehatan (Ketentuan Penyimpanan Hak dan Peralihan) 2021",
+   "ms": "Peraturan Perkhidmatan Penjagaan Kesihatan (Peruntukan Pemeliharaan dan Peralihan) 2021"
+  },
+  "SG-H1735": {
+   "vi": "Quy chế Dịch vụ chăm sóc sức khỏe (Quy định bảo lưu và chuyển tiếp) 2023",
+   "th": "ข้อบังคับบริการสุขภาพ (บทบัญญัติการสงวนสิทธิและเฉพาะกาล) 2023",
+   "id": "Peraturan Layanan Kesehatan (Ketentuan Penyimpanan Hak dan Peralihan) 2023",
+   "ms": "Peraturan Perkhidmatan Penjagaan Kesihatan (Peruntukan Pemeliharaan dan Peralihan) 2023"
+  },
+  "SG-H1736": {
+   "vi": "Luật Tòa án Tối cao (Thẩm quyền hàng hải) 1961",
+   "th": "พระราชบัญญัติศาลสูง (เขตอำนาจทางทะเล) 1961",
+   "id": "Undang-Undang tentang Pengadilan Tinggi (Yurisdiksi Kelautan) 1961",
+   "ms": "Akta Mahkamah Tinggi (Bidang Kuasa Admiraliti) 1961"
+  },
+  "SG-H1746": {
+   "vi": "Quy chế Thuê mua (Xe cơ giới) 2013",
+   "th": "ข้อบังคับเช่าซื้อ (ยานยนต์) 2013",
+   "id": "Peraturan Sewa Beli (Kendaraan Bermotor) 2013",
+   "ms": "Peraturan Sewa Beli (Kenderaan Bermotor) 2013"
+  },
+  "SG-H1749": {
+   "vi": "Quy chế Dịch vụ đồng phục Bộ Nội vụ (Quỹ INVEST)",
+   "th": "ข้อบังคับบริการเครื่องแบบกระทรวงมหาดไทย (กองทุน INVEST)",
+   "id": "Peraturan Layanan Berseragam Dalam Negeri (Dana INVEST)",
+   "ms": "Peraturan Perkhidmatan Beruniform Hal Ehwal Dalam Negeri (Dana INVEST)"
+  },
+  "SG-H1750": {
+   "vi": "Quy chế Dịch vụ đồng phục Bộ Nội vụ (Kế hoạch INVEST)",
+   "th": "ข้อบังคับบริการเครื่องแบบกระทรวงมหาดไทย (แผน INVEST)",
+   "id": "Peraturan Layanan Berseragam Dalam Negeri (Rencana INVEST)",
+   "ms": "Peraturan Perkhidmatan Beruniform Hal Ehwal Dalam Negeri (Pelan INVEST)"
+  },
+  "SG-H1752": {
+   "vi": "Quy chế Đoàn Thanh niên Lực lượng Nội vụ (Huân chương phục vụ lâu năm) 2018",
+   "th": "ข้อบังคับกองกำลังเยาวชนกิจการภายใน (เหรียญราชการยาวนาน) 2018",
+   "id": "Peraturan Kor Pasukan Dalam Negeri (Medali Pengabdian Lama) 2018",
+   "ms": "Peraturan Kor Pasukan Dalam Negeri (Pingat Perkhidmatan Lama) 2018"
+  },
+  "SG-H1753": {
+   "vi": "Quy chế Đoàn Thanh niên Lực lượng Nội vụ (Huân chương phục vụ) 2018",
+   "th": "ข้อบังคับกองกำลังเยาวชนกิจการภายใน (เหรียญราชการ) 2018",
+   "id": "Peraturan Kor Pasukan Dalam Negeri (Medali Pengabdian) 2018",
+   "ms": "Peraturan Kor Pasukan Dalam Negeri (Pingat Perkhidmatan) 2018"
+  },
+  "SG-H1756": {
+   "vi": "Lệnh Cơ quan Khoa học và Công nghệ Nội chính (Ngày chuyển giao) 2019",
+   "th": "คำสั่งองค์การวิทยาศาสตร์และเทคโนโลยีฝ่ายกิจการภายใน (วันที่โอน) 2019",
+   "id": "Perintah Badan Ilmu Pengetahuan dan Teknologi Tim Dalam Negeri (Tanggal Pengalihan) 2019",
+   "ms": "Perintah Agensi Sains dan Teknologi Pasukan Dalam Negeri (Tarikh Pindahan) 2019"
+  },
+  "SG-H1790": {
+   "vi": "Thông báo Nhà ở và Phát triển (Miễn trừ theo Điều 50(1) của Luật) 2023",
+   "th": "ประกาศที่อยู่อาศัยและการพัฒนา (การยกเว้นตามมาตรา 50(1) แห่งพระราชบัญญัติ) 2023",
+   "id": "Pemberitahuan Perumahan dan Pembangunan (Pembebasan dari Pasal 50(1) Undang-Undang) 2023",
+   "ms": "Pemberitahuan Perumahan dan Pembangunan (Pengecualian daripada Seksyen 50(1) Akta) 2023"
+  },
+  "SG-H1792": {
+   "vi": "Quy tắc Nhà ở và Phát triển (Lãi và tiền phạt do chậm nộp khoản đóng góp cải thiện)",
+   "th": "กฎที่อยู่อาศัยและการพัฒนา (ดอกเบี้ยและค่าปรับสำหรับการชำระเงินสมทบปรับปรุงล่าช้า)",
+   "id": "Peraturan Perumahan dan Pembangunan (Bunga dan Denda atas Keterlambatan Pembayaran Iuran Perbaikan)",
+   "ms": "Kaedah Perumahan dan Pembangunan (Faedah dan Penalti bagi Kelewatan Bayaran Sumbangan Penambahbaikan)"
+  },
+  "SG-H1793": {
+   "vi": "Lệnh Nhà ở và Phát triển (Tổng công ty Thị trấn Jurong)",
+   "th": "คำสั่งที่อยู่อาศัยและการพัฒนา (บรรษัทเมืองจูร่ง)",
+   "id": "Perintah Perumahan dan Pembangunan (Korporasi Kota Jurong)",
+   "ms": "Perintah Perumahan dan Pembangunan (Perbadanan Bandar Jurong)"
+  },
+  "SG-H1794": {
+   "vi": "Thông báo Nhà ở và Phát triển (Phí bảo trì và tiền thuê — Bất động sản thương mại và quầy hàng rong)",
+   "th": "ประกาศที่อยู่อาศัยและการพัฒนา (ค่าบำรุงรักษาและค่าเช่า — อสังหาริมทรัพย์เชิงพาณิชย์และแผงลอย)",
+   "id": "Pemberitahuan Perumahan dan Pembangunan (Biaya Pemeliharaan dan Sewa — Properti Komersial dan Kios Pedagang Kaki Lima)",
+   "ms": "Pemberitahuan Perumahan dan Pembangunan (Fi Penyelenggaraan dan Sewa — Hartanah Komersial dan Gerai Penjaja)"
+  },
+  "SG-H1795": {
+   "vi": "Quy tắc Nhà ở và Phát triển (Thế chấp cho bên cho vay)",
+   "th": "กฎที่อยู่อาศัยและการพัฒนา (การจำนองแก่ผู้ให้กู้)",
+   "id": "Peraturan Perumahan dan Pembangunan (Hipotek kepada Pemberi Pinjaman)",
+   "ms": "Kaedah Perumahan dan Pembangunan (Gadai Janji kepada Pemberi Pinjaman)"
+  },
+  "SG-H1796": {
+   "vi": "Lệnh Nhà ở và Phát triển (NTUC Income Insurance Co-operative Limited)",
+   "th": "คำสั่งที่อยู่อาศัยและการพัฒนา (NTUC Income Insurance Co-operative Limited)",
+   "id": "Perintah Perumahan dan Pembangunan (NTUC Income Insurance Co-operative Limited)",
+   "ms": "Perintah Perumahan dan Pembangunan (NTUC Income Insurance Co-operative Limited)"
+  },
+  "SG-H1797": {
+   "vi": "Quy tắc Nhà ở và Phát triển (Tiền phạt do chậm nộp — Chợ và trung tâm thực phẩm)",
+   "th": "กฎที่อยู่อาศัยและการพัฒนา (ค่าปรับสำหรับการชำระล่าช้า — ตลาดและศูนย์อาหาร)",
+   "id": "Peraturan Perumahan dan Pembangunan (Denda atas Keterlambatan Pembayaran — Pasar dan Pusat Makanan)",
+   "ms": "Kaedah Perumahan dan Pembangunan (Penalti bagi Kelewatan Bayaran — Pasaran dan Pusat Makanan)"
+  },
+  "SG-H1798": {
+   "vi": "Quy tắc Nhà ở và Phát triển (Tiền phạt do chậm nộp)",
+   "th": "กฎที่อยู่อาศัยและการพัฒนา (ค่าปรับสำหรับการชำระล่าช้า)",
+   "id": "Peraturan Perumahan dan Pembangunan (Denda atas Keterlambatan Pembayaran)",
+   "ms": "Kaedah Perumahan dan Pembangunan (Penalti bagi Kelewatan Bayaran)"
+  },
+  "SG-H1799": {
+   "vi": "Quy tắc Nhà ở và Phát triển (Tiền phạt — Căn hộ cho thuê) 2010",
+   "th": "กฎที่อยู่อาศัยและการพัฒนา (ค่าปรับ — แฟลตเช่า) 2010",
+   "id": "Peraturan Perumahan dan Pembangunan (Denda — Flat Sewa) 2010",
+   "ms": "Kaedah Perumahan dan Pembangunan (Penalti — Flat Sewa) 2010"
+  },
+  "SG-H1800": {
+   "vi": "Quy tắc Nhà ở và Phát triển (Bỏ phiếu về công trình nâng cấp)",
+   "th": "กฎที่อยู่อาศัยและการพัฒนา (การลงคะแนนเสียงสำหรับงานปรับปรุง)",
+   "id": "Peraturan Perumahan dan Pembangunan (Pemungutan Suara untuk Pekerjaan Peningkatan)",
+   "ms": "Kaedah Perumahan dan Pembangunan (Pengundian untuk Kerja Naik Taraf)"
+  },
+  "SG-H1853": {
+   "vi": "Lệnh Nhà ở và Phát triển (Khu vực thực hiện công trình nâng cấp) (Chương trình làm mới cửa hàng) (Số 2) 2025",
+   "th": "คำสั่งที่อยู่อาศัยและการพัฒนา (เขตพื้นที่งานปรับปรุง) (โครงการฟื้นฟูร้านค้า) (ฉบับที่ 2) 2025",
+   "id": "Perintah Perumahan dan Pembangunan (Kawasan Pekerjaan Peningkatan) (Skema Revitalisasi Toko) (Nomor 2) 2025",
+   "ms": "Perintah Perumahan dan Pembangunan (Kawasan Kerja Naik Taraf) (Skim Pemulihan Kedai) (No. 2) 2025"
+  },
+  "SG-H1854": {
+   "vi": "Lệnh Nhà ở và Phát triển (Khu vực thực hiện công trình nâng cấp) (Chương trình làm mới cửa hàng) 2025",
+   "th": "คำสั่งที่อยู่อาศัยและการพัฒนา (เขตพื้นที่งานปรับปรุง) (โครงการฟื้นฟูร้านค้า) 2025",
+   "id": "Perintah Perumahan dan Pembangunan (Kawasan Pekerjaan Peningkatan) (Skema Revitalisasi Toko) 2025",
+   "ms": "Perintah Perumahan dan Pembangunan (Kawasan Kerja Naik Taraf) (Skim Pemulihan Kedai) 2025"
+  },
+  "SG-H1855": {
+   "vi": "Lệnh Nhà ở và Phát triển (Khu vực thực hiện công trình nâng cấp) (Chương trình làm mới cửa hàng) 2026",
+   "th": "คำสั่งที่อยู่อาศัยและการพัฒนา (เขตพื้นที่งานปรับปรุง) (โครงการฟื้นฟูร้านค้า) 2026",
+   "id": "Perintah Perumahan dan Pembangunan (Kawasan Pekerjaan Peningkatan) (Skema Revitalisasi Toko) 2026",
+   "ms": "Perintah Perumahan dan Pembangunan (Kawasan Kerja Naik Taraf) (Skim Pemulihan Kedai) 2026"
+  },
+  "SG-H1856": {
+   "vi": "Quy tắc Nhà ở và Phát triển (Kiểm soát cải tạo)",
+   "th": "กฎที่อยู่อาศัยและการพัฒนา (การควบคุมการตกแต่งใหม่)",
+   "id": "Peraturan Perumahan dan Pembangunan (Pengendalian Renovasi)",
+   "ms": "Kaedah Perumahan dan Pembangunan (Kawalan Pengubahsuaian)"
+  },
+  "SG-H1857": {
+   "vi": "Lệnh Nhà ở và Phát triển (Quỹ Lao động Singapore)",
+   "th": "คำสั่งที่อยู่อาศัยและการพัฒนา (มูลนิธิแรงงานสิงคโปร์)",
+   "id": "Perintah Perumahan dan Pembangunan (Yayasan Tenaga Kerja Singapura)",
+   "ms": "Perintah Perumahan dan Pembangunan (Yayasan Buruh Singapura)"
+  },
+  "SG-H1858": {
+   "vi": "Thông báo Nhà ở và Phát triển (Điều chỉnh phí bảo trì đối với cửa hàng thời kỳ trước chiến tranh tại khu nhà ở Tiong Bahru)",
+   "th": "ประกาศที่อยู่อาศัยและการพัฒนา (การเปลี่ยนแปลงค่าบำรุงรักษาสำหรับร้านค้าสมัยก่อนสงครามในนิคมที่อยู่อาศัยเตียงบาห์รู)",
+   "id": "Pemberitahuan Perumahan dan Pembangunan (Perubahan Biaya Pemeliharaan untuk Toko Era Prawar di Perumahan Tiong Bahru)",
+   "ms": "Pemberitahuan Perumahan dan Pembangunan (Perubahan Fi Penyelenggaraan untuk Kedai Zaman Praperang di Perumahan Tiong Bahru)"
+  },
+  "SG-H1859": {
+   "vi": "Thông báo Nhà ở và Phát triển (Điều chỉnh phí bảo trì đối với bất động sản nhà ở)",
+   "th": "ประกาศที่อยู่อาศัยและการพัฒนา (การเปลี่ยนแปลงค่าบำรุงรักษาสำหรับอสังหาริมทรัพย์ที่อยู่อาศัย)",
+   "id": "Pemberitahuan Perumahan dan Pembangunan (Perubahan Biaya Pemeliharaan untuk Properti Hunian)",
+   "ms": "Pemberitahuan Perumahan dan Pembangunan (Perubahan Fi Penyelenggaraan untuk Hartanah Kediaman)"
+  },
+  "SG-H1866": {
+   "vi": "Quy tắc Chủ đầu tư nhà ở (Phòng chống rửa tiền, tài trợ phổ biến vũ khí và tài trợ khủng bố) 2023",
+   "th": "กฎผู้พัฒนาที่อยู่อาศัย (การป้องกันการฟอกเงิน การระดมทุนเพื่อการแพร่ขยายอาวุธ และการระดมทุนเพื่อการก่อการร้าย) 2023",
+   "id": "Peraturan Pengembang Perumahan (Pencegahan Pencucian Uang, Pendanaan Proliferasi dan Pendanaan Terorisme) 2023",
+   "ms": "Kaedah Pemaju Perumahan (Pencegahan Pengubahan Wang Haram, Pembiayaan Percambahan dan Pembiayaan Keganasan) 2023"
+  },
+  "SG-H1867": {
+   "vi": "Quy tắc Chủ đầu tư nhà ở (Tài khoản dự án)",
+   "th": "กฎผู้พัฒนาที่อยู่อาศัย (บัญชีโครงการ)",
+   "id": "Peraturan Pengembang Perumahan (Akun Proyek)",
+   "ms": "Kaedah Pemaju Perumahan (Akaun Projek)"
+  },
+  "SG-H1868": {
+   "vi": "Quy tắc Chủ đầu tư nhà ở (Nhà mẫu) 2015",
+   "th": "กฎผู้พัฒนาที่อยู่อาศัย (ห้องตัวอย่าง) 2015",
+   "id": "Peraturan Pengembang Perumahan (Unit Contoh) 2015",
+   "ms": "Kaedah Pemaju Perumahan (Unit Contoh) 2015"
+  },
+  "SG-H1870": {
+   "vi": "Quy chế Nghiên cứu y sinh trên người (Yêu cầu về sự đồng ý phù hợp — Miễn trừ) 2019",
+   "th": "ข้อบังคับการวิจัยชีวการแพทย์ในมนุษย์ (ข้อกำหนดเกี่ยวกับความยินยอมที่เหมาะสม — การยกเว้น) 2019",
+   "id": "Peraturan Penelitian Biomedis Manusia (Persyaratan Persetujuan yang Layak — Pembebasan) 2019",
+   "ms": "Peraturan Penyelidikan Bioperubatan Manusia (Keperluan Persetujuan yang Wajar — Pengecualian) 2019"
+  },
+  "SG-H1871": {
+   "vi": "Quy chế Nghiên cứu y sinh trên người (Nghiên cứu bị hạn chế) 2017",
+   "th": "ข้อบังคับการวิจัยชีวการแพทย์ในมนุษย์ (การวิจัยที่ถูกจำกัด) 2017",
+   "id": "Peraturan Penelitian Biomedis Manusia (Penelitian Terbatas) 2017",
+   "ms": "Peraturan Penyelidikan Bioperubatan Manusia (Penyelidikan Terhad) 2017"
+  },
+  "SG-H1872": {
+   "vi": "Quy chế Nghiên cứu y sinh trên người (Ngân hàng mô và thông báo — Miễn trừ) 2019",
+   "th": "ข้อบังคับการวิจัยชีวการแพทย์ในมนุษย์ (ธนาคารเนื้อเยื่อและการแจ้ง — การยกเว้น) 2019",
+   "id": "Peraturan Penelitian Biomedis Manusia (Bank Jaringan dan Pemberitahuan — Pembebasan) 2019",
+   "ms": "Peraturan Penyelidikan Bioperubatan Manusia (Bank Tisu dan Pemberitahuan — Pengecualian) 2019"
+  },
+  "SG-H1873": {
+   "vi": "Quy chế Nghiên cứu y sinh trên người (Ngân hàng mô) 2019",
+   "th": "ข้อบังคับการวิจัยชีวการแพทย์ในมนุษย์ (ธนาคารเนื้อเยื่อ) 2019",
+   "id": "Peraturan Penelitian Biomedis Manusia (Bank Jaringan) 2019",
+   "ms": "Peraturan Penyelidikan Bioperubatan Manusia (Bank Tisu) 2019"
+  },
+  "SG-H1878": {
+   "vi": "Thông báo Cấy ghép Nội tạng Người (Sản phẩm được chỉ định) 1987",
+   "th": "ประกาศการปลูกถ่ายอวัยวะมนุษย์ (ผลิตภัณฑ์ที่ระบุ) 1987",
+   "id": "Pemberitahuan Pemindahan Organ Manusia (Produk Tertentu) 1987",
+   "ms": "Pemberitahuan Pemindahan Organ Manusia (Produk Tertentu) 1987"
+  },
+  "SG-H1881": {
+   "vi": "Luật Xyanua hydro (Xông hơi khử trùng) 1947",
+   "th": "พระราชบัญญัติไฮโดรเจนไซยาไนด์ (การอบด้วยแก๊ส) 1947",
+   "id": "Undang-Undang tentang Hidrogen Sianida (Fumigasi) 1947",
+   "ms": "Akta Hidrogen Sianida (Pengasapan) 1947"
+  },
+  "SG-H1882": {
+   "vi": "Quy chế Xyanua hydro (Xông hơi khử trùng) 1989",
+   "th": "ข้อบังคับไฮโดรเจนไซยาไนด์ (การอบด้วยแก๊ส) 1989",
+   "id": "Peraturan Hidrogen Sianida (Fumigasi) 1989",
+   "ms": "Peraturan Hidrogen Sianida (Pengasapan) 1989"
+  },
+  "SG-H1887": {
+   "vi": "Lệnh Nhập cư (Miễn trừ theo Điều 36(1)) 2022",
+   "th": "คำสั่งการตรวจคนเข้าเมือง (การยกเว้นตามมาตรา 36(1)) 2022",
+   "id": "Perintah Keimigrasian (Pembebasan Pasal 36(1)) 2022",
+   "ms": "Perintah Imigresen (Pengecualian Seksyen 36(1)) 2022"
+  },
+  "SG-H1888": {
+   "vi": "Lệnh Nhập cư (Miễn trừ theo Điều 6)",
+   "th": "คำสั่งการตรวจคนเข้าเมือง (การยกเว้นตามมาตรา 6)",
+   "id": "Perintah Keimigrasian (Pembebasan Pasal 6)",
+   "ms": "Perintah Imigresen (Pengecualian Seksyen 6)"
+  },
+  "SG-H1889": {
+   "vi": "Lệnh Nhập cư (Miễn trừ thị thực Singapore — Trung tâm Hợp tác Khu vực IEA) 2025",
+   "th": "คำสั่งการตรวจคนเข้าเมือง (การยกเว้นวีซ่าสิงคโปร์ — ศูนย์ความร่วมมือระดับภูมิภาค IEA) 2025",
+   "id": "Perintah Keimigrasian (Pembebasan Visa Singapura — Pusat Kerja Sama Regional IEA) 2025",
+   "ms": "Perintah Imigresen (Pengecualian Visa Singapura — Pusat Kerjasama Serantau IEA) 2025"
+  },
+  "SG-H1890": {
+   "vi": "Lệnh Nhập cư (Miễn trừ thị thực Singapore) 2026",
+   "th": "คำสั่งการตรวจคนเข้าเมือง (การยกเว้นวีซ่าสิงคโปร์) 2026",
+   "id": "Perintah Keimigrasian (Pembebasan Visa Singapura) 2026",
+   "ms": "Perintah Imigresen (Pengecualian Visa Singapura) 2026"
+  },
+  "SG-H1891": {
+   "vi": "Thông báo Nhập cư (Trạm quản lý xuất nhập cảnh) (Số 2) 2018",
+   "th": "ประกาศการตรวจคนเข้าเมือง (ด่านตรวจคนเข้าเมือง) (ฉบับที่ 2) 2018",
+   "id": "Pemberitahuan Keimigrasian (Depo Imigrasi) (Nomor 2) 2018",
+   "ms": "Pemberitahuan Imigresen (Depoh Imigresen) (No. 2) 2018"
+  },
+  "SG-H1892": {
+   "vi": "Lệnh Nhập cư (Tòa án Quốc tế về Luật Biển — Miễn trừ theo Điều 6) 2023",
+   "th": "คำสั่งการตรวจคนเข้าเมือง (ศาลระหว่างประเทศว่าด้วยกฎหมายทะเล — การยกเว้นตามมาตรา 6) 2023",
+   "id": "Perintah Keimigrasian (Pengadilan Internasional untuk Hukum Laut — Pembebasan Pasal 6) 2023",
+   "ms": "Perintah Imigresen (Tribunal Antarabangsa bagi Undang-Undang Laut — Pengecualian Seksyen 6) 2023"
+  },
+  "SG-H1893": {
+   "vi": "Quy chế Nhập cư (Cơ quan thực thi pháp luật theo quy định) 2024",
+   "th": "ข้อบังคับการตรวจคนเข้าเมือง (หน่วยงานบังคับใช้กฎหมายตามที่กำหนด) 2024",
+   "id": "Peraturan Keimigrasian (Lembaga Penegak Hukum yang Ditetapkan) 2024",
+   "ms": "Peraturan Imigresen (Agensi Penguatkuasaan Undang-Undang yang Ditetapkan) 2024"
+  },
+  "SG-H1894": {
+   "vi": "Lệnh Nhập cư (Cấm nhập cảnh)",
+   "th": "คำสั่งการตรวจคนเข้าเมือง (การห้ามเข้าเมือง)",
+   "id": "Perintah Keimigrasian (Larangan Masuk)",
+   "ms": "Perintah Imigresen (Larangan Masuk)"
+  },
+  "SG-H1895": {
+   "vi": "Lệnh Nhập cư (Điều 57(1)(d) — Miễn trừ) 2022",
+   "th": "คำสั่งการตรวจคนเข้าเมือง (มาตรา 57(1)(d) — การยกเว้น) 2022",
+   "id": "Perintah Keimigrasian (Pasal 57(1)(d) — Pembebasan) 2022",
+   "ms": "Perintah Imigresen (Seksyen 57(1)(d) — Pengecualian) 2022"
+  },
+  "SG-H1897": {
+   "vi": "Quy chế Nhập cư (Thỏa thuận nhập cảnh và thông quan đặc biệt)",
+   "th": "ข้อบังคับการตรวจคนเข้าเมือง (ข้อตกลงการเข้าเมืองและการตรวจปล่อยพิเศษ)",
+   "id": "Peraturan Keimigrasian (Pengaturan Masuk dan Pengeluaran Khusus)",
+   "ms": "Peraturan Imigresen (Pengaturan Masuk dan Pelepasan Khas)"
+  },
+  "SG-H1898": {
+   "vi": "Thông báo Nhập cư (Địa điểm nhập cảnh và xuất cảnh được ủy quyền tạm thời — Triển lãm Hàng không Singapore 2024) 2024",
+   "th": "ประกาศการตรวจคนเข้าเมือง (สถานที่เข้าและออกที่ได้รับอนุญาตชั่วคราว — งานแสดงการบินสิงคโปร์ 2024) 2024",
+   "id": "Pemberitahuan Keimigrasian (Tempat Masuk dan Keluar yang Diberi Wewenang Sementara — Pameran Dirgantara Singapura 2024) 2024",
+   "ms": "Pemberitahuan Imigresen (Tempat Masuk dan Keluar yang Dibenarkan Sementara — Pameran Udara Singapura 2024) 2024"
+  },
+  "SG-H2597": {
+   "vi": "Quy chế Quan hệ lao động (Công nhận hiệp hội lao động nền tảng của người lao động nền tảng) 2024",
+   "th": "ข้อบังคับแรงงานสัมพันธ์ (การรับรองสมาคมงานแพลตฟอร์มของผู้ทำงานแพลตฟอร์ม) 2024",
+   "id": "Peraturan Hubungan Industrial (Pengakuan Asosiasi Kerja Platform Pekerja Platform) 2024",
+   "ms": "Peraturan Hubungan Perindustrian (Pengiktirafan Persatuan Kerja Platform Pekerja Platform) 2024"
+  },
+  "SG-H2598": {
+   "vi": "Quy chế Quan hệ lao động (Công nhận công đoàn của người lao động) 1966",
+   "th": "ข้อบังคับแรงงานสัมพันธ์ (การรับรองสหภาพแรงงานของลูกจ้าง) 1966",
+   "id": "Peraturan Hubungan Industrial (Pengakuan Serikat Pekerja Karyawan) 1966",
+   "ms": "Peraturan Hubungan Perindustrian (Pengiktirafan Kesatuan Sekerja Pekerja) 1966"
+  },
+  "SG-H2599": {
+   "vi": "Quy chế Quan hệ lao động (Kháng nghị lên trọng tài) 1966",
+   "th": "ข้อบังคับแรงงานสัมพันธ์ (การอุทธรณ์ต่อผู้ชี้ขาด) 1966",
+   "id": "Peraturan Hubungan Industrial (Banding kepada Wasit) 1966",
+   "ms": "Peraturan Hubungan Perindustrian (Rayuan kepada Penimbang Tara) 1966"
+  },
+  "SG-H2604": {
+   "vi": "Thông báo Bệnh truyền nhiễm (Khu vực nhiễm bệnh) 2004",
+   "th": "ประกาศโรคติดต่อ (พื้นที่ติดเชื้อ) 2004",
+   "id": "Pemberitahuan Penyakit Menular (Daerah Terinfeksi) 2004",
+   "ms": "Pemberitahuan Penyakit Berjangkit (Kawasan Berjangkit) 2004"
+  },
+  "SG-H2605": {
+   "vi": "Lệnh Bệnh truyền nhiễm (Biện pháp ngăn ngừa lây lan bệnh truyền nhiễm) (Số 2) 2007",
+   "th": "คำสั่งโรคติดต่อ (มาตรการป้องกันการแพร่ระบาดของโรคติดต่อ) (ฉบับที่ 2) 2007",
+   "id": "Perintah Penyakit Menular (Tindakan Pencegahan Penyebaran Penyakit Menular) (Nomor 2) 2007",
+   "ms": "Perintah Penyakit Berjangkit (Langkah Pencegahan Penyebaran Penyakit Berjangkit) (No. 2) 2007"
+  },
+  "SG-H2606": {
+   "vi": "Quy chế Bệnh truyền nhiễm (Khai báo bệnh truyền nhiễm) (Miễn trừ) 2015",
+   "th": "ข้อบังคับโรคติดต่อ (การแจ้งโรคติดต่อ) (การยกเว้น) 2015",
+   "id": "Peraturan Penyakit Menular (Pemberitahuan Penyakit Menular) (Pembebasan) 2015",
+   "ms": "Peraturan Penyakit Berjangkit (Pemberitahuan Penyakit Berjangkit) (Pengecualian) 2015"
+  },
+  "SG-H2607": {
+   "vi": "Quy chế Bệnh truyền nhiễm (Khai báo bệnh truyền nhiễm theo quy định) 2008",
+   "th": "ข้อบังคับโรคติดต่อ (การแจ้งโรคติดต่อตามที่กำหนด) 2008",
+   "id": "Peraturan Penyakit Menular (Pemberitahuan Penyakit Menular yang Ditetapkan) 2008",
+   "ms": "Peraturan Penyakit Berjangkit (Pemberitahuan Penyakit Berjangkit yang Ditetapkan) 2008"
+  },
+  "SG-H2608": {
+   "vi": "Quy chế Bệnh truyền nhiễm (Pháp nhân và tổ chức theo quy định) 2008",
+   "th": "ข้อบังคับโรคติดต่อ (นิติบุคคลและสถาบันตามที่กำหนด) 2008",
+   "id": "Peraturan Penyakit Menular (Entitas dan Institusi yang Ditetapkan) 2008",
+   "ms": "Peraturan Penyakit Berjangkit (Entiti dan Institusi yang Ditetapkan) 2008"
+  },
+  "SG-H2609": {
+   "vi": "Quy chế Bệnh truyền nhiễm (Cách ly)",
+   "th": "ข้อบังคับโรคติดต่อ (การกักกัน)",
+   "id": "Peraturan Penyakit Menular (Karantina)",
+   "ms": "Peraturan Penyakit Berjangkit (Kuarentin)"
+  },
+  "SG-H2610": {
+   "vi": "Quy chế Bệnh truyền nhiễm (Tải lượng virus HIV không phát hiện được) 2024",
+   "th": "ข้อบังคับโรคติดต่อ (ปริมาณไวรัสเอชไอวีที่ตรวจไม่พบ) 2024",
+   "id": "Peraturan Penyakit Menular (Beban Virus HIV yang Tidak Terdeteksi) 2024",
+   "ms": "Peraturan Penyakit Berjangkit (Beban Virus HIV yang Tidak Dikesan) 2024"
+  },
+  "SG-H2612": {
+   "vi": "Thông báo Cơ quan phát triển truyền thông và thông tin (Sửa đổi) (Ngày bắt đầu có hiệu lực) 2026",
+   "th": "ประกาศหน่วยงานพัฒนาสื่อสารสนเทศและสื่อ (แก้ไขเพิ่มเติม) (วันเริ่มมีผลใช้บังคับ) 2026",
+   "id": "Pemberitahuan Otoritas Pengembangan Media dan Info-komunikasi (Perubahan) (Mulai Berlaku) 2026",
+   "ms": "Pemberitahuan Pihak Berkuasa Pembangunan Media dan Info-komunikasi (Pindaan) (Mula Berkuat Kuasa) 2026"
+  },
+  "SG-H2614": {
+   "vi": "Quy chế Cơ quan phát triển truyền thông và thông tin (Lãi do chậm nộp tiền phạt) 2026",
+   "th": "ข้อบังคับหน่วยงานพัฒนาสื่อสารสนเทศและสื่อ (ดอกเบี้ยสำหรับการชำระค่าปรับล่าช้า) 2026",
+   "id": "Peraturan Otoritas Pengembangan Media dan Info-komunikasi (Bunga atas Keterlambatan Pembayaran Sanksi Finansial) 2026",
+   "ms": "Peraturan Pihak Berkuasa Pembangunan Media dan Info-komunikasi (Faedah bagi Kelewatan Bayaran Penalti Kewangan) 2026"
+  },
+  "SG-H2615": {
+   "vi": "Quy chế Cơ quan phát triển truyền thông và thông tin (Giao dịch theo quy định tại Điều 65) 2026",
+   "th": "ข้อบังคับหน่วยงานพัฒนาสื่อสารสนเทศและสื่อ (ธุรกรรมตามที่กำหนดภายใต้มาตรา 65) 2026",
+   "id": "Peraturan Otoritas Pengembangan Media dan Info-komunikasi (Transaksi yang Ditetapkan menurut Pasal 65) 2026",
+   "ms": "Peraturan Pihak Berkuasa Pembangunan Media dan Info-komunikasi (Transaksi yang Ditetapkan di bawah Seksyen 65) 2026"
+  },
+  "SG-H2616": {
+   "vi": "Thông báo Cơ quan phát triển truyền thông và thông tin (Đối tượng được quản lý) 2026",
+   "th": "ประกาศหน่วยงานพัฒนาสื่อสารสนเทศและสื่อ (บุคคลที่ถูกกำกับ) 2026",
+   "id": "Pemberitahuan Otoritas Pengembangan Media dan Info-komunikasi (Orang yang Diatur) 2026",
+   "ms": "Pemberitahuan Pihak Berkuasa Pembangunan Media dan Info-komunikasi (Orang yang Dikawal) 2026"
+  },
+  "SG-H2623": {
+   "vi": "Lệnh Bảo vệ cơ sở hạ tầng (Chụp ảnh khu vực được bảo vệ và địa điểm được bảo vệ — Miễn trừ) (Số 2) 2024",
+   "th": "คำสั่งการคุ้มครองโครงสร้างพื้นฐาน (การถ่ายภาพพื้นที่คุ้มครองและสถานที่คุ้มครอง — การยกเว้น) (ฉบับที่ 2) 2024",
+   "id": "Perintah Perlindungan Infrastruktur (Fotografi Kawasan Dilindungi dan Tempat Dilindungi — Pembebasan) (Nomor 2) 2024",
+   "ms": "Perintah Perlindungan Infrastruktur (Fotografi Kawasan Dilindungi dan Tempat Dilindungi — Pengecualian) (No. 2) 2024"
+  },
+  "SG-H2624": {
+   "vi": "Lệnh Bảo vệ cơ sở hạ tầng (Chụp ảnh khu vực được bảo vệ và địa điểm được bảo vệ — Miễn trừ) 2024",
+   "th": "คำสั่งการคุ้มครองโครงสร้างพื้นฐาน (การถ่ายภาพพื้นที่คุ้มครองและสถานที่คุ้มครอง — การยกเว้น) 2024",
+   "id": "Perintah Perlindungan Infrastruktur (Fotografi Kawasan Dilindungi dan Tempat Dilindungi — Pembebasan) 2024",
+   "ms": "Perintah Perlindungan Infrastruktur (Fotografi Kawasan Dilindungi dan Tempat Dilindungi — Pengecualian) 2024"
+  },
+  "SG-H2625": {
+   "vi": "Quy chế Bảo vệ cơ sở hạ tầng (Luật theo quy định tại Điều 4(1)(l)) 2024",
+   "th": "ข้อบังคับการคุ้มครองโครงสร้างพื้นฐาน (กฎหมายตามที่กำหนดภายใต้มาตรา 4(1)(l)) 2024",
+   "id": "Peraturan Perlindungan Infrastruktur (Undang-Undang yang Ditetapkan menurut Pasal 4(1)(l)) 2024",
+   "ms": "Peraturan Perlindungan Infrastruktur (Undang-Undang yang Ditetapkan di bawah Seksyen 4(1)(l)) 2024"
+  },
+  "SG-H2626": {
+   "vi": "Lệnh Bảo vệ cơ sở hạ tầng (Khu vực được bảo vệ và địa điểm được bảo vệ) (Chụp ảnh) (Miễn trừ) 2018",
+   "th": "คำสั่งการคุ้มครองโครงสร้างพื้นฐาน (พื้นที่คุ้มครองและสถานที่คุ้มครอง) (การถ่ายภาพ) (การยกเว้น) 2018",
+   "id": "Perintah Perlindungan Infrastruktur (Kawasan Dilindungi dan Tempat Dilindungi) (Fotografi) (Pembebasan) 2018",
+   "ms": "Perintah Perlindungan Infrastruktur (Kawasan Dilindungi dan Tempat Dilindungi) (Fotografi) (Pengecualian) 2018"
+  },
+  "SG-H2746": {
+   "vi": "Quy chế Bảo vệ cơ sở hạ tầng (Công trình đặc biệt và hạ tầng đặc biệt) 2018",
+   "th": "ข้อบังคับการคุ้มครองโครงสร้างพื้นฐาน (การพัฒนาพิเศษและโครงสร้างพื้นฐานพิเศษ) 2018",
+   "id": "Peraturan Perlindungan Infrastruktur (Pengembangan Khusus dan Infrastruktur Khusus) 2018",
+   "ms": "Peraturan Perlindungan Infrastruktur (Pembangunan Khas dan Infrastruktur Khas) 2018"
+  },
+  "SG-H2748": {
+   "vi": "Luật Thừa kế (Trợ cấp gia đình) 1966",
+   "th": "พระราชบัญญัติมรดก (การเลี้ยงดูครอบครัว) 1966",
+   "id": "Undang-Undang tentang Warisan (Penyediaan Keluarga) 1966",
+   "ms": "Akta Pewarisan (Peruntukan Keluarga) 1966"
+  },
+  "SG-H3304": {
+   "vi": "Quy chế Hội đồng Dịch vụ Xã hội Quốc gia (Quy định bảo lưu và chuyển tiếp) 2026",
+   "th": "ข้อบังคับสภาบริการสังคมแห่งชาติ (บทบัญญัติการสงวนสิทธิและเฉพาะกาล) 2026",
+   "id": "Peraturan Dewan Pelayanan Sosial Nasional (Ketentuan Penyimpanan Hak dan Peralihan) 2026",
+   "ms": "Peraturan Majlis Perkhidmatan Sosial Kebangsaan (Peruntukan Pemeliharaan dan Peralihan) 2026"
+  },
+  "SG-H3317": {
+   "vi": "Lệnh Ủy ban Công viên Quốc gia (Ngày chuyển giao) 2019",
+   "th": "คำสั่งคณะกรรมการอุทยานแห่งชาติ (วันที่โอน) 2019",
+   "id": "Perintah Lembaga Taman Negara (Tanggal Pengalihan) 2019",
+   "ms": "Perintah Lembaga Taman Negara (Tarikh Pindahan) 2019"
+  },
+  "SG-H3380": {
+   "vi": "Lệnh Tác hại hình sự trực tuyến (Cơ quan thực thi pháp luật theo quy định) 2024",
+   "th": "คำสั่งภัยอาชญากรรมออนไลน์ (หน่วยงานบังคับใช้กฎหมายตามที่กำหนด) 2024",
+   "id": "Perintah Bahaya Pidana Daring (Lembaga Penegak Hukum yang Ditetapkan) 2024",
+   "ms": "Perintah Bahaya Jenayah Dalam Talian (Agensi Penguatkuasaan Undang-Undang yang Ditetapkan) 2024"
+  },
+  "SG-H932": {
+   "vi": "Lệnh Bộ luật Tố tụng hình sự (Cơ quan thực thi pháp luật theo quy định) 2025",
+   "th": "คำสั่งประมวลกฎหมายวิธีพิจารณาความอาญา (หน่วยงานบังคับใช้กฎหมายตามที่กำหนด) 2025",
+   "id": "Perintah Kitab Undang-Undang Hukum Acara Pidana (Lembaga Penegak Hukum yang Ditetapkan) 2025",
+   "ms": "Perintah Kanun Prosedur Jenayah (Agensi Penguatkuasaan Undang-Undang yang Ditetapkan) 2025"
+  }
+ }
+}

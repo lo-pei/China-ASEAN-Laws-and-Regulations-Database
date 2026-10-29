@@ -1,0 +1,306 @@
+{
+  "_note": "MY 附属法规主体术语 · add18（主体 1-45，跳过解析残留 6/35）",
+  "heads": {
+    "HOUSING DEVELOPMENT": {
+      "zh": "房屋发展",
+      "vi": "Phát triển nhà ở",
+      "th": "การพัฒนาที่อยู่อาศัย",
+      "id": "Pembangunan Perumahan",
+      "ms": "Pembangunan Perumahan"
+    },
+    "PORT KELANG AUTHORITY": {
+      "zh": "巴生港务局",
+      "vi": "Cảng vụ Port Kelang",
+      "th": "การท่าเรือกลัง",
+      "id": "Otoritas Pelabuhan Kelang",
+      "ms": "Lembaga Pelabuhan Kelang"
+    },
+    "CONSTITUTION OF THE HIGH COURTS": {
+      "zh": "高等法院的设立",
+      "vi": "Thành lập các Tòa án Cấp cao",
+      "th": "การจัดตั้งศาลสูง",
+      "id": "Pembentukan Pengadilan Tinggi",
+      "ms": "Penubuhan Mahkamah Tinggi"
+    },
+    "FEDERAL TERRITORY OF LABUAN": {
+      "zh": "纳闽联邦直辖区",
+      "vi": "Lãnh thổ Liên bang Labuan",
+      "th": "เขตปกครองสหพันธ์ลาบวน",
+      "id": "Wilayah Persekutuan Labuan",
+      "ms": "Wilayah Persekutuan Labuan"
+    },
+    "KUANTAN PORT AUTHORITY": {
+      "zh": "关丹港务局",
+      "vi": "Cảng vụ Kuantan",
+      "th": "การท่าเรือกวนตัน",
+      "id": "Otoritas Pelabuhan Kuantan",
+      "ms": "Lembaga Pelabuhan Kuantan"
+    },
+    "COIN": {
+      "zh": "硬币",
+      "vi": "Tiền xu",
+      "th": "เหรียญกษาปณ์",
+      "id": "Uang Logam",
+      "ms": "Syiling"
+    },
+    "MALACCA PORT AUTHORITY": {
+      "zh": "马六甲港务局",
+      "vi": "Cảng vụ Malacca",
+      "th": "การท่าเรือมะละกา",
+      "id": "Otoritas Pelabuhan Malaka",
+      "ms": "Lembaga Pelabuhan Melaka"
+    },
+    "NATIONAL LAND CODE (MODIFICATION) 1997": {
+      "zh": "国家土地法典（1997年修改）",
+      "vi": "Bộ luật Đất đai Quốc gia (Sửa đổi) 1997",
+      "th": "ประมวลกฎหมายที่ดินแห่งชาติ (การปรับปรุง) 1997",
+      "id": "Kitab Undang-Undang Tanah Nasional (Modifikasi) 1997",
+      "ms": "Kanun Tanah Negara (Pengubahsuaian) 1997"
+    },
+    "NATIONAL LAND CODE (MODIFICATION) 2014": {
+      "zh": "国家土地法典（2014年修改）",
+      "vi": "Bộ luật Đất đai Quốc gia (Sửa đổi) 2014",
+      "th": "ประมวลกฎหมายที่ดินแห่งชาติ (การปรับปรุง) 2014",
+      "id": "Kitab Undang-Undang Tanah Nasional (Modifikasi) 2014",
+      "ms": "Kanun Tanah Negara (Pengubahsuaian) 2014"
+    },
+    "INCOME TAX (EXEMPTION) (NO. 2) 2009": {
+      "zh": "所得税（豁免）（第2号）2009",
+      "vi": "Thuế thu nhập (Miễn trừ) (Số 2) 2009",
+      "th": "ภาษีเงินได้ (การยกเว้น) (ฉบับที่ 2) 2009",
+      "id": "Pajak Penghasilan (Pembebasan) (Nomor 2) 2009",
+      "ms": "Cukai Pendapatan (Pengecualian) (Bilangan 2) 2009"
+    },
+    "INTERNATIONAL ISLAMIC TRADE FINANCE CORPORATION": {
+      "zh": "国际伊斯兰贸易融资公司",
+      "vi": "Tổng công ty Tài trợ Thương mại Hồi giáo Quốc tế",
+      "th": "บรรษัทการเงินการค้าอิสลามระหว่างประเทศ",
+      "id": "Korporasi Pembiayaan Perdagangan Islam Internasional",
+      "ms": "Perbadanan Pembiayaan Perdagangan Islam Antarabangsa"
+    },
+    "CONSTITUTION OF THE HIGH COURT": {
+      "zh": "高等法院的设立",
+      "vi": "Thành lập Tòa án Cấp cao",
+      "th": "การจัดตั้งศาลสูง",
+      "id": "Pembentukan Pengadilan Tinggi",
+      "ms": "Penubuhan Mahkamah Tinggi"
+    },
+    "SOLID WASTE AND PUBLIC CLEANSING MANAGEMENT CORPORATION": {
+      "zh": "固体废物与公共清洁管理公司",
+      "vi": "Tổng công ty Quản lý Chất thải rắn và Vệ sinh Công cộng",
+      "th": "บรรษัทบริหารจัดการขยะมูลฝอยและการทำความสะอาดสาธารณะ",
+      "id": "Korporasi Pengelolaan Limbah Padat dan Kebersihan Umum",
+      "ms": "Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam"
+    },
+    "PATHOLOGY LABORATORY": {
+      "zh": "病理实验室",
+      "vi": "Phòng xét nghiệm giải phẫu bệnh",
+      "th": "ห้องปฏิบัติการพยาธิวิทยา",
+      "id": "Laboratorium Patologi",
+      "ms": "Makmal Patologi"
+    },
+    "NATIONAL MEASUREMENT SYSTEM": {
+      "zh": "国家计量体系",
+      "vi": "Hệ thống Đo lường Quốc gia",
+      "th": "ระบบการวัดแห่งชาติ",
+      "id": "Sistem Pengukuran Nasional",
+      "ms": "Sistem Pengukuran Kebangsaan"
+    },
+    "EVIDENCE OF CHILD WITNESS": {
+      "zh": "儿童证人证言",
+      "vi": "Lời khai của nhân chứng trẻ em",
+      "th": "พยานหลักฐานของพยานเด็ก",
+      "id": "Keterangan Saksi Anak",
+      "ms": "Keterangan Saksi Kanak-Kanak"
+    },
+    "HIRE PURCHASE REGISTRATION": {
+      "zh": "租购登记",
+      "vi": "Đăng ký mua trả góp",
+      "th": "การจดทะเบียนเช่าซื้อ",
+      "id": "Registrasi Sewa Beli",
+      "ms": "Pendaftaran Sewa Beli"
+    },
+    "EDUCATION SERVICE COMMISSION": {
+      "zh": "教育服务委员会",
+      "vi": "Ủy ban Dịch vụ Giáo dục",
+      "th": "คณะกรรมการบริการการศึกษา",
+      "id": "Komisi Layanan Pendidikan",
+      "ms": "Suruhanjaya Perkhidmatan Pelajaran"
+    },
+    "MALAYSIAN QUALIFICATIONS AGENCY": {
+      "zh": "马来西亚资格局",
+      "vi": "Cơ quan Bằng cấp Malaysia",
+      "th": "องค์การคุณวุฒิมาเลเซีย",
+      "id": "Badan Kualifikasi Malaysia",
+      "ms": "Agensi Kelayakan Malaysia"
+    },
+    "ELECTRONIC GOVERNMENT ACTIVITIES": {
+      "zh": "电子政务活动",
+      "vi": "Hoạt động chính phủ điện tử",
+      "th": "กิจกรรมภาครัฐอิเล็กทรอนิกส์",
+      "id": "Kegiatan Pemerintahan Elektronik",
+      "ms": "Aktiviti Kerajaan Elektronik"
+    },
+    "WIDOWS AND ORPHANS PENSION": {
+      "zh": "寡妇与孤儿抚恤金",
+      "vi": "Trợ cấp góa phụ và trẻ mồ côi",
+      "th": "บำนาญแม่หม้ายและเด็กกำพร้า",
+      "id": "Pensiun Janda dan Anak Yatim",
+      "ms": "Pencen Balu dan Anak Yatim"
+    },
+    "INCOME TAX (DEDUCTION FOR TRAINING COSTS UNDER NATIONAL DUAL TRAINING SYSTEM (NDTS))": {
+      "zh": "所得税（国家双轨培训体系培训费用扣除）",
+      "vi": "Thuế thu nhập (Khấu trừ chi phí đào tạo theo Hệ thống Đào tạo Song hành Quốc gia)",
+      "th": "ภาษีเงินได้ (การหักต้นทุนการฝึกอบรมภายใต้ระบบทวิภาคีแห่งชาติ)",
+      "id": "Pajak Penghasilan (Pengurangan Biaya Pelatihan dalam Sistem Pelatihan Ganda Nasional)",
+      "ms": "Cukai Pendapatan (Potongan Kos Latihan di bawah Sistem Latihan Dual Kebangsaan)"
+    },
+    "BANK PERTANIAN MALAYSIA BERHAD": {
+      "zh": "马来西亚农业银行有限公司",
+      "vi": "Ngân hàng Nông nghiệp Malaysia Berhad",
+      "th": "ธนาคารเกษตรมาเลเซียเบอร์ฮัด",
+      "id": "Bank Pertanian Malaysia Berhad",
+      "ms": "Bank Pertanian Malaysia Berhad"
+    },
+    "NORTHERN CORRIDOR IMPLEMENTATION AUTHORITY": {
+      "zh": "北部走廊执行局",
+      "vi": "Cơ quan Thực hiện Hành lang Bắc bộ",
+      "th": "องค์กรดำเนินการระเบียงเศรษฐกิจภาคเหนือ",
+      "id": "Otoritas Pelaksana Koridor Utara",
+      "ms": "Pihak Berkuasa Pelaksanaan Koridor Utara"
+    },
+    "FEDERAL TERRITORY OF LABUAN (EXTENSION AND MODIFICATION OF ENTERTAINMENT (FEDERAL TERRITORY OF KUALA LUMPUR) ACT 1992)": {
+      "zh": "纳闽联邦直辖区（1992年娱乐（吉隆坡联邦直辖区）法的延伸与修改）",
+      "vi": "Lãnh thổ Liên bang Labuan (Mở rộng và Sửa đổi Luật Giải trí (Lãnh thổ Liên bang Kuala Lumpur) 1992)",
+      "th": "เขตปกครองสหพันธ์ลาบวน (การขยายใช้และการปรับปรุงพระราชบัญญัติสถานบันเทิง (เขตปกครองสหพันธ์กัวลาลัมเปอร์) ค.ศ. 1992)",
+      "id": "Wilayah Persekutuan Labuan (Perluasan dan Modifikasi Undang-Undang Hiburan (Wilayah Persekutuan Kuala Lumpur) 1992)",
+      "ms": "Wilayah Persekutuan Labuan (Pelanjutan dan Pengubahsuaian Akta Hiburan (Wilayah Persekutuan Kuala Lumpur) 1992)"
+    },
+    "INCOME TAX (EXEMPTION) (NO. 17) 2007": {
+      "zh": "所得税（豁免）（第17号）2007",
+      "vi": "Thuế thu nhập (Miễn trừ) (Số 17) 2007",
+      "th": "ภาษีเงินได้ (การยกเว้น) (ฉบับที่ 17) 2007",
+      "id": "Pajak Penghasilan (Pembebasan) (Nomor 17) 2007",
+      "ms": "Cukai Pendapatan (Pengecualian) (Bilangan 17) 2007"
+    },
+    "INCOME TAX (EXEMPTION) (NO. 2) 2015": {
+      "zh": "所得税（豁免）（第2号）2015",
+      "vi": "Thuế thu nhập (Miễn trừ) (Số 2) 2015",
+      "th": "ภาษีเงินได้ (การยกเว้น) (ฉบับที่ 2) 2015",
+      "id": "Pajak Penghasilan (Pembebasan) (Nomor 2) 2015",
+      "ms": "Cukai Pendapatan (Pengecualian) (Bilangan 2) 2015"
+    },
+    "WITNESS PROTECTION": {
+      "zh": "证人保护",
+      "vi": "Bảo vệ nhân chứng",
+      "th": "การคุ้มครองพยาน",
+      "id": "Perlindungan Saksi",
+      "ms": "Perlindungan Saksi"
+    },
+    "INCOME TAX (EXEMPTION) 2009": {
+      "zh": "所得税（豁免）2009",
+      "vi": "Thuế thu nhập (Miễn trừ) 2009",
+      "th": "ภาษีเงินได้ (การยกเว้น) 2009",
+      "id": "Pajak Penghasilan (Pembebasan) 2009",
+      "ms": "Cukai Pendapatan (Pengecualian) 2009"
+    },
+    "KEMUBU AGRICULTURAL DEVELOPMENT AUTHORITY": {
+      "zh": "哥慕布农业发展局",
+      "vi": "Cơ quan Phát triển Nông nghiệp Kemubu",
+      "th": "องค์การพัฒนาการเกษตรเกอมูบู",
+      "id": "Otoritas Pengembangan Pertanian Kemubu",
+      "ms": "Lembaga Kemajuan Pertanian Kemubu"
+    },
+    "MUDA AGRICULTURAL DEVELOPMENT AUTHORITY": {
+      "zh": "慕达农业发展局",
+      "vi": "Cơ quan Phát triển Nông nghiệp Muda",
+      "th": "องค์การพัฒนาการเกษตรมูดา",
+      "id": "Otoritas Pengembangan Pertanian Muda",
+      "ms": "Lembaga Kemajuan Pertanian Muda"
+    },
+    "RESTRICTED RESIDENCE": {
+      "zh": "限制居留",
+      "vi": "Cư trú hạn chế",
+      "th": "การพำนักแบบจำกัด",
+      "id": "Tempat Tinggal Terbatas",
+      "ms": "Kediaman Terhad"
+    },
+    "PRIVATE HIGHER EDUCATIONAL INSTITUTIONS (EXEMPTION TO KOLEJ PERNIAGAAN BERSEPADU MALAYSIA (MALAYSIAN INTEGRATED BUSINESS COLLEGE))": {
+      "zh": "私立高等教育机构（豁免马来西亚综合商学院）",
+      "vi": "Các cơ sở giáo dục đại học tư thục (Miễn trừ cho Kolej Perniagaan Bersepadu Malaysia)",
+      "th": "สถาบันอุดมศึกษาเอกชน (การยกเว้นให้วิทยาลัยธุรกิจบูรณาการมาเลเซีย)",
+      "id": "Institusi Pendidikan Tinggi Swasta (Pengecualian kepada Kolej Perniagaan Bersepadu Malaysia)",
+      "ms": "Institusi Pengajian Tinggi Swasta (Pengecualian kepada Kolej Perniagaan Bersepadu Malaysia)"
+    },
+    "INCOME TAX (EXEMPTION) (NO. 11) 2016": {
+      "zh": "所得税（豁免）（第11号）2016",
+      "vi": "Thuế thu nhập (Miễn trừ) (Số 11) 2016",
+      "th": "ภาษีเงินได้ (การยกเว้น) (ฉบับที่ 11) 2016",
+      "id": "Pajak Penghasilan (Pembebasan) (Nomor 11) 2016",
+      "ms": "Cukai Pendapatan (Pengecualian) (Bilangan 11) 2016"
+    },
+    "REDEMPTORIST FATHERS": {
+      "zh": "赎主会神父",
+      "vi": "Các Cha Dòng Chúa Cứu Thế",
+      "th": "คณะบาทหลวงแห่งพระผู้ไถ่",
+      "id": "Para Pastor Kongregasi Sang Penebus",
+      "ms": "Bapa-Bapa Redemptoris"
+    },
+    "INCOME TAX (EXEMPTION) (NO. 6) 2018": {
+      "zh": "所得税（豁免）（第6号）2018",
+      "vi": "Thuế thu nhập (Miễn trừ) (Số 6) 2018",
+      "th": "ภาษีเงินได้ (การยกเว้น) (ฉบับที่ 6) 2018",
+      "id": "Pajak Penghasilan (Pembebasan) (Nomor 6) 2018",
+      "ms": "Cukai Pendapatan (Pengecualian) (Bilangan 6) 2018"
+    },
+    "STAMP DUTY (EXEMPTION) (NO. 2) 2017": {
+      "zh": "印花税（豁免）（第2号）2017",
+      "vi": "Thuế tem (Miễn trừ) (Số 2) 2017",
+      "th": "อากรแสตมป์ (การยกเว้น) (ฉบับที่ 2) 2017",
+      "id": "Bea Meterai (Pembebasan) (Nomor 2) 2017",
+      "ms": "Duti Setem (Pengecualian) (Bilangan 2) 2017"
+    },
+    "DOMESTIC SHIPPING LICENSING BOARD": {
+      "zh": "国内航运发牌局",
+      "vi": "Cục Cấp phép Vận tải Biển Nội địa",
+      "th": "คณะกรรมการออกใบอนุญาตการเดินเรือภายในประเทศ",
+      "id": "Dewan Perizinan Pelayaran Domestik",
+      "ms": "Lembaga Pelesenan Perkapalan Dalam Negeri"
+    },
+    "UNIVERSITI MALAYSIA PERLIS": {
+      "zh": "马来西亚玻璃市大学",
+      "vi": "Đại học Malaysia Perlis",
+      "th": "มหาวิทยาลัยมาเลเซียเปอร์ลิส",
+      "id": "Universitas Malaysia Perlis",
+      "ms": "Universiti Malaysia Perlis"
+    },
+    "INCOME TAX (EXEMPTION) (NO. 7) 2018": {
+      "zh": "所得税（豁免）（第7号）2018",
+      "vi": "Thuế thu nhập (Miễn trừ) (Số 7) 2018",
+      "th": "ภาษีเงินได้ (การยกเว้น) (ฉบับที่ 7) 2018",
+      "id": "Pajak Penghasilan (Pembebasan) (Nomor 7) 2018",
+      "ms": "Cukai Pendapatan (Pengecualian) (Bilangan 7) 2018"
+    },
+    "LEGITIMACY ACT": {
+      "zh": "婚生地位法",
+      "vi": "Luật về Tư cách Con chính thức",
+      "th": "พระราชบัญญัติสถานะบุตรชอบด้วยกฎหมาย",
+      "id": "Undang-Undang Status Anak Sah",
+      "ms": "Akta Kesahihan Anak"
+    },
+    "ANTI-FAKE NEWS": {
+      "zh": "反假新闻",
+      "vi": "Chống tin giả",
+      "th": "การต่อต้านข่าวปลอม",
+      "id": "Antiberita Bohong",
+      "ms": "Anti Berita Palsu"
+    },
+    "FOOD DONORS PROTECTION": {
+      "zh": "食品捐赠者保护",
+      "vi": "Bảo vệ người hiến tặng thực phẩm",
+      "th": "การคุ้มครองผู้บริจาคอาหาร",
+      "id": "Perlindungan Donor Pangan",
+      "ms": "Perlindungan Penderma Makanan"
+    }
+  }
+}

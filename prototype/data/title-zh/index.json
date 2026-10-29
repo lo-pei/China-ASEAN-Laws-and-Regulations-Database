@@ -1,9 +1,9 @@
 {
  "formatVersion": "calr-title-zh-v1",
- "updatedAt": "2026-10-29T13:45:33",
+ "updatedAt": "2026-10-29T21:18:55",
  "note": "法规标题中文译名的权威导出与交付物归档。译名正文以 prototype/data/laws/<id>.json 的 title.zh 为唯一真源，本目录为其汇总导出与过程存档。",
- "lawCount": 42120,
- "translatedCount": 28319,
+ "lawCount": 42121,
+ "translatedCount": 30664,
  "coverage": {
   "BN": {
    "total": 1275,
@@ -11,14 +11,14 @@
    "pct": 100.0
   },
   "CN": {
-   "total": 1586,
-   "zh": 1586,
+   "total": 1587,
+   "zh": 1587,
    "pct": 100.0
   },
   "ID": {
    "total": 3348,
-   "zh": 2246,
-   "pct": 67.1
+   "zh": 3080,
+   "pct": 92.0
   },
   "KH": {
    "total": 187,
@@ -27,8 +27,8 @@
   },
   "LA": {
    "total": 138,
-   "zh": 92,
-   "pct": 66.7
+   "zh": 100,
+   "pct": 72.5
   },
   "MM": {
    "total": 80,
@@ -37,13 +37,13 @@
   },
   "MY": {
    "total": 6976,
-   "zh": 6836,
-   "pct": 98.0
+   "zh": 6976,
+   "pct": 100.0
   },
   "PH": {
    "total": 23117,
-   "zh": 10619,
-   "pct": 45.9
+   "zh": 11973,
+   "pct": 51.8
   },
   "SG": {
    "total": 3714,
@@ -62,8 +62,8 @@
   },
   "VN": {
    "total": 428,
-   "zh": 420,
-   "pct": 98.1
+   "zh": 428,
+   "pct": 100.0
   }
  },
  "batches": [
@@ -154,7 +154,7 @@
   },
   {
    "name": "ingest-2026-10-29",
-   "count": 20,
+   "count": 152,
    "engine": "source-extract",
    "note": "2026-10-29 新入库法规的中文标题（laws/<id>.json 的 title.zh 为真源）"
   }

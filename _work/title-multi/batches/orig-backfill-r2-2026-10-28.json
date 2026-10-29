@@ -1,0 +1,513 @@
+{
+ "batch": "orig-backfill-r2-2026-10-28",
+ "scope": "按 title[language] / MY→en 规则回填 orig",
+ "items": {
+  "ID-H002": {
+   "orig": "Undang-Undang Nomor 13 Tahun 2016 tentang Paten"
+  },
+  "ID-H004": {
+   "orig": "Undang-Undang Nomor 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa"
+  },
+  "ID-H011": {
+   "orig": "Undang-Undang Nomor 20 Tahun 2016 tentang Merek dan Indikasi Geografis"
+  },
+  "ID-H032": {
+   "orig": "Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas"
+  },
+  "ID-H033": {
+   "orig": "Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan"
+  },
+  "ID-H034": {
+   "orig": "Undang-Undang Nomor 13 Tahun 2016 tentang Paten"
+  },
+  "ID-H035": {
+   "orig": "Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta"
+  },
+  "ID-H036": {
+   "orig": "Undang-Undang Nomor 7 Tahun 2014 tentang Perdagangan"
+  },
+  "ID-H037": {
+   "orig": "Undang-Undang Nomor 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial"
+  },
+  "ID-H040": {
+   "orig": "Undang-Undang Nomor 36 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan"
+  },
+  "ID-H041": {
+   "orig": "Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen"
+  },
+  "ID-H042": {
+   "orig": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945"
+  },
+  "ID-H043": {
+   "orig": "Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi"
+  },
+  "ID-H044": {
+   "orig": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945"
+  },
+  "ID-H045": {
+   "orig": "Undang-Undang Nomor 25 Tahun 2007 tentang Penanaman Modal"
+  },
+  "ID-H047": {
+   "orig": "Undang-Undang Nomor 1 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik"
+  },
+  "ID-H049": {
+   "orig": "Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik"
+  },
+  "ID-H050": {
+   "orig": "Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik"
+  },
+  "ID-H051": {
+   "orig": "Undang-Undang Nomor 42 Tahun 1999 tentang Jaminan Fidusia"
+  },
+  "ID-H052": {
+   "orig": "Undang-Undang Nomor 1 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik"
+  },
+  "ID-H053": {
+   "orig": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 (Perubahan Ketiga)"
+  },
+  "ID-H054": {
+   "orig": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 (Naskah Asli)"
+  },
+  "ID-H055": {
+   "orig": "Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik"
+  },
+  "ID-H056": {
+   "orig": "Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi"
+  },
+  "ID-H067": {
+   "orig": "Undang-Undang Nomor 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat"
+  },
+  "ID-H069": {
+   "orig": "Peraturan Pemerintah Nomor 71 Tahun 2019 tentang Penyelenggaraan Sistem dan Transaksi Elektronik"
+  },
+  "KH-H014": {
+   "orig": "Law on Geographical Indications"
+  },
+  "KH-H015": {
+   "orig": "Law on Copyright and Related Rights"
+  },
+  "KH-H017": {
+   "orig": "Document - National Trade Repository"
+  },
+  "LA-H001": {
+   "orig": "Law on Resolution of Economic Disputes"
+  },
+  "LA-H016": {
+   "orig": "Law on Investment Promotion"
+  },
+  "LA-H020": {
+   "orig": "Law on Tax"
+  },
+  "LA-H036": {
+   "orig": "Civil Code 2018"
+  },
+  "LA-H037": {
+   "orig": "Civil Code 2018"
+  },
+  "LA-H038": {
+   "orig": "Law on Enterprise"
+  },
+  "LA-H039": {
+   "orig": "Law on Intellectual Property"
+  },
+  "LA-H040": {
+   "orig": "Law on Tax (2005)"
+  },
+  "LA-H041": {
+   "orig": "Labor Law"
+  },
+  "LA-H042": {
+   "orig": "Law on Investment Promotion (Amended) No. 14/NA, dated 17 November 2016"
+  },
+  "LA-H043": {
+   "orig": "Law on Investment Promotion 2016"
+  },
+  "LA-H046": {
+   "orig": "Constitution of the Lao People's Democratic Republic (2025 Amendment)"
+  },
+  "LA-H050": {
+   "orig": "Decree on Electronic Commerce 2021"
+  },
+  "LA-H058": {
+   "orig": "Law on Electronic Transactions"
+  },
+  "LA-H429": {
+   "orig": "Labour Law 2013"
+  },
+  "LA-H440": {
+   "orig": "Civil Code 2018"
+  },
+  "LA-H445": {
+   "orig": "电子交易法 2012"
+  },
+  "LA-H446": {
+   "orig": "Decree on Electronic Commerce 2021"
+  },
+  "LA-LEGISLATION-2021": {
+   "orig": "ກົດໝາຍວ່າດ້ວຍ ການສ້າງນິຕິກຳ (ສະບັບປັບປຸງ)"
+  },
+  "MM-H001": {
+   "orig": "Arbitration Law"
+  },
+  "MM-H003": {
+   "orig": "Competition Law"
+  },
+  "MM-H005": {
+   "orig": "Consumer Protection Law"
+  },
+  "MM-H006": {
+   "orig": "Copyright Law"
+  },
+  "MM-H007": {
+   "orig": "Electronic Transactions Law"
+  },
+  "MM-H010": {
+   "orig": "Insolvency Rules"
+  },
+  "MM-H012": {
+   "orig": "Minimum Wage Law"
+  },
+  "MM-H013": {
+   "orig": "Companies Law"
+  },
+  "MM-H014": {
+   "orig": "Investment Law"
+  },
+  "MM-H016": {
+   "orig": "Special Economic Zone Law"
+  },
+  "MM-H017": {
+   "orig": "Patent Law"
+  },
+  "MM-H019": {
+   "orig": "Tax Administration Law"
+  },
+  "MM-H020": {
+   "orig": "Trademark Law"
+  },
+  "MM-H021": {
+   "orig": "Union Taxation Law"
+  },
+  "MM-H053": {
+   "orig": "公司法"
+  },
+  "MM-H054": {
+   "orig": "Myanmar Investment Rules (Notification No. 35 of 2017)"
+  },
+  "MM-H057": {
+   "orig": "Consumer Protection Law 2019"
+  },
+  "MM-H058": {
+   "orig": "Myanmar Minimum Wage Law 2013"
+  },
+  "MM-H059": {
+   "orig": "著作权法 2019"
+  },
+  "MM-H060": {
+   "orig": "专利法 2019"
+  },
+  "MM-H061": {
+   "orig": "商标法"
+  },
+  "MM-H062": {
+   "orig": "生物多样性和生态保护区法 2018"
+  },
+  "MM-H063": {
+   "orig": "Essential Supplies and Services Law 2012"
+  },
+  "MM-H064": {
+   "orig": "淡水渔业法"
+  },
+  "MM-H065": {
+   "orig": "缅甸中央银行法实施条例"
+  },
+  "MM-H066": {
+   "orig": "保险法 1993"
+  },
+  "MM-H067": {
+   "orig": "旅馆和旅游法 1993"
+  },
+  "MM-H068": {
+   "orig": "议会管理小组法 2018"
+  },
+  "MM-H107": {
+   "orig": "(တရားတဘောင်စစ်ဆေးစီရင်ရန်၊ ယခုအခိုက်အတန့်အတွက် တရားရုံးတော်များ တည်ထောင်သည့် တချက်လွှတ်အမိန့်)"
+  },
+  "MM-H108": {
+   "orig": "(မြန်မာနိုင်ငံ ခရီးလက်စွဲဥပဒေ နောက်ဆက်တွဲ ၁ နှင့် ၂ အား ပြင်ဆင်ချက်)"
+  },
+  "MM-H109": {
+   "orig": "(၁၉၆၄ ခုနှစ်၊ အမျိုးသားစည်းလုံးညီညွတ်ရေးကို ကာကွယ်သည့်ဥပဒေကို ပယ်ဖျက်သည့် အမိန့်)"
+  },
+  "MM-H110": {
+   "orig": "(“၁၉၄၉ ခုနှစ်၊ နိုင်ငံတော်ကောက်ပဲသီးနှံ ရောင်းဝယ်ရေး ကော်မီရှင်အဖွဲ့ တချက်လွှတ်ဥပဒေ”)"
+  },
+  "MM-H111": {
+   "orig": "THE PENAL CODE"
+  },
+  "MM-H112": {
+   "orig": "[ဘာသာပြန်ချက်] ကိတ္တိမမွေးစားခြင်းမှတ်ပုံတင်အက်ဥပဒေ"
+  },
+  "MM-H113": {
+   "orig": "ကမ္ဘာ့ကုလသမဂ္ဂအဖွဲ့ (အခွင့်အရေးများနှင့် ကင်းလွတ်ခွင့်များ) အက်ဥပဒေ။"
+  },
+  "MM-H114": {
+   "orig": "ကယားပြည်နယ်စည်ပင်သာယာရေးဥပဒေကို ပြင်ဆင်သည့်ဥပဒေ"
+  },
+  "MM-H115": {
+   "orig": "ကရင်ပြည်နယ်စည်ပင်သာယာရေးအဖွဲ့များဥပဒေကို ပြင်ဆင်သည့်ဥပဒေ"
+  },
+  "MM-H116": {
+   "orig": "ကလေးသူငယ် အခွင့်အရေးများဆိုင်ရာဥပဒေ"
+  },
+  "MM-H117": {
+   "orig": "ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရတိုင်း သို့မဟုတ် ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသဥက္ကဋ္ဌနှင့် အလုပ်အမှုဆောင်ကော်မတီဝင်များ၏ချီးမြှင့်ငွေ၊ စရိတ်နှင့် အဆောင်အယောင်များဆိုင်ရာ ဥပဒေ"
+  },
+  "MM-H118": {
+   "orig": "ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရတိုင်း သို့မဟုတ် ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသဦးစီးအဖွဲ့ဥပဒေ"
+  },
+  "MM-H119": {
+   "orig": "ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော်ဖွဲ့စည်းပုံအခြေခံဥပဒေ"
+  },
+  "MM-H120": {
+   "orig": "Leave and Holidays Act, 1951"
+  },
+  "MM-H121": {
+   "orig": "Rights of the Persons with Disabilities Law"
+  },
+  "MM-H122": {
+   "orig": "IBRD Directive No. 1/2020: Directive for Insurance Agents"
+  },
+  "MM-H123": {
+   "orig": "IBRD Directive No. 2/2020: Bancassurance Directive"
+  },
+  "MM-H124": {
+   "orig": "IBRD Directive No. 3/2020: Directive for Approval of Insurance Products"
+  },
+  "MM-H125": {
+   "orig": "IBRD Directive No. 4/2020: Reinsurance Directive"
+  },
+  "MM-H126": {
+   "orig": "IBRD Directive No. 5/2020: Existing Insurance Policies in Thilawa Special Economic Zone"
+  },
+  "MY-ARBITRATION-2005": {
+   "orig": "Arbitration Act 2005"
+  },
+  "MY-COMPANIES-2016": {
+   "orig": "Companies Act 2016"
+  },
+  "MY-COMPETITION-2010": {
+   "orig": "Competition Act 2010"
+  },
+  "MY-CONTRACT-1950": {
+   "orig": "Contracts Act 1950"
+  },
+  "MY-COPYRIGHT-1987": {
+   "orig": "Copyright Act 1987"
+  },
+  "MY-EMPLOYMENT-1955": {
+   "orig": "Employment Act 1955"
+  },
+  "MY-H004": {
+   "orig": "SALE OF GOODS ACT 1957"
+  },
+  "MY-H007": {
+   "orig": "INCOME TAX ACT 1967"
+  },
+  "MY-H008": {
+   "orig": "TRADE MARKS ACT 1976"
+  },
+  "MY-H009": {
+   "orig": "PATENTS ACT 1983"
+  },
+  "MY-H012": {
+   "orig": "COPYRIGHT ACT 1987"
+  },
+  "MY-H015": {
+   "orig": "ARBITRATION ACT 2005"
+  },
+  "MY-H016": {
+   "orig": "ELECTRONIC COMMERCE ACT 2006"
+  },
+  "MY-H018": {
+   "orig": "LIMITED LIABILITY PARTNERSHIPS ACT 2012"
+  },
+  "MY-H020": {
+   "orig": "SERVICE TAX ACT 2018"
+  },
+  "MY-H021": {
+   "orig": "SALES TAX ACT 2018"
+  },
+  "MY-H022": {
+   "orig": "Companies Act 2016"
+  },
+  "MY-H026": {
+   "orig": "Digital Signature Act 1997"
+  },
+  "MY-H029": {
+   "orig": "Federal Constitution of Malaysia"
+  },
+  "MY-H032": {
+   "orig": "Real Property Gains Tax Act 1976"
+  },
+  "MY-H064": {
+   "orig": "Companies Act 2016"
+  },
+  "MY-H066": {
+   "orig": "Employment Act 1955"
+  },
+  "MY-H067": {
+   "orig": "Promotion of Investments Act 1986"
+  },
+  "MY-H068": {
+   "orig": "Offences Relating to Awards Act 2017 (as at 26 June 2024)"
+  },
+  "MY-H069": {
+   "orig": "Copyright Act 1987"
+  },
+  "MY-H070": {
+   "orig": "Strata Titles Act 1985 (Act 318)"
+  },
+  "MY-H071": {
+   "orig": "Employment Act 1955"
+  },
+  "MY-H072": {
+   "orig": "Companies Act 2016 (Extracts)"
+  },
+  "MY-H073": {
+   "orig": "Civil Law Act 1956 - Easy Law"
+  },
+  "MY-H074": {
+   "orig": "Patents Act 1983"
+  },
+  "MY-H075": {
+   "orig": "PERSONAL DATA PROTECTION ACT 2010"
+  },
+  "MY-H076": {
+   "orig": "Industrial Relations Act 1967"
+  },
+  "MY-H077": {
+   "orig": "Free Zones Act 1990"
+  },
+  "MY-H078": {
+   "orig": "Income Tax Act 1967 (Extracts)"
+  },
+  "MY-H080": {
+   "orig": "COMPETITION ACT 2010 As At 01-11-2024AKTA PERSAINGAN 2010 Sebagaimana Pada 01-11-2024"
+  },
+  "MY-H081": {
+   "orig": "National Land Code 1965 (Extracts)"
+  },
+  "MY-H082": {
+   "orig": "Arbitration Act 2005"
+  },
+  "MY-H083": {
+   "orig": "*AKTA REKA BENTUK PERINDUSTRIAN 1996 Sebagaimana Pada 01-01-2013*INDUSTRIAL DESIGNS ACT 1996 As At 01-01-2013"
+  },
+  "MY-H084": {
+   "orig": "Exclusive Economic Zone Act 1984"
+  },
+  "MY-H085": {
+   "orig": "Prevention of Terrorism Act 2015"
+  },
+  "MY-H086": {
+   "orig": "Countervailing and Anti-Dumping Duties Act 1993"
+  },
+  "MY-H087": {
+   "orig": "Electronic Commerce Act 2006"
+  },
+  "MY-H095": {
+   "orig": "Arbitration (Amendment) Act 2018"
+  },
+  "MY-H119": {
+   "orig": "Capital Markets and Services Act 2007"
+  },
+  "MY-INVESTMENT-1986": {
+   "orig": "Promotion of Investments Act 1986"
+  },
+  "MY-IR-1967": {
+   "orig": "Industrial Relations Act 1967"
+  },
+  "MY-PATENTS-1983": {
+   "orig": "Patents Act 1983"
+  },
+  "MY-PDPA-2010": {
+   "orig": "Personal Data Protection Act 2010"
+  },
+  "MY-SALEGOODS-1957": {
+   "orig": "Sale of Goods Act 1957"
+  },
+  "MY-TRADEMARKS-2019": {
+   "orig": "Trademarks Act 2019"
+  },
+  "VN-H048": {
+   "orig": "知识产权法"
+  },
+  "VN-H049": {
+   "orig": "Constitution of the Socialist Republic of Vietnam 2013 (as amended in 2025)"
+  },
+  "VN-H050": {
+   "orig": "海商法"
+  },
+  "VN-H053": {
+   "orig": "劳动法"
+  },
+  "VN-H055": {
+   "orig": "招标投标法"
+  },
+  "VN-H061": {
+   "orig": "公共投资法"
+  },
+  "VN-H062": {
+   "orig": "投资法"
+  },
+  "VN-H064": {
+   "orig": "矿产资源法"
+  },
+  "VN-H065": {
+   "orig": "人民法院组织法"
+  },
+  "VN-H066": {
+   "orig": "高等教育法"
+  },
+  "VN-H067": {
+   "orig": "信仰、宗教法"
+  },
+  "VN-H068": {
+   "orig": "个人信息保护条例"
+  },
+  "VN-H069": {
+   "orig": "网络安全法"
+  },
+  "VN-H070": {
+   "orig": "户籍法"
+  },
+  "VN-H071": {
+   "orig": "居住法"
+  },
+  "VN-H072": {
+   "orig": "传染病防控法"
+  },
+  "VN-H073": {
+   "orig": "边防法"
+  },
+  "VN-H074": {
+   "orig": "反恐怖主义法"
+  },
+  "VN-H075": {
+   "orig": "电子商务法"
+  },
+  "VN-H076": {
+   "orig": "增值税法"
+  },
+  "VN-H077": {
+   "orig": "海警法"
+  },
+  "VN-H078": {
+   "orig": "进出口税法"
+  },
+  "VN-H079": {
+   "orig": "工会法"
+  }
+ }
+}

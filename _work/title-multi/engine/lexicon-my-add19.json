@@ -1,0 +1,383 @@
+{
+  "_note": "MY 附属法规主体术语 · add19（主体 46-100，跳过解析残留 70）",
+  "heads": {
+    "INCOME TAX (EXEMPTION) (NO. 8) 2018": {
+      "zh": "所得税（豁免）（第8号）2018",
+      "vi": "Thuế thu nhập (Miễn trừ) (Số 8) 2018",
+      "th": "ภาษีเงินได้ (การยกเว้น) (ฉบับที่ 8) 2018",
+      "id": "Pajak Penghasilan (Pembebasan) (Nomor 8) 2018",
+      "ms": "Cukai Pendapatan (Pengecualian) (Bilangan 8) 2018"
+    },
+    "TEMPORARY MEASURES FOR GOVERNMENT FINANCING (CORONAVIRUS DISEASE 2019 (COVID-19))": {
+      "zh": "政府融资临时措施（2019冠状病毒病）",
+      "vi": "Các biện pháp tạm thời về tài trợ chính phủ (Bệnh do vi-rút Corona 2019)",
+      "th": "มาตรการชั่วคราวสำหรับการเงินการคลังของรัฐ (โรคติดเชื้อไวรัสโคโรนา 2019)",
+      "id": "Tindakan Sementara untuk Pembiayaan Pemerintah (Penyakit Coronavirus 2019)",
+      "ms": "Langkah Sementara bagi Pembiayaan Kerajaan (Penyakit Koronavirus 2019)"
+    },
+    "INCOME TAX (EXEMPTION) (NO. 13) 2013": {
+      "zh": "所得税（豁免）（第13号）2013",
+      "vi": "Thuế thu nhập (Miễn trừ) (Số 13) 2013",
+      "th": "ภาษีเงินได้ (การยกเว้น) (ฉบับที่ 13) 2013",
+      "id": "Pajak Penghasilan (Pembebasan) (Nomor 13) 2013",
+      "ms": "Cukai Pendapatan (Pengecualian) (Bilangan 13) 2013"
+    },
+    "STAMP DUTY (EXEMPTION) 2021": {
+      "zh": "印花税（豁免）2021",
+      "vi": "Thuế tem (Miễn trừ) 2021",
+      "th": "อากรแสตมป์ (การยกเว้น) 2021",
+      "id": "Bea Meterai (Pembebasan) 2021",
+      "ms": "Duti Setem (Pengecualian) 2021"
+    },
+    "STAMP DUTY (EXEMPTION) (NO. 2) 2021": {
+      "zh": "印花税（豁免）（第2号）2021",
+      "vi": "Thuế tem (Miễn trừ) (Số 2) 2021",
+      "th": "อากรแสตมป์ (การยกเว้น) (ฉบับที่ 2) 2021",
+      "id": "Bea Meterai (Pembebasan) (Nomor 2) 2021",
+      "ms": "Duti Setem (Pengecualian) (Bilangan 2) 2021"
+    },
+    "MALAYSIAN BORDER SECURITY AGENCY": {
+      "zh": "马来西亚边境安全局",
+      "vi": "Cơ quan An ninh Biên giới Malaysia",
+      "th": "องค์การความมั่นคงชายแดนมาเลเซีย",
+      "id": "Badan Keamanan Perbatasan Malaysia",
+      "ms": "Agensi Keselamatan Sempadan Malaysia"
+    },
+    "INCOME TAX (EXEMPTION) (NO. 5) ORDER 2022": {
+      "zh": "所得税（豁免）（第5号）令2022",
+      "vi": "Lệnh Thuế thu nhập (Miễn trừ) (Số 5) 2022",
+      "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 5) 2022",
+      "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 5) 2022",
+      "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 5) 2022"
+    },
+    "STAMP DUTY (EXEMPTION) (NO. 15) 2021": {
+      "zh": "印花税（豁免）（第15号）2021",
+      "vi": "Thuế tem (Miễn trừ) (Số 15) 2021",
+      "th": "อากรแสตมป์ (การยกเว้น) (ฉบับที่ 15) 2021",
+      "id": "Bea Meterai (Pembebasan) (Nomor 15) 2021",
+      "ms": "Duti Setem (Pengecualian) (Bilangan 15) 2021"
+    },
+    "HOUSEWIVES' SOCIAL SECURITY": {
+      "zh": "家庭主妇社会保障",
+      "vi": "An sinh xã hội cho người nội trợ",
+      "th": "การประกันสังคมของแม่บ้าน",
+      "id": "Jaminan Sosial Ibu Rumah Tangga",
+      "ms": "Keselamatan Sosial Suri Rumah"
+    },
+    "STAMP DUTY (EXEMPTION) (NO. 16) 2021": {
+      "zh": "印花税（豁免）（第16号）2021",
+      "vi": "Thuế tem (Miễn trừ) (Số 16) 2021",
+      "th": "อากรแสตมป์ (การยกเว้น) (ฉบับที่ 16) 2021",
+      "id": "Bea Meterai (Pembebasan) (Nomor 16) 2021",
+      "ms": "Duti Setem (Pengecualian) (Bilangan 16) 2021"
+    },
+    "CONTINENTAL SHELF": {
+      "zh": "大陆架",
+      "vi": "Thềm lục địa",
+      "th": "ไหล่ทวีป",
+      "id": "Landas Kontinen",
+      "ms": "Pelantar Benua"
+    },
+    "EFFICIENT MANAGEMENT OF ELECTRICAL ENERGY": {
+      "zh": "电能高效管理",
+      "vi": "Quản lý hiệu quả năng lượng điện",
+      "th": "การบริหารจัดการพลังงานไฟฟ้าอย่างมีประสิทธิภาพ",
+      "id": "Pengelolaan Energi Listrik yang Efisien",
+      "ms": "Pengurusan Tenaga Elektrik yang Cekap"
+    },
+    "MAINTENANCE ORDINANCE": {
+      "zh": "赡养条例",
+      "vi": "Pháp lệnh Cấp dưỡng",
+      "th": "บัญญัติค่าอุปการะเลี้ยงดู",
+      "id": "Peraturan Nafkah",
+      "ms": "Ordinan Nafkah"
+    },
+    "LABUAN BUSINESS ACTIVITY TAX (EXEMPTION) 2020": {
+      "zh": "纳闽商业活动税（豁免）2020",
+      "vi": "Thuế Hoạt động Kinh doanh Labuan (Miễn trừ) 2020",
+      "th": "ภาษีกิจกรรมทางธุรกิจลาบวน (การยกเว้น) 2020",
+      "id": "Pajak Kegiatan Usaha Labuan (Pembebasan) 2020",
+      "ms": "Cukai Aktiviti Perniagaan Labuan (Pengecualian) 2020"
+    },
+    "ABOLITION OF MANDATORY DEATH PENALTY": {
+      "zh": "废除强制死刑",
+      "vi": "Bãi bỏ án tử hình bắt buộc",
+      "th": "การยกเลิกโทษประหารชีวิตภาคบังคับ",
+      "id": "Penghapusan Hukuman Mati Wajib",
+      "ms": "Pemansuhan Hukuman Mati Mandatori"
+    },
+    "LAND PUBLIC TRANSPORT [COMMERCIAL VEHICLES LICENSING BOARD (RATES OF FARE) (AMENDMENT) RULES 2015]": {
+      "zh": "陆路公共交通［2015年商用车辆发牌局（车费率）（修正）规则］",
+      "vi": "Vận tải Công cộng Đường bộ [Quy tắc (Sửa đổi) của Cục Cấp phép Xe Thương mại (Mức giá vé) 2015]",
+      "th": "การขนส่งสาธารณะทางบก [ข้อบังคับคณะกรรมการออกใบอนุญาตยานพาหนะพาณิชย์ (อัตราค่าโดยสาร) (การแก้ไข) 2015]",
+      "id": "Angkutan Umum Darat [Peraturan (Perubahan) Dewan Perizinan Kendaraan Niaga (Tarif Angkutan) 2015]",
+      "ms": "Pengangkutan Awam Darat [Kaedah (Pindaan) Lembaga Pelesenan Kenderaan Perdagangan (Kadar Tambang) 2015]"
+    },
+    "WATER SERVICES INDUSTRY (MODIFICATION OF THE SEWERAGE SERVICES (CHARGES) REGULATIONS 1994)": {
+      "zh": "水务业（1994年排污服务（收费）条例的修改）",
+      "vi": "Ngành Dịch vụ Nước (Sửa đổi Quy định Dịch vụ Thoát nước (Phí) 1994)",
+      "th": "อุตสาหกรรมบริการน้ำ (การปรับปรุงข้อบังคับบริการระบายน้ำเสีย (ค่าบริการ) 1994)",
+      "id": "Industri Jasa Air (Modifikasi Peraturan Jasa Saluran Air Limbah (Biaya) 1994)",
+      "ms": "Industri Perkhidmatan Air (Pengubahsuaian Peraturan Perkhidmatan Pembentungan (Caj) 1994)"
+    },
+    "REVISIONS OF LAWS (DIPLOMATIC AND CONSULAR OFFICERS (OATHS AND FEES))": {
+      "zh": "法律修订（外交与领事官员（宣誓与费用））",
+      "vi": "Sửa đổi Luật (Viên chức Ngoại giao và Lãnh sự (Tuyên thệ và Phí))",
+      "th": "การปรับปรุงกฎหมาย (เจ้าหน้าที่การทูตและกงสุล (คำปฏิญาณและค่าธรรมเนียม))",
+      "id": "Revisi Undang-Undang (Pejabat Diplomatik dan Konsuler (Sumpah dan Biaya))",
+      "ms": "Semakan Semula Undang-Undang (Pegawai Diplomatik dan Konsular (Ikrar dan Fi))"
+    },
+    "MALAYSIAN RUBBER EXCHANGE AND LICENSING BOARD": {
+      "zh": "马来西亚橡胶交易所与发牌局",
+      "vi": "Sở Giao dịch Cao su và Cục Cấp phép Malaysia",
+      "th": "ตลาดซื้อขายยางพาราและคณะกรรมการออกใบอนุญาตมาเลเซีย",
+      "id": "Bursa Karet dan Dewan Perizinan Malaysia",
+      "ms": "Bursa Getah dan Lembaga Pelesenan Malaysia"
+    },
+    "PUBLIC FINANCE AND FISCAL RESPONSIBILITY": {
+      "zh": "公共财政与财政责任",
+      "vi": "Tài chính Công và Trách nhiệm Tài khóa",
+      "th": "การเงินการคลังสาธารณะและความรับผิดชอบทางการคลัง",
+      "id": "Keuangan Publik dan Tanggung Jawab Fiskal",
+      "ms": "Kewangan Awam dan Tanggungjawab Fiskal"
+    },
+    "INCOME TAX (EXEMPTION) (NO. 4) 2013": {
+      "zh": "所得税（豁免）（第4号）2013",
+      "vi": "Thuế thu nhập (Miễn trừ) (Số 4) 2013",
+      "th": "ภาษีเงินได้ (การยกเว้น) (ฉบับที่ 4) 2013",
+      "id": "Pajak Penghasilan (Pembebasan) (Nomor 4) 2013",
+      "ms": "Cukai Pendapatan (Pengecualian) (Bilangan 4) 2013"
+    },
+    "JURISDICTIONAL IMMUNITIES OF FOREIGN STATES": {
+      "zh": "外国国家的管辖豁免",
+      "vi": "Quyền miễn trừ tài phán của quốc gia nước ngoài",
+      "th": "ความคุ้มกันทางเขตอำนาจของรัฐต่างประเทศ",
+      "id": "Kekebalan Yurisdiksional Negara Asing",
+      "ms": "Kekebalan Bidang Kuasa Negara Asing"
+    },
+    "LAND PUBLIC TRANSPORT [MOTOR VEHICLES (COMMERCIAL TRANSPORT) (AMENDMENT) RULES 2015]": {
+      "zh": "陆路公共交通［2015年机动车辆（商业运输）（修正）规则］",
+      "vi": "Vận tải Công cộng Đường bộ [Quy tắc (Sửa đổi) Xe cơ giới (Vận tải Thương mại) 2015]",
+      "th": "การขนส่งสาธารณะทางบก [ข้อบังคับ (การแก้ไข) ยานยนต์ (การขนส่งพาณิชย์) 2015]",
+      "id": "Angkutan Umum Darat [Peraturan (Perubahan) Kendaraan Bermotor (Angkutan Niaga) 2015]",
+      "ms": "Pengangkutan Awam Darat [Kaedah (Pindaan) Kenderaan Bermotor (Pengangkutan Perdagangan) 2015]"
+    },
+    "JEWELLERS": {
+      "zh": "珠宝商",
+      "vi": "Thợ kim hoàn",
+      "th": "ผู้ค้าเครื่องประดับ",
+      "id": "Toko Perhiasan",
+      "ms": "Penjual Barang Kemas"
+    },
+    "DANGEROUD DRUGS": {
+      "zh": "危险药物",
+      "vi": "Thuốc độc hại",
+      "th": "ยาอันตราย",
+      "id": "Obat Berbahaya",
+      "ms": "Dadah Berbahaya"
+    },
+    "INCOME TAX (CONDITIONS FOR THE GRANT OF REBATE UNDER SUBSECTION 6D(4))": {
+      "zh": "所得税（第6D(4)款退税条件）",
+      "vi": "Thuế thu nhập (Điều kiện được hoàn thuế theo khoản 6D(4))",
+      "th": "ภาษีเงินได้ (เงื่อนไขการให้เงินคืนภาษีตามมาตรา 6D(4))",
+      "id": "Pajak Penghasilan (Syarat Pemberian Pengurangan menurut Ayat 6D(4))",
+      "ms": "Cukai Pendapatan (Syarat Pemberian Rebate di bawah Subseksyen 6D(4))"
+    },
+    "SPEED LIMIT (JALAN CHERAS (EAST) RAMP)": {
+      "zh": "限速（蕉赖路（东）匝道）",
+      "vi": "Giới hạn tốc độ (Đường dốc Jalan Cheras (Đông))",
+      "th": "จำกัดความเร็ว (ทางลาดถนนเจอรัด (ตะวันออก))",
+      "id": "Batas Kecepatan (Jalur Jalan Cheras (Timur))",
+      "ms": "Had Laju (Lohong Jalan Cheras (Timur))"
+    },
+    "GOVERNMENT SERVICE EFFICIENCY COMMITMENT": {
+      "zh": "政府服务效率承诺",
+      "vi": "Cam kết hiệu quả dịch vụ chính phủ",
+      "th": "คำมั่นประสิทธิภาพการบริการภาครัฐ",
+      "id": "Komitmen Efisiensi Layanan Pemerintah",
+      "ms": "Komitmen Kecekapan Perkhidmatan Kerajaan"
+    },
+    "MALAYSIAN MEDIA COUNCIL": {
+      "zh": "马来西亚媒体理事会",
+      "vi": "Hội đồng Truyền thông Malaysia",
+      "th": "สภากลางสื่อมาเลเซีย",
+      "id": "Dewan Media Malaysia",
+      "ms": "Majlis Media Malaysia"
+    },
+    "CUSTOMS (ANTI-DUMPING DUTIES) (NO. 2) ORDER 2021": {
+      "zh": "关税（反倾销税）（第2号）令2021",
+      "vi": "Lệnh Hải quan (Thuế chống bán phá giá) (Số 2) 2021",
+      "th": "คำสั่งศุลกากร (อากรตอบโต้การทุ่มตลาด) (ฉบับที่ 2) 2021",
+      "id": "Perintah Kepabeanan (Bea Antidumping) (Nomor 2) 2021",
+      "ms": "Perintah Kastam (Duti Antidumping) (Bilangan 2) 2021"
+    },
+    "PARLIAMENTARY SERVICE": {
+      "zh": "议会服务",
+      "vi": "Dịch vụ Nghị viện",
+      "th": "บริการรัฐสภา",
+      "id": "Layanan Parlemen",
+      "ms": "Perkhidmatan Parlimen"
+    },
+    "SUPERIOR OF THE INSTITUTE OF THE CONGREGATION OF THE BROTHERS OF MERCY": {
+      "zh": "慈悲兄弟会修会院长",
+      "vi": "Bề trên Tu hội Anh em Lòng Thương Xót",
+      "th": "อธิการเจ้าคณะภราดาแห่งเมตตา",
+      "id": "Pemimpin Kongregasi Saudara Belas Kasih",
+      "ms": "Ketua Institut Kongregasi Saudara Kerahiman"
+    },
+    "COUNTERVAILING AND ANTI-DUMPING DUTIES": {
+      "zh": "反补贴与反倾销税",
+      "vi": "Thuế đối kháng và thuế chống bán phá giá",
+      "th": "อากรตอบโต้การอุดหนุนและอากรตอบโต้การทุ่มตลาด",
+      "id": "Bea Imbalan dan Bea Antidumping",
+      "ms": "Duti Imbangan dan Duti Antidumping"
+    },
+    "CUSTOMS (ANTI-DUMPING DUTIES) (NO. 3) ORDER 2020": {
+      "zh": "关税（反倾销税）（第3号）令2020",
+      "vi": "Lệnh Hải quan (Thuế chống bán phá giá) (Số 3) 2020",
+      "th": "คำสั่งศุลกากร (อากรตอบโต้การทุ่มตลาด) (ฉบับที่ 3) 2020",
+      "id": "Perintah Kepabeanan (Bea Antidumping) (Nomor 3) 2020",
+      "ms": "Perintah Kastam (Duti Antidumping) (Bilangan 3) 2020"
+    },
+    "INTERNATIONAL SETTLEMENT AGREEMENTS RESULTING FROM MEDIATION": {
+      "zh": "经调解达成的国际和解协议",
+      "vi": "Các thỏa thuận dàn xếp quốc tế hình thành từ hòa giải",
+      "th": "ข้อตกลงยุติข้อพิพาทระหว่างประเทศที่เกิดจากการไกล่เกลี่ย",
+      "id": "Perjanjian Penyelesaian Internasional yang Dihasilkan dari Mediasi",
+      "ms": "Perjanjian Penyelesaian Antarabangsa Hasil Pengantaraan"
+    },
+    "GOVERNMENT PROCUREMENT": {
+      "zh": "政府采购",
+      "vi": "Mua sắm chính phủ",
+      "th": "การจัดซื้อจัดจ้างภาครัฐ",
+      "id": "Pengadaan Pemerintah",
+      "ms": "Perolehan Kerajaan"
+    },
+    "JOHOR BAHRU-SINGAPORE RAPID TRANSIT SYSTEM LINK": {
+      "zh": "新山—新加坡捷运系统连接线",
+      "vi": "Tuyến Liên kết Hệ thống Vận tải Nhanh Johor Bahru-Singapore",
+      "th": "เส้นทางเชื่อมระบบขนส่งมวลชนเร็วยะโฮร์บาห์รู-สิงคโปร์",
+      "id": "Penghubung Sistem Angkutan Cepat Johor Bahru-Singapura",
+      "ms": "Pautan Sistem Transit Aliran Johor Bahru-Singapura"
+    },
+    "STATISTICS": {
+      "zh": "统计",
+      "vi": "Thống kê",
+      "th": "สถิติ",
+      "id": "Statistik",
+      "ms": "Perangkaan"
+    },
+    "PESTICIDES (EXEMPTION) 2004": {
+      "zh": "农药（豁免）2004",
+      "vi": "Thuốc bảo vệ thực vật (Miễn trừ) 2004",
+      "th": "สารกำจัดศัตรูพืช (การยกเว้น) 2004",
+      "id": "Pestisida (Pembebasan) 2004",
+      "ms": "Racun Makhluk Perosak (Pengecualian) 2004"
+    },
+    "PETROLEUM MINING": {
+      "zh": "石油开采",
+      "vi": "Khai thác dầu khí",
+      "th": "การทำเหมืองปิโตรเลียม",
+      "id": "Penambangan Petroleum",
+      "ms": "Perlombongan Petroleum"
+    },
+    "COMMISSIONERS FOR OATHS": {
+      "zh": "宣誓专员",
+      "vi": "Ủy viên tuyên thệ",
+      "th": "ผู้มีอำนาจรับคำปฏิญาณ",
+      "id": "Komisioner Sumpah",
+      "ms": "Pesuruhjaya Sumpah"
+    },
+    "TRUSTEES": {
+      "zh": "受托人",
+      "vi": "Người được ủy thác",
+      "th": "ผู้จัดการมรดก",
+      "id": "Wali Amanat",
+      "ms": "Pemegang Amanah"
+    },
+    "PROBATE AND ADMINISTRATION": {
+      "zh": "遗嘱认证与遗产管理",
+      "vi": "Chứng thực di chúc và Quản lý di sản",
+      "th": "การพิสูจน์พินัยกรรมและการจัดการมรดก",
+      "id": "Pengesahan Wasiat dan Administrasi",
+      "ms": "Probet dan Pentadbiran"
+    },
+    "RECIPROCAL ENFORCEMENT OF JUDGMENTS": {
+      "zh": "判决的相互强制执行",
+      "vi": "Thi hành án lẫn nhau",
+      "th": "การบังคับคดีคำพิพากษาต่างตอบแทน",
+      "id": "Pelaksanaan Putusan Timbal Balik",
+      "ms": "Penguatkuasaan Bersaling Penghakiman"
+    },
+    "FACTORIES AND MACHINERY (EXEMPTION TO PETRONAS GAS BERHAD-EXPORT TERMINAL (TANJUNG SULONG EXPORT TERMINAL), KEMAMAN, TERENGGANU)": {
+      "zh": "工厂与机械（豁免国家石油天然气有限公司—丹戎苏隆出口终端，登嘉楼甘马挽）",
+      "vi": "Nhà máy và Máy móc (Miễn trừ cho Petronas Gas Berhad - Cảng Xuất khẩu Tanjung Sulong, Kemaman, Terengganu)",
+      "th": "โรงงานและเครื่องจักร (การยกเว้นให้ Petronas Gas Berhad - สถานีส่งออกตันจุงสุริง, เกอมามัน, ตรังกานู)",
+      "id": "Pabrik dan Mesin (Pengecualian kepada Petronas Gas Berhad - Terminal Ekspor Tanjung Sulong, Kemaman, Terengganu)",
+      "ms": "Kilang dan Jentera (Pengecualian kepada Petronas Gas Berhad - Terminal Eksport Tanjung Sulong, Kemaman, Terengganu)"
+    },
+    "MOTOR VEHICLE": {
+      "zh": "机动车辆",
+      "vi": "Xe cơ giới",
+      "th": "ยานยนต์",
+      "id": "Kendaraan Bermotor",
+      "ms": "Kenderaan Bermotor"
+    },
+    "INCOME TAX (EXEMPTION) (NO. 7) 2011": {
+      "zh": "所得税（豁免）（第7号）2011",
+      "vi": "Thuế thu nhập (Miễn trừ) (Số 7) 2011",
+      "th": "ภาษีเงินได้ (การยกเว้น) (ฉบับที่ 7) 2011",
+      "id": "Pajak Penghasilan (Pembebasan) (Nomor 7) 2011",
+      "ms": "Cukai Pendapatan (Pengecualian) (Bilangan 7) 2011"
+    },
+    "EXCISE DUTIES (EXEMPTION) (AMENDMENT) ORDER 2024": {
+      "zh": "消费税（豁免）（修正）令2024",
+      "vi": "Lệnh Thuế Tiêu thụ Đặc biệt (Miễn trừ) (Sửa đổi) 2024",
+      "th": "คำสั่งอากรสรรพสามิต (การยกเว้น) (การแก้ไข) 2024",
+      "id": "Perintah Cukai Eksais (Pembebasan) (Perubahan) 2024",
+      "ms": "Perintah Duti Eksais (Pengecualian) (Pindaan) 2024"
+    },
+    "LEGAL AID AND ADVICE": {
+      "zh": "法律援助与咨询",
+      "vi": "Trợ giúp và Tư vấn Pháp lý",
+      "th": "ความช่วยเหลือและคำแนะนำทางกฎหมาย",
+      "id": "Bantuan dan Nasihat Hukum",
+      "ms": "Bantuan dan Nasihat Guaman"
+    },
+    "STAMP DUTY (EXEMPTION) (NO.8) 2018": {
+      "zh": "印花税（豁免）（第8号）2018",
+      "vi": "Thuế tem (Miễn trừ) (Số 8) 2018",
+      "th": "อากรแสตมป์ (การยกเว้น) (ฉบับที่ 8) 2018",
+      "id": "Bea Meterai (Pembebasan) (Nomor 8) 2018",
+      "ms": "Duti Setem (Pengecualian) (Bilangan 8) 2018"
+    },
+    "INCOME TAX (EXEMPTION) (NO. 11) 2018": {
+      "zh": "所得税（豁免）（第11号）2018",
+      "vi": "Thuế thu nhập (Miễn trừ) (Số 11) 2018",
+      "th": "ภาษีเงินได้ (การยกเว้น) (ฉบับที่ 11) 2018",
+      "id": "Pajak Penghasilan (Pembebasan) (Nomor 11) 2018",
+      "ms": "Cukai Pendapatan (Pengecualian) (Bilangan 11) 2018"
+    },
+    "PROHIBITION AGAINST SPITTING": {
+      "zh": "禁止随地吐痰",
+      "vi": "Cấm khạc nhổ",
+      "th": "การห้ามถ่มน้ำลาย",
+      "id": "Larangan Meludah",
+      "ms": "Larangan Meludah"
+    },
+    "INCOME TAX (EXEMPTION) (NO. 12) 2018": {
+      "zh": "所得税（豁免）（第12号）2018",
+      "vi": "Thuế thu nhập (Miễn trừ) (Số 12) 2018",
+      "th": "ภาษีเงินได้ (การยกเว้น) (ฉบับที่ 12) 2018",
+      "id": "Pajak Penghasilan (Pembebasan) (Nomor 12) 2018",
+      "ms": "Cukai Pendapatan (Pengecualian) (Bilangan 12) 2018"
+    },
+    "CUSTOMS DUTIES (LANGKAWI) 1986": {
+      "zh": "关税（浮罗交怡）1986",
+      "vi": "Thuế Hải quan (Langkawi) 1986",
+      "th": "อากรศุลกากร (ลังกาวี) 1986",
+      "id": "Bea Kepabeanan (Langkawi) 1986",
+      "ms": "Duti Kastam (Langkawi) 1986"
+    }
+  }
+}

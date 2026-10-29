@@ -1,0 +1,769 @@
+{
+ "batch": "sg-p1-b15",
+ "note": "SG 尾段：体裁 + 母法 + 括注 组合合成",
+ "count": 127,
+ "items": {
+  "SG-H1197": {
+   "vi": "Lệnh Ưu đãi mở rộng kinh tế (Công nghiệp tiên phong và sản phẩm tiên phong) (Hợp nhất)",
+   "th": "คำสั่งสิ่งจูงใจการขยายตัวทางเศรษฐกิจ (อุตสาหกรรมบุกเบิกและผลิตภัณฑ์บุกเบิก) (การรวมฉบับ)",
+   "id": "Perintah Insentif Ekspansi Ekonomi (Industri Perintis dan Produk Perintis) (Konsolidasi)",
+   "ms": "Perintah Insentif Pengembangan Ekonomi (Industri Perintis dan Produk Perintis) (Penyatuan)"
+  },
+  "SG-H1198": {
+   "vi": "Thông báo Ưu đãi mở rộng kinh tế (Miễn giảm thuế thu nhập) (Chuyển giao chức năng và quyền hạn theo Điều 3A) (Số 2) 2024",
+   "th": "ประกาศสิ่งจูงใจการขยายตัวทางเศรษฐกิจ (การลดหย่อนภาษีเงินได้) (การมอบหมายหน้าที่และอำนาจตามมาตรา 3A) (ฉบับที่ 2) 2024",
+   "id": "Pemberitahuan Insentif Ekspansi Ekonomi (Keringanan Pajak Penghasilan) (Pelimpahan Fungsi dan Wewenang menurut Pasal 3A) (Nomor 2) 2024",
+   "ms": "Pemberitahuan Insentif Pengembangan Ekonomi (Pelepasan Cukai Pendapatan) (Penguntukan Fungsi dan Kuasa menurut Seksyen 3A) (No. 2) 2024"
+  },
+  "SG-H1199": {
+   "vi": "Thông báo Ưu đãi mở rộng kinh tế (Miễn giảm thuế thu nhập) (Chuyển giao chức năng và quyền hạn theo Điều 3A) 2024",
+   "th": "ประกาศสิ่งจูงใจการขยายตัวทางเศรษฐกิจ (การลดหย่อนภาษีเงินได้) (การมอบหมายหน้าที่และอำนาจตามมาตรา 3A) 2024",
+   "id": "Pemberitahuan Insentif Ekspansi Ekonomi (Keringanan Pajak Penghasilan) (Pelimpahan Fungsi dan Wewenang menurut Pasal 3A) 2024",
+   "ms": "Pemberitahuan Insentif Pengembangan Ekonomi (Pelepasan Cukai Pendapatan) (Penguntukan Fungsi dan Kuasa menurut Seksyen 3A) 2024"
+  },
+  "SG-H1200": {
+   "vi": "Quy chế Ưu đãi mở rộng kinh tế (Miễn giảm thuế thu nhập) (Thu nhập từ sở hữu trí tuệ) 2018",
+   "th": "ข้อบังคับสิ่งจูงใจการขยายตัวทางเศรษฐกิจ (การลดหย่อนภาษีเงินได้) (รายได้จากทรัพย์สินทางปัญญา) 2018",
+   "id": "Peraturan Insentif Ekspansi Ekonomi (Keringanan Pajak Penghasilan) (Penghasilan Kekayaan Intelektual) 2018",
+   "ms": "Peraturan Insentif Pengembangan Ekonomi (Pelepasan Cukai Pendapatan) (Pendapatan Harta Intelek) 2018"
+  },
+  "SG-H1201": {
+   "vi": "Quy chế Ưu đãi mở rộng kinh tế (Miễn giảm thuế thu nhập) (Hoạt động đủ điều kiện)",
+   "th": "ข้อบังคับสิ่งจูงใจการขยายตัวทางเศรษฐกิจ (การลดหย่อนภาษีเงินได้) (กิจกรรมที่เข้าเกณฑ์)",
+   "id": "Peraturan Insentif Ekspansi Ekonomi (Keringanan Pajak Penghasilan) (Kegiatan yang Memenuhi Syarat)",
+   "ms": "Peraturan Insentif Pengembangan Ekonomi (Pelepasan Cukai Pendapatan) (Aktiviti yang Layak)"
+  },
+  "SG-H1202": {
+   "vi": "Thông báo Giáo dục (Miễn trừ trường tôn giáo khỏi Luật) 1989",
+   "th": "ประกาศการศึกษา (การยกเว้นโรงเรียนศาสนาจากพระราชบัญญัติ) 1989",
+   "id": "Pemberitahuan Pendidikan (Pembebasan Sekolah Keagamaan dari Undang-Undang) 1989",
+   "ms": "Pemberitahuan Pendidikan (Pengecualian Sekolah Agama daripada Akta) 1989"
+  },
+  "SG-H1203": {
+   "vi": "Quy chế Giáo dục (Trợ cấp ngân sách) 1982",
+   "th": "ข้อบังคับการศึกษา (เงินอุดหนุน) 1982",
+   "id": "Peraturan Pendidikan (Bantuan Hibah) 1982",
+   "ms": "Peraturan Pendidikan (Bantuan Geran) 1982"
+  },
+  "SG-H1204": {
+   "vi": "Quy chế Giáo dục (Tạp chí học đường) 1959",
+   "th": "ข้อบังคับการศึกษา (วารสารโรงเรียน) 1959",
+   "id": "Peraturan Pendidikan (Majalah Sekolah) 1959",
+   "ms": "Peraturan Pendidikan (Majalah Sekolah) 1959"
+  },
+  "SG-H1205": {
+   "vi": "Quy chế Giáo dục (Trường học) 1957",
+   "th": "ข้อบังคับการศึกษา (โรงเรียน) 1957",
+   "id": "Peraturan Pendidikan (Sekolah) 1957",
+   "ms": "Peraturan Pendidikan (Sekolah) 1957"
+  },
+  "SG-H1226": {
+   "vi": "Quy chế Chương trình tài trợ và tiết kiệm giáo dục (Khoản tài trợ)",
+   "th": "ข้อบังคับโครงการกองทุนและการออมเพื่อการศึกษา (เงินทุนอุดหนุน)",
+   "id": "Peraturan Skema Dana Abadi dan Tabungan Pendidikan (Hibah)",
+   "ms": "Peraturan Skim Endowmen dan Simpanan Pendidikan (Geran)"
+  },
+  "SG-H1227": {
+   "vi": "Quy chế Chương trình tài trợ và tiết kiệm giáo dục (Chương trình giáo dục sau trung học)",
+   "th": "ข้อบังคับโครงการกองทุนและการออมเพื่อการศึกษา (โครงการการศึกษาระดับหลังมัธยมศึกษา)",
+   "id": "Peraturan Skema Dana Abadi dan Tabungan Pendidikan (Skema Pendidikan Pascamenengah)",
+   "ms": "Peraturan Skim Endowmen dan Simpanan Pendidikan (Skim Pendidikan Lepas Menengah)"
+  },
+  "SG-H1231": {
+   "vi": "Quy chế Điện lực (Chuyển mục đích sử dụng công trình điện) 2025",
+   "th": "ข้อบังคับไฟฟ้า (การเปลี่ยนวัตถุประสงค์การใช้งานระบบไฟฟ้า) 2025",
+   "id": "Peraturan Ketenagalistrikan (Perubahan Peruntukan Instalasi) 2025",
+   "ms": "Peraturan Elektrik (Perubahan Peruntukan Pepasangan) 2025"
+  },
+  "SG-H1232": {
+   "vi": "Lệnh Điện lực (Taser Power Pte. Ltd. — Miễn trừ theo Điều 6(1)) 2022",
+   "th": "คำสั่งไฟฟ้า (Taser Power Pte. Ltd. — การยกเว้นตามมาตรา 6(1)) 2022",
+   "id": "Perintah Ketenagalistrikan (Taser Power Pte. Ltd. — Pembebasan Pasal 6(1)) 2022",
+   "ms": "Perintah Elektrik (Taser Power Pte. Ltd. — Pengecualian Seksyen 6(1)) 2022"
+  },
+  "SG-H1242": {
+   "vi": "Thông báo Việc làm (Gia hạn Hướng dẫn tiền lương sửa đổi tháng 12 năm 2001) 2003",
+   "th": "ประกาศการจ้างงาน (การขยายระยะเวลาของแนวทางค่าจ้างฉบับแก้ไขเดือนธันวาคม 2544) 2003",
+   "id": "Pemberitahuan Ketenagakerjaan (Perpanjangan Pedoman Upah Revisi Desember 2001) 2003",
+   "ms": "Pemberitahuan Pekerjaan (Pelanjutan Garis Panduan Gaji Semakan Disember 2001) 2003"
+  },
+  "SG-H1243": {
+   "vi": "Quy chế Việc làm (Lao động nữ)",
+   "th": "ข้อบังคับการจ้างงาน (คนงานหญิง)",
+   "id": "Peraturan Ketenagakerjaan (Pekerja Perempuan)",
+   "ms": "Peraturan Pekerjaan (Pekerja Wanita)"
+  },
+  "SG-H1244": {
+   "vi": "Quy chế Việc làm (Biên bản chứng cứ — Lệ phí)",
+   "th": "ข้อบังคับการจ้างงาน (บันทึกพยานหลักฐาน — ค่าธรรมเนียม)",
+   "id": "Peraturan Ketenagakerjaan (Catatan Bukti — Biaya)",
+   "ms": "Peraturan Pekerjaan (Nota Keterangan — Fi)"
+  },
+  "SG-H1245": {
+   "vi": "Quy chế Việc làm (Người lao động bán thời gian)",
+   "th": "ข้อบังคับการจ้างงาน (ลูกจ้างทำงานไม่เต็มเวลา)",
+   "id": "Peraturan Ketenagakerjaan (Pekerja Paruh Waktu)",
+   "ms": "Peraturan Pekerjaan (Pekerja Sambilan)"
+  },
+  "SG-H1246": {
+   "vi": "Quy chế Việc làm (Tranh chấp theo quy định) 2017",
+   "th": "ข้อบังคับการจ้างงาน (ข้อพิพาทตามที่กำหนด) 2017",
+   "id": "Peraturan Ketenagakerjaan (Sengketa yang Ditetapkan) 2017",
+   "ms": "Peraturan Pekerjaan (Pertikaian yang Ditetapkan) 2017"
+  },
+  "SG-H1248": {
+   "vi": "Quy chế Việc làm (Thủ tục — Các quy định tương hỗ)",
+   "th": "ข้อบังคับการจ้างงาน (กระบวนการ — บทบัญญัติตอบแทนซึ่งกันและกัน)",
+   "id": "Peraturan Ketenagakerjaan (Prosedur — Ketentuan Timbal Balik)",
+   "ms": "Peraturan Pekerjaan (Prosedur — Peruntukan Timbal Balik)"
+  },
+  "SG-H1261": {
+   "vi": "Thông báo Việc làm (Khuyến nghị tăng lương hằng năm) 1998",
+   "th": "ประกาศการจ้างงาน (ข้อเสนอแนะการขึ้นค่าจ้างประจำปี) 1998",
+   "id": "Pemberitahuan Ketenagakerjaan (Rekomendasi Kenaikan Upah Tahunan) 1998",
+   "ms": "Pemberitahuan Pekerjaan (Syarahan Kenaikan Gaji Tahunan) 1998"
+  },
+  "SG-H1262": {
+   "vi": "Thông báo Việc làm (Khuyến nghị tăng lương hằng năm) 2000",
+   "th": "ประกาศการจ้างงาน (ข้อเสนอแนะการขึ้นค่าจ้างประจำปี) 2000",
+   "id": "Pemberitahuan Ketenagakerjaan (Rekomendasi Kenaikan Upah Tahunan) 2000",
+   "ms": "Pemberitahuan Pekerjaan (Syarahan Kenaikan Gaji Tahunan) 2000"
+  },
+  "SG-H1263": {
+   "vi": "Thông báo Việc làm (Khuyến nghị tăng lương hằng năm) 2001",
+   "th": "ประกาศการจ้างงาน (ข้อเสนอแนะการขึ้นค่าจ้างประจำปี) 2001",
+   "id": "Pemberitahuan Ketenagakerjaan (Rekomendasi Kenaikan Upah Tahunan) 2001",
+   "ms": "Pemberitahuan Pekerjaan (Syarahan Kenaikan Gaji Tahunan) 2001"
+  },
+  "SG-H1264": {
+   "vi": "Thông báo Việc làm (Báo cáo sa thải) 2019",
+   "th": "ประกาศการจ้างงาน (การรายงานการเลิกจ้าง) 2019",
+   "id": "Pemberitahuan Ketenagakerjaan (Pelaporan Pemutusan Hubungan Kerja) 2019",
+   "ms": "Pemberitahuan Pekerjaan (Pelaporan Pemberhentian Kerja) 2019"
+  },
+  "SG-H1265": {
+   "vi": "Thông báo Việc làm (Hướng dẫn tiền lương sửa đổi) 1998",
+   "th": "ประกาศการจ้างงาน (แนวทางค่าจ้างฉบับแก้ไข) 1998",
+   "id": "Pemberitahuan Ketenagakerjaan (Pedoman Upah Revisi) 1998",
+   "ms": "Pemberitahuan Pekerjaan (Garis Panduan Gaji Semakan) 1998"
+  },
+  "SG-H1266": {
+   "vi": "Thông báo Việc làm (Hướng dẫn tiền lương sửa đổi) 2002",
+   "th": "ประกาศการจ้างงาน (แนวทางค่าจ้างฉบับแก้ไข) 2002",
+   "id": "Pemberitahuan Ketenagakerjaan (Pedoman Upah Revisi) 2002",
+   "ms": "Pemberitahuan Pekerjaan (Garis Panduan Gaji Semakan) 2002"
+  },
+  "SG-H1267": {
+   "vi": "Quy chế Việc làm (Nghỉ ốm — Nằm viện) 2019",
+   "th": "ข้อบังคับการจ้างงาน (การลาป่วย — การรักษาในโรงพยาบาล) 2019",
+   "id": "Peraturan Ketenagakerjaan (Cuti Sakit — Rawat Inap) 2019",
+   "ms": "Peraturan Pekerjaan (Cuti Sakit — Rawatan Hospital) 2019"
+  },
+  "SG-H1277": {
+   "vi": "Thông báo Sử dụng lao động nước ngoài (Miễn trừ theo Điều 10) 2026",
+   "th": "ประกาศการจ้างแรงงานต่างชาติ (การยกเว้นตามมาตรา 10) 2026",
+   "id": "Pemberitahuan Penggunaan Tenaga Kerja Asing (Pembebasan Pasal 10) 2026",
+   "ms": "Pemberitahuan Penggajian Tenaga Kerja Asing (Pengecualian Seksyen 10) 2026"
+  },
+  "SG-H1278": {
+   "vi": "Quy chế Sử dụng lao động nước ngoài (Thủ tục của Ban xử lý vi phạm và kháng nghị) 2013",
+   "th": "ข้อบังคับการจ้างแรงงานต่างชาติ (กระบวนการของคณะกรรมการวินิจฉัยการละเมิดและการอุทธรณ์) 2013",
+   "id": "Peraturan Penggunaan Tenaga Kerja Asing (Prosedur Badan Pelanggaran dan Banding) 2013",
+   "ms": "Peraturan Penggajian Tenaga Kerja Asing (Prosiding Lembaga Pelanggaran dan Rayuan) 2013"
+  },
+  "SG-H1279": {
+   "vi": "Thông báo Sử dụng lao động nước ngoài (Miễn trừ giấy phép lao động cho làm việc linh hoạt) 2013",
+   "th": "ประกาศการจ้างแรงงานต่างชาติ (การยกเว้นใบอนุญาตทำงานสำหรับการทำงานที่ยืดหยุ่น) 2013",
+   "id": "Pemberitahuan Penggunaan Tenaga Kerja Asing (Pembebasan Izin Kerja untuk Fleksibilitas Kerja) 2013",
+   "ms": "Pemberitahuan Penggajian Tenaga Kerja Asing (Pengecualian Permit Kerja bagi Fleksibiliti Pekerjaan) 2013"
+  },
+  "SG-H1280": {
+   "vi": "Lệnh Sử dụng lao động nước ngoài (Phí) 2011",
+   "th": "คำสั่งการจ้างแรงงานต่างชาติ (ค่าธรรมเนียม) 2011",
+   "id": "Perintah Penggunaan Tenaga Kerja Asing (Retribusi) 2011",
+   "ms": "Perintah Penggajian Tenaga Kerja Asing (Levi) 2011"
+  },
+  "SG-H1281": {
+   "vi": "Thông báo Sử dụng lao động nước ngoài (Biện pháp an ninh tại nơi làm việc)",
+   "th": "ประกาศการจ้างแรงงานต่างชาติ (มาตรการรักษาความปลอดภัยในสถานที่ทำงาน)",
+   "id": "Pemberitahuan Penggunaan Tenaga Kerja Asing (Tindakan Keamanan di Tempat Kerja)",
+   "ms": "Pemberitahuan Penggajian Tenaga Kerja Asing (Langkah Keselamatan di Tempat Kerja)"
+  },
+  "SG-H1282": {
+   "vi": "Thông báo Sử dụng lao động nước ngoài (Miễn trừ giấy phép lao động cho thuyền viên và sinh viên toàn thời gian)",
+   "th": "ประกาศการจ้างแรงงานต่างชาติ (การยกเว้นใบอนุญาตทำงานสำหรับลูกเรือและนักศึกษาเต็มเวลา)",
+   "id": "Pemberitahuan Penggunaan Tenaga Kerja Asing (Pembebasan Izin Kerja bagi Pelaut dan Mahasiswa Penuh Waktu)",
+   "ms": "Pemberitahuan Penggajian Tenaga Kerja Asing (Pengecualian Permit Kerja bagi Pelaut dan Pelajar Sepenuh Masa)"
+  },
+  "SG-H1283": {
+   "vi": "Thông báo Sử dụng lao động nước ngoài (Miễn trừ giấy phép lao động — Hoạt động được chỉ định)",
+   "th": "ประกาศการจ้างแรงงานต่างชาติ (การยกเว้นใบอนุญาตทำงาน — กิจกรรมที่ระบุ)",
+   "id": "Pemberitahuan Penggunaan Tenaga Kerja Asing (Pembebasan Izin Kerja — Kegiatan Tertentu)",
+   "ms": "Pemberitahuan Penggajian Tenaga Kerja Asing (Pengecualian Permit Kerja — Aktiviti Tertentu)"
+  },
+  "SG-H1284": {
+   "vi": "Quy chế Sử dụng lao động nước ngoài (Giấy phép lao động) 2012",
+   "th": "ข้อบังคับการจ้างแรงงานต่างชาติ (ใบอนุญาตทำงาน) 2012",
+   "id": "Peraturan Penggunaan Tenaga Kerja Asing (Izin Kerja) 2012",
+   "ms": "Peraturan Penggajian Tenaga Kerja Asing (Permit Kerja) 2012"
+  },
+  "SG-H1287": {
+   "vi": "Lệnh Các loài nguy cấp (Nhập khẩu và xuất khẩu) (Thực vật nhân giống nhân tạo — Miễn trừ) 2022",
+   "th": "คำสั่งชนิดพันธุ์ที่ใกล้สูญพันธุ์ (การนำเข้าและการส่งออก) (พืชที่เพาะขยายพันธุ์โดยมนุษย์ — การยกเว้น) 2022",
+   "id": "Perintah Spesies Terancam (Impor dan Ekspor) (Tanaman Hasil Perbanyakan Buatan — Pembebasan) 2022",
+   "ms": "Perintah Spesies Terancam (Import dan Eksport) (Tumbuhan Pembiakan Buatan — Pengecualian) 2022"
+  },
+  "SG-H1289": {
+   "vi": "Lệnh Các loài nguy cấp (Nhập khẩu và xuất khẩu) (Trưng bày ngà voi — Miễn trừ) 2021",
+   "th": "คำสั่งชนิดพันธุ์ที่ใกล้สูญพันธุ์ (การนำเข้าและการส่งออก) (การจัดแสดงงาช้าง — การยกเว้น) 2021",
+   "id": "Perintah Spesies Terancam (Impor dan Ekspor) (Pameran Gading Gajah — Pembebasan) 2021",
+   "ms": "Perintah Spesies Terancam (Import dan Eksport) (Pameran Gading Gajah — Pengecualian) 2021"
+  },
+  "SG-H1291": {
+   "vi": "Quy tắc Các loài nguy cấp (Nhập khẩu và xuất khẩu) (Giấy tờ theo quy định cho Điều 2A) 2022",
+   "th": "กฎชนิดพันธุ์ที่ใกล้สูญพันธุ์ (การนำเข้าและการส่งออก) (เอกสารตามที่กำหนดสำหรับมาตรา 2A) 2022",
+   "id": "Peraturan Spesies Terancam (Impor dan Ekspor) (Dokumen yang Ditetapkan untuk Pasal 2A) 2022",
+   "ms": "Kaedah Spesies Terancam (Import dan Eksport) (Dokumen yang Ditetapkan bagi Seksyen 2A) 2022"
+  },
+  "SG-H1292": {
+   "vi": "Quy tắc Các loài nguy cấp (Nhập khẩu và xuất khẩu) (Thông tin theo quy định cho Điều 5(1)) 2022",
+   "th": "กฎชนิดพันธุ์ที่ใกล้สูญพันธุ์ (การนำเข้าและการส่งออก) (ข้อมูลตามที่กำหนดสำหรับมาตรา 5(1)) 2022",
+   "id": "Peraturan Spesies Terancam (Impor dan Ekspor) (Informasi yang Ditetapkan untuk Pasal 5(1)) 2022",
+   "ms": "Kaedah Spesies Terancam (Import dan Eksport) (Maklumat yang Ditetapkan bagi Seksyen 5(1)) 2022"
+  },
+  "SG-H1293": {
+   "vi": "Thông báo Các loài nguy cấp (Nhập khẩu và xuất khẩu) (Cấm bán) 2006",
+   "th": "ประกาศชนิดพันธุ์ที่ใกล้สูญพันธุ์ (การนำเข้าและการส่งออก) (การห้ามจำหน่าย) 2006",
+   "id": "Pemberitahuan Spesies Terancam (Impor dan Ekspor) (Larangan Penjualan) 2006",
+   "ms": "Pemberitahuan Spesies Terancam (Import dan Eksport) (Larangan Penjualan) 2006"
+  },
+  "SG-H1295": {
+   "vi": "Thông báo Bảo tồn Năng lượng (Sửa đổi) (Ngày bắt đầu có hiệu lực) 2026",
+   "th": "ประกาศการอนุรักษ์พลังงาน (แก้ไขเพิ่มเติม) (วันเริ่มมีผลใช้บังคับ) 2026",
+   "id": "Pemberitahuan Konservasi Energi (Perubahan) (Mulai Berlaku) 2026",
+   "ms": "Pemberitahuan Pemuliharaan Tenaga (Pindaan) (Mula Berkuat Kuasa) 2026"
+  },
+  "SG-H1300": {
+   "vi": "Lệnh Tiết kiệm năng lượng (Miễn trừ cho doanh nghiệp mới) 2017",
+   "th": "คำสั่งการอนุรักษ์พลังงาน (การยกเว้นสำหรับกิจการใหม่) 2017",
+   "id": "Perintah Konservasi Energi (Pembebasan bagi Usaha Baru) 2017",
+   "ms": "Perintah Pemuliharaan Tenaga (Pengecualian bagi Perniagaan Baharu) 2017"
+  },
+  "SG-H1301": {
+   "vi": "Lệnh Tiết kiệm năng lượng (Miễn trừ cho đèn được quản lý) 2015",
+   "th": "คำสั่งการอนุรักษ์พลังงาน (การยกเว้นสำหรับหลอดไฟที่ถูกกำกับ) 2015",
+   "id": "Perintah Konservasi Energi (Pembebasan bagi Lampu yang Diatur) 2015",
+   "ms": "Perintah Pemuliharaan Tenaga (Pengecualian bagi Lampu yang Dikawal) 2015"
+  },
+  "SG-H1302": {
+   "vi": "Lệnh Tiết kiệm năng lượng (Miễn trừ — Điều 23A và 26B) 2020",
+   "th": "คำสั่งการอนุรักษ์พลังงาน (การยกเว้น — มาตรา 23A และ 26B) 2020",
+   "id": "Perintah Konservasi Energi (Pembebasan — Pasal 23A dan 26B) 2020",
+   "ms": "Perintah Pemuliharaan Tenaga (Pengecualian — Seksyen 23A dan 26B) 2020"
+  },
+  "SG-H1303": {
+   "vi": "Quy chế Tiết kiệm năng lượng (Dán nhãn mức tiêu thụ nhiên liệu và khí thải xe) 2012",
+   "th": "ข้อบังคับการอนุรักษ์พลังงาน (การติดฉลากการประหยัดเชื้อเพลิงและการปล่อยมลพิษจากยานพาหนะ) 2012",
+   "id": "Peraturan Konservasi Energi (Pelabelan Ekonomi Bahan Bakar dan Emisi Kendaraan) 2012",
+   "ms": "Peraturan Pemuliharaan Tenaga (Pelabelan Ekonomi Bahan Api dan Pelepasan Kenderaan) 2012"
+  },
+  "SG-H1304": {
+   "vi": "Lệnh Tiết kiệm năng lượng (Xe cơ giới thuộc yêu cầu về mức tiêu thụ nhiên liệu và khí thải) 2012",
+   "th": "คำสั่งการอนุรักษ์พลังงาน (ยานยนต์ที่อยู่ภายใต้ข้อกำหนดด้านการประหยัดเชื้อเพลิงและการปล่อยมลพิษ) 2012",
+   "id": "Perintah Konservasi Energi (Kendaraan Bermotor yang Tunduk pada Persyaratan Ekonomi Bahan Bakar dan Emisi) 2012",
+   "ms": "Perintah Pemuliharaan Tenaga (Kenderaan Bermotor yang Tertakluk pada Keperluan Ekonomi Bahan Api dan Pelepasan) 2012"
+  },
+  "SG-H1305": {
+   "vi": "Lệnh Tiết kiệm năng lượng (Hàng hóa được quản lý theo quy định) 2017",
+   "th": "คำสั่งการอนุรักษ์พลังงาน (สินค้าที่ถูกกำกับตามที่กำหนด) 2017",
+   "id": "Perintah Konservasi Energi (Barang Diatur yang Ditetapkan) 2017",
+   "ms": "Perintah Pemuliharaan Tenaga (Barang Dikawal yang Ditetapkan) 2017"
+  },
+  "SG-H1306": {
+   "vi": "Lệnh Tiết kiệm năng lượng (Doanh nghiệp phải đăng ký) 2013",
+   "th": "คำสั่งการอนุรักษ์พลังงาน (นิติบุคคลที่ต้องขึ้นทะเบียน) 2013",
+   "id": "Perintah Konservasi Energi (Korporasi yang Wajib Terdaftar) 2013",
+   "ms": "Perintah Pemuliharaan Tenaga (Perbadanan yang Wajib Didaftar) 2013"
+  },
+  "SG-H1307": {
+   "vi": "Quy chế Tiết kiệm năng lượng (Hàng hóa được quản lý và nhà cung cấp đã đăng ký) 2017",
+   "th": "ข้อบังคับการอนุรักษ์พลังงาน (สินค้าที่ถูกกำกับและผู้จำหน่ายที่ขึ้นทะเบียน) 2017",
+   "id": "Peraturan Konservasi Energi (Barang Diatur dan Pemasok Terdaftar) 2017",
+   "ms": "Peraturan Pemuliharaan Tenaga (Barang Dikawal dan Pembekal Berdaftar) 2017"
+  },
+  "SG-H1308": {
+   "vi": "Lệnh Tiết kiệm năng lượng (Đơn vị vận hành cơ sở giao thông) 2013",
+   "th": "คำสั่งการอนุรักษ์พลังงาน (ผู้ประกอบการสถานประกอบการขนส่ง) 2013",
+   "id": "Perintah Konservasi Energi (Operator Fasilitas Transportasi) 2013",
+   "ms": "Perintah Pemuliharaan Tenaga (Pengendali Kemudahan Pengangkutan) 2013"
+  },
+  "SG-H1314": {
+   "vi": "Quy chế Nhập ngũ (Giấy phép xuất cảnh) 1975",
+   "th": "ข้อบังคับการเกณฑ์ทหาร (ใบอนุญาตเดินทางออก) 1975",
+   "id": "Peraturan Wajib Militer (Izin Keluar) 1975",
+   "ms": "Peraturan Kerahan (Permit Keluar) 1975"
+  },
+  "SG-H1315": {
+   "vi": "Quy chế Nhập ngũ (Mất lương và tiền công — Hoàn trả) 1978",
+   "th": "ข้อบังคับการเกณฑ์ทหาร (การสูญเสียเงินเดือนและค่าจ้าง — การชดใช้คืน) 1978",
+   "id": "Peraturan Wajib Militer (Kehilangan Gaji dan Upah — Penggantian) 1978",
+   "ms": "Peraturan Kerahan (Kehilangan Gaji dan Upah — Pembayaran Balik) 1978"
+  },
+  "SG-H1316": {
+   "vi": "Quy chế Nhập ngũ (Lệnh và thông báo về nghĩa vụ quốc gia sẵn sàng tác chiến) 1989",
+   "th": "ข้อบังคับการเกณฑ์ทหาร (คำสั่งและหนังสือแจ้งการรับราชการทหารพร้อมรบ) 1989",
+   "id": "Peraturan Wajib Militer (Perintah dan Pemberitahuan Layanan Nasional Siap Operasi) 1989",
+   "ms": "Peraturan Kerahan (Perintah dan Notis Perkhidmatan Negara Sedia Operasi) 1989"
+  },
+  "SG-H1321": {
+   "vi": "Quy chế Cơ quan Phát triển Doanh nghiệp Singapore (Lệ phí — Đăng ký văn phòng đại diện) 2025",
+   "th": "ข้อบังคับองค์การพัฒนาวิสาหกิจสิงคโปร์ (ค่าธรรมเนียม — การจดทะเบียนสำนักงานผู้แทน) 2025",
+   "id": "Peraturan Badan Pengembangan Usaha Singapura (Biaya — Pendaftaran Kantor Perwakilan) 2025",
+   "ms": "Peraturan Lembaga Pembangunan Perusahaan Singapura (Fi — Pendaftaran Pejabat Perwakilan) 2025"
+  },
+  "SG-H1322": {
+   "vi": "Lệnh Cơ quan Phát triển Doanh nghiệp Singapore (Phí hàng dệt may) 2018",
+   "th": "คำสั่งองค์การพัฒนาวิสาหกิจสิงคโปร์ (ค่าธรรมเนียมสิ่งทอ) 2018",
+   "id": "Perintah Badan Pengembangan Usaha Singapura (Retribusi Tekstil) 2018",
+   "ms": "Perintah Lembaga Pembangunan Perusahaan Singapura (Levi Tekstil) 2018"
+  },
+  "SG-H1328": {
+   "vi": "Quy chế Bảo vệ và quản lý môi trường (Công trình bị kiểm soát được miễn trừ) 2023",
+   "th": "ข้อบังคับการคุ้มครองและจัดการสิ่งแวดล้อม (งานควบคุมที่ได้รับการยกเว้น) 2023",
+   "id": "Peraturan Perlindungan dan Pengelolaan Lingkungan Hidup (Pekerjaan Terkendali yang Dikecualikan) 2023",
+   "ms": "Peraturan Perlindungan dan Pengurusan Alam Sekitar (Kerja Terkawal yang Dikecualikan) 2023"
+  },
+  "SG-H1331": {
+   "vi": "Quy chế Bảo vệ và quản lý môi trường (Lệ phí đối với đơn xin phép công trình bị kiểm soát) 2025",
+   "th": "ข้อบังคับการคุ้มครองและจัดการสิ่งแวดล้อม (ค่าธรรมเนียมสำหรับคำขออนุญาตงานควบคุม) 2025",
+   "id": "Peraturan Perlindungan dan Pengelolaan Lingkungan Hidup (Biaya untuk Permohonan Pekerjaan Terkendali) 2025",
+   "ms": "Peraturan Perlindungan dan Pengurusan Alam Sekitar (Fi bagi Permohonan Kerja Terkawal) 2025"
+  },
+  "SG-H1332": {
+   "vi": "Quy chế Bảo vệ và quản lý môi trường (Lệ phí giấy phép)",
+   "th": "ข้อบังคับการคุ้มครองและจัดการสิ่งแวดล้อม (ค่าธรรมเนียมใบอนุญาต)",
+   "id": "Peraturan Perlindungan dan Pengelolaan Lingkungan Hidup (Biaya Izin)",
+   "ms": "Peraturan Perlindungan dan Pengurusan Alam Sekitar (Fi Lesen)"
+  },
+  "SG-H1333": {
+   "vi": "Quy chế Bảo vệ và quản lý môi trường (Khí nhà kính) 2022",
+   "th": "ข้อบังคับการคุ้มครองและจัดการสิ่งแวดล้อม (ก๊าซเรือนกระจก) 2022",
+   "id": "Peraturan Perlindungan dan Pengelolaan Lingkungan Hidup (Gas Rumah Kaca) 2022",
+   "ms": "Peraturan Perlindungan dan Pengurusan Alam Sekitar (Gas Rumah Hijau) 2022"
+  },
+  "SG-H1334": {
+   "vi": "Quy chế Bảo vệ và quản lý môi trường (Chất độc hại)",
+   "th": "ข้อบังคับการคุ้มครองและจัดการสิ่งแวดล้อม (สารอันตราย)",
+   "id": "Peraturan Perlindungan dan Pengelolaan Lingkungan Hidup (Bahan Berbahaya)",
+   "ms": "Peraturan Perlindungan dan Pengurusan Alam Sekitar (Bahan Berbahaya)"
+  },
+  "SG-H1335": {
+   "vi": "Lệnh Bảo vệ và quản lý môi trường (Meranti Power Pte. Ltd. — Miễn trừ) 2025",
+   "th": "คำสั่งการคุ้มครองและจัดการสิ่งแวดล้อม (Meranti Power Pte. Ltd. — การยกเว้น) 2025",
+   "id": "Perintah Perlindungan dan Pengelolaan Lingkungan Hidup (Meranti Power Pte. Ltd. — Pembebasan) 2025",
+   "ms": "Perintah Perlindungan dan Pengurusan Alam Sekitar (Meranti Power Pte. Ltd. — Pengecualian) 2025"
+  },
+  "SG-H1336": {
+   "vi": "Quy chế Bảo vệ và quản lý môi trường (Khí thải động cơ diesel ngoài đường) 2012",
+   "th": "ข้อบังคับการคุ้มครองและจัดการสิ่งแวดล้อม (การปล่อยมลพิษจากเครื่องยนต์ดีเซลนอกถนน) 2012",
+   "id": "Peraturan Perlindungan dan Pengelolaan Lingkungan Hidup (Emisi Mesin Diesel Luar Jalan) 2012",
+   "ms": "Peraturan Perlindungan dan Pengurusan Alam Sekitar (Pelepasan Enjin Diesel Luar Jalan) 2012"
+  },
+  "SG-H1337": {
+   "vi": "Quy chế Bảo vệ và quản lý môi trường (Chất làm suy giảm tầng ôzôn)",
+   "th": "ข้อบังคับการคุ้มครองและจัดการสิ่งแวดล้อม (สารทำลายชั้นโอโซน)",
+   "id": "Peraturan Perlindungan dan Pengelolaan Lingkungan Hidup (Bahan Perusak Ozon)",
+   "ms": "Peraturan Perlindungan dan Pengurusan Alam Sekitar (Bahan Perosak Ozon)"
+  },
+  "SG-H1338": {
+   "vi": "Lệnh Bảo vệ và quản lý môi trường (PacificLight Power Pte. Ltd. — Miễn trừ) 2025",
+   "th": "คำสั่งการคุ้มครองและจัดการสิ่งแวดล้อม (PacificLight Power Pte. Ltd. — การยกเว้น) 2025",
+   "id": "Perintah Perlindungan dan Pengelolaan Lingkungan Hidup (PacificLight Power Pte. Ltd. — Pembebasan) 2025",
+   "ms": "Perintah Perlindungan dan Pengurusan Alam Sekitar (PacificLight Power Pte. Ltd. — Pengecualian) 2025"
+  },
+  "SG-H1339": {
+   "vi": "Lệnh Bảo vệ và quản lý môi trường (Xe cơ giới nhập khẩu song song — Miễn trừ) 2021",
+   "th": "คำสั่งการคุ้มครองและจัดการสิ่งแวดล้อม (ยานยนต์นำเข้าขนาน — การยกเว้น) 2021",
+   "id": "Perintah Perlindungan dan Pengelolaan Lingkungan Hidup (Kendaraan Bermotor Impor Paralel — Pembebasan) 2021",
+   "ms": "Perintah Perlindungan dan Pengurusan Alam Sekitar (Kenderaan Bermotor Import Selari — Pengecualian) 2021"
+  },
+  "SG-H1340": {
+   "vi": "Lệnh Bảo vệ và quản lý môi trường (Hàng hóa được quản lý theo quy định) 2022",
+   "th": "คำสั่งการคุ้มครองและจัดการสิ่งแวดล้อม (สินค้าที่ถูกกำกับตามที่กำหนด) 2022",
+   "id": "Perintah Perlindungan dan Pengelolaan Lingkungan Hidup (Barang Diatur yang Ditetapkan) 2022",
+   "ms": "Perintah Perlindungan dan Pengurusan Alam Sekitar (Barang Dikawal yang Ditetapkan) 2022"
+  },
+  "SG-H1341": {
+   "vi": "Lệnh Bảo vệ và quản lý môi trường (Cấm sử dụng lửa trần)",
+   "th": "คำสั่งการคุ้มครองและจัดการสิ่งแวดล้อม (การห้ามใช้ไฟเปิด)",
+   "id": "Perintah Perlindungan dan Pengelolaan Lingkungan Hidup (Larangan Penggunaan Api Terbuka)",
+   "ms": "Perintah Perlindungan dan Pengurusan Alam Sekitar (Larangan Penggunaan Api Terbuka)"
+  },
+  "SG-H1342": {
+   "vi": "Quy chế Bảo vệ và quản lý môi trường (Pháp nhân khí nhà kính đã đăng ký và cá nhân có năng lực chuyên môn) 2022",
+   "th": "ข้อบังคับการคุ้มครองและจัดการสิ่งแวดล้อม (นิติบุคคลก๊าซเรือนกระจกที่ขึ้นทะเบียนและผู้มีความสามารถ) 2022",
+   "id": "Peraturan Perlindungan dan Pengelolaan Lingkungan Hidup (Entitas Gas Rumah Kaca Terdaftar dan Orang yang Kompeten) 2022",
+   "ms": "Peraturan Perlindungan dan Pengurusan Alam Sekitar (Entiti Gas Rumah Hijau Berdaftar dan Orang Kompeten) 2022"
+  },
+  "SG-H1343": {
+   "vi": "Lệnh Bảo vệ và quản lý môi trường (Công trình khí nhà kính bị kiểm soát) 2022",
+   "th": "คำสั่งการคุ้มครองและจัดการสิ่งแวดล้อม (งานก๊าซเรือนกระจกที่ถูกกำกับ) 2022",
+   "id": "Perintah Perlindungan dan Pengelolaan Lingkungan Hidup (Pekerjaan Gas Rumah Kaca yang Diatur) 2022",
+   "ms": "Perintah Perlindungan dan Pengurusan Alam Sekitar (Kerja Gas Rumah Hijau yang Dikawal) 2022"
+  },
+  "SG-H1344": {
+   "vi": "Quy chế Bảo vệ và quản lý môi trường (Hàng hóa được quản lý và nhà cung cấp đã đăng ký) 2022",
+   "th": "ข้อบังคับการคุ้มครองและจัดการสิ่งแวดล้อม (สินค้าที่ถูกกำกับและผู้จำหน่ายที่ขึ้นทะเบียน) 2022",
+   "id": "Peraturan Perlindungan dan Pengelolaan Lingkungan Hidup (Barang Diatur dan Pemasok Terdaftar) 2022",
+   "ms": "Peraturan Perlindungan dan Pengurusan Alam Sekitar (Barang Dikawal dan Pembekal Berdaftar) 2022"
+  },
+  "SG-H1345": {
+   "vi": "Lệnh Bảo vệ và quản lý môi trường (Hàng hóa được quản lý — Miễn trừ) 2022",
+   "th": "คำสั่งการคุ้มครองและจัดการสิ่งแวดล้อม (สินค้าที่ถูกกำกับ — การยกเว้น) 2022",
+   "id": "Perintah Perlindungan dan Pengelolaan Lingkungan Hidup (Barang Diatur — Pembebasan) 2022",
+   "ms": "Perintah Perlindungan dan Pengurusan Alam Sekitar (Barang Dikawal — Pengecualian) 2022"
+  },
+  "SG-H1346": {
+   "vi": "Lệnh Bảo vệ và quản lý môi trường (Senoko Energy Pte. Ltd. — Miễn trừ) 2023",
+   "th": "คำสั่งการคุ้มครองและจัดการสิ่งแวดล้อม (Senoko Energy Pte. Ltd. — การยกเว้น) 2023",
+   "id": "Perintah Perlindungan dan Pengelolaan Lingkungan Hidup (Senoko Energy Pte. Ltd. — Pembebasan) 2023",
+   "ms": "Perintah Perlindungan dan Pengurusan Alam Sekitar (Senoko Energy Pte. Ltd. — Pengecualian) 2023"
+  },
+  "SG-H1347": {
+   "vi": "Quy chế Bảo vệ và quản lý môi trường (Nước thải công nghiệp)",
+   "th": "ข้อบังคับการคุ้มครองและจัดการสิ่งแวดล้อม (น้ำทิ้งจากอุตสาหกรรม)",
+   "id": "Peraturan Perlindungan dan Pengelolaan Lingkungan Hidup (Limbah Cair Industri)",
+   "ms": "Peraturan Perlindungan dan Pengurusan Alam Sekitar (Efluen Perdagangan)"
+  },
+  "SG-H1348": {
+   "vi": "Lệnh Bảo vệ và quản lý môi trường (Xe của Đại sứ quán Hoa Kỳ — Miễn trừ) 2020",
+   "th": "คำสั่งการคุ้มครองและจัดการสิ่งแวดล้อม (ยานพาหนะของสถานทูตสหรัฐ — การยกเว้น) 2020",
+   "id": "Perintah Perlindungan dan Pengelolaan Lingkungan Hidup (Kendaraan Kedutaan Amerika Serikat — Pembebasan) 2020",
+   "ms": "Perintah Perlindungan dan Pengurusan Alam Sekitar (Kenderaan Kedutaan Amerika Syarikat — Pengecualian) 2020"
+  },
+  "SG-H1349": {
+   "vi": "Quy chế Bảo vệ và quản lý môi trường (Khí thải xe cộ)",
+   "th": "ข้อบังคับการคุ้มครองและจัดการสิ่งแวดล้อม (การปล่อยมลพิษจากยานพาหนะ)",
+   "id": "Peraturan Perlindungan dan Pengelolaan Lingkungan Hidup (Emisi Kendaraan)",
+   "ms": "Peraturan Perlindungan dan Pengurusan Alam Sekitar (Pelepasan Kenderaan)"
+  },
+  "SG-H1350": {
+   "vi": "Lệnh Bảo vệ và quản lý môi trường (YTL PowerSeraya Pte. Limited — Miễn trừ) 2023",
+   "th": "คำสั่งการคุ้มครองและจัดการสิ่งแวดล้อม (YTL PowerSeraya Pte. Limited — การยกเว้น) 2023",
+   "id": "Perintah Perlindungan dan Pengelolaan Lingkungan Hidup (YTL PowerSeraya Pte. Limited — Pembebasan) 2023",
+   "ms": "Perintah Perlindungan dan Pengurusan Alam Sekitar (YTL PowerSeraya Pte. Limited — Pengecualian) 2023"
+  },
+  "SG-H1363": {
+   "vi": "Thông báo Y tế công cộng môi trường (Công việc vệ sinh bị loại trừ) 2014",
+   "th": "ประกาศสาธารณสุขสิ่งแวดล้อม (งานทำความสะอาดที่ได้รับการยกเว้น) 2014",
+   "id": "Pemberitahuan Kesehatan Masyarakat Lingkungan (Pekerjaan Pembersihan yang Dikecualikan) 2014",
+   "ms": "Pemberitahuan Kesihatan Awam Alam Sekitar (Kerja Pembersihan yang Dikecualikan) 2014"
+  },
+  "SG-H1364": {
+   "vi": "Quy chế Y tế công cộng môi trường (Công trình bị kiểm soát được miễn trừ) 2023",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (งานควบคุมที่ได้รับการยกเว้น) 2023",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Pekerjaan Terkendali yang Dikecualikan) 2023",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Kerja Terkawal yang Dikecualikan) 2023"
+  },
+  "SG-H1365": {
+   "vi": "Quy chế Y tế công cộng môi trường (Miễn trừ theo Điều 67) 2022",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (การยกเว้นตามมาตรา 67) 2022",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Pembebasan Pasal 67) 2022",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Pengecualian Seksyen 67) 2022"
+  },
+  "SG-H1368": {
+   "vi": "Quy chế Y tế công cộng môi trường (Lệ phí đối với đơn xin phép công trình bị kiểm soát) 2025",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (ค่าธรรมเนียมสำหรับคำขออนุญาตงานควบคุม) 2025",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Biaya untuk Permohonan Pekerjaan Terkendali) 2025",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Fi bagi Permohonan Kerja Terkawal) 2025"
+  },
+  "SG-H1369": {
+   "vi": "Quy chế Y tế công cộng môi trường (Vệ sinh thực phẩm)",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (สุขลักษณะอาหาร)",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Higiene Pangan)",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Kebersihan Makanan)"
+  },
+  "SG-H1370": {
+   "vi": "Quy chế Y tế công cộng môi trường (Nhà tang lễ)",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (สถานฌาปนกิจ)",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Rumah Duka)",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Rumah Mayat)"
+  },
+  "SG-H1371": {
+   "vi": "Quy chế Y tế công cộng môi trường (Ngành dịch vụ vệ sinh phổ thông) 2014",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (อุตสาหกรรมการทำความสะอาดทั่วไป) 2014",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Industri Pembersihan Umum) 2014",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Industri Pembersihan Am) 2014"
+  },
+  "SG-H1372": {
+   "vi": "Quy chế Y tế công cộng môi trường (Thu gom rác thải thông thường)",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (การเก็บรวบรวมขยะทั่วไป)",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Pengumpulan Sampah Umum)",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Pengumpulan Sisa Am)"
+  },
+  "SG-H1373": {
+   "vi": "Quy chế Y tế công cộng môi trường (Cơ sở xử lý rác thải thông thường — Miễn trừ) 2023",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (สถานที่กำจัดขยะทั่วไป — การยกเว้น) 2023",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Fasilitas Pembuangan Sampah Umum — Pembebasan) 2023",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Kemudahan Pelupusan Sisa Am — Pengecualian) 2023"
+  },
+  "SG-H1374": {
+   "vi": "Quy chế Y tế công cộng môi trường (Cơ sở xử lý rác thải thông thường) 2017",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (สถานที่กำจัดขยะทั่วไป) 2017",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Fasilitas Pembuangan Sampah Umum) 2017",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Kemudahan Pelupusan Sisa Am) 2017"
+  },
+  "SG-H1375": {
+   "vi": "Lệnh Y tế công cộng môi trường (Cơ sở thủy sinh phải cấp phép) 2021",
+   "th": "คำสั่งสาธารณสุขสิ่งแวดล้อม (สถานที่เกี่ยวกับน้ำที่ต้องขอใบอนุญาต) 2021",
+   "id": "Perintah Kesehatan Masyarakat Lingkungan (Fasilitas Perairan yang Wajib Berizin) 2021",
+   "ms": "Perintah Kesihatan Awam Alam Sekitar (Kemudahan Akuatik yang Wajib Berlesen) 2021"
+  },
+  "SG-H1376": {
+   "vi": "Quy chế Y tế công cộng môi trường (Cơ sở thủy sinh phải cấp phép) 2021",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (สถานที่เกี่ยวกับน้ำที่ต้องขอใบอนุญาต) 2021",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Fasilitas Perairan yang Wajib Berizin) 2021",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Kemudahan Akuatik yang Wajib Berlesen) 2021"
+  },
+  "SG-H1377": {
+   "vi": "Quy chế Y tế công cộng môi trường (Sửa đổi giấy phép) 2019",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (การแก้ไขใบอนุญาต) 2019",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Perubahan Izin) 2019",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Pindaan Lesen) 2019"
+  },
+  "SG-H1379": {
+   "vi": "Quy chế Y tế công cộng môi trường (Lệ phí Phần IV) 2019",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (ค่าธรรมเนียมภาค 4) 2019",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Biaya Bagian IV) 2019",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Fi Bahagian IV) 2019"
+  },
+  "SG-H1380": {
+   "vi": "Quy chế Y tế công cộng môi trường (Vệ sinh công cộng)",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (การทำความสะอาดสาธารณะ)",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Kebersihan Umum)",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Pembersihan Awam)"
+  },
+  "SG-H1381": {
+   "vi": "Lệnh Y tế công cộng môi trường (Hệ thống tạo sol khí phải đăng ký) 2021",
+   "th": "คำสั่งสาธารณสุขสิ่งแวดล้อม (ระบบสร้างละอองลอยที่ต้องขึ้นทะเบียน) 2021",
+   "id": "Perintah Kesehatan Masyarakat Lingkungan (Sistem Penghasil Aerosol yang Wajib Terdaftar) 2021",
+   "ms": "Perintah Kesihatan Awam Alam Sekitar (Sistem Penjana Aerosol yang Wajib Didaftar) 2021"
+  },
+  "SG-H1382": {
+   "vi": "Quy chế Y tế công cộng môi trường (Hệ thống tạo sol khí phải đăng ký) 2021",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (ระบบสร้างละอองลอยที่ต้องขึ้นทะเบียน) 2021",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Sistem Penghasil Aerosol yang Wajib Terdaftar) 2021",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Sistem Penjana Aerosol yang Wajib Didaftar) 2021"
+  },
+  "SG-H1383": {
+   "vi": "Quy chế Y tế công cộng môi trường (Đăng ký điều phối viên kiểm soát môi trường và cán bộ kiểm soát môi trường) 2021",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (การขึ้นทะเบียนผู้ประสานงานควบคุมสิ่งแวดล้อมและเจ้าหน้าที่ควบคุมสิ่งแวดล้อม) 2021",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Pendaftaran Koordinator Pengendalian Lingkungan dan Petugas Pengendalian Lingkungan) 2021",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Pendaftaran Penyelaras Kawalan Alam Sekitar dan Pegawai Kawalan Alam Sekitar) 2021"
+  },
+  "SG-H1384": {
+   "vi": "Quy chế Y tế công cộng môi trường (Miễn trừ theo Điều 31(1)) 2019",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (การยกเว้นตามมาตรา 31(1)) 2019",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Pembebasan Pasal 31(1)) 2019",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Pengecualian Seksyen 31(1)) 2019"
+  },
+  "SG-H1385": {
+   "vi": "Lệnh Y tế công cộng môi trường (Công trường được chỉ định) 2021",
+   "th": "คำสั่งสาธารณสุขสิ่งแวดล้อม (สถานที่ก่อสร้างที่ระบุ) 2021",
+   "id": "Perintah Kesehatan Masyarakat Lingkungan (Lokasi Konstruksi Tertentu) 2021",
+   "ms": "Perintah Kesihatan Awam Alam Sekitar (Tapak Pembinaan Tertentu) 2021"
+  },
+  "SG-H1386": {
+   "vi": "Quy chế Y tế công cộng môi trường (Công trường được chỉ định) 2021",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (สถานที่ก่อสร้างที่ระบุ) 2021",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Lokasi Konstruksi Tertentu) 2021",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Tapak Pembinaan Tertentu) 2021"
+  },
+  "SG-H1387": {
+   "vi": "Quy chế Y tế công cộng môi trường (Cơ sở được chỉ định) 2021",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (สถานที่ที่ระบุ) 2021",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Tempat Usaha Tertentu) 2021",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Premis Tertentu) 2021"
+  },
+  "SG-H1388": {
+   "vi": "Quy chế Y tế công cộng môi trường (Chất thải công nghiệp độc hại)",
+   "th": "ข้อบังคับสาธารณสุขสิ่งแวดล้อม (ของเสียอุตสาหกรรมที่เป็นพิษ)",
+   "id": "Peraturan Kesehatan Masyarakat Lingkungan (Limbah Industri Beracun)",
+   "ms": "Peraturan Kesihatan Awam Alam Sekitar (Sisa Industri Toksik)"
+  },
+  "SG-H1394": {
+   "vi": "Quy chế Đại lý bất động sản (Hoạt động môi giới bất động sản) 2010",
+   "th": "ข้อบังคับตัวแทนอสังหาริมทรัพย์ (งานนายหน้าอสังหาริมทรัพย์) 2010",
+   "id": "Peraturan Agen Properti (Pekerjaan Agen Properti) 2010",
+   "ms": "Peraturan Ejen Hartanah (Kerja Ejen Hartanah) 2010"
+  },
+  "SG-H1397": {
+   "vi": "Lệnh Đại lý bất động sản (Tích lũy đất) (Miễn trừ) 2010",
+   "th": "คำสั่งตัวแทนอสังหาริมทรัพย์ (การสะสมที่ดิน) (การยกเว้น) 2010",
+   "id": "Perintah Agen Properti (Penimbunan Lahan) (Pembebasan) 2010",
+   "ms": "Perintah Ejen Hartanah (Penimbunan Tanah) (Pengecualian) 2010"
+  },
+  "SG-H1398": {
+   "vi": "Quy chế Đại lý bất động sản (Cấp phép và đăng ký) 2010",
+   "th": "ข้อบังคับตัวแทนอสังหาริมทรัพย์ (การออกใบอนุญาตและการขึ้นทะเบียน) 2010",
+   "id": "Peraturan Agen Properti (Perizinan dan Pendaftaran) 2010",
+   "ms": "Peraturan Ejen Hartanah (Pelesenan dan Pendaftaran) 2010"
+  },
+  "SG-H1399": {
+   "vi": "Quy chế Đại lý bất động sản (Phòng chống rửa tiền, tài trợ phổ biến vũ khí và tài trợ khủng bố) 2021",
+   "th": "ข้อบังคับตัวแทนอสังหาริมทรัพย์ (การป้องกันการฟอกเงิน การระดมทุนเพื่อการแพร่ขยายอาวุธ และการระดมทุนเพื่อการก่อการร้าย) 2021",
+   "id": "Peraturan Agen Properti (Pencegahan Pencucian Uang, Pendanaan Proliferasi dan Pendanaan Terorisme) 2021",
+   "ms": "Peraturan Ejen Hartanah (Pencegahan Pengubahan Wang Haram, Pembiayaan Percambahan dan Pembiayaan Keganasan) 2021"
+  },
+  "SG-H1400": {
+   "vi": "Quy chế Đại lý bất động sản (Hồ sơ giao dịch) 2021",
+   "th": "ข้อบังคับตัวแทนอสังหาริมทรัพย์ (บันทึกธุรกรรม) 2021",
+   "id": "Peraturan Agen Properti (Catatan Transaksi) 2021",
+   "ms": "Peraturan Ejen Hartanah (Rekod Transaksi) 2021"
+  },
+  "SG-H1406": {
+   "vi": "Lệnh Thuế di sản thừa kế (Bất động sản) (Giảm thuế)",
+   "th": "คำสั่งอากรที่ดินและมรดก (อสังหาริมทรัพย์) (การลดหย่อนภาษี)",
+   "id": "Perintah Bea Warisan (Properti Tidak Bergerak) (Keringanan Pajak)",
+   "ms": "Perintah Duti Harta Pusaka (Harta Tak Alih) (Pelepasan Cukai)"
+  },
+  "SG-H1407": {
+   "vi": "Lệnh Thuế di sản thừa kế (Koh Choon Joo, đã qua đời) (Giảm thuế) 2001",
+   "th": "คำสั่งอากรที่ดินและมรดก (Koh Choon Joo ผู้ถึงแก่กรรม) (การลดหย่อนภาษี) 2001",
+   "id": "Perintah Bea Warisan (Koh Choon Joo, telah meninggal dunia) (Keringanan Pajak) 2001",
+   "ms": "Perintah Duti Harta Pusaka (Koh Choon Joo, telah meninggal dunia) (Pelepasan Cukai) 2001"
+  },
+  "SG-H1408": {
+   "vi": "Lệnh Thuế di sản thừa kế (Koh Peng Yam, đã qua đời) (Giảm thuế) 2001",
+   "th": "คำสั่งอากรที่ดินและมรดก (Koh Peng Yam ผู้ถึงแก่กรรม) (การลดหย่อนภาษี) 2001",
+   "id": "Perintah Bea Warisan (Koh Peng Yam, telah meninggal dunia) (Keringanan Pajak) 2001",
+   "ms": "Perintah Duti Harta Pusaka (Koh Peng Yam, telah meninggal dunia) (Pelepasan Cukai) 2001"
+  },
+  "SG-H1409": {
+   "vi": "Lệnh Thuế di sản thừa kế (Lem Chu Kem, còn gọi là Lem Chu Kem Theresa, đã qua đời) (Giảm thuế) 2000",
+   "th": "คำสั่งอากรที่ดินและมรดก (Lem Chu Kem หรือที่รู้จักในชื่อ Lem Chu Kem Theresa ผู้ถึงแก่กรรม) (การลดหย่อนภาษี) 2000",
+   "id": "Perintah Bea Warisan (Lem Chu Kem, juga dikenal sebagai Lem Chu Kem Theresa, telah meninggal dunia) (Keringanan Pajak) 2000",
+   "ms": "Perintah Duti Harta Pusaka (Lem Chu Kem, juga dikenali sebagai Lem Chu Kem Theresa, telah meninggal dunia) (Pelepasan Cukai) 2000"
+  },
+  "SG-H1410": {
+   "vi": "Lệnh Thuế di sản thừa kế (Liauw Lih Sien, còn gọi là Sandy, đã qua đời) (Giảm thuế) 2001",
+   "th": "คำสั่งอากรที่ดินและมรดก (Liauw Lih Sien หรือที่รู้จักในชื่อ Sandy ผู้ถึงแก่กรรม) (การลดหย่อนภาษี) 2001",
+   "id": "Perintah Bea Warisan (Liauw Lih Sien, juga dikenal sebagai Sandy, telah meninggal dunia) (Keringanan Pajak) 2001",
+   "ms": "Perintah Duti Harta Pusaka (Liauw Lih Sien, juga dikenali sebagai Sandy, telah meninggal dunia) (Pelepasan Cukai) 2001"
+  },
+  "SG-H1411": {
+   "vi": "Lệnh Thuế di sản thừa kế (Liauw Lih Ting, còn gọi là Sindy, đã qua đời) (Giảm thuế) 2001",
+   "th": "คำสั่งอากรที่ดินและมรดก (Liauw Lih Ting หรือที่รู้จักในชื่อ Sindy ผู้ถึงแก่กรรม) (การลดหย่อนภาษี) 2001",
+   "id": "Perintah Bea Warisan (Liauw Lih Ting, juga dikenal sebagai Sindy, telah meninggal dunia) (Keringanan Pajak) 2001",
+   "ms": "Perintah Duti Harta Pusaka (Liauw Lih Ting, juga dikenali sebagai Sindy, telah meninggal dunia) (Pelepasan Cukai) 2001"
+  },
+  "SG-H1412": {
+   "vi": "Lệnh Thuế di sản thừa kế (Ong Kim York, đã qua đời) (Giảm thuế) 2006",
+   "th": "คำสั่งอากรที่ดินและมรดก (Ong Kim York ผู้ถึงแก่กรรม) (การลดหย่อนภาษี) 2006",
+   "id": "Perintah Bea Warisan (Ong Kim York, telah meninggal dunia) (Keringanan Pajak) 2006",
+   "ms": "Perintah Duti Harta Pusaka (Ong Kim York, telah meninggal dunia) (Pelepasan Cukai) 2006"
+  },
+  "SG-H1413": {
+   "vi": "Lệnh Thuế di sản thừa kế (Giảm thuế đối với các trường hợp tử vong liên tiếp) 2005",
+   "th": "คำสั่งอากรที่ดินและมรดก (การลดหย่อนภาษีสำหรับการเสียชีวิตต่อเนื่องกัน) 2005",
+   "id": "Perintah Bea Warisan (Keringanan Pajak bagi Kematian Beruntun) 2005",
+   "ms": "Perintah Duti Harta Pusaka (Pelepasan Cukai bagi Kematian Berturutan) 2005"
+  },
+  "SG-H1415": {
+   "vi": "Lệnh Thuế di sản thừa kế (Tang Yu Kan, đã qua đời) (Giảm thuế) 1998",
+   "th": "คำสั่งอากรที่ดินและมรดก (Tang Yu Kan ผู้ถึงแก่กรรม) (การลดหย่อนภาษี) 1998",
+   "id": "Perintah Bea Warisan (Tang Yu Kan, telah meninggal dunia) (Keringanan Pajak) 1998",
+   "ms": "Perintah Duti Harta Pusaka (Tang Yu Kan, telah meninggal dunia) (Pelepasan Cukai) 1998"
+  },
+  "SG-H1416": {
+   "vi": "Lệnh Thuế di sản thừa kế (Visvanathapuram Mariadoss Jagadisa Raju, đã qua đời) (Giảm thuế) 1997",
+   "th": "คำสั่งอากรที่ดินและมรดก (Visvanathapuram Mariadoss Jagadisa Raju ผู้ถึงแก่กรรม) (การลดหย่อนภาษี) 1997",
+   "id": "Perintah Bea Warisan (Visvanathapuram Mariadoss Jagadisa Raju, telah meninggal dunia) (Keringanan Pajak) 1997",
+   "ms": "Perintah Duti Harta Pusaka (Visvanathapuram Mariadoss Jagadisa Raju, telah meninggal dunia) (Pelepasan Cukai) 1997"
+  },
+  "SG-H1417": {
+   "vi": "Lệnh Thuế di sản thừa kế (Wang Li Li, đã qua đời) (Giảm thuế) 2004",
+   "th": "คำสั่งอากรที่ดินและมรดก (Wang Li Li ผู้ถึงแก่กรรม) (การลดหย่อนภาษี) 2004",
+   "id": "Perintah Bea Warisan (Wang Li Li, telah meninggal dunia) (Keringanan Pajak) 2004",
+   "ms": "Perintah Duti Harta Pusaka (Wang Li Li, telah meninggal dunia) (Pelepasan Cukai) 2004"
+  },
+  "SG-H1418": {
+   "vi": "Lệnh Thuế di sản thừa kế (Xu Chue Fern, đã qua đời) (Giảm thuế) 2001",
+   "th": "คำสั่งอากรที่ดินและมรดก (Xu Chue Fern ผู้ถึงแก่กรรม) (การลดหย่อนภาษี) 2001",
+   "id": "Perintah Bea Warisan (Xu Chue Fern, telah meninggal dunia) (Keringanan Pajak) 2001",
+   "ms": "Perintah Duti Harta Pusaka (Xu Chue Fern, telah meninggal dunia) (Pelepasan Cukai) 2001"
+  },
+  "SG-H1419": {
+   "vi": "Lệnh Thuế di sản thừa kế (Yap Sow Leng, đã qua đời) (Giảm thuế) 2001",
+   "th": "คำสั่งอากรที่ดินและมรดก (Yap Sow Leng ผู้ถึงแก่กรรม) (การลดหย่อนภาษี) 2001",
+   "id": "Perintah Bea Warisan (Yap Sow Leng, telah meninggal dunia) (Keringanan Pajak) 2001",
+   "ms": "Perintah Duti Harta Pusaka (Yap Sow Leng, telah meninggal dunia) (Pelepasan Cukai) 2001"
+  },
+  "SG-H1421": {
+   "vi": "Thông báo Miễn trừ thuế di sản — Trái phiếu Đô la châu Á (Hợp nhất)",
+   "th": "ประกาศการยกเว้นภาษีมรดก — พันธบัตรดอลลาร์เอเชีย (การรวมฉบับ)",
+   "id": "Pemberitahuan Pembebasan Bea Warisan — Obligasi Dolar Asia (Konsolidasi)",
+   "ms": "Pemberitahuan Pengecualian Duti Harta Pusaka — Bon Dolar Asia (Penyatuan)"
+  },
+  "SG-H1422": {
+   "vi": "Thông báo Miễn trừ thuế di sản — Trái phiếu Đô la châu Á (Hợp nhất)",
+   "th": "ประกาศการยกเว้นภาษีมรดก — พันธบัตรดอลลาร์เอเชีย (การรวมฉบับ)",
+   "id": "Pemberitahuan Pembebasan Bea Warisan — Obligasi Dolar Asia (Konsolidasi)",
+   "ms": "Pemberitahuan Pengecualian Duti Harta Pusaka — Bon Dolar Asia (Penyatuan)"
+  },
+  "SG-H1423": {
+   "vi": "Thông báo Miễn trừ thuế di sản — Trái phiếu Đô la châu Á (Hợp nhất)",
+   "th": "ประกาศการยกเว้นภาษีมรดก — พันธบัตรดอลลาร์เอเชีย (การรวมฉบับ)",
+   "id": "Pemberitahuan Pembebasan Bea Warisan — Obligasi Dolar Asia (Konsolidasi)",
+   "ms": "Pemberitahuan Pengecualian Duti Harta Pusaka — Bon Dolar Asia (Penyatuan)"
+  },
+  "SG-H1424": {
+   "vi": "Thông báo Miễn trừ thuế di sản — Trái phiếu Đô la châu Á (Hợp nhất)",
+   "th": "ประกาศการยกเว้นภาษีมรดก — พันธบัตรดอลลาร์เอเชีย (การรวมฉบับ)",
+   "id": "Pemberitahuan Pembebasan Bea Warisan — Obligasi Dolar Asia (Konsolidasi)",
+   "ms": "Pemberitahuan Pengecualian Duti Harta Pusaka — Bon Dolar Asia (Penyatuan)"
+  },
+  "SG-H1425": {
+   "vi": "Thông báo Miễn trừ thuế di sản — Trái phiếu Đô la châu Á (Hợp nhất)",
+   "th": "ประกาศการยกเว้นภาษีมรดก — พันธบัตรดอลลาร์เอเชีย (การรวมฉบับ)",
+   "id": "Pemberitahuan Pembebasan Bea Warisan — Obligasi Dolar Asia (Konsolidasi)",
+   "ms": "Pemberitahuan Pengecualian Duti Harta Pusaka — Bon Dolar Asia (Penyatuan)"
+  },
+  "SG-H1426": {
+   "vi": "Thông báo Miễn trừ thuế di sản — Trái phiếu và cổ phiếu chính phủ (Hợp nhất)",
+   "th": "ประกาศการยกเว้นภาษีมรดก — พันธบัตรและหุ้นรัฐบาล (การรวมฉบับ)",
+   "id": "Pemberitahuan Pembebasan Bea Warisan — Obligasi dan Saham Pemerintah (Konsolidasi)",
+   "ms": "Pemberitahuan Pengecualian Duti Harta Pusaka — Bon dan Saham Kerajaan (Penyatuan)"
+  },
+  "SG-H1558": {
+   "vi": "Quy chế Công ty cổ phần tài chính (Phí) 2023",
+   "th": "ข้อบังคับบริษัทโฮลดิ้งทางการเงิน (ค่าธรรมเนียม) 2023",
+   "id": "Peraturan Perusahaan Induk Keuangan (Retribusi) 2023",
+   "ms": "Peraturan Syarikat Pegangan Kewangan (Levi) 2023"
+  },
+  "SG-H1896": {
+   "vi": "Thông báo Nhập cư (Biện pháp an ninh tại nơi làm việc)",
+   "th": "ประกาศการตรวจคนเข้าเมือง (มาตรการรักษาความปลอดภัยในสถานที่ทำงาน)",
+   "id": "Pemberitahuan Keimigrasian (Tindakan Keamanan di Tempat Kerja)",
+   "ms": "Pemberitahuan Imigresen (Langkah Keselamatan di Tempat Kerja)"
+  },
+  "SG-H583": {
+   "vi": "Quy chế Tiết kiệm Chung Phát triển Trẻ em (Người lao động bán thời gian) 2008",
+   "th": "ข้อบังคับการออมร่วมเพื่อพัฒนาเด็ก (ลูกจ้างทำงานไม่เต็มเวลา) 2008",
+   "id": "Peraturan Tabungan Bersama Pengembangan Anak (Pekerja Paruh Waktu) 2008",
+   "ms": "Peraturan Simpanan Bersama Pembangunan Kanak-Kanak (Pekerja Sambilan) 2008"
+  },
+  "SG-H746": {
+   "vi": "Thông báo Nhà cái cờ bạc công cộng (Miễn trừ) (Số 5) 2009",
+   "th": "ประกาศบ่อนการพนันทั่วไป (การยกเว้น) (ฉบับที่ 5) 2009",
+   "id": "Pemberitahuan Rumah Judi Umum (Pembebasan) (Nomor 5) 2009",
+   "ms": "Pemberitahuan Rumah Perjudian Awam (Pengecualian) (No. 5) 2009"
+  },
+  "SG-H837": {
+   "vi": "Thông báo Kiểm soát tiền thuê (Miễn trừ) (Hợp nhất)",
+   "th": "ประกาศการควบคุมค่าเช่า (การยกเว้น) (การรวมฉบับ)",
+   "id": "Pemberitahuan Pengendalian Sewa (Pembebasan) (Konsolidasi)",
+   "ms": "Pemberitahuan Kawalan Sewa (Pengecualian) (Penyatuan)"
+  }
+ }
+}

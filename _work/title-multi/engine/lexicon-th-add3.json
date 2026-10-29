@@ -1,0 +1,397 @@
+{
+ "_note": "TH 主题增补（57–112）",
+ "subjects": {
+  "โอนอำนาจหน้าที่และกิจการบริหารบางส่วนของกระทรวงมหาดไทย ไปเป็นของกระทรวงแรงงานและสวัสดิการสังคม": {
+   "zh": "内政部部分职权与行政事务移交劳动与社会福利部",
+   "en": "Transfer of Certain Powers, Duties and Administrative Affairs of the Ministry of Interior to the Ministry of Labour and Social Welfare",
+   "vi": "Chuyển giao một phần quyền hạn, nhiệm vụ và công việc hành chính của Bộ Nội vụ sang Bộ Lao động và Phúc lợi Xã hội",
+   "id": "Pengalihan Sebagian Wewenang, Tugas dan Urusan Administrasi Kementerian Dalam Negeri kepada Kementerian Tenaga Kerja dan Kesejahteraan Sosial",
+   "ms": "Pemindahan Sebahagian Kuasa, Tugas dan Urusan Pentadbiran Kementerian Dalam Negeri kepada Kementerian Buruh dan Kebajikan Sosial"
+  },
+  "การจํานองเรือและบุริมสิทธิทางทะเล": {
+   "zh": "船舶抵押与海事优先权",
+   "en": "Ship Mortgage and Maritime Liens",
+   "vi": "Thế chấp tàu và quyền ưu tiên hàng hải",
+   "id": "Hipotek Kapal dan Hak Istimewa Maritim",
+   "ms": "Gadai Janji Kapal dan Lien Maritim"
+  },
+  "จัดตั้งศาลจังหวัดที่เมืองพัทยา จังหวัดชลบุรี": {
+   "zh": "春武里府芭堤雅市府级法院设立",
+   "en": "Establishment of a Provincial Court in Pattaya City, Chonburi Province",
+   "vi": "Thành lập Tòa án cấp tỉnh tại thành phố Pattaya, tỉnh Chonburi",
+   "id": "Pembentukan Pengadilan Negeri di Kota Pattaya, Provinsi Chonburi",
+   "ms": "Penubuhan Mahkamah Daerah di Bandar Pattaya, Wilayah Chonburi"
+  },
+  "มหาวิทยาลัยมหาสารคาม": {
+   "zh": "玛哈沙拉堪大学",
+   "en": "Mahasarakham University",
+   "vi": "Đại học Mahasarakham",
+   "id": "Universitas Mahasarakham",
+   "ms": "Universiti Mahasarakham"
+  },
+  "สภาตําบลและองค์การบริหารส่วนตําบล": {
+   "zh": "分区理事会与分区行政组织",
+   "en": "Subdistrict Council and Subdistrict Administrative Organisation",
+   "vi": "Hội đồng xã và Tổ chức hành chính xã",
+   "id": "Dewan Kecamatan dan Organisasi Administrasi Kecamatan",
+   "ms": "Majlis Mukim dan Organisasi Pentadbiran Mukim"
+  },
+  "สภาผู้ส่งสินค้าทางเรือแห่งประเทศไทย": {
+   "zh": "泰国全国船运商理事会",
+   "en": "Thai National Shippers Council",
+   "vi": "Hội đồng Chủ hàng Đường biển Quốc gia Thái Lan",
+   "id": "Dewan Pengirim Barang Nasional Thailand",
+   "ms": "Majlis Penghantar Barang Kebangsaan Thailand"
+  },
+  "ส่งเสริมการฝึกอาชีพ": {
+   "zh": "职业培训促进",
+   "en": "Promotion of Vocational Training",
+   "vi": "Thúc đẩy đào tạo nghề",
+   "id": "Pengembangan Pelatihan Kejuruan",
+   "ms": "Penggalakan Latihan Vokasional"
+  },
+  "โอนอำนาจหน้าที่และกิจการบริหารของสถาบันสุขภาพจิต กระทรวงสาธารณสุข ไปเป็นของกรมสุขภาพจิต กระทรวงสาธารณสุข": {
+   "zh": "精神卫生司承接原卫生部精神卫生研究所职权与行政事务",
+   "en": "Transfer of Powers, Duties and Administrative Affairs of the Institute of Mental Health, Ministry of Public Health, to the Department of Mental Health",
+   "vi": "Chuyển giao quyền hạn, nhiệm vụ và công việc hành chính của Viện Sức khỏe Tâm thần, Bộ Y tế, sang Cục Sức khỏe Tâm thần",
+   "id": "Pengalihan Wewenang, Tugas dan Urusan Administrasi Institut Kesehatan Jiwa, Kementerian Kesehatan, kepada Direktorat Jenderal Kesehatan Jiwa",
+   "ms": "Pemindahan Kuasa, Tugas dan Urusan Pentadbiran Institut Kesihatan Mental, Kementerian Kesihatan, kepada Jabatan Kesihatan Mental"
+  },
+  "โอนอำนาจหน้าที่และกิจการบริหารของสำนักผังเมือง กระทรวงมหาดไทย ไปเป็นของกรมการผังเมือง กระทรวงมหาดไทย": {
+   "zh": "城市规划司承接原内政部城市规划局职权与行政事务",
+   "en": "Transfer of Powers, Duties and Administrative Affairs of the Town Planning Office, Ministry of Interior, to the Department of Town Planning",
+   "vi": "Chuyển giao quyền hạn, nhiệm vụ và công việc hành chính của Văn phòng Quy hoạch Đô thị, Bộ Nội vụ, sang Cục Quy hoạch Đô thị",
+   "id": "Pengalihan Wewenang, Tugas dan Urusan Administrasi Kantor Tata Kota, Kementerian Dalam Negeri, kepada Direktorat Jenderal Tata Kota",
+   "ms": "Pemindahan Kuasa, Tugas dan Urusan Pentadbiran Pejabat Perancangan Bandar, Kementerian Dalam Negeri, kepada Jabatan Perancangan Bandar"
+  },
+  "กองทุนบำเหน็จบำนาญข้าราชการ": {
+   "zh": "公务员退休金基金",
+   "en": "Government Pension Fund",
+   "vi": "Quỹ hưu trí công chức",
+   "id": "Dana Pensiun Pegawai Negeri",
+   "ms": "Kumpulan Wang Pencen Penjawat Awam"
+  },
+  "ป้องกันและปราบปรามการค้าประเวณี": {
+   "zh": "卖淫的防范与禁止",
+   "en": "Prevention and Suppression of Prostitution",
+   "vi": "Phòng chống và trấn áp mại dâm",
+   "id": "Pencegahan dan Pemberantasan Pelacuran",
+   "ms": "Pencegahan dan Pembanterasan Pelacuran"
+  },
+  "การบริหารองค์กรศาสนาอิสลาม": {
+   "zh": "伊斯兰宗教组织管理",
+   "en": "Administration of Islamic Religious Organisations",
+   "vi": "Quản lý tổ chức tôn giáo Hồi giáo",
+   "id": "Penyelenggaraan Organisasi Keagamaan Islam",
+   "ms": "Pentadbiran Organisasi Agama Islam"
+  },
+  "พัฒนาระบบมาตรวิทยาแห่งชาติ": {
+   "zh": "国家计量体系发展",
+   "en": "Development of the National Metrology System",
+   "vi": "Phát triển hệ thống đo lường quốc gia",
+   "id": "Pengembangan Sistem Metrologi Nasional",
+   "ms": "Pembangunan Sistem Metrologi Kebangsaan"
+  },
+  "มาตรการในการป้องกันและปราบปรามการค้าหญิงและเด็ก": {
+   "zh": "防范与禁止贩运妇女儿童的措施",
+   "en": "Measures for the Prevention and Suppression of Trafficking in Women and Children",
+   "vi": "Biện pháp phòng chống và trấn áp buôn bán phụ nữ và trẻ em",
+   "id": "Tindakan Pencegahan dan Pemberantasan Perdagangan Perempuan dan Anak",
+   "ms": "Langkah Pencegahan dan Pembanterasan Pemerdagangan Wanita dan Kanak-kanak"
+  },
+  "การจัดหาอสังหาริมทรัพย์เพื่อกิจการขนส่งมวลชน": {
+   "zh": "为公共交通事业取得不动产",
+   "en": "Acquisition of Immovable Property for Mass Transit Operations",
+   "vi": "Thu hồi bất động sản cho hoạt động vận tải công cộng",
+   "id": "Pengadaan Properti untuk Kegiatan Angkutan Massal",
+   "ms": "Perolehan Harta Tak Alih untuk Urusan Pengangkutan Awam"
+  },
+  "องค์การบริหารส่วนจังหวัด": {
+   "zh": "省级行政组织",
+   "en": "Provincial Administrative Organisation",
+   "vi": "Tổ chức hành chính cấp tỉnh",
+   "id": "Organisasi Administrasi Provinsi",
+   "ms": "Organisasi Pentadbiran Wilayah"
+  },
+  "การจัดการศึกษาระดับปริญญาตรีในสถาบันบัณฑิตพัฒนศิลป์": {
+   "zh": "文化艺术高等学院本科教育管理",
+   "en": "Provision of Undergraduate Education at Bunditpatanasilpa Institute",
+   "vi": "Quản lý đào tạo đại học tại Học viện Bunditpatanasilpa",
+   "id": "Penyelenggaraan Pendidikan Sarjana di Institut Bunditpatanasilpa",
+   "ms": "Pengurusan Pendidikan Ijazah Sarjana Muda di Institut Bunditpatanasilpa"
+  },
+  "สถานพยาบาล": {
+   "zh": "医疗机构",
+   "en": "Medical Facility",
+   "vi": "Cơ sở khám bệnh chữa bệnh",
+   "id": "Fasilitas Pelayanan Kesehatan",
+   "ms": "Kemudahan Perubatan"
+  },
+  "สถาบันพระปกเกล้า": {
+   "zh": "普拉贾迪波国王学院",
+   "en": "King Prajadhipok's Institute",
+   "vi": "Học viện Vua Prajadhipok",
+   "id": "Institut Raja Prajadhipok",
+   "ms": "Institut Raja Prajadhipok"
+  },
+  "สถาบันส่งเสริมการสอนวิทยาศาสตร์และเทคโนโลยี": {
+   "zh": "科学与技术教学促进学院",
+   "en": "Institute for the Promotion of Teaching Science and Technology",
+   "vi": "Học viện Thúc đẩy Giảng dạy Khoa học và Công nghệ",
+   "id": "Institut Pengembangan Pengajaran Ilmu Pengetahuan dan Teknologi",
+   "ms": "Institut Penggalakan Pengajaran Sains dan Teknologi"
+  },
+  "โอนอำนาจหน้าที่และกิจการบริหารบางส่วนของสำนักงานปลัดกระทรวง กระทรวงการต่างประเทศ ไปเป็นของกรมการกงสุล กระทรวงการต่างประเทศ": {
+   "zh": "领事司承接原外交部常务秘书办公室部分职权与行政事务",
+   "en": "Transfer of Certain Powers, Duties and Administrative Affairs of the Office of the Permanent Secretary, Ministry of Foreign Affairs, to the Department of Consular Affairs",
+   "vi": "Chuyển giao một phần quyền hạn, nhiệm vụ và công việc hành chính của Văn phòng Thứ trưởng Thường trực, Bộ Ngoại giao, sang Cục Lãnh sự",
+   "id": "Pengalihan Sebagian Wewenang, Tugas dan Urusan Administrasi Kantor Sekretariat Jenderal, Kementerian Luar Negeri, kepada Direktorat Jenderal Protokol dan Konsuler",
+   "ms": "Pemindahan Sebahagian Kuasa, Tugas dan Urusan Pentadbiran Pejabat Setiausaha Tetap, Kementerian Luar Negeri, kepada Jabatan Hal Ehwal Konsular"
+  },
+  "โอนอำนาจหน้าที่และกิจการบริหารบางส่วนของสำนักเลขาธิการนายกรัฐมนตรี สำนักนายกรัฐมนตรี ไปเป็นของสำนักงานคณะกรรมการคุ้มครองผู้บริโภค สำนักนายกรัฐมนตรี": {
+   "zh": "总理府总理秘书处部分职权移交总理府消费者保护委员会办公室",
+   "en": "Transfer of Certain Powers, Duties and Administrative Affairs of the Secretariat of the Prime Minister to the Office of the Consumer Protection Board",
+   "vi": "Chuyển giao một phần quyền hạn, nhiệm vụ và công việc hành chính của Văn phòng Thủ tướng sang Văn phòng Ủy ban Bảo vệ Người tiêu dùng",
+   "id": "Pengalihan Sebagian Wewenang, Tugas dan Urusan Administrasi Sekretariat Perdana Menteri kepada Kantor Badan Perlindungan Konsumen",
+   "ms": "Pemindahan Sebahagian Kuasa, Tugas dan Urusan Pentadbiran Setiausaha Perdana Menteri kepada Pejabat Lembaga Perlindungan Pengguna"
+  },
+  "การซื้อขายสินค้าเกษตรล่วงหน้า": {
+   "zh": "农产品期货交易",
+   "en": "Forward Trading of Agricultural Commodities",
+   "vi": "Giao dịch hàng nông sản kỳ hạn",
+   "id": "Perdagangan Berjangka Komoditas Pertanian",
+   "ms": "Dagangan Hadapan Komoditi Pertanian"
+  },
+  "กำหนดแผนและขั้นตอนการกระจายอำนาจให้แก่องค์กรปกครองส่วนท้องถิ่น": {
+   "zh": "向地方自治组织下放权力的计划与程序确定",
+   "en": "Determination of the Plan and Procedure for Decentralisation to Local Government Organisations",
+   "vi": "Xác định kế hoạch và trình tự phân cấp cho các tổ chức chính quyền địa phương",
+   "id": "Penetapan Rencana dan Prosedur Desentralisasi kepada Organisasi Pemerintahan Daerah",
+   "ms": "Penetapan Pelan dan Prosedur Penurunan Kuasa kepada Organisasi Kerajaan Tempatan"
+  },
+  "กีฬามวย": {
+   "zh": "拳击运动",
+   "en": "Boxing",
+   "vi": "Thể thao quyền anh",
+   "id": "Olahraga Tinju",
+   "ms": "Sukan Tinju"
+  },
+  "ควบคุมน้ำมันเชื้อเพลิง": {
+   "zh": "燃油管制",
+   "en": "Control of Fuel Oil",
+   "vi": "Kiểm soát nhiên liệu",
+   "id": "Pengendalian Bahan Bakar Minyak",
+   "ms": "Kawalan Minyak Bahan Api"
+  },
+  "ควบคุมยาง": {
+   "zh": "橡胶管制",
+   "en": "Control of Rubber",
+   "vi": "Kiểm soát cao su",
+   "id": "Pengendalian Karet",
+   "ms": "Kawalan Getah"
+  },
+  "คุ้มครองพันธุ์พืช": {
+   "zh": "植物品种保护",
+   "en": "Protection of Plant Varieties",
+   "vi": "Bảo hộ giống cây trồng",
+   "id": "Perlindungan Varietas Tanaman",
+   "ms": "Perlindungan Varieti Tumbuhan"
+  },
+  "คุ้มครองและส่งเสริมภูมิปัญญาการแพทย์แผนไทย": {
+   "zh": "泰医传统知识的保护与促进",
+   "en": "Protection and Promotion of Traditional Thai Medicine Wisdom",
+   "vi": "Bảo hộ và phát huy tri thức y học cổ truyền Thái",
+   "id": "Perlindungan dan Pengembangan Pengetahuan Pengobatan Tradisional Thailand",
+   "ms": "Perlindungan dan Penggalakan Ilmu Perubatan Tradisional Thai"
+  },
+  "จัดตั้งศาลปกครองและวิธีพิจารณาคดีปกครอง": {
+   "zh": "行政法院设立与行政案件审理程序",
+   "en": "Establishment of the Administrative Court and Administrative Case Procedure",
+   "vi": "Thành lập Tòa án Hành chính và thủ tục xét xử vụ án hành chính",
+   "id": "Pembentukan Pengadilan Tata Usaha Negara dan Tata Cara Pemeriksaan Perkara Tata Usaha Negara",
+   "ms": "Penubuhan Mahkamah Pentadbiran dan Tatacara Perbicaraan Kes Pentadbiran"
+  },
+  "จัดตั้งศาลล้มละลายและวิธีพิจารณาคดีล้มละลาย": {
+   "zh": "破产法院设立与破产案件审理程序",
+   "en": "Establishment of the Bankruptcy Court and Bankruptcy Case Procedure",
+   "vi": "Thành lập Tòa án Phá sản và thủ tục xét xử vụ án phá sản",
+   "id": "Pembentukan Pengadilan Kepailitan dan Tata Cara Pemeriksaan Perkara Kepailitan",
+   "ms": "Penubuhan Mahkamah Kebankrapan dan Tatacara Perbicaraan Kes Kebankrapan"
+  },
+  "ทางหลวงสัมปทาน": {
+   "zh": "特许公路",
+   "en": "Concession Highways",
+   "vi": "Đường bộ nhượng quyền",
+   "id": "Jalan Raya Konsesi",
+   "ms": "Lebuh Raya Konsesi"
+  },
+  "มาตราชั่งตวงวัด": {
+   "zh": "度量衡",
+   "en": "Weights and Measures",
+   "vi": "Đo lường",
+   "id": "Takaran, Ukuran dan Timbangan",
+   "ms": "Timbang dan Sukat"
+  },
+  "ระเบียบบริหารงานบุคคลส่วนท้องถิ่น": {
+   "zh": "地方人事行政管理",
+   "en": "Local Personnel Administration",
+   "vi": "Quản lý nhân sự địa phương",
+   "id": "Administrasi Kepegawaian Daerah",
+   "ms": "Pentadbiran Kakitangan Tempatan"
+  },
+  "ระเบียบบริหารราชการเมืองพัทยา": {
+   "zh": "芭堤雅市行政管理",
+   "en": "Administration of Pattaya City",
+   "vi": "Quản lý hành chính thành phố Pattaya",
+   "id": "Administrasi Kota Pattaya",
+   "ms": "Pentadbiran Bandar Pattaya"
+  },
+  "วิศวกร": {
+   "zh": "工程师",
+   "en": "Engineers",
+   "vi": "Kỹ sư",
+   "id": "Insinyur",
+   "ms": "Jurutera"
+  },
+  "การลงคะแนนเสียงเพื่อถอดถอนสมาชิกสภาท้องถิ่นหรือผู้บริหารท้องถิ่น": {
+   "zh": "罢免地方议会议员或地方行政首长的表决",
+   "en": "Voting to Remove Local Council Members or Local Executives",
+   "vi": "Bỏ phiếu bãi miễn thành viên hội đồng địa phương hoặc người đứng đầu hành chính địa phương",
+   "id": "Pemungutan Suara untuk Memberhentikan Anggota Dewan Daerah atau Pejabat Eksekutif Daerah",
+   "ms": "Pengundian untuk Memecat Anggota Majlis Tempatan atau Pegawai Eksekutif Tempatan"
+  },
+  "การวินิจฉัยชี้ขาดอำนาจหน้าที่ระหว่างศาล": {
+   "zh": "法院间职权争议的裁决",
+   "en": "Adjudication of Jurisdictional Disputes between Courts",
+   "vi": "Phân xử tranh chấp thẩm quyền giữa các tòa án",
+   "id": "Penetapan Sengketa Wewenang antar Pengadilan",
+   "ms": "Penghakiman Pertikaian Bidang Kuasa antara Mahkamah"
+  },
+  "ราคาสินค้าและบริการ": {
+   "zh": "商品与服务价格",
+   "en": "Prices of Goods and Services",
+   "vi": "Giá hàng hóa và dịch vụ",
+   "id": "Harga Barang dan Jasa",
+   "ms": "Harga Barang dan Perkhidmatan"
+  },
+  "สํานักงานศาลรัฐธรรมนูญ": {
+   "zh": "宪法法院办公室",
+   "en": "Office of the Constitutional Court",
+   "vi": "Văn phòng Tòa án Hiến pháp",
+   "id": "Kantor Pengadilan Konstitusi",
+   "ms": "Pejabat Mahkamah Perlembagaan"
+  },
+  "หลักเกณฑ์การแต่งตั้งและการดำรงตำแหน่งผู้พิพากษาอาวุโส": {
+   "zh": "资深法官任命与任职准则",
+   "en": "Criteria for the Appointment and Tenure of Senior Judges",
+   "vi": "Tiêu chí bổ nhiệm và giữ chức thẩm phán cao cấp",
+   "id": "Kriteria Pengangkatan dan Penjabatan Hakim Senior",
+   "ms": "Kriteria Pelantikan dan Pemegangan Jawatan Hakim Kanan"
+  },
+  "การค้าน้ำมันเชื้อเพลิง": {
+   "zh": "燃油贸易",
+   "en": "Fuel Oil Trade",
+   "vi": "Kinh doanh nhiên liệu",
+   "id": "Perdagangan Bahan Bakar Minyak",
+   "ms": "Perdagangan Minyak Bahan Api"
+  },
+  "การจัดสรรที่ดิน": {
+   "zh": "土地分配",
+   "en": "Land Allocation",
+   "vi": "Phân bổ đất đai",
+   "id": "Penataan Tanah",
+   "ms": "Peruntukan Tanah"
+  },
+  "การรถไฟฟ้าขนส่งมวลชนแห่งประเทศไทย": {
+   "zh": "泰国大众快速交通局",
+   "en": "Mass Rapid Transit Authority of Thailand",
+   "vi": "Cơ quan Vận tải Nhanh Khối lượng lớn Thái Lan",
+   "id": "Badan Angkutan Cepat Massal Thailand",
+   "ms": "Pihak Berkuasa Pengangkutan Awam Pantas Thailand"
+  },
+  "คุ้มครองแบบผังภูมิของวงจรรวม": {
+   "zh": "集成电路布图设计保护",
+   "en": "Protection of Layout-Designs of Integrated Circuits",
+   "vi": "Bảo hộ thiết kế bố trí mạch tích hợp",
+   "id": "Perlindungan Desain Tata Letak Sirkuit Terpadu",
+   "ms": "Perlindungan Reka Bentuk Susun Atur Litar Bersepadu"
+  },
+  "ระเบียบข้าราชการฝ่ายตุลาการศาลยุติธรรม": {
+   "zh": "司法法院司法系统公务员管理",
+   "en": "Civil Service Management for Judicial Officials of the Courts of Justice",
+   "vi": "Quản lý công chức ngành tư pháp của Tòa án Tư pháp",
+   "id": "Manajemen Kepegawaian Pejabat Yudisial Pengadilan Negeri",
+   "ms": "Pengurusan Perkhidmatan Awam Pegawai Kehakiman Mahkamah Kehakiman"
+  },
+  "ระเบียบบริหารราชการศาลยุติธรรม": {
+   "zh": "司法法院行政管理",
+   "en": "Administration of the Courts of Justice",
+   "vi": "Quản lý hành chính Tòa án Tư pháp",
+   "id": "Administrasi Pengadilan Negeri",
+   "ms": "Pentadbiran Mahkamah Kehakiman"
+  },
+  "ส่งเสริมวิสาหกิจขนาดกลางและขนาดย่อม": {
+   "zh": "中小企业促进",
+   "en": "Promotion of Small and Medium Enterprises",
+   "vi": "Thúc đẩy doanh nghiệp nhỏ và vừa",
+   "id": "Pengembangan Usaha Mikro, Kecil dan Menengah",
+   "ms": "Penggalakan Perusahaan Kecil dan Sederhana"
+  },
+  "องค์กรจัดสรรคลื่นความถี่และกำกับกิจการวิทยุกระจายเสียง วิทยุโทรทัศน์ และกิจการโทรคมนาคม": {
+   "zh": "频率分配与广播、电视及电信业务监管机构",
+   "en": "Frequency Allocation and Regulation of Broadcasting, Television and Telecommunications",
+   "vi": "Cơ quan phân bổ tần số và quản lý phát thanh, truyền hình và viễn thông",
+   "id": "Badan Alokasi Frekuensi dan Pengaturan Penyiaran, Televisi dan Telekomunikasi",
+   "ms": "Badan Peruntukan Frekuensi dan Pengawalseliaan Penyiaran, Televisyen dan Telekomunikasi"
+  },
+  "แรงงานรัฐวิสาหกิจสัมพันธ์": {
+   "zh": "国有企业劳动关系",
+   "en": "Labour Relations in State Enterprises",
+   "vi": "Quan hệ lao động trong doanh nghiệp nhà nước",
+   "id": "Hubungan Kerja di Badan Usaha Milik Negara",
+   "ms": "Hubungan Buruh di Perusahaan Kerajaan"
+  },
+  "กองทุนสนับสนุนการสร้างเสริมสุขภาพ": {
+   "zh": "健康促进基金",
+   "en": "Health Promotion Fund",
+   "vi": "Quỹ thúc đẩy sức khỏe",
+   "id": "Dana Pengembangan Kesehatan",
+   "ms": "Kumpulan Wang Penggalakan Kesihatan"
+  },
+  "การประกอบกิจการโทรคมนาคม": {
+   "zh": "电信业务经营",
+   "en": "Operation of Telecommunications Business",
+   "vi": "Kinh doanh viễn thông",
+   "id": "Penyelenggaraan Usaha Telekomunikasi",
+   "ms": "Pengendalian Perniagaan Telekomunikasi"
+  },
+  "สภาอุตสาหกรรมท่องเที่ยวแห่งประเทศไทย": {
+   "zh": "泰国旅游业理事会",
+   "en": "Tourism Industry Council of Thailand",
+   "vi": "Hội đồng Công nghiệp Du lịch Thái Lan",
+   "id": "Dewan Industri Pariwisata Thailand",
+   "ms": "Majlis Industri Pelancongan Thailand"
+  },
+  "เงินเดือนและเงินประจำตำแหน่งข้าราชการอัยการ": {
+   "zh": "检察官薪金与职位津贴",
+   "en": "Salaries and Position Allowances of Public Prosecutors",
+   "vi": "Tiền lương và phụ cấp chức vụ của kiểm sát viên",
+   "id": "Gaji dan Tunjangan Jabatan Jaksa",
+   "ms": "Gaji dan Elaun Jawatan Pendakwa Raya"
+  },
+  "การศึกษาภาคบังคับ": {
+   "zh": "义务教育",
+   "en": "Compulsory Education",
+   "vi": "Giáo dục bắt buộc",
+   "id": "Pendidikan Wajib",
+   "ms": "Pendidikan Wajib"
+  },
+  "การเลือกตั้งสมาชิกสภาท้องถิ่นหรือผู้บริหารท้องถิ่น": {
+   "zh": "地方议会议员或地方行政首长选举",
+   "en": "Election of Local Council Members or Local Executives",
+   "vi": "Bầu cử thành viên hội đồng địa phương hoặc người đứng đầu hành chính địa phương",
+   "id": "Pemilihan Anggota Dewan Daerah atau Pejabat Eksekutif Daerah",
+   "ms": "Pilihan Raya Anggota Majlis Tempatan atau Pegawai Eksekutif Tempatan"
+  }
+ }
+}

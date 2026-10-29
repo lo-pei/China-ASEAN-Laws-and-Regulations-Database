@@ -1,0 +1,390 @@
+{
+  "_note": "MY 附属法规括号术语 · add22（剩余缺口高频括号 n≥2）",
+  "brackets": {
+    "INSURANCE": {
+      "zh": "保险",
+      "vi": "Bảo hiểm",
+      "th": "การประกันภัย",
+      "id": "Asuransi",
+      "ms": "Insurans"
+    },
+    "FEDERAL TERRITORY": {
+      "zh": "联邦直辖区",
+      "vi": "Lãnh thổ Liên bang",
+      "th": "เขตปกครองสหพันธ์",
+      "id": "Wilayah Persekutuan",
+      "ms": "Wilayah Persekutuan"
+    },
+    "DISCIPLINE": {
+      "zh": "纪律",
+      "vi": "Kỷ luật",
+      "th": "วินัย",
+      "id": "Disiplin",
+      "ms": "Tatatertib"
+    },
+    "FOREIGN WORKERS’ COMPENSATION SCHEME": {
+      "zh": "外籍劳工赔偿计划",
+      "vi": "Chương trình Bồi thường cho Lao động Nước ngoài",
+      "th": "โครงการชดเชยแรงงานต่างด้าว",
+      "id": "Skema Kompensasi Pekerja Asing",
+      "ms": "Skim Pampasan Pekerja Asing"
+    },
+    "REMUNERATION": {
+      "zh": "报酬",
+      "vi": "Thù lao",
+      "th": "ค่าตอบแทน",
+      "id": "Remunerasi",
+      "ms": "Saraan"
+    },
+    "ESSENTIAL POWERS": {
+      "zh": "基本权力",
+      "vi": "Các quyền hạn thiết yếu",
+      "th": "อำนาจจำเป็น",
+      "id": "Kewenangan Pokok",
+      "ms": "Kuasa Penting"
+    },
+    "COVID-19": {
+      "zh": "2019冠状病毒病",
+      "vi": "COVID-19",
+      "th": "โควิด-19",
+      "id": "COVID-19",
+      "ms": "COVID-19"
+    },
+    "STATE LEGISLATURES COMPETENCY": {
+      "zh": "州立法机构权限",
+      "vi": "Thẩm quyền của Cơ quan Lập pháp Bang",
+      "th": "อำนาจหน้าที่ของสภานิติบัญญัติรัฐ",
+      "id": "Kompetensi Badan Legislatif Negara Bagian",
+      "ms": "Kecekapan Badan Perundangan Negeri"
+    },
+    "FIRST SCHEDULE": {
+      "zh": "第一附表",
+      "vi": "Phụ lục thứ nhất",
+      "th": "ตารางผนวกที่หนึ่ง",
+      "id": "Lampiran Pertama",
+      "ms": "Jadual Pertama"
+    },
+    "DISCIPLINE AND SURCHARGE": {
+      "zh": "纪律与附加费",
+      "vi": "Kỷ luật và phụ phí",
+      "th": "วินัยและเงินเพิ่ม",
+      "id": "Disiplin dan Biaya Tambahan",
+      "ms": "Tatatertib dan Caj Tambahan"
+    },
+    "REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D": {
+      "zh": "第112D条特别拨款的审查",
+      "vi": "Xem xét khoản trợ cấp đặc biệt theo Điều 112D",
+      "th": "การทบทวนเงินอุดหนุนพิเศษตามมาตรา 112D",
+      "id": "Peninjauan Hibah Khusus berdasarkan Pasal 112D",
+      "ms": "Semakan Geran Khas di bawah Perkara 112D"
+    },
+    "LOCAL": {
+      "zh": "地方",
+      "vi": "Địa phương",
+      "th": "ท้องถิ่น",
+      "id": "Lokal",
+      "ms": "Tempatan"
+    },
+    "STATE OF SABAH": {
+      "zh": "沙巴州",
+      "vi": "Bang Sabah",
+      "th": "รัฐซาบาห์",
+      "id": "Negara Bagian Sabah",
+      "ms": "Negeri Sabah"
+    },
+    "PRIVATISATION": {
+      "zh": "私有化",
+      "vi": "Tư nhân hóa",
+      "th": "การแปรรูปเป็นเอกชน",
+      "id": "Privatisasi",
+      "ms": "Penswastaan"
+    },
+    "FOREIGN NATIONAL": {
+      "zh": "外国人",
+      "vi": "Người nước ngoài",
+      "th": "คนต่างชาติ",
+      "id": "Warga Asing",
+      "ms": "Warga Asing"
+    },
+    "CONTROL OF PETROL AND DIESEL PROPERTIES": {
+      "zh": "汽油与柴油性能管制",
+      "vi": "Kiểm soát tính chất xăng và dầu diesel",
+      "th": "การควบคุมคุณสมบัติของน้ำมันเบนซินและดีเซล",
+      "id": "Pengendalian Sifat Bensin dan Solar",
+      "ms": "Kawalan Sifat Petrol dan Diesel"
+    },
+    "MARRIAGE AND DIVORCE": {
+      "zh": "婚姻与离婚",
+      "vi": "Kết hôn và ly hôn",
+      "th": "การสมรสและการหย่า",
+      "id": "Perkawinan dan Perceraian",
+      "ms": "Perkahwinan dan Perceraian"
+    },
+    "SIZE, COLOUR AND TYPE": {
+      "zh": "尺寸、颜色及类型",
+      "vi": "Kích thước, màu sắc và chủng loại",
+      "th": "ขนาด สี และประเภท",
+      "id": "Ukuran, Warna, dan Jenis",
+      "ms": "Saiz, Warna dan Jenis"
+    },
+    "DELIMITATION OF CONSTITUENCIES": {
+      "zh": "选区划分",
+      "vi": "Phân định các khu vực bầu cử",
+      "th": "การแบ่งเขตเลือกตั้ง",
+      "id": "Penetapan Daerah Pemilihan",
+      "ms": "Penetapan Kawasan Pilihan Raya"
+    },
+    "PENSIONS, GRATUITIES AND OTHER BENEFITS": {
+      "zh": "退休金、恩恤金及其他福利",
+      "vi": "Lương hưu, tiền thưởng và các phúc lợi khác",
+      "th": "บำนาญ เงินบำเหน็จ และผลประโยชน์อื่น",
+      "id": "Pensiun, Uang Jasa, dan Tunjangan Lain",
+      "ms": "Pencen, Ganjaran dan Faedah Lain"
+    },
+    "STATE OF SARAWAK": {
+      "zh": "砂拉越州",
+      "vi": "Bang Sarawak",
+      "th": "รัฐซาราวัก",
+      "id": "Negara Bagian Sarawak",
+      "ms": "Negeri Sarawak"
+    },
+    "PRIVATIZATION": {
+      "zh": "私有化",
+      "vi": "Tư nhân hóa",
+      "th": "การแปรรูปเป็นเอกชน",
+      "id": "Privatisasi",
+      "ms": "Penswastaan"
+    },
+    "FACILITIES FOR ENFORCEMENT": {
+      "zh": "执法便利",
+      "vi": "Các điều kiện thuận lợi cho thi hành",
+      "th": "สิ่งอำนวยความสะดวกในการบังคับใช้",
+      "id": "Fasilitas Penegakan",
+      "ms": "Kemudahan Penguatkuasaan"
+    },
+    "REVISED-2023": {
+      "zh": "2023年修订版",
+      "vi": "Bản sửa đổi năm 2023",
+      "th": "ฉบับปรับปรุง 2023",
+      "id": "Disemak Semula 2023",
+      "ms": "Disemak Semula 2023"
+    },
+    "REVISED-2026": {
+      "zh": "2026年修订版",
+      "vi": "Bản sửa đổi năm 2026",
+      "th": "ฉบับปรับปรุง 2026",
+      "id": "Disemak Semula 2026",
+      "ms": "Disemak Semula 2026"
+    },
+    "MEMBERSHIP AND COUNCIL": {
+      "zh": "会员资格与理事会",
+      "vi": "Tư cách hội viên và Hội đồng",
+      "th": "การเป็นสมาชิกและสภา",
+      "id": "Keanggotaan dan Dewan",
+      "ms": "Keahlian dan Majlis"
+    },
+    "KUALA LUMPUR BRANCH": {
+      "zh": "吉隆坡分会",
+      "vi": "Chi nhánh Kuala Lumpur",
+      "th": "สาขากัวลาลัมเปอร์",
+      "id": "Cabang Kuala Lumpur",
+      "ms": "Cawangan Kuala Lumpur"
+    },
+    "FOREIGN WORKERS' COMPENSATION SCHEME": {
+      "zh": "外籍劳工赔偿计划",
+      "vi": "Chương trình Bồi thường cho Lao động Nước ngoài",
+      "th": "โครงการชดเชยแรงงานต่างด้าว",
+      "id": "Skema Kompensasi Pekerja Asing",
+      "ms": "Skim Pampasan Pekerja Asing"
+    },
+    "DISTRIBUTION": {
+      "zh": "分销",
+      "vi": "Phân phối",
+      "th": "การจำหน่าย",
+      "id": "Distribusi",
+      "ms": "Pengedaran"
+    },
+    "TREATMENT AND REHABILITATION": {
+      "zh": "治疗与康复",
+      "vi": "Điều trị và phục hồi",
+      "th": "การบำบัดและการฟื้นฟู",
+      "id": "Perawatan dan Rehabilitasi",
+      "ms": "Rawatan dan Pemulihan"
+    },
+    "CRIMINAL JURISDICTION": {
+      "zh": "刑事管辖权",
+      "vi": "Thẩm quyền hình sự",
+      "th": "เขตอำนาจทางอาญา",
+      "id": "Yurisdiksi Pidana",
+      "ms": "Bidang Kuasa Jenayah"
+    },
+    "EXTENSION AND MODIFICATION OF THE SECOND-HAND DEALERS ACT 1946": {
+      "zh": "1946年二手货商法的延伸与修改",
+      "vi": "Mở rộng và sửa đổi Luật Người buôn bán hàng cũ 1946",
+      "th": "การขยายใช้และการแก้ไขพระราชบัญญัติผู้ค้าของมือสอง ค.ศ. 1946",
+      "id": "Perluasan dan Modifikasi Undang-Undang Pedagang Barang Bekas 1946",
+      "ms": "Pelanjutan dan Pengubahsuaian Akta Peniaga Barang Terpakai 1946"
+    },
+    "DEVELOPMENT CHARGE": {
+      "zh": "发展费",
+      "vi": "Phí phát triển",
+      "th": "ค่าธรรมเนียมการพัฒนา",
+      "id": "Biaya Pembangunan",
+      "ms": "Caj Pembangunan"
+    },
+    "CERTIFICATE OF CONFORMANCE AND CONFORMITY MARK OF SAFETY STANDARDS": {
+      "zh": "安全标准合格证书与合格标志",
+      "vi": "Giấy chứng nhận phù hợp và dấu phù hợp tiêu chuẩn an toàn",
+      "th": "ใบรับรองความสอดคล้องและเครื่องหมายความสอดคล้องของมาตรฐานความปลอดภัย",
+      "id": "Sertifikat Kesesuaian dan Tanda Kesesuaian Standar Keselamatan",
+      "ms": "Sijil Pematuhan dan Tanda Pematuhan Piawaian Keselamatan"
+    },
+    "WINDING UP AND DISSOLUTION": {
+      "zh": "清盘与解散",
+      "vi": "Giải thể và chấm dứt hoạt động",
+      "th": "การชำระบัญชีและการเลิกกิจการ",
+      "id": "Likuidasi dan Pembubaran",
+      "ms": "Penggulungan dan Pembubaran"
+    },
+    "REMEMBRANCE ALLOWANCE": {
+      "zh": "纪念津贴",
+      "vi": "Trợ cấp tưởng niệm",
+      "th": "เบี้ยเลี้ยงที่ระลึก",
+      "id": "Tunjangan Peringatan",
+      "ms": "Elaun Peringatan"
+    },
+    "THE TRIBUNAL FOR CONSUMER CLAIMS": {
+      "zh": "消费者索赔法庭",
+      "vi": "Tòa án Khiếu nại Người tiêu dùng",
+      "th": "ศาลข้อเรียกร้องผู้บริโภค",
+      "id": "Pengadilan Tuntutan Konsumen",
+      "ms": "Tribunal Tuntutan Pengguna"
+    },
+    "DELEGATION OF POWERS": {
+      "zh": "权力下放",
+      "vi": "Ủy quyền",
+      "th": "การมอบอำนาจ",
+      "id": "Pelimpahan Kewenangan",
+      "ms": "Pengagihan Kuasa"
+    },
+    "INVESTIGATION ON EROSION AND SEDIMENT CONTROL": {
+      "zh": "侵蚀与泥沙控制调查",
+      "vi": "Điều tra về kiểm soát xói mòn và trầm tích",
+      "th": "การสอบสวนการควบคุมการกัดเซาะและตะกอน",
+      "id": "Penyelidikan Pengendalian Erosi dan Sedimen",
+      "ms": "Siasatan Kawalan Hakisan dan Sedimen"
+    },
+    "EXTENSION AND MODIFICATION OF THE OFFENDERS COMPULSORY ATTENDANCE ACT 1954": {
+      "zh": "1954年罪犯强制出庭法的延伸与修改",
+      "vi": "Mở rộng và sửa đổi Luật Cưỡng chế Tham dự của Người vi phạm 1954",
+      "th": "การขยายใช้และการแก้ไขพระราชบัญญัติการบังคับผู้กระทำผิดให้มาศาล ค.ศ. 1954",
+      "id": "Perluasan dan Modifikasi Undang-Undang Kehadiran Wajib Pelanggar 1954",
+      "ms": "Pelanjutan dan Pengubahsuaian Akta Kehadiran Wajib Pesalah 1954"
+    },
+    "PAGOH BRANCH": {
+      "zh": "巴莪分会",
+      "vi": "Chi nhánh Pagoh",
+      "th": "สาขาปาโก๊ะ",
+      "id": "Cabang Pagoh",
+      "ms": "Cawangan Pagoh"
+    },
+    "LEGISLATIVE POWERS": {
+      "zh": "立法权",
+      "vi": "Quyền lập pháp",
+      "th": "อำนาจนิติบัญญัติ",
+      "id": "Kewenangan Legislatif",
+      "ms": "Kuasa Perundangan"
+    },
+    "PROMOTED ACTIVITIES AND PROMOTED PRODUCTS FOR HIGH TECHNOLOGY COMPANIES": {
+      "zh": "高科技公司的受促活动与受促产品",
+      "vi": "Hoạt động được khuyến khích và sản phẩm được khuyến khích cho doanh nghiệp công nghệ cao",
+      "th": "กิจกรรมที่ได้รับการส่งเสริมและผลิตภัณฑ์ที่ได้รับการส่งเสริมสำหรับบริษัทเทคโนโลยีชั้นสูง",
+      "id": "Kegiatan yang Dipromosikan dan Produk yang Dipromosikan bagi Perusahaan Teknologi Tinggi",
+      "ms": "Aktiviti Digalakkan dan Produk Digalakkan bagi Syarikat Teknologi Tinggi"
+    },
+    "VIENNA CONVENTION": {
+      "zh": "维也纳公约",
+      "vi": "Công ước Viên",
+      "th": "อนุสัญญาเวียนนา",
+      "id": "Konvensi Wina",
+      "ms": "Konvensyen Vienna"
+    },
+    "INDUSTRIAL RELATIONS": {
+      "zh": "工业关系",
+      "vi": "Quan hệ công nghiệp",
+      "th": "แรงงานสัมพันธ์",
+      "id": "Hubungan Industrial",
+      "ms": "Perhubungan Perusahaan"
+    },
+    "EXTENSION OF THE ACT": {
+      "zh": "本法（延伸）",
+      "vi": "Mở rộng phạm vi Luật",
+      "th": "การขยายใช้พระราชบัญญัติ",
+      "id": "Perluasan Undang-Undang",
+      "ms": "Pelanjutan Akta"
+    },
+    "REFRIGERANT MANAGEMENT": {
+      "zh": "制冷剂管理",
+      "vi": "Quản lý chất làm lạnh",
+      "th": "การจัดการสารทำความเย็น",
+      "id": "Pengelolaan Refrigeran",
+      "ms": "Pengurusan Bahan Penyejuk"
+    },
+    "PERMISSION TO MOVE FREELY AND TO WORK": {
+      "zh": "自由行动与工作许可",
+      "vi": "Giấy phép đi lại tự do và làm việc",
+      "th": "การอนุญาตให้เคลื่อนย้ายได้อย่างอิสระและทำงาน",
+      "id": "Izin Bergerak Bebas dan Bekerja",
+      "ms": "Kebenaran Bergerak Bebas dan Bekerja"
+    },
+    "FOREIGN WORKER’S COMPENSATION SCHEME": {
+      "zh": "外籍劳工赔偿计划",
+      "vi": "Chương trình Bồi thường cho Lao động Nước ngoài",
+      "th": "โครงการชดเชยแรงงานต่างด้าว",
+      "id": "Skema Kompensasi Pekerja Asing",
+      "ms": "Skim Pampasan Pekerja Asing"
+    },
+    "MODIFICATION AND EXTENSION TO EAST MALAYSIA": {
+      "zh": "对东马的修改与延伸",
+      "vi": "Sửa đổi và mở rộng áp dụng cho Đông Malaysia",
+      "th": "การปรับปรุงและการขยายใช้กับมาเลเซียตะวันออก",
+      "id": "Modifikasi dan Perluasan ke Malaysia Timur",
+      "ms": "Pengubahsuaian dan Pelanjutan ke Malaysia Timur"
+    },
+    "PRESCRIBED PREMISES": {
+      "zh": "规定场所",
+      "vi": "Cơ sở được quy định",
+      "th": "สถานที่ที่กำหนด",
+      "id": "Tempat yang Ditetapkan",
+      "ms": "Premis yang Ditetapkan"
+    },
+    "LICENSING OF DRIVERS": {
+      "zh": "司机发牌",
+      "vi": "Cấp phép người lái xe",
+      "th": "การออกใบอนุญาตผู้ขับขี่",
+      "id": "Perizinan Pengemudi",
+      "ms": "Pelesenan Pemandu"
+    },
+    "LICENSING AND CONDUCT OF DRIVERS, CONDUCTORS AND PASSENGERS": {
+      "zh": "司机、车长及乘客的发牌与行为",
+      "vi": "Cấp phép và hạnh kiểm của người lái xe, nhân viên bán vé và hành khách",
+      "th": "การออกใบอนุญาตและความประพฤติของผู้ขับขี่ พนักงานเก็บค่าโดยสาร และผู้โดยสาร",
+      "id": "Perizinan dan Perilaku Pengemudi, Kondektur, dan Penumpang",
+      "ms": "Pelesenan dan Kelakuan Pemandu, Konduktor dan Penumpang"
+    },
+    "TEMPORARY MODIFICATION": {
+      "zh": "临时修改",
+      "vi": "Sửa đổi tạm thời",
+      "th": "การปรับปรุงชั่วคราว",
+      "id": "Modifikasi Sementara",
+      "ms": "Pengubahsuaian Sementara"
+    },
+    "RELEASE OF TRAFFICKED PERSON": {
+      "zh": "被贩运人员的释放",
+      "vi": "Phóng thích người bị buôn bán",
+      "th": "การปล่อยตัวผู้ถูกค้ามนุษย์",
+      "id": "Pelepasan Orang Korban Perdagangan",
+      "ms": "Pembebasan Orang Diperdagangkan"
+    }
+  }
+}

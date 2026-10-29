@@ -1,0 +1,3626 @@
+{
+ "batch": "bn-p1-b01",
+ "scope": "BN",
+ "generatedAt": "2026-10-27T17:11:20.688Z",
+ "engine": "bn_gen",
+ "items": {
+  "BN-CAP-22-2021-E-PENAL-CODE-ACT": {
+   "vi": "Bộ luật Hình sự",
+   "th": "ประมวลกฎหมายอาญา",
+   "id": "Kitab Undang-Undang Pidana",
+   "ms": "Kanun Keseksaan"
+  },
+  "BN-H015": {
+   "vi": "Bộ luật Hình sự",
+   "th": "ประมวลกฎหมายอาญา",
+   "id": "Kitab Undang-Undang Pidana",
+   "ms": "Kanun Keseksaan"
+  },
+  "BN-COMPANIES-CAP39": {
+   "vi": "Luật Công ty (Chương 39)",
+   "th": "พระราชบัญญัติบริษัท (บทที่ 39)",
+   "id": "Undang-Undang Perusahaan (Bab 39)",
+   "ms": "Akta Syarikat (Bab 39)"
+  },
+  "BN-S-9-2018-SEC-381-OF-SYARIAH-COURTS-CRIMINAL-PROCEDURE-1D32E4": {
+   "vi": "Bộ luật Tố tụng hình sự của Tòa án Syariah năm 2018 (Điều 381)",
+   "th": "ประมวลกฎหมายวิธีพิจารณาความอาญาของศาลชะรีอะฮ์ พ.ศ. 2561 (มาตรา 381)",
+   "id": "Kitab Undang-Undang Hukum Acara Pidana Mahkamah Syariah Tahun 2018 (Pasal 381)",
+   "ms": "Kanun Tatacara Jenayah Mahkamah Syariah 2018 (Seksyen 381)"
+  },
+  "BN-CAP-7-2021-CRIMINAL-PROCEDURE-CODE": {
+   "vi": "Bộ luật Tố tụng hình sự",
+   "th": "ประมวลกฎหมายวิธีพิจารณาความอาญา",
+   "id": "Kitab Undang-Undang Hukum Acara Pidana",
+   "ms": "Kanun Tatacara Jenayah"
+  },
+  "BN-CAP-224-2021-SYARIAH-COURTS-CRIMINAL-PROCEDURE-CODE": {
+   "vi": "Bộ luật Tố tụng hình sự của Tòa án Syariah",
+   "th": "ประมวลกฎหมายวิธีพิจารณาความอาญาของศาลชะรีอะฮ์",
+   "id": "Kitab Undang-Undang Hukum Acara Pidana Mahkamah Syariah",
+   "ms": "Kanun Tatacara Jenayah Mahkamah Syariah"
+  },
+  "BN-H029": {
+   "vi": "Sắc lệnh Công ty kinh doanh quốc tế năm 2000",
+   "th": "คำสั่งบริษัทระหว่างประเทศ พ.ศ. 2543",
+   "id": "Perintah Perusahaan Bisnis Internasional Tahun 2000",
+   "ms": "Perintah Syarikat Perniagaan Antarabangsa 2000"
+  },
+  "BN-CAP-51-R-1-2015-PRISONS-RULES": {
+   "vi": "Quy tắc Trại giam",
+   "th": "ข้อกำหนดเรือนจำ",
+   "id": "Peraturan Lembaga Pemasyarakatan",
+   "ms": "Kaedah Penjara"
+  },
+  "BN-CAP-182-R-1-2001-PUBLIC-HEALTH-FOOD-REGULATIONS": {
+   "vi": "Quy định Thực phẩm vì sức khỏe cộng đồng",
+   "th": "ข้อบังคับอาหารเพื่อสาธารณสุข",
+   "id": "Peraturan Pangan Kesehatan Masyarakat",
+   "ms": "Peraturan Makanan Kesihatan Awam"
+  },
+  "BN-H062": {
+   "vi": "Luật Mất khả năng thanh toán",
+   "th": "พระราชบัญญัติการล้มละลาย",
+   "id": "Undang-Undang Insolvensi",
+   "ms": "Akta Insolvensi"
+  },
+  "BN-H131": {
+   "vi": "Bộ luật Tố tụng hình sự",
+   "th": "ประมวลกฎหมายวิธีพิจารณาความอาญา",
+   "id": "Kitab Undang-Undang Hukum Acara Pidana",
+   "ms": "Kanun Tatacara Jenayah"
+  },
+  "BN-CAP-39-2015-COMPANIES-ACT": {
+   "vi": "Luật Công ty",
+   "th": "พระราชบัญญัติบริษัท",
+   "id": "Undang-Undang Perusahaan",
+   "ms": "Akta Syarikat"
+  },
+  "BN-CAP-39-1984-COMPANIES-ACT": {
+   "vi": "Luật Công ty",
+   "th": "พระราชบัญญัติบริษัท",
+   "id": "Undang-Undang Perusahaan",
+   "ms": "Akta Syarikat"
+  },
+  "BN-H001": {
+   "vi": "Sắc lệnh Quyền tác giả năm 1999",
+   "th": "คำสั่งลิขสิทธิ์ พ.ศ. 2542",
+   "id": "Perintah Hak Cipta Tahun 1999",
+   "ms": "Perintah Hak Cipta 1999"
+  },
+  "BN-S-1-2016-E-INSOLVENCY-ORDER-2016": {
+   "vi": "Sắc lệnh Mất khả năng thanh toán năm 2016",
+   "th": "คำสั่งการล้มละลาย พ.ศ. 2559",
+   "id": "Perintah Insolvensi Tahun 2016",
+   "ms": "Perintah Insolvensi 2016"
+  },
+  "BN-S-69-2013-SEC-254-OF-THE-SYARIAH-PENAL-CODE-ORDER-2013": {
+   "vi": "Bộ luật Hình sự Syariah năm 2013 (Điều 254)",
+   "th": "ประมวลกฎหมายอาญาชะรีอะฮ์ พ.ศ. 2556 (มาตรา 254)",
+   "id": "Kitab Undang-Undang Pidana Syariah Tahun 2013 (Pasal 254)",
+   "ms": "Kanun Keseksaan Syariah 2013 (Seksyen 254)"
+  },
+  "BN-CAP-275-2024-SYARIAH-PENAL-CODE": {
+   "vi": "Bộ luật Hình sự Syariah",
+   "th": "ประมวลกฎหมายอาญาชะรีอะฮ์",
+   "id": "Kitab Undang-Undang Pidana Syariah",
+   "ms": "Kanun Keseksaan Syariah"
+  },
+  "BN-S-26-1985-E-REVISED-FEES": {
+   "vi": "Luật Phí sửa đổi",
+   "th": "พระราชบัญญัติค่าธรรมเนียมฉบับปรับปรุง",
+   "id": "Undang-Undang Biaya yang Direvisi",
+   "ms": "Akta Fi Semakan"
+  },
+  "BN-CAP-247-2022-INSOLVENCY-ACT": {
+   "vi": "Luật Mất khả năng thanh toán",
+   "th": "พระราชบัญญัติการล้มละลาย",
+   "id": "Undang-Undang Insolvensi",
+   "ms": "Akta Insolvensi"
+  },
+  "BN-S-75-2016-SYARIAH-COURTS-CIVIL-PROCEDURE-ORDER-2005": {
+   "vi": "Sắc lệnh Tố tụng dân sự của Tòa án Syariah năm 2005",
+   "th": "คำสั่งวิธีพิจารณาความแพ่งของศาลชะรีอะฮ์ พ.ศ. 2548",
+   "id": "Perintah Hukum Acara Perdata Mahkamah Syariah Tahun 2005",
+   "ms": "Perintah Tatacara Sivil Mahkamah Syariah 2005"
+  },
+  "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE": {
+   "vi": "Bộ luật Tố tụng dân sự của Tòa án Syariah",
+   "th": "ประมวลกฎหมายวิธีพิจารณาความแพ่งของศาลชะรีอะฮ์",
+   "id": "Kitab Undang-Undang Hukum Acara Perdata Mahkamah Syariah",
+   "ms": "Kanun Tatacara Sivil Mahkamah Syariah"
+  },
+  "BN-CAP-106-2015-CONTRACTS-ACT-1": {
+   "vi": "Luật Hợp đồng số 1",
+   "th": "พระราชบัญญัติสัญญา ฉบับที่ 1",
+   "id": "Undang-Undang Kontrak Nomor 1",
+   "ms": "Akta Kontrak Bilangan 1"
+  },
+  "BN-H070": {
+   "vi": "Luật Hợp đồng (Chương 106)",
+   "th": "พระราชบัญญัติสัญญา (บทที่ 106)",
+   "id": "Undang-Undang Kontrak (Bab 106)",
+   "ms": "Akta Kontrak (Bab 106)"
+  },
+  "BN-S-27-2002-MERCHANT-SHIPPING-ORDER-2002": {
+   "vi": "Sắc lệnh Vận tải biển năm 2002",
+   "th": "คำสั่งการเดินเรือพาณิชย์ พ.ศ. 2545",
+   "id": "Perintah Pelayaran Niaga Tahun 2002",
+   "ms": "Perintah Perkapalan Saudagar 2002"
+  },
+  "BN-CAP-106-2023-CONTRACTS-ACT-1": {
+   "vi": "Luật Hợp đồng số 1",
+   "th": "พระราชบัญญัติสัญญา ฉบับที่ 1",
+   "id": "Undang-Undang Kontrak Nomor 1",
+   "ms": "Akta Kontrak Bilangan 1"
+  },
+  "BN-H006": {
+   "vi": "Luật Hợp đồng",
+   "th": "พระราชบัญญัติสัญญา",
+   "id": "Undang-Undang Kontrak",
+   "ms": "Akta Kontrak"
+  },
+  "BN-H125": {
+   "vi": "Luật Thuế tem",
+   "th": "พระราชบัญญัติอากรแสตมป์",
+   "id": "Undang-Undang Meterai",
+   "ms": "Akta Setem"
+  },
+  "BN-CAP-39-2021-COMPANIES-ACT-1": {
+   "vi": "Luật Công ty số 1",
+   "th": "พระราชบัญญัติบริษัท ฉบับที่ 1",
+   "id": "Undang-Undang Perusahaan Nomor 1",
+   "ms": "Akta Syarikat Bilangan 1"
+  },
+  "BN-BANKRUPTCY-RULES": {
+   "vi": "Quy tắc Phá sản",
+   "th": "ข้อกำหนดล้มละลาย",
+   "id": "Peraturan Kepailitan",
+   "ms": "Kaedah Kebankrapan"
+  },
+  "BN-S-56-2000-INTERNATIONAL-BUSINESS-COMPANIES-ORDER-2000": {
+   "vi": "Sắc lệnh Công ty kinh doanh quốc tế năm 2000",
+   "th": "คำสั่งบริษัทระหว่างประเทศ พ.ศ. 2543",
+   "id": "Perintah Perusahaan Bisnis Internasional Tahun 2000",
+   "ms": "Perintah Syarikat Perniagaan Antarabangsa 2000"
+  },
+  "BN-EMPLOYMENT-2009": {
+   "vi": "Sắc lệnh Việc làm năm 2009",
+   "th": "คำสั่งการจ้างงาน พ.ศ. 2552",
+   "id": "Perintah Ketenagakerjaan Tahun 2009",
+   "ms": "Perintah Pekerjaan 2009"
+  },
+  "BN-H017": {
+   "vi": "Luật Nhãn hiệu",
+   "th": "พระราชบัญญัติเครื่องหมายการค้า",
+   "id": "Undang-Undang Merek",
+   "ms": "Akta Cap Dagangan"
+  },
+  "BN-S-47-2012-CRIMINAL-ASSET-RECOVERY-ORDER-2012": {
+   "vi": "Sắc lệnh Thu hồi tài sản phạm tội năm 2012",
+   "th": "คำสั่งการยึดคืนทรัพย์สินจากอาชญากรรม พ.ศ. 2555",
+   "id": "Perintah Pemulihan Aset Kriminal Tahun 2012",
+   "ms": "Perintah Perolehan Semula Harta Jenayah 2012"
+  },
+  "BN-CAP-278-2024-EMPLOYMENT-ACT-1": {
+   "vi": "Luật Việc làm số 1",
+   "th": "พระราชบัญญัติการจ้างงาน ฉบับที่ 1",
+   "id": "Undang-Undang Ketenagakerjaan Nomor 1",
+   "ms": "Akta Pekerjaan Bilangan 1"
+  },
+  "BN-CAP-278-2026-EMPLOYMENT-ACT-1": {
+   "vi": "Luật Việc làm số 1",
+   "th": "พระราชบัญญัติการจ้างงาน ฉบับที่ 1",
+   "id": "Undang-Undang Ketenagakerjaan Nomor 1",
+   "ms": "Akta Pekerjaan Bilangan 1"
+  },
+  "BN-H056": {
+   "vi": "Luật Hối phiếu (Chương 172)",
+   "th": "พระราชบัญญัติตั๋วแลกเงิน (บทที่ 172)",
+   "id": "Undang-Undang Surat Wesel (Bab 172)",
+   "ms": "Akta Bil Pertukaran (Bab 172)"
+  },
+  "BN-CAP-93-2002-LABOUR-ACT": {
+   "vi": "Luật Lao động",
+   "th": "พระราชบัญญัติแรงงาน",
+   "id": "Undang-Undang Ketenagakerjaan",
+   "ms": "Akta Buruh"
+  },
+  "BN-CAP-67-2021-BANKRUPTCY-ACT": {
+   "vi": "Luật Phá sản",
+   "th": "พระราชบัญญัติล้มละลาย",
+   "id": "Undang-Undang Kepailitan",
+   "ms": "Akta Kebankrapan"
+  },
+  "BN-H022": {
+   "vi": "Luật Lao động",
+   "th": "พระราชบัญญัติแรงงาน",
+   "id": "Undang-Undang Ketenagakerjaan",
+   "ms": "Akta Buruh"
+  },
+  "BN-CAP-262-R-1-2023-PATENTS-RULES": {
+   "vi": "Quy tắc Sáng chế",
+   "th": "ข้อกำหนดสิทธิบัตร",
+   "id": "Peraturan Paten",
+   "ms": "Kaedah Paten"
+  },
+  "BN-INVESTMENT-2001": {
+   "vi": "Sắc lệnh Ưu đãi đầu tư năm 2001",
+   "th": "คำสั่งสิ่งจูงใจการลงทุน พ.ศ. 2544",
+   "id": "Perintah Insentif Investasi Tahun 2001",
+   "ms": "Perintah Insentif Pelaburan 2001"
+  },
+  "BN-H012": {
+   "vi": "Luật Thuế thu nhập",
+   "th": "พระราชบัญญัติภาษีเงินได้",
+   "id": "Undang-Undang Pajak Penghasilan",
+   "ms": "Akta Cukai Pendapatan"
+  },
+  "BN-CAP-262-2023-PATENTS-ACT": {
+   "vi": "Luật Sáng chế",
+   "th": "พระราชบัญญัติสิทธิบัตร",
+   "id": "Undang-Undang Paten",
+   "ms": "Akta Paten"
+  },
+  "BN-H002": {
+   "vi": "Sắc lệnh Bảo vệ dữ liệu cá nhân năm 2025",
+   "th": "คำสั่งการคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2568",
+   "id": "Perintah Perlindungan Data Pribadi Tahun 2025",
+   "ms": "Perintah Perlindungan Data Peribadi 2025"
+  },
+  "BN-S-9-2006-CHILDREN-AND-YOUNG-PERSONS-ORDER-2006": {
+   "vi": "Sắc lệnh Trẻ em và người vị thành niên năm 2006",
+   "th": "คำสั่งเด็กและเยาวชน พ.ศ. 2549",
+   "id": "Perintah Anak dan Remaja Tahun 2006",
+   "ms": "Perintah Kanak-Kanak dan Orang Muda 2006"
+  },
+  "BN-CAP-98-2022-TRADE-MARKS-ACT": {
+   "vi": "Luật Nhãn hiệu",
+   "th": "พระราชบัญญัติเครื่องหมายการค้า",
+   "id": "Undang-Undang Merek",
+   "ms": "Akta Cap Dagangan"
+  },
+  "BN-CAP-219-2012-CHILDREN-AND-YOUNG-PERSONS-ACT-1": {
+   "vi": "Luật Trẻ em và người vị thành niên số 1",
+   "th": "พระราชบัญญัติเด็กและเยาวชน ฉบับที่ 1",
+   "id": "Undang-Undang Anak dan Remaja Nomor 1",
+   "ms": "Akta Kanak-Kanak dan Orang Muda Bilangan 1"
+  },
+  "BN-S-117-2010-E-LIMITED-LIABILITY-PARTNERSHIPS-ORDER-2010-1": {
+   "vi": "Sắc lệnh Công ty hợp danh trách nhiệm hữu hạn số 1 năm 2010",
+   "th": "คำสั่งห้างหุ้นส่วนจำกัดความรับผิด ฉบับที่ 1 พ.ศ. 2553",
+   "id": "Perintah Persekutuan dengan Tanggung Jawab Terbatas Nomor 1 Tahun 2010",
+   "ms": "Perintah Perkongsian Liabiliti Terhad Bilangan 1 2010"
+  },
+  "BN-CAP-172-2023-BILLS-OF-EXCHANGE-ACT": {
+   "vi": "Luật Hối phiếu",
+   "th": "พระราชบัญญัติตั๋วแลกเงิน",
+   "id": "Undang-Undang Surat Wesel",
+   "ms": "Akta Bil Pertukaran"
+  },
+  "BN-H063": {
+   "vi": "Luật Cạnh tranh",
+   "th": "พระราชบัญญัติการแข่งขันทางการค้า",
+   "id": "Undang-Undang Persaingan Usaha",
+   "ms": "Akta Persaingan"
+  },
+  "BN-H014": {
+   "vi": "Luật Sáng chế",
+   "th": "พระราชบัญญัติสิทธิบัตร",
+   "id": "Undang-Undang Paten",
+   "ms": "Akta Paten"
+  },
+  "BN-CAP-290-2024-CIVIL-AVIATION-REGULATIONS": {
+   "vi": "Quy định Hàng không dân dụng",
+   "th": "ข้อบังคับการบินพลเรือน",
+   "id": "Peraturan Penerbangan Sipil",
+   "ms": "Peraturan Penerbangan Awam"
+  },
+  "BN-S-110-2010-E-DEPOSIT-PROTECTION-ORDER-2010": {
+   "vi": "Sắc lệnh Bảo vệ tiền gửi năm 2010",
+   "th": "คำสั่งการคุ้มครองเงินฝาก พ.ศ. 2553",
+   "id": "Perintah Perlindungan Simpanan Tahun 2010",
+   "ms": "Perintah Perlindungan Deposit 2010"
+  },
+  "BN-S-48-2006-E-INSURANCE-ORDER-2006": {
+   "vi": "Sắc lệnh Bảo hiểm năm 2006",
+   "th": "คำสั่งประกันภัย พ.ศ. 2549",
+   "id": "Perintah Asuransi Tahun 2006",
+   "ms": "Perintah Insurans 2006"
+  },
+  "BN-CAP-34-2022-STAMP-ACT-ACT": {
+   "vi": "Luật Thuế tem",
+   "th": "พระราชบัญญัติอากรแสตมป์",
+   "id": "Undang-Undang Meterai",
+   "ms": "Akta Setem"
+  },
+  "BN-S-37-2010-CHILDREN-AND-YOUNG-PERSONS-APPROVED-SCHOOLS-3760DD": {
+   "vi": "Quy định Trường giáo dưỡng và cơ sở giáo dưỡng được phê duyệt cho trẻ em và người vị thành niên năm 2010",
+   "th": "ข้อบังคับโรงเรียนและสถานรับเลี้ยงที่ได้รับอนุมัติสำหรับเด็กและเยาวชน พ.ศ. 2553",
+   "id": "Peraturan Sekolah dan Panti yang Disetujui bagi Anak dan Remaja Tahun 2010",
+   "ms": "Peraturan Sekolah dan Rumah Diluluskan bagi Kanak-Kanak dan Orang Muda 2010"
+  },
+  "BN-CAP-35-2013-INCOME-TAX-ACT": {
+   "vi": "Luật Thuế thu nhập",
+   "th": "พระราชบัญญัติภาษีเงินได้",
+   "id": "Undang-Undang Pajak Penghasilan",
+   "ms": "Akta Cukai Pendapatan"
+  },
+  "BN-CAP-252-R1-2022-PLANT-VARIETIES-PROTECTION-RULES": {
+   "vi": "Quy tắc Bảo hộ giống cây trồng",
+   "th": "ข้อกำหนดการคุ้มครองพันธุ์พืช",
+   "id": "Peraturan Perlindungan Varietas Tanaman",
+   "ms": "Kaedah Perlindungan Varieti Tumbuhan"
+  },
+  "BN-CAP-35-2021-INCOME-TAX-ACT": {
+   "vi": "Luật Thuế thu nhập",
+   "th": "พระราชบัญญัติภาษีเงินได้",
+   "id": "Undang-Undang Pajak Penghasilan",
+   "ms": "Akta Cukai Pendapatan"
+  },
+  "BN-CAP-35-2024-INCOME-TAX-ACT-1": {
+   "vi": "Luật Thuế thu nhập số 1",
+   "th": "พระราชบัญญัติภาษีเงินได้ ฉบับที่ 1",
+   "id": "Undang-Undang Pajak Penghasilan Nomor 1",
+   "ms": "Akta Cukai Pendapatan Bilangan 1"
+  },
+  "BN-CAP-256-2023-BUILDING-CONTROL-ACT": {
+   "vi": "Luật Kiểm soát xây dựng",
+   "th": "พระราชบัญญัติการควบคุมอาคาร",
+   "id": "Undang-Undang Pengendalian Bangunan",
+   "ms": "Akta Kawalan Bangunan"
+  },
+  "BN-S-69-2014-BUILDING-CONTROL-ORDER-2014": {
+   "vi": "Sắc lệnh Kiểm soát xây dựng năm 2014",
+   "th": "คำสั่งการควบคุมอาคาร พ.ศ. 2557",
+   "id": "Perintah Pengendalian Bangunan Tahun 2014",
+   "ms": "Perintah Kawalan Bangunan 2014"
+  },
+  "BN-CAP-253-2022-COMPETITION-ACT-1": {
+   "vi": "Luật Cạnh tranh số 1",
+   "th": "พระราชบัญญัติการแข่งขันทางการค้า ฉบับที่ 1",
+   "id": "Undang-Undang Persaingan Usaha Nomor 1",
+   "ms": "Akta Persaingan Bilangan 1"
+  },
+  "BN-S-1-2015-COMPETITION-ORDER-2015": {
+   "vi": "Sắc lệnh Cạnh tranh năm 2015",
+   "th": "คำสั่งการแข่งขันทางการค้า พ.ศ. 2558",
+   "id": "Perintah Persaingan Usaha Tahun 2015",
+   "ms": "Perintah Persaingan 2015"
+  },
+  "BN-S-45-2011-E-ANTI-TERRORISM-ORDER-2011": {
+   "vi": "Sắc lệnh Chống khủng bố năm 2011",
+   "th": "คำสั่งการต่อต้านการก่อการร้าย พ.ศ. 2554",
+   "id": "Perintah Antiterorisme Tahun 2011",
+   "ms": "Perintah Antikeganasan 2011"
+  },
+  "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1": {
+   "vi": "Luật Phân tầng đất đai theo Bộ luật Đất đai số 1",
+   "th": "พระราชบัญญัติการแบ่งชั้นที่ดินตามประมวลกฎหมายที่ดิน ฉบับที่ 1",
+   "id": "Undang-Undang Strata Tanah Nomor 1",
+   "ms": "Akta Strata Tanah Bilangan 1"
+  },
+  "BN-S-51-2017-E-ELECTRICITY-ORDER-2017": {
+   "vi": "Sắc lệnh Điện lực năm 2017",
+   "th": "คำสั่งไฟฟ้า พ.ศ. 2560",
+   "id": "Perintah Ketenagalistrikan Tahun 2017",
+   "ms": "Perintah Elektrik 2017"
+  },
+  "BN-CAP-271-2024-POSTAL-SERVICES-ACT-1": {
+   "vi": "Luật Dịch vụ bưu chính số 1",
+   "th": "พระราชบัญญัติบริการไปรษณีย์ ฉบับที่ 1",
+   "id": "Undang-Undang Layanan Pos Nomor 1",
+   "ms": "Akta Perkhidmatan Pos Bilangan 1"
+  },
+  "BN-CAP-173-2024-ARBITRATION-ACT": {
+   "vi": "Luật Trọng tài",
+   "th": "พระราชบัญญัติอนุญาโตตุลาการ",
+   "id": "Undang-Undang Arbitrase",
+   "ms": "Akta Timbang Tara"
+  },
+  "BN-CAP-223-ELECTRICITY-ACT-1": {
+   "vi": "Luật Điện lực số 1",
+   "th": "พระราชบัญญัติไฟฟ้า ฉบับที่ 1",
+   "id": "Undang-Undang Ketenagalistrikan Nomor 1",
+   "ms": "Akta Elektrik Bilangan 1"
+  },
+  "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000": {
+   "vi": "Sắc lệnh Giao dịch điện tử năm 2000",
+   "th": "คำสั่งธุรกรรมอิเล็กทรอนิกส์ พ.ศ. 2543",
+   "id": "Perintah Transaksi Elektronik Tahun 2000",
+   "ms": "Perintah Transaksi Elektronik 2000"
+  },
+  "BN-S-61-2015-TOWN-AND-COUNTRY-PLANNING-ORDER-2015": {
+   "vi": "Sắc lệnh Quy hoạch đô thị và nông thôn năm 2015",
+   "th": "คำสั่งการผังเมือง พ.ศ. 2558",
+   "id": "Perintah Tata Ruang Kota dan Desa Tahun 2015",
+   "ms": "Perintah Perancangan Bandar dan Desa 2015"
+  },
+  "BN-CAP-221-2021-ALLIED-HEALTH-PROFESSIONS-OF-BRUNEI-DARU-52AA7E": {
+   "vi": "Luật Các nghề y tế phụ trợ Brunei Darussalam",
+   "th": "พระราชบัญญัติวิชาชีพสุขภาพสาขาสมทบแห่งบรูไนดารุสซาลาม",
+   "id": "Undang-Undang Profesi Kesehatan Terkait Brunei Darussalam",
+   "ms": "Akta Profesion Kesihatan Bersekutu Brunei Darussalam"
+  },
+  "BN-CAP-248-TOWN-AND-COUNTRY-PLANNING-ACT": {
+   "vi": "Luật Quy hoạch đô thị và nông thôn",
+   "th": "พระราชบัญญัติการผังเมือง",
+   "id": "Undang-Undang Tata Ruang Kota dan Desa",
+   "ms": "Akta Perancangan Bandar dan Desa"
+  },
+  "BN-CAP-252-2022-PLANT-VARIETIES-PROTECTION-ACT": {
+   "vi": "Luật Bảo hộ giống cây trồng",
+   "th": "พระราชบัญญัติการคุ้มครองพันธุ์พืช",
+   "id": "Undang-Undang Perlindungan Varietas Tanaman",
+   "ms": "Akta Perlindungan Varieti Tumbuhan"
+  },
+  "BN-CAP-256-RG-1-2023-BUILDING-CONTROL-REGULATIONS": {
+   "vi": "Quy định Kiểm soát xây dựng",
+   "th": "ข้อบังคับการควบคุมอาคาร",
+   "id": "Peraturan Pengendalian Bangunan",
+   "ms": "Peraturan Kawalan Bangunan"
+  },
+  "BN-CAP-277-2024-WORKPLACE-SAFETY-AND-HEALTH-ACT": {
+   "vi": "Luật An toàn và sức khỏe tại nơi làm việc",
+   "th": "พระราชบัญญัติความปลอดภัยและอาชีวอนามัยในสถานที่ทำงาน",
+   "id": "Undang-Undang Keselamatan dan Kesehatan Kerja",
+   "ms": "Akta Keselamatan dan Kesihatan Pekerjaan"
+  },
+  "BN-CAP-61-2024-FISHERIES-ACT": {
+   "vi": "Luật Thủy sản",
+   "th": "พระราชบัญญัติการประมง",
+   "id": "Undang-Undang Perikanan",
+   "ms": "Akta Perikanan"
+  },
+  "BN-CAP-51-2015-PRISONS-ACT-1": {
+   "vi": "Luật Trại giam số 1",
+   "th": "พระราชบัญญัติเรือนจำ ฉบับที่ 1",
+   "id": "Undang-Undang Lembaga Pemasyarakatan Nomor 1",
+   "ms": "Akta Penjara Bilangan 1"
+  },
+  "BN-H123": {
+   "vi": "Luật Thời hiệu",
+   "th": "พระราชบัญญัติอายุความ",
+   "id": "Undang-Undang Daluwarsa",
+   "ms": "Akta Had Masa"
+  },
+  "BN-CAP-17-2-2023-IMMIGRATION-ACT-1": {
+   "vi": "Luật Nhập cảnh số 1",
+   "th": "พระราชบัญญัติตรวจคนเข้าเมือง ฉบับที่ 1",
+   "id": "Undang-Undang Keimigrasian Nomor 1",
+   "ms": "Akta Imigresen Bilangan 1"
+  },
+  "BN-CAP-17-2014-IMMIGRATION-ACT": {
+   "vi": "Luật Nhập cảnh",
+   "th": "พระราชบัญญัติตรวจคนเข้าเมือง",
+   "id": "Undang-Undang Keimigrasian",
+   "ms": "Akta Imigresen"
+  },
+  "BN-H009": {
+   "vi": "Luật Giao dịch điện tử",
+   "th": "พระราชบัญญัติธุรกรรมอิเล็กทรอนิกส์",
+   "id": "Undang-Undang Transaksi Elektronik",
+   "ms": "Akta Transaksi Elektronik"
+  },
+  "BN-H026": {
+   "vi": "Luật Nhãn hiệu hàng hóa (Chương 96)",
+   "th": "พระราชบัญญัติเครื่องหมายสินค้า (บทที่ 96)",
+   "id": "Undang-Undang Merek Barang (Bab 96)",
+   "ms": "Akta Cap Barangan (Bab 96)"
+  },
+  "BN-CAP-132-2022-LEGAL-PROFESSION-ACT-1": {
+   "vi": "Luật Hành nghề luật sư số 1",
+   "th": "พระราชบัญญัติวิชาชีพทนายความ ฉบับที่ 1",
+   "id": "Undang-Undang Profesi Advokat Nomor 1",
+   "ms": "Akta Profesion Guaman Bilangan 1"
+  },
+  "BN-CAP-157-2013-UNIVERSITI-BRUNEI-DARUSSALAM-ACT-1": {
+   "vi": "Luật Universiti Brunei Darussalam số 1",
+   "th": "พระราชบัญญัติUniversiti Brunei Darussalam ฉบับที่ 1",
+   "id": "Undang-Undang Universiti Brunei Darussalam Nomor 1",
+   "ms": "Akta Universiti Brunei Darussalam Bilangan 1"
+  },
+  "BN-CAP-84-2015-CO-OPERATIVE-SOCIETIES-ACT": {
+   "vi": "Luật Hợp tác xã",
+   "th": "พระราชบัญญัติสหกรณ์",
+   "id": "Undang-Undang Koperasi",
+   "ms": "Akta Koperasi"
+  },
+  "BN-CAP-132-2006-LEGAL-PROFESSION-ACT": {
+   "vi": "Luật Hành nghề luật sư",
+   "th": "พระราชบัญญัติวิชาชีพทนายความ",
+   "id": "Undang-Undang Profesi Advokat",
+   "ms": "Akta Profesion Guaman"
+  },
+  "BN-S-21-2023-NATIONAL-RETIREMENT-SCHEME-ORDER-2023": {
+   "vi": "Sắc lệnh Chương trình hưu trí quốc gia năm 2023",
+   "th": "คำสั่งโครงการบำนาญแห่งชาติ พ.ศ. 2566",
+   "id": "Perintah Program Pensiun Nasional Tahun 2023",
+   "ms": "Perintah Skim Persaraan Kebangsaan 2023"
+  },
+  "BN-CAP-283-2024-NATIONAL-RETIREMENT-SCHEME-ACT": {
+   "vi": "Luật Chương trình hưu trí quốc gia",
+   "th": "พระราชบัญญัติโครงการบำนาญแห่งชาติ",
+   "id": "Undang-Undang Program Pensiun Nasional",
+   "ms": "Akta Skim Persaraan Kebangsaan"
+  },
+  "BN-CAP-290-2024-CIVIL-AVIATION-ACT": {
+   "vi": "Luật Hàng không dân dụng",
+   "th": "พระราชบัญญัติการบินพลเรือน",
+   "id": "Undang-Undang Penerbangan Sipil",
+   "ms": "Akta Penerbangan Awam"
+  },
+  "BN-S-38-2015-E-INSURANCE-AMENDMENT-ORDER-2015": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Bảo hiểm năm 2015",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งประกันภัย พ.ศ. 2558",
+   "id": "Perintah Perubahan Perintah Asuransi Tahun 2015",
+   "ms": "Perintah Pindaan Perintah Insurans 2015"
+  },
+  "BN-S-54-2000-REGISTERED-AGENTS-AND-TRUSTEES-LICENSING-ORDER-2000": {
+   "vi": "Sắc lệnh Cấp phép đại lý và người được ủy thác đã đăng ký năm 2000",
+   "th": "คำสั่งการออกใบอนุญาตตัวแทนและผู้จัดการมรดกที่จดทะเบียน พ.ศ. 2543",
+   "id": "Perintah Perizinan Agen dan Wali Amanat Terdaftar Tahun 2000",
+   "ms": "Perintah Pelesenan Ejen dan Pemegang Amanah Berdaftar 2000"
+  },
+  "BN-H035": {
+   "vi": "Luật Ưu đãi đầu tư (Chương 97)",
+   "th": "พระราชบัญญัติสิ่งจูงใจการลงทุน (บทที่ 97)",
+   "id": "Undang-Undang Insentif Investasi (Bab 97)",
+   "ms": "Akta Insentif Pelaburan (Bab 97)"
+  },
+  "BN-CAP-14-2000-LIMITATION-ACT-1": {
+   "vi": "Luật Thời hiệu số 1",
+   "th": "พระราชบัญญัติอายุความ ฉบับที่ 1",
+   "id": "Undang-Undang Daluwarsa Nomor 1",
+   "ms": "Akta Had Masa Bilangan 1"
+  },
+  "BN-CAP-84-R-1-2015-CO-OPERATIVE-SOCIETIES-RULES": {
+   "vi": "Quy tắc Hợp tác xã",
+   "th": "ข้อกำหนดสหกรณ์",
+   "id": "Peraturan Koperasi",
+   "ms": "Kaedah Koperasi"
+  },
+  "BN-S-39-2005-E-HALAL-CERTIFICATE-AND-HALAL-LABEL-ORDER": {
+   "vi": "Sắc lệnh Chứng nhận Halal và nhãn Halal",
+   "th": "คำสั่งหนังสือรับรองฮาลาลและเครื่องหมายฮาลาล",
+   "id": "Perintah Sertifikat Halal dan Label Halal",
+   "ms": "Perintah Sijil Halal dan Label Halal"
+  },
+  "BN-H122": {
+   "vi": "Luật Tòa án trung cấp",
+   "th": "พระราชบัญญัติศาลชั้นกลาง",
+   "id": "Undang-Undang Pengadilan Tingkat Menengah",
+   "ms": "Akta Mahkamah Pertengahan"
+  },
+  "BN-CAP-279-2024-INTERNATIONAL-ARBITRATION-ACT": {
+   "vi": "Luật Trọng tài quốc tế",
+   "th": "พระราชบัญญัติอนุญาโตตุลาการระหว่างประเทศ",
+   "id": "Undang-Undang Arbitrase Internasional",
+   "ms": "Akta Timbang Tara Antarabangsa"
+  },
+  "BN-CAP-121-2023-WATER-SUPPLY-ACT": {
+   "vi": "Luật Cấp nước",
+   "th": "พระราชบัญญัติการประปา",
+   "id": "Undang-Undang Penyediaan Air",
+   "ms": "Akta Bekalan Air"
+  },
+  "BN-CAP-170-1999-SALE-OF-GOODS-ACT": {
+   "vi": "Luật Mua bán hàng hóa",
+   "th": "พระราชบัญญัติการซื้อขายสินค้า",
+   "id": "Undang-Undang Jual Beli Barang",
+   "ms": "Akta Jualan Barang"
+  },
+  "BN-CAP-266-R1-2023-APEQS-RULES": {
+   "vi": "Quy tắc APEQS",
+   "th": "ข้อกำหนดAPEQS",
+   "id": "Peraturan APEQS",
+   "ms": "Kaedah APEQS"
+  },
+  "BN-CAP-157-1999-UNIVERSITI-BRUNEI-DARUSSALAM-ACT": {
+   "vi": "Luật Universiti Brunei Darussalam",
+   "th": "พระราชบัญญัติUniversiti Brunei Darussalam",
+   "id": "Undang-Undang Universiti Brunei Darussalam",
+   "ms": "Akta Universiti Brunei Darussalam"
+  },
+  "BN-H008": {
+   "vi": "Luật An ninh mạng",
+   "th": "พระราชบัญญัติความมั่นคงปลอดภัยไซเบอร์",
+   "id": "Undang-Undang Keamanan Siber",
+   "ms": "Akta Keselamatan Siber"
+  },
+  "BN-H126": {
+   "vi": "Luật Tòa án cấp dưới",
+   "th": "พระราชบัญญัติศาลชั้นต้น",
+   "id": "Undang-Undang Pengadilan Bawahan",
+   "ms": "Akta Mahkamah Rendah"
+  },
+  "BN-CAP-106-1984-CONTRACTS-ACT": {
+   "vi": "Luật Hợp đồng",
+   "th": "พระราชบัญญัติสัญญา",
+   "id": "Undang-Undang Kontrak",
+   "ms": "Akta Kontrak"
+  },
+  "BN-CAP-218-RG-1-2012-CHILD-CARE-CENTRES-REGULATIONS-1": {
+   "vi": "Quy định Trung tâm chăm sóc trẻ em số 1",
+   "th": "ข้อบังคับศูนย์ดูแลเด็ก ฉบับที่ 1",
+   "id": "Peraturan Pusat Penitipan Anak Nomor 1",
+   "ms": "Peraturan Pusat Jagaan Kanak-Kanak Bilangan 1"
+  },
+  "BN-CAP-74-1984-WORKMENS-COMPENSATION-ACT": {
+   "vi": "Luật Bồi thường tai nạn lao động",
+   "th": "พระราชบัญญัติการชดเชยค่าทำขวัญแรงงาน",
+   "id": "Undang-Undang Kompensasi Kecelakaan Kerja",
+   "ms": "Akta Pampasan Pekerja"
+  },
+  "BN-CAP-89-2021-FINANCE-COMPANIES-ACT": {
+   "vi": "Luật Công ty tài chính",
+   "th": "พระราชบัญญัติบริษัทการเงิน",
+   "id": "Undang-Undang Perusahaan Pembiayaan",
+   "ms": "Akta Syarikat Kewangan"
+  },
+  "BN-H028": {
+   "vi": "Luật Trọng tài quốc tế",
+   "th": "พระราชบัญญัติอนุญาโตตุลาการระหว่างประเทศ",
+   "id": "Undang-Undang Arbitrase Internasional",
+   "ms": "Akta Timbang Tara Antarabangsa"
+  },
+  "BN-CAP-131-2019-PREVENTION-OF-CORRUPTION-ACT-1": {
+   "vi": "Luật Phòng chống tham nhũng số 1",
+   "th": "พระราชบัญญัติการป้องกันการทุจริต ฉบับที่ 1",
+   "id": "Undang-Undang Pencegahan Korupsi Nomor 1",
+   "ms": "Akta Pencegahan Rasuah Bilangan 1"
+  },
+  "BN-S-39-2001-E-AITI-OF-BRUNEI-DARUSSALAM-ORDER-2001": {
+   "vi": "Sắc lệnh AITI Brunei Darussalam năm 2001",
+   "th": "คำสั่งAITI Brunei Darussalam พ.ศ. 2544",
+   "id": "Perintah AITI Brunei Darussalam Tahun 2001",
+   "ms": "Perintah AITI Brunei Darussalam 2001"
+  },
+  "BN-CAP-131-2014-PREVENTION-OF-CORRUPTION-ACT": {
+   "vi": "Luật Phòng chống tham nhũng",
+   "th": "พระราชบัญญัติการป้องกันการทุจริต",
+   "id": "Undang-Undang Pencegahan Korupsi",
+   "ms": "Akta Pencegahan Rasuah"
+  },
+  "BN-CAP-57-2022-MUNICIPAL-BOARDS-ACT": {
+   "vi": "Luật Ủy ban đô thị",
+   "th": "พระราชบัญญัติคณะกรรมการเทศบาล",
+   "id": "Undang-Undang Dewan Kotamadya",
+   "ms": "Akta Lembaga Perbandaran"
+  },
+  "BN-S-49-2006-E-INSURANCE-REGULATIONS-2006": {
+   "vi": "Quy định Bảo hiểm năm 2006",
+   "th": "ข้อบังคับประกันภัย พ.ศ. 2549",
+   "id": "Peraturan Asuransi Tahun 2006",
+   "ms": "Peraturan Insurans 2006"
+  },
+  "BN-S-52-2000-CRIMINAL-CONDUCT-RECOVERY-OF-PROCEEDS-ORDER-2000": {
+   "vi": "Sắc lệnh Thu hồi lợi ích từ hành vi phạm tội năm 2000",
+   "th": "คำสั่งการยึดคืนผลประโยชน์จากความผิดอาญา พ.ศ. 2543",
+   "id": "Perintah Pemulihan Hasil Kejahatan Tahun 2000",
+   "ms": "Perintah Perolehan Semula Hasil Jenayah 2000"
+  },
+  "BN-CAP-272-CYBERSECURITY-ACT": {
+   "vi": "Luật An ninh mạng",
+   "th": "พระราชบัญญัติความมั่นคงปลอดภัยไซเบอร์",
+   "id": "Undang-Undang Keamanan Siber",
+   "ms": "Akta Keselamatan Siber"
+  },
+  "BN-CAP-163-2024-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT": {
+   "vi": "Luật Perbadanan Tabung Amanah Islam Brunei",
+   "th": "พระราชบัญญัติPerbadanan Tabung Amanah Islam Brunei",
+   "id": "Undang-Undang Perbadanan Tabung Amanah Islam Brunei",
+   "ms": "Akta Perbadanan Tabung Amanah Islam Brunei"
+  },
+  "BN-CAP-74-1984-WORKMENS-COMPENSATION-REGULATIONS": {
+   "vi": "Quy định Bồi thường tai nạn lao động",
+   "th": "ข้อบังคับการชดเชยค่าทำขวัญแรงงาน",
+   "id": "Peraturan Kompensasi Kecelakaan Kerja",
+   "ms": "Peraturan Pampasan Pekerja"
+  },
+  "BN-S-16-2004-CURRENCY-AND-MONETARY-ORDER-2004-1": {
+   "vi": "Sắc lệnh Tiền tệ và tài chính tiền tệ số 1 năm 2004",
+   "th": "คำสั่งสกุลเงินและการเงิน ฉบับที่ 1 พ.ศ. 2547",
+   "id": "Perintah Mata Uang dan Moneter Nomor 1 Tahun 2004",
+   "ms": "Perintah Mata Wang dan Kewangan Bilangan 1 2004"
+  },
+  "BN-CAP-17-RG-1-IMMIGRATION-REGULATIONS": {
+   "vi": "Quy định Nhập cảnh",
+   "th": "ข้อบังคับตรวจคนเข้าเมือง",
+   "id": "Peraturan Keimigrasian",
+   "ms": "Peraturan Imigresen"
+  },
+  "BN-CAP-255-2023-FREE-TRADE-ZONES-ACT-1": {
+   "vi": "Luật Khu thương mại tự do số 1",
+   "th": "พระราชบัญญัติเขตการค้าเสรี ฉบับที่ 1",
+   "id": "Undang-Undang Kawasan Perdagangan Bebas Nomor 1",
+   "ms": "Akta Zon Perdagangan Bebas Bilangan 1"
+  },
+  "BN-CAP-27-2013-MISUSE-OF-DRUGS-ACT": {
+   "vi": "Luật Lạm dụng ma túy",
+   "th": "พระราชบัญญัติยาเสพติดให้โทษ",
+   "id": "Undang-Undang Penyalahgunaan Narkotika",
+   "ms": "Akta Penyalahgunaan Dadah"
+  },
+  "BN-CAP-276-2026-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-TRUST-ACT": {
+   "vi": "Luật Quỹ hưu trí đóng góp bổ sung",
+   "th": "พระราชบัญญัติกองทุนบำเหน็จบำนาญสมทบเพิ่มเติม",
+   "id": "Undang-Undang Dana Pensiun Iuran Tambahan",
+   "ms": "Akta Tabung Pencen Caruman Tambahan"
+  },
+  "BN-S-27-2019-COMPANIES-ACT-AMENDMENT-ORDER-2019": {
+   "vi": "Sắc lệnh sửa đổi Luật Công ty năm 2019",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติบริษัท พ.ศ. 2562",
+   "id": "Perintah Perubahan Undang-Undang Perusahaan Tahun 2019",
+   "ms": "Perintah Pindaan Akta Syarikat 2019"
+  },
+  "BN-S-15-2015-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-A48366": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-CAP-114-R-1-2015-POISONS-RULES": {
+   "vi": "Quy tắc Chất độc",
+   "th": "ข้อกำหนดวัตถุมีพิษ",
+   "id": "Peraturan Racun",
+   "ms": "Kaedah Racun"
+  },
+  "BN-CAP-162-2022-INTERMEDIATE-COURTS-ACT": {
+   "vi": "Luật Tòa án trung cấp",
+   "th": "พระราชบัญญัติศาลชั้นกลาง",
+   "id": "Undang-Undang Pengadilan Tingkat Menengah",
+   "ms": "Akta Mahkamah Pertengahan"
+  },
+  "BN-CAP-27-RG-1-MISUSE-OF-DRUGS-REGULATIONS": {
+   "vi": "Quy định Lạm dụng ma túy",
+   "th": "ข้อบังคับยาเสพติดให้โทษ",
+   "id": "Peraturan Penyalahgunaan Narkotika",
+   "ms": "Peraturan Penyalahgunaan Dadah"
+  },
+  "BN-S-60-2002-E-PAWNBROKERS-ORDER-2002": {
+   "vi": "Sắc lệnh Cầm đồ năm 2002",
+   "th": "คำสั่งโรงรับจำนำ พ.ศ. 2545",
+   "id": "Perintah Pegadaian Tahun 2002",
+   "ms": "Perintah Pajak Gadai 2002"
+  },
+  "BN-S-92-2013-COPYRIGHT-AMENDMENT-ORDER-2013": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Quyền tác giả năm 2013",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งลิขสิทธิ์ พ.ศ. 2556",
+   "id": "Perintah Perubahan Perintah Hak Cipta Tahun 2013",
+   "ms": "Perintah Pindaan Perintah Hak Cipta 2013"
+  },
+  "BN-CAP-137-2019-BRUNEI-INVESTMENT-AGENCY-ACT": {
+   "vi": "Luật Cơ quan Đầu tư Brunei",
+   "th": "พระราชบัญญัติหน่วยงานการลงทุนบรูไน",
+   "id": "Undang-Undang Badan Investasi Brunei",
+   "ms": "Akta Agensi Pelaburan Brunei"
+  },
+  "BN-CAP-146-2023-PASSPORTS-ACT": {
+   "vi": "Luật Hộ chiếu",
+   "th": "พระราชบัญญัติหนังสือเดินทาง",
+   "id": "Undang-Undang Paspor",
+   "ms": "Akta Pasport"
+  },
+  "BN-CAP-184-2022-SYARIAH-COURTS-ACT": {
+   "vi": "Luật Tòa án Syariah",
+   "th": "พระราชบัญญัติศาลชะรีอะฮ์",
+   "id": "Undang-Undang Mahkamah Syariah",
+   "ms": "Akta Mahkamah Syariah"
+  },
+  "BN-CAP-19-RG-1-2002-NATIONAL-REGISTRATION-REGULATIONS": {
+   "vi": "Quy định Đăng ký quốc gia",
+   "th": "ข้อบังคับการทะเบียนราษฎร",
+   "id": "Peraturan Registrasi Nasional",
+   "ms": "Peraturan Pendaftaran Kebangsaan"
+  },
+  "BN-CAP-5-2022-SUPREME-COURT-ACT": {
+   "vi": "Luật Tòa án tối cao",
+   "th": "พระราชบัญญัติศาลสูงสุด",
+   "id": "Undang-Undang Mahkamah Agung",
+   "ms": "Akta Mahkamah Agung"
+  },
+  "BN-CAP-5-2024-SUPREME-COURT-ACT": {
+   "vi": "Luật Tòa án tối cao",
+   "th": "พระราชบัญญัติศาลสูงสุด",
+   "id": "Undang-Undang Mahkamah Agung",
+   "ms": "Akta Mahkamah Agung"
+  },
+  "BN-S-22-2023-NATIONAL-RETIREMENT-SCHEME-RULES-2023": {
+   "vi": "Quy tắc Chương trình hưu trí quốc gia năm 2023",
+   "th": "ข้อกำหนดโครงการบำนาญแห่งชาติ พ.ศ. 2566",
+   "id": "Peraturan Program Pensiun Nasional Tahun 2023",
+   "ms": "Kaedah Skim Persaraan Kebangsaan 2023"
+  },
+  "BN-S-47-2014-WATER-SUPPLY-ACT-AMENDMENT-ORDER-2014": {
+   "vi": "Sắc lệnh sửa đổi Luật Cấp nước năm 2014",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติการประปา พ.ศ. 2557",
+   "id": "Perintah Perubahan Undang-Undang Penyediaan Air Tahun 2014",
+   "ms": "Perintah Pindaan Akta Bekalan Air 2014"
+  },
+  "BN-CAP-276-R-1-2026-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-T-D67F01": {
+   "vi": "Quy tắc Quỹ hưu trí đóng góp bổ sung",
+   "th": "ข้อกำหนดกองทุนบำเหน็จบำนาญสมทบเพิ่มเติม",
+   "id": "Peraturan Dana Pensiun Iuran Tambahan",
+   "ms": "Kaedah Tabung Pencen Caruman Tambahan"
+  },
+  "BN-CAP-5-2013-SUPREME-COURT-ACT": {
+   "vi": "Luật Tòa án tối cao",
+   "th": "พระราชบัญญัติศาลสูงสุด",
+   "id": "Undang-Undang Mahkamah Agung",
+   "ms": "Akta Mahkamah Agung"
+  },
+  "BN-CAP-80-1984-LAND-CODE": {
+   "vi": "Bộ luật Đất đai",
+   "th": "ประมวลกฎหมายที่ดิน",
+   "id": "Kitab Undang-Undang Tanah",
+   "ms": "Kanun Tanah"
+  },
+  "BN-H048": {
+   "vi": "Luật Ủy ban Phát triển Kinh tế Brunei (Chương 104)",
+   "th": "พระราชบัญญัติคณะกรรมการพัฒนเศรษฐกิจบรูไน (บทที่ 104)",
+   "id": "Undang-Undang Dewan Pembangunan Ekonomi Brunei (Bab 104)",
+   "ms": "Akta Lembaga Pembangunan Ekonomi Brunei (Bab 104)"
+  },
+  "BN-CAP-226-2021-PANTAI-JERUDONG-SPECIALIST-CENTRE-ACT-1": {
+   "vi": "Luật Pantai Jerudong Specialist Centre số 1",
+   "th": "พระราชบัญญัติPantai Jerudong Specialist Centre ฉบับที่ 1",
+   "id": "Undang-Undang Pantai Jerudong Specialist Centre Nomor 1",
+   "ms": "Akta Pantai Jerudong Specialist Centre Bilangan 1"
+  },
+  "BN-CAP-6-2022-SUBORDINATE-COURTS-ACT": {
+   "vi": "Luật Tòa án cấp dưới",
+   "th": "พระราชบัญญัติศาลชั้นต้น",
+   "id": "Undang-Undang Pengadilan Bawahan",
+   "ms": "Akta Mahkamah Rendah"
+  },
+  "BN-S-26-2018-E-PANTAI-JERUDONG-SPECIALIST-CENTRE-ORDER-2018": {
+   "vi": "Sắc lệnh Pantai Jerudong Specialist Centre năm 2018",
+   "th": "คำสั่งPantai Jerudong Specialist Centre พ.ศ. 2561",
+   "id": "Perintah Pantai Jerudong Specialist Centre Tahun 2018",
+   "ms": "Perintah Pantai Jerudong Specialist Centre 2018"
+  },
+  "BN-CAP-183-R-1-2014-HALAL-MEAT-RULES": {
+   "vi": "Quy tắc Thịt Halal",
+   "th": "ข้อกำหนดเนื้อฮาลาล",
+   "id": "Peraturan Daging Halal",
+   "ms": "Kaedah Daging Halal"
+  },
+  "BN-CAP-289-2004-CENTRE-FOR-STRATEGIC-AND-POLICY-STUDIES-ACT-1": {
+   "vi": "Luật Trung tâm Nghiên cứu Chiến lược và Chính sách số 1",
+   "th": "พระราชบัญญัติศูนย์การศึกษายุทธศาสตร์และนโยบาย ฉบับที่ 1",
+   "id": "Undang-Undang Pusat Kajian Strategis dan Kebijakan Nomor 1",
+   "ms": "Akta Pusat Pengajian Strategik dan Dasar Bilangan 1"
+  },
+  "BN-CAP-79-2013-BIRTHS-AND-DEATHS-REGISTRATION-ACT": {
+   "vi": "Luật Đăng ký khai sinh và khai tử",
+   "th": "พระราชบัญญัติการจดทะเบียนเกิดและตาย",
+   "id": "Undang-Undang Pencatatan Kelahiran dan Kematian",
+   "ms": "Akta Pendaftaran Kelahiran dan Kematian"
+  },
+  "BN-S-64-2006-CENTRE-FOR-STRATEGIC-AND-POLICY-STUDIES-ORDER-2006": {
+   "vi": "Sắc lệnh Trung tâm Nghiên cứu Chiến lược và Chính sách năm 2006",
+   "th": "คำสั่งศูนย์การศึกษายุทธศาสตร์และนโยบาย พ.ศ. 2549",
+   "id": "Perintah Pusat Kajian Strategis dan Kebijakan Tahun 2006",
+   "ms": "Perintah Pusat Pengajian Strategik dan Dasar 2006"
+  },
+  "BN-H018": {
+   "vi": "Luật Điều khoản hợp đồng không công bằng",
+   "th": "พระราชบัญญัติข้อสัญญาที่ไม่เป็นธรรม",
+   "id": "Undang-Undang Ketentuan Kontrak Tidak Adil",
+   "ms": "Akta Terma Kontrak Tidak Adil"
+  },
+  "BN-S-5-2017-HALAL-CERTIFICATE-AND-HALAL-LABEL-AM-ORDER-2017": {
+   "vi": "Sắc lệnh Chứng nhận Halal và nhãn Halal năm 2017",
+   "th": "คำสั่งหนังสือรับรองฮาลาลและเครื่องหมายฮาลาล พ.ศ. 2560",
+   "id": "Perintah Sertifikat Halal dan Label Halal Tahun 2017",
+   "ms": "Perintah Sijil Halal dan Label Halal 2017"
+  },
+  "BN-S-95-2013-WORKPLACE-SAFETY-AND-HEALTH-AMENDMENT-ORDER-2013": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh An toàn và sức khỏe tại nơi làm việc năm 2013",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งความปลอดภัยและอาชีวอนามัยในสถานที่ทำงาน พ.ศ. 2556",
+   "id": "Perintah Perubahan Perintah Keselamatan dan Kesehatan Kerja Tahun 2013",
+   "ms": "Perintah Pindaan Perintah Keselamatan dan Kesihatan Pekerjaan 2013"
+  },
+  "BN-CAP-1-2011-LAW-REVISION-ACT-1": {
+   "vi": "Luật Hệ thống hóa pháp luật số 1",
+   "th": "พระราชบัญญัติการปรับปรุงกฎหมาย ฉบับที่ 1",
+   "id": "Undang-Undang Revisi Hukum Nomor 1",
+   "ms": "Akta Semakan Undang-Undang Bilangan 1"
+  },
+  "BN-CAP-18-2022-OLD-AGE-PENSIONS-AND-DISABILITY-ALLOWANCES-ACT": {
+   "vi": "Luật Lương hưu tuổi già và trợ cấp khuyết tật",
+   "th": "พระราชบัญญัติบำนาญชราภาพและเงินช่วยเหลือผู้พิการ",
+   "id": "Undang-Undang Pensiun Hari Tua dan Tunjangan Disabilitas",
+   "ms": "Akta Pencen Usia Tua dan Elaun Hilang Upaya"
+  },
+  "BN-CAP-38-2014-PENSIONS-ACT": {
+   "vi": "Luật Lương hưu",
+   "th": "พระราชบัญญัติบำนาญ",
+   "id": "Undang-Undang Pensiun",
+   "ms": "Akta Pencen"
+  },
+  "BN-S-24-2007-OFFENDERS-PROBATION-AND-COMMUNITY-SERVICE-R-14ABB0": {
+   "vi": "Quy định Thử thách và lao động công ích đối với người phạm tội",
+   "th": "ข้อบังคับการคุมประพฤติและการบริการชุมชนของผู้กระทำผิด",
+   "id": "Peraturan Percobaan dan Kerja Sosial bagi Pelanggar",
+   "ms": "Peraturan Percubaan dan Khidmat Masyarakat bagi Pesalah"
+  },
+  "BN-CAP-260-2023-BRUNEI-NATIONAL-ENERGY-RESEARCH-INSTITUTE-ACT": {
+   "vi": "Luật Brunei National Energy Research Institute",
+   "th": "พระราชบัญญัติBrunei National Energy Research Institute",
+   "id": "Undang-Undang Brunei National Energy Research Institute",
+   "ms": "Akta Brunei National Energy Research Institute"
+  },
+  "BN-S-17-2011-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-D4D057": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-40-2003-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2003": {
+   "vi": "Sắc lệnh sửa đổi Luật Hành nghề luật sư năm 2003",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติวิชาชีพทนายความ พ.ศ. 2546",
+   "id": "Perintah Perubahan Undang-Undang Profesi Advokat Tahun 2003",
+   "ms": "Perintah Pindaan Akta Profesion Guaman 2003"
+  },
+  "BN-S-79-2011-BRUNEI-NATIONAL-ENERGY-RESEARCH-INSTITUTE-O-B8F533": {
+   "vi": "Sắc lệnh Brunei National Energy Research Institute năm 2011",
+   "th": "คำสั่งBrunei National Energy Research Institute พ.ศ. 2554",
+   "id": "Perintah Brunei National Energy Research Institute Tahun 2011",
+   "ms": "Perintah Brunei National Energy Research Institute 2011"
+  },
+  "BN-CAP-114-2015-POISONS-ACT-1": {
+   "vi": "Luật Chất độc số 1",
+   "th": "พระราชบัญญัติวัตถุมีพิษ ฉบับที่ 1",
+   "id": "Undang-Undang Racun Nomor 1",
+   "ms": "Akta Racun Bilangan 1"
+  },
+  "BN-CAP-115-R-1-BRUNEI-MALAY-SILVERSMITHS-GUILD-INCORPORA-0AEE3D": {
+   "vi": "Quy tắc Hiệp hội Thợ bạc Mã Lai Brunei",
+   "th": "ข้อกำหนดสมาคมช่างเงินมลายูบรูไน",
+   "id": "Peraturan Persekutuan Pengrajin Perak Melayu Brunei",
+   "ms": "Kaedah Persatuan Tukang Perak Melayu Brunei"
+  },
+  "BN-CAP-232-2024-EXIT-AND-ENTRY-CHARGES-ACT": {
+   "vi": "Luật Phí xuất nhập cảnh",
+   "th": "พระราชบัญญัติค่าธรรมเนียมเข้า-ออก",
+   "id": "Undang-Undang Biaya Keluar dan Masuk",
+   "ms": "Akta Caj Keluar dan Masuk"
+  },
+  "BN-CAP-38-RG-1-2014-PENSIONS-REGULATIONS": {
+   "vi": "Quy định Lương hưu",
+   "th": "ข้อบังคับบำนาญ",
+   "id": "Peraturan Pensiun",
+   "ms": "Peraturan Pencen"
+  },
+  "BN-S-30-2024-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-DDD458": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-CAP-142-2014-PRICE-CONTROL-ACT": {
+   "vi": "Luật Kiểm soát giá",
+   "th": "พระราชบัญญัติการควบคุมราคา",
+   "id": "Undang-Undang Pengendalian Harga",
+   "ms": "Akta Kawalan Harga"
+  },
+  "BN-CAP-171-1999-UNFAIR-CONTRACT-TERMS-1": {
+   "vi": "Luật Điều khoản hợp đồng không công bằng số 1",
+   "th": "พระราชบัญญัติข้อสัญญาที่ไม่เป็นธรรม ฉบับที่ 1",
+   "id": "Undang-Undang Ketentuan Kontrak Tidak Adil Nomor 1",
+   "ms": "Akta Terma Kontrak Tidak Adil Bilangan 1"
+  },
+  "BN-CAP-261-2023-CONSUMER-PROTECTION-FAIR-TRADING-ACT": {
+   "vi": "Luật Bảo vệ người tiêu dùng và thương mại công bằng",
+   "th": "พระราชบัญญัติการคุ้มครองผู้บริโภคและการค้าที่เป็นธรรม",
+   "id": "Undang-Undang Perlindungan Konsumen dan Perdagangan yang Adil",
+   "ms": "Akta Perlindungan Pengguna dan Perdagangan Adil"
+  },
+  "BN-CAP-43-1984-AGRICULTURAL-PESTS-AND-NOXIOUS-PLANTS-ACT": {
+   "vi": "Luật Sâu bệnh nông nghiệp và thực vật có hại",
+   "th": "พระราชบัญญัติศัตรูพืชและพืชให้โทษทางการเกษตร",
+   "id": "Undang-Undang Hama Pertanian dan Tumbuhan Pengganggu",
+   "ms": "Akta Perosak Pertanian dan Tumbuhan Berbahaya"
+  },
+  "BN-H024": {
+   "vi": "Luật Sáng chế (Chương 72)",
+   "th": "พระราชบัญญัติการประดิษฐ์ (บทที่ 72)",
+   "id": "Undang-Undang Invensi (Bab 72)",
+   "ms": "Akta Ciptaan (Bab 72)"
+  },
+  "BN-S-37-2016-E-LAND-CODE-AMENDMENT-ORDER-2016": {
+   "vi": "Sắc lệnh sửa đổi Bộ luật Đất đai năm 2016",
+   "th": "คำสั่งแก้ไขเพิ่มเติมประมวลกฎหมายที่ดิน พ.ศ. 2559",
+   "id": "Perintah Perubahan Kitab Undang-Undang Tanah Tahun 2016",
+   "ms": "Perintah Pindaan Kanun Tanah 2016"
+  },
+  "BN-CAP-218-2012-CHILD-CARE-CENTRES-ACT-1": {
+   "vi": "Luật Trung tâm chăm sóc trẻ em số 1",
+   "th": "พระราชบัญญัติศูนย์ดูแลเด็ก ฉบับที่ 1",
+   "id": "Undang-Undang Pusat Penitipan Anak Nomor 1",
+   "ms": "Akta Pusat Jagaan Kanak-Kanak Bilangan 1"
+  },
+  "BN-CAP-78-2003-CENSUS-ACT": {
+   "vi": "Luật Điều tra dân số",
+   "th": "พระราชบัญญัติสำมะโน",
+   "id": "Undang-Undang Sensus",
+   "ms": "Akta Banci"
+  },
+  "BN-CAP-92-1984-BUSINESS-NAMES-ACT": {
+   "vi": "Luật Tên doanh nghiệp",
+   "th": "พระราชบัญญัติชื่อทางการค้า",
+   "id": "Undang-Undang Nama Usaha",
+   "ms": "Akta Nama Perniagaan"
+  },
+  "BN-CAP-96-1984-MERCHANDISE-MARKS-ACT": {
+   "vi": "Luật Nhãn hiệu hàng hóa",
+   "th": "พระราชบัญญัติเครื่องหมายสินค้า",
+   "id": "Undang-Undang Merek Barang",
+   "ms": "Akta Cap Barangan"
+  },
+  "BN-S-104-2010-CURRENCY-AND-MONETARY-AMENDMENT-ORDER-2010": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Tiền tệ và tài chính tiền tệ năm 2010",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งสกุลเงินและการเงิน พ.ศ. 2553",
+   "id": "Perintah Perubahan Perintah Mata Uang dan Moneter Tahun 2010",
+   "ms": "Perintah Pindaan Perintah Mata Wang dan Kewangan 2010"
+  },
+  "BN-S-23-2017-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-DB7857": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-8-2019-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLA-80DED9": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-CAP-150-2021-CRIMINAL-LAW-PREVENTIVE-DETENTION-ACT": {
+   "vi": "Luật Giam giữ phòng ngừa theo luật hình sự",
+   "th": "พระราชบัญญัติการกักกันตามกฎหมายอาญา",
+   "id": "Undang-Undang Penahanan Preventif dalam Hukum Pidana",
+   "ms": "Akta Tahanan Pencegahan dalam Undang-Undang Jenayah"
+  },
+  "BN-CAP-220-OFFENDERS-PROBATION-AND-COMMUNITY-SERVICE-ACT": {
+   "vi": "Luật Thử thách và lao động công ích đối với người phạm tội",
+   "th": "พระราชบัญญัติการคุมประพฤติและการบริการชุมชนของผู้กระทำผิด",
+   "id": "Undang-Undang Percobaan dan Kerja Sosial bagi Pelanggar",
+   "ms": "Akta Percubaan dan Khidmat Masyarakat bagi Pesalah"
+  },
+  "BN-S-79-2010-NOTICE-OF-AMENDMENT-ON-THE-GRANTING-OF-MINE-A88606": {
+   "vi": "Thông báo sửa đổi về việc Quốc vương và Yang di-Pertuan cấp quyền khai thác khoáng sản",
+   "th": "ประกาศแก้ไขเพิ่มเติมเกี่ยวกับการให้สิทธิแร่โดยสุลต่านและยังดีเปอร์ตวน",
+   "id": "Pemberitahuan Perubahan tentang Pemberian Hak Mineral oleh Sultan dan Yang di-Pertuan",
+   "ms": "Pemberitahuan Pindaan tentang Penganugerahan Hak Mineral oleh Sultan dan Yang Di-Pertuan"
+  },
+  "BN-CAP-139-2012-MIDWIVES-ACT": {
+   "vi": "Luật Hộ sinh",
+   "th": "พระราชบัญญัติผดุงครรภ์",
+   "id": "Undang-Undang Bidan",
+   "ms": "Akta Bidan"
+  },
+  "BN-CAP-78-1984-CENSUS-ACT": {
+   "vi": "Luật Điều tra dân số",
+   "th": "พระราชบัญญัติสำมะโน",
+   "id": "Undang-Undang Sensus",
+   "ms": "Akta Banci"
+  },
+  "BN-S-14-2020-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-CF337C": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-44-2017-COMPANIES-ACT-AMENDMENT-NO-2-ORDER-2017": {
+   "vi": "Sắc lệnh sửa đổi Luật Công ty số 2 năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติบริษัท ฉบับที่ 2 พ.ศ. 2560",
+   "id": "Perintah Perubahan Undang-Undang Perusahaan Nomor 2 Tahun 2017",
+   "ms": "Perintah Pindaan Akta Syarikat Bilangan 2 2017"
+  },
+  "BN-S-82-2014-MISCELLANEOUS-LICENCES-ACT-AMENDMENT-ORDER-2014": {
+   "vi": "Sắc lệnh sửa đổi Luật Các loại giấy phép khác năm 2014",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติใบอนุญาตเบ็ดเตล็ด พ.ศ. 2557",
+   "id": "Perintah Perubahan Undang-Undang Berbagai Perizinan Tahun 2014",
+   "ms": "Perintah Pindaan Akta Pelbagai Lesen 2014"
+  },
+  "BN-CAP-140-2016-NURSES-REGISTRATION-ACT": {
+   "vi": "Luật Đăng ký điều dưỡng",
+   "th": "พระราชบัญญัติการขึ้นทะเบียนพยาบาล",
+   "id": "Undang-Undang Registrasi Perawat",
+   "ms": "Akta Pendaftaran Jururawat"
+  },
+  "BN-CAP-140-RG-2-2016-NURSES-REGISTRATION-REGULATIONS": {
+   "vi": "Quy định Đăng ký điều dưỡng",
+   "th": "ข้อบังคับการขึ้นทะเบียนพยาบาล",
+   "id": "Peraturan Registrasi Perawat",
+   "ms": "Peraturan Pendaftaran Jururawat"
+  },
+  "BN-CAP-182-2012-PUBLIC-HEALTH-FOOD-ACT-1": {
+   "vi": "Luật Thực phẩm vì sức khỏe cộng đồng số 1",
+   "th": "พระราชบัญญัติอาหารเพื่อสาธารณสุข ฉบับที่ 1",
+   "id": "Undang-Undang Pangan Kesehatan Masyarakat Nomor 1",
+   "ms": "Akta Makanan Kesihatan Awam Bilangan 1"
+  },
+  "BN-CAP-183-2014-HALAL-MEAT-ACT": {
+   "vi": "Luật Thịt Halal",
+   "th": "พระราชบัญญัติเนื้อฮาลาล",
+   "id": "Undang-Undang Daging Halal",
+   "ms": "Akta Daging Halal"
+  },
+  "BN-CAP-202-2014-CRIMINALS-REGISTRATION-ACT": {
+   "vi": "Luật Đăng ký người phạm tội",
+   "th": "พระราชบัญญัติการขึ้นทะเบียนผู้กระทำผิด",
+   "id": "Undang-Undang Registrasi Pelaku Kejahatan",
+   "ms": "Akta Pendaftaran Penjenayah"
+  },
+  "BN-S-6-2002-BRUNEI-NATIONAL-PETROLEUM-COMPANY-SENDIRIAN-42FEF8": {
+   "vi": "Sắc lệnh Brunei National Petroleum Company Sendirian Berhad số 1 năm 2002",
+   "th": "คำสั่งBrunei National Petroleum Company Sendirian Berhad ฉบับที่ 1 พ.ศ. 2545",
+   "id": "Perintah Brunei National Petroleum Company Sendirian Berhad Nomor 1 Tahun 2002",
+   "ms": "Perintah Brunei National Petroleum Company Sendirian Berhad Bilangan 1 2002"
+  },
+  "BN-S-14-2024-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-TRUST-AM-0F48EB": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Quỹ hưu trí đóng góp bổ sung số 4 năm 2024",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งกองทุนบำเหน็จบำนาญสมทบเพิ่มเติม ฉบับที่ 4 พ.ศ. 2567",
+   "id": "Perintah Perubahan Perintah Dana Pensiun Iuran Tambahan Nomor 4 Tahun 2024",
+   "ms": "Perintah Pindaan Perintah Tabung Pencen Caruman Tambahan Bilangan 4 2024"
+  },
+  "BN-S-17-2005-SEC-13-OF-THE-SYARIAH-COURTS-AMENDMENT-ORDER-2005": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Tòa án Syariah năm 2005 (Điều 13)",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งศาลชะรีอะฮ์ พ.ศ. 2548 (มาตรา 13)",
+   "id": "Perintah Perubahan Perintah Mahkamah Syariah Tahun 2005 (Pasal 13)",
+   "ms": "Perintah Pindaan Perintah Mahkamah Syariah 2005 (Seksyen 13)"
+  },
+  "BN-CAP-104-2023-BRUNEI-ECONOMIC-DEVELOPMENT-BOARD-ACT-1": {
+   "vi": "Luật Ủy ban Phát triển Kinh tế Brunei số 1",
+   "th": "พระราชบัญญัติคณะกรรมการพัฒนเศรษฐกิจบรูไน ฉบับที่ 1",
+   "id": "Undang-Undang Dewan Pembangunan Ekonomi Brunei Nomor 1",
+   "ms": "Akta Lembaga Pembangunan Ekonomi Brunei Bilangan 1"
+  },
+  "BN-CAP-134-2010-LEGISLATIVE-COUNCIL-AND-COUNCIL-OF-MINIS-15621E": {
+   "vi": "Luật Thù lao và đặc quyền của Hội đồng Lập pháp và Hội đồng Bộ trưởng",
+   "th": "พระราชบัญญัติค่าตอบแทนและเอกสิทธิ์ของสภาที่ปรึกษานิติบัญญัติและสภารัฐมนตรี",
+   "id": "Undang-Undang Remunerasi dan Hak Istimewa Dewan Legislatif dan Dewan Menteri",
+   "ms": "Akta Ganjaran dan Keistimewaan Majlis Mesyuarat Negara dan Majlis Menteri-Menteri"
+  },
+  "BN-CAP-211-2011-COMPULSORY-EDUCATION-ACT": {
+   "vi": "Luật Giáo dục bắt buộc",
+   "th": "พระราชบัญญัติการศึกษาภาคบังคับ",
+   "id": "Undang-Undang Pendidikan Wajib",
+   "ms": "Akta Pendidikan Wajib"
+  },
+  "BN-CAP-211-2026-COMPULSORY-EDUCATION-ACT-1": {
+   "vi": "Luật Giáo dục bắt buộc số 1",
+   "th": "พระราชบัญญัติการศึกษาภาคบังคับ ฉบับที่ 1",
+   "id": "Undang-Undang Pendidikan Wajib Nomor 1",
+   "ms": "Akta Pendidikan Wajib Bilangan 1"
+  },
+  "BN-CAP-58-R1-2002-ARMS-AND-EXPLOSIVES-RULES": {
+   "vi": "Quy tắc Vũ khí và chất nổ",
+   "th": "ข้อกำหนดอาวุธและวัตถุระเบิด",
+   "id": "Peraturan Senjata dan Bahan Peledak",
+   "ms": "Kaedah Senjata dan Bahan Letupan"
+  },
+  "BN-CAP-65-1984-SECOND-HAND-DEALERS": {
+   "vi": "Luật Buôn bán hàng cũ",
+   "th": "พระราชบัญญัติการค้าของเก่า",
+   "id": "Undang-Undang Pedagang Barang Bekas",
+   "ms": "Akta Peniaga Barang Terpakai"
+  },
+  "BN-H031": {
+   "vi": "Luật Thông tin việc làm (Chương 99)",
+   "th": "พระราชบัญญัติข้อมูลการจ้างงาน (บทที่ 99)",
+   "id": "Undang-Undang Informasi Ketenagakerjaan (Bab 99)",
+   "ms": "Akta Maklumat Pekerjaan (Bab 99)"
+  },
+  "BN-S-15-2016-E-INCOME-TAX-ACT-AMENDMENT-ORDER-2016": {
+   "vi": "Sắc lệnh sửa đổi Luật Thuế thu nhập năm 2016",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติภาษีเงินได้ พ.ศ. 2559",
+   "id": "Perintah Perubahan Undang-Undang Pajak Penghasilan Tahun 2016",
+   "ms": "Perintah Pindaan Akta Cukai Pendapatan 2016"
+  },
+  "BN-S-4-2020-E-PATENTS-AMENDMENT-ORDER-2020": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Sáng chế năm 2020",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งสิทธิบัตร พ.ศ. 2563",
+   "id": "Perintah Perubahan Perintah Paten Tahun 2020",
+   "ms": "Perintah Pindaan Perintah Paten 2020"
+  },
+  "BN-CAP-142-2023-PRICE-CONTROL-ACT-1": {
+   "vi": "Luật Kiểm soát giá số 1",
+   "th": "พระราชบัญญัติการควบคุมราคา ฉบับที่ 1",
+   "id": "Undang-Undang Pengendalian Harga Nomor 1",
+   "ms": "Akta Kawalan Harga Bilangan 1"
+  },
+  "BN-CAP-19-2002-NATIONAL-REGISTRATION-ACT-1": {
+   "vi": "Luật Đăng ký quốc gia số 1",
+   "th": "พระราชบัญญัติการทะเบียนราษฎร ฉบับที่ 1",
+   "id": "Undang-Undang Registrasi Nasional Nomor 1",
+   "ms": "Akta Pendaftaran Kebangsaan Bilangan 1"
+  },
+  "BN-H065": {
+   "vi": "Luật Mua bán hàng hóa",
+   "th": "พระราชบัญญัติการซื้อขายสินค้า",
+   "id": "Undang-Undang Jual Beli Barang",
+   "ms": "Akta Jualan Barang"
+  },
+  "BN-S-32-2021-OLD-AGE-AND-DISABILITY-PENSIONS-ACT-AMENDME-BD0F1D": {
+   "vi": "Quy định sửa đổi Luật Lương hưu tuổi già và trợ cấp khuyết tật số 2 năm 2021",
+   "th": "ข้อบังคับแก้ไขเพิ่มเติมพระราชบัญญัติบำนาญชราภาพและความพิการ ฉบับที่ 2 พ.ศ. 2564",
+   "id": "Peraturan Perubahan Undang-Undang Pensiun Hari Tua dan Disabilitas Nomor 2 Tahun 2021",
+   "ms": "Peraturan Pindaan Akta Pencen Usia Tua dan Hilang Upaya Bilangan 2 2021"
+  },
+  "BN-S-43-2017-COMPANIES-ACT-AMENDMENT-ORDER-2017": {
+   "vi": "Sắc lệnh sửa đổi Luật Công ty năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติบริษัท พ.ศ. 2560",
+   "id": "Perintah Perubahan Undang-Undang Perusahaan Tahun 2017",
+   "ms": "Perintah Pindaan Akta Syarikat 2017"
+  },
+  "BN-BURIAL-GROUNDS-RULES": {
+   "vi": "Quy tắc Nghĩa trang",
+   "th": "ข้อกำหนดสุสาน",
+   "id": "Peraturan Pemakaman",
+   "ms": "Kaedah Tanah Perkuburan"
+  },
+  "BN-CAP-71-ELECTRICITY-ACT": {
+   "vi": "Luật Điện lực",
+   "th": "พระราชบัญญัติไฟฟ้า",
+   "id": "Undang-Undang Ketenagalistrikan",
+   "ms": "Akta Elektrik"
+  },
+  "BN-S-46-2024-E-INCOME-TAX-ACT-AMENDMENT-ORDER-2024": {
+   "vi": "Sắc lệnh sửa đổi Luật Thuế thu nhập năm 2024",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติภาษีเงินได้ พ.ศ. 2567",
+   "id": "Perintah Perubahan Undang-Undang Pajak Penghasilan Tahun 2024",
+   "ms": "Perintah Pindaan Akta Cukai Pendapatan 2024"
+  },
+  "BN-S-9-2023-POSTAL-SERVICES-ORDER-2023": {
+   "vi": "Sắc lệnh Dịch vụ bưu chính năm 2023",
+   "th": "คำสั่งบริการไปรษณีย์ พ.ศ. 2566",
+   "id": "Perintah Layanan Pos Tahun 2023",
+   "ms": "Perintah Perkhidmatan Pos 2023"
+  },
+  "BN-CAP-134-2026-LEGISLATIVE-COUNCIL-AND-COUNCIL-OF-MINIS-2F2783": {
+   "vi": "Luật Thù lao và đặc quyền của Hội đồng Lập pháp và Hội đồng Bộ trưởng số 1",
+   "th": "พระราชบัญญัติค่าตอบแทนและเอกสิทธิ์ของสภาที่ปรึกษานิติบัญญัติและสภารัฐมนตรี ฉบับที่ 1",
+   "id": "Undang-Undang Remunerasi dan Hak Istimewa Dewan Legislatif dan Dewan Menteri Nomor 1",
+   "ms": "Akta Ganjaran dan Keistimewaan Majlis Mesyuarat Negara dan Majlis Menteri-Menteri Bilangan 1"
+  },
+  "BN-CAP-147-2017-PROTECTED-AREAS-AND-PROTECTED-PLACES-ACT-1": {
+   "vi": "Luật Khu vực được bảo vệ và địa điểm được bảo vệ số 1",
+   "th": "พระราชบัญญัติเขตคุ้มครองและสถานที่ที่ได้รับการคุ้มครอง ฉบับที่ 1",
+   "id": "Undang-Undang Kawasan Lindung dan Tempat yang Dilindungi Nomor 1",
+   "ms": "Akta Kawasan Lindung dan Tempat Dilindungi Bilangan 1"
+  },
+  "BN-CAP-177-2000-RECIPROCAL-ENFORCEMENT-OF-FOREIGN-JUDGMENTS-ACT": {
+   "vi": "Luật Công nhận và thi hành lẫn nhau đối với phán quyết nước ngoài",
+   "th": "พระราชบัญญัติการบังคับใช้คำพิพากษาต่างประเทศแบบต่างตอบแทน",
+   "id": "Undang-Undang Pelaksanaan Timbal Balik Putusan Asing",
+   "ms": "Akta Penguatkuasaan Timbal Balas Penghakiman Asing"
+  },
+  "BN-CAP-49-1984-BURIAL-GROUNDS-ACT": {
+   "vi": "Luật Nghĩa trang",
+   "th": "พระราชบัญญัติสุสาน",
+   "id": "Undang-Undang Pemakaman",
+   "ms": "Akta Tanah Perkuburan"
+  },
+  "BN-CAP-79-R-1-BIRTHS-AND-DEATHS-REGISTRATION-RULES": {
+   "vi": "Quy tắc Đăng ký khai sinh và khai tử",
+   "th": "ข้อกำหนดการจดทะเบียนเกิดและตาย",
+   "id": "Peraturan Pencatatan Kelahiran dan Kematian",
+   "ms": "Kaedah Pendaftaran Kelahiran dan Kematian"
+  },
+  "BN-S-55-2017-E-INCOME-TAX-AMENDMENT-NO-3-ORDER-2017": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Thuế thu nhập số 3 năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งภาษีเงินได้ ฉบับที่ 3 พ.ศ. 2560",
+   "id": "Perintah Perubahan Perintah Pajak Penghasilan Nomor 3 Tahun 2017",
+   "ms": "Perintah Pindaan Perintah Cukai Pendapatan Bilangan 3 2017"
+  },
+  "BN-CAP-147-1984-PROTECTED-AREAS-AND-PROTECTED-PLACES-ACT": {
+   "vi": "Luật Khu vực được bảo vệ và địa điểm được bảo vệ",
+   "th": "พระราชบัญญัติเขตคุ้มครองและสถานที่ที่ได้รับการคุ้มครอง",
+   "id": "Undang-Undang Kawasan Lindung dan Tempat yang Dilindungi",
+   "ms": "Akta Kawasan Lindung dan Tempat Dilindungi"
+  },
+  "BN-CAP-18-R-2-2022-OLD-AGE-PENSIONS-AND-DISABILITY-ALLOW-DB7AB3": {
+   "vi": "Quy tắc Lương hưu tuổi già và trợ cấp khuyết tật",
+   "th": "ข้อกำหนดบำนาญชราภาพและเงินช่วยเหลือผู้พิการ",
+   "id": "Peraturan Pensiun Hari Tua dan Tunjangan Disabilitas",
+   "ms": "Kaedah Pencen Usia Tua dan Elaun Hilang Upaya"
+  },
+  "BN-CAP-201-2012-ASIAN-DEVELOPMENT-BANK-ACT": {
+   "vi": "Luật Ngân hàng Phát triển Châu Á",
+   "th": "พระราชบัญญัติธนาคารพัฒนาเอเชีย",
+   "id": "Undang-Undang Bank Pembangunan Asia",
+   "ms": "Akta Bank Pembangunan Asia"
+  },
+  "BN-CAP-264-2023-MINISTER-FOR-FINANCE-INCORPORATION-ACT": {
+   "vi": "Luật Thành lập pháp nhân Bộ trưởng Tài chính",
+   "th": "พระราชบัญญัติการจัดตั้งนิติบุคคลรัฐมนตรีว่าการกระทรวงการคลัง",
+   "id": "Undang-Undang Pembentukan Badan Hukum Menteri Keuangan",
+   "ms": "Akta Penubuhan Perbadanan Menteri Kewangan"
+  },
+  "BN-S-29-2013-CRIMINALS-REGISTRATION-ACT-AMENDMENT-ORDER-2013": {
+   "vi": "Sắc lệnh sửa đổi Luật Đăng ký người phạm tội năm 2013",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติการขึ้นทะเบียนผู้กระทำผิด พ.ศ. 2556",
+   "id": "Perintah Perubahan Undang-Undang Registrasi Pelaku Kejahatan Tahun 2013",
+   "ms": "Perintah Pindaan Akta Pendaftaran Penjenayah 2013"
+  },
+  "BN-S-4-2022-CONSTITUTION-FINANCIAL-PROCEDURE-AMENDMENT-O-5E0CAD": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh thủ tục tài chính của Hiến pháp năm 2022",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งวิธีปฏิบัติทางการเงินตามรัฐธรรมนูญ พ.ศ. 2565",
+   "id": "Perintah Perubahan Perintah Tata Cara Keuangan menurut Konstitusi Tahun 2022",
+   "ms": "Perintah Pindaan Perintah Tatacara Kewangan di bawah Perlembagaan 2022"
+  },
+  "BN-S-59-2007-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2007": {
+   "vi": "Sắc lệnh sửa đổi Luật Lạm dụng ma túy năm 2007",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติยาเสพติดให้โทษ พ.ศ. 2550",
+   "id": "Perintah Perubahan Undang-Undang Penyalahgunaan Narkotika Tahun 2007",
+   "ms": "Perintah Pindaan Akta Penyalahgunaan Dadah 2007"
+  },
+  "BN-S-78-2012-BANKRUPTCY-ACT-AMENDMENT-ORDER-2012": {
+   "vi": "Sắc lệnh sửa đổi Luật Phá sản năm 2012",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติล้มละลาย พ.ศ. 2555",
+   "id": "Perintah Perubahan Undang-Undang Kepailitan Tahun 2012",
+   "ms": "Perintah Pindaan Akta Kebankrapan 2012"
+  },
+  "BN-CAP-100-1984-LICENSED-LAND-SURVEYORS-ACT": {
+   "vi": "Luật Đo đạc viên đất đai được cấp phép",
+   "th": "พระราชบัญญัตินักสำรวจที่ดินที่ได้รับใบอนุญาต",
+   "id": "Undang-Undang Juru Ukur Tanah Berlisensi",
+   "ms": "Akta Juruukur Tanah Berlesen"
+  },
+  "BN-CAP-269-RG1-2023-DEPOSIT-PROTECTION-REGULATIONS": {
+   "vi": "Quy định Bảo vệ tiền gửi",
+   "th": "ข้อบังคับการคุ้มครองเงินฝาก",
+   "id": "Peraturan Perlindungan Simpanan",
+   "ms": "Peraturan Perlindungan Deposit"
+  },
+  "BN-S-12-2024-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-TRUST-AM-7FE849": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Quỹ hưu trí đóng góp bổ sung số 2 năm 2024",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งกองทุนบำเหน็จบำนาญสมทบเพิ่มเติม ฉบับที่ 2 พ.ศ. 2567",
+   "id": "Perintah Perubahan Perintah Dana Pensiun Iuran Tambahan Nomor 2 Tahun 2024",
+   "ms": "Perintah Pindaan Perintah Tabung Pencen Caruman Tambahan Bilangan 2 2024"
+  },
+  "BN-S-29-2012-CRIMINAL-LAW-PREVENTIVE-DETENTION-ACT-AMEND-78C4BF": {
+   "vi": "Sắc lệnh sửa đổi Luật Giam giữ phòng ngừa theo luật hình sự năm 2012",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติการกักกันตามกฎหมายอาญา พ.ศ. 2555",
+   "id": "Perintah Perubahan Undang-Undang Penahanan Preventif dalam Hukum Pidana Tahun 2012",
+   "ms": "Perintah Pindaan Akta Tahanan Pencegahan dalam Undang-Undang Jenayah 2012"
+  },
+  "BN-S-29-2020-E-INCOME-TAX-ACT-AMENDMENT-NO-3-ORDER-2020": {
+   "vi": "Sắc lệnh sửa đổi Luật Thuế thu nhập số 3 năm 2020",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติภาษีเงินได้ ฉบับที่ 3 พ.ศ. 2563",
+   "id": "Perintah Perubahan Undang-Undang Pajak Penghasilan Nomor 3 Tahun 2020",
+   "ms": "Perintah Pindaan Akta Cukai Pendapatan Bilangan 3 2020"
+  },
+  "BN-S-36-2008-SECTION-9-OF-THE-SUSTAINABILITY-FUND-ORDER-2008": {
+   "vi": "Sắc lệnh Quỹ phát triển bền vững năm 2008 (Điều 9)",
+   "th": "คำสั่งกองทุนความยั่งยืน พ.ศ. 2551 (มาตรา 9)",
+   "id": "Perintah Dana Keberlanjutan Tahun 2008 (Pasal 9)",
+   "ms": "Perintah Tabung Kelestarian 2008 (Seksyen 9)"
+  },
+  "BN-S-38-2021-E-PENAL-CODE-AMENDMENT-ORDER-2021-1": {
+   "vi": "Sắc lệnh sửa đổi Bộ luật Hình sự số 1 năm 2021",
+   "th": "คำสั่งแก้ไขเพิ่มเติมประมวลกฎหมายอาญา ฉบับที่ 1 พ.ศ. 2564",
+   "id": "Perintah Perubahan Kitab Undang-Undang Pidana Nomor 1 Tahun 2021",
+   "ms": "Perintah Pindaan Kanun Keseksaan Bilangan 1 2021"
+  },
+  "BN-CAP-115-2020-BRUNEI-MALAY-SILVERSMITHS-GUILD-INCORPOR-DA6504": {
+   "vi": "Luật Hiệp hội Thợ bạc Mã Lai Brunei",
+   "th": "พระราชบัญญัติสมาคมช่างเงินมลายูบรูไน",
+   "id": "Undang-Undang Persekutuan Pengrajin Perak Melayu Brunei",
+   "ms": "Akta Persatuan Tukang Perak Melayu Brunei"
+  },
+  "BN-CAP-208-2011-SUSTAINABILITY-FUND-ACT": {
+   "vi": "Luật Quỹ phát triển bền vững",
+   "th": "พระราชบัญญัติกองทุนความยั่งยืน",
+   "id": "Undang-Undang Dana Keberlanjutan",
+   "ms": "Akta Tabung Kelestarian"
+  },
+  "BN-CAP-92-R-1-BUSINESS-NAMES-REGULATIONS": {
+   "vi": "Quy định Tên doanh nghiệp",
+   "th": "ข้อบังคับชื่อทางการค้า",
+   "id": "Peraturan Nama Usaha",
+   "ms": "Peraturan Nama Perniagaan"
+  },
+  "BN-S-15-2014-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-ACT-AMEN-04267B": {
+   "vi": "Sắc lệnh sửa đổi Luật Hội đồng Tôn giáo và Tòa án Kadi năm 2014",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติสภาศาสนาและศาลกาดี พ.ศ. 2557",
+   "id": "Perintah Perubahan Undang-Undang Dewan Agama dan Pengadilan Kadi Tahun 2014",
+   "ms": "Perintah Pindaan Akta Majlis Agama dan Mahkamah Kadi 2014"
+  },
+  "BN-S-22-2021-CONSTITUTION-OF-BRUNEI-DARUSALAM-AMENDMENT-816F6C": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Hiến pháp Brunei Darussalam năm 2021",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งรัฐธรรมนูญบรูไนดารุสซาลาม พ.ศ. 2564",
+   "id": "Perintah Perubahan Perintah Konstitusi Brunei Darussalam Tahun 2021",
+   "ms": "Perintah Pindaan Perintah Perlembagaan Brunei Darussalam 2021"
+  },
+  "BN-S-29-1997-E-EMERGENCY-EVIDENCE-ACT-AMENDMENT-ORDER-1997": {
+   "vi": "Sắc lệnh sửa đổi Luật Chứng cứ trong tình trạng khẩn cấp năm 1997",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติพยานหลักฐานในสถานการณ์ฉุกเฉิน พ.ศ. 2540",
+   "id": "Perintah Perubahan Undang-Undang Pembuktian dalam Keadaan Darurat Tahun 1997",
+   "ms": "Perintah Pindaan Akta Keterangan dalam Keadaan Darurat 1997"
+  },
+  "BN-S-78-2005-CUSTOMS-ASEAN-COMMON-EFFECTIVE-PREFERENTIAL-40A5F0": {
+   "vi": "Sắc lệnh Thuế quan ưu đãi có hiệu lực chung ASEAN về hải quan năm 2005",
+   "th": "คำสั่งภาษีศุลกากรพิเศษที่ใช้บังคับร่วมกันของอาเซียน พ.ศ. 2548",
+   "id": "Perintah Tarif Preferensi Efektif Bersama ASEAN tentang Kepabeanan Tahun 2005",
+   "ms": "Perintah Tarif Keutamaan Berkesan Bersama ASEAN bagi Kastam 2005"
+  },
+  "BN-CAP-100-RG-1-1984-LICENSED-LAND-SURVEYORS-REGULATIONS": {
+   "vi": "Quy định Đo đạc viên đất đai được cấp phép",
+   "th": "ข้อบังคับนักสำรวจที่ดินที่ได้รับใบอนุญาต",
+   "id": "Peraturan Juru Ukur Tanah Berlisensi",
+   "ms": "Peraturan Juruukur Tanah Berlesen"
+  },
+  "BN-CAP-125-1984-PRESERVATION-OF-BOOKS-ACT": {
+   "vi": "Luật Lưu giữ sổ sách",
+   "th": "พระราชบัญญัติการเก็บรักษาบัญชี",
+   "id": "Undang-Undang Penyimpanan Buku",
+   "ms": "Akta Pemeliharaan Buku"
+  },
+  "BN-CAP-125-2021-PRESERVATION-OF-BOOKS-ACT-1": {
+   "vi": "Luật Lưu giữ sổ sách số 1",
+   "th": "พระราชบัญญัติการเก็บรักษาบัญชี ฉบับที่ 1",
+   "id": "Undang-Undang Penyimpanan Buku Nomor 1",
+   "ms": "Akta Pemeliharaan Buku Bilangan 1"
+  },
+  "BN-CAP-255-RG-1-2023-FREE-TRADE-ZONES-REGULATIONS": {
+   "vi": "Quy định Khu thương mại tự do",
+   "th": "ข้อบังคับเขตการค้าเสรี",
+   "id": "Peraturan Kawasan Perdagangan Bebas",
+   "ms": "Peraturan Zon Perdagangan Bebas"
+  },
+  "BN-CAP-61-RG1-2024-FISHERIES-REGULATIONS": {
+   "vi": "Quy định Thủy sản",
+   "th": "ข้อบังคับการประมง",
+   "id": "Peraturan Perikanan",
+   "ms": "Peraturan Perikanan"
+  },
+  "BN-S-12-2012-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2012": {
+   "vi": "Sắc lệnh sửa đổi Luật Lạm dụng ma túy năm 2012",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติยาเสพติดให้โทษ พ.ศ. 2555",
+   "id": "Perintah Perubahan Undang-Undang Penyalahgunaan Narkotika Tahun 2012",
+   "ms": "Perintah Pindaan Akta Penyalahgunaan Dadah 2012"
+  },
+  "BN-S-26-2007-E-EXCISE-DUTIES-ORDER-2007": {
+   "vi": "Sắc lệnh Thuế tiêu thụ đặc biệt năm 2007",
+   "th": "คำสั่งอากรสรรพสามิต พ.ศ. 2550",
+   "id": "Perintah Cukai Tahun 2007",
+   "ms": "Perintah Duti Eksais 2007"
+  },
+  "BN-S-39-2003-CONSTITUTION-FINANCIAL-PROCEDURE-AMENDMENT-665A72": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh thủ tục tài chính của Hiến pháp năm 2003",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งวิธีปฏิบัติทางการเงินตามรัฐธรรมนูญ พ.ศ. 2546",
+   "id": "Perintah Perubahan Perintah Tata Cara Keuangan menurut Konstitusi Tahun 2003",
+   "ms": "Perintah Pindaan Perintah Tatacara Kewangan di bawah Perlembagaan 2003"
+  },
+  "BN-S-46-2001-BRUNEI-ECONOMIC-DEVELOPMENT-BOARD-ACT-AMEND-AC2F94": {
+   "vi": "Sắc lệnh sửa đổi Luật Ủy ban Phát triển Kinh tế Brunei năm 2001",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติคณะกรรมการพัฒนเศรษฐกิจบรูไน พ.ศ. 2544",
+   "id": "Perintah Perubahan Undang-Undang Dewan Pembangunan Ekonomi Brunei Tahun 2001",
+   "ms": "Perintah Pindaan Akta Lembaga Pembangunan Ekonomi Brunei 2001"
+  },
+  "BN-S-48-2012-E-ANTI-TERRORISM-AMENDMENT-ORDER-2012": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Chống khủng bố năm 2012",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการต่อต้านการก่อการร้าย พ.ศ. 2555",
+   "id": "Perintah Perubahan Perintah Antiterorisme Tahun 2012",
+   "ms": "Perintah Pindaan Perintah Antikeganasan 2012"
+  },
+  "BN-S-5-2012-HALAL-CERTIFICATE-AND-HALAL-LABEL-AM-ORDER-2012": {
+   "vi": "Sắc lệnh Chứng nhận Halal và nhãn Halal năm 2012",
+   "th": "คำสั่งหนังสือรับรองฮาลาลและเครื่องหมายฮาลาล พ.ศ. 2555",
+   "id": "Perintah Sertifikat Halal dan Label Halal Tahun 2012",
+   "ms": "Perintah Sijil Halal dan Label Halal 2012"
+  },
+  "BN-S-59-2021-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2021": {
+   "vi": "Sắc lệnh sửa đổi Luật Tội nhẹ năm 2021",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติความผิดลหุโทษ พ.ศ. 2564",
+   "id": "Perintah Perubahan Undang-Undang Pelanggaran Ringan Tahun 2021",
+   "ms": "Perintah Pindaan Akta Kesalahan Kecil 2021"
+  },
+  "BN-S-75-2008-E-HALAL-CERTIFICATE-AND-HALAL-LABEL-AM-ORDER-2008": {
+   "vi": "Sắc lệnh Chứng nhận Halal và nhãn Halal năm 2008",
+   "th": "คำสั่งหนังสือรับรองฮาลาลและเครื่องหมายฮาลาล พ.ศ. 2551",
+   "id": "Perintah Sertifikat Halal dan Label Halal Tahun 2008",
+   "ms": "Perintah Sijil Halal dan Label Halal 2008"
+  },
+  "BN-S-87-2012-E-ANTI-TERRORISM-AMENDMENT-NO-2-ORDER-2012": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Chống khủng bố số 2 năm 2012",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการต่อต้านการก่อการร้าย ฉบับที่ 2 พ.ศ. 2555",
+   "id": "Perintah Perubahan Perintah Antiterorisme Nomor 2 Tahun 2012",
+   "ms": "Perintah Pindaan Perintah Antikeganasan Bilangan 2 2012"
+  },
+  "BN-CAP-99-EMPLOYMENT-INFORMATION-ACT-1": {
+   "vi": "Luật Thông tin việc làm số 1",
+   "th": "พระราชบัญญัติข้อมูลการจ้างงาน ฉบับที่ 1",
+   "id": "Undang-Undang Informasi Ketenagakerjaan Nomor 1",
+   "ms": "Akta Maklumat Pekerjaan Bilangan 1"
+  },
+  "BN-H003": {
+   "vi": "Luật Trọng tài",
+   "th": "พระราชบัญญัติอนุญาโตตุลาการ",
+   "id": "Undang-Undang Arbitrase",
+   "ms": "Akta Timbang Tara"
+  },
+  "BN-S-18-2019-E-APEQS-AMENDMENT-ORDER-2019": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh APEQS năm 2019",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งAPEQS พ.ศ. 2562",
+   "id": "Perintah Perubahan Perintah APEQS Tahun 2019",
+   "ms": "Perintah Pindaan Perintah APEQS 2019"
+  },
+  "BN-S-20-2016-E-HALAL-CERTIFICATE-AND-HALAL-LABEL-AM-ORDER-2016": {
+   "vi": "Sắc lệnh Chứng nhận Halal và nhãn Halal năm 2016",
+   "th": "คำสั่งหนังสือรับรองฮาลาลและเครื่องหมายฮาลาล พ.ศ. 2559",
+   "id": "Perintah Sertifikat Halal dan Label Halal Tahun 2016",
+   "ms": "Perintah Sijil Halal dan Label Halal 2016"
+  },
+  "BN-S-28-2020-E-INCOME-TAX-ACT-AMENDMENT-NO-2-ORDER-2020": {
+   "vi": "Sắc lệnh sửa đổi Luật Thuế thu nhập số 2 năm 2020",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติภาษีเงินได้ ฉบับที่ 2 พ.ศ. 2563",
+   "id": "Perintah Perubahan Undang-Undang Pajak Penghasilan Nomor 2 Tahun 2020",
+   "ms": "Perintah Pindaan Akta Cukai Pendapatan Bilangan 2 2020"
+  },
+  "BN-S-31-2021-OLD-AGE-AND-DISABILITY-PENSIONS-ACT-AMENDME-475F2D": {
+   "vi": "Quy định sửa đổi Luật Lương hưu tuổi già và trợ cấp khuyết tật số 1 năm 2021",
+   "th": "ข้อบังคับแก้ไขเพิ่มเติมพระราชบัญญัติบำนาญชราภาพและความพิการ ฉบับที่ 1 พ.ศ. 2564",
+   "id": "Peraturan Perubahan Undang-Undang Pensiun Hari Tua dan Disabilitas Nomor 1 Tahun 2021",
+   "ms": "Peraturan Pindaan Akta Pencen Usia Tua dan Hilang Upaya Bilangan 1 2021"
+  },
+  "BN-S-33-2016-COMPANIES-ACT-AMENDMENT-ORDER-2016": {
+   "vi": "Sắc lệnh sửa đổi Luật Công ty năm 2016",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติบริษัท พ.ศ. 2559",
+   "id": "Perintah Perubahan Undang-Undang Perusahaan Tahun 2016",
+   "ms": "Perintah Pindaan Akta Syarikat 2016"
+  },
+  "BN-S-6-2003-BRUNEI-NATIONAL-PETROLEUM-COMPANY-SENDIRIAN-545DE5": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Brunei National Petroleum Company Sendirian Berhad năm 2003",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งBrunei National Petroleum Company Sendirian Berhad พ.ศ. 2546",
+   "id": "Perintah Perubahan Perintah Brunei National Petroleum Company Sendirian Berhad Tahun 2003",
+   "ms": "Perintah Pindaan Perintah Brunei National Petroleum Company Sendirian Berhad 2003"
+  },
+  "BN-S-60-2018-E-PENAL-CODE-AMENDMENT-ORDER-2018": {
+   "vi": "Sắc lệnh sửa đổi Bộ luật Hình sự năm 2018",
+   "th": "คำสั่งแก้ไขเพิ่มเติมประมวลกฎหมายอาญา พ.ศ. 2561",
+   "id": "Perintah Perubahan Kitab Undang-Undang Pidana Tahun 2018",
+   "ms": "Perintah Pindaan Kanun Keseksaan 2018"
+  },
+  "BN-S-66-2017-CONSTITUTION-FINANCIAL-PROCEDURE-AMENDMENT-3F960E": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh thủ tục tài chính của Hiến pháp năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งวิธีปฏิบัติทางการเงินตามรัฐธรรมนูญ พ.ศ. 2560",
+   "id": "Perintah Perubahan Perintah Tata Cara Keuangan menurut Konstitusi Tahun 2017",
+   "ms": "Perintah Pindaan Perintah Tatacara Kewangan di bawah Perlembagaan 2017"
+  },
+  "BN-CAP-139-RG-1-MIDWIVES-REGULATIONS": {
+   "vi": "Quy định Hộ sinh",
+   "th": "ข้อบังคับผดุงครรภ์",
+   "id": "Peraturan Bidan",
+   "ms": "Peraturan Bidan"
+  },
+  "BN-CAP-65-R-1-1984-SECOND-HAND-DEALERS-RULES": {
+   "vi": "Quy tắc Buôn bán hàng cũ",
+   "th": "ข้อกำหนดการค้าของเก่า",
+   "id": "Peraturan Pedagang Barang Bekas",
+   "ms": "Kaedah Peniaga Barang Terpakai"
+  },
+  "BN-H004": {
+   "vi": "Luật Công ty",
+   "th": "พระราชบัญญัติบริษัท",
+   "id": "Undang-Undang Perusahaan",
+   "ms": "Akta Syarikat"
+  },
+  "BN-H054": {
+   "vi": "Luật Tòa án tối cao",
+   "th": "พระราชบัญญัติศาลสูงสุด",
+   "id": "Undang-Undang Mahkamah Agung",
+   "ms": "Akta Mahkamah Agung"
+  },
+  "BN-S-1-2013-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2013": {
+   "vi": "Sắc lệnh sửa đổi Luật Hành nghề luật sư năm 2013",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติวิชาชีพทนายความ พ.ศ. 2556",
+   "id": "Perintah Perubahan Undang-Undang Profesi Advokat Tahun 2013",
+   "ms": "Perintah Pindaan Akta Profesion Guaman 2013"
+  },
+  "BN-S-16-2023-SUPREME-COURT-ACT-AMENDMENT-ORDER-2023": {
+   "vi": "Sắc lệnh sửa đổi Luật Tòa án tối cao năm 2023",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติศาลสูงสุด พ.ศ. 2566",
+   "id": "Perintah Perubahan Undang-Undang Mahkamah Agung Tahun 2023",
+   "ms": "Perintah Pindaan Akta Mahkamah Agung 2023"
+  },
+  "BN-S-30-2020-E-INCOME-TAX-ACT-AMENDMENT-NO-4-ORDER-2020": {
+   "vi": "Sắc lệnh sửa đổi Luật Thuế thu nhập số 4 năm 2020",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติภาษีเงินได้ ฉบับที่ 4 พ.ศ. 2563",
+   "id": "Perintah Perubahan Undang-Undang Pajak Penghasilan Nomor 4 Tahun 2020",
+   "ms": "Perintah Pindaan Akta Cukai Pendapatan Bilangan 4 2020"
+  },
+  "BN-S-32-2012-BUSINESS-NAMES-ACT-AMENDMENT-ORDER-2012": {
+   "vi": "Sắc lệnh sửa đổi Luật Tên doanh nghiệp năm 2012",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติชื่อทางการค้า พ.ศ. 2555",
+   "id": "Perintah Perubahan Undang-Undang Nama Usaha Tahun 2012",
+   "ms": "Perintah Pindaan Akta Nama Perniagaan 2012"
+  },
+  "BN-S-41-2005-E-PAWNBROKERS-AMENDMENT-ORDER-2005": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Cầm đồ năm 2005",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งโรงรับจำนำ พ.ศ. 2548",
+   "id": "Perintah Perubahan Perintah Pegadaian Tahun 2005",
+   "ms": "Perintah Pindaan Perintah Pajak Gadai 2005"
+  },
+  "BN-S-42-2024-CONSTITUTION-OF-BRUNEI-DARUSALAM-AMENDMENT-C6F030": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Hiến pháp Brunei Darussalam năm 2024",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งรัฐธรรมนูญบรูไนดารุสซาลาม พ.ศ. 2567",
+   "id": "Perintah Perubahan Perintah Konstitusi Brunei Darussalam Tahun 2024",
+   "ms": "Perintah Pindaan Perintah Perlembagaan Brunei Darussalam 2024"
+  },
+  "BN-S-50-1999-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-B4B12B": {
+   "vi": "Sắc lệnh sửa đổi Luật Hành nghề luật sư trong tình trạng khẩn cấp năm 1999",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติวิชาชีพทนายความในสถานการณ์ฉุกเฉิน พ.ศ. 2542",
+   "id": "Perintah Perubahan Undang-Undang Profesi Advokat dalam Keadaan Darurat Tahun 1999",
+   "ms": "Perintah Pindaan Akta Profesion Guaman dalam Keadaan Darurat 1999"
+  },
+  "BN-S-50-2014-E-FISHERIES-AMENDMENT-ORDER-2014": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Thủy sản năm 2014",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการประมง พ.ศ. 2557",
+   "id": "Perintah Perubahan Perintah Perikanan Tahun 2014",
+   "ms": "Perintah Pindaan Perintah Perikanan 2014"
+  },
+  "BN-S-54-2007-E-INSURANCE-AMENDMENT-ORDER-2007": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Bảo hiểm năm 2007",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งประกันภัย พ.ศ. 2550",
+   "id": "Perintah Perubahan Perintah Asuransi Tahun 2007",
+   "ms": "Perintah Pindaan Perintah Insurans 2007"
+  },
+  "BN-S-61-2017-E-PENAL-CODE-AMENDMENT-ORDER-2017": {
+   "vi": "Sắc lệnh sửa đổi Bộ luật Hình sự năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมประมวลกฎหมายอาญา พ.ศ. 2560",
+   "id": "Perintah Perubahan Kitab Undang-Undang Pidana Tahun 2017",
+   "ms": "Perintah Pindaan Kanun Keseksaan 2017"
+  },
+  "BN-S-83-2010-CUSTOMS-ASEAN-COMMON-EFFECTIVE-PREFERENTIAL-08E2F7": {
+   "vi": "Sắc lệnh Thuế quan ưu đãi có hiệu lực chung ASEAN về hải quan năm 2010",
+   "th": "คำสั่งภาษีศุลกากรพิเศษที่ใช้บังคับร่วมกันของอาเซียน พ.ศ. 2553",
+   "id": "Perintah Tarif Preferensi Efektif Bersama ASEAN tentang Kepabeanan Tahun 2010",
+   "ms": "Perintah Tarif Keutamaan Berkesan Bersama ASEAN bagi Kastam 2010"
+  },
+  "BN-S-9-2025-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLA-D3DD1F": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-98-2008-CUSTOMS-AMENDMENT-ORDER-2008": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Hải quan năm 2008",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งศุลกากร พ.ศ. 2551",
+   "id": "Perintah Perubahan Perintah Kepabeanan Tahun 2008",
+   "ms": "Perintah Pindaan Perintah Kastam 2008"
+  },
+  "BN-CAP-23-2019-TRESPASS-ON-ROYAL-PROPERTY-ACT": {
+   "vi": "Luật Xâm phạm tài sản của Hoàng gia",
+   "th": "พระราชบัญญัติการบุกรุกทรัพย์สินของราชวงศ์",
+   "id": "Undang-Undang Pelanggaran atas Harta Kerajaan",
+   "ms": "Akta Pencerobohan Harta Diraja"
+  },
+  "BN-CAP-58-2023-ARMS-AND-EXPLOSIVES-ACT": {
+   "vi": "Luật Vũ khí và chất nổ",
+   "th": "พระราชบัญญัติอาวุธและวัตถุระเบิด",
+   "id": "Undang-Undang Senjata dan Bahan Peledak",
+   "ms": "Akta Senjata dan Bahan Letupan"
+  },
+  "BN-H141": {
+   "vi": "Sắc lệnh Hệ thống hóa pháp luật số 3",
+   "th": "คำสั่งการปรับปรุงกฎหมาย ฉบับที่ 3",
+   "id": "Perintah Revisi Hukum Nomor 3",
+   "ms": "Perintah Semakan Undang-Undang Bilangan 3"
+  },
+  "BN-S-12-2010-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2010": {
+   "vi": "Sắc lệnh sửa đổi Luật Lạm dụng ma túy năm 2010",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติยาเสพติดให้โทษ พ.ศ. 2553",
+   "id": "Perintah Perubahan Undang-Undang Penyalahgunaan Narkotika Tahun 2010",
+   "ms": "Perintah Pindaan Akta Penyalahgunaan Dadah 2010"
+  },
+  "BN-S-13-2024-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-TRUST-AM-2129A8": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Quỹ hưu trí đóng góp bổ sung số 3 năm 2024",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งกองทุนบำเหน็จบำนาญสมทบเพิ่มเติม ฉบับที่ 3 พ.ศ. 2567",
+   "id": "Perintah Perubahan Perintah Dana Pensiun Iuran Tambahan Nomor 3 Tahun 2024",
+   "ms": "Perintah Pindaan Perintah Tabung Pencen Caruman Tambahan Bilangan 3 2024"
+  },
+  "BN-S-146-1971-CENSUS-RULES-1971": {
+   "vi": "Quy tắc Điều tra dân số năm 1971",
+   "th": "ข้อกำหนดสำมะโน พ.ศ. 2514",
+   "id": "Peraturan Sensus Tahun 1971",
+   "ms": "Kaedah Banci 1971"
+  },
+  "BN-S-16-1994-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-E7F8AF": {
+   "vi": "Sắc lệnh sửa đổi Luật Hành nghề luật sư trong tình trạng khẩn cấp năm 1994",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติวิชาชีพทนายความในสถานการณ์ฉุกเฉิน พ.ศ. 2537",
+   "id": "Perintah Perubahan Undang-Undang Profesi Advokat dalam Keadaan Darurat Tahun 1994",
+   "ms": "Perintah Pindaan Akta Profesion Guaman dalam Keadaan Darurat 1994"
+  },
+  "BN-S-19-2006-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2006": {
+   "vi": "Sắc lệnh sửa đổi Luật Hành nghề luật sư năm 2006",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติวิชาชีพทนายความ พ.ศ. 2549",
+   "id": "Perintah Perubahan Undang-Undang Profesi Advokat Tahun 2006",
+   "ms": "Perintah Pindaan Akta Profesion Guaman 2006"
+  },
+  "BN-S-2-2026-E-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-ACT-AME-9C4F85": {
+   "vi": "Sắc lệnh sửa đổi Luật Hội đồng Tôn giáo và Tòa án Kadi năm 2026",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติสภาศาสนาและศาลกาดี พ.ศ. 2569",
+   "id": "Perintah Perubahan Undang-Undang Dewan Agama dan Pengadilan Kadi Tahun 2026",
+   "ms": "Perintah Pindaan Akta Majlis Agama dan Mahkamah Kadi 2026"
+  },
+  "BN-S-28-2018-PROTECTED-PLACES-ORDER-2018": {
+   "vi": "Sắc lệnh Khu vực được bảo vệ năm 2018",
+   "th": "คำสั่งสถานที่ที่ได้รับการคุ้มครอง พ.ศ. 2561",
+   "id": "Perintah Tempat yang Dilindungi Tahun 2018",
+   "ms": "Perintah Tempat Dilindungi 2018"
+  },
+  "BN-S-29-1991-E-CONSTITUTION-OF-UNIVERSITI-BRUNEI-DARUSSA-B9FF2B": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Hiến chương Universiti Brunei Darussalam năm 1991",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งกฎบัตร Universiti Brunei Darussalam พ.ศ. 2534",
+   "id": "Perintah Perubahan Perintah Anggaran Dasar Universiti Brunei Darussalam Tahun 1991",
+   "ms": "Perintah Pindaan Perintah Perlembagaan Universiti Brunei Darussalam 1991"
+  },
+  "BN-S-3-2022-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLA-ACC632": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-41-2008-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-FE5E6D": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-46-2003-YAYASAN-SULTAN-HAJI-HASSANAL-BOLKIAH-ACT-AM-4E3324": {
+   "vi": "Sắc lệnh sửa đổi Phụ lục của Luật Yayasan Sultan Haji Hassanal Bolkiah năm 2003",
+   "th": "คำสั่งแก้ไขเพิ่มเติมภาคผนวกของพระราชบัญญัติ Yayasan Sultan Haji Hassanal Bolkiah พ.ศ. 2546",
+   "id": "Perintah Perubahan Lampiran Undang-Undang Yayasan Sultan Haji Hassanal Bolkiah Tahun 2003",
+   "ms": "Perintah Pindaan Jadual Akta Yayasan Sultan Haji Hassanal Bolkiah 2003"
+  },
+  "BN-S-49-2018-COMPANIES-ACT-AMENDMENT-ORDER-2018": {
+   "vi": "Sắc lệnh sửa đổi Luật Công ty năm 2018",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติบริษัท พ.ศ. 2561",
+   "id": "Perintah Perubahan Undang-Undang Perusahaan Tahun 2018",
+   "ms": "Perintah Pindaan Akta Syarikat 2018"
+  },
+  "BN-S-52-2014-TRESPASS-ON-ROYAL-PROPERTY-ACT-ORDER-2014": {
+   "vi": "Luật Xâm phạm tài sản của Hoàng gia năm 2014",
+   "th": "พระราชบัญญัติการบุกรุกทรัพย์สินของราชวงศ์ พ.ศ. 2557",
+   "id": "Undang-Undang Pelanggaran atas Harta Kerajaan Tahun 2014",
+   "ms": "Akta Pencerobohan Harta Diraja 2014"
+  },
+  "BN-S-57-2016-E-INCOME-TAX-ACT-AMENDMENT-NO-2-ORDER-2016": {
+   "vi": "Sắc lệnh sửa đổi Luật Thuế thu nhập số 2 năm 2016",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติภาษีเงินได้ ฉบับที่ 2 พ.ศ. 2559",
+   "id": "Perintah Perubahan Undang-Undang Pajak Penghasilan Nomor 2 Tahun 2016",
+   "ms": "Perintah Pindaan Akta Cukai Pendapatan Bilangan 2 2016"
+  },
+  "BN-S-62-2016-E-ARBITRATION-AMENDMENT-ORDER-2016": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Trọng tài năm 2016",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งอนุญาโตตุลาการ พ.ศ. 2559",
+   "id": "Perintah Perubahan Perintah Arbitrase Tahun 2016",
+   "ms": "Perintah Pindaan Perintah Timbang Tara 2016"
+  },
+  "BN-S-77-2017-E-EXCISE-AMENDMENT-ORDER-2017": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Thuế tiêu thụ đặc biệt năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งสรรพสามิต พ.ศ. 2560",
+   "id": "Perintah Perubahan Perintah Cukai Tahun 2017",
+   "ms": "Perintah Pindaan Perintah Eksais 2017"
+  },
+  "BN-S-78-2017-CUSTOMS-AMENDMENT-NO-2-ORDER-2017": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Hải quan số 2 năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งศุลกากร ฉบับที่ 2 พ.ศ. 2560",
+   "id": "Perintah Perubahan Perintah Kepabeanan Nomor 2 Tahun 2017",
+   "ms": "Perintah Pindaan Perintah Kastam Bilangan 2 2017"
+  },
+  "BN-S-89-2006-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2006": {
+   "vi": "Sắc lệnh sửa đổi Luật Tội nhẹ năm 2006",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติความผิดลหุโทษ พ.ศ. 2549",
+   "id": "Perintah Perubahan Undang-Undang Pelanggaran Ringan Tahun 2006",
+   "ms": "Perintah Pindaan Akta Kesalahan Kecil 2006"
+  },
+  "BN-CAP-130-1984-BRUNEI-DARUSSALAM-FISHERY-LIMITS-ACT": {
+   "vi": "Luật Giới hạn ngư trường Brunei Darussalam",
+   "th": "พระราชบัญญัติเขตจำกัดการประมงบรูไนดารุสซาลาม",
+   "id": "Undang-Undang Batas Perikanan Brunei Darussalam",
+   "ms": "Akta Had Perikanan Brunei Darussalam"
+  },
+  "BN-CAP-27-N-2-NOTIFICATION-OF-MINISTERS-RESPONSIBLE-FOR-8D4B08": {
+   "vi": "Thông báo về các bộ trưởng chịu trách nhiệm về luật và các quy định ban hành theo luật đó",
+   "th": "ประกาศรัฐมนตรีผู้รับผิดชอบกฎหมายและข้อบังคับที่ออกตามกฎหมายนั้น",
+   "id": "Pemberitahuan tentang Menteri yang Bertanggung Jawab atas Undang-Undang dan Peraturan yang Dibuat Berdasarkannya",
+   "ms": "Pemberitahuan Menteri yang Bertanggungjawab atas Akta dan Peraturan yang Dibuat di Bawahnya"
+  },
+  "BN-CAP-78-R-1-2003-CENSUS-RULES": {
+   "vi": "Quy tắc Điều tra dân số",
+   "th": "ข้อกำหนดสำมะโน",
+   "id": "Peraturan Sensus",
+   "ms": "Kaedah Banci"
+  },
+  "BN-H124": {
+   "vi": "Luật Công nhận và thi hành lẫn nhau đối với phán quyết nước ngoài",
+   "th": "พระราชบัญญัติการบังคับใช้คำพิพากษาต่างประเทศแบบต่างตอบแทน",
+   "id": "Undang-Undang Pelaksanaan Timbal Balik Putusan Asing",
+   "ms": "Akta Penguatkuasaan Timbal Balas Penghakiman Asing"
+  },
+  "BN-H142": {
+   "vi": "Sắc lệnh Hệ thống hóa pháp luật số 2",
+   "th": "คำสั่งการปรับปรุงกฎหมาย ฉบับที่ 2",
+   "id": "Perintah Revisi Hukum Nomor 2",
+   "ms": "Perintah Semakan Undang-Undang Bilangan 2"
+  },
+  "BN-S-1-1992-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONSE-64AFC5": {
+   "vi": "Sắc lệnh chuyển giao chức năng và các quy định kèm theo của Hiến pháp năm 1992",
+   "th": "คำสั่งการโอนหน้าที่และบทบัญญัติที่เกี่ยวข้องตามรัฐธรรมนูญ พ.ศ. 2535",
+   "id": "Perintah Pengalihan Fungsi dan Ketentuan Konsekuensial menurut Konstitusi Tahun 1992",
+   "ms": "Perintah Pemindahan Fungsi dan Peruntukan Bersampingan di bawah Perlembagaan 1992"
+  },
+  "BN-S-10-2026-STAMP-ACT-AMENDMENT-ORDER-2026": {
+   "vi": "Sắc lệnh sửa đổi Luật Thuế tem năm 2026",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติอากรแสตมป์ พ.ศ. 2569",
+   "id": "Perintah Perubahan Undang-Undang Meterai Tahun 2026",
+   "ms": "Perintah Pindaan Akta Setem 2026"
+  },
+  "BN-S-114-2010-E-ASIAN-DEVELOPMENT-BANK-ACT-AMENDMENT-ORDER-2010": {
+   "vi": "Sắc lệnh sửa đổi Luật Ngân hàng Phát triển Châu Á năm 2010",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติธนาคารพัฒนาเอเชีย พ.ศ. 2553",
+   "id": "Perintah Perubahan Undang-Undang Bank Pembangunan Asia Tahun 2010",
+   "ms": "Perintah Pindaan Akta Bank Pembangunan Asia 2010"
+  },
+  "BN-S-13-2023-PROTECTED-PLACES-NO-2-ORDER-2023": {
+   "vi": "Sắc lệnh Khu vực được bảo vệ số 2 năm 2023",
+   "th": "คำสั่งสถานที่ที่ได้รับการคุ้มครอง ฉบับที่ 2 พ.ศ. 2566",
+   "id": "Perintah Tempat yang Dilindungi Nomor 2 Tahun 2023",
+   "ms": "Perintah Tempat Dilindungi Bilangan 2 2023"
+  },
+  "BN-S-14-2008-CONSTITUTION-FINANCIAL-PROCEDURE-AMENDMENT-106BF0": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh thủ tục tài chính của Hiến pháp năm 2008",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งวิธีปฏิบัติทางการเงินตามรัฐธรรมนูญ พ.ศ. 2551",
+   "id": "Perintah Perubahan Perintah Tata Cara Keuangan menurut Konstitusi Tahun 2008",
+   "ms": "Perintah Pindaan Perintah Tatacara Kewangan di bawah Perlembagaan 2008"
+  },
+  "BN-S-14-2023-PROTECTED-PLACES-NO-2-ORDER-2023": {
+   "vi": "Sắc lệnh Khu vực được bảo vệ số 2 năm 2023",
+   "th": "คำสั่งสถานที่ที่ได้รับการคุ้มครอง ฉบับที่ 2 พ.ศ. 2566",
+   "id": "Perintah Tempat yang Dilindungi Nomor 2 Tahun 2023",
+   "ms": "Perintah Tempat Dilindungi Bilangan 2 2023"
+  },
+  "BN-S-16-1986-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-1D0B0B": {
+   "vi": "Sắc lệnh chuyển giao chức năng và các quy định kèm theo của Hiến pháp năm 1986",
+   "th": "คำสั่งการโอนหน้าที่และบทบัญญัติที่เกี่ยวข้องตามรัฐธรรมนูญ พ.ศ. 2529",
+   "id": "Perintah Pengalihan Fungsi dan Ketentuan Konsekuensial menurut Konstitusi Tahun 1986",
+   "ms": "Perintah Pemindahan Fungsi dan Peruntukan Bersampingan di bawah Perlembagaan 1986"
+  },
+  "BN-S-17-2018-E-EXCISE-AMENDMENT-ORDER-2018": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Thuế tiêu thụ đặc biệt năm 2018",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งสรรพสามิต พ.ศ. 2561",
+   "id": "Perintah Perubahan Perintah Cukai Tahun 2018",
+   "ms": "Perintah Pindaan Perintah Eksais 2018"
+  },
+  "BN-S-18-2018-CUSTOMS-AMENDMENT-ORDER-2018": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Hải quan năm 2018",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งศุลกากร พ.ศ. 2561",
+   "id": "Perintah Perubahan Perintah Kepabeanan Tahun 2018",
+   "ms": "Perintah Pindaan Perintah Kastam 2018"
+  },
+  "BN-S-19-1994-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-50A1B1": {
+   "vi": "Sắc lệnh chuyển giao chức năng và các quy định kèm theo của Hiến pháp năm 1993",
+   "th": "คำสั่งการโอนหน้าที่และบทบัญญัติที่เกี่ยวข้องตามรัฐธรรมนูญ พ.ศ. 2536",
+   "id": "Perintah Pengalihan Fungsi dan Ketentuan Konsekuensial menurut Konstitusi Tahun 1993",
+   "ms": "Perintah Pemindahan Fungsi dan Peruntukan Bersampingan di bawah Perlembagaan 1993"
+  },
+  "BN-S-19-2016-BANKRUPTCY-ACT-AMENDMENT-ORDER-2016": {
+   "vi": "Sắc lệnh sửa đổi Luật Phá sản năm 2016",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติล้มละลาย พ.ศ. 2559",
+   "id": "Perintah Perubahan Undang-Undang Kepailitan Tahun 2016",
+   "ms": "Perintah Pindaan Akta Kebankrapan 2016"
+  },
+  "BN-S-20-1990-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-686CA1": {
+   "vi": "Sắc lệnh chuyển giao chức năng và các quy định kèm theo của Hiến pháp năm 1990",
+   "th": "คำสั่งการโอนหน้าที่และบทบัญญัติที่เกี่ยวข้องตามรัฐธรรมนูญ พ.ศ. 2533",
+   "id": "Perintah Pengalihan Fungsi dan Ketentuan Konsekuensial menurut Konstitusi Tahun 1990",
+   "ms": "Perintah Pemindahan Fungsi dan Peruntukan Bersampingan di bawah Perlembagaan 1990"
+  },
+  "BN-S-21-2013-CUSTOMS-AMENDMENT-ORDER-2018": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Hải quan năm 2018",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งศุลกากร พ.ศ. 2561",
+   "id": "Perintah Perubahan Perintah Kepabeanan Tahun 2018",
+   "ms": "Perintah Pindaan Perintah Kastam 2018"
+  },
+  "BN-S-21-2021-MERCHANT-SHIPPING-AMENDMENT-ORDER-2021": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Vận tải biển năm 2021",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการเดินเรือพาณิชย์ พ.ศ. 2564",
+   "id": "Perintah Perubahan Perintah Pelayaran Niaga Tahun 2021",
+   "ms": "Perintah Pindaan Perintah Perkapalan Saudagar 2021"
+  },
+  "BN-S-22-2000-E-UNIVERSITI-BRUNEI-DARUSSALAM-AMENDMENT-OF-FE1F44": {
+   "vi": "Sắc lệnh sửa đổi Phụ lục của Luật Universiti Brunei Darussalam năm 2000",
+   "th": "คำสั่งแก้ไขเพิ่มเติมภาคผนวกของพระราชบัญญัติ Universiti Brunei Darussalam พ.ศ. 2543",
+   "id": "Perintah Perubahan Lampiran Undang-Undang Universiti Brunei Darussalam Tahun 2000",
+   "ms": "Perintah Pindaan Jadual Akta Universiti Brunei Darussalam 2000"
+  },
+  "BN-S-23-2009-MERCHANT-SHIPPING-AMENDMENT-ORDER-2009": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Vận tải biển năm 2009",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการเดินเรือพาณิชย์ พ.ศ. 2552",
+   "id": "Perintah Perubahan Perintah Pelayaran Niaga Tahun 2009",
+   "ms": "Perintah Pindaan Perintah Perkapalan Saudagar 2009"
+  },
+  "BN-S-24-2003-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-ACT-AMEN-215A4D": {
+   "vi": "Sắc lệnh sửa đổi Luật Hội đồng Tôn giáo và Tòa án Kadi năm 2003",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติสภาศาสนาและศาลกาดี พ.ศ. 2546",
+   "id": "Perintah Perubahan Undang-Undang Dewan Agama dan Pengadilan Kadi Tahun 2003",
+   "ms": "Perintah Pindaan Akta Majlis Agama dan Mahkamah Kadi 2003"
+  },
+  "BN-S-27-1987-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-CD1503": {
+   "vi": "Sắc lệnh chuyển giao chức năng và các quy định kèm theo của Hiến pháp năm 1987",
+   "th": "คำสั่งการโอนหน้าที่และบทบัญญัติที่เกี่ยวข้องตามรัฐธรรมนูญ พ.ศ. 2530",
+   "id": "Perintah Pengalihan Fungsi dan Ketentuan Konsekuensial menurut Konstitusi Tahun 1987",
+   "ms": "Perintah Pemindahan Fungsi dan Peruntukan Bersampingan di bawah Perlembagaan 1987"
+  },
+  "BN-S-30-2007-CRIMINAL-CONDUCT-RECOVERY-OF-PROCEEDS-AMEND-674012": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Thu hồi lợi ích từ hành vi phạm tội năm 2007",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการยึดคืนผลประโยชน์จากความผิดอาญา พ.ศ. 2550",
+   "id": "Perintah Perubahan Perintah Pemulihan Hasil Kejahatan Tahun 2007",
+   "ms": "Perintah Pindaan Perintah Perolehan Semula Hasil Jenayah 2007"
+  },
+  "BN-S-30-2022-E-ANTI-TERRORISM-AMENDMENT-ORDER-2022": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Chống khủng bố năm 2022",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการต่อต้านการก่อการร้าย พ.ศ. 2565",
+   "id": "Perintah Perubahan Perintah Antiterorisme Tahun 2022",
+   "ms": "Perintah Pindaan Perintah Antikeganasan 2022"
+  },
+  "BN-S-31-1990-EMERGENCY-RELIGIOUS-COUNCIL-AND-KADIS-COURT-72B991": {
+   "vi": "Sắc lệnh sửa đổi Luật Hội đồng Tôn giáo và Tòa án Kadi trong tình trạng khẩn cấp năm 1990",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติสภาศาสนาและศาลกาดีในสถานการณ์ฉุกเฉิน พ.ศ. 2533",
+   "id": "Perintah Perubahan Undang-Undang Dewan Agama dan Pengadilan Kadi dalam Keadaan Darurat Tahun 1990",
+   "ms": "Perintah Pindaan Akta Majlis Agama dan Mahkamah Kadi dalam Keadaan Darurat 1990"
+  },
+  "BN-S-31-2016-MUNICIPAL-BOARDS-ACT-AMENDMENT-ORDER-2016": {
+   "vi": "Sắc lệnh sửa đổi Luật Ủy ban đô thị năm 2016",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติคณะกรรมการเทศบาล พ.ศ. 2559",
+   "id": "Perintah Perubahan Undang-Undang Dewan Kotamadya Tahun 2016",
+   "ms": "Perintah Pindaan Akta Lembaga Perbandaran 2016"
+  },
+  "BN-S-32-1989-E-CONSTITUTION-OF-UNIVERSITI-BRUNEI-DARUSSA-F005A7": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Hiến chương Universiti Brunei Darussalam năm 1989",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งกฎบัตร Universiti Brunei Darussalam พ.ศ. 2532",
+   "id": "Perintah Perubahan Perintah Anggaran Dasar Universiti Brunei Darussalam Tahun 1989",
+   "ms": "Perintah Pindaan Perintah Perlembagaan Universiti Brunei Darussalam 1989"
+  },
+  "BN-S-32-2017-E-PATENTS-AMENDMENT-ORDER-2017": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Sáng chế năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งสิทธิบัตร พ.ศ. 2560",
+   "id": "Perintah Perubahan Perintah Paten Tahun 2017",
+   "ms": "Perintah Pindaan Perintah Paten 2017"
+  },
+  "BN-S-33-2017-BRUNEI-INVESTMENT-AGENCY-ACT-AMENDMENT-ORDER-2017": {
+   "vi": "Sắc lệnh sửa đổi Luật Cơ quan Đầu tư Brunei năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติหน่วยงานการลงทุนบรูไน พ.ศ. 2560",
+   "id": "Perintah Perubahan Undang-Undang Badan Investasi Brunei Tahun 2017",
+   "ms": "Perintah Pindaan Akta Agensi Pelaburan Brunei 2017"
+  },
+  "BN-S-35-2012-E-EMPLOYMENT-AMENDMENT-ORDER-2012-1": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Việc làm số 1 năm 2012",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการจ้างงาน ฉบับที่ 1 พ.ศ. 2555",
+   "id": "Perintah Perubahan Perintah Ketenagakerjaan Nomor 1 Tahun 2012",
+   "ms": "Perintah Pindaan Perintah Pekerjaan Bilangan 1 2012"
+  },
+  "BN-S-39-2007-CURRENCY-AND-MONETARY-AMENDMENT-ORDER-2007": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Tiền tệ và tài chính tiền tệ năm 2007",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งสกุลเงินและการเงิน พ.ศ. 2550",
+   "id": "Perintah Perubahan Perintah Mata Uang dan Moneter Tahun 2007",
+   "ms": "Perintah Pindaan Perintah Mata Wang dan Kewangan 2007"
+  },
+  "BN-S-39-2011-CUSTOMS-AMENDMENT-ORDER-2011": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Hải quan năm 2011",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งศุลกากร พ.ศ. 2554",
+   "id": "Perintah Perubahan Perintah Kepabeanan Tahun 2011",
+   "ms": "Perintah Pindaan Perintah Kastam 2011"
+  },
+  "BN-S-43-2008-MISCELLANEOUS-LICENCES-ACT-AMENDMENT-ORDER-2008": {
+   "vi": "Sắc lệnh sửa đổi Luật Các loại giấy phép khác năm 2008",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติใบอนุญาตเบ็ดเตล็ด พ.ศ. 2551",
+   "id": "Perintah Perubahan Undang-Undang Berbagai Perizinan Tahun 2008",
+   "ms": "Perintah Pindaan Akta Pelbagai Lesen 2008"
+  },
+  "BN-S-44-2018-E-INCOME-TAX-ACT-AMENDMENT-ORDER-2018": {
+   "vi": "Sắc lệnh sửa đổi Luật Thuế thu nhập năm 2018",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติภาษีเงินได้ พ.ศ. 2561",
+   "id": "Perintah Perubahan Undang-Undang Pajak Penghasilan Tahun 2018",
+   "ms": "Perintah Pindaan Akta Cukai Pendapatan 2018"
+  },
+  "BN-S-48-2024-PROTECTED-PLACES-ORDER-2024": {
+   "vi": "Sắc lệnh Khu vực được bảo vệ năm 2024",
+   "th": "คำสั่งสถานที่ที่ได้รับการคุ้มครอง พ.ศ. 2567",
+   "id": "Perintah Tempat yang Dilindungi Tahun 2024",
+   "ms": "Perintah Tempat Dilindungi 2024"
+  },
+  "BN-S-49-2024-PROTECTED-PLACES-NO-2-ORDER-2024": {
+   "vi": "Sắc lệnh Khu vực được bảo vệ số 2 năm 2024",
+   "th": "คำสั่งสถานที่ที่ได้รับการคุ้มครอง ฉบับที่ 2 พ.ศ. 2567",
+   "id": "Perintah Tempat yang Dilindungi Nomor 2 Tahun 2024",
+   "ms": "Perintah Tempat Dilindungi Bilangan 2 2024"
+  },
+  "BN-S-51-1989-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-261129": {
+   "vi": "Sắc lệnh chuyển giao chức năng và các quy định kèm theo của Hiến pháp năm 1989",
+   "th": "คำสั่งการโอนหน้าที่และบทบัญญัติที่เกี่ยวข้องตามรัฐธรรมนูญ พ.ศ. 2532",
+   "id": "Perintah Pengalihan Fungsi dan Ketentuan Konsekuensial menurut Konstitusi Tahun 1989",
+   "ms": "Perintah Pemindahan Fungsi dan Peruntukan Bersampingan di bawah Perlembagaan 1989"
+  },
+  "BN-S-54-1989-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-26521F": {
+   "vi": "Sắc lệnh chuyển giao chức năng và các quy định kèm theo của Hiến pháp số 2 năm 1989",
+   "th": "คำสั่งการโอนหน้าที่และบทบัญญัติที่เกี่ยวข้องตามรัฐธรรมนูญ ฉบับที่ 2 พ.ศ. 2532",
+   "id": "Perintah Pengalihan Fungsi dan Ketentuan Konsekuensial menurut Konstitusi Nomor 2 Tahun 1989",
+   "ms": "Perintah Pemindahan Fungsi dan Peruntukan Bersampingan di bawah Perlembagaan Bilangan 2 1989"
+  },
+  "BN-S-59-2016-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2016": {
+   "vi": "Sắc lệnh sửa đổi Luật Hành nghề luật sư năm 2016",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติวิชาชีพทนายความ พ.ศ. 2559",
+   "id": "Perintah Perubahan Undang-Undang Profesi Advokat Tahun 2016",
+   "ms": "Perintah Pindaan Akta Profesion Guaman 2016"
+  },
+  "BN-S-60-2021-E-PASSPORTS-ACT-AMENDMENT-ORDER-2021": {
+   "vi": "Sắc lệnh sửa đổi Luật Hộ chiếu năm 2021",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติหนังสือเดินทาง พ.ศ. 2564",
+   "id": "Perintah Perubahan Undang-Undang Paspor Tahun 2021",
+   "ms": "Perintah Pindaan Akta Pasport 2021"
+  },
+  "BN-S-62-2001-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2001": {
+   "vi": "Sắc lệnh sửa đổi Luật Hành nghề luật sư năm 2001",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติวิชาชีพทนายความ พ.ศ. 2544",
+   "id": "Perintah Perubahan Undang-Undang Profesi Advokat Tahun 2001",
+   "ms": "Perintah Pindaan Akta Profesion Guaman 2001"
+  },
+  "BN-S-7-2014-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLA-2387BA": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-8-2017-E-INCOME-TAX-ACT-AMENDMENT-ORDER-2017": {
+   "vi": "Sắc lệnh sửa đổi Luật Thuế thu nhập năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติภาษีเงินได้ พ.ศ. 2560",
+   "id": "Perintah Perubahan Undang-Undang Pajak Penghasilan Tahun 2017",
+   "ms": "Perintah Pindaan Akta Cukai Pendapatan 2017"
+  },
+  "BN-S-82-2008-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2008": {
+   "vi": "Sắc lệnh sửa đổi Luật Tội nhẹ năm 2008",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติความผิดลหุโทษ พ.ศ. 2551",
+   "id": "Perintah Perubahan Undang-Undang Pelanggaran Ringan Tahun 2008",
+   "ms": "Perintah Pindaan Akta Kesalahan Kecil 2008"
+  },
+  "BN-S-85-2008-MISCELLANEOUS-LICENCES-ACT-AMENDMENT-NO-2-O-04DF9C": {
+   "vi": "Sắc lệnh sửa đổi Luật Các loại giấy phép khác số 2 năm 2008",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติใบอนุญาตเบ็ดเตล็ด ฉบับที่ 2 พ.ศ. 2551",
+   "id": "Perintah Perubahan Undang-Undang Berbagai Perizinan Nomor 2 Tahun 2008",
+   "ms": "Perintah Pindaan Akta Pelbagai Lesen Bilangan 2 2008"
+  },
+  "BN-S-88-2017-PROTECTED-PLACES-ORDER-2017": {
+   "vi": "Sắc lệnh Khu vực được bảo vệ năm 2017",
+   "th": "คำสั่งสถานที่ที่ได้รับการคุ้มครอง พ.ศ. 2560",
+   "id": "Perintah Tempat yang Dilindungi Tahun 2017",
+   "ms": "Perintah Tempat Dilindungi 2017"
+  },
+  "BN-CAP-130-2012-BRUNEI-DARUSSALAM-FISHERY-LIMITS-ACT": {
+   "vi": "Luật Giới hạn ngư trường Brunei Darussalam",
+   "th": "พระราชบัญญัติเขตจำกัดการประมงบรูไนดารุสซาลาม",
+   "id": "Undang-Undang Batas Perikanan Brunei Darussalam",
+   "ms": "Akta Had Perikanan Brunei Darussalam"
+  },
+  "BN-CAP-161-N-2-NOTIFICATION-OF-MINISTERS-RESPONSIBLE-FOR-68A8BF": {
+   "vi": "Thông báo về các bộ trưởng chịu trách nhiệm về luật và các quy định ban hành theo luật đó",
+   "th": "ประกาศรัฐมนตรีผู้รับผิดชอบกฎหมายและข้อบังคับที่ออกตามกฎหมายนั้น",
+   "id": "Pemberitahuan tentang Menteri yang Bertanggung Jawab atas Undang-Undang dan Peraturan yang Dibuat Berdasarkannya",
+   "ms": "Pemberitahuan Menteri yang Bertanggungjawab atas Akta dan Peraturan yang Dibuat di Bawahnya"
+  },
+  "BN-CAP-186-TRANSFER-OF-THE-FUNCTIONS-OF-THE-MINISTER-OF-LAW-ACT": {
+   "vi": "Luật chuyển giao chức năng của Bộ trưởng Bộ Tư pháp",
+   "th": "พระราชบัญญัติการโอนหน้าที่ของรัฐมนตรีว่าการกระทรวงยุติธรรม",
+   "id": "Undang-Undang Pengalihan Fungsi Menteri Hukum",
+   "ms": "Akta Pemindahan Fungsi Menteri Undang-Undang"
+  },
+  "BN-S-1-1988-EMERGENCY-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-6EAA35": {
+   "vi": "Sắc lệnh sửa đổi Luật Hội đồng Tôn giáo và Tòa án Kadi trong tình trạng khẩn cấp năm 1987",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติสภาศาสนาและศาลกาดีในสถานการณ์ฉุกเฉิน พ.ศ. 2530",
+   "id": "Perintah Perubahan Undang-Undang Dewan Agama dan Pengadilan Kadi dalam Keadaan Darurat Tahun 1987",
+   "ms": "Perintah Pindaan Akta Majlis Agama dan Mahkamah Kadi dalam Keadaan Darurat 1987"
+  },
+  "BN-S-10-2007-E-ANTIQUITIES-AND-TREASURE-TROVE-ANCIENT-MO-C0F485": {
+   "vi": "Sắc lệnh Cổ vật, kho báu, di tích cổ và di tích lịch sử năm 2007",
+   "th": "คำสั่งโบราณวัตถุ สมบัติโบราณ อนุสาวรีย์โบราณ และแหล่งประวัติศาสตร์ พ.ศ. 2550",
+   "id": "Perintah Benda Cagar Budaya, Harta Karun, Monumen Kuno, dan Situs Sejarah Tahun 2007",
+   "ms": "Perintah Antikuiti, Harta Karun, Monumen Purba dan Tapak Sejarah 2007"
+  },
+  "BN-S-100-1959-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CON-60B31D": {
+   "vi": "Sắc lệnh chuyển giao chức năng và các quy định kèm theo của Hiến pháp số 2 năm 1959",
+   "th": "คำสั่งการโอนหน้าที่และบทบัญญัติที่เกี่ยวข้องตามรัฐธรรมนูญ ฉบับที่ 2 พ.ศ. 2502",
+   "id": "Perintah Pengalihan Fungsi dan Ketentuan Konsekuensial menurut Konstitusi Nomor 2 Tahun 1959",
+   "ms": "Perintah Pemindahan Fungsi dan Peruntukan Bersampingan di bawah Perlembagaan Bilangan 2 1959"
+  },
+  "BN-S-11-2003-BRUNEI-ECONOMIC-DEVELOPMENT-BOARD-ACT-AMEND-C3F676": {
+   "vi": "Sắc lệnh sửa đổi Luật Ủy ban Phát triển Kinh tế Brunei năm 2003",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติคณะกรรมการพัฒนเศรษฐกิจบรูไน พ.ศ. 2546",
+   "id": "Perintah Perubahan Undang-Undang Dewan Pembangunan Ekonomi Brunei Tahun 2003",
+   "ms": "Perintah Pindaan Akta Lembaga Pembangunan Ekonomi Brunei 2003"
+  },
+  "BN-S-11-2024-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-TRUST-AM-9FCCB1": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Quỹ hưu trí đóng góp bổ sung năm 2024",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งกองทุนบำเหน็จบำนาญสมทบเพิ่มเติม พ.ศ. 2567",
+   "id": "Perintah Perubahan Perintah Dana Pensiun Iuran Tambahan Tahun 2024",
+   "ms": "Perintah Pindaan Perintah Tabung Pencen Caruman Tambahan 2024"
+  },
+  "BN-S-12-2009-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-9DFA06": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-13-2003-E-AITI-OF-BRUNEI-DARUSSALAM-AMENDMENT-ORDER-2003": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh AITI Brunei Darussalam năm 2003",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งAITI Brunei Darussalam พ.ศ. 2546",
+   "id": "Perintah Perubahan Perintah AITI Brunei Darussalam Tahun 2003",
+   "ms": "Perintah Pindaan Perintah AITI Brunei Darussalam 2003"
+  },
+  "BN-S-14-1985-E-LAW-REVISION-OMITTED-LAWS-ORDER-NO-2-1985": {
+   "vi": "Sắc lệnh luật bị bỏ sót trong hệ thống hóa pháp luật số 2 năm 1985",
+   "th": "คำสั่งกฎหมายที่ตกหล่นจากการปรับปรุงกฎหมาย ฉบับที่ 2 พ.ศ. 2528",
+   "id": "Perintah Undang-Undang yang Terlewat dalam Revisi Hukum Nomor 2 Tahun 1985",
+   "ms": "Perintah Undang-Undang yang Tertinggal dalam Semakan Undang-Undang Bilangan 2 1985"
+  },
+  "BN-S-15-2003-E-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT-4D698A": {
+   "vi": "Sắc lệnh sửa đổi Luật Perbadanan Tabung Amanah Islam Brunei năm 2003",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติPerbadanan Tabung Amanah Islam Brunei พ.ศ. 2546",
+   "id": "Perintah Perubahan Undang-Undang Perbadanan Tabung Amanah Islam Brunei Tahun 2003",
+   "ms": "Perintah Pindaan Akta Perbadanan Tabung Amanah Islam Brunei 2003"
+  },
+  "BN-S-17-2003-E-UNIVERSITI-BRUNEI-DARUSSALAM-ACT-AMENDMEN-A09951": {
+   "vi": "Sắc lệnh sửa đổi Luật Universiti Brunei Darussalam năm 2003",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติUniversiti Brunei Darussalam พ.ศ. 2546",
+   "id": "Perintah Perubahan Undang-Undang Universiti Brunei Darussalam Tahun 2003",
+   "ms": "Perintah Pindaan Akta Universiti Brunei Darussalam 2003"
+  },
+  "BN-S-18-2022-E-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT-4DC3F4": {
+   "vi": "Sắc lệnh sửa đổi Luật Perbadanan Tabung Amanah Islam Brunei năm 2022",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติPerbadanan Tabung Amanah Islam Brunei พ.ศ. 2565",
+   "id": "Perintah Perubahan Undang-Undang Perbadanan Tabung Amanah Islam Brunei Tahun 2022",
+   "ms": "Perintah Pindaan Akta Perbadanan Tabung Amanah Islam Brunei 2022"
+  },
+  "BN-S-19-2013-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-FB735B": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-20-1993-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-0079F4": {
+   "vi": "Sắc lệnh chuyển giao chức năng và các quy định kèm theo của Hiến pháp năm 1993",
+   "th": "คำสั่งการโอนหน้าที่และบทบัญญัติที่เกี่ยวข้องตามรัฐธรรมนูญ พ.ศ. 2536",
+   "id": "Perintah Pengalihan Fungsi dan Ketentuan Konsekuensial menurut Konstitusi Tahun 1993",
+   "ms": "Perintah Pemindahan Fungsi dan Peruntukan Bersampingan di bawah Perlembagaan 1993"
+  },
+  "BN-S-21-2006-E-LEGAL-PROFESSION-ACT-AMENDMENT-NO-2-ORDER-2006-1": {
+   "vi": "Sắc lệnh sửa đổi Luật Hành nghề luật sư số 2 năm 2006",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติวิชาชีพทนายความ ฉบับที่ 2 พ.ศ. 2549",
+   "id": "Perintah Perubahan Undang-Undang Profesi Advokat Nomor 2 Tahun 2006",
+   "ms": "Perintah Pindaan Akta Profesion Guaman Bilangan 2 2006"
+  },
+  "BN-S-21-2020-E-EMPLOYMENT-AMENDMENT-ORDER-2020-1": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Việc làm số 1 năm 2020",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการจ้างงาน ฉบับที่ 1 พ.ศ. 2563",
+   "id": "Perintah Perubahan Perintah Ketenagakerjaan Nomor 1 Tahun 2020",
+   "ms": "Perintah Pindaan Perintah Pekerjaan Bilangan 1 2020"
+  },
+  "BN-S-24-2016-BRUNEI-ECONOMIC-DEVELOPMENT-BOARD-ACT-AMEND-508E59": {
+   "vi": "Sắc lệnh sửa đổi Luật Ủy ban Phát triển Kinh tế Brunei năm 2016",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติคณะกรรมการพัฒนเศรษฐกิจบรูไน พ.ศ. 2559",
+   "id": "Perintah Perubahan Undang-Undang Dewan Pembangunan Ekonomi Brunei Tahun 2016",
+   "ms": "Perintah Pindaan Akta Lembaga Pembangunan Ekonomi Brunei 2016"
+  },
+  "BN-S-24-2020-E-FISHERIES-AMENDMENT-ORDER-2020": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Thủy sản năm 2020",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการประมง พ.ศ. 2563",
+   "id": "Perintah Perubahan Perintah Perikanan Tahun 2020",
+   "ms": "Perintah Pindaan Perintah Perikanan 2020"
+  },
+  "BN-S-26-2020-CRIMINAL-ASSET-RECOVERY-AMENDMENT-ORDER-2020": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Thu hồi tài sản phạm tội năm 2020",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการยึดคืนทรัพย์สินจากอาชญากรรม พ.ศ. 2563",
+   "id": "Perintah Perubahan Perintah Pemulihan Aset Kriminal Tahun 2020",
+   "ms": "Perintah Pindaan Perintah Perolehan Semula Harta Jenayah 2020"
+  },
+  "BN-S-27-2020-E-INCOME-TAX-ACT-AMENDMENT-NO-1-ORDER-2020": {
+   "vi": "Sắc lệnh sửa đổi Luật Thuế thu nhập số 1 năm 2020",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติภาษีเงินได้ ฉบับที่ 1 พ.ศ. 2563",
+   "id": "Perintah Perubahan Undang-Undang Pajak Penghasilan Nomor 1 Tahun 2020",
+   "ms": "Perintah Pindaan Akta Cukai Pendapatan Bilangan 1 2020"
+  },
+  "BN-S-28-2009-E-LAND-CODE-STRATA-ACT-AMENDMENT-ORDER-2009": {
+   "vi": "Sắc lệnh sửa đổi Luật Phân tầng đất đai theo Bộ luật Đất đai năm 2009",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติการแบ่งชั้นที่ดินตามประมวลกฎหมายที่ดิน พ.ศ. 2552",
+   "id": "Perintah Perubahan Undang-Undang Strata Tanah Tahun 2009",
+   "ms": "Perintah Pindaan Akta Strata Tanah 2009"
+  },
+  "BN-S-29-1987-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-661D4B": {
+   "vi": "Sắc lệnh sửa đổi Luật Hành nghề luật sư trong tình trạng khẩn cấp năm 1987",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติวิชาชีพทนายความในสถานการณ์ฉุกเฉิน พ.ศ. 2530",
+   "id": "Perintah Perubahan Undang-Undang Profesi Advokat dalam Keadaan Darurat Tahun 1987",
+   "ms": "Perintah Pindaan Akta Profesion Guaman dalam Keadaan Darurat 1987"
+  },
+  "BN-S-29-2004-E-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT-EB3105": {
+   "vi": "Sắc lệnh sửa đổi Luật Perbadanan Tabung Amanah Islam Brunei năm 2004",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติPerbadanan Tabung Amanah Islam Brunei พ.ศ. 2547",
+   "id": "Perintah Perubahan Undang-Undang Perbadanan Tabung Amanah Islam Brunei Tahun 2004",
+   "ms": "Perintah Pindaan Akta Perbadanan Tabung Amanah Islam Brunei 2004"
+  },
+  "BN-S-29-2009-E-LAND-CODE-AMENDMENT-ORDER-2009": {
+   "vi": "Sắc lệnh sửa đổi Bộ luật Đất đai năm 2009",
+   "th": "คำสั่งแก้ไขเพิ่มเติมประมวลกฎหมายที่ดิน พ.ศ. 2552",
+   "id": "Perintah Perubahan Kitab Undang-Undang Tanah Tahun 2009",
+   "ms": "Perintah Pindaan Kanun Tanah 2009"
+  },
+  "BN-S-3-2016-CONTRACTS-ACT-AMENDMENT-ORDER-2016-1": {
+   "vi": "Sắc lệnh sửa đổi Luật Hợp đồng số 1 năm 2016",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติสัญญา ฉบับที่ 1 พ.ศ. 2559",
+   "id": "Perintah Perubahan Undang-Undang Kontrak Nomor 1 Tahun 2016",
+   "ms": "Perintah Pindaan Akta Kontrak Bilangan 1 2016"
+  },
+  "BN-S-31-2014-E-EMPLOYMENT-AMENDMENT-ORDER-2014-1": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Việc làm số 1 năm 2014",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการจ้างงาน ฉบับที่ 1 พ.ศ. 2557",
+   "id": "Perintah Perubahan Perintah Ketenagakerjaan Nomor 1 Tahun 2014",
+   "ms": "Perintah Pindaan Perintah Pekerjaan Bilangan 1 2014"
+  },
+  "BN-S-33-2024-E-EMPLOYMENT-AMENDMENT-ORDER-2024-1": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Việc làm số 1 năm 2024",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการจ้างงาน ฉบับที่ 1 พ.ศ. 2567",
+   "id": "Perintah Perubahan Perintah Ketenagakerjaan Nomor 1 Tahun 2024",
+   "ms": "Perintah Pindaan Perintah Pekerjaan Bilangan 1 2024"
+  },
+  "BN-S-35-2003-E-AITI-OF-BRUNEI-DARUSSALAM-AMENDMENT-ORDER-2003": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh AITI Brunei Darussalam năm 2003",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งAITI Brunei Darussalam พ.ศ. 2546",
+   "id": "Perintah Perubahan Perintah AITI Brunei Darussalam Tahun 2003",
+   "ms": "Perintah Pindaan Perintah AITI Brunei Darussalam 2003"
+  },
+  "BN-S-36-2010-CHILDREN-AND-YOUNG-PERSONS-APPROVED-SCHOOLS-EC46E2": {
+   "vi": "Quy định Trường giáo dưỡng và cơ sở giáo dưỡng được phê duyệt cho trẻ em và người vị thành niên năm 2010",
+   "th": "ข้อบังคับโรงเรียนและสถานรับเลี้ยงที่ได้รับอนุมัติสำหรับเด็กและเยาวชน พ.ศ. 2553",
+   "id": "Peraturan Sekolah dan Panti yang Disetujui bagi Anak dan Remaja Tahun 2010",
+   "ms": "Peraturan Sekolah dan Rumah Diluluskan bagi Kanak-Kanak dan Orang Muda 2010"
+  },
+  "BN-S-38-1987-E-EMERGENCY-EVIDENCE-ACT-AMENDMENT-ORDER-1987": {
+   "vi": "Sắc lệnh sửa đổi Luật Chứng cứ trong tình trạng khẩn cấp năm 1987",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติพยานหลักฐานในสถานการณ์ฉุกเฉิน พ.ศ. 2530",
+   "id": "Perintah Perubahan Undang-Undang Pembuktian dalam Keadaan Darurat Tahun 1987",
+   "ms": "Perintah Pindaan Akta Keterangan dalam Keadaan Darurat 1987"
+  },
+  "BN-S-39-2012-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-48B14B": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-4-2021-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLA-96FEF4": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-41-2018-E-EXCISE-AMENDMENT-NO-2-ORDER-2018": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Thuế tiêu thụ đặc biệt số 2 năm 2018",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งสรรพสามิต ฉบับที่ 2 พ.ศ. 2561",
+   "id": "Perintah Perubahan Perintah Cukai Nomor 2 Tahun 2018",
+   "ms": "Perintah Pindaan Perintah Eksais Bilangan 2 2018"
+  },
+  "BN-S-43-2016-REGISTERED-AGENTS-AND-TRUSTEES-LICENSING-AM-33DF39": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Cấp phép đại lý và người được ủy thác đã đăng ký năm 2016",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการออกใบอนุญาตตัวแทนและผู้จัดการมรดกที่จดทะเบียน พ.ศ. 2559",
+   "id": "Perintah Perubahan Perintah Perizinan Agen dan Wali Amanat Terdaftar Tahun 2016",
+   "ms": "Perintah Pindaan Perintah Pelesenan Ejen dan Pemegang Amanah Berdaftar 2016"
+  },
+  "BN-S-44-2010-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-88C8E8": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-44-2015-MUNICIPAL-BOARDS-ACT-AMENDMENT-ORDER-2016": {
+   "vi": "Sắc lệnh sửa đổi Luật Ủy ban đô thị năm 2016",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติคณะกรรมการเทศบาล พ.ศ. 2559",
+   "id": "Perintah Perubahan Undang-Undang Dewan Kotamadya Tahun 2016",
+   "ms": "Perintah Pindaan Akta Lembaga Perbandaran 2016"
+  },
+  "BN-S-45-1989-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-917C2B": {
+   "vi": "Sắc lệnh sửa đổi Luật Hành nghề luật sư trong tình trạng khẩn cấp năm 1989",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติวิชาชีพทนายความในสถานการณ์ฉุกเฉิน พ.ศ. 2532",
+   "id": "Perintah Perubahan Undang-Undang Profesi Advokat dalam Keadaan Darurat Tahun 1989",
+   "ms": "Perintah Pindaan Akta Profesion Guaman dalam Keadaan Darurat 1989"
+  },
+  "BN-S-47-2016-CONSTITUTION-FINANCIAL-PROCEDURE-AMENDMENT-DB783E": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh thủ tục tài chính của Hiến pháp năm 2016",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งวิธีปฏิบัติทางการเงินตามรัฐธรรมนูญ พ.ศ. 2559",
+   "id": "Perintah Perubahan Perintah Tata Cara Keuangan menurut Konstitusi Tahun 2016",
+   "ms": "Perintah Pindaan Perintah Tatacara Kewangan di bawah Perlembagaan 2016"
+  },
+  "BN-S-47-2023-E-ELECTRICITY-ACT-AMENDMENT-ORDER-2023": {
+   "vi": "Sắc lệnh sửa đổi Luật Điện lực năm 2023",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติไฟฟ้า พ.ศ. 2566",
+   "id": "Perintah Perubahan Undang-Undang Ketenagalistrikan Tahun 2023",
+   "ms": "Perintah Pindaan Akta Elektrik 2023"
+  },
+  "BN-S-48-2018-PRESERVATION-OF-BOOKS-ACT-AMENDMENT-ORDER-2018": {
+   "vi": "Sắc lệnh sửa đổi Luật Lưu giữ sổ sách năm 2018",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติการเก็บรักษาบัญชี พ.ศ. 2561",
+   "id": "Perintah Perubahan Undang-Undang Penyimpanan Buku Tahun 2018",
+   "ms": "Perintah Pindaan Akta Pemeliharaan Buku 2018"
+  },
+  "BN-S-5-2008-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2008": {
+   "vi": "Sắc lệnh sửa đổi Luật Lạm dụng ma túy năm 2008",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติยาเสพติดให้โทษ พ.ศ. 2551",
+   "id": "Perintah Perubahan Undang-Undang Penyalahgunaan Narkotika Tahun 2008",
+   "ms": "Perintah Pindaan Akta Penyalahgunaan Dadah 2008"
+  },
+  "BN-S-5-2023-CRIMINAL-ASSET-RECOVERY-AMENDMENT-ORDER-2023": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Thu hồi tài sản phạm tội năm 2023",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการยึดคืนทรัพย์สินจากอาชญากรรม พ.ศ. 2566",
+   "id": "Perintah Perubahan Perintah Pemulihan Aset Kriminal Tahun 2023",
+   "ms": "Perintah Pindaan Perintah Perolehan Semula Harta Jenayah 2023"
+  },
+  "BN-S-50-2015-E-EMPLOYMENT-AMENDMENT-ORDER-2015-1": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Việc làm số 1 năm 2015",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการจ้างงาน ฉบับที่ 1 พ.ศ. 2558",
+   "id": "Perintah Perubahan Perintah Ketenagakerjaan Nomor 1 Tahun 2015",
+   "ms": "Perintah Pindaan Perintah Pekerjaan Bilangan 1 2015"
+  },
+  "BN-S-52-2015-CONSUMER-PROTECTION-FAIR-TRADING-AMENDMENT-C91F8D": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Bảo vệ người tiêu dùng và thương mại công bằng năm 2015",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการคุ้มครองผู้บริโภคและการค้าที่เป็นธรรม พ.ศ. 2558",
+   "id": "Perintah Perubahan Perintah Perlindungan Konsumen dan Perdagangan yang Adil Tahun 2015",
+   "ms": "Perintah Pindaan Perintah Perlindungan Pengguna dan Perdagangan Adil 2015"
+  },
+  "BN-S-53-2002-MAINTENANCE-ORDER-RECIPROCAL-ENFORCEMENT-NO-07A227": {
+   "vi": "Thông báo Thi hành lẫn nhau đối với lệnh cấp dưỡng năm 2002",
+   "th": "ประกาศการบังคับใช้คำสั่งค่าอุปการะเลี้ยงดูแบบต่างตอบแทน พ.ศ. 2545",
+   "id": "Pemberitahuan Pelaksanaan Timbal Balik Perintah Nafkah Tahun 2002",
+   "ms": "Pemberitahuan Penguatkuasaan Timbal Balas Perintah Nafkah 2002"
+  },
+  "BN-S-54-2023-COMPULSORY-EDUCATION-ACT-AMENDMENT-ORDER-2023": {
+   "vi": "Sắc lệnh sửa đổi Luật Giáo dục bắt buộc năm 2023",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติการศึกษาภาคบังคับ พ.ศ. 2566",
+   "id": "Perintah Perubahan Undang-Undang Pendidikan Wajib Tahun 2023",
+   "ms": "Perintah Pindaan Akta Pendidikan Wajib 2023"
+  },
+  "BN-S-55-2013-CUSTOMS-AMENDMENT-NO-2-ORDER-2013": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Hải quan số 2 năm 2013",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งศุลกากร ฉบับที่ 2 พ.ศ. 2556",
+   "id": "Perintah Perubahan Perintah Kepabeanan Nomor 2 Tahun 2013",
+   "ms": "Perintah Pindaan Perintah Kastam Bilangan 2 2013"
+  },
+  "BN-S-58-2010-E-HALAL-MEAT-AMENDMENT-ORDER-2010": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Thịt Halal năm 2010",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งเนื้อฮาลาล พ.ศ. 2553",
+   "id": "Perintah Perubahan Perintah Daging Halal Tahun 2010",
+   "ms": "Perintah Pindaan Perintah Daging Halal 2010"
+  },
+  "BN-S-59-2002-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2002": {
+   "vi": "Sắc lệnh sửa đổi Luật Hành nghề luật sư năm 2002",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติวิชาชีพทนายความ พ.ศ. 2545",
+   "id": "Perintah Perubahan Undang-Undang Profesi Advokat Tahun 2002",
+   "ms": "Perintah Pindaan Akta Profesion Guaman 2002"
+  },
+  "BN-S-59-2005-CURRENCY-AND-MONETARY-AMENDMENT-ORDER-2005": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Tiền tệ và tài chính tiền tệ năm 2005",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งสกุลเงินและการเงิน พ.ศ. 2548",
+   "id": "Perintah Perubahan Perintah Mata Uang dan Moneter Tahun 2005",
+   "ms": "Perintah Pindaan Perintah Mata Wang dan Kewangan 2005"
+  },
+  "BN-S-6-1999-EMERGENCY-EVIDENCE-ACT-AMENDMENT-ORDER-1999": {
+   "vi": "Sắc lệnh sửa đổi Luật Chứng cứ trong tình trạng khẩn cấp năm 1999",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติพยานหลักฐานในสถานการณ์ฉุกเฉิน พ.ศ. 2542",
+   "id": "Perintah Perubahan Undang-Undang Pembuktian dalam Keadaan Darurat Tahun 1999",
+   "ms": "Perintah Pindaan Akta Keterangan dalam Keadaan Darurat 1999"
+  },
+  "BN-S-60-2006-E-ANTIQUITIES-AND-TREASURE-TROVE-ANCIENT-MO-F70A58": {
+   "vi": "Sắc lệnh Cổ vật, kho báu, di tích cổ và di tích lịch sử năm 2006",
+   "th": "คำสั่งโบราณวัตถุ สมบัติโบราณ อนุสาวรีย์โบราณ และแหล่งประวัติศาสตร์ พ.ศ. 2549",
+   "id": "Perintah Benda Cagar Budaya, Harta Karun, Monumen Kuno, dan Situs Sejarah Tahun 2006",
+   "ms": "Perintah Antikuiti, Harta Karun, Monumen Purba dan Tapak Sejarah 2006"
+  },
+  "BN-S-62-2015-E-EMPLOYMENT-AMENDMENT-NO-2-ORDER-2015-1": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Việc làm số 2 năm 2015",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการจ้างงาน ฉบับที่ 2 พ.ศ. 2558",
+   "id": "Perintah Perubahan Perintah Ketenagakerjaan Nomor 2 Tahun 2015",
+   "ms": "Perintah Pindaan Perintah Pekerjaan Bilangan 2 2015"
+  },
+  "BN-S-68-2017-E-EMPLOYMENT-AMENDMENT-ORDER-2017-1": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Việc làm số 1 năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการจ้างงาน ฉบับที่ 1 พ.ศ. 2560",
+   "id": "Perintah Perubahan Perintah Ketenagakerjaan Nomor 1 Tahun 2017",
+   "ms": "Perintah Pindaan Perintah Pekerjaan Bilangan 1 2017"
+  },
+  "BN-S-69-2011-MISCELLANEOUS-LICENCES-ACT-AMENDMENT-ORDER-2011": {
+   "vi": "Sắc lệnh sửa đổi Luật Các loại giấy phép khác năm 2011",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติใบอนุญาตเบ็ดเตล็ด พ.ศ. 2554",
+   "id": "Perintah Perubahan Undang-Undang Berbagai Perizinan Tahun 2011",
+   "ms": "Perintah Pindaan Akta Pelbagai Lesen 2011"
+  },
+  "BN-S-7-2002-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2002": {
+   "vi": "Sắc lệnh sửa đổi Luật Lạm dụng ma túy năm 2002",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติยาเสพติดให้โทษ พ.ศ. 2545",
+   "id": "Perintah Perubahan Undang-Undang Penyalahgunaan Narkotika Tahun 2002",
+   "ms": "Perintah Pindaan Akta Penyalahgunaan Dadah 2002"
+  },
+  "BN-S-70-2017-CUSTOMS-AMENDMENT-ORDER-2017": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Hải quan năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งศุลกากร พ.ศ. 2560",
+   "id": "Perintah Perubahan Perintah Kepabeanan Tahun 2017",
+   "ms": "Perintah Pindaan Perintah Kastam 2017"
+  },
+  "BN-S-71-2018-E-PENAL-CODE-AMENDMENT-NO-2-ORDER-2018-1": {
+   "vi": "Sắc lệnh sửa đổi Bộ luật Hình sự số 2 năm 2018",
+   "th": "คำสั่งแก้ไขเพิ่มเติมประมวลกฎหมายอาญา ฉบับที่ 2 พ.ศ. 2561",
+   "id": "Perintah Perubahan Kitab Undang-Undang Pidana Nomor 2 Tahun 2018",
+   "ms": "Perintah Pindaan Kanun Keseksaan Bilangan 2 2018"
+  },
+  "BN-S-79-2008-YAYASAN-SULTAN-HAJI-HASSANAL-BOLKIAH-ACT-AM-36DFBA": {
+   "vi": "Sắc lệnh sửa đổi Phụ lục của Luật Yayasan Sultan Haji Hassanal Bolkiah năm 2008",
+   "th": "คำสั่งแก้ไขเพิ่มเติมภาคผนวกของพระราชบัญญัติ Yayasan Sultan Haji Hassanal Bolkiah พ.ศ. 2551",
+   "id": "Perintah Perubahan Lampiran Undang-Undang Yayasan Sultan Haji Hassanal Bolkiah Tahun 2008",
+   "ms": "Perintah Pindaan Jadual Akta Yayasan Sultan Haji Hassanal Bolkiah 2008"
+  },
+  "BN-S-8-2020-MAINTENANCE-ORDER-RECIPROCAL-ENFORCEMENT-NOT-A0AC83": {
+   "vi": "Thông báo Thi hành lẫn nhau đối với lệnh cấp dưỡng năm 2020",
+   "th": "ประกาศการบังคับใช้คำสั่งค่าอุปการะเลี้ยงดูแบบต่างตอบแทน พ.ศ. 2563",
+   "id": "Pemberitahuan Pelaksanaan Timbal Balik Perintah Nafkah Tahun 2020",
+   "ms": "Pemberitahuan Penguatkuasaan Timbal Balas Perintah Nafkah 2020"
+  },
+  "BN-S-81-2010-E-FISHERIES-AMENDMENT-ORDER-2010": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Thủy sản năm 2010",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการประมง พ.ศ. 2553",
+   "id": "Perintah Perubahan Perintah Perikanan Tahun 2010",
+   "ms": "Perintah Pindaan Perintah Perikanan 2010"
+  },
+  "BN-S-82-2000-CUSTOMS-AMENDMENT-ORDER-2000": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Hải quan năm 2000",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งศุลกากร พ.ศ. 2543",
+   "id": "Perintah Perubahan Perintah Kepabeanan Tahun 2000",
+   "ms": "Perintah Pindaan Perintah Kastam 2000"
+  },
+  "BN-S-84-2006-E-UNIVERSITI-BRUNEI-DARUSSALAM-AMENDMENT-OF-308ECF": {
+   "vi": "Sắc lệnh sửa đổi Phụ lục của Luật Universiti Brunei Darussalam năm 2006",
+   "th": "คำสั่งแก้ไขเพิ่มเติมภาคผนวกของพระราชบัญญัติ Universiti Brunei Darussalam พ.ศ. 2549",
+   "id": "Perintah Perubahan Lampiran Undang-Undang Universiti Brunei Darussalam Tahun 2006",
+   "ms": "Perintah Pindaan Jadual Akta Universiti Brunei Darussalam 2006"
+  },
+  "BN-S-88-2006-E-INSURANCE-AMENDMENT-ORDER-2006": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Bảo hiểm năm 2006",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งประกันภัย พ.ศ. 2549",
+   "id": "Perintah Perubahan Perintah Asuransi Tahun 2006",
+   "ms": "Perintah Pindaan Perintah Insurans 2006"
+  },
+  "BN-S-9-2017-E-INCOME-TAX-ACT-AMENDMENT-NO-2-ORDER-2017": {
+   "vi": "Sắc lệnh sửa đổi Luật Thuế thu nhập số 2 năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติภาษีเงินได้ ฉบับที่ 2 พ.ศ. 2560",
+   "id": "Perintah Perubahan Undang-Undang Pajak Penghasilan Nomor 2 Tahun 2017",
+   "ms": "Perintah Pindaan Akta Cukai Pendapatan Bilangan 2 2017"
+  },
+  "BN-S-9-2020-SUPREME-COURT-ACT-AMENDMENT-ORDER-2020": {
+   "vi": "Sắc lệnh sửa đổi Luật Tòa án tối cao năm 2020",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติศาลสูงสุด พ.ศ. 2563",
+   "id": "Perintah Perubahan Undang-Undang Mahkamah Agung Tahun 2020",
+   "ms": "Perintah Pindaan Akta Mahkamah Agung 2020"
+  },
+  "BN-S-91-2017-E-ALLIED-HEALTH-PROFESSIONS-OF-BRUNEI-DARUS-C036E9": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Các nghề y tế phụ trợ Brunei Darussalam số 1 năm 2017",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งวิชาชีพสุขภาพสาขาสมทบแห่งบรูไนดารุสซาลาม ฉบับที่ 1 พ.ศ. 2560",
+   "id": "Perintah Perubahan Perintah Profesi Kesehatan Terkait Brunei Darussalam Nomor 1 Tahun 2017",
+   "ms": "Perintah Pindaan Perintah Profesion Kesihatan Bersekutu Brunei Darussalam Bilangan 1 2017"
+  },
+  "BN-H072": {
+   "vi": "Luật Sáng chế",
+   "th": "พระราชบัญญัติสิทธิบัตร",
+   "id": "Undang-Undang Paten",
+   "ms": "Akta Paten"
+  },
+  "BN-H078": {
+   "vi": "Luật Nhãn hiệu",
+   "th": "พระราชบัญญัติเครื่องหมายการค้า",
+   "id": "Undang-Undang Merek",
+   "ms": "Akta Cap Dagangan"
+  },
+  "BN-H079": {
+   "vi": "Luật Thuế thu nhập",
+   "th": "พระราชบัญญัติภาษีเงินได้",
+   "id": "Undang-Undang Pajak Penghasilan",
+   "ms": "Akta Cukai Pendapatan"
+  },
+  "BN-H080": {
+   "vi": "Luật Công ty",
+   "th": "พระราชบัญญัติบริษัท",
+   "id": "Undang-Undang Perusahaan",
+   "ms": "Akta Syarikat"
+  },
+  "BN-H082": {
+   "vi": "Luật Việc làm",
+   "th": "พระราชบัญญัติการจ้างงาน",
+   "id": "Undang-Undang Ketenagakerjaan",
+   "ms": "Akta Pekerjaan"
+  },
+  "BN-H084": {
+   "vi": "Sắc lệnh Công ty kinh doanh quốc tế năm 2000",
+   "th": "คำสั่งบริษัทระหว่างประเทศ พ.ศ. 2543",
+   "id": "Perintah Perusahaan Bisnis Internasional Tahun 2000",
+   "ms": "Perintah Syarikat Perniagaan Antarabangsa 2000"
+  },
+  "BN-H085": {
+   "vi": "Luật Nhãn hiệu",
+   "th": "พระราชบัญญัติเครื่องหมายการค้า",
+   "id": "Undang-Undang Merek",
+   "ms": "Akta Cap Dagangan"
+  },
+  "BN-H086": {
+   "vi": "Luật Lao động",
+   "th": "พระราชบัญญัติแรงงาน",
+   "id": "Undang-Undang Ketenagakerjaan",
+   "ms": "Akta Buruh"
+  },
+  "BN-H087": {
+   "vi": "Luật Cạnh tranh",
+   "th": "พระราชบัญญัติการแข่งขันทางการค้า",
+   "id": "Undang-Undang Persaingan Usaha",
+   "ms": "Akta Persaingan"
+  },
+  "BN-H088": {
+   "vi": "Luật Sáng chế",
+   "th": "พระราชบัญญัติสิทธิบัตร",
+   "id": "Undang-Undang Paten",
+   "ms": "Akta Paten"
+  },
+  "BN-H089": {
+   "vi": "Luật Ủy ban Phát triển Kinh tế Brunei",
+   "th": "พระราชบัญญัติคณะกรรมการพัฒนเศรษฐกิจบรูไน",
+   "id": "Undang-Undang Dewan Pembangunan Ekonomi Brunei",
+   "ms": "Akta Lembaga Pembangunan Ekonomi Brunei"
+  },
+  "BN-H091": {
+   "vi": "Sắc lệnh Công ty hợp danh trách nhiệm hữu hạn năm 2010",
+   "th": "คำสั่งห้างหุ้นส่วนจำกัดความรับผิด พ.ศ. 2553",
+   "id": "Perintah Persekutuan dengan Tanggung Jawab Terbatas Tahun 2010",
+   "ms": "Perintah Perkongsian Liabiliti Terhad 2010"
+  },
+  "BN-H092": {
+   "vi": "Luật Hối phiếu",
+   "th": "พระราชบัญญัติตั๋วแลกเงิน",
+   "id": "Undang-Undang Surat Wesel",
+   "ms": "Akta Bil Pertukaran"
+  },
+  "BN-H093": {
+   "vi": "Luật Ưu đãi đầu tư",
+   "th": "พระราชบัญญัติสิ่งจูงใจการลงทุน",
+   "id": "Undang-Undang Insentif Investasi",
+   "ms": "Akta Insentif Pelaburan"
+  },
+  "BN-H095": {
+   "vi": "Luật Hợp đồng",
+   "th": "พระราชบัญญัติสัญญา",
+   "id": "Undang-Undang Kontrak",
+   "ms": "Akta Kontrak"
+  },
+  "BN-H096": {
+   "vi": "Luật Trọng tài",
+   "th": "พระราชบัญญัติอนุญาโตตุลาการ",
+   "id": "Undang-Undang Arbitrase",
+   "ms": "Akta Timbang Tara"
+  },
+  "BN-H097": {
+   "vi": "Luật Trọng tài quốc tế",
+   "th": "พระราชบัญญัติอนุญาโตตุลาการระหว่างประเทศ",
+   "id": "Undang-Undang Arbitrase Internasional",
+   "ms": "Akta Timbang Tara Antarabangsa"
+  },
+  "BN-H098": {
+   "vi": "Luật Thông tin việc làm",
+   "th": "พระราชบัญญัติข้อมูลการจ้างงาน",
+   "id": "Undang-Undang Informasi Ketenagakerjaan",
+   "ms": "Akta Maklumat Pekerjaan"
+  },
+  "BN-H099": {
+   "vi": "Sắc lệnh Quyền tác giả năm 1999",
+   "th": "คำสั่งลิขสิทธิ์ พ.ศ. 2542",
+   "id": "Perintah Hak Cipta Tahun 1999",
+   "ms": "Perintah Hak Cipta 1999"
+  },
+  "BN-H100": {
+   "vi": "Sắc lệnh Bảo vệ dữ liệu cá nhân năm 2025",
+   "th": "คำสั่งการคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2568",
+   "id": "Perintah Perlindungan Data Pribadi Tahun 2025",
+   "ms": "Perintah Perlindungan Data Peribadi 2025"
+  },
+  "BN-H101": {
+   "vi": "Luật Điều khoản hợp đồng không công bằng",
+   "th": "พระราชบัญญัติข้อสัญญาที่ไม่เป็นธรรม",
+   "id": "Undang-Undang Ketentuan Kontrak Tidak Adil",
+   "ms": "Akta Terma Kontrak Tidak Adil"
+  },
+  "BN-H102": {
+   "vi": "Luật Sáng chế",
+   "th": "พระราชบัญญัติการประดิษฐ์",
+   "id": "Undang-Undang Invensi",
+   "ms": "Akta Ciptaan"
+  },
+  "BN-H103": {
+   "vi": "Luật Giao dịch điện tử",
+   "th": "พระราชบัญญัติธุรกรรมอิเล็กทรอนิกส์",
+   "id": "Undang-Undang Transaksi Elektronik",
+   "ms": "Akta Transaksi Elektronik"
+  },
+  "BN-H104": {
+   "vi": "Luật Nhãn hiệu hàng hóa",
+   "th": "พระราชบัญญัติเครื่องหมายสินค้า",
+   "id": "Undang-Undang Merek Barang",
+   "ms": "Akta Cap Barangan"
+  },
+  "BN-H105": {
+   "vi": "Luật Mua bán hàng hóa",
+   "th": "พระราชบัญญัติการซื้อขายสินค้า",
+   "id": "Undang-Undang Jual Beli Barang",
+   "ms": "Akta Jualan Barang"
+  },
+  "BN-N-EXCISE-DUTIES-NOTIFICATION": {
+   "vi": "Thông báo Thuế tiêu thụ đặc biệt",
+   "th": "ประกาศอากรสรรพสามิต",
+   "id": "Pemberitahuan Cukai",
+   "ms": "Pemberitahuan Duti Eksais"
+  },
+  "BN-S-1-2012-PROCLAMATION-UNDER-PARAGRAPH-8-OF-THE-SECOND-1B6384": {
+   "vi": "Công bố theo khoản 8 của Phụ lục thứ hai",
+   "th": "ประกาศตามวรรค 8 ของภาคผนวกที่สอง",
+   "id": "Proklamasi berdasarkan Ayat 8 Jadual Kedua",
+   "ms": "Pengisytiharan di bawah Perenggan 8 Jadual Kedua"
+  },
+  "BN-S-1-2017-PROCLAMATION-UNDER-PARAGRAPH-8-OF-THE-SECOND-C49392": {
+   "vi": "Công bố theo khoản 8 của Phụ lục thứ hai",
+   "th": "ประกาศตามวรรค 8 ของภาคผนวกที่สอง",
+   "id": "Proklamasi berdasarkan Ayat 8 Jadual Kedua",
+   "ms": "Pengisytiharan di bawah Perenggan 8 Jadual Kedua"
+  },
+  "BN-S-1-2019-E-NOTIFICATION-OF-COMMENCEMENT-1": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-1-2022-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-1-2023-PROCLAMATION-UNDER-PARAGRAPH-8-OF-THE-SECOND-C16BD2": {
+   "vi": "Công bố theo khoản 8 của Phụ lục thứ hai",
+   "th": "ประกาศตามวรรค 8 ของภาคผนวกที่สอง",
+   "id": "Proklamasi berdasarkan Ayat 8 Jadual Kedua",
+   "ms": "Pengisytiharan di bawah Perenggan 8 Jadual Kedua"
+  },
+  "BN-S-10-2015-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-10-2020-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522-1": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-10-2025-E-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-105-1959-NOTIFICATION-UNDER-SECTION-12": {
+   "vi": "Thông báo theo Điều 12",
+   "th": "ประกาศตามมาตรา 12",
+   "id": "Pemberitahuan berdasarkan Pasal 12",
+   "ms": "Pemberitahuan di bawah Seksyen 12"
+  },
+  "BN-S-106-1959-NOTIFICATION-UNDER-SECTION-1": {
+   "vi": "Thông báo theo Điều 1",
+   "th": "ประกาศตามมาตรา 1",
+   "id": "Pemberitahuan berdasarkan Pasal 1",
+   "ms": "Pemberitahuan di bawah Seksyen 1"
+  },
+  "BN-S-11-2007-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-11-2011-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-11-2012-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-11-2017-NOTIFICATION-OF-COMMENCEMENT-1": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-11-2020-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-11-2025-E-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-112-2008-NOTIFICATION-UNDER-SECTION-11": {
+   "vi": "Thông báo theo Điều 11",
+   "th": "ประกาศตามมาตรา 11",
+   "id": "Pemberitahuan berdasarkan Pasal 11",
+   "ms": "Pemberitahuan di bawah Seksyen 11"
+  },
+  "BN-S-12-1985-E-LAW-REVISION-OMITTED-LAWS-ORDER-1985": {
+   "vi": "Sắc lệnh luật bị bỏ sót trong hệ thống hóa pháp luật năm 1985",
+   "th": "คำสั่งกฎหมายที่ตกหล่นจากการปรับปรุงกฎหมาย พ.ศ. 2528",
+   "id": "Perintah Undang-Undang yang Terlewat dalam Revisi Hukum Tahun 1985",
+   "ms": "Perintah Undang-Undang yang Tertinggal dalam Semakan Undang-Undang 1985"
+  },
+  "BN-S-12-2003-BRUNEI-NATIONAL-PETROLEUM-COMPANY-SENDIRIAN-A0AC69": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Brunei National Petroleum Company Sendirian Berhad số 2 năm 2003",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งBrunei National Petroleum Company Sendirian Berhad ฉบับที่ 2 พ.ศ. 2546",
+   "id": "Perintah Perubahan Perintah Brunei National Petroleum Company Sendirian Berhad Nomor 2 Tahun 2003",
+   "ms": "Perintah Pindaan Perintah Brunei National Petroleum Company Sendirian Berhad Bilangan 2 2003"
+  },
+  "BN-S-12-2007-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-12-2011-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-12-2017-PROCLAMATION-OF-EMERGENCY": {
+   "vi": "Công bố tình trạng khẩn cấp",
+   "th": "ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Proklamasi Keadaan Darurat",
+   "ms": "Pengisytiharan Darurat"
+  },
+  "BN-S-120-1959-NOTIFICATION-UNDER-SECTION-12": {
+   "vi": "Thông báo theo Điều 12",
+   "th": "ประกาศตามมาตรา 12",
+   "id": "Pemberitahuan berdasarkan Pasal 12",
+   "ms": "Pemberitahuan di bawah Seksyen 12"
+  },
+  "BN-S-13-2017-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-13-2020-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-13-2021-SUPREME-COURT-ACT-AMENDMENT-ORDER-2021": {
+   "vi": "Sắc lệnh sửa đổi Luật Tòa án tối cao năm 2021",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติศาลสูงสุด พ.ศ. 2564",
+   "id": "Perintah Perubahan Undang-Undang Mahkamah Agung Tahun 2021",
+   "ms": "Perintah Pindaan Akta Mahkamah Agung 2021"
+  },
+  "BN-S-137-1971-E-AGRICULTURAL-PESTS-AND-NOXIOUS-PLANTS-EN-8E10E1": {
+   "vi": "Luật Sâu bệnh nông nghiệp và thực vật có hại năm 1962",
+   "th": "พระราชบัญญัติศัตรูพืชและพืชให้โทษทางการเกษตร พ.ศ. 2505",
+   "id": "Undang-Undang Hama Pertanian dan Tumbuhan Pengganggu Tahun 1962",
+   "ms": "Akta Perosak Pertanian dan Tumbuhan Berbahaya 1962"
+  },
+  "BN-S-14-1987-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-31FCC7": {
+   "vi": "Sắc lệnh chuyển giao chức năng và các quy định kèm theo của Hiến pháp năm 1987",
+   "th": "คำสั่งการโอนหน้าที่และบทบัญญัติที่เกี่ยวข้องตามรัฐธรรมนูญ พ.ศ. 2530",
+   "id": "Perintah Pengalihan Fungsi dan Ketentuan Konsekuensial menurut Konstitusi Tahun 1987",
+   "ms": "Perintah Pemindahan Fungsi dan Peruntukan Bersampingan di bawah Perlembagaan 1987"
+  },
+  "BN-S-14-2011-PROCLAMATION-UNDER-ARTICLE-551": {
+   "vi": "Công bố theo Điều 551",
+   "th": "ประกาศตามมาตรา 551",
+   "id": "Proklamasi berdasarkan Pasal 551",
+   "ms": "Pengisytiharan di bawah Perkara 551"
+  },
+  "BN-S-14-2018-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-6547A1": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-14-2025-E-LAND-CODE-AMENDMENT-ORDER-2025": {
+   "vi": "Sắc lệnh sửa đổi Bộ luật Đất đai năm 2025",
+   "th": "คำสั่งแก้ไขเพิ่มเติมประมวลกฎหมายที่ดิน พ.ศ. 2568",
+   "id": "Perintah Perubahan Kitab Undang-Undang Tanah Tahun 2025",
+   "ms": "Perintah Pindaan Kanun Tanah 2025"
+  },
+  "BN-S-15-2017-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-15-2021-SUBORDINATE-COURTS-ACT-AMENDMENT-ORDER-2021": {
+   "vi": "Sắc lệnh sửa đổi Luật Tòa án cấp dưới năm 2021",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติศาลชั้นต้น พ.ศ. 2564",
+   "id": "Perintah Perubahan Undang-Undang Pengadilan Bawahan Tahun 2021",
+   "ms": "Perintah Pindaan Akta Mahkamah Rendah 2021"
+  },
+  "BN-S-15-2025-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-155-1959-NOTIFICATION-UNDER-SECTION-12": {
+   "vi": "Thông báo theo Điều 12",
+   "th": "ประกาศตามมาตรา 12",
+   "id": "Pemberitahuan berdasarkan Pasal 12",
+   "ms": "Pemberitahuan di bawah Seksyen 12"
+  },
+  "BN-S-16-2007-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-6DC896": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-16-2015-PROCLAMATION-OF-EMERGENCY": {
+   "vi": "Công bố tình trạng khẩn cấp",
+   "th": "ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Proklamasi Keadaan Darurat",
+   "ms": "Pengisytiharan Darurat"
+  },
+  "BN-S-16-2022-PROCLAMATION-OF-EMERGENCY": {
+   "vi": "Công bố tình trạng khẩn cấp",
+   "th": "ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Proklamasi Keadaan Darurat",
+   "ms": "Pengisytiharan Darurat"
+  },
+  "BN-S-16-2024-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-17-2004-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-17-2014-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-17-2024-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-18-2010-E-NOTIFICATION-UNDER-SECTION-11": {
+   "vi": "Thông báo theo Điều 11",
+   "th": "ประกาศตามมาตรา 11",
+   "id": "Pemberitahuan berdasarkan Pasal 11",
+   "ms": "Pemberitahuan di bawah Seksyen 11"
+  },
+  "BN-S-18-2025-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-10D3ED": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-19-2000-NOTIFICATION-UNDER-SECTION-11": {
+   "vi": "Thông báo theo Điều 11",
+   "th": "ประกาศตามมาตรา 11",
+   "id": "Pemberitahuan berdasarkan Pasal 11",
+   "ms": "Pemberitahuan di bawah Seksyen 11"
+  },
+  "BN-S-2-2019-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-2-2021-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-2-2022-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-2-2023-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-20-2003-NOTICE-ON-THE-GRANTING-OF-MINERAL-RIGHTS-BY-6AC4EF": {
+   "vi": "Thông báo về việc Quốc vương và Yang di-Pertuan trong Hội đồng cấp quyền khai thác khoáng sản",
+   "th": "ประกาศเกี่ยวกับการให้สิทธิแร่โดยสุลต่านและยังดีเปอร์ตวนในสภาองคมนตรี",
+   "id": "Pemberitahuan tentang Pemberian Hak Mineral oleh Sultan dan Yang di-Pertuan dalam Majlis",
+   "ms": "Pemberitahuan tentang Penganugerahan Hak Mineral oleh Sultan dan Yang Di-Pertuan dalam Majlis"
+  },
+  "BN-S-21-2003-NOTICE-OF-AMENDMENT-ON-THE-GRANTING-OF-MINE-615F12": {
+   "vi": "Thông báo sửa đổi về việc Quốc vương và Yang di-Pertuan cấp quyền khai thác khoáng sản",
+   "th": "ประกาศแก้ไขเพิ่มเติมเกี่ยวกับการให้สิทธิแร่โดยสุลต่านและยังดีเปอร์ตวน",
+   "id": "Pemberitahuan Perubahan tentang Pemberian Hak Mineral oleh Sultan dan Yang di-Pertuan",
+   "ms": "Pemberitahuan Pindaan tentang Penganugerahan Hak Mineral oleh Sultan dan Yang Di-Pertuan"
+  },
+  "BN-S-21-2008-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-22-1998-PROCLAMATION-OF-EMERGENCY": {
+   "vi": "Công bố tình trạng khẩn cấp",
+   "th": "ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Proklamasi Keadaan Darurat",
+   "ms": "Pengisytiharan Darurat"
+  },
+  "BN-S-22-2004-PROCLAMATION-OF-EMERGENCY": {
+   "vi": "Công bố tình trạng khẩn cấp",
+   "th": "ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Proklamasi Keadaan Darurat",
+   "ms": "Pengisytiharan Darurat"
+  },
+  "BN-S-22-2008-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-22-2016-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-23-2014-E-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-23-2022-E-INCOME-TAX-ACT-AMENDMENT-ORDER-2022": {
+   "vi": "Sắc lệnh sửa đổi Luật Thuế thu nhập năm 2022",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติภาษีเงินได้ พ.ศ. 2565",
+   "id": "Perintah Perubahan Undang-Undang Pajak Penghasilan Tahun 2022",
+   "ms": "Perintah Pindaan Akta Cukai Pendapatan 2022"
+  },
+  "BN-S-24-2021-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-25-1981-NOTIFICATION-UNDER-SECTION-1": {
+   "vi": "Thông báo theo Điều 1",
+   "th": "ประกาศตามมาตรา 1",
+   "id": "Pemberitahuan berdasarkan Pasal 1",
+   "ms": "Pemberitahuan di bawah Seksyen 1"
+  },
+  "BN-S-25-2005-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-27-1985-E-REVISED-FEES": {
+   "vi": "Luật Phí sửa đổi",
+   "th": "พระราชบัญญัติค่าธรรมเนียมฉบับปรับปรุง",
+   "id": "Undang-Undang Biaya yang Direvisi",
+   "ms": "Akta Fi Semakan"
+  },
+  "BN-S-27-2010-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522-1": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-28-2006-PROCLAMATION-OF-EMERGENCY": {
+   "vi": "Công bố tình trạng khẩn cấp",
+   "th": "ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Proklamasi Keadaan Darurat",
+   "ms": "Pengisytiharan Darurat"
+  },
+  "BN-S-28-2007-E-INSURANCE-ORDER-2006": {
+   "vi": "Sắc lệnh Bảo hiểm năm 2006",
+   "th": "คำสั่งประกันภัย พ.ศ. 2549",
+   "id": "Perintah Asuransi Tahun 2006",
+   "ms": "Perintah Insurans 2006"
+  },
+  "BN-S-28-2010-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-29-2001-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-29-2006-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-3-2011NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-3-2014-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-3-2019-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-3-2021-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-3-2023-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-30-2006-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-30-2021-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-31-1991-E-CONSTITUTION-OF-UNIVERSITI-BRUNEI-DARUSSA-BBE6FF": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Hiến chương Universiti Brunei Darussalam năm 1991",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งกฎบัตร Universiti Brunei Darussalam พ.ศ. 2534",
+   "id": "Perintah Perubahan Perintah Anggaran Dasar Universiti Brunei Darussalam Tahun 1991",
+   "ms": "Perintah Pindaan Perintah Perlembagaan Universiti Brunei Darussalam 1991"
+  },
+  "BN-S-31-2018-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-31-2022E-MINISTER-FOR-FINANCE-INCORPORATION-AMENDME-CB5442": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Thành lập pháp nhân Bộ trưởng Tài chính năm 2022",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการจัดตั้งนิติบุคคลรัฐมนตรีว่าการกระทรวงการคลัง พ.ศ. 2565",
+   "id": "Perintah Perubahan Perintah Pembentukan Badan Hukum Menteri Keuangan Tahun 2022",
+   "ms": "Perintah Pindaan Perintah Penubuhan Perbadanan Menteri Kewangan 2022"
+  },
+  "BN-S-32-1998-TRANSFER-OF-THE-FUNCTIONS-OF-THE-MINISTER-OF-LAW": {
+   "vi": "Luật chuyển giao chức năng của Bộ trưởng Bộ Tư pháp",
+   "th": "พระราชบัญญัติการโอนหน้าที่ของรัฐมนตรีว่าการกระทรวงยุติธรรม",
+   "id": "Undang-Undang Pengalihan Fungsi Menteri Hukum",
+   "ms": "Akta Pemindahan Fungsi Menteri Undang-Undang"
+  },
+  "BN-S-33-2009-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-33-2018-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-33-2020-E-NOTIFICATION-OF-COMMENCEMENT-1": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-34-2020-CRIMINAL-PROCEDURE-AMENDMENT-ORDER-2020": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Tố tụng hình sự năm 2020",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งวิธีพิจารณาความอาญา พ.ศ. 2563",
+   "id": "Perintah Perubahan Perintah Hukum Acara Pidana Tahun 2020",
+   "ms": "Perintah Pindaan Perintah Tatacara Jenayah 2020"
+  },
+  "BN-S-35-2019-E-NOTIFICATION-OF-COMMENCEMENT-1": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-35-2020-PROCLAMATION-OF-EMERGENCY": {
+   "vi": "Công bố tình trạng khẩn cấp",
+   "th": "ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Proklamasi Keadaan Darurat",
+   "ms": "Pengisytiharan Darurat"
+  },
+  "BN-S-35-2022-E-EXIT-AND-ENTRY-CHARGES-ACT-AMENDMENT-ORDER-2022": {
+   "vi": "Sắc lệnh sửa đổi Luật Phí xuất nhập cảnh năm 2022",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติค่าธรรมเนียมเข้า-ออก พ.ศ. 2565",
+   "id": "Perintah Perubahan Undang-Undang Biaya Keluar dan Masuk Tahun 2022",
+   "ms": "Perintah Pindaan Akta Caj Keluar dan Masuk 2022"
+  },
+  "BN-S-37-2000-PROCLAMATION-OF-EMERGENCY": {
+   "vi": "Công bố tình trạng khẩn cấp",
+   "th": "ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Proklamasi Keadaan Darurat",
+   "ms": "Pengisytiharan Darurat"
+  },
+  "BN-S-37-2020-COMPANIES-ACT-AMENDMENT-ORDER-2020": {
+   "vi": "Sắc lệnh sửa đổi Luật Công ty năm 2020",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติบริษัท พ.ศ. 2563",
+   "id": "Perintah Perubahan Undang-Undang Perusahaan Tahun 2020",
+   "ms": "Perintah Pindaan Akta Syarikat 2020"
+  },
+  "BN-S-38-2002-NOTICE-ON-THE-GRANTING-OF-MINERAL-RIGHTS-BY-7896C7": {
+   "vi": "Thông báo về việc Quốc vương và Yang di-Pertuan trong Hội đồng cấp quyền khai thác khoáng sản",
+   "th": "ประกาศเกี่ยวกับการให้สิทธิแร่โดยสุลต่านและยังดีเปอร์ตวนในสภาองคมนตรี",
+   "id": "Pemberitahuan tentang Pemberian Hak Mineral oleh Sultan dan Yang di-Pertuan dalam Majlis",
+   "ms": "Pemberitahuan tentang Penganugerahan Hak Mineral oleh Sultan dan Yang Di-Pertuan dalam Majlis"
+  },
+  "BN-S-39-2002-NOTICE-ON-THE-GRANTING-OF-MINERAL-RIGHTS-BY-D3863F": {
+   "vi": "Thông báo về việc Quốc vương và Yang di-Pertuan trong Hội đồng cấp quyền khai thác khoáng sản",
+   "th": "ประกาศเกี่ยวกับการให้สิทธิแร่โดยสุลต่านและยังดีเปอร์ตวนในสภาองคมนตรี",
+   "id": "Pemberitahuan tentang Pemberian Hak Mineral oleh Sultan dan Yang di-Pertuan dalam Majlis",
+   "ms": "Pemberitahuan tentang Penganugerahan Hak Mineral oleh Sultan dan Yang Di-Pertuan dalam Majlis"
+  },
+  "BN-S-39-2019-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-39-2023-E-NOTIFICATION-OF-COMMENCEMENT-1": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-4-2005-PUBLIC-HEALTH-FOOD-REGULATIONS": {
+   "vi": "Quy định Thực phẩm vì sức khỏe cộng đồng",
+   "th": "ข้อบังคับอาหารเพื่อสาธารณสุข",
+   "id": "Peraturan Pangan Kesehatan Masyarakat",
+   "ms": "Peraturan Makanan Kesihatan Awam"
+  },
+  "BN-S-4-2008-PROCLAMATION-OF-EMERGENCY": {
+   "vi": "Công bố tình trạng khẩn cấp",
+   "th": "ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Proklamasi Keadaan Darurat",
+   "ms": "Pengisytiharan Darurat"
+  },
+  "BN-S-4-2014-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-40-2002-NOTICE-ON-THE-GRANTING-OF-MINERAL-RIGHTS-BY-0F160C": {
+   "vi": "Thông báo về việc Quốc vương và Yang di-Pertuan trong Hội đồng cấp quyền khai thác khoáng sản",
+   "th": "ประกาศเกี่ยวกับการให้สิทธิแร่โดยสุลต่านและยังดีเปอร์ตวนในสภาองคมนตรี",
+   "id": "Pemberitahuan tentang Pemberian Hak Mineral oleh Sultan dan Yang di-Pertuan dalam Majlis",
+   "ms": "Pemberitahuan tentang Penganugerahan Hak Mineral oleh Sultan dan Yang Di-Pertuan dalam Majlis"
+  },
+  "BN-S-40-2008-E-FINANCE-COMPANIES-ACT-AMENDMENT-ORDER-2006": {
+   "vi": "Sắc lệnh sửa đổi Luật Công ty tài chính năm 2006",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติบริษัทการเงิน พ.ศ. 2549",
+   "id": "Perintah Perubahan Undang-Undang Perusahaan Pembiayaan Tahun 2006",
+   "ms": "Perintah Pindaan Akta Syarikat Kewangan 2006"
+  },
+  "BN-S-40-2011-NOTICE-ON-THE-GRANTING-OF-MINERAL-RIGHTS-BY-7F273B": {
+   "vi": "Thông báo về việc Quốc vương và Yang di-Pertuan trong Hội đồng cấp quyền khai thác khoáng sản",
+   "th": "ประกาศเกี่ยวกับการให้สิทธิแร่โดยสุลต่านและยังดีเปอร์ตวนในสภาองคมนตรี",
+   "id": "Pemberitahuan tentang Pemberian Hak Mineral oleh Sultan dan Yang di-Pertuan dalam Majlis",
+   "ms": "Pemberitahuan tentang Penganugerahan Hak Mineral oleh Sultan dan Yang Di-Pertuan dalam Majlis"
+  },
+  "BN-S-40-2019-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-41-2011-E-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-41-2020-E-IMMIGRATION-ACT-AMENDMENT-ORDER-2020": {
+   "vi": "Sắc lệnh sửa đổi Luật Nhập cảnh năm 2020",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติตรวจคนเข้าเมือง พ.ศ. 2563",
+   "id": "Perintah Perubahan Undang-Undang Keimigrasian Tahun 2020",
+   "ms": "Perintah Pindaan Akta Imigresen 2020"
+  },
+  "BN-S-44-2020-WORKPLACE-SAFETY-AND-HEALTH-AMENDMENT-ORDER-2020": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh An toàn và sức khỏe tại nơi làm việc năm 2020",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งความปลอดภัยและอาชีวอนามัยในสถานที่ทำงาน พ.ศ. 2563",
+   "id": "Perintah Perubahan Perintah Keselamatan dan Kesehatan Kerja Tahun 2020",
+   "ms": "Perintah Pindaan Perintah Keselamatan dan Kesihatan Pekerjaan 2020"
+  },
+  "BN-S-44-2024-PROCLAMATION-OF-EMERGENCY": {
+   "vi": "Công bố tình trạng khẩn cấp",
+   "th": "ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Proklamasi Keadaan Darurat",
+   "ms": "Pengisytiharan Darurat"
+  },
+  "BN-S-45-2016-PROCLAMATION-UNDER-ARTICLE-551": {
+   "vi": "Công bố theo Điều 551",
+   "th": "ประกาศตามมาตรา 551",
+   "id": "Proklamasi berdasarkan Pasal 551",
+   "ms": "Pengisytiharan di bawah Perkara 551"
+  },
+  "BN-S-46-2010-NOTICE-ON-THE-GRANTING-OF-MINERAL-RIGHTS-BY-2D14B6": {
+   "vi": "Thông báo về việc Quốc vương và Yang di-Pertuan trong Hội đồng cấp quyền khai thác khoáng sản",
+   "th": "ประกาศเกี่ยวกับการให้สิทธิแร่โดยสุลต่านและยังดีเปอร์ตวนในสภาองคมนตรี",
+   "id": "Pemberitahuan tentang Pemberian Hak Mineral oleh Sultan dan Yang di-Pertuan dalam Majlis",
+   "ms": "Pemberitahuan tentang Penganugerahan Hak Mineral oleh Sultan dan Yang Di-Pertuan dalam Majlis"
+  },
+  "BN-S-46-2011-E-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-48-2011-PROCLAMATION-OF-EMERGENCY": {
+   "vi": "Công bố tình trạng khẩn cấp",
+   "th": "ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Proklamasi Keadaan Darurat",
+   "ms": "Pengisytiharan Darurat"
+  },
+  "BN-S-5-2003-E-NOTIFICATION-UNDER-SECTION-11": {
+   "vi": "Thông báo theo Điều 11",
+   "th": "ประกาศตามมาตรา 11",
+   "id": "Pemberitahuan berdasarkan Pasal 11",
+   "ms": "Pemberitahuan di bawah Seksyen 11"
+  },
+  "BN-S-50-2001-NOTIFICATION-UNDER-SECTION-11": {
+   "vi": "Thông báo theo Điều 11",
+   "th": "ประกาศตามมาตรา 11",
+   "id": "Pemberitahuan berdasarkan Pasal 11",
+   "ms": "Pemberitahuan di bawah Seksyen 11"
+  },
+  "BN-S-51-2004-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-52-2018-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-54-2011-E-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-54-2018-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-55-2005-E-NOTIFICATION-UNDER-SECTION-11": {
+   "vi": "Thông báo theo Điều 11",
+   "th": "ประกาศตามมาตรา 11",
+   "id": "Pemberitahuan berdasarkan Pasal 11",
+   "ms": "Pemberitahuan di bawah Seksyen 11"
+  },
+  "BN-S-57-2005-PROCLAMATION-UNDER-ARTICLE-551": {
+   "vi": "Công bố theo Điều 551",
+   "th": "ประกาศตามมาตรา 551",
+   "id": "Proklamasi berdasarkan Pasal 551",
+   "ms": "Pengisytiharan di bawah Perkara 551"
+  },
+  "BN-S-57-2006-E-NOTIFICATION-UNDER-SECTION-11": {
+   "vi": "Thông báo theo Điều 11",
+   "th": "ประกาศตามมาตรา 11",
+   "id": "Pemberitahuan berdasarkan Pasal 11",
+   "ms": "Pemberitahuan di bawah Seksyen 11"
+  },
+  "BN-S-58-2013-PROCLAMATION-OF-EMERGENCY-1": {
+   "vi": "Công bố tình trạng khẩn cấp",
+   "th": "ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Proklamasi Keadaan Darurat",
+   "ms": "Pengisytiharan Darurat"
+  },
+  "BN-S-59-2001-CENSUS-RULES-2001": {
+   "vi": "Quy tắc Điều tra dân số năm 2001",
+   "th": "ข้อกำหนดสำมะโน พ.ศ. 2544",
+   "id": "Peraturan Sensus Tahun 2001",
+   "ms": "Kaedah Banci 2001"
+  },
+  "BN-S-59-2015-E-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-6-2023-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLA-192C2E": {
+   "vi": "Thông báo về các sắc lệnh được Hội đồng Lập pháp thông qua theo Điều 837",
+   "th": "ประกาศคำสั่งที่สภาที่ปรึกษานิติบัญญัติให้ความเห็นชอบตามมาตรา 837",
+   "id": "Pemberitahuan tentang Perintah yang Disahkan oleh Dewan Legislatif berdasarkan Pasal 837",
+   "ms": "Pemberitahuan Perintah yang Diluluskan oleh Majlis Mesyuarat Negara di bawah Perkara 837"
+  },
+  "BN-S-6-2025-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-60-2000-E-NOTIFICATION-UNDER-SECTION-11": {
+   "vi": "Thông báo theo Điều 11",
+   "th": "ประกาศตามมาตรา 11",
+   "id": "Pemberitahuan berdasarkan Pasal 11",
+   "ms": "Pemberitahuan di bawah Seksyen 11"
+  },
+  "BN-S-60-2005-PROCLAMATION-UNDER-PARAGRAPH-8-OF-THE-SECON-59D933": {
+   "vi": "Công bố theo khoản 8 của Phụ lục thứ hai",
+   "th": "ประกาศตามวรรค 8 ของภาคผนวกที่สอง",
+   "id": "Proklamasi berdasarkan Ayat 8 Jadual Kedua",
+   "ms": "Pengisytiharan di bawah Perenggan 8 Jadual Kedua"
+  },
+  "BN-S-60-2015-E-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-61-2000-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-61-2002-E-NOTIFICATION-UNDER-SECTION-11": {
+   "vi": "Thông báo theo Điều 11",
+   "th": "ประกาศตามมาตรา 11",
+   "id": "Pemberitahuan berdasarkan Pasal 11",
+   "ms": "Pemberitahuan di bawah Seksyen 11"
+  },
+  "BN-S-62-2000-E-NOTIFICATION-UNDER-SECTION-11": {
+   "vi": "Thông báo theo Điều 11",
+   "th": "ประกาศตามมาตรา 11",
+   "id": "Pemberitahuan berdasarkan Pasal 11",
+   "ms": "Pemberitahuan di bawah Seksyen 11"
+  },
+  "BN-S-63-2000-NOTIFICATION-UNDER-SECTION-11": {
+   "vi": "Thông báo theo Điều 11",
+   "th": "ประกาศตามมาตรา 11",
+   "id": "Pemberitahuan berdasarkan Pasal 11",
+   "ms": "Pemberitahuan di bawah Seksyen 11"
+  },
+  "BN-S-64-2008-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-65-2014-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-66-2004-NOTICE-ON-THE-GRANTING-OF-MINERAL-RIGHTS-BY-6C5F30": {
+   "vi": "Thông báo về việc Quốc vương và Yang di-Pertuan trong Hội đồng cấp quyền khai thác khoáng sản",
+   "th": "ประกาศเกี่ยวกับการให้สิทธิแร่โดยสุลต่านและยังดีเปอร์ตวนในสภาองคมนตรี",
+   "id": "Pemberitahuan tentang Pemberian Hak Mineral oleh Sultan dan Yang di-Pertuan dalam Majlis",
+   "ms": "Pemberitahuan tentang Penganugerahan Hak Mineral oleh Sultan dan Yang Di-Pertuan dalam Majlis"
+  },
+  "BN-S-68-2018-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-69-2017-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-69-2018-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-7-2009-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-7-2018-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-7-2021-COMPETITION-REGULATIONS-2020": {
+   "vi": "Quy định Cạnh tranh năm 2020",
+   "th": "ข้อบังคับการแข่งขันทางการค้า พ.ศ. 2563",
+   "id": "Peraturan Persaingan Usaha Tahun 2020",
+   "ms": "Peraturan Persaingan 2020"
+  },
+  "BN-S-7-2022-PROCLAMATION-UNDER-ARTICLE-551": {
+   "vi": "Công bố theo Điều 551",
+   "th": "ประกาศตามมาตรา 551",
+   "id": "Proklamasi berdasarkan Pasal 551",
+   "ms": "Pengisytiharan di bawah Perkara 551"
+  },
+  "BN-S-7-2025-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-70-2018-PROCLAMATION-OF-EMERGENCY": {
+   "vi": "Công bố tình trạng khẩn cấp",
+   "th": "ประกาศสถานการณ์ฉุกเฉิน",
+   "id": "Proklamasi Keadaan Darurat",
+   "ms": "Pengisytiharan Darurat"
+  },
+  "BN-S-73-2001-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-74-2017-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-76-2005-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-78-2000-NOTIFICATION-UNDER-SECTION-11": {
+   "vi": "Thông báo theo Điều 11",
+   "th": "ประกาศตามมาตรา 11",
+   "id": "Pemberitahuan berdasarkan Pasal 11",
+   "ms": "Pemberitahuan di bawah Seksyen 11"
+  },
+  "BN-S-8-2009-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-8-2013-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-8-2016-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-8-2018-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-8-2026-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-80-2006-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-80-2010-NOTICE-ON-THE-GRANTING-OF-MINERAL-RIGHTS-BY-CEA884": {
+   "vi": "Thông báo về việc Quốc vương và Yang di-Pertuan trong Hội đồng cấp quyền khai thác khoáng sản",
+   "th": "ประกาศเกี่ยวกับการให้สิทธิแร่โดยสุลต่านและยังดีเปอร์ตวนในสภาองคมนตรี",
+   "id": "Pemberitahuan tentang Pemberian Hak Mineral oleh Sultan dan Yang di-Pertuan dalam Majlis",
+   "ms": "Pemberitahuan tentang Penganugerahan Hak Mineral oleh Sultan dan Yang Di-Pertuan dalam Majlis"
+  },
+  "BN-S-9-2013-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-9-2015-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-9-2016-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411": {
+   "vi": "Chứng nhận tính cấp bách theo Điều 411",
+   "th": "การรับรองความเร่งด่วนตามมาตรา 411",
+   "id": "Sertifikasi Keadaan Mendesak berdasarkan Pasal 411",
+   "ms": "Pensijilan Keadaan Mendesak di bawah Perkara 411"
+  },
+  "BN-S-9-2026-PROCLAMATION-AND-NOTICE-UNDER-ARTICLE-522": {
+   "vi": "Công bố và thông báo theo Điều 522",
+   "th": "ประกาศและแจ้งความตามมาตรา 522",
+   "id": "Proklamasi dan Pemberitahuan berdasarkan Pasal 522",
+   "ms": "Pengisytiharan dan Pemberitahuan di bawah Perkara 522"
+  },
+  "BN-S-92-2017-E-NOTIFICATION-OF-COMMENCEMENT": {
+   "vi": "Thông báo ngày bắt đầu có hiệu lực",
+   "th": "ประกาศวันเริ่มใช้บังคับ",
+   "id": "Pemberitahuan Mulai Berlakunya",
+   "ms": "Pemberitahuan Permulaan Berkuat Kuasa"
+  },
+  "BN-S-93-2010-NOTICE-ON-THE-GRANTING-OF-MINERAL-RIGHTS-BY-2D2B38": {
+   "vi": "Thông báo về việc Quốc vương và Yang di-Pertuan trong Hội đồng cấp quyền khai thác khoáng sản",
+   "th": "ประกาศเกี่ยวกับการให้สิทธิแร่โดยสุลต่านและยังดีเปอร์ตวนในสภาองคมนตรี",
+   "id": "Pemberitahuan tentang Pemberian Hak Mineral oleh Sultan dan Yang di-Pertuan dalam Majlis",
+   "ms": "Pemberitahuan tentang Penganugerahan Hak Mineral oleh Sultan dan Yang Di-Pertuan dalam Majlis"
+  },
+  "BN-S-94-2010-NOTICE-ON-THE-GRANTING-OF-MINERAL-RIGHTS-BY-C11D34": {
+   "vi": "Thông báo về việc Quốc vương và Yang di-Pertuan trong Hội đồng cấp quyền khai thác khoáng sản",
+   "th": "ประกาศเกี่ยวกับการให้สิทธิแร่โดยสุลต่านและยังดีเปอร์ตวนในสภาองคมนตรี",
+   "id": "Pemberitahuan tentang Pemberian Hak Mineral oleh Sultan dan Yang di-Pertuan dalam Majlis",
+   "ms": "Pemberitahuan tentang Penganugerahan Hak Mineral oleh Sultan dan Yang Di-Pertuan dalam Majlis"
+  }
+ }
+}

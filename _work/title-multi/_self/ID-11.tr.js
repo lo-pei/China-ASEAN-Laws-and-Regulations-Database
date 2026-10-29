@@ -1,0 +1,192 @@
+// self-ID-11 译文表：仅含五语译文，印尼语原题由 build.js 从 pending-ID.json 回填
+module.exports = {
+  'ID-H829': {
+    zh: '在中爪哇省三宝垄县设立普林加普斯区',
+    en: 'Law No. 48 of 1996 on the Establishment of Pringapus Sub-district in Semarang Regency within the Province of Central Java',
+    vi: 'Luật số 48 năm 1996 về việc thành lập xã Pringapus thuộc huyện Semarang trong tỉnh Trung Java',
+    th: 'พระราชบัญญัติเลขที่ 48 ปี 1996 ว่าด้วยการจัดตั้งตำบล Pringapus ในเขตอำเภอ Semarang ในจังหวัดชวากลาง',
+    ms: 'Akta No. 48 Tahun 1996 tentang Penubuhan Kecamatan Pringapus di Wilayah Kabupaten Semarang dalam Wilayah Provinsi Jawa Tengah'
+  },
+  'ID-H836': {
+    zh: '在印度尼西亚境内居留的外国人拥有住房或居所',
+    en: 'Law No. 41 of 1996 on the Ownership of Residential Houses or Dwellings by Foreigners Residing in Indonesia',
+    vi: 'Luật số 41 năm 1996 về việc người nước ngoài cư trú tại Indonesia sở hữu nhà ở',
+    th: 'พระราชบัญญัติเลขที่ 41 ปี 1996 ว่าด้วยการถือกรรมสิทธิ์บ้านพักอาศัยหรือที่พักอาศัยของชาวต่างชาติที่พำนักในอินโดนีเซีย',
+    ms: 'Akta No. 41 Tahun 1996 tentang Pemilikan Rumah Kediaman atau Kediaman oleh Orang Asing yang Berkedudukan di Indonesia'
+  },
+  'ID-H842': {
+    zh: '劳动者社会保险计划资金的管理与投资',
+    en: "Law No. 28 of 1996 on the Management and Investment of Funds of the Workers' Social Security Programme",
+    vi: 'Luật số 28 năm 1996 về việc quản lý và đầu tư quỹ của Chương trình Bảo hiểm Xã hội cho Người lao động',
+    th: 'พระราชบัญญัติเลขที่ 28 ปี 1996 ว่าด้วยการบริหารและการลงทุนเงินทุนของโครงการประกันสังคมสำหรับแรงงาน',
+    ms: 'Akta No. 28 Tahun 1996 tentang Pengurusan dan Pelaburan Dana Program Jaminan Sosial Tenaga Kerja'
+  },
+  'ID-H848': {
+    zh: '旅游业的举办',
+    en: 'Law No. 67 of 1996 on the Conduct of Tourism',
+    vi: 'Luật số 67 năm 1996 về việc tổ chức hoạt động du lịch',
+    th: 'พระราชบัญญัติเลขที่ 67 ปี 1996 ว่าด้วยการดำเนินการด้านการท่องเที่ยว',
+    ms: 'Akta No. 67 Tahun 1996 tentang Penyelenggaraan Pelancongan'
+  },
+  'ID-H854': {
+    zh: '出口生产保税仓库（EPTE）地位应税企业及保税区（KB）加工企业所适用的税务待遇',
+    en: 'Law No. 3 of 1996 on Tax Treatment for Taxable Entrepreneurs with Export Production Entrepot (EPTE) Status and Processing Companies in Bonded Zones (KB)',
+    vi: 'Luật số 3 năm 1996 về chế độ thuế đối với doanh nghiệp chịu thuế có tư cách kho ngoại quan sản xuất xuất khẩu (EPTE) và doanh nghiệp chế biến trong khu vực kho ngoại quan (KB)',
+    th: 'พระราชบัญญัติเลขที่ 3 ปี 1996 ว่าด้วยการปฏิบัติทางภาษีสำหรับผู้ประกอบการที่ต้องเสียภาษีซึ่งมีสถานะคลังสินค้าทัณฑ์บนเพื่อการผลิตเพื่อส่งออก (EPTE) และสถานประกอบการแปรรูปในเขตทัณฑ์บน (KB)',
+    ms: 'Akta No. 3 Tahun 1996 tentang Layanan Percukaian bagi Usahawan Kena Cukai Berstatus Entrepot Pengeluaran untuk Tujuan Eksport (EPTE) dan Syarikat Pemprosesan di Kawasan Berikat (KB)'
+  },
+  'ID-H856': {
+    zh: '1995/1996财政年度国家收支预算的修改',
+    en: 'Law No. 3 of 1996 on the Amendment to the State Budget for the 1995/1996 Fiscal Year',
+    vi: 'Luật số 3 năm 1996 về việc sửa đổi Ngân sách Nhà nước năm ngân sách 1995/1996',
+    th: 'พระราชบัญญัติเลขที่ 3 ปี 1996 ว่าด้วยการแก้ไขงบประมาณรายรับรายจ่ายแผ่นดิน ปีงบประมาณ 1995/1996',
+    ms: 'Akta No. 3 Tahun 1996 tentang Pindaan Anggaran Pendapatan dan Belanja Negara Tahun Bajet 1995/1996'
+  },
+  'ID-H868': {
+    zh: '印度尼西亚国民军军人纪律法',
+    en: 'Law No. 26 of 1997 on the Disciplinary Law for Soldiers of the Armed Forces of the Republic of Indonesia',
+    vi: 'Luật số 26 năm 1997 về Luật Kỷ luật đối với quân nhân lực lượng vũ trang Cộng hòa Indonesia',
+    th: 'พระราชบัญญัติเลขที่ 26 ปี 1997 ว่าด้วยกฎหมายวินัยสำหรับทหารแห่งกองทัพสาธารณรัฐอินโดนีเซีย',
+    ms: 'Akta No. 26 Tahun 1997 tentang Undang-Undang Disiplin Prajurit Angkatan Bersenjata Republik Indonesia'
+  },
+  'ID-H882': {
+    zh: '土地和/或建筑物权利取得的报告或申报',
+    en: 'Law No. 34 of 1997 on the Reporting or Notification of the Acquisition of Rights to Land and/or Buildings',
+    vi: 'Luật số 34 năm 1997 về việc báo cáo hoặc thông báo việc có được quyền sử dụng đất và/hoặc công trình',
+    th: 'พระราชบัญญัติเลขที่ 34 ปี 1997 ว่าด้วยการรายงานหรือการแจ้งการได้มาซึ่งสิทธิในที่ดินและ/หรืออาคาร',
+    ms: 'Akta No. 34 Tahun 1997 tentang Pelaporan atau Pemberitahuan Perolehan Hak atas Tanah dan/atau Bangunan'
+  },
+  'ID-H883': {
+    zh: '土地与建筑物权利取得税收入在中央政府与地方政府之间的分配',
+    en: 'Law No. 33 of 1997 on the Distribution of Revenue from the Duty on the Acquisition of Rights to Land and Buildings between the Central Government and Regional Governments',
+    vi: 'Luật số 33 năm 1997 về việc phân chia nguồn thu lệ phí có được quyền sử dụng đất và công trình giữa Chính phủ Trung ương và chính quyền địa phương',
+    th: 'พระราชบัญญัติเลขที่ 33 ปี 1997 ว่าด้วยการแบ่งรายได้จากอากรการได้มาซึ่งสิทธิในที่ดินและอาคารระหว่างรัฐบาลกลางและรัฐบาลท้องถิ่น',
+    ms: 'Akta No. 33 Tahun 1997 tentang Pembahagian Hasil Penerimaan Duti Perolehan Hak atas Tanah dan Bangunan antara Kerajaan Pusat dan Kerajaan Daerah'
+  },
+  'ID-H884': {
+    zh: '税务争议解决机构主席、副主席或成员的免职与解聘及其权利',
+    en: 'Law No. 37 of 1997 on the Discharge and Dismissal of the Chairperson, Deputy Chairperson or Members of the Tax Dispute Settlement Body and Their Rights',
+    vi: 'Luật số 37 năm 1997 về việc miễn nhiệm và bãi nhiệm Chủ tịch, Phó Chủ tịch hoặc thành viên Cơ quan Giải quyết Tranh chấp Thuế cùng các quyền của họ',
+    th: 'พระราชบัญญัติเลขที่ 37 ปี 1997 ว่าด้วยการพ้นจากหน้าที่และการถอดถอนประธาน รองประธาน หรือกรรมการของคณะกรรมการระงับข้อพิพาทภาษีตลอดจนสิทธิของบุคคลเหล่านั้น',
+    ms: 'Akta No. 37 Tahun 1997 tentang Pelepasan Tugas dan Pemberhentian Pengerusi, Timbalan Pengerusi atau Anggota Badan Penyelesaian Pertikaian Cukai serta Hak-Hak Mereka'
+  },
+  'ID-H900': {
+    zh: '用于计算土地与建筑物税的应税销售价值的确定',
+    en: 'Law No. 48 of 1997 on the Determination of the Sales Value Subject to Tax for the Computation of Land and Building Tax',
+    vi: 'Luật số 48 năm 1997 về việc xác định giá trị bán chịu thuế để tính thuế nhà đất',
+    th: 'พระราชบัญญัติเลขที่ 48 ปี 1997 ว่าด้วยการกำหนดมูลค่าขายที่ต้องเสียภาษีเพื่อการคำนวณภาษีที่ดินและสิ่งปลูกสร้าง',
+    ms: 'Akta No. 48 Tahun 1997 tentang Penetapan Nilai Jualan Kena Cukai bagi Pengiraan Cukai Bumi dan Bangunan'
+  },
+  'ID-H907': {
+    zh: '因遗嘱赠与而征收的土地与建筑物权利取得税',
+    en: 'Law No. 35 of 1997 on the Imposition of Duty on the Acquisition of Rights to Land and Buildings by Reason of Testamentary Gift',
+    vi: 'Luật số 35 năm 1997 về việc áp lệ phí có được quyền sử dụng đất và công trình do tặng cho theo di chúc',
+    th: 'พระราชบัญญัติเลขที่ 35 ปี 1997 ว่าด้วยการเรียกเก็บอากรการได้มาซึ่งสิทธิในที่ดินและอาคารเนื่องจากการให้โดยพินัยกรรม',
+    ms: 'Akta No. 35 Tahun 1997 tentang Pengenaan Duti Perolehan Hak atas Tanah dan Bangunan kerana Hibah Wasiat'
+  },
+  'ID-H908': {
+    zh: '因授予管理权而征收的土地与建筑物权利取得税',
+    en: 'Law No. 36 of 1997 on the Imposition of Duty on the Acquisition of Rights to Land and Buildings by Reason of the Grant of Management Rights',
+    vi: 'Luật số 36 năm 1997 về việc áp lệ phí có được quyền sử dụng đất và công trình do việc giao quyền quản lý',
+    th: 'พระราชบัญญัติเลขที่ 36 ปี 1997 ว่าด้วยการเรียกเก็บอากรการได้มาซึ่งสิทธิในที่ดินและอาคารเนื่องจากการให้สิทธิในการบริหารจัดการ',
+    ms: 'Akta No. 36 Tahun 1997 tentang Pengenaan Duti Perolehan Hak atas Tanah dan Bangunan kerana Pemberian Hak Pengelolaan'
+  },
+  'ID-H936': {
+    zh: '印度尼西亚群岛在纳土纳海的基点地理坐标表',
+    en: 'Law No. 61 of 1998 on the List of Geographical Coordinates of the Basepoints of the Indonesian Archipelago in the Natuna Sea',
+    vi: 'Luật số 61 năm 1998 về Danh mục Tọa độ Địa lý các Điểm Cơ sở của Quần đảo Indonesia tại Biển Natuna',
+    th: 'พระราชบัญญัติเลขที่ 61 ปี 1998 ว่าด้วยรายการพิกัดภูมิศาสตร์ของจุดฐานของหมู่เกาะอินโดนีเซียในทะเลนาตูนา',
+    ms: 'Akta No. 61 Tahun 1998 tentang Senarai Koordinat Geografi Titik-Titik Garis Dasar Kepulauan Indonesia di Laut Natuna'
+  },
+  'ID-H969': {
+    zh: '暂缓施行配备和使用安全带义务',
+    en: 'Law No. 71 of 1998 on the Deferral of the Enforcement of the Obligation to Equip and Use Safety Belts',
+    vi: 'Luật số 71 năm 1998 về việc hoãn thi hành nghĩa vụ trang bị và sử dụng dây an toàn',
+    th: 'พระราชบัญญัติเลขที่ 71 ปี 1998 ว่าด้วยการระงับการบังคับใช้หน้าที่ในการติดตั้งและใช้เข็มขัดนิรภัย',
+    ms: 'Akta No. 71 Tahun 1998 tentang Penangguhan Penguatkuasaan Kewajipan Melengkapi dan Menggunakan Tali Pinggang Keselamatan'
+  },
+  'ID-H972': {
+    zh: '用于计算土地与建筑物税的应税销售价值的确定',
+    en: 'Law No. 51 of 1998 on the Determination of the Sales Value Subject to Tax for the Computation of Land and Building Tax',
+    vi: 'Luật số 51 năm 1998 về việc xác định giá trị bán chịu thuế để tính thuế nhà đất',
+    th: 'พระราชบัญญัติเลขที่ 51 ปี 1998 ว่าด้วยการกำหนดมูลค่าขายที่ต้องเสียภาษีเพื่อการคำนวณภาษีที่ดินและสิ่งปลูกสร้าง',
+    ms: 'Akta No. 51 Tahun 1998 tentang Penetapan Nilai Jualan Kena Cukai bagi Pengiraan Cukai Bumi dan Bangunan'
+  },
+  'ID-H976': {
+    zh: '将财政部部长作为国有公司股东或股东大会的地位、职责与权限移交国有企业国务部长',
+    en: 'Law No. 50 of 1998 on the Transfer of the Position, Duties and Authority of the Minister of Finance as Shareholder or General Meeting of Shareholders in State-Owned Companies to the State Minister for the Utilisation of State-Owned Enterprises',
+    vi: 'Luật số 50 năm 1998 về việc chuyển giao vị trí, nhiệm vụ và thẩm quyền của Bộ trưởng Bộ Tài chính với tư cách cổ đông hoặc Đại hội đồng cổ đông tại các công ty nhà nước cho Bộ trưởng Nhà nước phụ trách việc sử dụng doanh nghiệp nhà nước',
+    th: 'พระราชบัญญัติเลขที่ 50 ปี 1998 ว่าด้วยการโอนฐานะ หน้าที่ และอำนาจของรัฐมนตรีว่าการกระทรวงการคลังในฐานะผู้ถือหุ้นหรือที่ประชุมผู้ถือหุ้นในบริษัทของรัฐ ให้แก่รัฐมนตรีว่าการกระทรวงใช้ประโยชน์รัฐวิสาหกิจ',
+    ms: 'Akta No. 50 Tahun 1998 tentang Pemindahan Kedudukan, Tugas dan Kuasa Menteri Kewangan selaku Pemegang Saham atau Mesyuarat Agung Pemegang Saham dalam Perusahaan Perseroan kepada Menteri Negara Pendayagunaan Badan Usaha Milik Negara'
+  },
+  'ID-H980': {
+    zh: '减少印度尼西亚共和国在印度尼西亚水泥公司（PT Semen Gresik Tbk）国有公司的国家出资',
+    en: 'Law No. 76 of 1998 on the Reduction of the State Capital Participation of the Republic of Indonesia in the State-Owned Company (Persero) PT Semen Gresik Tbk',
+    vi: 'Luật số 76 năm 1998 về việc giảm vốn góp của Nhà nước Cộng hòa Indonesia tại Công ty Nhà nước (Persero) PT Semen Gresik Tbk',
+    th: 'พระราชบัญญัติเลขที่ 76 ปี 1998 ว่าด้วยการลดการถือหุ้นทุนของรัฐแห่งสาธารณรัฐอินโดนีเซียในบริษัทของรัฐ (Persero) PT Semen Gresik Tbk',
+    ms: 'Akta No. 76 Tahun 1998 tentang Pengurangan Penyertaan Modal Negara Republik Indonesia pada Perusahaan Perseroan (Persero) PT Semen Gresik Tbk'
+  },
+  'ID-H992': {
+    zh: '1997/1998财政年度国家收支预算的修改',
+    en: 'Law No. 2 of 1998 on the Amendment to the State Budget for the 1997/1998 Fiscal Year',
+    vi: 'Luật số 2 năm 1998 về việc sửa đổi Ngân sách Nhà nước năm ngân sách 1997/1998',
+    th: 'พระราชบัญญัติเลขที่ 2 ปี 1998 ว่าด้วยการแก้ไขงบประมาณรายรับรายจ่ายแผ่นดิน ปีงบประมาณ 1997/1998',
+    ms: 'Akta No. 2 Tahun 1998 tentang Pindaan Anggaran Pendapatan dan Belanja Negara Tahun Bajet 1997/1998'
+  },
+  'ID-H1781': {
+    zh: '废弃物管理',
+    en: 'Law No. 18 of 2008 on Waste Management',
+    vi: 'Luật số 18 năm 2008 về Quản lý Chất thải',
+    th: 'พระราชบัญญัติเลขที่ 18 ปี 2008 ว่าด้วยการบริหารจัดการขยะ',
+    ms: 'Akta No. 18 Tahun 2008 tentang Pengurusan Sampah'
+  },
+  'ID-H1789': {
+    zh: '化学品的使用',
+    en: 'Law No. 9 of 2008 on the Use of Chemicals',
+    vi: 'Luật số 9 năm 2008 về Việc sử dụng Hóa chất',
+    th: 'พระราชบัญญัติเลขที่ 9 ปี 2008 ว่าด้วยการใช้สารเคมี',
+    ms: 'Akta No. 9 Tahun 2008 tentang Penggunaan Bahan Kimia'
+  },
+  'ID-H1815': {
+    zh: '特许经营的举办',
+    en: 'Conduct of Franchising',
+    vi: 'Việc tổ chức hoạt động nhượng quyền thương mại',
+    th: 'การดำเนินธุรกิจแฟรนไชส์',
+    ms: 'Penyelenggaraan Francais'
+  },
+  'ID-H2032': {
+    zh: '可从总收入中扣除的具有强制性质的宗教捐赠（天课）',
+    en: 'Zakat or Mandatory Religious Donations that May Be Deducted from Gross Income',
+    vi: 'Zakat hoặc các khoản đóng góp tôn giáo mang tính bắt buộc được trừ khỏi thu nhập gộp',
+    th: 'ซะกาตหรือเงินบริจาคทางศาสนาที่มีลักษณะบังคับซึ่งสามารถหักจากรายได้ขั้นต้น',
+    ms: 'Zakat atau Sumbangan Keagamaan yang Bersifat Wajib yang Boleh Ditolak daripada Pendapatan Kasar'
+  },
+  'ID-H2044': {
+    zh: '贸易部国家公务员道德准则',
+    en: 'Code of Ethics for Civil Servants within the Ministry of Trade',
+    vi: 'Quy tắc Đạo đức đối với Công chức Nhà nước trong nội bộ Bộ Thương mại',
+    th: 'จรรยาบรรณของข้าราชการพลเรือนภายในกระทรวงการค้า',
+    ms: 'Kod Etika Pegawai Perkhidmatan Awam di Persekitaran Kementerian Perdagangan'
+  },
+  'ID-H2077': {
+    zh: '确定地热能源企业 Geo Dipa 为国有公司（Persero）',
+    en: 'Determination of PT Geo Dipa Energi as the State-Owned Company (Persero) PT Geo Dipa Energi',
+    vi: 'Việc xác định PT Geo Dipa Energi là Công ty Nhà nước (Persero) PT Geo Dipa Energi',
+    th: 'การกำหนดให้ PT Geo Dipa Energi เป็นบริษัทของรัฐ (Persero) PT Geo Dipa Energi',
+    ms: 'Penetapan PT Geo Dipa Energi sebagai Perusahaan Perseroan (Persero) PT Geo Dipa Energi'
+  },
+  'ID-H2112': {
+    zh: '省与县/市投资领域最低服务标准',
+    en: 'Minimum Service Standards in the Field of Investment for Provinces and Regencies/Municipalities',
+    vi: 'Tiêu chuẩn Dịch vụ Tối thiểu trong lĩnh vực Đầu tư của tỉnh và huyện/thành phố',
+    th: 'มาตรฐานการบริการขั้นต่ำด้านการลงทุนของจังหวัดและอำเภอ/เทศบาล',
+    ms: 'Standard Perkhidmatan Minimum Bidang Pelaburan Provinsi dan Kabupaten/Kota'
+  },
+  'ID-H2145': {
+    zh: '指定东库台县政府作为仲裁程序一方当事人',
+    en: 'Appointment of the Government of East Kutai Regency to Be a Party in the Arbitration Process',
+    vi: 'Việc chỉ định Chính quyền huyện Kutai Timur làm một bên trong quá trình trọng tài',
+    th: 'การแต่งตั้งรัฐบาลอำเภอ Kutai Timur ให้เป็นคู่ความในกระบวนการอนุญาโตตุลาการ',
+    ms: 'Penunjukan Pemerintah Kabupaten Kutai Timur untuk Menjadi Pihak dalam Proses Timbang Tara'
+  }
+};

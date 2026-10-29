@@ -612,30 +612,14 @@ mark.law-find-hit {
 .ai-main__body.is-empty .ai-disclaimer { display: none; }
 
 /* ==========================================================================
-   历史对话增强：置顶 / ⋯菜单 / 重命名 / 多选
+   历史对话增强：置顶 / ⋯菜单 / 重命名
    ========================================================================== */
 /* 左右两栏强制等高 */
 /* 左右等高：高度已由 .ai-layout 统一决定，此处只声明撑满（不要再设 max-height） */
 .ai-layout { align-items: stretch; }
 .ai-history { height: 100%; align-self: stretch; }
 
-/* 多选工具条 */
-.ai-selbar {
-  display: flex; align-items: center; gap: 6px; flex-wrap: wrap;
-  padding: 0 10px;
-  font-size: var(--fs-mini); color: var(--text-secondary);
-}
-.ai-selbar:not(:empty) { padding: 8px 10px; border-bottom: 1px solid var(--border); background: var(--calr-blue-50); }
-.ai-selbar .btn { padding: 2px 8px; }
-
 /* 行内元素 */
-.ai-conv__check {
-  flex: 0 0 auto; width: 15px; height: 15px; border-radius: 4px;
-  border: 1.5px solid var(--calr-gray-300); background: var(--bg-surface);
-  display: inline-flex; align-items: center; justify-content: center;
-  font-size: 10px; color: #fff; line-height: 1;
-}
-.ai-conv.is-selected .ai-conv__check { background: var(--calr-blue-600); border-color: var(--calr-blue-600); }
 .ai-conv__pin { flex: 0 0 auto; font-size: 9px; color: var(--calr-blue-600); }
 .ai-conv__more {
   flex: 0 0 auto; width: 18px; height: 18px; border: 0; border-radius: 5px;
@@ -669,9 +653,6 @@ mark.law-find-hit {
 .ai-menu button:hover { background: var(--calr-gray-50); }
 .ai-menu button.is-danger { color: var(--calr-danger-text); }
 .ai-menu button.is-danger:hover { background: var(--calr-danger-bg); }
-
-/* 顶栏「多选」按钮激活态 */
-#conv-select.is-active { background: var(--calr-blue-50); color: var(--calr-blue-700); border-color: var(--calr-blue-300); }
 
 /* ==========================================================================
    历史对话（DeepSeek 风格）：时间分组 + 扁平圆角条目
@@ -711,7 +692,6 @@ mark.law-find-hit {
 }
 .ai-conv:hover { background: var(--calr-gray-50); }
 .ai-conv.is-active { background: var(--calr-blue-50); color: var(--calr-blue-700); font-weight: 500; }
-.ai-conv.is-selected { background: var(--calr-blue-50); }
 .ai-conv__title { flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .ai-conv__more {
   flex: 0 0 auto; width: 20px; height: 20px; border: 0; border-radius: 6px;
@@ -722,13 +702,6 @@ mark.law-find-hit {
 }
 .ai-conv:hover .ai-conv__more, .ai-conv.is-active .ai-conv__more { opacity: 1; }
 .ai-conv__more:hover { background: var(--calr-gray-200); color: var(--text-primary); }
-.ai-conv__check {
-  flex: 0 0 auto; width: 14px; height: 14px; border-radius: 4px;
-  border: 1.5px solid var(--calr-gray-300); background: var(--bg-surface);
-  display: inline-flex; align-items: center; justify-content: center;
-  font-size: 9px; color: #fff; line-height: 1;
-}
-.ai-conv.is-selected .ai-conv__check { background: var(--calr-blue-600); border-color: var(--calr-blue-600); }
 .ai-conv__rename {
   flex: 1 1 auto; min-width: 0; width: 100%;
   border: 1px solid var(--calr-blue-400); border-radius: 6px;
@@ -736,14 +709,6 @@ mark.law-find-hit {
   background: var(--bg-surface); color: var(--text-primary); outline: none;
 }
 
-/* 多选工具条：贴顶、分隔更轻 */
-.ai-selbar:not(:empty) {
-  padding: 7px 10px;
-  border-bottom: 1px solid var(--border);
-  background: var(--calr-blue-50);
-  font-size: 11px;
-}
-.ai-selbar .btn { padding: 2px 7px; font-size: 11px; border-radius: 6px; }
 /* 答案正文中的块级列表项（由行内「- 」分点还原） */
 .ans-li { display: block; position: relative; padding-left: 15px; margin: 5px 0; line-height: 1.75; }
 .ans-li::before { content: "•"; position: absolute; left: 3px; color: var(--calr-blue-500); }
@@ -1028,4 +993,157 @@ html[data-theme="dark"] .law-find-hit.is-current { background: #9A7500; color: #
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+/* ==========================================================================
+   法规详情页（2026-10-29 改版）
+   结构：左侧仅「条文目录」，右侧为标题区 + 基本信息 + 正文 + 版本与变迁说明；
+   容器改用宽版（container--wide），目录列收窄，正文列加宽。
+   ========================================================================== */
+.law-layout {
+  display: grid;
+  grid-template-columns: 260px minmax(0, 1fr);
+  gap: 22px;
+  align-items: start;
+}
+.law-layout--single { grid-template-columns: minmax(0, 1fr); }
+.law-side { min-width: 0; }
+.law-main-col { min-width: 0; }
+.law-side .law-related-card { margin-top: 16px; }
+.law-side .law-history-card, .law-side #law-history-card { margin-top: 16px; }
+.law-side .law-versions { padding-left: 0; }
+.law-side .law-version { padding-bottom: 11px; }
+.law-side .law-version__head { gap: 6px; }
+.law-side .law-version__note { font-size: 11px; }
+
+/* 基本信息组件：5 列 × 2 行；每格一个信息，与页面底色区分 */
+.law-meta-card {
+  margin-top: 14px; padding: 0; background: var(--bg-surface);
+  border: 1px solid var(--border); border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm); overflow: hidden;
+}
+.law-meta-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); }
+.law-meta-cell { min-width: 0; padding: 9px 11px; border-right: 1px solid var(--border); border-bottom: 1px solid var(--border); }
+.law-meta-cell:nth-child(5n) { border-right: 0; }
+.law-meta-cell--wide { grid-column: span 2; }
+.law-meta-label { display: block; font-size: var(--fs-mini); color: var(--text-secondary); margin-bottom: 3px; }
+.law-meta-value { display: block; min-width: 0; font-size: var(--fs-small); color: var(--text-primary); line-height: 1.5; overflow-wrap: anywhere; }
+.law-meta-value .tag { margin: 0; }
+.law-meta__country { display: inline-flex; align-items: center; gap: 5px; font-weight: 600; }
+@media (max-width: 900px) {
+  .law-meta-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .law-meta-cell:nth-child(5n) { border-right: 1px solid var(--border); }
+  .law-meta-cell:nth-child(2n) { border-right: 0; }
+  .law-meta-cell--wide { grid-column: span 2; }
+}
+
+/* 基本信息表格（旧样式保留） */
+.law-meta-table { width: 100%; border-collapse: collapse; margin-top: 14px; font-size: var(--fs-small); line-height: 1.55; }
+.law-meta-table th, .law-meta-table td { padding: 8px 12px; border: 1px solid var(--border); text-align: left; vertical-align: top; }
+.law-meta-table th { width: 112px; background: var(--calr-blue-50); color: var(--calr-navy-700); font-weight: 600; white-space: nowrap; }
+.law-meta-table td { color: var(--text-primary); }
+.law-meta__country { display: inline-flex; align-items: center; gap: 6px; font-weight: 600; }
+html[data-theme="dark"] .law-meta-table th { background: rgba(59, 130, 246, .12); color: var(--text-primary); }
+
+/* 相关法规 */
+.law-related-list { list-style: none; margin: 0; padding: 0; }
+.law-related-list li { padding: 9px 0; border-bottom: 1px dashed var(--border); display: flex; flex-direction: column; gap: 3px; }
+.law-related-list li:last-child { border-bottom: 0; }
+.law-related-list a { font-size: var(--fs-small); font-weight: 600; line-height: 1.5; }
+.law-related-list a:hover { color: var(--calr-blue-600); text-decoration: none; }
+
+/* 详情页“下载全文”固定按钮：始终可见，位于回到顶部按钮上方 */
+.law-download {
+  position: fixed; right: 24px; bottom: 78px; z-index: 149;
+  width: 44px; height: 44px; padding: 0; display: inline-flex; align-items: center; justify-content: center; gap: 0;
+  border: 1px solid var(--calr-blue-600); border-radius: 50%;
+  background: var(--calr-blue-600); color: #fff; font-size: var(--fs-small);
+  cursor: pointer; box-shadow: var(--shadow-md); white-space: nowrap;
+}
+.law-download span { display: none; }
+.law-download svg { width: 20px; height: 20px; }
+.law-download:hover { background: var(--calr-blue-700); border-color: var(--calr-blue-700); }
+.law-download:active { transform: translateY(1px); }
+@media (max-width: 1023px) { .law-download { right: 16px; bottom: 138px; } }
+@media print { .law-download { display: none !important; } }
+.law-toc-card .card__body { padding: 6px 10px 10px; }
+/* 目录过长时在目录卡片内滚动，页面仍由正文主导 */
+.law-toc-card { display: flex; flex-direction: column; }
+.law-toc-card .card__body {
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--calr-gray-300) transparent;
+}
+
+/* 标题区：主标题 + 小号浅色【原文名称】 */
+.law-title-zh { font-size: var(--fs-h1); line-height: 1.3; margin-bottom: 2px; }
+.law-title-orig {
+  font-size: var(--fs-small);
+  color: var(--text-tertiary, #9AA4B2);
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 0 0 10px;
+  word-break: break-word;
+}
+
+/* 基本信息一行 */
+.law-info {
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: 8px 18px;
+  padding: 10px 14px;
+  margin: 0 0 10px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--bg-surface-alt);
+  font-size: var(--fs-small);
+  color: var(--text-primary);
+}
+.law-info__item { display: inline-flex; align-items: center; gap: 6px; min-width: 0; }
+.law-info__label { color: var(--text-secondary); font-size: var(--fs-mini); }
+.law-info__value { font-weight: 500; word-break: break-word; }
+.law-info__item--country { font-weight: 600; }
+
+/* 次要信息：法律层级 / 条文数量 / 数据来源 */
+.law-facts {
+  display: flex; flex-wrap: wrap; gap: 6px 16px;
+  margin: 0 0 8px;
+  font-size: var(--fs-mini);
+  color: var(--text-secondary);
+}
+.law-facts .law-info__value { font-weight: 400; }
+.law-topics { gap: 6px; margin: 4px 0 0; flex-wrap: wrap; }
+
+/* 版本与变迁：可点击的历史版本时间线 */
+.law-versions { list-style: none; margin: 0; padding: 0 0 0 2px; }
+.law-version { position: relative; padding: 0 0 14px 18px; border-left: 2px solid var(--border); }
+.law-version:last-child { border-left-color: transparent; padding-bottom: 0; }
+.law-version::before {
+  content: ""; position: absolute; left: -6px; top: 5px;
+  width: 10px; height: 10px; border-radius: 50%;
+  background: var(--calr-blue-300);
+  box-shadow: 0 0 0 2px var(--bg-surface);
+}
+.law-version.is-current::before { background: var(--calr-success); }
+.law-version__head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.law-version__date { font-family: var(--font-mono); font-size: var(--fs-mini); color: var(--text-secondary); }
+.law-version__body { margin-top: 4px; display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.law-version__title { font-size: var(--fs-small); font-weight: 600; color: var(--text-primary); }
+a.law-version__title:hover { color: var(--calr-blue-600); text-decoration: none; }
+.law-version__id { font-family: var(--font-mono); }
+.law-version__note { margin-top: 3px; font-size: var(--fs-mini); color: var(--text-tertiary, #9AA4B2); line-height: 1.6; }
+.law-history__sub { margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--border); }
+.law-history__subtitle { font-size: var(--fs-small); font-weight: 600; margin-bottom: 8px; }
+
+/* AI 问答页：面板右上角的「新对话」按钮 */
+.ai-new-btn { display: inline-flex; align-items: center; gap: 4px; }
+.ai-new-btn__icon { font-size: 15px; line-height: 1; }
+
+@media (max-width: 1100px) {
+  .law-layout { grid-template-columns: minmax(0, 1fr); }
+  .law-side { order: 2; }
+  .law-main-col { order: 1; }
+  .law-toc-card .card__body { max-height: 320px; }
+}
+@media (max-width: 900px) {
+  .law-info { gap: 6px 12px; padding: 9px 11px; }
 }

@@ -1,0 +1,425 @@
+{
+  "_note": "MY 附属法规主体术语 · add27（主干法主体 71-134，跳过解析残留 108/119/133/134）",
+  "heads": {
+    "ASSIGNMENT OF REVENUE": {
+      "zh": "收入的转让",
+      "vi": "Chuyển nhượng nguồn thu",
+      "th": "การโอนรายได้",
+      "id": "Pengalihan Penerimaan",
+      "ms": "Penyerahan Hasil"
+    },
+    "ASSIGNMENT OF EXPORT DUTY": {
+      "zh": "出口税的转让",
+      "vi": "Chuyển nhượng thuế xuất khẩu",
+      "th": "การโอนอากรส่งออก",
+      "id": "Pengalihan Bea Ekspor",
+      "ms": "Penyerahan Duti Eksport"
+    },
+    "WORKERS’ MINIMUM STANDARDS OF HOUSING AND AMENITIES": {
+      "zh": "工人住房与设施最低标准",
+      "vi": "Tiêu chuẩn tối thiểu về nhà ở và tiện nghi cho người lao động",
+      "th": "มาตรฐานขั้นต่ำด้านที่อยู่อาศัยและสิ่งอำนวยความสะดวกของแรงงาน",
+      "id": "Standar Minimum Perumahan dan Fasilitas bagi Pekerja",
+      "ms": "Piawaian Minimum Perumahan dan Kemudahan Pekerja"
+    },
+    "INHERITANCE": {
+      "zh": "继承",
+      "vi": "Thừa kế",
+      "th": "การรับมรดก",
+      "id": "Pewarisan",
+      "ms": "Pewarisan"
+    },
+    "RACING CLUB": {
+      "zh": "赛马俱乐部",
+      "vi": "Câu lạc bộ đua ngựa",
+      "th": "สโมสรการแข่งม้า",
+      "id": "Klub Pacuan Kuda",
+      "ms": "Kelab Lumba Kuda"
+    },
+    "WAGES COUNCILS": {
+      "zh": "工资理事会",
+      "vi": "Các hội đồng tiền lương",
+      "th": "สภาค่าจ้าง",
+      "id": "Dewan-Dewan Upah",
+      "ms": "Majlis-Majlis Gaji"
+    },
+    "TOLLS": {
+      "zh": "通行费",
+      "vi": "Phí qua đường",
+      "th": "ค่าผ่านทาง",
+      "id": "Tol",
+      "ms": "Tol"
+    },
+    "PORT": {
+      "zh": "港口",
+      "vi": "Cảng",
+      "th": "ท่าเรือ",
+      "id": "Pelabuhan",
+      "ms": "Pelabuhan"
+    },
+    "DRUG AND SUBSTANCE DEPENDANTS AND MISUSERS": {
+      "zh": "药物及物质依赖与滥用者",
+      "vi": "Người nghiện và lạm dụng ma túy, chất gây nghiện",
+      "th": "ผู้ติดยาและผู้ใช้สารเสพติดในทางที่ผิด",
+      "id": "Pecandu dan Penyalahguna Narkotika serta Zat Adiktif",
+      "ms": "Penagih dan Penyalahguna Dadah serta Bahan"
+    },
+    "MALAYSIAN AIRLINE SYSTEM BERHAD": {
+      "zh": "马来西亚航空系统有限公司",
+      "vi": "Malaysian Airline System Berhad",
+      "th": "บริษัท Malaysian Airline System Berhad",
+      "id": "Malaysian Airline System Berhad",
+      "ms": "Malaysian Airline System Berhad"
+    },
+    "RRIM-CONSULT CORPORATION": {
+      "zh": "橡胶研究院顾问公司",
+      "vi": "Công ty Tư vấn RRIM",
+      "th": "บริษัทที่ปรึกษาสถาบันวิจัยยาง",
+      "id": "Korporasi Konsultan RRIM",
+      "ms": "Perbadanan Perunding RRIM"
+    },
+    "SERI PAHLAWAN GAGAH PERKASA": {
+      "zh": "英勇战士勋章",
+      "vi": "Huân chương Chiến binh Dũng cảm",
+      "th": "เหรียญนักรบกล้าหาญ",
+      "id": "Bintang Pahlawan Gagah Perkasa",
+      "ms": "Seri Pahlawan Gagah Perkasa"
+    },
+    "AIRPORT AND AVIATION SERVICES": {
+      "zh": "机场与航空服务",
+      "vi": "Dịch vụ sân bay và hàng không",
+      "th": "บริการท่าอากาศยานและการบิน",
+      "id": "Jasa Bandar Udara dan Penerbangan",
+      "ms": "Perkhidmatan Lapangan Terbang dan Penerbangan"
+    },
+    "NATIVE COURTS": {
+      "zh": "原住民法庭",
+      "vi": "Tòa án Bản địa",
+      "th": "ศาลชนพื้นเมือง",
+      "id": "Pengadilan Adat",
+      "ms": "Mahkamah Anak Negeri"
+    },
+    "RACING": {
+      "zh": "赛马",
+      "vi": "Đua ngựa",
+      "th": "การแข่งม้า",
+      "id": "Pacuan Kuda",
+      "ms": "Lumba Kuda"
+    },
+    "UNIVERSITI UTARA MALAYSIA": {
+      "zh": "马来西亚北方大学",
+      "vi": "Đại học Utara Malaysia",
+      "th": "มหาวิทยาลัยอูตารามาเลเซีย",
+      "id": "Universitas Utara Malaysia",
+      "ms": "Universiti Utara Malaysia"
+    },
+    "PADI CULTIVATORS": {
+      "zh": "稻农",
+      "vi": "Người trồng lúa",
+      "th": "เกษตรกรผู้ปลูกข้าว",
+      "id": "Petani Padi",
+      "ms": "Penanam Padi"
+    },
+    "CRIMINAL PROCEDURE": {
+      "zh": "刑事诉讼程序",
+      "vi": "Thủ tục tố tụng hình sự",
+      "th": "วิธีพิจารณาความอาญา",
+      "id": "Hukum Acara Pidana",
+      "ms": "Prosedur Jenayah"
+    },
+    "PRIVATE SEWERAGE PLANTS PRIVATE SEWERAGE PLANTS": {
+      "zh": "私营污水处理厂",
+      "vi": "Nhà máy xử lý nước thải tư nhân",
+      "th": "โรงบำบัดน้ำเสียเอกชน",
+      "id": "Instalasi Pengolahan Air Limbah Swasta",
+      "ms": "Loji Pembetungan Swasta"
+    },
+    "CO-OPERATIVE SOCIETTIES": {
+      "zh": "合作社",
+      "vi": "Các hợp tác xã",
+      "th": "สหกรณ์",
+      "id": "Koperasi-Koperasi",
+      "ms": "Koperasi-Koperasi"
+    },
+    "HYDROGEN CYANIDE": {
+      "zh": "氰化氢",
+      "vi": "Hydro xyanua",
+      "th": "ไฮโดรเจนไซยาไนด์",
+      "id": "Hidrogen Sianida",
+      "ms": "Hidrogen Sianida"
+    },
+    "NATIONAL LAND REHABILITATION AND CONSOLIDATION AUTHORITY": {
+      "zh": "国家土地复垦与整合局",
+      "vi": "Cơ quan Phục hồi và Hợp nhất Đất Quốc gia",
+      "th": "องค์การฟื้นฟูและรวมแปลงที่ดินแห่งชาติ",
+      "id": "Otoritas Rehabilitasi dan Konsolidasi Tanah Nasional",
+      "ms": "Pihak Berkuasa Pemulihan dan Penyatuan Tanah Negara"
+    },
+    "JOINT SERVICE": {
+      "zh": "联合服务",
+      "vi": "Dịch vụ liên hợp",
+      "th": "บริการร่วม",
+      "id": "Layanan Bersama",
+      "ms": "Perkhidmatan Bersama"
+    },
+    "CONSULAR RELATIONS": {
+      "zh": "领事关系",
+      "vi": "Quan hệ lãnh sự",
+      "th": "ความสัมพันธ์ทางกงสุล",
+      "id": "Hubungan Konsuler",
+      "ms": "Hubungan Konsular"
+    },
+    "TOWN AND COUNTRY PLANNING": {
+      "zh": "城乡规划",
+      "vi": "Quy hoạch thị trấn và nông thôn",
+      "th": "การผังเมืองและการวางแผนชนบท",
+      "id": "Perencanaan Kota dan Desa",
+      "ms": "Perancangan Bandar dan Desa"
+    },
+    "PORT WORKERS": {
+      "zh": "港口工人",
+      "vi": "Công nhân cảng",
+      "th": "กรรมกรท่าเรือ",
+      "id": "Pekerja Pelabuhan",
+      "ms": "Pekerja Pelabuhan"
+    },
+    "PANGLIMA GAGAH BERANI": {
+      "zh": "英勇将领勋章",
+      "vi": "Huân chương Tướng lĩnh Dũng cảm",
+      "th": "เหรียญแม่ทัพกล้าหาญ",
+      "id": "Bintang Panglima Gagah Berani",
+      "ms": "Panglima Gagah Berani"
+    },
+    "FELDA CHUPING ESTATE DEVELOPMENT CORPORATION": {
+      "zh": "联邦土地发展局朱宾园丘发展公司",
+      "vi": "Tổng công ty Phát triển Đồn điền Felda Chuping",
+      "th": "บรรษัทพัฒนานิคมเฟลดาชูปิง",
+      "id": "Korporasi Pengembangan Perkebunan Felda Chuping",
+      "ms": "Perbadanan Pembangunan Ladang Felda Chuping"
+    },
+    "ISTANA NEGARA": {
+      "zh": "国家王宫",
+      "vi": "Cung điện Quốc gia",
+      "th": "พระราชวังอิสตานาเนการา",
+      "id": "Istana Negara",
+      "ms": "Istana Negara"
+    },
+    "DEMUTUALISATION": {
+      "zh": "互助化改组",
+      "vi": "Phi tương hỗ hóa",
+      "th": "การแปรสภาพจากระบบสมาชิก",
+      "id": "Demutualisasi",
+      "ms": "Penyahbersamaan"
+    },
+    "DIPLOMATIC PRIVILEGES": {
+      "zh": "外交特权",
+      "vi": "Đặc quyền ngoại giao",
+      "th": "เอกสิทธิ์ทางการทูต",
+      "id": "Hak Istimewa Diplomatik",
+      "ms": "Keistimewaan Diplomatik"
+    },
+    "EXCHANGE OF INFORMATION": {
+      "zh": "信息交换",
+      "vi": "Trao đổi thông tin",
+      "th": "การแลกเปลี่ยนข้อมูล",
+      "id": "Pertukaran Informasi",
+      "ms": "Pertukaran Maklumat"
+    },
+    "GOVERNMENT LOANS": {
+      "zh": "政府贷款",
+      "vi": "Các khoản vay của chính phủ",
+      "th": "เงินกู้ของรัฐบาล",
+      "id": "Pinjaman Pemerintah",
+      "ms": "Pinjaman Kerajaan"
+    },
+    "INTERNATIONAL INTERESTS IN MOBILE EQUIPMENT": {
+      "zh": "移动设备国际权益",
+      "vi": "Quyền lợi quốc tế đối với thiết bị di động",
+      "th": "สิทธิระหว่างประเทศในอุปกรณ์เคลื่อนที่",
+      "id": "Kepentingan Internasional atas Peralatan Bergerak",
+      "ms": "Kepentingan Antarabangsa dalam Peralatan Alih"
+    },
+    "REVISION OF LAW": {
+      "zh": "法律修订",
+      "vi": "Sửa đổi luật",
+      "th": "การปรับปรุงกฎหมาย",
+      "id": "Revisi Undang-Undang",
+      "ms": "Semakan Semula Undang-Undang"
+    },
+    "UNIVERSITI TUN HUSSEIN ONN MALAYSIA": {
+      "zh": "马来西亚敦胡先翁大学",
+      "vi": "Đại học Tun Hussein Onn Malaysia",
+      "th": "มหาวิทยาลัยตุนฮุสเซนออนมาเลเซีย",
+      "id": "Universitas Tun Hussein Onn Malaysia",
+      "ms": "Universiti Tun Hussein Onn Malaysia"
+    },
+    "LOAN (LOCAL) (STATUTORY CEILING FOR BORROWING) AND GOVERNMENT FUNDING": {
+      "zh": "贷款（本地）（借款法定上限）与政府融资",
+      "vi": "Khoản vay (Trong nước) (Giới hạn vay theo luật định) và Tài trợ Chính phủ",
+      "th": "เงินกู้ (ภายในประเทศ) (เพดานการกู้ยืมตามกฎหมาย) และการจัดหาเงินทุนของรัฐบาล",
+      "id": "Pinjaman (Dalam Negeri) (Batas Maksimum Pinjaman Menurut Undang-Undang) dan Pendanaan Pemerintah",
+      "ms": "Pinjaman (Tempatan) (Siling Berkanun bagi Peminjaman) dan Pembiayaan Kerajaan"
+    },
+    "LEGISLATURE OF SARAWAK": {
+      "zh": "砂拉越立法机构",
+      "vi": "Cơ quan Lập pháp Sarawak",
+      "th": "สภานิติบัญญัติซาราวัก",
+      "id": "Badan Legislatif Sarawak",
+      "ms": "Dewan Undangan Negeri Sarawak"
+    },
+    "MARRIED WOMEN AND CHILDREN": {
+      "zh": "已婚妇女与儿童",
+      "vi": "Phụ nữ đã kết hôn và trẻ em",
+      "th": "สตรีที่สมรสแล้วและเด็ก",
+      "id": "Perempuan Kawin dan Anak",
+      "ms": "Wanita Bersuami dan Kanak-Kanak"
+    },
+    "SABAH PORTS AUTHORITY": {
+      "zh": "沙巴港务局",
+      "vi": "Cảng vụ Sabah",
+      "th": "การท่าเรือซาบาห์",
+      "id": "Otoritas Pelabuhan Sabah",
+      "ms": "Lembaga Pelabuhan Sabah"
+    },
+    "LOCAL AUTHORITIES": {
+      "zh": "地方当局",
+      "vi": "Các cơ quan địa phương",
+      "th": "องค์กรปกครองส่วนท้องถิ่น",
+      "id": "Otoritas Lokal",
+      "ms": "Pihak Berkuasa Tempatan"
+    },
+    "PINEAPPLE INDUSTRY": {
+      "zh": "黄梨业",
+      "vi": "Công nghiệp dứa",
+      "th": "อุตสาหกรรมสับปะรด",
+      "id": "Industri Nanas",
+      "ms": "Industri Nanas"
+    },
+    "SOCIETIES": {
+      "zh": "社团",
+      "vi": "Các hội",
+      "th": "สมาคม",
+      "id": "Perhimpunan-Perhimpunan",
+      "ms": "Persatuan-Persatuan"
+    },
+    "PENANG FREE SCHOOL": {
+      "zh": "槟城大英义学",
+      "vi": "Trường Penang Free",
+      "th": "โรงเรียนปีนังฟรีสกูล",
+      "id": "Sekolah Penang Free",
+      "ms": "Penang Free School"
+    },
+    "THE PURE LIFE SOCIETY (SHUDDHA SAMAJAM) INCORPORATION": {
+      "zh": "纯净生活协会（净梵社）注册",
+      "vi": "Thành lập Hội Đời sống Thuần khiết (Shuddha Samajam)",
+      "th": "การจดทะเบียนสมาคมชีวิตบริสุทธิ์ (ชุททะสะมะจัม)",
+      "id": "Pendirian Perhimpunan Hidup Murni (Shuddha Samajam)",
+      "ms": "Perbadanan Persatuan Kehidupan Suci (Shuddha Samajam)"
+    },
+    "REVISION OF SENTENCE OF DEATH AND IMPRISONMENT FOR NATURAL LIFE": {
+      "zh": "死刑与终身监禁刑罚的修订",
+      "vi": "Sửa đổi hình phạt tử hình và tù chung thân",
+      "th": "การทบทวนโทษประหารชีวิตและการจำคุกตลอดชีวิต",
+      "id": "Revisi Pidana Mati dan Penjara Seumur Hidup",
+      "ms": "Semakan Semula Hukuman Mati dan Penjara Seumur Hidup"
+    },
+    "THE TITULAR SUPERIOR OF THE BROTHERS OF SAINT GABRIEL": {
+      "zh": "圣加俾额尔兄弟会名义会长",
+      "vi": "Bề trên danh nghĩa của Dòng Anh em Thánh Gabriel",
+      "th": "อธิการกิตติมศักดิ์แห่งคณะภราดานักบุญกาเบรียล",
+      "id": "Pemimpin Tituler Kongregasi Saudara Santo Gabriel",
+      "ms": "Ketua Titular Kongregasi Saudara Saint Gabriel"
+    },
+    "THE MERCHANT SHIPPING": {
+      "zh": "商船",
+      "vi": "Tàu buôn",
+      "th": "เรือพาณิชย์",
+      "id": "Pelayaran Niaga",
+      "ms": "Perkapalan Saudagar"
+    },
+    "CO-OPERATIVE INSTITUTE": {
+      "zh": "合作社学院",
+      "vi": "Học viện Hợp tác xã",
+      "th": "สถาบันสหกรณ์",
+      "id": "Institut Koperasi",
+      "ms": "Institut Koperasi"
+    },
+    "HIRE PURCHASE": {
+      "zh": "租购",
+      "vi": "Mua trả góp",
+      "th": "การเช่าซื้อ",
+      "id": "Sewa Beli",
+      "ms": "Sewa Beli"
+    },
+    "SALE OF DRUGS": {
+      "zh": "药物销售",
+      "vi": "Bán thuốc",
+      "th": "การขายยา",
+      "id": "Penjualan Obat",
+      "ms": "Penjualan Ubat"
+    },
+    "AUCTIONEERS": {
+      "zh": "拍卖师",
+      "vi": "Người đấu giá",
+      "th": "ผู้ทำการขายทอดตลาด",
+      "id": "Juru Lelang",
+      "ms": "Juru Lelong"
+    },
+    "VETERINARY CENTRE": {
+      "zh": "兽医中心",
+      "vi": "Trung tâm Thú y",
+      "th": "ศูนย์สัตวแพทย์",
+      "id": "Pusat Kedokteran Hewan",
+      "ms": "Pusat Veterinar"
+    },
+    "RECORDS": {
+      "zh": "档案",
+      "vi": "Hồ sơ lưu trữ",
+      "th": "เอกสารจดหมายเหตุ",
+      "id": "Arsip",
+      "ms": "Rekod"
+    },
+    "THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS": {
+      "zh": "圣母兄弟会学校修会名义会长",
+      "vi": "Bề trên danh nghĩa của Học viện Anh em Marist các Trường học",
+      "th": "อธิการกิตติมศักดิ์แห่งสถาบันภราดามาริสต์แห่งโรงเรียน",
+      "id": "Pemimpin Tituler Institut Saudara Marist Sekolah-Sekolah",
+      "ms": "Ketua Titular Institut Saudara Marist Sekolah-Sekolah"
+    },
+    "MOTORCYCLES": {
+      "zh": "摩托车",
+      "vi": "Xe mô tô",
+      "th": "รถจักรยานยนต์",
+      "id": "Sepeda Motor",
+      "ms": "Motosikal"
+    },
+    "ASIAN INTERNATIONAL ARBITRATION CENTRE": {
+      "zh": "亚洲国际仲裁中心",
+      "vi": "Trung tâm Trọng tài Quốc tế Châu Á",
+      "th": "ศูนย์อนุญาโตตุลาการระหว่างประเทศเอเชีย",
+      "id": "Pusat Arbitrase Internasional Asia",
+      "ms": "Pusat Timbang Tara Antarabangsa Asia"
+    },
+    "INDUSTRIAL COURT": {
+      "zh": "工业法院",
+      "vi": "Tòa án Công nghiệp",
+      "th": "ศาลแรงงาน",
+      "id": "Pengadilan Perburuhan",
+      "ms": "Mahkamah Perusahaan"
+    },
+    "VETERANS": {
+      "zh": "退伍军人",
+      "vi": "Cựu chiến binh",
+      "th": "ทหารผ่านศึก",
+      "id": "Veteran",
+      "ms": "Veteran"
+    },
+    "LABUAN PORT AUTHORITY": {
+      "zh": "纳闽港务局",
+      "vi": "Cảng vụ Labuan",
+      "th": "การท่าเรือลาบวน",
+      "id": "Otoritas Pelabuhan Labuan",
+      "ms": "Lembaga Pelabuhan Labuan"
+    }
+  }
+}

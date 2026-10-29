@@ -1,0 +1,10 @@
+﻿const fs=require('fs'),vm=require('vm');
+const c={window:{},document:{}};vm.createContext(c);
+vm.runInContext(fs.readFileSync('prototype/data/dataset-core.js','utf8'),c);
+const d=c.window.CALR_DATA_CORE;
+const ids=['CN-FIL-2019','CN-CIVILCODE-2020','CN-LABORCONTRACT-2007','CN-DATA-2021','CN-PIPL-2021','CN-COPYRIGHT-2020','CN-LAW-APPLICATION-2010','CN-COMPANY-2023'];
+ids.forEach(id=>{const l=d.laws.find(x=>x.id===id);console.log(JSON.stringify({id:l.id,country:l.country,level:l.level,status:l.status,topics:l.topics,title:l.title,docNumber:l.docNumber,issuingBody:l.issuingBody,promulgatedDate:l.promulgatedDate,effectiveDate:l.effectiveDate,coverage:l.coverage,source:l.source,summary:l.summary},null,1));});
+console.log('--- topics list ---');
+console.log(JSON.stringify(d.topics.map(t=>t.id)));
+console.log('--- levels ---');
+console.log(JSON.stringify(d.levels.map(t=>t.id)));

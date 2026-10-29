@@ -360,10 +360,9 @@
     opts = opts || {};
     var td = lawTitleDisplay(law);
     var title = td.main;
-    /* 检索结果只保留标题 + 国家/修正/公布/施行/收录条数，不显示别名标题、摘要、命中说明 */
+    /* 检索结果只保留标题 + 基本信息，不显示别名标题、摘要、命中说明 */
     var bare = !!opts.plain;
     var alts = bare ? [] : U().altTitles(law.title, CALR.i18n.lang(), 2).filter(function (a) {
-      /* 源语言原名已紧跟在译名后的【】里，不再作为并列标题重复展示 */
       return !(td.orig && a.lang === td.origLang);
     });
     var tlang = titleLangOf(law.title);
@@ -373,6 +372,20 @@
       ((law.coverage === 'full' || law.coverage === 'excerpt')
         ? U().highlight(U().truncate(U().plain(U().tr(law.summary)), 140), terms) : ''));
     var hit = bare ? null : opts.hitArticle;
+
+    function dotDate(v) {
+      var s = U().fmtDate(v);
+      return s && s !== '—' ? s.replace(/-/g, '.') : '';
+    }
+    var basic = [];
+    basic.push('<span class="law-item__country">' + flagSvg(law.country, 'flag-mini') + esc(S().countryName(law.country)) + '</span>');
+    basic.push('<span class="law-item__status">' + (law.status ? statusTag(law.status) : '<span class="mini muted">—</span>') + '</span>');
+    basic.push('<span class="law-item__issuer">' + esc(law.issuingBody ? CALR.ui.issuerLabel(law.issuingBody) : '—') + '</span>');
+    basic.push('<span class="law-item__docno">' + esc(law.docNumber || '—') + '</span>');
+    basic.push('<span>' + esc(CALR.i18n.t('公布')) + ' ' + (law.promulgatedDate ? dotDate(law.promulgatedDate) : '—') + '</span>');
+    basic.push('<span>' + esc(CALR.i18n.t('施行')) + ' ' + (law.effectiveDate ? dotDate(law.effectiveDate) : '—') + '</span>');
+    basic.push('<span>' + esc(CALR.i18n.t('收录')) + ' ' + (law.articleCount || (law.articles || []).length || 0) + ' ' + esc(CALR.i18n.t('条')) + '</span>');
+
     return '' +
       /* 从检索结果进入详情页时把检索词带过去，详情页据此自动高亮（opt.q） */
       '<a class="law-item" href="#/law/' + esc(law.id) +
@@ -380,26 +393,17 @@
         '<div class="law-item__head">' +
           '<div style="min-width:0">' +
             '<h3 class="law-item__title">' + U().highlight(title, terms) +
-              (td.orig ? '【' + esc(td.orig) + '】' : '') +
-              (tlang && tlang !== CALR.i18n.lang()
+              (td.orig ? '<span class="law-item__orig">【' + esc(td.orig) + '】</span>' : '') +
+              (tlang && tlang !== CALR.i18n.lang() && !bare
                 ? ' <span class="tag tag--outline" style="font-size:11px;font-weight:400;vertical-align:middle">' +
                   esc(CALR.i18n.t('原文标题 · 暂无当前语言译名')) + '</span>'
                 : '') + '</h3>' +
             (alts.length ? '<p class="law-item__alt">' + alts.map(function (a) { return esc(a.text); }).join(' · ') + '</p>' : '') +
           '</div>' +
         '</div>' +
-        /* 元信息：国旗·国家 · 修正 · 公布 · 施行 · 收录条数（缺失一律占位） */
-        '<div class="law-item__meta">' +
-          '<span class="row" style="gap:5px">' + flagSvg(law.country, 'flag-mini') + esc(S().countryName(law.country)) + '</span>' +
-          '<span>' + esc(CALR.i18n.t('修正')) + ' ' + esc(yearOf(law.amendedDate || law.amendedNote)) + '</span>' +
-          '<span>' + esc(CALR.i18n.t('公布')) + ' ' + esc(yearOf(law.promulgatedDate || law.promulgatedDateRaw)) + '</span>' +
-          '<span>' + esc(CALR.i18n.t('施行')) + ' ' + esc(yearOf(law.effectiveDate)) + '</span>' +
-          '<span>' + esc(CALR.i18n.t('收录')) + ' ' + (law.articleCount || (law.articles || []).length || 0) + ' ' + esc(CALR.i18n.t('条')) + '</span>' +
-        '</div>' +
+        '<div class="law-item__basic">' + basic.join('') + '</div>' +
         (snippet ? '<div class="law-item__snippet">' + snippet + '</div>' : '') +
         (hit ? '<div class="law-item__snippet mini muted">命中条文：' + esc(U().tr(hit.noLabel) || ('第 ' + hit.no + ' 条')) + ' ' + esc(U().tr(hit.heading)) + '</div>' : '') +
-        /* opts.plain = true 时不渲染标签行（层级/时效性/收录标识/主题/命中说明），
-           用于检索结果页只保留法规主体信息 */
         (opts.plain ? '' :
         '<div class="law-item__foot">' +
           levelTag(law.level) + statusTag(law.status) +
@@ -473,6 +477,92 @@
   }
   function t_or(k) { return CALR.i18n.t(k); }
 
+  /* ---------------- 自绘下拉（替代原生 select 的弹出选项面板） ---------------- */
+  function dropdown(opts) {
+    opts = opts || {};
+    var id = opts.id || ('dd-' + Math.random().toString(36).slice(2, 8));
+    var value = opts.value === undefined || opts.value === null ? '' : String(opts.value);
+    var options = opts.options || [];
+    var current = null;
+    for (var i = 0; i < options.length; i++) {
+      if (String(options[i].v) === value) { current = options[i]; break; }
+    }
+    if (!current && options.length) current = options[0];
+    var label = current ? current.label : (opts.placeholder || '');
+    return '<div class="dd" data-dd="' + U().attr(id) + '" data-value="' + U().attr(value) + '">' +
+      '<button class="dd__btn" type="button" aria-haspopup="listbox" aria-expanded="false" title="' + U().attr(opts.title || '') + '">' +
+        '<span class="dd__value">' + U().esc(label) + '</span><span class="dd__caret" aria-hidden="true"></span>' +
+      '</button>' +
+      '<div class="dd__menu" role="listbox" hidden>' +
+        options.map(function (o) {
+          var on = String(o.v) === value;
+          return '<button class="dd__opt' + (on ? ' is-active' : '') + '" type="button" role="option" data-dd-v="' + U().attr(o.v) + '" aria-selected="' + (on ? 'true' : 'false') + '">' +
+            '<span>' + U().esc(o.label) + '</span><span class="dd__check">' + (on ? '✓' : '') + '</span></button>';
+        }).join('') +
+      '</div>' +
+      '<input type="hidden" id="' + U().attr(id) + '" value="' + U().attr(value) + '">' +
+    '</div>';
+  }
+
+  /** 绑定页面内所有 .dd；onChange(id, value, label) */
+  function bindDropdowns(root, onChange) {
+    if (!root) return;
+    var openDD = null;
+    function close(dd) {
+      if (!dd) return;
+      dd.classList.remove('is-open');
+      var m = dd.querySelector('.dd__menu');
+      var b = dd.querySelector('.dd__btn');
+      if (m) m.hidden = true;
+      if (b) b.setAttribute('aria-expanded', 'false');
+      if (openDD === dd) openDD = null;
+    }
+    function closeAll() { if (openDD) close(openDD); }
+    U().$$('.dd', root).forEach(function (dd) {
+      var btn = dd.querySelector('.dd__btn');
+      var menu = dd.querySelector('.dd__menu');
+      var input = dd.querySelector('input[type="hidden"]');
+      if (!btn || !menu) return;
+      U().on(btn, 'click', function (e) {
+        e.stopPropagation();
+        var willOpen = menu.hidden;
+        closeAll();
+        if (!willOpen) return;
+        openDD = dd;
+        dd.classList.add('is-open');
+        menu.hidden = false;
+        btn.setAttribute('aria-expanded', 'true');
+      });
+      U().$$('.dd__opt', menu).forEach(function (opt) {
+        U().on(opt, 'click', function (e) {
+          e.stopPropagation();
+          var v = opt.getAttribute('data-dd-v');
+          var label = opt.querySelector('span') ? opt.querySelector('span').textContent : opt.textContent;
+          dd.setAttribute('data-value', v);
+          if (input) input.value = v;
+          var valEl = dd.querySelector('.dd__value');
+          if (valEl) valEl.textContent = label;
+          U().$$('.dd__opt', menu).forEach(function (x) {
+            x.classList.remove('is-active');
+            x.setAttribute('aria-selected', 'false');
+            var c = x.querySelector('.dd__check'); if (c) c.textContent = '';
+          });
+          opt.classList.add('is-active');
+          opt.setAttribute('aria-selected', 'true');
+          var chk = opt.querySelector('.dd__check'); if (chk) chk.textContent = '✓';
+          close(dd);
+          if (typeof onChange === 'function') onChange(dd.getAttribute('data-dd'), v, label);
+        });
+      });
+    });
+    if (root._ddOutside) document.removeEventListener('click', root._ddOutside);
+    root._ddOutside = function (e) {
+      if (openDD && !openDD.contains(e.target)) closeAll();
+    };
+    document.addEventListener('click', root._ddOutside);
+    U().on(root, 'keydown', function (e) { if (e.key === 'Escape') closeAll(); });
+  }
+
   CALR.ui = {
     flagSvg: flagSvg,
     portalLabel: portalLabel,
@@ -490,6 +580,8 @@
     skeletonList: skeletonList,
     scoreBar: scoreBar,
     lawItem: lawItem,
+    dropdown: dropdown,
+    bindDropdowns: bindDropdowns,
     countryCard: countryCard,
     metaGrid: metaGrid,
     stat: stat

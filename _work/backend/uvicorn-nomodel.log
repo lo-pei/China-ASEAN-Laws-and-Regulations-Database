@@ -1,0 +1,6 @@
+INFO:     127.0.0.1:49223 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49224 - "GET /api/vectors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49225 - "GET /api/search?q=%E6%B0%91%E6%B3%95%E5%85%B8&mode=keyword HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49227 - "GET /api/search?q=%E6%B0%91%E6%B3%95%E5%85%B8&mode=semantic HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49228 - "GET /api/search?q=%E6%B0%91%E6%B3%95%E5%85%B8&mode=hybrid HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64057 - "POST /api/qa HTTP/1.1" 200 OK

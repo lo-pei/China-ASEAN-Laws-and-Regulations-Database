@@ -1,0 +1,850 @@
+{
+ "jobId": "CALR-TITLE-20261017-1801-BN-1261",
+ "shard": 1,
+ "items": [
+  {
+   "id": "BN-CAP-22-2021-E-PENAL-CODE-ACT",
+   "zh": "刑法典法"
+  },
+  {
+   "id": "BN-H015",
+   "zh": "刑法典"
+  },
+  {
+   "id": "BN-COMPANIES-CAP39",
+   "zh": "公司法（第 39 章）"
+  },
+  {
+   "id": "BN-S-9-2018-SEC-381-OF-SYARIAH-COURTS-CRIMINAL-PROCEDURE-1D32E4",
+   "zh": "伊斯兰法庭刑事程序法典命令 2018 第 381 条"
+  },
+  {
+   "id": "BN-CAP-7-2021-CRIMINAL-PROCEDURE-CODE",
+   "zh": "刑事程序法典"
+  },
+  {
+   "id": "BN-CAP-224-2021-SYARIAH-COURTS-CRIMINAL-PROCEDURE-CODE",
+   "zh": "伊斯兰法庭刑事程序法典"
+  },
+  {
+   "id": "BN-CAP-51-R-1-2015-PRISONS-RULES",
+   "zh": "R 1 2015 版监狱规则"
+  },
+  {
+   "id": "BN-CAP-182-R-1-2001-PUBLIC-HEALTH-FOOD-REGULATIONS",
+   "zh": "R 1 2001 版公共卫生食品条例"
+  },
+  {
+   "id": "BN-H062",
+   "zh": "破产法"
+  },
+  {
+   "id": "BN-CAP-39-2015-COMPANIES-ACT",
+   "zh": "公司法"
+  },
+  {
+   "id": "BN-CAP-39-1984-COMPANIES-ACT",
+   "zh": "公司法"
+  },
+  {
+   "id": "BN-S-57-2003-MERCHANT-SHIPPING-SAFETY-CONVENTION-REGNS-2003-1",
+   "zh": "商船航运安全公约条例 2003(1)"
+  },
+  {
+   "id": "BN-S-59-2013-SECURITIES-MARKETS-ORDER-2013",
+   "zh": "证券市场命令 2013"
+  },
+  {
+   "id": "BN-H001",
+   "zh": "版权命令 1999"
+  },
+  {
+   "id": "BN-S-1-2016-E-INSOLVENCY-ORDER-2016",
+   "zh": "破产命令 2016"
+  },
+  {
+   "id": "BN-S-69-2013-SEC-254-OF-THE-SYARIAH-PENAL-CODE-ORDER-2013",
+   "zh": "伊斯兰刑法典命令 2013 第 254 条"
+  },
+  {
+   "id": "BN-CAP-275-2024-SYARIAH-PENAL-CODE",
+   "zh": "伊斯兰刑法典"
+  },
+  {
+   "id": "BN-S-26-1985-E-REVISED-FEES",
+   "zh": "修订费用"
+  },
+  {
+   "id": "BN-CAP-247-2022-INSOLVENCY-ACT",
+   "zh": "破产法"
+  },
+  {
+   "id": "BN-S-75-2016-SYARIAH-COURTS-CIVIL-PROCEDURE-ORDER-2005",
+   "zh": "伊斯兰法庭民事程序命令 2005"
+  },
+  {
+   "id": "BN-S-26-2005-M-SEC-238-OF-PERINTAH-ACARA-MAL-MAHKAMAH-MA-9B0C6C",
+   "zh": "伊斯兰法庭民事诉讼程序命令 2005 第 238 条"
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE",
+   "zh": "伊斯兰法庭民事程序法典"
+  },
+  {
+   "id": "BN-CAP-106-2015-CONTRACTS-ACT-1",
+   "zh": "合同法(1)"
+  },
+  {
+   "id": "BN-S-27-2002-MERCHANT-SHIPPING-ORDER-2002",
+   "zh": "商船航运命令 2002"
+  },
+  {
+   "id": "BN-S-27-2002-MERCHANT-SHIPPING-ORER-2002-SEC-216",
+   "zh": "商船航运命令 2002 第 216 条"
+  },
+  {
+   "id": "BN-CAP-106-2023-CONTRACTS-ACT-1",
+   "zh": "合同法(1)"
+  },
+  {
+   "id": "BN-H006",
+   "zh": "合同法"
+  },
+  {
+   "id": "BN-CAP-247-R-4-INSOLVENCY-WINDING-UP-RULES",
+   "zh": "R 4 破产清盘规则"
+  },
+  {
+   "id": "BN-CAP-52-R-7-2018-POST-OFFICE-RULES",
+   "zh": "R 7 2018 版邮政规则"
+  },
+  {
+   "id": "BN-CAP-39-2021-COMPANIES-ACT-1",
+   "zh": "公司法(1)"
+  },
+  {
+   "id": "BN-BANKRUPTCY-RULES",
+   "zh": "破产规则"
+  },
+  {
+   "id": "BN-S-56-2000-INTERNATIONAL-BUSINESS-COMPANIES-ORDER-2000",
+   "zh": "国际商业公司命令 2000"
+  },
+  {
+   "id": "BN-S-63-2001-SYARIAH-COURTS-EVIDENCE-ORDER-2001",
+   "zh": "伊斯兰法庭证据命令 2001"
+  },
+  {
+   "id": "BN-S-40-2006-E-EXCISE-ORDER-2006-1",
+   "zh": "消费税命令 2006(1)"
+  },
+  {
+   "id": "BN-S-40-2006-EXCISE-ORDER-2006-SEC-164",
+   "zh": "消费税命令 2006 第 164 条"
+  },
+  {
+   "id": "BN-EMPLOYMENT-2009",
+   "zh": "雇佣命令 2009"
+  },
+  {
+   "id": "BN-S-39-2006-CUSTOMS-ORDER-2009-SEC-157",
+   "zh": "海关命令 2009 第 157 条"
+  },
+  {
+   "id": "BN-H017",
+   "zh": "商标法"
+  },
+  {
+   "id": "BN-S-47-2012-CRIMINAL-ASSET-RECOVERY-ORDER-2012",
+   "zh": "犯罪资产追回命令 2012"
+  },
+  {
+   "id": "BN-S-47-2012-CRIMINAL-ASSET-RECOVERY-ORDER-2012-SEC-153-1",
+   "zh": "犯罪资产追回命令 2012 第 153(1) 条"
+  },
+  {
+   "id": "BN-CAP-278-2024-EMPLOYMENT-ACT-1",
+   "zh": "雇佣法(1)"
+  },
+  {
+   "id": "BN-CAP-278-2026-EMPLOYMENT-ACT-1",
+   "zh": "雇佣法(1)"
+  },
+  {
+   "id": "BN-S-59-2003-EDUCATION-ORDER-2003-SEC-144",
+   "zh": "教育命令 2003 第 144 条"
+  },
+  {
+   "id": "BN-CAP-210-EDUCATION-ACT-1",
+   "zh": "教育法(1)"
+  },
+  {
+   "id": "BN-CAP-277-RG-4-2024-WORKPLACE-SAFETY-AND-HEALTH-CONSTRU-9C5055",
+   "zh": "RG 4 2024 版工作场所安全与健康建筑条例"
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT",
+   "zh": "劳动法"
+  },
+  {
+   "id": "BN-H022",
+   "zh": "劳动法"
+  },
+  {
+   "id": "BN-CAP-67-2021-BANKRUPTCY-ACT",
+   "zh": "破产法"
+  },
+  {
+   "id": "BN-CAP-95-2024-BANKING-ACT",
+   "zh": "银行法"
+  },
+  {
+   "id": "BN-CAP-262-R-1-2023-PATENTS-RULES",
+   "zh": "R 1 2023 版专利规则"
+  },
+  {
+   "id": "BN-INVESTMENT-2001",
+   "zh": "投资激励命令 2001"
+  },
+  {
+   "id": "BN-H012",
+   "zh": "所得税法"
+  },
+  {
+   "id": "BN-CAP-77-2022-RELIGIOUS-AND-KADIS-COURTS-ACT",
+   "zh": "宗教与卡迪法庭法"
+  },
+  {
+   "id": "BN-CAP-222-2021-MARITIME-AND-PORT-AUTHORITY-OF-BRUNEI-DA-1998A6",
+   "zh": "文莱达鲁萨兰国海事与港务局法"
+  },
+  {
+   "id": "BN-S-12-2000-SEC-146-OF-THE-EMERGENCY-ISLAMIC-FAMILY-LAW-249B98",
+   "zh": "紧急伊斯兰家庭法命令 1999 第 146 条"
+  },
+  {
+   "id": "BN-S-57-2011-PATENTS-ORDER-2011-SEC-114",
+   "zh": "专利命令 2011 第 114 条"
+  },
+  {
+   "id": "BN-CAP-262-2023-PATENTS-ACT",
+   "zh": "专利法"
+  },
+  {
+   "id": "BN-CAP-5-R-1-2022-RULES-OF-THE-SUPREME-COURT",
+   "zh": "R 1 2022 版最高法院规则"
+  },
+  {
+   "id": "BN-H002",
+   "zh": "个人数据保护命令 2025"
+  },
+  {
+   "id": "BN-S-9-2006-CHILDREN-AND-YOUNG-PERSONS-ORDER-2006",
+   "zh": "儿童与青少年命令 2006"
+  },
+  {
+   "id": "BN-S-9-2006-CHILDREN-AND-YOUNG-PERSONS-ORDER-2006-SEC-106",
+   "zh": "儿童与青少年命令 2006 第 106 条"
+  },
+  {
+   "id": "BN-CAP-98-2022-TRADE-MARKS-ACT",
+   "zh": "商标法"
+  },
+  {
+   "id": "BN-S-55-2000-INTERNATIONAL-TRUSTS-ORDER-2000",
+   "zh": "国际信托命令 2000"
+  },
+  {
+   "id": "BN-S542001",
+   "zh": "第 542001 号法令"
+  },
+  {
+   "id": "BN-CAP-7-R-1-2021-YOUTHFUL-OFFENDERS-PLACES-OF-DETENTION-RULES",
+   "zh": "R 1 2021 版少年罪犯拘留场所规则"
+  },
+  {
+   "id": "BN-CAP-219-2012-CHILDREN-AND-YOUNG-PERSONS-ACT-1",
+   "zh": "儿童与青少年法(1)"
+  },
+  {
+   "id": "BN-S-117-2010-E-LIMITED-LIABILITY-PARTNERSHIPS-ORDER-2010-1",
+   "zh": "有限责任合伙命令 2010(1)"
+  },
+  {
+   "id": "BN-S-10-2016-SECTION-93A-OF-SECURED-TRANSACTION-ORDER-2016",
+   "zh": "担保交易命令 2016 第 93A 条"
+  },
+  {
+   "id": "BN-CAP-172-2023-BILLS-OF-EXCHANGE-ACT",
+   "zh": "汇票法"
+  },
+  {
+   "id": "BN-H063",
+   "zh": "竞争法"
+  },
+  {
+   "id": "BN-CAP-52-N2-2018-POST-OFFICE-LETTER-MAIL-INSURANCE-LIMI-847E26",
+   "zh": "N2 2018 版邮政信件邮件保险限额公告"
+  },
+  {
+   "id": "BN-CAP-68-2026-ROAD-TRAFFIC-ACT",
+   "zh": "道路交通法"
+  },
+  {
+   "id": "BN-H014",
+   "zh": "专利法"
+  },
+  {
+   "id": "BN-CAP-113-RG-AIRPORT-FEES-AND-CHARGES-REGULATIONS",
+   "zh": "RG 机场费用与收费条例"
+  },
+  {
+   "id": "BN-CAP-113-RG-1984-AIR-TRAFFIC-CONTROL-REGULATIONS",
+   "zh": "RG 1984 版空中交通管制条例"
+  },
+  {
+   "id": "BN-CAP-113-RG-1984-CIVIL-AVIATION-INVESTIGATION-OF-ACCID-36D410",
+   "zh": "RG 1984 版民用航空事故调查条例"
+  },
+  {
+   "id": "BN-CAP-113-RG-1984-AIR-TRANSPORT-AND-COMMERCIAL-FLYING-L-0110A9",
+   "zh": "RG 1984 版航空运输与商业飞行许可条例"
+  },
+  {
+   "id": "BN-CAP-113-RG-1984-AIR-NAVIGATION-RESTRICTION-OF-FLYING-AE542E",
+   "zh": "RG 1984 版航空导航（Darul Hana 王宫飞行限制）条例"
+  },
+  {
+   "id": "BN-CAP-113-RG-1984-AIR-NAVIGATION-RESTRICTION-OF-FLYING-59C826",
+   "zh": "RG 1984 版航空导航（监狱设施与拘留场所飞行限制）条例"
+  },
+  {
+   "id": "BN-CAP-290-2024-CIVIL-AVIATION-REGULATIONS",
+   "zh": "民用航空条例"
+  },
+  {
+   "id": "BN-S100-2008-TAKAFUL-ORDER-2008",
+   "zh": "伊斯兰保险命令 2008"
+  },
+  {
+   "id": "BN-CAP-245-2022-SECURED-TRANSACTIONS-ACT",
+   "zh": "担保交易法"
+  },
+  {
+   "id": "BN-S-34-2001-WOMEN-AND-GIRLS-PROTECTION-PLACE-OF-SAFETY-F5A9AD",
+   "zh": "妇女与女童保护安全场所规则 2001"
+  },
+  {
+   "id": "BN-S-86-2013-TELECOMMUNICATIONS-RADIO-COMMUNICATION-REGU-9ADAC4",
+   "zh": "电信无线电通信条例 2013"
+  },
+  {
+   "id": "BN-S-48-2006-E-INSURANCE-ORDER-2006",
+   "zh": "保险命令 2006"
+  },
+  {
+   "id": "BN-S-110-2010-E-DEPOSIT-PROTECTION-ORDER-2010",
+   "zh": "存款保护命令 2010"
+  },
+  {
+   "id": "BN-CAP-34-2022-STAMP-ACT-ACT",
+   "zh": "印花税法"
+  },
+  {
+   "id": "BN-CAP-263-2023-BRUNEI-DARUSSALAM-NATIONAL-ACCREDITATION-49217B",
+   "zh": "文莱达鲁萨兰国国家认可理事会法"
+  },
+  {
+   "id": "BN-CONST-I-2022-CONSTITUTION-OF-BRUNEI-DARUSSALAM-1",
+   "zh": "CONST. I 2022 版文莱达鲁萨兰国宪法(1)"
+  },
+  {
+   "id": "BN-S-37-2010-CHILDREN-AND-YOUNG-PERSONS-APPROVED-SCHOOLS-3760DD",
+   "zh": "儿童与青少年核准学校与核准收容所条例 2010"
+  },
+  {
+   "id": "BN-S-93-2008-PREVENTION-OF-POLLUTION-OF-THE-SEA-OIL-REGU-42F888",
+   "zh": "防止海洋油污染条例 2008"
+  },
+  {
+   "id": "BN-S-25-2014-MENTAL-HEALTH-ORDER-2014-SEC-78",
+   "zh": "精神卫生命令 2014 第 78 条"
+  },
+  {
+   "id": "BN-CAP-35-2013-INCOME-TAX-ACT",
+   "zh": "所得税法"
+  },
+  {
+   "id": "BN-CAP-285-5-2024-MEDICINES-ACT",
+   "zh": "5 2024 版药品法"
+  },
+  {
+   "id": "BN-CAP-35-2021-INCOME-TAX-ACT",
+   "zh": "所得税法"
+  },
+  {
+   "id": "BN-CAP-35-2024-INCOME-TAX-ACT-1",
+   "zh": "所得税法(1)"
+  },
+  {
+   "id": "BN-CAP-252-R1-2022-PLANT-VARIETIES-PROTECTION-RULES",
+   "zh": "R1 2022 版植物品种保护规则"
+  },
+  {
+   "id": "BN-S-38-2001-TELECOMMUNICATIONS-ORDER-2001",
+   "zh": "电信命令 2001"
+  },
+  {
+   "id": "BN-S-103-2010-BRUNEI-DARUSSALAM-CENTRAL-BANK-ORDER-2010",
+   "zh": "文莱达鲁萨兰国中央银行命令 2010"
+  },
+  {
+   "id": "BN-S-34-2003-INFECTIOUS-DISEASES-ORDER-2003-SEC-78",
+   "zh": "传染病命令 2003 第 78 条"
+  },
+  {
+   "id": "BN-CAP-257-2023-MENTAL-HEALTH-ACT",
+   "zh": "精神卫生法"
+  },
+  {
+   "id": "BN-CAP-204-2023-INFECTIOUS-DISEASES",
+   "zh": "传染病"
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT",
+   "zh": "建筑管制法"
+  },
+  {
+   "id": "BN-S-69-2014-BUILDING-CONTROL-ORDER-2014",
+   "zh": "建筑管制命令 2014"
+  },
+  {
+   "id": "BN-CAP-253-2022-COMPETITION-ACT-1",
+   "zh": "竞争法(1)"
+  },
+  {
+   "id": "BN-S-1-2015-COMPETITION-ORDER-2015",
+   "zh": "竞争命令 2015"
+  },
+  {
+   "id": "BN-CAP-254-2022-ANIMAL-DISEASES-AND-QUARANTINE-ACT",
+   "zh": "动物疾病与检疫法"
+  },
+  {
+   "id": "BN-S-43-2002-E-INTERNATIONAL-INSURANCE-AND-TAKAFUL-ORDER-2002",
+   "zh": "国际保险与伊斯兰保险命令 2002"
+  },
+  {
+   "id": "BN-S-45-2011-E-ANTI-TERRORISM-ORDER-2011",
+   "zh": "反恐怖主义命令 2011"
+  },
+  {
+   "id": "BN-CAP-132-O1-2022-LEGAL-PROFESSION-LAW-SOCIETY-OF-BRUNE-C55B44",
+   "zh": "O1 2022 版法律专业（文莱达鲁萨兰国律师协会）命令"
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1",
+   "zh": "土地法典分层法(1)"
+  },
+  {
+   "id": "BN-CAP-6-R-3-2001-MAGISTRATES-COURTS-CIVIL-PROCEDURE-RULES",
+   "zh": "R 3 2001 版治安法庭民事程序规则"
+  },
+  {
+   "id": "BN-S-25-2009-FIRSHERIES-ORDER-2009",
+   "zh": "渔业命令 2009"
+  },
+  {
+   "id": "BN-S-51-2017-E-ELECTRICITY-ORDER-2017",
+   "zh": "电力命令 2017"
+  },
+  {
+   "id": "BN-CAP-271-2024-POSTAL-SERVICES-ACT-1",
+   "zh": "邮政服务法(1)"
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT",
+   "zh": "仲裁法"
+  },
+  {
+   "id": "BN-CAP-223-ELECTRICITY-ACT-1",
+   "zh": "电力法(1)"
+  },
+  {
+   "id": "BN-CAP-50-1984-ROYAL-BRUNEI-POLICE-FORCE-ACT",
+   "zh": "文莱皇家警察部队法"
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000",
+   "zh": "电子交易命令 2000"
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9",
+   "zh": "儿童与青少年安全场所条例 2010"
+  },
+  {
+   "id": "BN-S-61-2015-TOWN-AND-COUNTRY-PLANNING-ORDER-2015",
+   "zh": "城乡规划命令 2015"
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY",
+   "zh": "消防安全"
+  },
+  {
+   "id": "BN-CAP-61-2024-FISHERIES-ACT",
+   "zh": "渔业法"
+  },
+  {
+   "id": "BN-CAP-248-TOWN-AND-COUNTRY-PLANNING-ACT",
+   "zh": "城乡规划法"
+  },
+  {
+   "id": "BN-CAP-252-2022-PLANT-VARIETIES-PROTECTION-ACT",
+   "zh": "植物品种保护法"
+  },
+  {
+   "id": "BN-CAP-277-2024-WORKPLACE-SAFETY-AND-HEALTH-ACT",
+   "zh": "工作场所安全与健康法"
+  },
+  {
+   "id": "BN-CAP-256-RG-1-2023-BUILDING-CONTROL-REGULATIONS",
+   "zh": "RG 1 2023 版建筑管制条例"
+  },
+  {
+   "id": "BN-CAP-221-2021-ALLIED-HEALTH-PROFESSIONS-OF-BRUNEI-DARU-52AA7E",
+   "zh": "文莱达鲁萨兰国联合医疗专业法"
+  },
+  {
+   "id": "BN-CAP-51-2015-PRISONS-ACT-1",
+   "zh": "监狱法(1)"
+  },
+  {
+   "id": "BN-S-1-1983-FINANCIAL-REGULATIONS",
+   "zh": "财务条例"
+  },
+  {
+   "id": "BN-H073",
+   "zh": "文莱电子商务法"
+  },
+  {
+   "id": "BN-CAP-17-2014-IMMIGRATION-ACT",
+   "zh": "移民法"
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT",
+   "zh": "引渡法"
+  },
+  {
+   "id": "BN-CAP-17-2-2023-IMMIGRATION-ACT-1",
+   "zh": "2 2023 版移民法(1)"
+  },
+  {
+   "id": "BN-CAP-196-ELECTRONIC-TRANSATIONS-ACT-1",
+   "zh": "电子交易法(1)"
+  },
+  {
+   "id": "BN-CAP-231-2021-PETROLEUM-AUTHORITY-OF-BRUNEI-DARUSSALAM-ACT",
+   "zh": "文莱达鲁萨兰国石油局法"
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT",
+   "zh": "支付与结算系统监督法"
+  },
+  {
+   "id": "BN-CAP-203-2010-SOCIETIES-ACT",
+   "zh": "社团法"
+  },
+  {
+   "id": "BN-H009",
+   "zh": "电子交易法"
+  },
+  {
+   "id": "BN-CAP-214-2022-UNIVERSITI-TEKNOLOGI-BRUNEI-ACT",
+   "zh": "文莱理工大学法"
+  },
+  {
+   "id": "BN-CAP-188-2000-BROADCASTING-ACT",
+   "zh": "广播法"
+  },
+  {
+   "id": "BN-CAP-286-2024-WILD-FAUNA-AND-FLORA-ACT",
+   "zh": "野生动植物法"
+  },
+  {
+   "id": "BN-CAP-212-2011-UNIVERSITI-ISLAM-SULTAN-SHARIF-ALI-ACT",
+   "zh": "苏丹谢里夫阿里伊斯兰大学法"
+  },
+  {
+   "id": "BN-S-7-2000-E-EMERGENCY-INDUSTRIAL-DESIGNS-ORDER-1999",
+   "zh": "紧急工业设计命令 1999"
+  },
+  {
+   "id": "BN-S-92-2006-COMPREHENSIVE-ECONOMIC-CO-OPERATION-BETWEEN-EAAEDF",
+   "zh": "东南亚国家联盟与中华人民共和国全面经济合作命令 2006"
+  },
+  {
+   "id": "BN-CAP-132-2022-LEGAL-PROFESSION-ACT-1",
+   "zh": "法律专业法(1)"
+  },
+  {
+   "id": "BN-CAP-84-2015-CO-OPERATIVE-SOCIETIES-ACT",
+   "zh": "合作社法"
+  },
+  {
+   "id": "BN-CAP-157-2013-UNIVERSITI-BRUNEI-DARUSSALAM-ACT-1",
+   "zh": "文莱达鲁萨兰大学法(1)"
+  },
+  {
+   "id": "BN-CAP-213-KOLEJ-UNIVERSITI-PERGURUAN-UGAMA-SERI-BEGAWAN-ACT",
+   "zh": "斯里巴加湾宗教师范大专学院法"
+  },
+  {
+   "id": "BN-CAP-46-2013-FOREST-ACT",
+   "zh": "森林法"
+  },
+  {
+   "id": "BN-CAP-132-2006-LEGAL-PROFESSION-ACT",
+   "zh": "法律专业法"
+  },
+  {
+   "id": "BN-CAP-288-2024-SMALL-CLAIMS-TRIBUNALS-ACT",
+   "zh": "小额索偿法庭法"
+  },
+  {
+   "id": "BN-S-21-2023-NATIONAL-RETIREMENT-SCHEME-ORDER-2023",
+   "zh": "国家退休金计划命令 2023"
+  },
+  {
+   "id": "BN-S-7-2005-MUTUAL-ASSISTANCE-IN-CRIMINAL-MATTERS-ORDER-2005",
+   "zh": "刑事事项互助命令 2005"
+  },
+  {
+   "id": "BN-CAP-290-2024-CIVIL-AVIATION-ACT",
+   "zh": "民用航空法"
+  },
+  {
+   "id": "BN-CAP-109-2012-SPECIFIC-RELIEF-ACT",
+   "zh": "特定救济法"
+  },
+  {
+   "id": "BN-CAP-283-2024-NATIONAL-RETIREMENT-SCHEME-ACT",
+   "zh": "国家退休金计划法"
+  },
+  {
+   "id": "BN-S-38-2015-E-INSURANCE-AMENDMENT-ORDER-2015",
+   "zh": "保险修正命令 2015"
+  },
+  {
+   "id": "BN-S-29-1999-E-EMERGENCY-LAND-CODE-STRATA-ORDER1-1999",
+   "zh": "紧急土地法典分层命令 1 1999"
+  },
+  {
+   "id": "BN-S-54-2000-REGISTERED-AGENTS-AND-TRUSTEES-LICENSING-ORDER-2000",
+   "zh": "注册代理人与受托人许可命令 2000"
+  },
+  {
+   "id": "BN-S-33-2011-E-ARCHITECTS-PROFESSIONAL-ENGINEERS-AND-QUA-E8B75D",
+   "zh": "S 33 2011 建筑师、专业工程师与工料测量师命令 2011"
+  },
+  {
+   "id": "BN-CONST-III-RG-1-2023-FINANCIAL-REGULATIONS",
+   "zh": "宪法第三编 RG 1 2023 版财务条例"
+  },
+  {
+   "id": "BN-CAP-14-2000-LIMITATION-ACT-1",
+   "zh": "时效法(1)"
+  },
+  {
+   "id": "BN-CAP-4-2022-INTERPRETATION-AND-GENERAL-CLAUSES-ACT",
+   "zh": "解释与一般条款法"
+  },
+  {
+   "id": "BN-S-39-2005-E-HALAL-CERTIFICATE-AND-HALAL-LABEL-ORDER",
+   "zh": "清真证书与清真标签命令"
+  },
+  {
+   "id": "BN-CAP-84-R-1-2015-CO-OPERATIVE-SOCIETIES-RULES",
+   "zh": "R 1 2015 版合作社规则"
+  },
+  {
+   "id": "BN-S-17-2019-ANTI-TRAFFICKING-IN-PERSONS-ORDER-2019-SEC-50",
+   "zh": "反人口贩运命令 2019 第 50 条"
+  },
+  {
+   "id": "BN-CAP-247-R-1-INSOLVENCYJUDICIAL-MANAGEMENT-RULES",
+   "zh": "R 1 破产司法管理规则"
+  },
+  {
+   "id": "BN-CAP-132-O1-R3-2022-LEGAL-PROFESSION-PRACTICE-AND-ETIQ-067F40",
+   "zh": "O1 R3 2022 版法律专业执业与礼仪规则"
+  },
+  {
+   "id": "BN-CAP-279-2024-INTERNATIONAL-ARBITRATION-ACT",
+   "zh": "国际仲裁法"
+  },
+  {
+   "id": "BN-CAP-292-2024-HIRE-PURCHASE-ACT",
+   "zh": "租购法"
+  },
+  {
+   "id": "BN-CAP-274-2024-HAZARDOUS-WASTE-CONTROL-OF-EXPORT-IMPORT-75DA37",
+   "zh": "危险废物出口、进口与过境控制"
+  },
+  {
+   "id": "BN-CAP-121-2023-WATER-SUPPLY-ACT",
+   "zh": "供水法"
+  },
+  {
+   "id": "BN-CAP-170-1999-SALE-OF-GOODS-ACT",
+   "zh": "货物买卖法"
+  },
+  {
+   "id": "BN-CAP-266-R1-2023-APEQS-RULES",
+   "zh": "文莱法令 R1 2023 版 APEQS 规则"
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT",
+   "zh": "灾害管理法"
+  },
+  {
+   "id": "BN-CAP-119-6-2022-INCOME-TAX-PETROLEUM-ACT",
+   "zh": "6 2022 版石油所得税法"
+  },
+  {
+   "id": "BN-CAP-239-TOURISM-ACT",
+   "zh": "旅游法"
+  },
+  {
+   "id": "BN-S-68-2016-TOURISM-ORDER-2016",
+   "zh": "旅游命令 2016"
+  },
+  {
+   "id": "BN-S-68-2016-TOURISM-ORDER-2016-SEC-48",
+   "zh": "旅游命令 2016 第 48 条"
+  },
+  {
+   "id": "BN-S-59-1958-POLICE-REGULATIONS-1958",
+   "zh": "警察条例 1958"
+  },
+  {
+   "id": "BN-CAP-230-2021-ANTI-TRAFFICKING-IN-PERSONS-ACT",
+   "zh": "反人口贩运法"
+  },
+  {
+   "id": "BN-CAP-277-RG-3-2024-WSAH-GENERAL-PROVISIONS-REGULATIONS",
+   "zh": "RG 3 2024 版工作场所安全与健康一般规定条例"
+  },
+  {
+   "id": "BN-H008",
+   "zh": "网络安全法"
+  },
+  {
+   "id": "BN-S-30-2005-VETERINARY-SURGEONS-ORDER-2005",
+   "zh": "兽医外科医师命令 2005"
+  },
+  {
+   "id": "BN-CAP-157-1999-UNIVERSITI-BRUNEI-DARUSSALAM-ACT",
+   "zh": "文莱达鲁萨兰大学法"
+  },
+  {
+   "id": "BN-CAP-31-2002-ANTIQUITIES-AND-TREASURE-TROVE-ACT",
+   "zh": "古物与埋藏珍宝法"
+  },
+  {
+   "id": "BN-H057",
+   "zh": "消费者保护（公平交易）法"
+  },
+  {
+   "id": "BN-CAP-106-1984-CONTRACTS-ACT",
+   "zh": "合同法"
+  },
+  {
+   "id": "BN-CAP-74-1984-WORKMENS-COMPENSATION-ACT",
+   "zh": "工人赔偿法"
+  },
+  {
+   "id": "BN-CAP-228-2021-RADIATION-PROTECTION-ORDER",
+   "zh": "辐射防护命令"
+  },
+  {
+   "id": "BN-S-43-1999-E-BRUNEI-INTERNATIONAL-AIRPORT-BY-LAWS-1999",
+   "zh": "文莱国际机场附例 1999"
+  },
+  {
+   "id": "BN-CAP-218-RG-1-2012-CHILD-CARE-CENTRES-REGULATIONS-1",
+   "zh": "RG 1 2012 版儿童照护中心条例(1)"
+  },
+  {
+   "id": "BN-CAP-89-2021-FINANCE-COMPANIES-ACT",
+   "zh": "金融公司法"
+  },
+  {
+   "id": "BN-CAP-26-1984-ELECTION-OFFENCES-ACT-1",
+   "zh": "选举罪行法(1)"
+  },
+  {
+   "id": "BN-H028",
+   "zh": "国际仲裁法"
+  },
+  {
+   "id": "BN-CAP-76-2013-MARRIAGE-ACT",
+   "zh": "婚姻法"
+  },
+  {
+   "id": "BN-CAP-131-2019-PREVENTION-OF-CORRUPTION-ACT-1",
+   "zh": "防止腐败法(1)"
+  },
+  {
+   "id": "BN-S-39-2001-E-AITI-OF-BRUNEI-DARUSSALAM-ORDER-2001",
+   "zh": "文莱达鲁萨兰国 AITI 命令 2001"
+  },
+  {
+   "id": "BN-CAP-240-ENVIRONMENTAL-PROTECTION-AND-MANAGEMENT-ACT",
+   "zh": "环境保护与管理法"
+  },
+  {
+   "id": "BN-CAP-57-2022-MUNICIPAL-BOARDS-ACT",
+   "zh": "市政局法"
+  },
+  {
+   "id": "BN-S-49-2006-E-INSURANCE-REGULATIONS-2006",
+   "zh": "保险条例 2006"
+  },
+  {
+   "id": "BN-CAP-131-2014-PREVENTION-OF-CORRUPTION-ACT",
+   "zh": "防止腐败法"
+  },
+  {
+   "id": "BN-CAP-133-R-1-INTERNAL-SECURITY-PLACE-OF-DETENTION-RULES",
+   "zh": "R 1 国内安全拘留场所规则"
+  },
+  {
+   "id": "BN-S-52-2000-CRIMINAL-CONDUCT-RECOVERY-OF-PROCEEDS-ORDER-2000",
+   "zh": "犯罪所得追回命令 2000"
+  },
+  {
+   "id": "BN-S-62-2006-MERCHANT-SHIPPING-REGISTRATION-OF-SHIPS-REGNS-2006",
+   "zh": "商船航运船舶登记条例 2006"
+  },
+  {
+   "id": "BN-CAP-272-CYBERSECURITY-ACT",
+   "zh": "网络安全法"
+  },
+  {
+   "id": "BN-CAP-258-2023-INSTITUTE-OF-BRUNEI-TECHNICAL-EDUCATION-ACT",
+   "zh": "文莱技术教育学院法"
+  },
+  {
+   "id": "BN-CONST-1-S-O-1-2005-STANDING-ORDERS-OF-THE-LEGISLATIVE-COUNCIL",
+   "zh": "CONST. 1 S.O.1 2005 版立法会议事规则"
+  },
+  {
+   "id": "BN-CAP-148-2021-PUBLIC-ORDER-ACT-1",
+   "zh": "公共秩序法 1"
+  },
+  {
+   "id": "BN-S-84-2004-E-EMPLOYMENT-AGENCIES-ORDER-2004-1",
+   "zh": "职业介绍所命令 2004(1)"
+  }
+ ]
+}

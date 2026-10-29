@@ -1,0 +1,92 @@
+{
+  "types": {
+    "Luật": {
+      "zh": "法",
+      "en": "Law",
+      "vi": "Luật",
+      "th": "พระราชบัญญัติ",
+      "id": "Undang-Undang",
+      "ms": "Akta"
+    },
+    "Bộ luật": {
+      "zh": "法典",
+      "en": "Code",
+      "vi": "Bộ luật",
+      "th": "ประมวลกฎหมาย",
+      "id": "Kitab Undang-Undang",
+      "ms": "Kanun"
+    },
+    "Pháp lệnh": {
+      "zh": "法令",
+      "en": "Ordinance",
+      "vi": "Pháp lệnh",
+      "th": "พระราชกำหนด",
+      "id": "Ordinansi",
+      "ms": "Ordinan"
+    },
+    "Nghị định": {
+      "zh": "议定",
+      "en": "Decree",
+      "vi": "Nghị định",
+      "th": "พระราชกฤษฎีกา",
+      "id": "Peraturan Pemerintah",
+      "ms": "Peraturan"
+    },
+    "Quyết định": {
+      "zh": "决定",
+      "en": "Decision",
+      "vi": "Quyết định",
+      "th": "ประกาศ",
+      "id": "Keputusan",
+      "ms": "Keputusan"
+    },
+    "Thông tư": {
+      "zh": "通知",
+      "en": "Circular",
+      "vi": "Thông tư",
+      "th": "ประกาศ",
+      "id": "Surat Edaran",
+      "ms": "Pekeliling"
+    },
+    "Hiến pháp": {
+      "zh": "宪法",
+      "en": "Constitution",
+      "vi": "Hiến pháp",
+      "th": "รัฐธรรมนูญ",
+      "id": "Undang-Undang Dasar",
+      "ms": "Perlembagaan"
+    },
+    "Lệnh": {
+      "zh": "主席令",
+      "en": "Order",
+      "vi": "Lệnh",
+      "th": "คำสั่ง",
+      "id": "Perintah",
+      "ms": "Perintah"
+    },
+    "Sắc lệnh": {
+      "zh": "敕令",
+      "en": "Decree-Law",
+      "vi": "Sắc lệnh",
+      "th": "กฤษฎีกา",
+      "id": "Maklumat",
+      "ms": "Ordinan"
+    },
+    "Nghị quyết": {
+      "zh": "决议",
+      "en": "Resolution",
+      "vi": "Nghị quyết",
+      "th": "มติ",
+      "id": "Resolusi",
+      "ms": "Resolusi"
+    },
+    "Chỉ thị": {
+      "zh": "指示",
+      "en": "Directive",
+      "vi": "Chỉ thị",
+      "th": "คำสั่ง",
+      "id": "Instruksi",
+      "ms": "Arahan"
+    }
+  }
+}

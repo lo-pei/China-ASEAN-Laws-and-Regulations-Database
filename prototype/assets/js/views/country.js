@@ -91,7 +91,6 @@
               '</div>' +
               '<div class="toolbar__right">' +
                 '<a class="btn btn--outline btn--sm" href="#/search?country=' + esc(code) + '">' + esc(t('在检索中查看')) + '</a>' +
-                '<a class="btn btn--outline btn--sm" href="#/compare">' + esc(t('选取条文比对')) + '</a>' +
               '</div>' +
             '</div>' +
             (tab === 'treaty' ? renderTreaties(treaties) : renderLaws(levels, code, parseInt(query.page || 1, 10))) +

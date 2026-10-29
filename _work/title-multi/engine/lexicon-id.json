@@ -1,0 +1,488 @@
+{
+ "_note": "ID 基础术语表：类型词 + 动词前缀。主题词见 lexicon-id-add*.json",
+ "types": {
+  "UU": {
+   "zh": "法",
+   "en": "Law",
+   "vi": "Luật",
+   "th": "พระราชบัญญัติ",
+   "id": "Undang-Undang",
+   "ms": "Akta"
+  },
+  "PP": {
+   "zh": "政府条例",
+   "en": "Government Regulation",
+   "vi": "Nghị định",
+   "th": "พระราชกฤษฎีกา",
+   "id": "Peraturan Pemerintah",
+   "ms": "Peraturan Kerajaan"
+  },
+  "DEFAULT": {
+   "zh": "法",
+   "en": "Law",
+   "vi": "Luật",
+   "th": "พระราชบัญญัติ",
+   "id": "Undang-Undang",
+   "ms": "Akta"
+  },
+  "UUD": {
+   "zh": "紧急法令",
+   "en": "Emergency Law",
+   "vi": "Sắc lệnh khẩn cấp",
+   "th": "พระราชกำหนด",
+   "id": "Undang-Undang Darurat",
+   "ms": "Undang-Undang Darurat"
+  },
+  "PERPPU": {
+   "zh": "代法令政府条例",
+   "en": "Government Regulation in Lieu of Law",
+   "vi": "Nghị định thay thế luật",
+   "th": "พระราชกำหนด",
+   "id": "Peraturan Pemerintah Pengganti Undang-Undang",
+   "ms": "Peraturan Kerajaan Pengganti Undang-Undang"
+  },
+  "PERPRES": {
+   "zh": "总统条例",
+   "en": "Presidential Regulation",
+   "vi": "Nghị định của Tổng thống",
+   "th": "กฎกระทรวง",
+   "id": "Peraturan Presiden",
+   "ms": "Peraturan Presiden"
+  },
+  "KEPPRES": {
+   "zh": "总统决定",
+   "en": "Presidential Decision",
+   "vi": "Quyết định của Tổng thống",
+   "th": "คำสั่ง",
+   "id": "Keputusan Presiden",
+   "ms": "Keputusan Presiden"
+  },
+  "KEPMEN": {
+   "zh": "部长决定",
+   "en": "Ministerial Decision",
+   "vi": "Quyết định của Bộ trưởng",
+   "th": "คำสั่งกระทรวง",
+   "id": "Keputusan Menteri",
+   "ms": "Keputusan Menteri"
+  },
+  "PERMEN": {
+   "zh": "部长条例",
+   "en": "Ministerial Regulation",
+   "vi": "Thông tư của Bộ trưởng",
+   "th": "กฎกระทรวง",
+   "id": "Peraturan Menteri",
+   "ms": "Peraturan Menteri"
+  }
+ },
+ "verbs": {
+  "PERUBAHAN": {
+   "zh": "修订",
+   "en": "Amendment",
+   "vi": "Sửa đổi",
+   "th": "แก้ไข",
+   "id": "Perubahan",
+   "ms": "Pindaan"
+  },
+  "PEMBENTUKAN": {
+   "zh": "设立",
+   "en": "Establishment",
+   "vi": "Thành lập",
+   "th": "จัดตั้ง",
+   "id": "Pembentukan",
+   "ms": "Penubuhan"
+  },
+  "PENAMBAHAN": {
+   "zh": "增设",
+   "en": "Addition",
+   "vi": "Bổ sung",
+   "th": "เพิ่มเติม",
+   "id": "Penambahan",
+   "ms": "Penambahan"
+  },
+  "PENETAPAN": {
+   "zh": "确定",
+   "en": "Determination",
+   "vi": "Xác định",
+   "th": "กำหนด",
+   "id": "Penetapan",
+   "ms": "Penetapan"
+  },
+  "PENGESAHAN": {
+   "zh": "批准",
+   "en": "Ratification",
+   "vi": "Phê chuẩn",
+   "th": "ให้สัตยาบัน",
+   "id": "Pengesahan",
+   "ms": "Pengesahan"
+  },
+  "PEMBERIAN": {
+   "zh": "授予",
+   "en": "Granting",
+   "vi": "Cấp",
+   "th": "ให้",
+   "id": "Pemberian",
+   "ms": "Pemberian"
+  },
+  "PENYELENGGARAAN": {
+   "zh": "举办",
+   "en": "Organisation",
+   "vi": "Tổ chức",
+   "th": "จัด",
+   "id": "Penyelenggaraan",
+   "ms": "Penganjuran"
+  },
+  "PERHITUNGAN": {
+   "zh": "计算",
+   "en": "Calculation",
+   "vi": "Tính toán",
+   "th": "คำนวณ",
+   "id": "Perhitungan",
+   "ms": "Pengiraan"
+  },
+  "PENGHITUNGAN": {
+   "zh": "计算",
+   "en": "Calculation",
+   "vi": "Tính toán",
+   "th": "คำนวณ",
+   "id": "Penghitungan",
+   "ms": "Penghitungan"
+  },
+  "PEMINDAHAN": {
+   "zh": "移交",
+   "en": "Transfer",
+   "vi": "Chuyển giao",
+   "th": "โอนย้าย",
+   "id": "Pemindahan",
+   "ms": "Pemindahan"
+  },
+  "PENGALIHAN": {
+   "zh": "转拨",
+   "en": "Reallocation",
+   "vi": "Chuyển",
+   "th": "โอน",
+   "id": "Pengalihan",
+   "ms": "Pengalihan"
+  },
+  "PENGELOLAAN": {
+   "zh": "管理",
+   "en": "Management",
+   "vi": "Quản lý",
+   "th": "บริหารจัดการ",
+   "id": "Pengelolaan",
+   "ms": "Pengurusan"
+  },
+  "PELAKSANAAN": {
+   "zh": "实施",
+   "en": "Implementation",
+   "vi": "Thực hiện",
+   "th": "ดำเนินการ",
+   "id": "Pelaksanaan",
+   "ms": "Pelaksanaan"
+  },
+  "PENYERTAAN": {
+   "zh": "参与",
+   "en": "Participation",
+   "vi": "Tham gia",
+   "th": "เข้าร่วม",
+   "id": "Penyertaan",
+   "ms": "Penyertaan"
+  },
+  "PENCABUTAN": {
+   "zh": "废止",
+   "en": "Revocation",
+   "vi": "Bãi bỏ",
+   "th": "ยกเลิก",
+   "id": "Pencabutan",
+   "ms": "Pembatalan"
+  },
+  "PENDIRIAN": {
+   "zh": "成立",
+   "en": "Establishment",
+   "vi": "Thành lập",
+   "th": "ก่อตั้ง",
+   "id": "Pendirian",
+   "ms": "Penubuhan"
+  },
+  "PENJUALAN": {
+   "zh": "出售",
+   "en": "Sale",
+   "vi": "Bán",
+   "th": "ขาย",
+   "id": "Penjualan",
+   "ms": "Penjualan"
+  },
+  "PEMBUBARAN": {
+   "zh": "解散",
+   "en": "Dissolution",
+   "vi": "Giải thể",
+   "th": "ยุบเลิก",
+   "id": "Pembubaran",
+   "ms": "Pembubaran"
+  },
+  "PENGENAAN": {
+   "zh": "征收",
+   "en": "Imposition",
+   "vi": "Áp dụng",
+   "th": "จัดเก็บ",
+   "id": "Pengenaan",
+   "ms": "Pengenaan"
+  },
+  "PEMBINAAN": {
+   "zh": "培育",
+   "en": "Development",
+   "vi": "Xây dựng",
+   "th": "ส่งเสริม",
+   "id": "Pembinaan",
+   "ms": "Pembinaan"
+  },
+  "PENYERAHAN": {
+   "zh": "交付",
+   "en": "Handover",
+   "vi": "Chuyển giao",
+   "th": "ส่งมอบ",
+   "id": "Penyerahan",
+   "ms": "Penyerahan"
+  },
+  "PEMBAYARAN": {
+   "zh": "支付",
+   "en": "Payment",
+   "vi": "Thanh toán",
+   "th": "ชำระเงิน",
+   "id": "Pembayaran",
+   "ms": "Pembayaran"
+  },
+  "PENGGUNAAN": {
+   "zh": "使用",
+   "en": "Use",
+   "vi": "Sử dụng",
+   "th": "ใช้",
+   "id": "Penggunaan",
+   "ms": "Penggunaan"
+  },
+  "PENGADAAN": {
+   "zh": "采购",
+   "en": "Procurement",
+   "vi": "Mua sắm",
+   "th": "จัดหา",
+   "id": "Pengadaan",
+   "ms": "Perolehan"
+  },
+  "PENGANGKATAN": {
+   "zh": "任命",
+   "en": "Appointment",
+   "vi": "Bổ nhiệm",
+   "th": "แต่งตั้ง",
+   "id": "Pengangkatan",
+   "ms": "Pelantikan"
+  },
+  "PENGHAPUSAN": {
+   "zh": "核销",
+   "en": "Write-off",
+   "vi": "Xóa bỏ",
+   "th": "ตัดจำหน่าย",
+   "id": "Penghapusan",
+   "ms": "Penghapusan"
+  },
+  "PENGGANTIAN": {
+   "zh": "补偿",
+   "en": "Replacement",
+   "vi": "Thay thế",
+   "th": "ทดแทน",
+   "id": "Penggantian",
+   "ms": "Penggantian"
+  },
+  "PEMILIHAN": {
+   "zh": "选举",
+   "en": "Election",
+   "vi": "Bầu cử",
+   "th": "เลือกตั้ง",
+   "id": "Pemilihan",
+   "ms": "Pemilihan"
+  },
+  "PENATAAN": {
+   "zh": "整理",
+   "en": "Arrangement",
+   "vi": "Sắp xếp",
+   "th": "จัดระเบียบ",
+   "id": "Penataan",
+   "ms": "Penyusunan"
+  },
+  "PENILAIAN": {
+   "zh": "评估",
+   "en": "Assessment",
+   "vi": "Đánh giá",
+   "th": "ประเมิน",
+   "id": "Penilaian",
+   "ms": "Penilaian"
+  },
+  "PEMANFAATAN": {
+   "zh": "利用",
+   "en": "Utilisation",
+   "vi": "Sử dụng",
+   "th": "ใช้ประโยชน์",
+   "id": "Pemanfaatan",
+   "ms": "Pemanfaatan"
+  },
+  "PENUNDAAN": {
+   "zh": "推迟",
+   "en": "Postponement",
+   "vi": "Hoãn",
+   "th": "เลื่อน",
+   "id": "Penundaan",
+   "ms": "Penangguhan"
+  },
+  "PENGECUALIAN": {
+   "zh": "豁免",
+   "en": "Exemption",
+   "vi": "Miễn trừ",
+   "th": "ยกเว้น",
+   "id": "Pengecualian",
+   "ms": "Pengecualian"
+  },
+  "PERPANJANGAN": {
+   "zh": "延长",
+   "en": "Extension",
+   "vi": "Gia hạn",
+   "th": "ต่ออายุ",
+   "id": "Perpanjangan",
+   "ms": "Pelanjutan"
+  },
+  "PENGEMBALIAN": {
+   "zh": "返还",
+   "en": "Return",
+   "vi": "Hoàn trả",
+   "th": "คืน",
+   "id": "Pengembalian",
+   "ms": "Pemulangan"
+  },
+  "PEMBEBASAN": {
+   "zh": "免除",
+   "en": "Exemption",
+   "vi": "Miễn",
+   "th": "ปลดเปลื้อง",
+   "id": "Pembebasan",
+   "ms": "Pelepasan"
+  },
+  "PENANGGUNGAN": {
+   "zh": "承担",
+   "en": "Assumption",
+   "vi": "Gánh chịu",
+   "th": "รับภาระ",
+   "id": "Penanggungan",
+   "ms": "Penanggungan"
+  },
+  "PENYIMPANAN": {
+   "zh": "储存",
+   "en": "Storage",
+   "vi": "Lưu trữ",
+   "th": "จัดเก็บ",
+   "id": "Penyimpanan",
+   "ms": "Penyimpanan"
+  },
+  "PENGIRIMAN": {
+   "zh": "发运",
+   "en": "Dispatch",
+   "vi": "Gửi",
+   "th": "ส่ง",
+   "id": "Pengiriman",
+   "ms": "Penghantaran"
+  },
+  "PEMASUKAN": {
+   "zh": "列入",
+   "en": "Inclusion",
+   "vi": "Đưa vào",
+   "th": "นำเข้า",
+   "id": "Pemasukan",
+   "ms": "Kemasukan"
+  },
+  "PENGELUARAN": {
+   "zh": "支出",
+   "en": "Expenditure",
+   "vi": "Chi",
+   "th": "จ่าย",
+   "id": "Pengeluaran",
+   "ms": "Perbelanjaan"
+  },
+  "PEMUNGUTAN": {
+   "zh": "征收",
+   "en": "Collection",
+   "vi": "Thu",
+   "th": "จัดเก็บ",
+   "id": "Pemungutan",
+   "ms": "Pemungutan"
+  },
+  "PENARIKAN": {
+   "zh": "提取",
+   "en": "Withdrawal",
+   "vi": "Rút",
+   "th": "ถอน",
+   "id": "Penarikan",
+   "ms": "Pengeluaran"
+  },
+  "PEMUTUSAN": {
+   "zh": "终止",
+   "en": "Termination",
+   "vi": "Chấm dứt",
+   "th": "เลิกสัญญา",
+   "id": "Pemutusan",
+   "ms": "Pemutusan"
+  },
+  "PENYIDIKAN": {
+   "zh": "侦查",
+   "en": "Investigation",
+   "vi": "Điều tra",
+   "th": "สืบสวน",
+   "id": "Penyidikan",
+   "ms": "Siasatan"
+  },
+  "PENUNTUTAN": {
+   "zh": "起诉",
+   "en": "Prosecution",
+   "vi": "Truy tố",
+   "th": "ฟ้องร้อง",
+   "id": "Penuntutan",
+   "ms": "Pendakwaan"
+  },
+  "PEMERIKSAAN": {
+   "zh": "检查",
+   "en": "Examination",
+   "vi": "Kiểm tra",
+   "th": "ตรวจสอบ",
+   "id": "Pemeriksaan",
+   "ms": "Pemeriksaan"
+  },
+  "PENCARIAN": {
+   "zh": "搜寻",
+   "en": "Search",
+   "vi": "Tìm kiếm",
+   "th": "ค้นหา",
+   "id": "Pencarian",
+   "ms": "Pencarian"
+  },
+  "PENGATURAN": {
+   "zh": "规范",
+   "en": "Regulation",
+   "vi": "Quy định",
+   "th": "กำหนดระเบียบ",
+   "id": "Pengaturan",
+   "ms": "Pengaturan"
+  },
+  "PENYESUAIAN": {
+   "zh": "调整",
+   "en": "Adjustment",
+   "vi": "Điều chỉnh",
+   "th": "ปรับปรุง",
+   "id": "Penyesuaian",
+   "ms": "Penyelarasan"
+  },
+  "PENETAPAN KEMBALI": {
+   "zh": "重新确定",
+   "en": "Redetermination",
+   "vi": "Xác định lại",
+   "th": "กำหนดใหม่",
+   "id": "Penetapan Kembali",
+   "ms": "Penetapan Semula"
+  }
+ },
+ "terms": {}
+}

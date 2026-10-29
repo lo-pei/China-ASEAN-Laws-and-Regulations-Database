@@ -221,11 +221,11 @@
                 return '<button type="button" class="btn btn--sm' + (x.id === type ? ' is-active' : '') + '" data-stype="' + x.id + '">' + esc(t(x.label)) + '</button>';
               }).join('') + '</div>' +
               '<span class="mini muted" style="margin-left:8px">' + esc(t('检索方式')) + '</span>' +
-              '<select class="select" id="s-mode" style="width:auto;padding:5px 26px 5px 8px">' +
-                opt('keyword', '关键词检索', query.mode || 'keyword') +
-                opt('semantic', '自然语言检索', query.mode) +
-                opt('exact', '法条编号检索', query.mode) +
-              '</select>' +
+              CALR.ui.dropdown({ id: 's-mode', value: query.mode || 'keyword', title: t('检索方式'), options: [
+                { v: 'keyword', label: t('关键词检索') },
+                { v: 'semantic', label: t('自然语言检索') },
+                { v: 'exact', label: t('法条编号检索') }
+              ] }) +
               /* 检索词紧随其后，同一行展示，并带清除按钮 */
               (q ? '<span class="kw-chip">' + esc(q) +
                 '<button type="button" class="kw-chip__x" id="kw-clear" title="' +
@@ -233,9 +233,10 @@
               /* 侧栏筛选产生的标签与检索词同行显示，不再单独占一行 */
               activeChips(query, true) +
                   '<span class="mini muted" style="margin-left:auto">' + esc(t('排序')) + '</span>' +
-              '<select class="select" id="s-sort" style="width:auto;padding:5px 26px 5px 8px">' +
-                opt('relevance', '相关度', sort) + opt('date', '日期', sort) +
-              '</select>' +
+              CALR.ui.dropdown({ id: 's-sort', value: sort, title: t('排序'), options: [
+                { v: 'relevance', label: t('相关度') },
+                { v: 'date', label: t('日期') }
+              ] }) +
             '</div>' +
           '</form>' +
         '</div>' +
@@ -256,21 +257,24 @@
                 '</span>' +
               '<div class="toolbar__right">' +
                 '<label class="mini muted" for="s-size">' + esc(t('每页')) + '</label>' +
-                '<select class="select" id="s-size" style="width:auto;padding:5px 26px 5px 8px" title="' + esc(t('每页条数')) + '">' +
-                  PAGE_SIZES.map(function (n) {
-                    return '<option value="' + n + '"' + (n === size ? ' selected' : '') + '>' + n + '</option>';
-                  }).join('') +
-                '</select>' +
+                CALR.ui.dropdown({ id: 's-size', value: size, title: t('每页条数'), options: PAGE_SIZES.map(function (n) {
+                  return { v: n, label: String(n) };
+                }) }) +
                 '<a class="btn btn--outline btn--sm" href="#/systems">' + esc(t('法律体系对照')) + '</a>' +
               '</div>' +
             '</div>' +
-              resultFilterBar(type, query, size, sort) +
-              '<div id="adv-panel" class="card card--pad" hidden style="margin-bottom:14px">' +
-                advPanel(type, query) +
-              '</div>' +
               '<div id="result-list">' + renderResults(type, res, q) + '</div>' +
             pager(page, totalPages, size) +
           '</div>' +
+        '</div>' +
+        '<div class="modal-mask" id="adv-mask" hidden></div>' +
+        '<div class="modal modal--adv" id="adv-panel" role="dialog" aria-modal="true" aria-labelledby="adv-title" hidden>' +
+          '<div class="modal__head">' +
+            '<div><h3 class="modal__title" id="adv-title">' + esc(t('高级检索')) + '</h3>' +
+              '<p class="mini muted modal__sub">' + esc(t('筛选条件')) + '</p></div>' +
+            '<button class="modal__x" id="adv-close" type="button" aria-label="' + esc(t('关闭')) + '">×</button>' +
+          '</div>' +
+          '<div class="modal__body">' + advPanel(type, query) + '</div>' +
         '</div>' +
       '</div>';
 
@@ -284,25 +288,11 @@
           CALR.router.go(CALR.router.buildUrl('/search', { type: b.getAttribute('data-stype') }));
         });
       });
-      var modeSel = U().$('#s-mode', main);
-      if (modeSel) U().on(modeSel, 'change', function () { go({ mode: modeSel.value, page: 1 }); });
-      U().on(U().$('#s-sort', main), 'change', function (e) { go({ sort: e.target.value, page: 1 }); });
-      /* 结果区快捷筛选/排序（参考设计稿的横向工具条） */
-      [['rf-issuer', 'issuer'], ['rf-status', 'status'], ['rf-level', 'level']].forEach(function (pair) {
-        var sel = U().$('#' + pair[0], main);
-        if (sel) U().on(sel, 'change', function (e) {
-          var patch = { page: 1 }; patch[pair[1]] = e.target.value;
-          go(patch);
-        });
+      CALR.ui.bindDropdowns(main, function (id, value) {
+        if (id === 's-mode') go({ mode: value, page: 1 });
+        else if (id === 's-sort') go({ sort: value, page: 1 });
+        else if (id === 's-size') go({ size: parseInt(value, 10), page: 1 });
       });
-      var rfSort = U().$('#rf-sort', main);
-      if (rfSort) U().on(rfSort, 'change', function (e) { go({ sort: e.target.value, page: 1 }); });
-      var rfReset = U().$('#rf-reset', main);
-      if (rfReset) U().on(rfReset, 'click', function () {
-        go({ issuer: '', status: '', level: '', sort: 'relevance', page: 1 });
-      });
-      var sizeSel = U().$('#s-size', main);
-      if (sizeSel) U().on(sizeSel, 'change', function (e) { go({ size: parseInt(e.target.value, 10), page: 1 }); });
       var kwClear = U().$('#kw-clear', main);
       if (kwClear) U().on(kwClear, 'click', function () {
         var inp = U().$('#s-q', main);
@@ -321,25 +311,35 @@
           go(next);
         });
       });
-      /* ---------------- 高级检索面板 ---------------- */
+      /* ---------------- 高级检索弹窗 ---------------- */
       var advPanelEl = U().$('#adv-panel', main);
+      var advMask = U().$('#adv-mask', main);
       var advToggle = U().$('#adv-toggle', main);
       function advOpen(open) {
         if (!advPanelEl) return;
         advPanelEl.hidden = !open;
+        if (advMask) advMask.hidden = !open;
+        document.body.classList.toggle('no-scroll', open);
         if (advToggle) {
           advToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
           advToggle.classList.toggle('is-active', open);
         }
+        if (open) {
+          var first = advPanelEl.querySelector('select, input');
+          if (first) setTimeout(function () { try { first.focus({ preventScroll: true }); } catch (e) {} }, 30);
+        }
       }
-      /* 仅当存在「高级检索面板专属」的条件时才默认展开；
-         检索方式（mode）属于顶部检索栏，不参与判断——否则切换检索方式会误触发面板展开。 */
+      /* 已有高级条件时只给按钮标记状态，不自动弹窗 */
       var advActive = !!(arr(query.issuer).length || arr(query.lang).length ||
         query.from || query.to || query.effFrom || query.effTo);
-      advOpen(advActive);
+      if (advActive && advToggle) advToggle.classList.add('is-active');
 
-      U().on(advToggle, 'click', function () { advOpen(advPanelEl ? advPanelEl.hidden : false); });
+      if (advToggle) U().on(advToggle, 'click', function () { advOpen(advPanelEl ? advPanelEl.hidden : false); });
+      if (advMask) U().on(advMask, 'click', function () { advOpen(false); });
       U().on(U().$('#adv-close', main), 'click', function () { advOpen(false); });
+      U().on(main, 'keydown', function (e) {
+        if (e.key === 'Escape' && advPanelEl && !advPanelEl.hidden) advOpen(false);
+      });
 
       U().on(U().$('#adv-apply', main), 'click', function () {
         function val(id) { var e = U().$(id, main); return e ? e.value : ''; }
@@ -359,6 +359,7 @@
           U().toast(t('日期区间的起始日期不能晚于结束日期'), 'warn');
           return;
         }
+        advOpen(false);
         go(next);
       });
 
@@ -421,60 +422,6 @@
     return '<option value="' + esc(v) + '"' + (v === cur ? ' selected' : '') + '>' + esc(t(label)) + '</option>';
   }
 
-  /** 结果区横向筛选/排序条：制定机关、时效性、层级 + 排序 */
-  function resultFilterBar(type, query, size, sort) {
-    if (type !== 'law') return '';
-    var pool = {};
-    S().laws().forEach(function (l) {
-      var n = tr(l.issuingBody);
-      if (n) pool[n] = (pool[n] || 0) + 1;
-    });
-    var issuers = Object.keys(pool).sort(function (a, b) { return pool[b] - pool[a]; });
-    var curIssuer = arr(query.issuer)[0] || '';
-    if (curIssuer && issuers.indexOf(curIssuer) < 0) issuers.unshift(curIssuer);
-    var curStatus = arr(query.status)[0] || '';
-    var curLevel = arr(query.level)[0] || '';
-
-    function sel(id, cur, items) {
-      return '<select class="select" id="' + id + '" style="width:auto;padding:5px 26px 5px 8px">' +
-        '<option value="">' + esc(t('全部')) + '</option>' +
-        items.map(function (it) {
-          return '<option value="' + U().attr(it.v) + '"' + (it.v === cur ? ' selected' : '') + '>' +
-            esc(it.label) + '</option>';
-        }).join('') + '</select>';
-    }
-
-    var statuses = S().statuses().map(function (s) { return { v: s.id, label: tr(s.name) }; });
-    var levels = S().levels().map(function (l) { return { v: l.id, label: tr(l.name) }; });
-    var sortOpts = [
-      { v: 'relevance', label: t('相关度') },
-      { v: 'level', label: t('法律层级') },
-      { v: 'issuer', label: t('制定机关') },
-      { v: 'status', label: t('时效性') },
-      { v: 'date', label: t('公布日期') },
-      { v: 'effective', label: t('施行日期') }
-    ];
-
-    return '<div class="result-filter" id="result-filter">' +
-      '<span class="result-filter__label">' + esc(t('筛选')) + '</span>' +
-      '<label class="result-filter__item"><span class="mini muted">' + esc(t('制定机关')) + '</span>' +
-        sel('rf-issuer', curIssuer, issuers.slice(0, 60).map(function (n) {
-          return { v: n, label: issuerLabel(n) + '（' + pool[n] + '）' };
-        })) + '</label>' +
-      '<label class="result-filter__item"><span class="mini muted">' + esc(t('时效性')) + '</span>' +
-        sel('rf-status', curStatus, statuses) + '</label>' +
-      '<label class="result-filter__item"><span class="mini muted">' + esc(t('法律层级')) + '</span>' +
-        sel('rf-level', curLevel, levels) + '</label>' +
-      '<span class="result-filter__spacer"></span>' +
-      '<label class="result-filter__item"><span class="mini muted">' + esc(t('排序')) + '</span>' +
-        '<select class="select" id="rf-sort" style="width:auto;padding:5px 26px 5px 8px">' +
-          sortOpts.map(function (o) {
-            return '<option value="' + esc(o.v) + '"' + (o.v === sort ? ' selected' : '') + '>' + esc(o.label) + '</option>';
-          }).join('') + '</select></label>' +
-      '<button class="btn btn--ghost btn--sm" id="rf-reset" type="button">' + esc(t('重置筛选')) + '</button>' +
-    '</div>';
-  }
-
   function group(title, key, items, query) {
     if (!items.length) return '';
     var checked = arr(query[key]);
@@ -507,60 +454,50 @@
     var curIssuer = arr(query.issuer)[0] || '';
     var curLang = arr(query.lang)[0] || '';
 
-    var out = '<div class="row" style="gap:12px;flex-wrap:wrap;align-items:flex-end">';
+    var out = '<div class="adv-form"><div class="adv-row adv-row--3">';
 
     /* 制定机关 */
-    out += '<label class="small" style="flex:2 1 260px;min-width:220px">' + esc(t('制定机关')) +
-      '<select class="select" id="adv-issuer" style="width:100%;margin-top:4px">' +
-        '<option value="">' + esc(t('不限')) + '</option>' +
-        issuerList.map(function (n) {
-          return '<option value="' + U().attr(n) + '"' + (n === curIssuer ? ' selected' : '') + '>' +
-            esc(issuerLabel(n)) + '（' + pool[n] + '）</option>';
-        }).join('') +
-      '</select></label>';
+    out += '<label class="small">' + esc(t('制定机关')) +
+      CALR.ui.dropdown({ id: 'adv-issuer', value: curIssuer, title: t('制定机关'), options: [{ v: '', label: t('不限') }].concat(issuerList.map(function (n) {
+        return { v: n, label: issuerLabel(n) + '（' + pool[n] + '）' };
+      })) }) + '</label>';
 
     /* 语种 */
-    out += '<label class="small" style="flex:1 1 180px;min-width:160px">' + esc(t('语言')) +
-      '<select class="select" id="adv-lang" style="width:100%;margin-top:4px">' +
-        '<option value="">' + esc(t('不限')) + '</option>' +
-        S().languages().map(function (l) {
-          return '<option value="' + U().attr(l.code) + '"' + (l.code === curLang ? ' selected' : '') + '>' +
-            esc(l.nativeName) + '</option>';
-        }).join('') +
-      '</select></label>';
+    out += '<label class="small">' + esc(t('语言')) +
+      CALR.ui.dropdown({ id: 'adv-lang', value: curLang, title: t('语言'), options: [{ v: '', label: t('不限') }].concat(S().languages().map(function (l) {
+        return { v: l.code, label: l.nativeName };
+      })) }) + '</label>';
 
     /* 检索方式 */
-    out += '<label class="small" style="flex:1 1 180px;min-width:160px">' + esc(t('检索方式')) +
-      '<select class="select" id="adv-mode" style="width:100%;margin-top:4px">' +
-        ['keyword', 'exact', 'semantic'].map(function (m) {
-          return '<option value="' + m + '"' + ((query.mode || 'keyword') === m ? ' selected' : '') + '>' +
-            esc({ keyword: t('关键词检索'), exact: t('精确编号检索'), semantic: t('语义检索') }[m]) + '</option>';
-        }).join('') +
-      '</select></label>';
-
+    out += '<label class="small">' + esc(t('检索方式')) +
+      CALR.ui.dropdown({ id: 'adv-mode', value: query.mode || 'keyword', title: t('检索方式'), options: [
+        { v: 'keyword', label: t('关键词检索') },
+        { v: 'exact', label: t('精确编号检索') },
+        { v: 'semantic', label: t('语义检索') }
+      ] }) + '</label>';
     out += '</div>';
 
     /* 日期区间 */
-    out += '<div class="row" style="gap:12px;flex-wrap:wrap;margin-top:12px;align-items:flex-end">';
-    out += '<label class="small" style="flex:1 1 260px;min-width:220px">' + esc(t('公布日期')) +
-      '<div class="row" style="gap:6px;margin-top:4px">' +
+    out += '<div class="adv-row adv-row--2">';
+    out += '<label class="small">' + esc(t('公布日期')) +
+      '<div class="date-pair">' +
         '<input type="date" class="input" id="adv-from" value="' + U().attr(query.from || '') + '" style="flex:1;min-width:0">' +
         '<span class="mini muted">—</span>' +
         '<input type="date" class="input" id="adv-to" value="' + U().attr(query.to || '') + '" style="flex:1;min-width:0">' +
       '</div></label>';
-    out += '<label class="small" style="flex:1 1 260px;min-width:220px">' + esc(t('施行日期')) +
-      '<div class="row" style="gap:6px;margin-top:4px">' +
+    out += '<label class="small">' + esc(t('施行日期')) +
+      '<div class="date-pair">' +
         '<input type="date" class="input" id="adv-eff-from" value="' + U().attr(query.effFrom || '') + '" style="flex:1;min-width:0">' +
         '<span class="mini muted">—</span>' +
         '<input type="date" class="input" id="adv-eff-to" value="' + U().attr(query.effTo || '') + '" style="flex:1;min-width:0">' +
       '</div></label>';
     out += '</div>';
 
-    out += '<div class="row" style="margin-top:12px">' +
+    out += '<div class="adv-actions">' +
       '<button class="btn btn--sm" id="adv-apply" type="button">' + esc(t('应用条件')) + '</button>' +
       '<button class="btn btn--ghost btn--sm" id="adv-clear" type="button">' + esc(t('清空高级条件')) + '</button>' +
-      '<button class="btn btn--ghost btn--sm" id="adv-close" type="button">' + esc(t('收起')) + '</button>' +
       '</div>';
+    out += '</div>';
     return out;
   }
 
@@ -579,25 +516,16 @@
     }), query);
 
     if (type === 'law') {
-      out += group(t('按主题'), 'topic', S().topics().map(function (tp) {
-        return { v: tp.id, label: tr(tp.name), count: tp.lawCount || 0 };
-      }), query);
-
-      var issuerPool = {};
-      S().laws().forEach(function (l) {
-        var n = tr(l.issuingBody);
-        if (n) issuerPool[n] = (issuerPool[n] || 0) + 1;
-      });
-      var issuers = Object.keys(issuerPool).sort(function (a, b) { return issuerPool[b] - issuerPool[a]; }).slice(0, 12);
-
       out += group(t('法律层级'), 'level', S().levels().map(function (l) {
         return { v: l.id, label: tr(l.name), count: undefined };
       }), query);
       out += group(t('时效性'), 'status', S().statuses().map(function (s) {
         return { v: s.id, label: tr(s.name), count: undefined };
       }), query);
-      /* 制定机关 / 语言 / 公布日期 / 施行日期 已移入页面右侧的「高级检索」面板，
-         侧栏只保留高频的国别、主题、层级、时效四组，避免两处重复与滚动过长。 */
+      /* 按主题放在最后，避免首屏被主题列表占满 */
+      out += group(t('按主题'), 'topic', S().topics().map(function (tp) {
+        return { v: tp.id, label: tr(tp.name), count: tp.lawCount || 0 };
+      }), query);
       out += '<div class="row" style="margin-top:8px">' +
         '<button class="btn btn--ghost btn--sm" id="f-clear" type="button">' + esc(t('重置筛选')) + '</button>' +
       '</div>';

@@ -1,0 +1,588 @@
+# -*- coding: utf-8 -*-
+"""TL 标题多语种批次生成器（第 2 批：TL-H147 … TL-LABOR-2012，115 部）。
+
+语义基准 title.en；zh 存量葡中混杂者按 en 重写。
+急状态法（State of Emergency）19 部、修正案 33 部按统一格式合成。
+"""
+import json, io, os
+
+MONTH = {
+    "January": ("tháng 1", "มกราคม", "Januari", "Januari"),
+    "February": ("tháng 2", "กุมภาพันธ์", "Februari", "Februari"),
+    "March": ("tháng 3", "มีนาคม", "Maret", "Mac"),
+    "April": ("tháng 4", "เมษายน", "April", "April"),
+    "May": ("tháng 5", "พฤษภาคม", "Mei", "Mei"),
+    "June": ("tháng 6", "มิถุนายน", "Juni", "Jun"),
+    "July": ("tháng 7", "กรกฎาคม", "Juli", "Julai"),
+    "August": ("tháng 8", "สิงหาคม", "Agustus", "Ogos"),
+    "September": ("tháng 9", "กันยายน", "September", "September"),
+    "October": ("tháng 10", "ตุลาคม", "Oktober", "Oktober"),
+    "November": ("tháng 11", "พฤศจิกายน", "November", "November"),
+    "December": ("tháng 12", "ธันวาคม", "Desember", "Disember"),
+}
+ORD = {
+    "First": ("lần thứ nhất", "ครั้งที่หนึ่ง", "Pertama", "Pertama"),
+    "Second": ("lần thứ hai", "ครั้งที่สอง", "Kedua", "Kedua"),
+    "Third": ("lần thứ ba", "ครั้งที่สาม", "Ketiga", "Ketiga"),
+    "Fourth": ("lần thứ tư", "ครั้งที่สี่", "Keempat", "Keempat"),
+    "Fifth": ("lần thứ năm", "ครั้งที่ห้า", "Kelima", "Kelima"),
+    "Sixth": ("lần thứ sáu", "ครั้งที่หก", "Keenam", "Keenam"),
+}
+items = {}
+
+
+def put(lid, vi, th, id_, ms, zh=None):
+    d = {"vi": vi, "th": th, "id": id_, "ms": ms}
+    if zh:
+        d["zh"] = zh
+    items[lid] = d
+
+
+def amend(ordinal, num, day, month, subj, extra=None):
+    o = ORD[ordinal]
+    m = MONTH[month]
+    d = {
+        "vi": "Luật Sửa đổi %s Luật số %s ngày %d %s về %s" % (o[0], num, day, m[0], subj["vi"]),
+        "th": "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ %s ลงวันที่ %d %s (%s) ว่าด้วย%s"
+              % (num, day, m[1], o[1], subj["th"]),
+        "id": "Undang-Undang Perubahan %s atas Undang-Undang Nomor %s tanggal %d %s tentang %s"
+              % (o[2], num, day, m[2], subj["id"]),
+        "ms": "Akta Pindaan %s kepada Akta Nombor %s bertarikh %d %s mengenai %s"
+              % (o[3], num, day, m[3], subj["ms"]),
+    }
+    if extra:
+        for k in d:
+            d[k] += extra[k]
+    return d
+
+
+# 主题短语
+SUBJ = {
+    "electadmin": {"vi": "Cơ quan quản lý bầu cử", "th": "องค์กรบริหารการเลือกตั้ง",
+                   "id": "Badan Penyelenggara Pemilu", "ms": "Badan Pentadbiran Pilihan Raya"},
+    "electpres": {"vi": "Luật bầu cử Tổng thống Cộng hòa",
+                  "th": "กฎหมายการเลือกตั้งประธานาธิบดี",
+                  "id": "Undang-Undang Pemilihan Umum Presiden Republik",
+                  "ms": "Akta Pilihan Raya Presiden Republik"},
+    "petroleum": {"vi": "Hoạt động dầu khí", "th": "กิจกรรมปิโตรเลียม",
+                  "id": "Kegiatan Perminyakan", "ms": "Kegiatan Petroleum"},
+    "oecusse": {"vi": "việc thành lập Vùng hành chính đặc biệt Oecusse",
+                "th": "การจัดตั้งเขตปกครองพิเศษโอเอกูซี",
+                "id": "Pembentukan Daerah Administratif Khusus Oecusse",
+                "ms": "Penubuhan Daerah Pentadbiran Khas Oecusse"},
+    "migration": {"vi": "Nhập cư và tị nạn", "th": "คนเข้าเมืองและผู้ลี้ภัย",
+                  "id": "Keimigrasian dan Suaka", "ms": "Imigresen dan Suaka"},
+    "defense": {"vi": "Quốc phòng", "th": "การป้องกันประเทศ",
+                "id": "Pertahanan Nasional", "ms": "Pertahanan Nasional"},
+    "admdiv": {"vi": "Phân chia hành chính lãnh thổ", "th": "การแบ่งเขตการปกครอง",
+               "id": "Pembagian Wilayah Administratif", "ms": "Pembahagian Wilayah Pentadbiran"},
+    "voterreg": {"vi": "Đăng ký cử tri", "th": "การลงทะเบียนผู้มีสิทธิเลือกตั้ง",
+                 "id": "Pendaftaran Pemilih", "ms": "Pendaftaran Pengundi"},
+    "health": {"vi": "Hệ thống y tế", "th": "ระบบสุขภาพ",
+               "id": "Sistem Kesehatan", "ms": "Sistem Kesihatan"},
+    "judicialorg": {"vi": "Tổ chức tư pháp", "th": "การจัดองค์กรตุลาการ",
+                    "id": "Organisasi Peradilan", "ms": "Organisasi Kehakiman"},
+    "pubadmin": {"vi": "tổ chức và hoạt động của bộ máy hành chính công",
+                 "th": "การจัดองค์กรและการดำเนินงานของฝ่ายปกครองสาธารณะ",
+                 "id": "Organisasi dan Tata Kerja Administrasi Publik",
+                 "ms": "Organisasi dan Tatacara Pentadbiran Awam"},
+    "mps": {"vi": "Quy chế nghị sĩ", "th": "ข้อกำหนดสมาชิกรัฐสภา",
+            "id": "Statuta Anggota Parlemen", "ms": "Statuta Anggota Parlimen"},
+    "prosecution": {"vi": "Quy chế Bộ Công tố", "th": "ข้อกำหนดองค์กรอัยการ",
+                    "id": "Statuta Kejaksaan", "ms": "Statuta Perkhidmatan Pendakwaan Awam"},
+    "bayu": {"vi": "thuế đối với các nhà thầu Bayu-Undan",
+             "th": "การจัดเก็บภาษีจากผู้รับจ้าง Bayu-Undan",
+             "id": "Perpajakan Kontraktor Bayu-Undan",
+             "ms": "Percukaian Kontraktor Bayu-Undan"},
+    "acc": {"vi": "Ủy ban Chống tham nhũng", "th": "คณะกรรมการต่อต้านการทุจริต",
+            "id": "Komisi Pemberantasan Korupsi", "ms": "Suruhanjaya Pencegahan Rasuah"},
+    "combatants": {"vi": "Quy chế chiến sĩ giải phóng dân tộc",
+                   "th": "ข้อกำหนดทหารผ่านศึกปลดปล่อยชาติ",
+                   "id": "Statuta Pejuang Pembebasan Nasional",
+                   "ms": "Statuta Pejuang Pembebasan Nasional"},
+    "transitional": {"vi": "chế độ chuyển tiếp tuyển dụng thẩm phán và người bào chữa công",
+                     "th": "ข้อกำหนดระยะเปลี่ยนผ่านการสรรหาผู้พิพากษาและทนายจำเลยสาธารณะ",
+                     "id": "Rezim Transisi Perekrutan Hakim dan Penasihat Hukum Publik",
+                     "ms": "Rejim Peralihan Pengambilan Hakim dan Peguam Bela Awam"},
+    "parties": {"vi": "Đảng chính trị", "th": "พรรคการเมือง",
+                "id": "Partai Politik", "ms": "Parti Politik"},
+    "remuneration": {"vi": "Quy chế thù lao thẩm phán",
+                     "th": "ข้อกำหนดค่าตอบแทนผู้พิพากษา",
+                     "id": "Statuta Remunerasi Hakim",
+                     "ms": "Statuta Saraan Hakim"},
+}
+
+# ============ 紧急状态法 ============
+EM = {
+    "declare": {"vi": "ủy quyền tuyên bố tình trạng khẩn cấp",
+                "th": "มอบอำนาจให้ประกาศสถานการณ์ฉุกเฉิน",
+                "id": "Pemberian Wewenang untuk Menyatakan Keadaan Darurat",
+                "ms": "Pemberian Kuasa untuk Mengisytiharkan Keadaan Darurat",
+                "zh": "授权宣布紧急状态"},
+    "renew": {"vi": "ủy quyền gia hạn tuyên bố tình trạng khẩn cấp",
+              "th": "มอบอำนาจให้ขยายเวลาการประกาศสถานการณ์ฉุกเฉิน",
+              "id": "Pemberian Wewenang untuk Memperpanjang Pernyataan Keadaan Darurat",
+              "ms": "Pemberian Kuasa untuk Melanjutkan Pengisytiharan Keadaan Darurat",
+              "zh": "授权延长紧急状态宣告"},
+    "confirm": {"vi": "xác nhận tuyên bố tình trạng khẩn cấp",
+                "th": "ยืนยันการประกาศสถานการณ์ฉุกเฉิน",
+                "id": "Pengesahan Pernyataan Keadaan Darurat",
+                "ms": "Pengesahan Pengisytiharan Keadaan Darurat",
+                "zh": "确认紧急状态宣告"},
+}
+EMERGENCIES = [
+    ("TL-H178", "declare", "1/2020"),
+    ("TL-H180", "renew", "3/2020"),
+    ("TL-H181", "renew", "4/2020"),
+    ("TL-H183", "confirm", "6/2020"),
+    ("TL-H185", "renew", "8/2020"),
+    ("TL-H186", "renew", "9/2020"),
+    ("TL-H188", "renew", "11/2020"),
+    ("TL-H190", "renew", "13/2020"),
+    ("TL-H192", "renew", "15/2020"),
+    ("TL-H193", "renew", "1/2021"),
+    ("TL-H194", "renew", "2/2021"),
+    ("TL-H197", "renew", "5/2021"),
+    ("TL-H199", "renew", "7/2021"),
+    ("TL-H201", "renew", "9/2021"),
+    ("TL-H205", "renew", "13/2021"),
+    ("TL-H209", "confirm", "17/2021"),
+    ("TL-H210", "renew", "18/2021"),
+    ("TL-H212", "renew", "20/2021"),
+    ("TL-H213", "renew", "21/2021"),
+]
+for lid, kind, num in EMERGENCIES:
+    e = EM[kind]
+    put(lid,
+        "Luật số %s %s" % (num, e["vi"]),
+        "พระราชบัญญัติฉบับที่ %s %s" % (num, e["th"]),
+        "Undang-Undang Nomor %s tentang %s" % (num, e["id"]),
+        "Akta Nombor %s tentang %s" % (num, e["ms"]),
+        "（第%s号法律）%s" % (num, e["zh"]))
+
+# ============ 修正案 ============
+AMENDS = [
+    ("TL-H147", "Second", "5/2006", 28, "December", "electadmin",
+     "对第5/2006号法律的第二次修改（选举管理机构）"),
+    ("TL-H169", "First", "10/2009", 5, "August", "remuneration",
+     "8月5日第10/2009号法律（法官薪酬章程）第一次修正"),
+    ("TL-H172", "First", "13/2005", 2, "September", "petroleum",
+     "9月2日第13/2005号法律（石油活动法）第一次修正"),
+    ("TL-H174", "First", "3/2014", 18, "June", "oecusse",
+     "6月18日第3/2014号法律（设立欧库西-安贝诺特别行政区）第一次修正"),
+    ("TL-H177", "Second", "13/2005", 2, "September", "petroleum",
+     "9月2日第13/2005号法律（石油活动法）第二次修正"),
+    ("TL-H202", "First", "11/2017", 24, "May", "migration",
+     "5月24日第11/2017号法律（移民与庇护法）第一次修正"),
+    ("TL-H203", "First", "3/2010", 21, "April", "defense",
+     "4月21日第3/2010号法律（国防法）第一次修正"),
+    ("TL-H206", "Second", "11/2009", 7, "October", "admdiv",
+     "对第11/2009号法律的第二次修改"),
+    ("TL-H207", "Sixth", "7/2006", 28, "December", "electpres",
+     "对第7/2006号法律的第六次修改"),
+    ("TL-H208", "Third", "5/2006", 28, "December", "electadmin",
+     "对第5/2006号法律的第三次修改"),
+    ("TL-H211", "First", "6/2016", 25, "May", "voterreg",
+     "对第6/2016号法律的第一次修改"),
+    ("TL-H228", "First", "25/2021", 21, "December", "judicialorg",
+     "12月21日第25/2021号法律（司法组织法）第一次修正"),
+    ("TL-H229", "Second", "10/2004", 24, "November", "health",
+     "11月24日第10/2004号法律（卫生系统法）第二次修正"),
+    ("TL-H234", "First", "12/2017", 24, "May", "pubadmin",
+     "对第12/2017号法律的第一次修改"),
+    ("TL-H235", "Second", "5/2004", 5, "May", "mps",
+     "5月5日第5/2004号法律（议员章程）第二次修正"),
+    ("TL-H238", "First", "7/2022", 19, "May", "prosecution",
+     "5月19日第7/2022号法律（检察院章程）第一次修正"),
+    ("TL-H243", "First", "4/2019", 27, "August", "bayu",
+     "8月27日第4/2019号法律（核准 Bayu-Undan 项目特别劳动与移民制度）第一次修正"),
+    ("TL-H244", "Second", "3/2003", 1, "July", "bayu",
+     "对第3/2003号法律的第二次修改（Bayu-Undan 合同承包商征税）"),
+    ("TL-H245", "Third", "11/2009", 7, "October", "admdiv",
+     "对第11/2009号法律的第三次修改"),
+    ("TL-H249", "Third", "3/2014", 18, "June", "oecusse",
+     "6月18日第3/2014号法律（设立欧库西-安贝鲁特别行政区）第三次修正"),
+    ("TL-H250", "Fourth", "11/2009", 7, "October", "admdiv",
+     "对第11/2009号法律的第四次修改"),
+    ("TL-H253", "Third", "5/2004", 5, "May", "mps",
+     "5月5日第5/2004号法律（议员章程）第三次修正"),
+    ("TL-H254", "Second", "8/2009", 15, "July", "acc",
+     "7月15日第8/2009号法律（反腐败委员会法）第二次修正"),
+    ("TL-H256", "Third", "3/2006", 12, "April", "combatants",
+     "4月12日第3/2006号法律（民族解放战士章程）第三次修正"),
+    ("TL-H263", "First", "1/2017", 18, "January", "transitional",
+     "1月18日第1/2017号法律（法官与公设辩护人过渡招聘制度）第一次修正"),
+    ("TL-H266", "Second", "7/2022", 19, "May", "prosecution",
+     "5月19日第7/2022号法律（检察院章程）第二次修正"),
+    ("TL-H273", "Second", "3/2004", 14, "April", "parties",
+     "对第3/2004号法律的第二次修改（政党）"),
+]
+for lid, o, num, d, mo, sk, zh in AMENDS:
+    items[lid] = amend(o, num, d, mo, SUBJ[sk])
+    items[lid]["zh"] = zh
+
+# 预算年度修正案
+for lid, o, num, d, mo, y in [
+        ("TL-H151", "First", "1/2016", 14, "January", "2016"),
+        ("TL-H222", "First", "1/2022", 3, "January", "2022")]:
+    subj = {"vi": "Ngân sách nhà nước năm " + y,
+            "th": "งบประมาณแผ่นดิน ค.ศ. " + y,
+            "id": "Anggaran Pendapatan dan Belanja Negara Tahun " + y,
+            "ms": "Belanjawan Negara " + y}
+    items[lid] = amend(o, num, d, mo, subj,
+                       {"vi": ", và thành lập Quỹ" if lid == "TL-H222" else "",
+                        "th": " และการจัดตั้งกองทุน" if lid == "TL-H222" else "",
+                        "id": ", dan Pembentukan Dana" if lid == "TL-H222" else "",
+                        "ms": ", dan Penubuhan Dana" if lid == "TL-H222" else ""})
+    items[lid]["zh"] = ("1月14日第1/2016号法律（核准2016年国家总预算）第一次修正"
+                        if lid == "TL-H151" else
+                        "1月3日第1/2022号法律（2022年国家总预算）第一次修正，并设立基金")
+
+# 复合型：修正 + 伴随
+put("TL-H160",
+    "Phê chuẩn Luật về lương hưu nghị sĩ và tiến hành sửa đổi lần thứ nhất Luật số 5/2004 ngày 5 tháng 5",
+    "พระราชบัญญัติรับรองกฎหมายว่าด้วยเงินบำนาญสมาชิกรัฐสภา และแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 5/2004 ลงวันที่ 5 พฤษภาคม ครั้งที่หนึ่ง",
+    "Undang-Undang Pengesahan Undang-Undang Pensiun Anggota Parlemen dan Perubahan Pertama atas Undang-Undang Nomor 5/2004 tanggal 5 Mei",
+    "Akta Pengesahan Undang-Undang Pencen Anggota Parlimen dan Pindaan Pertama kepada Akta Nombor 5/2004 bertarikh 5 Mei",
+    "核准议员退休金法并对5月5日第5/2004号法律作第一次修正")
+put("TL-H216",
+    "Luật Sửa đổi lần thứ nhất Luật số 10/2004 ngày 24 tháng 11 về Hệ thống y tế và phê chuẩn các biện pháp đặc biệt, tạm thời về giám sát y tế ứng phó đại dịch COVID-19",
+    "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 10/2004 ลงวันที่ 24 พฤศจิกายน ว่าด้วยระบบสุขภาพ ครั้งที่หนึ่ง และรับรองมาตรการพิเศษชั่วคราวด้านการเฝ้าระวังทางสาธารณสุขเพื่อรับมือการระบาดของโรคโควิด-19",
+    "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 10/2004 tanggal 24 November tentang Sistem Kesehatan dan Pengesahan Tindakan Luar Biasa serta Sementara di Bidang Pengawasan Kesehatan untuk Menanggapi Pandemi COVID-19",
+    "Akta Pindaan Pertama kepada Akta Nombor 10/2004 bertarikh 24 November mengenai Sistem Kesihatan dan Pengesahan Langkah Luar Biasa serta Sementara dalam Pengawasan Kesihatan bagi Menangani Pandemik COVID-19",
+    "11月24日第10/2004号法律（卫生系统法）第一次修正，并核准应对 COVID-19 疫情的特别临时卫生监督措施")
+put("TL-H236",
+    "Luật Sửa đổi lần thứ nhất Quy chế viên chức nghị viện được phê chuẩn tại Phụ lục của Luật số 10/2016 ngày 8 tháng 12",
+    "พระราชบัญญัติแก้ไขเพิ่มเติมข้อกำหนดเจ้าหน้าที่รัฐสภาซึ่งรับรองในภาคผนวกของพระราชบัญญัติฉบับที่ 10/2016 ลงวันที่ 8 ธันวาคม ครั้งที่หนึ่ง",
+    "Undang-Undang Perubahan Pertama atas Statuta Pejabat Parlemen yang disahkan dalam Lampiran Undang-Undang Nomor 10/2016 tanggal 8 Desember",
+    "Akta Pindaan Pertama kepada Statuta Pegawai Parlimen yang disahkan dalam Lampiran Akta Nombor 10/2016 bertarikh 8 Disember",
+    "对第10/2016号法律附件所核准议会职员章程的第一次修改")
+put("TL-H277",
+    "Luật Sửa đổi lần thứ tư Luật số 5/2006 ngày 28 tháng 12 về Cơ quan quản lý bầu cử và sửa đổi lần thứ năm",
+    "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 5/2006 ลงวันที่ 28 ธันวาคม ว่าด้วยองค์กรบริหารการเลือกตั้ง ครั้งที่สี่ และการแก้ไขเพิ่มเติมครั้งที่ห้า",
+    "Undang-Undang Perubahan Keempat atas Undang-Undang Nomor 5/2006 tanggal 28 Desember tentang Badan Penyelenggara Pemilu dan Perubahan Kelima",
+    "Akta Pindaan Keempat kepada Akta Nombor 5/2006 bertarikh 28 Disember mengenai Badan Pentadbiran Pilihan Raya dan Pindaan Kelima",
+    "第5/2006号法律（选举管理机构）第四次修正及第五次修正")
+put("TL-H198",
+    "Phê chuẩn chế độ pháp lý về trọng tài tự nguyện và tiến hành sửa đổi lần thứ nhất Bộ luật Tố tụng dân sự",
+    "พระราชบัญญัติรับรองข้อกำหนดทางกฎหมายว่าด้วยอนุญาโตตุลาการโดยสมัครใจ และแก้ไขเพิ่มเติมประมวลกฎหมายวิธีพิจารณาความแพ่ง ครั้งที่หนึ่ง",
+    "Undang-Undang Pengesahan Rezim Hukum Arbitrase Sukarela dan Perubahan Pertama atas Kitab Undang-Undang Hukum Acara Perdata",
+    "Akta Pengesahan Rejim Undang-Undang Timbang Tara Sukarela dan Pindaan Pertama kepada Kanun Tatacara Sivil",
+    "核准自愿仲裁法律制度并对民事诉讼法典作第一次修正")
+put("TL-H259",
+    "Phê chuẩn Luật cơ sở về giáo dục đại học và tiến hành sửa đổi lần thứ nhất Luật số 14/2008 ngày 29 tháng 10",
+    "พระราชบัญญัติรับรองกฎหมายแม่บทว่าด้วยการอุดมศึกษา และแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 14/2008 ลงวันที่ 29 ตุลาคม ครั้งที่หนึ่ง",
+    "Undang-Undang Pengesahan Undang-Undang Dasar Pendidikan Tinggi dan Perubahan Pertama atas Undang-Undang Nomor 14/2008 tanggal 29 Oktober",
+    "Akta Pengesahan Undang-Undang Asas Pendidikan Tinggi dan Pindaan Pertama kepada Akta Nombor 14/2008 bertarikh 29 Oktober",
+    "核准高等教育基本法并对10月29日第14/2008号法律作第一次修正")
+put("TL-H275",
+    "Quy định thủ tục nuôi con nuôi và tiến hành sửa đổi lần thứ nhất Bộ luật Dân sự được phê chuẩn bởi Luật số 10/2011",
+    "ข้อกำหนดขั้นตอนการรับบุตรบุญธรรม และแก้ไขเพิ่มเติมประมวลกฎหมายแพ่งซึ่งรับรองโดยพระราชบัญญัติฉบับที่ 10/2011 ครั้งที่หนึ่ง",
+    "Pengaturan Proses Pengangkatan Anak dan Perubahan Pertama atas Kitab Undang-Undang Hukum Perdata yang disahkan oleh Undang-Undang Nomor 10/2011",
+    "Peraturan Proses Pengambilan Anak Angkat dan Pindaan Pertama kepada Kanun Undang-Undang Sivil yang disahkan oleh Akta Nombor 10/2011",
+    "规范收养程序并对第10/2011号法律核准的民法典作第一次修正")
+put("TL-H176",
+    "Luật Sửa đổi lần thứ nhất Luật số 8/2008 ngày 30 tháng 6 về việc phê chuẩn Luật Thuế và các sửa đổi liên quan",
+    "พระราชบัญญัติแก้ไขเพิ่มเติมพระราชบัญญัติฉบับที่ 8/2008 ลงวันที่ 30 มิถุนายน ว่าด้วยการรับรองพระราชบัญญัติภาษีอากรและการแก้ไขเพิ่มเติมที่เกี่ยวข้อง ครั้งที่หนึ่ง",
+    "Undang-Undang Perubahan Pertama atas Undang-Undang Nomor 8/2008 tanggal 30 Juni tentang Pengesahan Undang-Undang Perpajakan dan Perubahan Terkait",
+    "Akta Pindaan Pertama kepada Akta Nombor 8/2008 bertarikh 30 Jun mengenai Pengesahan Akta Percukaian dan Pindaan Berkaitan",
+    "6月30日第8/2008号法律（核准税法及相关修正）第一次修正")
+
+# ============ COVID 卫生监督续期 ============
+def covid(ordinal=None):
+    if ordinal:
+        o = ORD[ordinal]
+        return ("Luật Gia hạn %s các biện pháp giám sát y tế đặc biệt và tạm thời ứng phó đại dịch COVID-19" % o[0],
+                "พระราชบัญญัติขยายมาตรการเฝ้าระวังทางสาธารณสุขเป็นกรณีพิเศษและชั่วคราวเพื่อตอบสนองต่อการระบาดของโรคโควิด-19 (%s)" % o[1],
+                "Undang-Undang Perpanjangan %s atas Tindakan Pengawasan Kesehatan Luar Biasa dan Sementara dalam Rangka Penanggulangan Pandemi COVID-19" % o[2],
+                "Akta Pelanjutan %s Langkah Pengawasan Kesihatan Luar Biasa dan Sementara bagi Menangani Pandemik COVID-19" % o[3])
+    return ("Luật Gia hạn các biện pháp giám sát y tế đặc biệt và tạm thời ứng phó đại dịch COVID-19",
+            "พระราชบัญญัติขยายมาตรการเฝ้าระวังทางสาธารณสุขเป็นกรณีพิเศษและชั่วคราวเพื่อตอบสนองต่อการระบาดของโรคโควิด-19",
+            "Undang-Undang Perpanjangan Tindakan Pengawasan Kesehatan Luar Biasa dan Sementara dalam Rangka Penanggulangan Pandemi COVID-19",
+            "Akta Pelanjutan Langkah Pengawasan Kesihatan Luar Biasa dan Sementara bagi Menangani Pandemik COVID-19")
+
+
+put("TL-H219", *covid(),
+    zh="续延应对 COVID-19 疫情的特别临时卫生监督措施")
+put("TL-H227", *covid("Third"),
+    zh="应对 COVID-19 疫情的特别临时卫生监督措施第三次续延")
+
+# ============ 石油基金特别划转 ============
+put("TL-H179",
+    "Ủy quyền thực hiện chuyển khoản đặc biệt từ Quỹ Dầu khí",
+    "การมอบอำนาจให้ดำเนินการโอนเงินเป็นกรณีพิเศษจากกองทุนปิโตรเลียม",
+    "Pemberian Wewenang untuk Melakukan Transfer Khusus dari Dana Perminyakan",
+    "Pemberian Kuasa untuk Melakukan Pemindahan Khas daripada Dana Petroleum",
+    "授权自石油基金进行特别划转")
+put("TL-H182",
+    "Ủy quyền thực hiện chuyển khoản đặc biệt lần thứ hai từ Quỹ Dầu khí trong năm tài chính",
+    "การมอบอำนาจให้ดำเนินการโอนเงินเป็นกรณีพิเศษครั้งที่สองจากกองทุนปิโตรเลียมในปีงบประมาณ",
+    "Pemberian Wewenang untuk Melakukan Transfer Khusus Kedua dari Dana Perminyakan pada Tahun Anggaran",
+    "Pemberian Kuasa untuk Melakukan Pemindahan Khas Kedua daripada Dana Petroleum dalam Tahun Fiskal",
+    "授权本财政年度内自石油基金进行第二次特别划转")
+
+# ============ 立法授权 ============
+put("TL-H195",
+    "Ủy quyền cho Chính phủ sửa đổi Bộ luật Tố tụng dân sự",
+    "การมอบอำนาจให้รัฐบาลแก้ไขเพิ่มเติมประมวลกฎหมายวิธีพิจารณาความแพ่ง",
+    "Pemberian Wewenang kepada Pemerintah untuk Mengubah Kitab Undang-Undang Hukum Acara Perdata",
+    "Pemberian Kuasa kepada Kerajaan untuk Meminda Kanun Tatacara Sivil",
+    "授权政府修改民事诉讼法典")
+put("TL-H196",
+    "Ủy quyền cho Chính phủ lập pháp về cơ sở tổ chức của nền hành chính công",
+    "การมอบอำนาจให้รัฐบาลออกกฎหมายว่าด้วยพื้นฐานการจัดองค์กรของฝ่ายปกครองสาธารณะ",
+    "Pemberian Wewenang kepada Pemerintah untuk Membentuk Peraturan tentang Dasar Organisasi Administrasi Publik",
+    "Pemberian Kuasa kepada Kerajaan untuk Menggubal Undang-Undang mengenai Asas Organisasi Pentadbiran Awam",
+    "授权政府就公共行政组织基础立法")
+put("TL-H232",
+    "Ủy quyền lập pháp về phá sản và phục hồi doanh nghiệp",
+    "การมอบอำนาจนิติบัญญัติในเรื่องการล้มละลายและการฟื้นฟูกิจการ",
+    "Pemberian Kuasa Legislatif dalam Hal Kepailitan dan Pemulihan Perusahaan",
+    "Pemberian Kuasa Perundangan dalam Perkara Insolvensi dan Pemulihan Syarikat",
+    "破产与公司重整事项立法授权")
+put("TL-H233",
+    "Ủy quyền lập pháp về việc ấn định giới hạn tuổi trong quan hệ lao động của công chức và viên chức hành chính công",
+    "การมอบอำนาจนิติบัญญัติในเรื่องการกำหนดเกณฑ์อายุสำหรับความสัมพันธ์การจ้างงานของข้าราชการและเจ้าหน้าที่ฝ่ายปกครองสาธารณะ",
+    "Pemberian Kuasa Legislatif dalam Hal Penetapan Batas Usia Hubungan Kerja Pegawai Negeri dan Pejabat Administrasi Publik",
+    "Pemberian Kuasa Perundangan dalam Perkara Penetapan Had Umur Hubungan Pekerjaan Pegawai Awam dan Pegawai Pentadbiran Awam",
+    "设定公务员及公共行政人员劳动关系年龄上限事项立法授权")
+put("TL-H260",
+    "Ủy quyền lập pháp cho Chính phủ về việc ấn định giới hạn tuổi trong quan hệ lao động của công chức",
+    "การมอบอำนาจนิติบัญญัติให้รัฐบาลในเรื่องการกำหนดเกณฑ์อายุสำหรับความสัมพันธ์การจ้างงานของข้าราชการ",
+    "Pemberian Kuasa Legislatif kepada Pemerintah dalam Hal Penetapan Batas Usia Hubungan Kerja Pegawai Negeri",
+    "Pemberian Kuasa Perundangan kepada Kerajaan dalam Perkara Penetapan Had Umur Hubungan Pekerjaan Pegawai Awam",
+    "就设定公务员劳动关系年龄上限向政府作立法授权")
+
+# ============ 一般法 ============
+GEN = {
+    "TL-H148": ("Luật Bảo vệ người tiêu dùng", "พระราชบัญญัติคุ้มครองผู้บริโภค",
+                "Undang-Undang Perlindungan Konsumen", "Akta Perlindungan Pengguna",
+                "消费者保护法"),
+    "TL-H149": ("Luật về Sucos (làng)", "พระราชบัญญัติว่าด้วย Sucos (หมู่บ้าน)",
+                "Undang-Undang tentang Sucos (Desa)", "Akta mengenai Sucos (Kampung)",
+                "Sucos（村）法"),
+    "TL-H150": ("Phê chuẩn Quy chế viên chức nghị viện",
+                "การรับรองข้อกำหนดเจ้าหน้าที่รัฐสภา",
+                "Pengesahan Statuta Pejabat Parlemen",
+                "Pengesahan Statuta Pegawai Parlimen",
+                "核准议会职员章程"),
+    "TL-H154": ("Chế độ chuyển tiếp tuyển dụng thẩm phán và người bào chữa công không phải người Timor và sửa đổi lần thứ hai luật liên quan",
+                "ข้อกำหนดระยะเปลี่ยนผ่านการสรรหาผู้พิพากษาและทนายจำเลยสาธารณะที่ไม่ใช่ชาวติมอร์ และการแก้ไขเพิ่มเติมกฎหมายที่เกี่ยวข้องครั้งที่สอง",
+                "Rezim Transisi Perekrutan Hakim dan Penasihat Hukum Publik Non-Timor serta Perubahan Kedua atas Undang-Undang Terkait",
+                "Rejim Peralihan Pengambilan Hakim dan Peguam Bela Awam Bukan Timorese serta Pindaan Kedua kepada Undang-Undang Berkaitan",
+                "非东帝汶籍法官与公设辩护人过渡招聘制度及相关法律第二次修正"),
+    "TL-H155": ("Luật về phòng, chống buôn bán trái phép ma túy",
+                "พระราชบัญญัติว่าด้วยการปราบปรามการค้ายาเสพติดที่ผิดกฎหมาย",
+                "Undang-Undang tentang Pemberantasan Peredaran Narkotika Ilegal",
+                "Akta mengenai Pembanterasan Pengedaran Dadah Haram",
+                "打击非法贩运毒品法"),
+    "TL-H156": ("Luật về phòng ngừa và đấu tranh chống buôn người và sửa đổi lần thứ tư Bộ luật Hình sự",
+                "พระราชบัญญัติว่าด้วยการป้องกันและต่อสู้การค้ามนุษย์ และการแก้ไขเพิ่มเติมประมวลกฎหมายอาญาครั้งที่สี่",
+                "Undang-Undang tentang Pencegahan dan Pemberantasan Perdagangan Orang serta Perubahan Keempat atas Kitab Undang-Undang Hukum Pidana",
+                "Akta mengenai Pencegahan dan Pembanterasan Pemerdagangan Orang serta Pindaan Keempat kepada Kanun Keseksaan",
+                "预防和打击贩运人口法及刑法典第四次修正"),
+    "TL-H157": ("Luật bầu cử Tổng thống Cộng hòa",
+                "กฎหมายการเลือกตั้งประธานาธิบดี",
+                "Undang-Undang Pemilihan Umum Presiden Republik",
+                "Akta Pilihan Raya Presiden Republik",
+                "共和国总统选举法"),
+    "TL-H158": ("Chế độ pháp lý về thực hành võ thuật, nghi lễ, vũ khí có lưỡi và Rama Ambon, và sửa đổi lần thứ năm",
+                "ข้อกำหนดทางกฎหมายว่าด้วยการฝึกศิลปะการต่อสู้ พิธีกรรม อาวุธมีคม และ Rama Ambon และการแก้ไขเพิ่มเติมครั้งที่ห้า",
+                "Rezim Hukum Praktik Seni Bela Diri, Ritual, Senjata Bermata dan Rama Ambon, serta Perubahan Kelima",
+                "Rejim Undang-Undang Amalan Seni Mempertahankan Diri, Ritual, Senjata Bermata dan Rama Ambon, serta Pindaan Kelima",
+                "武术、仪式、刃器与 Rama Ambon 活动法律制度及第五次修正"),
+    "TL-H159": ("Luật số 6/2017 về cơ sở quy hoạch lãnh thổ",
+                "พระราชบัญญัติฉบับที่ 6/2017 ว่าด้วยหลักการผังพื้นที่",
+                "Undang-Undang Nomor 6/2017 tentang Dasar Penataan Ruang Wilayah",
+                "Akta Nombor 6/2017 mengenai Asas Perancangan Wilayah",
+                "国土规划基准法（第6/2017号法律）"),
+    "TL-H161": ("Luật số 8/2017 về trưng thu vì lợi ích công cộng",
+                "พระราชบัญญัติฉบับที่ 8/2017 ว่าด้วยการเวนคืนเพื่อประโยชน์สาธารณะ",
+                "Undang-Undang Nomor 8/2017 tentang Pengambilalihan untuk Kepentingan Umum",
+                "Akta Nombor 8/2017 mengenai Pengambilan Tanah bagi Kepentingan Awam",
+                "公用征收法（第8/2017号法律）"),
+    "TL-H163": ("Luật số 10/2017 về công ty thương mại (xem Phụ lục)",
+                "พระราชบัญญัติฉบับที่ 10/2017 ว่าด้วยบริษัทพาณิชย์ (ดูภาคผนวก)",
+                "Undang-Undang Nomor 10/2017 tentang Perseroan Komersial (Lihat Lampiran)",
+                "Akta Nombor 10/2017 mengenai Syarikat Perdagangan (Lihat Lampiran)",
+                "新商业公司法（第10/2017号法律，见附刊）"),
+    "TL-H164": ("Luật Nhập cư và Tị nạn", "พระราชบัญญัติคนเข้าเมืองและผู้ลี้ภัย",
+                "Undang-Undang Keimigrasian dan Suaka", "Akta Imigresen dan Suaka",
+                "移民与庇护法"),
+    "TL-H165": ("Luật về tổ chức và hoạt động của bộ máy hành chính nghị viện",
+                "พระราชบัญญัติว่าด้วยการจัดองค์กรและการดำเนินงานของฝ่ายธุรการรัฐสภา",
+                "Undang-Undang tentang Organisasi dan Tata Kerja Administrasi Parlemen",
+                "Akta mengenai Organisasi dan Tatacara Pentadbiran Parlimen",
+                "议会行政组织与运作法"),
+    "TL-H166": ("Luật số 13/2017 về chế độ đặc biệt xác định quyền sở hữu bất động sản",
+                "พระราชบัญญัติฉบับที่ 13/2017 ว่าด้วยข้อกำหนดพิเศษในการกำหนดสิทธิในอสังหาริมทรัพย์",
+                "Undang-Undang Nomor 13/2017 tentang Rezim Khusus Penetapan Hak atas Properti Tak Bergerak",
+                "Akta Nombor 13/2017 mengenai Rejim Khas Penetapan Hak atas Harta Tak Alih",
+                "不动产所有权界定特别制度（第13/2017号法律）"),
+    "TL-H167": ("Luật số 14/2017 về chế độ chung về rừng",
+                "พระราชบัญญัติฉบับที่ 14/2017 ว่าด้วยข้อกำหนดทั่วไปเกี่ยวกับป่าไม้",
+                "Undang-Undang Nomor 14/2017 tentang Rezim Umum Kehutanan",
+                "Akta Nombor 14/2017 mengenai Rejim Am Perhutanan",
+                "森林总制度（第14/2017号法律）"),
+    "TL-H175": ("Chế độ lao động và di trú đặc biệt áp dụng cho Dự án Bayu-Undan",
+                "ข้อกำหนดแรงงานและคนเข้าเมืองพิเศษที่ใช้กับโครงการ Bayu-Undan",
+                "Rezim Ketenagakerjaan dan Keimigrasian Khusus yang Berlaku bagi Proyek Bayu-Undan",
+                "Rejim Buruh dan Imigresen Khas yang Terpakai bagi Projek Bayu-Undan",
+                "适用于 Bayu-Undan 项目的特别劳动与移民制度"),
+    "TL-H184": ("Các biện pháp phòng ngừa và chống tham nhũng",
+                "มาตรการป้องกันและปราบปรามการทุจริต",
+                "Tindakan Pencegahan dan Pemberantasan Korupsi",
+                "Langkah Pencegahan dan Pembanterasan Rasuah",
+                "预防和打击腐败措施"),
+    "TL-H189": ("Luật Bảo vệ dân sự", "พระราชบัญญัติการป้องกันพลเรือน",
+                "Undang-Undang Perlindungan Sipil", "Akta Perlindungan Awam",
+                "民事保护法"),
+    "TL-H204": ("Luật số 12/2021 về Bộ luật Khoáng sản",
+                "พระราชบัญญัติฉบับที่ 12/2021 ว่าด้วยประมวลกฎหมายแร่",
+                "Undang-Undang Nomor 12/2021 tentang Kitab Undang-Undang Pertambangan",
+                "Akta Nombor 12/2021 mengenai Kanun Perlombongan",
+                "矿业法典（第12/2021号法律）"),
+    "TL-H214": ("Luật bầu cử cấp đô thị", "กฎหมายการเลือกตั้งระดับเทศบาล",
+                "Undang-Undang Pemilihan Umum Kotamadya", "Akta Pilihan Raya Perbandaran",
+                "市政选举法"),
+    "TL-H215": ("Luật Chính quyền địa phương và phân cấp hành chính",
+                "พระราชบัญญัติการปกครองท้องถิ่นและการกระจายอำนาจทางปกครอง",
+                "Undang-Undang Pemerintahan Daerah dan Desentralisasi Administratif",
+                "Akta Kerajaan Tempatan dan Penurunan Kuasa Pentadbiran",
+                "地方政府与行政分权法"),
+    "TL-H217": ("Luật Tổ chức tư pháp", "พระราชบัญญัติการจัดองค์กรตุลาการ",
+                "Undang-Undang Organisasi Peradilan", "Akta Organisasi Kehakiman",
+                "司法组织法"),
+    "TL-H220": ("Chế độ pháp lý về các hiệp hội nghề nghiệp công",
+                "ข้อกำหนดทางกฎหมายว่าด้วยสมาคมวิชาชีพสาธารณะ",
+                "Rezim Hukum Asosiasi Profesi Publik",
+                "Rejim Undang-Undang Persatuan Profesional Awam",
+                "公共职业协会法律制度"),
+    "TL-H221": ("Quy chế thẩm phán", "ข้อกำหนดผู้พิพากษา",
+                "Statuta Hakim", "Statuta Hakim",
+                "法官章程"),
+    "TL-H223": ("Quy chế Bộ Công tố", "ข้อกำหนดองค์กรอัยการ",
+                "Statuta Kejaksaan", "Statuta Perkhidmatan Pendakwaan Awam",
+                "检察院章程"),
+    "TL-H224": ("Luật số 8/2022 về các lựa chọn chủ yếu của kế hoạch năm 2023",
+                "พระราชบัญญัติฉบับที่ 8/2022 ว่าด้วยทางเลือกหลักของแผนงาน ค.ศ. 2023",
+                "Undang-Undang Nomor 8/2022 tentang Opsi Pokok Rencana Tahun 2023",
+                "Akta Nombor 8/2022 mengenai Pilihan Utama Rancangan 2023",
+                "2023年计划大纲（第8/2022号法律）"),
+    "TL-H230": ("Bộ luật Quyền tác giả và các quyền liên quan",
+                "ประมวลกฎหมายลิขสิทธิ์และสิทธิข้างเคียง",
+                "Kitab Undang-Undang Hak Cipta dan Hak Terkait",
+                "Kanun Hak Cipta dan Hak Berkaitan",
+                "著作权与相关权法典"),
+    "TL-H237": ("Luật về bảo vệ trẻ em và thanh thiếu niên gặp nguy hiểm",
+                "พระราชบัญญัติว่าด้วยการคุ้มครองเด็กและเยาวชนที่ตกอยู่ในภาวะเสี่ยง",
+                "Undang-Undang tentang Perlindungan Anak dan Remaja dalam Keadaan Berbahaya",
+                "Akta mengenai Perlindungan Kanak-Kanak dan Remaja dalam Keadaan Berbahaya",
+                "处于危险中的儿童与青少年保护法"),
+    "TL-H239": ("Luật Chương trình quân sự", "พระราชบัญญัติโครงการทางทหาร",
+                "Undang-Undang Program Militer", "Akta Program Ketenteraan",
+                "军事计划法"),
+    "TL-H240": ("Luật Kinh tế xã hội", "พระราชบัญญัติเศรษฐกิจสังคม",
+                "Undang-Undang Ekonomi Sosial", "Akta Ekonomi Sosial",
+                "社会经济法"),
+    "TL-H242": ("An toàn, sức khỏe và vệ sinh lao động",
+                "ความปลอดภัย อาชีวอนามัย และสุขอนามัยในการทำงาน",
+                "Keselamatan, Kesehatan, dan Higiene Kerja",
+                "Keselamatan, Kesihatan dan Kebersihan di Tempat Kerja",
+                "工作中的安全、健康与卫生"),
+    "TL-H247": ("Luật Tài chính đô thị", "พระราชบัญญัติการคลังเทศบาล",
+                "Undang-Undang Keuangan Kotamadya", "Akta Kewangan Perbandaran",
+                "市政财政法"),
+    "TL-H251": ("Thủ tục ân xá và giảm án", "ขั้นตอนการพระราชทานอภัยโทษและการลดโทษ",
+                "Prosedur Pemberian Grasi dan Pengurangan Hukuman",
+                "Prosedur Pemberian Pengampunan dan Pengurangan Hukuman",
+                "赦免与减刑程序"),
+    "TL-H255": ("Thực hiện quyền kiến nghị", "การใช้สิทธิร้องเรียน",
+                "Pelaksanaan Hak Petisi", "Pelaksanaan Hak Petisyen",
+                "请愿权的行使"),
+    "TL-H257": ("Thứ bậc và lễ tân nhà nước", "ลำดับเกียรติและพิธีการของรัฐ",
+                "Tata Urutan dan Protokol Negara", "Keutamaan dan Protokol Negara",
+                "国家礼宾与位次"),
+    "TL-H258": ("Luật số 5/2024 về nhiệm kỳ của người đứng đầu hoặc thành viên các cơ quan do Quốc hội bổ nhiệm",
+                "พระราชบัญญัติฉบับที่ 5/2024 ว่าด้วยวาระของหัวหน้าหรือสมาชิกองค์กรที่รัฐสภาแต่งตั้ง",
+                "Undang-Undang Nomor 5/2024 tentang Masa Jabatan Pemegang atau Anggota Badan yang Diangkat oleh Parlemen Nasional",
+                "Akta Nombor 5/2024 mengenai Tempoh Jawatan Pemegang atau Anggota Badan yang Dilantik oleh Parlimen Nasional",
+                "议会任命机关负责人或成员任期法（第5/2024号法律）"),
+    "TL-H262": ("Các biện pháp bảo vệ tính hợp pháp của đô thị",
+                "มาตรการคุ้มครองความชอบด้วยกฎหมายในเขตเมือง",
+                "Tindakan Perlindungan Legalitas Perkotaan",
+                "Langkah Perlindungan Keabsahan Bandar",
+                "城市规划合法性保护措施"),
+    "TL-H264": ("Khuôn khổ Ngân sách nhà nước và quản lý tài chính công",
+                "กรอบงบประมาณแผ่นดินและการบริหารการคลังสาธารณะ",
+                "Kerangka Anggaran Pendapatan dan Belanja Negara serta Pengelolaan Keuangan Publik",
+                "Kerangka Belanjawan Negara dan Pengurusan Kewangan Awam",
+                "国家总预算框架与公共财政管理"),
+    "TL-H267": ("Chế độ pháp lý về giao dịch bảo đảm đối với động sản",
+                "ข้อกำหนดทางกฎหมายว่าด้วยธุรกรรมค้ำประกันเกี่ยวกับสังหาริมทรัพย์",
+                "Rezim Hukum Transaksi Jaminan atas Benda Bergerak",
+                "Rejim Undang-Undang Urus Niaga Bercagar atas Harta Alih",
+                "动产担保交易法律制度"),
+    "TL-H268": ("Bãi bỏ lương hưu trọn đời và các quyền lợi khác của cựu chủ thể và cựu thành viên các cơ quan chủ quyền",
+                "การยกเลิกเงินบำนาญตลอดชีพและสิทธิประโยชน์อื่นของอดีตผู้ดำรงตำแหน่งและอดีตสมาชิกองค์กรอธิปไตย",
+                "Pencabutan Pensiun Seumur Hidup dan Hak Istimewa Lain Mantan Pemegang dan Mantan Anggota Organ Kedaulatan",
+                "Pembatalan Pencen Seumur Hidup dan Keistimewaan Lain Bekas Pemegang dan Bekas Anggota Organ Kedaulatan",
+                "废止前主权机关负责人及成员的终身年金与其他待遇"),
+    "TL-H270": ("Bộ luật Phục hồi doanh nghiệp và Phá sản",
+                "ประมวลกฎหมายการฟื้นฟูกิจการและการล้มละลาย",
+                "Kitab Undang-Undang Pemulihan Perusahaan dan Kepailitan",
+                "Kanun Pemulihan Syarikat dan Insolvensi",
+                "公司重整与破产法典"),
+    "TL-H271": ("Luật Cạnh tranh", "พระราชบัญญัติการแข่งขันทางการค้า",
+                "Undang-Undang Persaingan Usaha", "Akta Persaingan",
+                "竞争法"),
+    "TL-H274": ("Phê chuẩn Luật cơ sở về giáo dục mầm non, giáo dục phổ thông và các hình thức đặc biệt",
+                "พระราชบัญญัติรับรองกฎหมายแม่บทว่าด้วยการศึกษาก่อนวัยเรียน การศึกษาขั้นพื้นฐานและมัธยมศึกษา และรูปแบบพิเศษ",
+                "Undang-Undang Pengesahan Undang-Undang Dasar tentang Pendidikan Prasekolah, Pendidikan Dasar dan Menengah, serta Moda Khusus",
+                "Akta Pengesahan Undang-Undang Asas mengenai Pendidikan Prasekolah, Pendidikan Asas dan Menengah serta Mod Khas",
+                "核准学前教育、基础教育与中等教育及特殊形式基本法"),
+    "TL-H276": ("Xúc tiến xuất khẩu", "การส่งเสริมการส่งออก",
+                "Promosi Ekspor", "Penggalakan Eksport",
+                "出口促进"),
+    "TL-H279": ("Chế độ pháp lý về giảng dạy, học tập và thực hành võ thuật",
+                "ข้อกำหนดทางกฎหมายว่าด้วยการสอน การเรียนรู้ และการฝึกศิลปะการต่อสู้",
+                "Rezim Hukum Pengajaran, Pembelajaran, dan Praktik Seni Bela Diri",
+                "Rejim Undang-Undang Pengajaran, Pembelajaran dan Amalan Seni Mempertahankan Diri",
+                "武术教学、学习与训练法律制度"),
+    "TL-H280": ("Chế độ chung về hệ thống tài chính và hoạt động ngân hàng",
+                "ข้อกำหนดทั่วไปว่าด้วยระบบการเงินและกิจกรรมธนาคาร",
+                "Rezim Umum Sistem Keuangan dan Kegiatan Perbankan",
+                "Rejim Am Sistem Kewangan dan Kegiatan Perbankan",
+                "金融体系与银行业务总制度"),
+    "TL-INVESTMENT-2017": ("Luật Đầu tư tư nhân", "พระราชบัญญัติการลงทุนเอกชน",
+                           "Undang-Undang Penanaman Modal Swasta", "Akta Pelaburan Swasta",
+                           "私人投资法"),
+    "TL-LABOR-2012": ("Bộ luật Lao động", "ประมวลกฎหมายแรงงาน",
+                      "Kitab Undang-Undang Hukum Ketenagakerjaan", "Kanun Undang-Undang Buruh",
+                      "劳动法典"),
+}
+for lid, (vi, th, id_, ms, zh) in GEN.items():
+    put(lid, vi, th, id_, ms, zh)
+
+# 预算
+for lid, y in [("TL-H218", "2022"), ("TL-H231", "2023")]:
+    put(lid,
+        "Luật Ngân sách nhà nước năm " + y,
+        "พระราชบัญญัติงบประมาณแผ่นดิน ค.ศ. " + y,
+        "Undang-Undang Anggaran Pendapatan dan Belanja Negara Tahun " + y,
+        "Akta Belanjawan Negara " + y,
+        y + "年国家总预算")
+
+doc = {
+    "batch": "tl-p2-b02",
+    "scope": "TL 东帝汶法 第 2 批 115 部（TL-H147 … TL-LABOR-2012）",
+    "note": "语义基准 title.en；急状态法 19 部、修正案 33 部按统一格式合成；"
+            "zh 存量葡中混杂者按 en 重写；年份一律 ค.ศ.。",
+    "items": items,
+}
+
+_here = os.path.dirname(os.path.abspath(__file__))
+out = os.path.join(_here, "batches", "tl-p2-b02.json")
+io.open(out, "w", encoding="utf-8", newline="\n").write(
+    json.dumps(doc, ensure_ascii=False, indent=1))
+print("写出", out, "部数", len(items))

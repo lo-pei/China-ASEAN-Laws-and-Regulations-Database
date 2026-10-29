@@ -1,0 +1,481 @@
+{
+ "batch": "sg-p1-b18",
+ "note": "SG 尾段：体裁 + 母法 + 括注 组合合成",
+ "count": 79,
+ "items": {
+  "SG-H1996": {
+   "vi": "Lệnh Thuế thu nhập (Thỏa thuận trao đổi thông tin) (Hợp chúng quốc Hoa Kỳ) 2020",
+   "th": "คำสั่งภาษีเงินได้ (ข้อตกลงแลกเปลี่ยนข้อมูล) (สหรัฐอเมริกา) 2020",
+   "id": "Perintah Pajak Penghasilan (Pengaturan Pertukaran Informasi) (Amerika Serikat) 2020",
+   "ms": "Perintah Cukai Pendapatan (Pengaturan Pertukaran Maklumat) (Amerika Syarikat) 2020"
+  },
+  "SG-H1997": {
+   "vi": "Lệnh Thuế thu nhập (Thỏa thuận trao đổi thông tin) 2016",
+   "th": "คำสั่งภาษีเงินได้ (ข้อตกลงแลกเปลี่ยนข้อมูล) 2016",
+   "id": "Perintah Pajak Penghasilan (Pengaturan Pertukaran Informasi) 2016",
+   "ms": "Perintah Cukai Pendapatan (Pengaturan Pertukaran Maklumat) 2016"
+  },
+  "SG-H1998": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ và thuế suất ưu đãi đối với thu nhập từ kinh doanh bảo hiểm tổng hợp)",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นและอัตราภาษีผ่อนปรนสำหรับรายได้จากธุรกิจประกันภัยแบบผสม)",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan dan Tarif Pajak Konsesi atas Penghasilan dari Usaha Asuransi Gabungan)",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian dan Kadar Cukai Konsesi bagi Pendapatan daripada Perniagaan Insurans Gabungan)"
+  },
+  "SG-H1999": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ và thuế suất ưu đãi đối với thu nhập từ kinh doanh thông thường) 2017",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นและอัตราภาษีผ่อนปรนสำหรับรายได้จากธุรกิจทั่วไป) 2017",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan dan Tarif Pajak Konsesi atas Penghasilan dari Usaha Umum) 2017",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian dan Kadar Cukai Konsesi bagi Pendapatan daripada Perniagaan Am) 2017"
+  },
+  "SG-H2000": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ và thuế suất ưu đãi đối với thu nhập từ kinh doanh bảo hiểm phi nhân thọ)",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นและอัตราภาษีผ่อนปรนสำหรับรายได้จากธุรกิจประกันวินาศภัย)",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan dan Tarif Pajak Konsesi atas Penghasilan dari Usaha Asuransi Umum)",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian dan Kadar Cukai Konsesi bagi Pendapatan daripada Perniagaan Insurans Am)"
+  },
+  "SG-H2001": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ và thuế suất ưu đãi đối với thu nhập từ kinh doanh bảo hiểm nhân thọ)",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นและอัตราภาษีผ่อนปรนสำหรับรายได้จากธุรกิจประกันชีวิต)",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan dan Tarif Pajak Konsesi atas Penghasilan dari Usaha Asuransi Jiwa)",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian dan Kadar Cukai Konsesi bagi Pendapatan daripada Perniagaan Insurans Hayat)"
+  },
+  "SG-H2002": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ và thuế suất ưu đãi đối với thu nhập từ kinh doanh tái bảo hiểm nhân thọ) 2017",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นและอัตราภาษีผ่อนปรนสำหรับรายได้จากธุรกิจประกันชีวิตต่อ) 2017",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan dan Tarif Pajak Konsesi atas Penghasilan dari Usaha Reasuransi Jiwa) 2017",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian dan Kadar Cukai Konsesi bagi Pendapatan daripada Perniagaan Insurans Hayat Semula) 2017"
+  },
+  "SG-H2003": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ và khấu trừ khoản đóng góp tiền mặt tự nguyện) (Người theo quy định) 2013",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นและการหักลดหย่อนเงินสมทบภาคสมัครใจ) (บุคคลตามที่กำหนด) 2013",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan dan Pengurangan Iuran Tunai Sukarela) (Orang yang Ditetapkan) 2013",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian dan Potongan Sumbangan Tunai Sukarela) (Orang yang Ditetapkan) 2013"
+  },
+  "SG-H2008": {
+   "vi": "Quy tắc Thuế thu nhập (Miễn trừ các khoản phúc lợi nhận được liên quan đến các sự kiện COVID-19) 2022",
+   "th": "กฎภาษีเงินได้ (การยกเว้นผลประโยชน์ที่ได้รับเกี่ยวกับเหตุการณ์ COVID-19) 2022",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Manfaat yang Diterima terkait Peristiwa COVID-19) 2022",
+   "ms": "Kaedah Cukai Pendapatan (Pengecualian Faedah yang Diterima berkaitan Peristiwa COVID-19) 2022"
+  },
+  "SG-H2009": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ một số thu nhập của pháp nhân quỹ đầu tư quốc gia theo quy định và pháp nhân thuộc sở hữu chính phủ nước ngoài được chấp thuận) 2012",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นรายได้บางประเภทของนิติบุคคลกองทุนอธิปไตยตามที่กำหนดและนิติบุคคลที่รัฐบาลต่างประเทศถือหุ้นซึ่งได้รับอนุมัติ) 2012",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Penghasilan Tertentu Entitas Dana Kekayaan Negara yang Ditetapkan dan Entitas Milik Pemerintah Asing yang Disetujui) 2012",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian Pendapatan Tertentu Entiti Dana Berdaulat yang Ditetapkan dan Entiti Milik Kerajaan Asing yang Diluluskan) 2012"
+  },
+  "SG-H2119": {
+   "vi": "Quy tắc Thuế thu nhập (Miễn trừ khoản trợ cấp tiền mặt của chính phủ — Điều 13ZA(1)(h)) 2021",
+   "th": "กฎภาษีเงินได้ (การยกเว้นเงินอุดหนุนสดของรัฐบาล — มาตรา 13ZA(1)(h)) 2021",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Hibah Tunai Pemerintah — Pasal 13ZA(1)(h)) 2021",
+   "ms": "Kaedah Cukai Pendapatan (Pengecualian Geran Tunai Kerajaan — Seksyen 13ZA(1)(h)) 2021"
+  },
+  "SG-H2120": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ thu nhập phát sinh từ quỹ được quản lý tại Singapore bởi nhà quản lý quỹ) 2010",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นรายได้ที่เกิดจากกองทุนที่จัดการในสิงคโปร์โดยผู้จัดการกองทุน) 2010",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Penghasilan dari Dana yang Dikelola di Singapura oleh Manajer Dana) 2010",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian Pendapatan daripada Dana yang Diurus di Singapura oleh Pengurus Dana) 2010"
+  },
+  "SG-H2121": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ thu nhập từ các khoản vay hợp vốn ngoài khơi) 2003",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นรายได้จากวงเงินสินเชื่อร่วมนอกชายฝั่ง) 2003",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Penghasilan dari Fasilitas Lepas Pantai Sindikasi) 2003",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian Pendapatan daripada Kemudahan Luar Pesisir Sindiket) 2003"
+  },
+  "SG-H2122": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ thu nhập của công ty được chấp thuận phát sinh từ quỹ được quản lý bởi nhà quản lý quỹ tại Singapore) 2010",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นรายได้ของบริษัทที่ได้รับอนุมัติซึ่งเกิดจากกองทุนที่จัดการโดยผู้จัดการกองทุนในสิงคโปร์) 2010",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Penghasilan Perusahaan yang Disetujui dari Dana yang Dikelola oleh Manajer Dana di Singapura) 2010",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian Pendapatan Syarikat yang Diluluskan daripada Dana yang Diurus oleh Pengurus Dana di Singapura) 2010"
+  },
+  "SG-H2123": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ thu nhập của công ty chứng khoán hóa được chấp thuận) 2008",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นรายได้ของบริษัทหลักทรัพย์ค้ำประกันที่ได้รับอนุมัติ) 2008",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Penghasilan Perusahaan Sekuritisasi yang Disetujui) 2008",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian Pendapatan Syarikat Sekuritisasi yang Diluluskan) 2008"
+  },
+  "SG-H2124": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ thu nhập của công ty đầu tư mạo hiểm được chấp thuận)",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นรายได้ของบริษัทร่วมลงทุนเงินเสี่ยงที่ได้รับอนุมัติ)",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Penghasilan Perusahaan Modal Ventura yang Disetujui)",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian Pendapatan Syarikat Modal Teroka yang Diluluskan)"
+  },
+  "SG-H2125": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ thu nhập của tài khoản nước ngoài thuộc quỹ tín thác mục đích từ thiện) 2007",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นรายได้ของบัญชีต่างประเทศของทรัสต์เพื่อการกุศล) 2007",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Penghasilan Akun Asing dari Perwalian Tujuan Filantropi) 2007",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian Pendapatan Akaun Asing Amanah Tujuan Kedermawanan) 2007"
+  },
+  "SG-H2126": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ thu nhập của quỹ tín thác nước ngoài)",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นรายได้ของทรัสต์ต่างประเทศ)",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Penghasilan Perwalian Asing)",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian Pendapatan Amanah Asing)"
+  },
+  "SG-H2127": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ thu nhập của quỹ tín thác được quản lý trong nước) 2007",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นรายได้ของทรัสต์ที่บริหารภายในประเทศ) 2007",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Penghasilan Perwalian yang Dikelola Secara Lokal) 2007",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian Pendapatan Amanah yang Ditadbir Secara Tempatan) 2007"
+  },
+  "SG-H2128": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ thu nhập của người theo quy định phát sinh từ quỹ được quản lý bởi nhà quản lý quỹ tại Singapore) 2010",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นรายได้ของบุคคลตามที่กำหนดซึ่งเกิดจากกองทุนที่จัดการโดยผู้จัดการกองทุนในสิงคโปร์) 2010",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Penghasilan Orang yang Ditetapkan dari Dana yang Dikelola oleh Manajer Dana di Singapura) 2010",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian Pendapatan Orang yang Ditetapkan daripada Dana yang Diurus oleh Pengurus Dana di Singapura) 2010"
+  },
+  "SG-H2129": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ thu nhập của người được ủy thác quỹ tín thác phát sinh từ quỹ được quản lý bởi nhà quản lý quỹ tại Singapore) 2010",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นรายได้ของผู้ดูแลกองทุนทรัสต์ซึ่งเกิดจากกองทุนที่จัดการโดยผู้จัดการกองทุนในสิงคโปร์) 2010",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Penghasilan Wali Amanat Dana Perwalian dari Dana yang Dikelola oleh Manajer Dana di Singapura) 2010",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian Pendapatan Pemegang Amanah Dana Amanah daripada Dana yang Diurus oleh Pengurus Dana di Singapura) 2010"
+  },
+  "SG-H2242": {
+   "vi": "Thông báo Thuế thu nhập (Miễn trừ các khoản thanh toán cho phát triển kinh tế và công nghệ) (Số 2) 2011",
+   "th": "ประกาศภาษีเงินได้ (การยกเว้นการชำระเงินเพื่อการพัฒนาเศรษฐกิจและเทคโนโลยี) (ฉบับที่ 2) 2011",
+   "id": "Pemberitahuan Pajak Penghasilan (Pembebasan Pembayaran untuk Pengembangan Ekonomi dan Teknologi) (Nomor 2) 2011",
+   "ms": "Pemberitahuan Cukai Pendapatan (Pengecualian Bayaran bagi Pembangunan Ekonomi dan Teknologi) (No. 2) 2011"
+  },
+  "SG-H2243": {
+   "vi": "Thông báo Thuế thu nhập (Miễn trừ các khoản thanh toán cho phát triển kinh tế và công nghệ) 2011",
+   "th": "ประกาศภาษีเงินได้ (การยกเว้นการชำระเงินเพื่อการพัฒนาเศรษฐกิจและเทคโนโลยี) 2011",
+   "id": "Pemberitahuan Pajak Penghasilan (Pembebasan Pembayaran untuk Pengembangan Ekonomi dan Teknologi) 2011",
+   "ms": "Pemberitahuan Cukai Pendapatan (Pengecualian Bayaran bagi Pembangunan Ekonomi dan Teknologi) 2011"
+  },
+  "SG-H2244": {
+   "vi": "Quy chế Thuế thu nhập (Miễn trừ thu nhập liên quan của công ty cổ phần đầu tư do gia đình sở hữu đủ điều kiện) 2009",
+   "th": "ข้อบังคับภาษีเงินได้ (การยกเว้นรายได้ที่เกี่ยวข้องของบริษัทโฮลดิ้งการลงทุนของครอบครัวที่เข้าเกณฑ์) 2009",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan Penghasilan Relevan Perusahaan Induk Investasi Milik Keluarga yang Memenuhi Syarat) 2009",
+   "ms": "Peraturan Cukai Pendapatan (Pengecualian Pendapatan Berkaitan Syarikat Pegangan Pelaburan Milik Keluarga yang Layak) 2009"
+  },
+  "SG-H2251": {
+   "vi": "Thông báo Thuế thu nhập (Miễn trừ tiền thưởng hai thế kỷ Workfare) 2019",
+   "th": "ประกาศภาษีเงินได้ (การยกเว้นโบนัสครบรอบสองศตวรรษ Workfare) 2019",
+   "id": "Pemberitahuan Pajak Penghasilan (Pembebasan Bonus Dua Abad Workfare) 2019",
+   "ms": "Pemberitahuan Cukai Pendapatan (Pengecualian Bonus Dua Abad Workfare) 2019"
+  },
+  "SG-H2252": {
+   "vi": "Thông báo Thuế thu nhập (Miễn trừ khoản thanh toán đặc biệt Workfare — Điều 13(1)(zp)) 2020",
+   "th": "ประกาศภาษีเงินได้ (การยกเว้นการจ่ายเงินพิเศษ Workfare — มาตรา 13(1)(zp)) 2020",
+   "id": "Pemberitahuan Pajak Penghasilan (Pembebasan Pembayaran Khusus Workfare — Pasal 13(1)(zp)) 2020",
+   "ms": "Pemberitahuan Cukai Pendapatan (Pengecualian Bayaran Khas Workfare — Seksyen 13(1)(zp)) 2020"
+  },
+  "SG-H2253": {
+   "vi": "Quy tắc Thuế thu nhập (Miễn trừ theo Điều 13ZA(3)) 2020",
+   "th": "กฎภาษีเงินได้ (การยกเว้นตามมาตรา 13ZA(3)) 2020",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan menurut Pasal 13ZA(3)) 2020",
+   "ms": "Kaedah Cukai Pendapatan (Pengecualian di bawah Seksyen 13ZA(3)) 2020"
+  },
+  "SG-H2254": {
+   "vi": "Quy tắc Thuế thu nhập (Miễn trừ khỏi việc thông báo theo các Điều 10J(5) và 32A(4)) 2022",
+   "th": "กฎภาษีเงินได้ (การยกเว้นจากการแจ้งตามมาตรา 10J(5) และ 32A(4)) 2022",
+   "id": "Peraturan Pajak Penghasilan (Pembebasan dari Pemberitahuan menurut Pasal 10J(5) dan 32A(4)) 2022",
+   "ms": "Kaedah Cukai Pendapatan (Pengecualian daripada Pemberitahuan di bawah Seksyen 10J(5) dan 32A(4)) 2022"
+  },
+  "SG-H2255": {
+   "vi": "Quy tắc Thuế thu nhập (Nộp bản ước tính thu nhập chịu thuế) 2017",
+   "th": "กฎภาษีเงินได้ (การยื่นประมาณการรายได้ที่ต้องเสียภาษี) 2017",
+   "id": "Peraturan Pajak Penghasilan (Penyampaian Perkiraan Penghasilan Kena Pajak) 2017",
+   "ms": "Kaedah Cukai Pendapatan (Pemfailan Anggaran Pendapatan Bercukai) 2017"
+  },
+  "SG-H2256": {
+   "vi": "Thông báo Thuế thu nhập (Cho thuê tài chính container — Miễn trừ theo Điều 13(4)) 2020",
+   "th": "ประกาศภาษีเงินได้ (การเช่าการเงินตู้คอนเทนเนอร์ — การยกเว้นตามมาตรา 13(4)) 2020",
+   "id": "Pemberitahuan Pajak Penghasilan (Sewa Pembiayaan Peti Kemas — Pembebasan menurut Pasal 13(4)) 2020",
+   "ms": "Pemberitahuan Cukai Pendapatan (Pajakan Kewangan Kontena — Pengecualian di bawah Seksyen 13(4)) 2020"
+  },
+  "SG-H2257": {
+   "vi": "Thông báo Thuế thu nhập (Cho thuê tài chính tàu biển — Miễn trừ theo Điều 13(4)) 2020",
+   "th": "ประกาศภาษีเงินได้ (การเช่าการเงินเรือ — การยกเว้นตามมาตรา 13(4)) 2020",
+   "id": "Pemberitahuan Pajak Penghasilan (Sewa Pembiayaan Kapal — Pembebasan menurut Pasal 13(4)) 2020",
+   "ms": "Pemberitahuan Cukai Pendapatan (Pajakan Kewangan Kapal — Pengecualian di bawah Seksyen 13(4)) 2020"
+  },
+  "SG-H2263": {
+   "vi": "Quy chế Thuế thu nhập (Đồng tiền chức năng) 2004",
+   "th": "ข้อบังคับภาษีเงินได้ (สกุลเงินที่ใช้ในการดำเนินงาน) 2004",
+   "id": "Peraturan Pajak Penghasilan (Mata Uang Fungsional) 2004",
+   "ms": "Peraturan Cukai Pendapatan (Mata Wang Fungsian) 2004"
+  },
+  "SG-H2264": {
+   "vi": "Quy chế Thuế thu nhập (Khấu trừ bổ sung đối với chi phí phát sinh khi di chuyển hoặc tuyển dụng nhân tài nước ngoài)",
+   "th": "ข้อบังคับภาษีเงินได้ (การหักลดหย่อนเพิ่มเติมสำหรับค่าใช้จ่ายในการย้ายที่อยู่หรือการรับสมัครบุคลากรต่างประเทศ)",
+   "id": "Peraturan Pajak Penghasilan (Pengurangan Tambahan atas Biaya yang Dikeluarkan untuk Relokasi atau Perekrutan Talenta Asing)",
+   "ms": "Peraturan Cukai Pendapatan (Potongan Tambahan bagi Perbelanjaan yang Dikeluarkan untuk Penempatan Semula atau Pengambilan Bakat Luar Negara)"
+  },
+  "SG-H2265": {
+   "vi": "Quy chế Thuế thu nhập (Lợi nhuận từ giao dịch ngắn hạn cổ phần trong công ty bất động sản tư nhân)",
+   "th": "ข้อบังคับภาษีเงินได้ (กำไรจากการซื้อขายหุ้นระยะสั้นในบริษัทอสังหาริมทรัพย์เอกชน)",
+   "id": "Peraturan Pajak Penghasilan (Keuntungan dari Transaksi Jangka Pendek Saham pada Perusahaan Properti Swasta)",
+   "ms": "Peraturan Cukai Pendapatan (Keuntungan daripada Transaksi Jangka Pendek Saham dalam Syarikat Hartanah Persendirian)"
+  },
+  "SG-H2269": {
+   "vi": "Quy chế Thuế thu nhập (Tổ chức từ thiện cấp tài trợ) 2009",
+   "th": "ข้อบังคับภาษีเงินได้ (องค์กรการกุศลที่ให้เงินทุน) 2009",
+   "id": "Peraturan Pajak Penghasilan (Organisasi Filantropi Pemberi Hibah) 2009",
+   "ms": "Peraturan Cukai Pendapatan (Pertubuhan Kedermawanan Pemberi Geran) 2009"
+  },
+  "SG-H2277": {
+   "vi": "Quy chế Thuế thu nhập (Thu nhập từ cho thuê tài chính)",
+   "th": "ข้อบังคับภาษีเงินได้ (รายได้จากสัญญาเช่าการเงิน)",
+   "id": "Peraturan Pajak Penghasilan (Penghasilan dari Sewa Pembiayaan)",
+   "ms": "Peraturan Cukai Pendapatan (Pendapatan daripada Pajakan Kewangan)"
+  },
+  "SG-H2278": {
+   "vi": "Quy chế Thuế thu nhập (Thu nhập từ quỹ được quản lý cho nhà đầu tư nước ngoài) 2003",
+   "th": "ข้อบังคับภาษีเงินได้ (รายได้จากกองทุนที่จัดการให้แก่นักลงทุนต่างประเทศ) 2003",
+   "id": "Peraturan Pajak Penghasilan (Penghasilan dari Dana yang Dikelola bagi Investor Asing) 2003",
+   "ms": "Peraturan Cukai Pendapatan (Pendapatan daripada Dana yang Diurus bagi Pelabur Asing) 2003"
+  },
+  "SG-H2279": {
+   "vi": "Quy chế Thuế thu nhập (Thu nhập từ các khoản tín dụng hợp vốn ngoài khơi và bảo lãnh phát hành)",
+   "th": "ข้อบังคับภาษีเงินได้ (รายได้จากวงเงินสินเชื่อร่วมนอกชายฝั่งและการรับประกันการจำหน่าย)",
+   "id": "Peraturan Pajak Penghasilan (Penghasilan dari Kredit Lepas Pantai Sindikasi dan Fasilitas Penjaminan Emisi)",
+   "ms": "Peraturan Cukai Pendapatan (Pendapatan daripada Kredit Luar Pesisir Sindiket dan Kemudahan Jaminan Terbitan)"
+  },
+  "SG-H2280": {
+   "vi": "Quy tắc Thuế thu nhập (Tòa nhà hoặc công trình công nghiệp)",
+   "th": "กฎภาษีเงินได้ (อาคารหรือสิ่งก่อสร้างทางอุตสาหกรรม)",
+   "id": "Peraturan Pajak Penghasilan (Bangunan atau Struktur Industri)",
+   "ms": "Kaedah Cukai Pendapatan (Bangunan atau Struktur Industri)"
+  },
+  "SG-H2281": {
+   "vi": "Lệnh Thuế thu nhập (Trợ cấp ban đầu đối với Dự án cải hoán xúc tác và giảm nhớt liên doanh của Bp Singapore Pte. Ltd., Caltex Operations Ltd. và Singapore Petroleum Co. Pte. Ltd.)",
+   "th": "คำสั่งภาษีเงินได้ (เงินช่วยเหลือเบื้องต้นสำหรับโครงการปรับสภาพด้วยตัวเร่งปฏิกิริยาและลดความหนืดแบบร่วมทุนของ Bp Singapore Pte. Ltd., Caltex Operations Ltd. และ Singapore Petroleum Co. Pte. Ltd.)",
+   "id": "Perintah Pajak Penghasilan (Tunjangan Awal atas Proyek Reformasi Katalitik dan Pemecah Kelikatan Patungan Bp Singapore Pte. Ltd., Caltex Operations Ltd. dan Singapore Petroleum Co. Pte. Ltd.)",
+   "ms": "Perintah Cukai Pendapatan (Elaun Permulaan bagi Projek Penambahbaikan Bermangkin dan Pemecah Kelikatan Usaha Sama Bp Singapore Pte. Ltd., Caltex Operations Ltd. dan Singapore Petroleum Co. Pte. Ltd.)"
+  },
+  "SG-H2282": {
+   "vi": "Lệnh Thuế thu nhập (Trợ cấp ban đầu đối với tổ hợp hydrocracker liên doanh của BP Singapore Pte. Ltd., Caltex Operations Ltd. và Singapore Petroleum Co. Pte. Ltd.)",
+   "th": "คำสั่งภาษีเงินได้ (เงินช่วยเหลือเบื้องต้นสำหรับโรงงานไฮโดรแครกเกอร์แบบร่วมทุนของ BP Singapore Pte. Ltd., Caltex Operations Ltd. และ Singapore Petroleum Co. Pte. Ltd.)",
+   "id": "Perintah Pajak Penghasilan (Tunjangan Awal atas Kompleks Hydrocracker Patungan BP Singapore Pte. Ltd., Caltex Operations Ltd. dan Singapore Petroleum Co. Pte. Ltd.)",
+   "ms": "Perintah Cukai Pendapatan (Elaun Permulaan bagi Kompleks Hydrocracker Usaha Sama BP Singapore Pte. Ltd., Caltex Operations Ltd. dan Singapore Petroleum Co. Pte. Ltd.)"
+  },
+  "SG-H2283": {
+   "vi": "Lệnh Thuế thu nhập (Trợ cấp ban đầu đối với tổ hợp giảm nhớt của Mobil Oil Singapore (Pte.) Ltd.)",
+   "th": "คำสั่งภาษีเงินได้ (เงินช่วยเหลือเบื้องต้นสำหรับโรงงานลดความหนืดของ Mobil Oil Singapore (Pte.) Ltd.)",
+   "id": "Perintah Pajak Penghasilan (Tunjangan Awal atas Kompleks Pemecah Kelikatan Mobil Oil Singapore (Pte.) Ltd.)",
+   "ms": "Perintah Cukai Pendapatan (Elaun Permulaan bagi Kompleks Pemecah Kelikatan Mobil Oil Singapore (Pte.) Ltd.)"
+  },
+  "SG-H2284": {
+   "vi": "Lệnh Thuế thu nhập (Trợ cấp ban đầu đối với dự án hydrocracker của Shell Eastern Petroleum (Pte.) Ltd.)",
+   "th": "คำสั่งภาษีเงินได้ (เงินช่วยเหลือเบื้องต้นสำหรับโครงการไฮโดรแครกเกอร์ของ Shell Eastern Petroleum (Pte.) Ltd.)",
+   "id": "Perintah Pajak Penghasilan (Tunjangan Awal atas Proyek Hydrocracker Shell Eastern Petroleum (Pte.) Ltd.)",
+   "ms": "Perintah Cukai Pendapatan (Elaun Permulaan bagi Projek Hydrocracker Shell Eastern Petroleum (Pte.) Ltd.)"
+  },
+  "SG-H2298": {
+   "vi": "Quy chế Thuế thu nhập (Trợ cấp thâm dụng đất) 2012",
+   "th": "ข้อบังคับภาษีเงินได้ (เงินช่วยเหลือการใช้ที่ดินอย่างเข้มข้น) 2012",
+   "id": "Peraturan Pajak Penghasilan (Tunjangan Intensifikasi Lahan) 2012",
+   "ms": "Peraturan Cukai Pendapatan (Elaun Pengintensifan Tanah) 2012"
+  },
+  "SG-H2303": {
+   "vi": "Quy tắc Thuế thu nhập (Máy, thiết bị hoặc hệ thống có độ ồn thấp và thiết bị kiểm soát tiếng ồn hiệu quả hoặc biện pháp kiểm soát tiếng ồn bằng kỹ thuật)",
+   "th": "กฎภาษีเงินได้ (เครื่องจักร อุปกรณ์ หรือระบบที่มีระดับเสียงต่ำ และอุปกรณ์ควบคุมเสียงรบกวนที่มีประสิทธิผล หรือมาตรการควบคุมเสียงรบกวนทางวิศวกรรม)",
+   "id": "Peraturan Pajak Penghasilan (Mesin, Peralatan atau Sistem Berdesibel Rendah dan Perangkat Pengendali Kebisingan yang Efektif atau Tindakan Pengendalian Kebisingan Teknis)",
+   "ms": "Kaedah Cukai Pendapatan (Mesin, Peralatan atau Sistem Desibel Rendah dan Peranti Kawalan Bunyi yang Berkesan atau Langkah Kawalan Bunyi Kejuruteraan)"
+  },
+  "SG-H2304": {
+   "vi": "Lệnh Thuế thu nhập (LVMH Fragrances and Cosmetics (Singapore) Pte Ltd — Miễn trừ theo Điều 13(12)) 2010",
+   "th": "คำสั่งภาษีเงินได้ (LVMH Fragrances and Cosmetics (Singapore) Pte Ltd — การยกเว้นตามมาตรา 13(12)) 2010",
+   "id": "Perintah Pajak Penghasilan (LVMH Fragrances and Cosmetics (Singapore) Pte Ltd — Pembebasan menurut Pasal 13(12)) 2010",
+   "ms": "Perintah Cukai Pendapatan (LVMH Fragrances and Cosmetics (Singapore) Pte Ltd — Pengecualian di bawah Seksyen 13(12)) 2010"
+  },
+  "SG-H2305": {
+   "vi": "Quy tắc Thuế thu nhập (Máy, thiết bị hoặc hệ thống giúp giảm hoặc loại bỏ nguy cơ phơi nhiễm hóa chất và thiết bị hoặc biện pháp kiểm soát mối nguy hóa chất hiệu quả)",
+   "th": "กฎภาษีเงินได้ (เครื่องจักร อุปกรณ์ หรือระบบที่ลดหรือขจัดการสัมผัสความเสี่ยงทางเคมี และอุปกรณ์หรือมาตรการควบคุมอันตรายทางเคมีที่มีประสิทธิผล)",
+   "id": "Peraturan Pajak Penghasilan (Mesin, Peralatan atau Sistem yang Mengurangi atau Menghilangkan Paparan Risiko Kimia dan Perangkat atau Tindakan Pengendalian Bahaya Kimia yang Efektif)",
+   "ms": "Kaedah Cukai Pendapatan (Mesin, Peralatan atau Sistem yang Mengurangkan atau Menghapuskan Pendedahan Risiko Bahan Kimia dan Peranti atau Langkah Kawalan Bahaya Bahan Kimia yang Berkesan)"
+  },
+  "SG-H2308": {
+   "vi": "Quy tắc Thuế thu nhập (Số tiền giảm trừ tối đa cho các khoản nộp vào tài khoản hưu trí và tài khoản đặc biệt) 2018",
+   "th": "กฎภาษีเงินได้ (จำนวนเงินลดหย่อนสูงสุดสำหรับการจ่ายเข้าบัญชีเกษียณและบัญชีพิเศษ) 2018",
+   "id": "Peraturan Pajak Penghasilan (Jumlah Keringanan Maksimum untuk Pembayaran ke Akun Pensiun dan Akun Khusus) 2018",
+   "ms": "Kaedah Cukai Pendapatan (Jumlah Pelepasan Maksimum bagi Bayaran ke Akaun Persaraan dan Akaun Khas) 2018"
+  },
+  "SG-H2309": {
+   "vi": "Quy tắc Thuế thu nhập (Ý nghĩa của tài sản theo quy định tại Điều 13X(6)) 2022",
+   "th": "กฎภาษีเงินได้ (ความหมายของทรัพย์สินตามที่กำหนดในมาตรา 13X(6)) 2022",
+   "id": "Peraturan Pajak Penghasilan (Arti Properti yang Ditetapkan dalam Pasal 13X(6)) 2022",
+   "ms": "Kaedah Cukai Pendapatan (Maksud Harta yang Ditetapkan dalam Seksyen 13X(6)) 2022"
+  },
+  "SG-H2324": {
+   "vi": "Lệnh Thuế thu nhập (Singapore — Bermuda) (Hiệp định trao đổi thông tin về các vấn đề thuế) 2012",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์ — เบอร์มิวดา) (ความตกลงแลกเปลี่ยนข้อมูลเกี่ยวกับเรื่องภาษี) 2012",
+   "id": "Perintah Pajak Penghasilan (Singapura — Bermuda) (Persetujuan Pertukaran Informasi mengenai Hal Perpajakan) 2012",
+   "ms": "Perintah Cukai Pendapatan (Singapura — Bermuda) (Perjanjian Pertukaran Maklumat mengenai Perkara Cukai) 2012"
+  },
+  "SG-H2325": {
+   "vi": "Lệnh Thuế thu nhập (Singapore — Brazil) (Hiệp định tránh đánh thuế hai lần đối với lợi nhuận từ vận tải hàng không và vận tải biển quốc tế) 2013",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์ — บราซิล) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อนสำหรับกำไรจากค่าขนส่งระหว่างประเทศทางอากาศและทางทะเล) 2013",
+   "id": "Perintah Pajak Penghasilan (Singapura — Brasil) (Persetujuan Penghindaran Pajak Berganda atas Laba dari Pengangkutan Udara dan Laut Internasional) 2013",
+   "ms": "Perintah Cukai Pendapatan (Singapura — Brazil) (Perjanjian Pengelakan Cukai Berganda atas Keuntungan daripada Pengangkutan Udara dan Laut Antarabangsa) 2013"
+  },
+  "SG-H2336": {
+   "vi": "Lệnh Thuế thu nhập (Singapore — Chile) (Hiệp định miễn trừ tương hỗ đối với thuế thu nhập phát sinh từ hoạt động khai thác tàu quốc tế) 1993",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์ — ชิลี) (ความตกลงว่าด้วยการยกเว้นซึ่งกันและกันสำหรับภาษีเงินได้ที่เกิดจากการเดินเรือระหว่างประเทศ) 1993",
+   "id": "Perintah Pajak Penghasilan (Singapura — Cile) (Persetujuan Pembebasan Timbal Balik atas Pajak Penghasilan dari Pengoperasian Kapal Internasional) 1993",
+   "ms": "Perintah Cukai Pendapatan (Singapura — Chile) (Perjanjian Pengecualian Timbal Balik bagi Cukai Pendapatan daripada Pengoperasian Kapal Antarabangsa) 1993"
+  },
+  "SG-H2371": {
+   "vi": "Lệnh Thuế thu nhập (Singapore — Guernsey) (Hiệp định tránh đánh thuế hai lần) 2013",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์ — เกิร์นซีย์) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 2013",
+   "id": "Perintah Pajak Penghasilan (Singapura — Guernsey) (Persetujuan Penghindaran Pajak Berganda) 2013",
+   "ms": "Perintah Cukai Pendapatan (Singapura — Guernsey) (Perjanjian Pengelakan Cukai Berganda) 2013"
+  },
+  "SG-H2372": {
+   "vi": "Lệnh Thuế thu nhập (Singapore — Khu Hành chính Đặc biệt Hồng Kông thuộc Cộng hòa Nhân dân Trung Hoa) (Hiệp định tránh đánh thuế hai lần đối với thu nhập của doanh nghiệp khai thác tàu biển hoặc máy bay trong giao thông quốc tế) 2004",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์ — เขตบริหารพิเศษฮ่องกงแห่งสาธารณรัฐประชาชนจีน) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อนสำหรับรายได้ของวิสาหกิจที่เดินเรือหรืออากาศยานในการจราจรระหว่างประเทศ) 2004",
+   "id": "Perintah Pajak Penghasilan (Singapura — Daerah Administratif Khusus Hong Kong Republik Rakyat Tiongkok) (Persetujuan Penghindaran Pajak Berganda atas Penghasilan Perusahaan yang Mengoperasikan Kapal atau Pesawat dalam Lalu Lintas Internasional) 2004",
+   "ms": "Perintah Cukai Pendapatan (Singapura — Wilayah Pentadbiran Khas Hong Kong Republik Rakyat China) (Perjanjian Pengelakan Cukai Berganda atas Pendapatan Perusahaan yang Mengendalikan Kapal atau Pesawat dalam Trafik Antarabangsa) 2004"
+  },
+  "SG-H2457": {
+   "vi": "Lệnh Thuế thu nhập (Singapore — Vùng lãnh thổ Đài Loan, Trung Quốc) (Hiệp định tránh đánh thuế hai lần) 1982",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์ — ดินแดนไต้หวัน ประเทศจีน) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 1982",
+   "id": "Perintah Pajak Penghasilan (Singapura — Wilayah Taiwan, Tiongkok) (Persetujuan Penghindaran Pajak Berganda) 1982",
+   "ms": "Perintah Cukai Pendapatan (Singapura — Wilayah Taiwan, China) (Perjanjian Pengelakan Cukai Berganda) 1982"
+  },
+  "SG-H2466": {
+   "vi": "Lệnh Thuế thu nhập (Singapore — San Marino) (Hiệp định tránh đánh thuế hai lần) 2015",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์ — ซานมารีโน) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 2015",
+   "id": "Perintah Pajak Penghasilan (Singapura — San Marino) (Persetujuan Penghindaran Pajak Berganda) 2015",
+   "ms": "Perintah Cukai Pendapatan (Singapura — San Marino) (Perjanjian Pengelakan Cukai Berganda) 2015"
+  },
+  "SG-H2467": {
+   "vi": "Lệnh Thuế thu nhập (Singapore — Ả Rập Xê Út) (Hiệp định miễn trừ tương hỗ đối với thuế thu nhập phát sinh từ hoạt động vận tải hàng không quốc tế) 1992",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์ — ซาอุดีอาระเบีย) (ความตกลงว่าด้วยการยกเว้นซึ่งกันและกันสำหรับภาษีเงินได้ที่เกิดจากธุรกิจการขนส่งทางอากาศระหว่างประเทศ) 1992",
+   "id": "Perintah Pajak Penghasilan (Singapura — Arab Saudi) (Persetujuan Pembebasan Timbal Balik atas Pajak Penghasilan dari Usaha Pengangkutan Udara Internasional) 1992",
+   "ms": "Perintah Cukai Pendapatan (Singapura — Arab Saudi) (Perjanjian Pengecualian Timbal Balik bagi Cukai Pendapatan daripada Perniagaan Pengangkutan Udara Antarabangsa) 1992"
+  },
+  "SG-H2470": {
+   "vi": "Lệnh Thuế thu nhập (Singapore — Lãnh thổ hải quan riêng biệt Đài Loan, Bành Hồ, Kim Môn và Mã Tổ) (Hiệp định tránh đánh thuế hai lần) 2026",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์ — ดินแดนศุลกากรแยกต่างหากไต้หวัน เผิงหู จินเหมิน และหมาจู่) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 2026",
+   "id": "Perintah Pajak Penghasilan (Singapura — Wilayah Pabean Terpisah Taiwan, Penghu, Kinmen dan Matsu) (Persetujuan Penghindaran Pajak Berganda) 2026",
+   "ms": "Perintah Cukai Pendapatan (Singapura — Wilayah Kastam Berasingan Taiwan, Penghu, Kinmen dan Matsu) (Perjanjian Pengelakan Cukai Berganda) 2026"
+  },
+  "SG-H2504": {
+   "vi": "Lệnh Thuế thu nhập (Singapore — Các Tiểu vương quốc Ả Rập Thống nhất) (Hiệp định miễn trừ tương hỗ đối với thuế thu nhập phát sinh từ hoạt động vận tải hàng không quốc tế) 1991",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์ — สหรัฐอาหรับเอมิเรตส์) (ความตกลงว่าด้วยการยกเว้นซึ่งกันและกันสำหรับภาษีเงินได้ที่เกิดจากธุรกิจการขนส่งทางอากาศระหว่างประเทศ) 1991",
+   "id": "Perintah Pajak Penghasilan (Singapura — Uni Emirat Arab) (Persetujuan Pembebasan Timbal Balik atas Pajak Penghasilan dari Usaha Pengangkutan Udara Internasional) 1991",
+   "ms": "Perintah Cukai Pendapatan (Singapura — Emiriah Arab Bersatu) (Perjanjian Pengecualian Timbal Balik bagi Cukai Pendapatan daripada Perniagaan Pengangkutan Udara Antarabangsa) 1991"
+  },
+  "SG-H2520": {
+   "vi": "Lệnh Thuế thu nhập (Singapore ─ Bahrain) (Hiệp định tránh đánh thuế hai lần) 2012",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์ ─ บาห์เรน) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 2012",
+   "id": "Perintah Pajak Penghasilan (Singapura ─ Bahrain) (Persetujuan Penghindaran Pajak Berganda) 2012",
+   "ms": "Perintah Cukai Pendapatan (Singapura ─ Bahrain) (Perjanjian Pengelakan Cukai Berganda) 2012"
+  },
+  "SG-H2521": {
+   "vi": "Lệnh Thuế thu nhập (Singapore ─ Mexico) (Hiệp định tránh đánh thuế hai lần) 2011",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์ ─ เม็กซิโก) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 2011",
+   "id": "Perintah Pajak Penghasilan (Singapura ─ Meksiko) (Persetujuan Penghindaran Pajak Berganda) 2011",
+   "ms": "Perintah Cukai Pendapatan (Singapura ─ Mexico) (Perjanjian Pengelakan Cukai Berganda) 2011"
+  },
+  "SG-H2522": {
+   "vi": "Lệnh Thuế thu nhập (Singapore-Đan Mạch) (Hiệp định tránh đánh thuế hai lần) 2000",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์-เดนมาร์ก) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 2000",
+   "id": "Perintah Pajak Penghasilan (Singapura-Denmark) (Persetujuan Penghindaran Pajak Berganda) 2000",
+   "ms": "Perintah Cukai Pendapatan (Singapura-Denmark) (Perjanjian Pengelakan Cukai Berganda) 2000"
+  },
+  "SG-H2523": {
+   "vi": "Lệnh Thuế thu nhập (Singapore-Ai Cập) (Hiệp định tránh đánh thuế hai lần) 2004",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์-อียิปต์) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 2004",
+   "id": "Perintah Pajak Penghasilan (Singapura-Mesir) (Persetujuan Penghindaran Pajak Berganda) 2004",
+   "ms": "Perintah Cukai Pendapatan (Singapura-Mesir) (Perjanjian Pengelakan Cukai Berganda) 2004"
+  },
+  "SG-H2524": {
+   "vi": "Lệnh Thuế thu nhập (Singapore-Phần Lan) (Hiệp định tránh đánh thuế hai lần) 2002",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์-ฟินแลนด์) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 2002",
+   "id": "Perintah Pajak Penghasilan (Singapura-Finlandia) (Persetujuan Penghindaran Pajak Berganda) 2002",
+   "ms": "Perintah Cukai Pendapatan (Singapura-Finland) (Perjanjian Pengelakan Cukai Berganda) 2002"
+  },
+  "SG-H2525": {
+   "vi": "Lệnh Thuế thu nhập (Singapore-Đức) (Hiệp định tránh đánh thuế hai lần) 2006",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์-เยอรมนี) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 2006",
+   "id": "Perintah Pajak Penghasilan (Singapura-Jerman) (Persetujuan Penghindaran Pajak Berganda) 2006",
+   "ms": "Perintah Cukai Pendapatan (Singapura-Jerman) (Perjanjian Pengelakan Cukai Berganda) 2006"
+  },
+  "SG-H2526": {
+   "vi": "Lệnh Thuế thu nhập (Singapore-Kuwait) (Hiệp định tránh đánh thuế hai lần) 2003",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์-คูเวต) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 2003",
+   "id": "Perintah Pajak Penghasilan (Singapura-Kuwait) (Persetujuan Penghindaran Pajak Berganda) 2003",
+   "ms": "Perintah Cukai Pendapatan (Singapura-Kuwait) (Perjanjian Pengelakan Cukai Berganda) 2003"
+  },
+  "SG-H2527": {
+   "vi": "Lệnh Thuế thu nhập (Singapore-Latvia) (Hiệp định tránh đánh thuế hai lần) 2000",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์-ลัตเวีย) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 2000",
+   "id": "Perintah Pajak Penghasilan (Singapura-Latvia) (Persetujuan Penghindaran Pajak Berganda) 2000",
+   "ms": "Perintah Cukai Pendapatan (Singapura-Latvia) (Perjanjian Pengelakan Cukai Berganda) 2000"
+  },
+  "SG-H2528": {
+   "vi": "Lệnh Thuế thu nhập (Singapore-Malaysia) (Hiệp định tránh đánh thuế hai lần) 2006",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์-มาเลเซีย) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 2006",
+   "id": "Perintah Pajak Penghasilan (Singapura-Malaysia) (Persetujuan Penghindaran Pajak Berganda) 2006",
+   "ms": "Perintah Cukai Pendapatan (Singapura-Malaysia) (Perjanjian Pengelakan Cukai Berganda) 2006"
+  },
+  "SG-H2529": {
+   "vi": "Lệnh Thuế thu nhập (Singapore-Myanmar) (Hiệp định tránh đánh thuế hai lần) 2000",
+   "th": "คำสั่งภาษีเงินได้ (สิงคโปร์-เมียนมา) (ความตกลงการหลีกเลี่ยงการเก็บภาษีซ้ำซ้อน) 2000",
+   "id": "Perintah Pajak Penghasilan (Singapura-Myanmar) (Persetujuan Penghindaran Pajak Berganda) 2000",
+   "ms": "Perintah Cukai Pendapatan (Singapura-Myanmar) (Perjanjian Pengelakan Cukai Berganda) 2000"
+  },
+  "SG-H2535": {
+   "vi": "Quy tắc Thuế thu nhập (Thời hạn phản đối thay thế đối với quỹ tín thác) 2023",
+   "th": "กฎภาษีเงินได้ (ระยะเวลาคัดค้านแทนสำหรับทรัสต์) 2023",
+   "id": "Peraturan Pajak Penghasilan (Periode Keberatan Pengganti bagi Perwalian) 2023",
+   "ms": "Kaedah Cukai Pendapatan (Tempoh Bantahan Gantian bagi Amanah) 2023"
+  },
+  "SG-H2536": {
+   "vi": "Quy tắc Thuế thu nhập (Thuế suất thay thế cho việc khấu trừ thuế đối với các khoản thanh toán thuê máy bay) 2018",
+   "th": "กฎภาษีเงินได้ (อัตราแทนสำหรับการหักภาษี ณ ที่จ่ายสำหรับการชำระค่าเช่าเครื่องบิน) 2018",
+   "id": "Peraturan Pajak Penghasilan (Tarif Pengganti untuk Pemotongan Pajak atas Pembayaran Sewa Pesawat) 2018",
+   "ms": "Kaedah Cukai Pendapatan (Kadar Gantian bagi Pegangan Cukai atas Bayaran Sewa Pesawat) 2018"
+  },
+  "SG-H2539": {
+   "vi": "Quy chế Thuế thu nhập (Chương trình hưu trí bổ sung) 2003",
+   "th": "ข้อบังคับภาษีเงินได้ (โครงการเกษียณอายุเสริม) 2003",
+   "id": "Peraturan Pajak Penghasilan (Skema Pensiun Tambahan) 2003",
+   "ms": "Peraturan Cukai Pendapatan (Skim Persaraan Tambahan) 2003"
+  },
+  "SG-H2541": {
+   "vi": "Quy chế Thuế thu nhập (Ưu đãi thuế cho quan hệ đối tác) 2012",
+   "th": "ข้อบังคับภาษีเงินได้ (สิ่งจูงใจทางภาษีสำหรับห้างหุ้นส่วน) 2012",
+   "id": "Peraturan Pajak Penghasilan (Insentif Pajak bagi Persekutuan) 2012",
+   "ms": "Peraturan Cukai Pendapatan (Insentif Cukai bagi Perkongsian) 2012"
+  },
+  "SG-H2548": {
+   "vi": "Thông báo Thuế thu nhập (Trafigura Group Pte Ltd — Miễn trừ theo Điều 13(4)) (Số 2) 2020",
+   "th": "ประกาศภาษีเงินได้ (Trafigura Group Pte Ltd — การยกเว้นตามมาตรา 13(4)) (ฉบับที่ 2) 2020",
+   "id": "Pemberitahuan Pajak Penghasilan (Trafigura Group Pte Ltd — Pembebasan menurut Pasal 13(4)) (Nomor 2) 2020",
+   "ms": "Pemberitahuan Cukai Pendapatan (Trafigura Group Pte Ltd — Pengecualian di bawah Seksyen 13(4)) (No. 2) 2020"
+  },
+  "SG-H2586": {
+   "vi": "Quy tắc Thuế thu nhập (Hồ sơ xác định giá chuyển nhượng) 2018",
+   "th": "กฎภาษีเงินได้ (เอกสารการกำหนดราคาโอน) 2018",
+   "id": "Peraturan Pajak Penghasilan (Dokumentasi Penetapan Harga Transfer) 2018",
+   "ms": "Kaedah Cukai Pendapatan (Dokumentasi Penetapan Harga Pindahan) 2018"
+  },
+  "SG-H2587": {
+   "vi": "Lệnh Thuế thu nhập (Người được ủy thác của Keppel DC REIT và các đối tượng khác — Miễn trừ theo Điều 13(12)) 2023",
+   "th": "คำสั่งภาษีเงินได้ (ผู้ดูแลผลประโยชน์ของ Keppel DC REIT และอื่น ๆ — การยกเว้นตามมาตรา 13(12)) 2023",
+   "id": "Perintah Pajak Penghasilan (Wali Amanat Keppel DC REIT dan lain-lain — Pembebasan menurut Pasal 13(12)) 2023",
+   "ms": "Perintah Cukai Pendapatan (Pemegang Amanah Keppel DC REIT dan lain-lain — Pengecualian di bawah Seksyen 13(12)) 2023"
+  },
+  "SG-H2590": {
+   "vi": "Thông báo Thuế thu nhập (Sử dụng container — Miễn trừ theo Điều 13(4)) 2020",
+   "th": "ประกาศภาษีเงินได้ (การใช้ตู้คอนเทนเนอร์ — การยกเว้นตามมาตรา 13(4)) 2020",
+   "id": "Pemberitahuan Pajak Penghasilan (Penggunaan Peti Kemas — Pembebasan menurut Pasal 13(4)) 2020",
+   "ms": "Pemberitahuan Cukai Pendapatan (Penggunaan Kontena — Pengecualian di bawah Seksyen 13(4)) 2020"
+  },
+  "SG-H3281": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Malaysia) 2005",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (มาเลเซีย) 2005",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (Malaysia) 2005",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (Malaysia) 2005"
+  },
+  "SG-H3288": {
+   "vi": "Lệnh Tương trợ tư pháp trong các vấn đề hình sự (Hợp chúng quốc Hoa Kỳ)",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องทางอาญา (สหรัฐอเมริกา)",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana (Amerika Serikat)",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah (Amerika Syarikat)"
+  }
+ }
+}

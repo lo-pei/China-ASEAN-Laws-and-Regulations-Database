@@ -1,0 +1,255 @@
+// self-ID-10 译文表：仅含五语译文，印尼语原题由 build.js 从 pending-ID.json 回填
+module.exports = {
+  'ID-H686': {
+    zh: '对国家官员、国家公务员、印度尼西亚国民军成员及退休人员由国家财政或地方财政负担的所得的所得税',
+    en: 'Law No. 45 of 1994 on Income Tax for State Officials, Civil Servants, Members of the Armed Forces of the Republic of Indonesia and Pensioners on Income Charged to the State or Regional Treasury',
+    vi: 'Luật số 45 năm 1994 về thuế thu nhập đối với các quan chức nhà nước, công chức, quân nhân lực lượng vũ trang Cộng hòa Indonesia và người hưởng lương hưu đối với thu nhập do ngân sách nhà nước hoặc ngân sách địa phương chi trả',
+    th: 'พระราชบัญญัติเลขที่ 45 ปี 1994 ว่าด้วยภาษีเงินได้สำหรับเจ้าหน้าที่ของรัฐ ข้าราชการพลเรือน สมาชิกกองทัพแห่งสาธารณรัฐอินโดนีเซีย และผู้รับบำนาญ สำหรับรายได้ที่เบิกจ่ายจากการคลังแผ่นดินหรือการคลังท้องถิ่น',
+    ms: 'Akta No. 45 Tahun 1994 tentang Cukai Pendapatan bagi Pegawai Negara, Pegawai Perkhidmatan Awam, Anggota Angkatan Bersenjata Republik Indonesia dan Para Pesara atas Pendapatan yang Dibebankan kepada Kewangan Negara atau Kewangan Daerah'
+  },
+  'ID-H688': {
+    zh: '土地和/或建筑物权利转让所得的所得税缴纳',
+    en: 'Law No. 48 of 1994 on the Payment of Income Tax on Income from the Transfer of Rights to Land and/or Buildings',
+    vi: 'Luật số 48 năm 1994 về việc nộp thuế thu nhập đối với thu nhập từ chuyển nhượng quyền sử dụng đất và/hoặc công trình',
+    th: 'พระราชบัญญัติเลขที่ 48 ปี 1994 ว่าด้วยการชำระภาษีเงินได้สำหรับรายได้จากการโอนสิทธิในที่ดินและ/หรืออาคาร',
+    ms: 'Akta No. 48 Tahun 1994 tentang Pembayaran Cukai Pendapatan atas Pendapatan daripada Pemindahan Hak atas Tanah dan/atau Bangunan'
+  },
+  'ID-H689': {
+    zh: '离境自然人缴纳所得税',
+    en: 'Law No. 46 of 1994 on the Payment of Income Tax by Individuals Departing Abroad',
+    vi: 'Luật số 46 năm 1994 về việc nộp thuế thu nhập đối với cá nhân xuất cảnh ra nước ngoài',
+    th: 'พระราชบัญญัติเลขที่ 46 ปี 1994 ว่าด้วยการชำระภาษีเงินได้สำหรับบุคคลธรรมดาที่เดินทางออกนอกประเทศ',
+    ms: 'Akta No. 46 Tahun 1994 tentang Pembayaran Cukai Pendapatan bagi Individu yang Bertolak ke Luar Negara'
+  },
+  'ID-H690': {
+    zh: '本年度内土地或土地与建筑物权利转让所得的所得税缴纳',
+    en: 'Law No. 3 of 1994 on the Payment of Income Tax in the Current Year on Income from the Transfer of Rights to Land or Land and Buildings',
+    vi: 'Luật số 3 năm 1994 về việc nộp thuế thu nhập trong năm hiện hành đối với thu nhập từ chuyển nhượng quyền sử dụng đất hoặc đất và công trình',
+    th: 'พระราชบัญญัติเลขที่ 3 ปี 1994 ว่าด้วยการชำระภาษีเงินได้ในปีปัจจุบันสำหรับรายได้จากการโอนสิทธิในที่ดินหรือที่ดินและอาคาร',
+    ms: 'Akta No. 3 Tahun 1994 tentang Pembayaran Cukai Pendapatan dalam Tahun Semasa atas Pendapatan daripada Pemindahan Hak atas Tanah atau Tanah dan Bangunan'
+  },
+  'ID-H693': {
+    zh: '外商投资设立公司中的持股',
+    en: 'Law No. 20 of 1994 on Share Ownership in Companies Established in the Framework of Foreign Investment',
+    vi: 'Luật số 20 năm 1994 về việc nắm giữ cổ phần trong doanh nghiệp được thành lập trong khuôn khổ đầu tư nước ngoài',
+    th: 'พระราชบัญญัติเลขที่ 20 ปี 1994 ว่าด้วยการถือหุ้นในบริษัทที่จัดตั้งขึ้นในกรอบการลงทุนต่างประเทศ',
+    ms: 'Akta No. 20 Tahun 1994 tentang Pemilikan Saham dalam Syarikat yang Didirikan dalam Rangka Pelaburan Asing'
+  },
+  'ID-H702': {
+    zh: '土地与建筑物税应税销售价值百分比的确定',
+    en: 'Law No. 12 of 1994 on the Determination of the Percentage of the Sales Value Subject to Tax for Land and Building Tax',
+    vi: 'Luật số 12 năm 1994 về việc xác định tỷ lệ phần trăm giá trị bán chịu thuế trong thuế nhà đất',
+    th: 'พระราชบัญญัติเลขที่ 12 ปี 1994 ว่าด้วยการกำหนดอัตราร้อยละของมูลค่าขายที่ต้องเสียภาษีในภาษีที่ดินและสิ่งปลูกสร้าง',
+    ms: 'Akta No. 12 Tahun 1994 tentang Penetapan Kadar Peratusan Nilai Jualan Kena Cukai bagi Cukai Bumi dan Bangunan'
+  },
+  'ID-H708': {
+    zh: '人口发展管理',
+    en: 'Law No. 27 of 1994 on the Management of Population Development',
+    vi: 'Luật số 27 năm 1994 về Quản lý Phát triển Dân số',
+    th: 'พระราชบัญญัติเลขที่ 27 ปี 1994 ว่าด้วยการบริหารการพัฒนาประชากร',
+    ms: 'Akta No. 27 Tahun 1994 tentang Pengurusan Perkembangan Kependudukan'
+  },
+  'ID-H711': {
+    zh: '批准印度尼西亚共和国与澳大利亚《引渡协定》',
+    en: 'Law No. 8 of 1994 on the Ratification of the Extradition Treaty between the Republic of Indonesia and Australia',
+    vi: 'Luật số 8 năm 1994 về việc phê chuẩn Hiệp định Dẫn độ giữa nước Cộng hòa Indonesia và Australia',
+    th: 'พระราชบัญญัติเลขที่ 8 ปี 1994 ว่าด้วยการให้สัตยาบันสนธิสัญญาส่งผู้ร้ายข้ามแดนระหว่างสาธารณรัฐอินโดนีเซียและออสเตรเลีย',
+    ms: 'Akta No. 8 Tahun 1994 tentang Pengesahan Perjanjian Ekstradisi antara Republik Indonesia dan Australia'
+  },
+  'ID-H717': {
+    zh: '本年度应纳税所得额的计算与所得税的清缴',
+    en: 'Law No. 47 of 1994 on the Computation of Taxable Income and the Settlement of Income Tax in the Current Year',
+    vi: 'Luật số 47 năm 1994 về việc tính thu nhập chịu thuế và quyết toán thuế thu nhập trong năm hiện hành',
+    th: 'พระราชบัญญัติเลขที่ 47 ปี 1994 ว่าด้วยการคำนวณเงินได้ที่ต้องเสียภาษีและการชำระภาษีเงินได้ให้เสร็จสิ้นในปีปัจจุบัน',
+    ms: 'Akta No. 47 Tahun 1994 tentang Pengiraan Pendapatan Kena Cukai dan Penyelesaian Cukai Pendapatan dalam Tahun Semasa'
+  },
+  'ID-H719': {
+    zh: '在国家公园、大森林公园和自然旅游公园利用区开展自然旅游经营',
+    en: 'Law No. 18 of 1994 on the Operation of Nature Tourism in the Utilisation Zones of National Parks, Grand Forest Parks and Nature Tourism Parks',
+    vi: 'Luật số 18 năm 1994 về việc kinh doanh du lịch thiên nhiên tại các vùng khai thác của vườn quốc gia, công viên rừng lớn và công viên du lịch thiên nhiên',
+    th: 'พระราชบัญญัติเลขที่ 18 ปี 1994 ว่าด้วยการประกอบธุรกิจท่องเที่ยวธรรมชาติในเขตใช้ประโยชน์ของอุทยานแห่งชาติ ป่าสงวนขนาดใหญ่ และอุทยานท่องเที่ยวธรรมชาติ',
+    ms: 'Akta No. 18 Tahun 1994 tentang Pengusahaan Pelancongan Alam di Zon Pemanfaatan Taman Negara, Taman Hutan Raya dan Taman Wisata Alam'
+  },
+  'ID-H720': {
+    zh: '电影业的经营',
+    en: 'Law No. 6 of 1994 on the Conduct of Film Business',
+    vi: 'Luật số 6 năm 1994 về việc tổ chức hoạt động kinh doanh điện ảnh',
+    th: 'พระราชบัญญัติเลขที่ 6 ปี 1994 ว่าด้วยการประกอบธุรกิจภาพยนตร์',
+    ms: 'Akta No. 6 Tahun 1994 tentang Penyelenggaraan Usaha Perfileman'
+  },
+  'ID-H726': {
+    zh: '合作社设立证书与章程修改的核准条件与程序',
+    en: 'Law No. 4 of 1994 on the Requirements and Procedures for the Approval of Deeds of Establishment and Amendments to the Articles of Association of Cooperatives',
+    vi: 'Luật số 4 năm 1994 về các điều kiện và thủ tục phê chuẩn văn bản thành lập và sửa đổi điều lệ hợp tác xã',
+    th: 'พระราชบัญญัติเลขที่ 4 ปี 1994 ว่าด้วยข้อกำหนดและขั้นตอนการรับรองตราสารจัดตั้งและการแก้ไขข้อบังคับของสหกรณ์',
+    ms: 'Akta No. 4 Tahun 1994 tentang Syarat dan Tatacara Pengesahan Akta Penubuhan dan Pindaan Anggaran Dasar Koperasi'
+  },
+  'ID-H732': {
+    zh: '石油与天然气产量分成合同的合作条件与准则',
+    en: 'Law No. 35 of 1994 on the Terms and Guidelines for Production Sharing Contract Cooperation in Oil and Gas',
+    vi: 'Luật số 35 năm 1994 về các điều kiện và hướng dẫn hợp tác theo hợp đồng chia sản phẩm dầu khí',
+    th: 'พระราชบัญญัติเลขที่ 35 ปี 1994 ว่าด้วยเงื่อนไขและแนวทางความร่วมมือตามสัญญาแบ่งปันผลผลิตน้ำมันและก๊าซธรรมชาติ',
+    ms: 'Akta No. 35 Tahun 1994 tentang Syarat-Syarat dan Garis Panduan Kerjasama Kontrak Perkongsian Hasil Minyak dan Gas Bumi'
+  },
+  'ID-H740': {
+    zh: '以赠款或外国贷款资金实施的政府项目所适用的进口关税、进口附加税、增值税与奢侈品销售税以及所得税',
+    en: 'Law No. 42 of 1995 on Import Duties, Import Surcharges, Value Added Tax and Sales Tax on Luxury Goods and Income Tax in Connection with the Implementation of Government Projects Financed by Grants or Foreign Loan Funds',
+    vi: 'Luật số 42 năm 1995 về thuế nhập khẩu, thuế nhập khẩu bổ sung, thuế giá trị gia tăng và thuế bán hàng đối với hàng hóa xa xỉ cùng thuế thu nhập trong khuôn khổ thực hiện các dự án chính phủ được tài trợ bằng viện trợ hoặc nguồn vốn vay nước ngoài',
+    th: 'พระราชบัญญัติเลขที่ 42 ปี 1995 ว่าด้วยอากรขาเข้า ภาษีอากรขาเข้าเพิ่มเติม ภาษีมูลค่าเพิ่ม และภาษีการขายสินค้าฟุ่มเฟือย ตลอดจนภาษีเงินได้ในกรอบการดำเนินโครงการของรัฐที่ได้รับเงินช่วยเหลือหรือเงินกู้ต่างประเทศ',
+    ms: 'Akta No. 42 Tahun 1995 tentang Duti Import, Duti Import Tambahan, Cukai Nilai Ditambah dan Cukai Jualan atas Barang Mewah serta Cukai Pendapatan dalam Rangka Pelaksanaan Projek Kerajaan yang Dibiayai dengan Geran atau Dana Pinjaman Luar Negara'
+  },
+  'ID-H750': {
+    zh: '在西苏门答腊省沙哇伦多/昔均戎、索洛克、丹那达塔尔、南佩西西尔、巴东帕里亚曼、五十科塔和帕萨曼各县设立11个区',
+    en: 'Law No. 41 of 1995 on the Establishment of 11 (Eleven) Sub-districts in the Regencies of Sawahlunto/Sijunjung, Solok, Tanah Datar, Pesisir Selatan, Padang Pariaman, 50 Kota and Pasaman within the Province of West Sumatra',
+    vi: 'Luật số 41 năm 1995 về việc thành lập 11 (mười một) xã tại các huyện Sawahlunto/Sijunjung, Solok, Tanah Datar, Pesisir Selatan, Padang Pariaman, 50 Kota và Pasaman thuộc tỉnh Tây Sumatra',
+    th: 'พระราชบัญญัติเลขที่ 41 ปี 1995 ว่าด้วยการจัดตั้ง 11 (สิบเอ็ด) ตำบลในเขตอำเภอ Sawahlunto/Sijunjung, Solok, Tanah Datar, Pesisir Selatan, Padang Pariaman, 50 Kota และ Pasaman ในจังหวัดสุมาตราตะวันตก',
+    ms: 'Akta No. 41 Tahun 1995 tentang Penubuhan 11 (Sebelas) Kecamatan di Wilayah Kabupaten Sawahlunto/Sijunjung, Solok, Tanah Datar, Pesisir Selatan, Padang Pariaman, 50 Kota dan Pasaman dalam Wilayah Provinsi Sumatera Barat'
+  },
+  'ID-H751': {
+    zh: '在廖内省望加丽、下英德拉吉里、上英德拉吉里和甘巴各县设立13个区',
+    en: 'Law No. 33 of 1995 on the Establishment of 13 (Thirteen) Sub-districts in the Regencies of Bengkalis, Indragiri Hilir, Indragiri Hulu and Kampar within the Province of Riau',
+    vi: 'Luật số 33 năm 1995 về việc thành lập 13 (mười ba) xã tại các huyện Bengkalis, Indragiri Hilir, Indragiri Hulu và Kampar thuộc tỉnh Riau',
+    th: 'พระราชบัญญัติเลขที่ 33 ปี 1995 ว่าด้วยการจัดตั้ง 13 (สิบสาม) ตำบลในเขตอำเภอ Bengkalis, Indragiri Hilir, Indragiri Hulu และ Kampar ในจังหวัดเรียว',
+    ms: 'Akta No. 33 Tahun 1995 tentang Penubuhan 13 (Tiga Belas) Kecamatan di Wilayah Kabupaten Bengkalis, Indragiri Hilir, Indragiri Hulu dan Kampar dalam Wilayah Provinsi Riau'
+  },
+  'ID-H754': {
+    zh: '在西爪哇省茂物、加拉璜和万隆各县设立3个区',
+    en: 'Law No. 29 of 1995 on the Establishment of 3 (Three) Sub-districts in the Regencies of Bogor, Karawang and Bandung within the Province of West Java',
+    vi: 'Luật số 29 năm 1995 về việc thành lập 3 (ba) xã tại các huyện Bogor, Karawang và Bandung thuộc tỉnh Tây Java',
+    th: 'พระราชบัญญัติเลขที่ 29 ปี 1995 ว่าด้วยการจัดตั้ง 3 (สาม) ตำบลในเขตอำเภอ Bogor, Karawang และ Bandung ในจังหวัดชวาตะวันตก',
+    ms: 'Akta No. 29 Tahun 1995 tentang Penubuhan 3 (Tiga) Kecamatan di Wilayah Kabupaten Bogor, Karawang dan Bandung dalam Wilayah Provinsi Jawa Barat'
+  },
+  'ID-H755': {
+    zh: '在东爪哇省波诺罗戈、外南梦和任抹各县设立6个区',
+    en: 'Law No. 37 of 1995 on the Establishment of 6 (Six) Sub-districts in the Regencies of Ponorogo, Banyuwangi and Jember within the Province of East Java',
+    vi: 'Luật số 37 năm 1995 về việc thành lập 6 (sáu) xã tại các huyện Ponorogo, Banyuwangi và Jember thuộc tỉnh Đông Java',
+    th: 'พระราชบัญญัติเลขที่ 37 ปี 1995 ว่าด้วยการจัดตั้ง 6 (หก) ตำบลในเขตอำเภอ Ponorogo, Banyuwangi และ Jember ในจังหวัดชวาตะวันออก',
+    ms: 'Akta No. 37 Tahun 1995 tentang Penubuhan 6 (Enam) Kecamatan di Wilayah Kabupaten Ponorogo, Banyuwangi dan Jember dalam Wilayah Provinsi Jawa Timur'
+  },
+  'ID-H760': {
+    zh: '在明古鲁、帕卢、肯达里和古邦设立宗教高等法院',
+    en: 'Law No. 3 of 1995 on the Establishment of Religious High Courts in Bengkulu, Palu, Kendari and Kupang',
+    vi: 'Luật số 3 năm 1995 về việc thành lập Tòa án Tôn giáo Cấp cao tại Bengkulu, Palu, Kendari và Kupang',
+    th: 'พระราชบัญญัติเลขที่ 3 ปี 1995 ว่าด้วยการจัดตั้งศาลศาสนาสูงที่เบงกูลู ปาลู เกนดารี และกูปัง',
+    ms: 'Akta No. 3 Tahun 1995 tentang Penubuhan Mahkamah Tinggi Agama di Bengkulu, di Palu, di Kendari dan di Kupang'
+  },
+  'ID-H769': {
+    zh: '劳动者社会保险计划实施机构的确定',
+    en: "Law No. 36 of 1995 on the Designation of the Implementing Body of the Workers' Social Security Programme",
+    vi: 'Luật số 36 năm 1995 về việc xác định cơ quan thực hiện Chương trình Bảo hiểm Xã hội cho Người lao động',
+    th: 'พระราชบัญญัติเลขที่ 36 ปี 1995 ว่าด้วยการกำหนดองค์กรผู้ดำเนินการโครงการประกันสังคมสำหรับแรงงาน',
+    ms: 'Akta No. 36 Tahun 1995 tentang Penetapan Badan Pelaksana Program Jaminan Sosial Tenaga Kerja'
+  },
+  'ID-H775': {
+    zh: '向26个试点二级地区移交部分政府事务',
+    en: 'Law No. 8 of 1995 on the Transfer of Part of Governmental Affairs to 26 (Twenty-Six) Pilot Second-Level Regions',
+    vi: 'Luật số 8 năm 1995 về việc chuyển giao một phần công việc chính quyền cho 26 (hai mươi sáu) vùng cấp hai thí điểm',
+    th: 'พระราชบัญญัติเลขที่ 8 ปี 1995 ว่าด้วยการมอบหมายภารกิจการปกครองบางส่วนให้แก่ 26 (ยี่สิบหก) เขตระดับที่สองนำร่อง',
+    ms: 'Akta No. 8 Tahun 1995 tentang Penyerahan Sebahagian Urusan Pemerintahan kepada 26 (Dua Puluh Enam) Daerah Tingkat II Perintis'
+  },
+  'ID-H778': {
+    zh: '宾坦岛与卡里汶岛开发项目建设及运营活动所适用的税务待遇',
+    en: 'Law No. 30 of 1995 on Tax Treatment in Connection with Construction Activities and Operation Activities of the Bintan Island and Karimun Island Development Project',
+    vi: 'Luật số 30 năm 1995 về chế độ thuế trong khuôn khổ hoạt động xây dựng và hoạt động vận hành của dự án phát triển đảo Bintan và đảo Karimun',
+    th: 'พระราชบัญญัติเลขที่ 30 ปี 1995 ว่าด้วยการปฏิบัติทางภาษีในกรอบกิจกรรมก่อสร้างและกิจกรรมดำเนินงานของโครงการพัฒนเกาะบินตันและเกาะคาริมุน',
+    ms: 'Akta No. 30 Tahun 1995 tentang Layanan Percukaian dalam Rangka Aktiviti Pembinaan dan Aktiviti Operasi Projek Pembangunan Pulau Bintan dan Pulau Karimun'
+  },
+  'ID-H780': {
+    zh: '茂物市与茂物县地域边界的变更',
+    en: 'Law No. 2 of 1995 on the Change of the Territorial Boundaries of the Municipality of Bogor and the Regency of Bogor',
+    vi: 'Luật số 2 năm 1995 về việc thay đổi ranh giới địa giới của thành phố Bogor và huyện Bogor',
+    th: 'พระราชบัญญัติเลขที่ 2 ปี 1995 ว่าด้วยการเปลี่ยนแปลงเขตแดนของเทศบาลนคร Bogor และอำเภอ Bogor',
+    ms: 'Akta No. 2 Tahun 1995 tentang Perubahan Sempadan Wilayah Kotamadya Bogor dan Kabupaten Bogor'
+  },
+  'ID-H781': {
+    zh: '苏卡布米市与苏卡布米县地域边界的变更',
+    en: 'Law No. 3 of 1995 on the Change of the Territorial Boundaries of the Municipality of Sukabumi and the Regency of Sukabumi',
+    vi: 'Luật số 3 năm 1995 về việc thay đổi ranh giới địa giới của thành phố Sukabumi và huyện Sukabumi',
+    th: 'พระราชบัญญัติเลขที่ 3 ปี 1995 ว่าด้วยการเปลี่ยนแปลงเขตแดนของเทศบาลนคร Sukabumi และอำเภอ Sukabumi',
+    ms: 'Akta No. 3 Tahun 1995 tentang Perubahan Sempadan Wilayah Kotamadya Sukabumi dan Kabupaten Sukabumi'
+  },
+  'ID-H786': {
+    zh: '将当格朗县首府由当格朗市辖区迁至当格朗县蒂加拉沙区',
+    en: 'Law No. 14 of 1995 on the Relocation of the Capital of Tangerang Regency from the Territory of the Municipality of Tangerang to Tigaraksa Sub-district within the Territory of Tangerang Regency',
+    vi: 'Luật số 14 năm 1995 về việc di dời thủ phủ huyện Tangerang từ địa phận thành phố Tangerang đến xã Tigaraksa thuộc địa phận huyện Tangerang',
+    th: 'พระราชบัญญัติเลขที่ 14 ปี 1995 ว่าด้วยการย้ายที่ตั้งเมืองหลวงของอำเภอ Tangerang จากเขตเทศบาลนคร Tangerang ไปยังตำบล Tigaraksa ในเขตอำเภอ Tangerang',
+    ms: 'Akta No. 14 Tahun 1995 tentang Pemindahan Ibu Kota Kabupaten Tangerang daripada Wilayah Kotamadya Tangerang ke Kecamatan Tigaraksa di Wilayah Kabupaten Tangerang'
+  },
+  'ID-H794': {
+    zh: '土地及其附着物的抵押权',
+    en: 'Law No. 4 of 1996 on Mortgages over Land and Objects Attached to Land',
+    vi: 'Luật số 4 năm 1996 về Quyền thế chấp đất và các vật gắn liền với đất',
+    th: 'พระราชบัญญัติเลขที่ 4 ปี 1996 ว่าด้วยสิทธิจำนองที่ดินและสิ่งของที่เกี่ยวข้องกับที่ดิน',
+    ms: 'Akta No. 4 Tahun 1996 tentang Hak Tanggungan atas Tanah Berserta Benda-Benda yang Berkaitan dengan Tanah'
+  },
+  'ID-H796': {
+    zh: '外商投资设立的公司在进出口领域的经营活动',
+    en: 'Law No. 2 of 1996 on the Business Activities of Companies Established in the Framework of Foreign Investment in the Export and Import Sector',
+    vi: 'Luật số 2 năm 1996 về hoạt động kinh doanh của doanh nghiệp được thành lập trong khuôn khổ đầu tư nước ngoài trong lĩnh vực xuất nhập khẩu',
+    th: 'พระราชบัญญัติเลขที่ 2 ปี 1996 ว่าด้วยกิจกรรมธุรกิจของบริษัทที่จัดตั้งขึ้นในกรอบการลงทุนต่างประเทศในด้านการส่งออกและนำเข้า',
+    ms: 'Akta No. 2 Tahun 1996 tentang Aktiviti Syarikat yang Didirikan dalam Rangka Pelaburan Asing dalam Bidang Eksport dan Import'
+  },
+  'ID-H798': {
+    zh: '撤销银行营业执照、解散与清算的条件和程序',
+    en: 'Law No. 68 of 1996 on the Provisions and Procedures for the Revocation of Business Licences, Dissolution and Liquidation of Banks',
+    vi: 'Luật số 68 năm 1996 về các quy định và thủ tục thu hồi giấy phép kinh doanh, giải thể và thanh lý ngân hàng',
+    th: 'พระราชบัญญัติเลขที่ 68 ปี 1996 ว่าด้วยข้อกำหนดและขั้นตอนการเพิกถอนใบอนุญาตประกอบธุรกิจ การเลิกกิจการ และการชำระบัญชีของธนาคาร',
+    ms: 'Akta No. 68 Tahun 1996 tentang Ketentuan dan Tatacara Pembatalan Lesen Perniagaan, Pembubaran dan Likuidasi Bank'
+  },
+  'ID-H806': {
+    zh: '空间规划中公众参与的权利义务履行以及参与形式与程序',
+    en: 'Law No. 69 of 1996 on the Exercise of Rights and Obligations and the Forms and Procedures for Public Participation in Spatial Planning',
+    vi: 'Luật số 69 năm 1996 về việc thực hiện quyền và nghĩa vụ, hình thức và thủ tục tham gia của cộng đồng trong quy hoạch không gian',
+    th: 'พระราชบัญญัติเลขที่ 69 ปี 1996 ว่าด้วยการปฏิบัติตามสิทธิและหน้าที่ ตลอดจนรูปแบบและขั้นตอนการมีส่วนร่วมของประชาชนในการผังเมือง',
+    ms: 'Akta No. 69 Tahun 1996 tentang Pelaksanaan Hak dan Kewajipan serta Bentuk dan Tatacara Penyertaan Masyarakat dalam Penataan Ruang'
+  },
+  'ID-H817': {
+    zh: '土地和/或建筑物租赁所得的所得税缴纳',
+    en: 'Law No. 29 of 1996 on the Payment of Income Tax on Income from the Lease of Land and/or Buildings',
+    vi: 'Luật số 29 năm 1996 về việc nộp thuế thu nhập đối với thu nhập từ cho thuê đất và/hoặc công trình',
+    th: 'พระราชบัญญัติเลขที่ 29 ปี 1996 ว่าด้วยการชำระภาษีเงินได้สำหรับรายได้จากการให้เช่าที่ดินและ/หรืออาคาร',
+    ms: 'Akta No. 29 Tahun 1996 tentang Pembayaran Cukai Pendapatan atas Pendapatan daripada Penyewaan Tanah dan/atau Bangunan'
+  },
+  'ID-H818': {
+    zh: '在东加里曼丹省库台、贝劳、布隆岸、帕西尔各县及三马林达、巴厘巴板两市设立13个区',
+    en: 'Law No. 38 of 1996 on the Establishment of 13 (Thirteen) Sub-districts in the Regencies of Kutai, Berau, Bulungan and Pasir, and the Municipalities of Samarinda and Balikpapan within the Province of East Kalimantan',
+    vi: 'Luật số 38 năm 1996 về việc thành lập 13 (mười ba) xã tại các huyện Kutai, Berau, Bulungan và Pasir, cùng các thành phố Samarinda và Balikpapan thuộc tỉnh Đông Kalimantan',
+    th: 'พระราชบัญญัติเลขที่ 38 ปี 1996 ว่าด้วยการจัดตั้ง 13 (สิบสาม) ตำบลในเขตอำเภอ Kutai, Berau, Bulungan และ Pasir รวมทั้งเทศบาลนคร Samarinda และ Balikpapan ในจังหวัดกาลีมันตันตะวันออก',
+    ms: 'Akta No. 38 Tahun 1996 tentang Penubuhan 13 (Tiga Belas) Kecamatan di Wilayah Kabupaten Kutai, Berau, Bulungan dan Pasir, Kotamadya Samarinda dan Balikpapan dalam Wilayah Provinsi Kalimantan Timur'
+  },
+  'ID-H819': {
+    zh: '在西加里曼丹省坤甸、桑高、三发、新当、吉打邦和上卡普阿斯各县设立16个区',
+    en: 'Law No. 39 of 1996 on the Establishment of 16 (Sixteen) Sub-districts in the Regencies of Pontianak, Sanggau, Sambas, Sintang, Ketapang and Kapuas Hulu within the Province of West Kalimantan',
+    vi: 'Luật số 39 năm 1996 về việc thành lập 16 (mười sáu) xã tại các huyện Pontianak, Sanggau, Sambas, Sintang, Ketapang và Kapuas Hulu thuộc tỉnh Tây Kalimantan',
+    th: 'พระราชบัญญัติเลขที่ 39 ปี 1996 ว่าด้วยการจัดตั้ง 16 (สิบหก) ตำบลในเขตอำเภอ Pontianak, Sanggau, Sambas, Sintang, Ketapang และ Kapuas Hulu ในจังหวัดกาลีมันตันตะวันตก',
+    ms: 'Akta No. 39 Tahun 1996 tentang Penubuhan 16 (Enam Belas) Kecamatan di Wilayah Kabupaten Pontianak, Sanggau, Sambas, Sintang, Ketapang dan Kapuas Hulu dalam Wilayah Provinsi Kalimantan Barat'
+  },
+  'ID-H820': {
+    zh: '在中加里曼丹省东哥打瓦林因和卡普阿斯两县设立3个区',
+    en: 'Law No. 42 of 1996 on the Establishment of 3 (Three) Sub-districts in the Regencies of Kotawaringin Timur and Kapuas within the Province of Central Kalimantan',
+    vi: 'Luật số 42 năm 1996 về việc thành lập 3 (ba) xã tại các huyện Kotawaringin Timur và Kapuas thuộc tỉnh Trung Kalimantan',
+    th: 'พระราชบัญญัติเลขที่ 42 ปี 1996 ว่าด้วยการจัดตั้ง 3 (สาม) ตำบลในเขตอำเภอ Kotawaringin Timur และ Kapuas ในจังหวัดกาลีมันตันกลาง',
+    ms: 'Akta No. 42 Tahun 1996 tentang Penubuhan 3 (Tiga) Kecamatan di Wilayah Kabupaten Kotawaringin Timur dan Kapuas dalam Wilayah Provinsi Kalimantan Tengah'
+  },
+  'ID-H821': {
+    zh: '在中苏拉威西省栋加拉、波索和邦盖三县设立5个区',
+    en: 'Law No. 43 of 1996 on the Establishment of 5 (Five) Sub-districts in the Regencies of Donggala, Poso and Banggai within the Province of Central Sulawesi',
+    vi: 'Luật số 43 năm 1996 về việc thành lập 5 (năm) xã tại các huyện Donggala, Poso và Banggai thuộc tỉnh Trung Sulawesi',
+    th: 'พระราชบัญญัติเลขที่ 43 ปี 1996 ว่าด้วยการจัดตั้ง 5 (ห้า) ตำบลในเขตอำเภอ Donggala, Poso และ Banggai ในจังหวัดสุลาเวสีกลาง',
+    ms: 'Akta No. 43 Tahun 1996 tentang Penubuhan 5 (Lima) Kecamatan di Wilayah Kabupaten Donggala, Poso dan Banggai dalam Wilayah Provinsi Sulawesi Tengah'
+  },
+  'ID-H822': {
+    zh: '在占碑省沙罗拉贡-班科、葛林芝和丹戎加邦各县设立6个区',
+    en: 'Law No. 47 of 1996 on the Establishment of 6 (Six) Sub-districts in the Regencies of Sarolangun Bangko, Kerinci and Tanjung Jabung within the Province of Jambi',
+    vi: 'Luật số 47 năm 1996 về việc thành lập 6 (sáu) xã tại các huyện Sarolangun Bangko, Kerinci và Tanjung Jabung thuộc tỉnh Jambi',
+    th: 'พระราชบัญญัติเลขที่ 47 ปี 1996 ว่าด้วยการจัดตั้ง 6 (หก) ตำบลในเขตอำเภอ Sarolangun Bangko, Kerinci และ Tanjung Jabung ในจังหวัดจัมบี',
+    ms: 'Akta No. 47 Tahun 1996 tentang Penubuhan 6 (Enam) Kecamatan di Wilayah Kabupaten Sarolangun Bangko, Kerinci dan Tanjung Jabung dalam Wilayah Provinsi Jambi'
+  },
+  'ID-H823': {
+    zh: '在东努沙登加拉省南中帝汶、东弗洛勒斯和芒加莱三县设立8个区',
+    en: 'Law No. 30 of 1996 on the Establishment of 8 (Eight) Sub-districts in the Regencies of Timor Tengah Selatan, Flores Timur and Manggarai within the Province of East Nusa Tenggara',
+    vi: 'Luật số 30 năm 1996 về việc thành lập 8 (tám) xã tại các huyện Timor Tengah Selatan, Flores Timur và Manggarai thuộc tỉnh Đông Nusa Tenggara',
+    th: 'พระราชบัญญัติเลขที่ 30 ปี 1996 ว่าด้วยการจัดตั้ง 8 (แปด) ตำบลในเขตอำเภอ Timor Tengah Selatan, Flores Timur และ Manggarai ในจังหวัดนูซาเต็งการาตะวันออก',
+    ms: 'Akta No. 30 Tahun 1996 tentang Penubuhan 8 (Lapan) Kecamatan di Wilayah Kabupaten Timor Tengah Selatan, Flores Timur dan Manggarai dalam Wilayah Provinsi Nusa Tenggara Timur'
+  }
+};

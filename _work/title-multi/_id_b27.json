@@ -1,0 +1,740 @@
+{
+ "batch": "id-p1-b27",
+ "items": {
+  "ID-H2426": {
+   "zh": "土地与空间规划部/国家土地局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Agrarian Affairs and Spatial Planning/National Land Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Địa chính và Quy hoạch Không gian/Cơ quan Quản lý Đất đai Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงที่ดินและการวางผังพื้นที่/สำนักงานที่ดินแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional"
+  },
+  "ID-H3124": {
+   "zh": "通信与信息部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Communication and Informatics",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Truyền thông và Tin học",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงการสื่อสารและสารสนเทศ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Komunikasi dan Informatika"
+  },
+  "ID-H2428": {
+   "zh": "通信与信息部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Communication and Informatics",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Truyền thông và Tin học",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงการสื่อสารและสารสนเทศ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Komunikasi dan Informatika"
+  },
+  "ID-H1936": {
+   "zh": "国家土地局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Land Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Quản lý Đất đai Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานที่ดินแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pertanahan Nasional"
+  },
+  "ID-H2427": {
+   "zh": "海洋与渔业部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Maritime Affairs and Fisheries",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Biển và Nghề cá",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงทะเลและประมง",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Kelautan dan Perikanan"
+  },
+  "ID-H3129": {
+   "zh": "所有非税国家收入管理机构的非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable to All Agencies Managing Non-Tax State Revenue",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng cho tất cả Cơ quan Quản lý Thu Ngân sách Nhà nước Phi thuế",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในหน่วยงานผู้บริหารรายได้ของรัฐที่ไม่ใช่ภาษีทั้งหมด",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa pada Semua Instansi Pengelola Penerimaan Negara Bukan Cukai"
+  },
+  "ID-H2773": {
+   "zh": "能源与矿产资源部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Energy and Mineral Resources",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Năng lượng và Tài nguyên Khoáng sản",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงพลังงานและทรัพยากรแร่",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Tenaga dan Sumber Daya Mineral"
+  },
+  "ID-H2431": {
+   "zh": "交通部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Transportation",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Giao thông Vận tải",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงคมนาคม",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Perhubungan"
+  },
+  "ID-H2539": {
+   "zh": "交通部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Transportation",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Giao thông Vận tải",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงคมนาคม",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Perhubungan"
+  },
+  "ID-H3193": {
+   "zh": "环境与林业部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Environment and Forestry",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Môi trường và Lâm nghiệp",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงสิ่งแวดล้อมและป่าไม้",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Alam Sekitar dan Perhutanan"
+  },
+  "ID-H2424": {
+   "zh": "中央统计局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Central Statistics Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Thống kê Trung ương",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานสถิติกลาง",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pusat Statistik"
+  },
+  "ID-H1472": {
+   "zh": "中央统计局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Central Statistics Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Thống kê Trung ương",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานสถิติกลาง",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pusat Statistik"
+  },
+  "ID-H3190": {
+   "zh": "中央统计局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Central Statistics Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Thống kê Trung ương",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานสถิติกลาง",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pusat Statistik"
+  },
+  "ID-H3192": {
+   "zh": "法律与人权部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Law and Human Rights",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Tư pháp và Nhân quyền",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงกฎหมายและสิทธิมนุษยชน",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Undang-Undang dan Hak Asasi Manusia"
+  },
+  "ID-H1311": {
+   "zh": "海洋与渔业部非税国家收入税率",
+   "en": "the Rates of Non-Tax State Revenue Applicable at the Ministry of Maritime Affairs and Fisheries",
+   "vi": "Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Biển và Nghề cá",
+   "th": "อัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงทะเลและประมง",
+   "ms": "Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Kelautan dan Perikanan"
+  },
+  "ID-H2687": {
+   "zh": "宗教部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Religious Affairs",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Tôn giáo",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงศาสนา",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Agama"
+  },
+  "ID-H2425": {
+   "zh": "宗教部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Religious Affairs",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Tôn giáo",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงศาสนา",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Agama"
+  },
+  "ID-H3194": {
+   "zh": "印度尼西亚共和国公共广播电视台非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Public Broadcasting Institution of Television of the Republic of Indonesia",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Đài Truyền hình Công cộng Cộng hòa Indonesia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสถานีโทรทัศน์สาธารณะแห่งสาธารณรัฐอินโดนีเซีย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Lembaga Penyiaran Publik Televisi Republik Indonesia"
+  },
+  "ID-H2868": {
+   "zh": "印度尼西亚共和国公共广播电视台非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Public Broadcasting Institution of Television of the Republic of Indonesia",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Đài Truyền hình Công cộng Cộng hòa Indonesia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสถานีโทรทัศน์สาธารณะแห่งสาธารณรัฐอินโดนีเซีย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Lembaga Penyiaran Publik Televisi Republik Indonesia"
+  },
+  "ID-H2423": {
+   "zh": "技术评估与应用局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Agency for the Assessment and Application of Technology",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Đánh giá và Ứng dụng Công nghệ",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานการประเมินและประยุกต์ใช้เทคโนโลยี",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pengkajian dan Penerapan Teknologi"
+  },
+  "ID-H2686": {
+   "zh": "国家标准局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Standardisation Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Tiêu chuẩn hóa Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานมาตรฐานแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Standardisasi Nasional"
+  },
+  "ID-H1598": {
+   "zh": "国家标准局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Standardisation Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Tiêu chuẩn hóa Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานมาตรฐานแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Standardisasi Nasional"
+  },
+  "ID-H2772": {
+   "zh": "国家核能局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Nuclear Energy Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Năng lượng Hạt nhân Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานพลังงานปรมาณูแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Tenaga Nuklir Nasional"
+  },
+  "ID-H1724": {
+   "zh": "国家核能局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Nuclear Energy Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Năng lượng Hạt nhân Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานพลังงานปรมาณูแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Tenaga Nuklir Nasional"
+  },
+  "ID-H1473": {
+   "zh": "国家核能局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Nuclear Energy Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Năng lượng Hạt nhân Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานพลังงานปรมาณูแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Tenaga Nuklir Nasional"
+  },
+  "ID-H2774": {
+   "zh": "国家航空航天研究院非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Institute of Aeronautics and Space",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Viện Hàng không và Vũ trụ Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสถาบันการบินและอวกาศแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Lembaga Penerbangan dan Antariksa Nasional"
+  },
+  "ID-H2965": {
+   "zh": "工业部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Industry",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Công nghiệp",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงอุตสาหกรรม",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Perindustrian"
+  },
+  "ID-H2040": {
+   "zh": "工业部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Industry",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Công nghiệp",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงอุตสาหกรรม",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Perindustrian"
+  },
+  "ID-H3122": {
+   "zh": "内政部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Home Affairs",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Nội vụ",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงมหาดไทย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Dalam Negeri"
+  },
+  "ID-H2228": {
+   "zh": "内政部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Home Affairs",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Nội vụ",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงมหาดไทย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Dalam Negeri"
+  },
+  "ID-H3189": {
+   "zh": "国家公务员局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Civil Service Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Công vụ Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานข้าราชการพลเรือนแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Kepegawaian Negara"
+  },
+  "ID-H2535": {
+   "zh": "国家公务员局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Civil Service Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Công vụ Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานข้าราชการพลเรือนแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Kepegawaian Negara"
+  },
+  "ID-H2138": {
+   "zh": "农业部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Agriculture",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Nông nghiệp",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงเกษตรและสหกรณ์",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Pertanian"
+  },
+  "ID-H3126": {
+   "zh": "农业部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Agriculture",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Nông nghiệp",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงเกษตรและสหกรณ์",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Pertanian"
+  },
+  "ID-H2229": {
+   "zh": "卫生部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Health",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Y tế",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงสาธารณสุข",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Kesihatan"
+  },
+  "ID-H2325": {
+   "zh": "林业部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Forestry",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Lâm nghiệp",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงป่าไม้",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Perhutanan"
+  },
+  "ID-H2430": {
+   "zh": "青年与体育部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Youth and Sports",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Thanh niên và Thể thao",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงการท่องเที่ยวและกีฬาเยาวชน",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Belia dan Sukan"
+  },
+  "ID-H2684": {
+   "zh": "气象、气候与地球物理局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Meteorology, Climatology and Geophysics Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Khí tượng, Khí hậu và Địa vật lý",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานอุตุนิยมวิทยา ภูมิอากาศ และธรณีฟิสิกส์",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Meteorologi, Klimatologi dan Geofizik"
+  },
+  "ID-H2688": {
+   "zh": "劳动部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Manpower",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Lao động",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงแรงงาน",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Tenaga Kerja"
+  },
+  "ID-H3123": {
+   "zh": "劳动部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Manpower",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Lao động",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงแรงงาน",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Tenaga Kerja"
+  },
+  "ID-H2771": {
+   "zh": "地理空间信息局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Geospatial Information Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Thông tin Không gian Địa lý",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานข้อมูลภูมิสารสนเทศ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Informasi Geospasial"
+  },
+  "ID-H2322": {
+   "zh": "地理空间信息局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Geospatial Information Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Thông tin Không gian Địa lý",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานข้อมูลภูมิสารสนเทศ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Informasi Geospasial"
+  },
+  "ID-H2867": {
+   "zh": "印度尼西亚共和国公共广播电台非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Public Broadcasting Institution of Radio of the Republic of Indonesia",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Đài Phát thanh Công cộng Cộng hòa Indonesia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสถานีวิทยุสาธารณะแห่งสาธารณรัฐอินโดนีเซีย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Lembaga Penyiaran Publik Radio Republik Indonesia"
+  },
+  "ID-H2433": {
+   "zh": "印度尼西亚共和国公共广播电台非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Public Broadcasting Institution of Radio of the Republic of Indonesia",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Đài Phát thanh Công cộng Cộng hòa Indonesia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสถานีวิทยุสาธารณะแห่งสาธารณรัฐอินโดนีเซีย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Lembaga Penyiaran Publik Radio Republik Indonesia"
+  },
+  "ID-H2964": {
+   "zh": "财政与发展监督局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Financial and Development Supervisory Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Giám sát Tài chính và Phát triển",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานกำกับดูแลการเงินและการพัฒนา",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pengawasan Keuangan dan Pembangunan"
+  },
+  "ID-H2324": {
+   "zh": "财政与发展监督局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Financial and Development Supervisory Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Giám sát Tài chính và Phát triển",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานกำกับดูแลการเงินและการพัฒนา",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pengawasan Keuangan dan Pembangunan"
+  },
+  "ID-H1935": {
+   "zh": "财政与发展监督局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Financial and Development Supervisory Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Giám sát Tài chính và Phát triển",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานกำกับดูแลการเงินและการพัฒนา",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pengawasan Keuangan dan Pembangunan"
+  },
+  "ID-H3130": {
+   "zh": "贸易部波动性非税国家收入种类与税率",
+   "en": "the Types and Rates of Volatile Non-Tax State Revenue Applicable at the Ministry of Trade",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế mang tính biến động áp dụng tại Bộ Thương mại",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งมีลักษณะผันผวนซึ่งใช้บังคับในกระทรวงการค้า",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Bersifat Volatil yang Berkuat Kuasa di Kementerian Perdagangan"
+  },
+  "ID-H3278": {
+   "zh": "能源与矿产资源部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Energy and Mineral Resources",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Năng lượng và Tài nguyên Khoáng sản",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงพลังงานและทรัพยากรแร่",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Tenaga dan Sumber Daya Mineral"
+  },
+  "ID-H3366": {
+   "zh": "法律部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Law",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Tư pháp",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงกฎหมาย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Undang-Undang"
+  },
+  "ID-H1600": {
+   "zh": "印度尼西亚科学研究院非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Indonesian Institute of Sciences",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Viện Khoa học Indonesia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสถาบันวิทยาศาสตร์อินโดนีเซีย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Lembaga Ilmu Pengetahuan Indonesia"
+  },
+  "ID-H2136": {
+   "zh": "公共工程部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Public Works",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Công chính",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงโยธาธิการ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Kerja Raya"
+  },
+  "ID-H2139": {
+   "zh": "劳动与移民部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Manpower and Transmigration",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Lao động và Di dân",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงแรงงานและการย้ายถิ่น",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Tenaga Kerja dan Transmigrasi"
+  },
+  "ID-H2770": {
+   "zh": "印度尼西亚共和国国家档案馆非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Archives of the Republic of Indonesia",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Lưu trữ Quốc gia Cộng hòa Indonesia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในหอจดหมายเหตุแห่งชาติสาธารณรัฐอินโดนีเซีย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Arsip Nasional Republik Indonesia"
+  },
+  "ID-H2321": {
+   "zh": "印度尼西亚共和国国家档案馆非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Archives of the Republic of Indonesia",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Lưu trữ Quốc gia Cộng hòa Indonesia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในหอจดหมายเหตุแห่งชาติสาธารณรัฐอินโดนีเซีย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Arsip Nasional Republik Indonesia"
+  },
+  "ID-H2963": {
+   "zh": "最高审计署非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Supreme Audit Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Kiểm toán Tối cao",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานการตรวจเงินแผ่นดิน",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pemeriksa Keuangan"
+  },
+  "ID-H2227": {
+   "zh": "最高审计署非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Supreme Audit Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Kiểm toán Tối cao",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานการตรวจเงินแผ่นดิน",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pemeriksa Keuangan"
+  },
+  "ID-H3364": {
+   "zh": "最高审计署非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Supreme Audit Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Kiểm toán Tối cao",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานการตรวจเงินแผ่นดิน",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pemeriksa Keuangan"
+  },
+  "ID-H1833": {
+   "zh": "最高审计署非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Supreme Audit Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Kiểm toán Tối cao",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานการตรวจเงินแผ่นดิน",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pemeriksa Keuangan"
+  },
+  "ID-H1402": {
+   "zh": "国家标准局非税国家收入税率",
+   "en": "the Rates of Non-Tax State Revenue Applicable at the National Standardisation Agency",
+   "vi": "Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Tiêu chuẩn hóa Quốc gia",
+   "th": "อัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานมาตรฐานแห่งชาติ",
+   "ms": "Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Standardisasi Nasional"
+  },
+  "ID-H1405": {
+   "zh": "文化与旅游部非税国家收入税率",
+   "en": "the Rates of Non-Tax State Revenue Applicable at the Ministry of Culture and Tourism",
+   "vi": "Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Văn hóa và Du lịch",
+   "th": "อัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงวัฒนธรรมและการท่องเที่ยว",
+   "ms": "Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Kebudayaan dan Pelancongan"
+  },
+  "ID-H1934": {
+   "zh": "食品药品监督局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Agency for Drug and Food Control",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Giám sát Dược phẩm và Thực phẩm",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานคณะกรรมการอาหารและยา",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pengawas Obat dan Makanan"
+  },
+  "ID-H1937": {
+   "zh": "文化与旅游部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Culture and Tourism",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Văn hóa và Du lịch",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงวัฒนธรรมและการท่องเที่ยว",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Kebudayaan dan Pelancongan"
+  },
+  "ID-H2137": {
+   "zh": "贸易部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Trade",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Thương mại",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงการค้า",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Perdagangan"
+  },
+  "ID-H2615": {
+   "zh": "贸易部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Trade",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Thương mại",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงการค้า",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Perdagangan"
+  },
+  "ID-H2429": {
+   "zh": "旅游部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Tourism",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Du lịch",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงการท่องเที่ยว",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Pelancongan"
+  },
+  "ID-H2690": {
+   "zh": "旅游部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Tourism",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Du lịch",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงการท่องเที่ยว",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Pelancongan"
+  },
+  "ID-H2775": {
+   "zh": "最高法院及其下属司法机关非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Supreme Court and the Judicial Bodies Thereunder",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Tòa án Tối cao và các Cơ quan Xét xử trực thuộc",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในศาลฎีกาและหน่วยงานตุลาการภายใต้ศาลฎีกา",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Mahkamah Agung dan Badan Peradilan di Bawahnya"
+  },
+  "ID-H1726": {
+   "zh": "最高法院及其下属司法机关非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Supreme Court and the Judicial Bodies Thereunder",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Tòa án Tối cao và các Cơ quan Xét xử trực thuộc",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในศาลฎีกาและหน่วยงานตุลาการภายใต้ศาลฎีกา",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Mahkamah Agung dan Badan Peradilan di Bawahnya"
+  },
+  "ID-H3279": {
+   "zh": "外交部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Foreign Affairs",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Ngoại giao",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงการต่างประเทศ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Luar Negeri"
+  },
+  "ID-H2537": {
+   "zh": "外交部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Foreign Affairs",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Ngoại giao",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงการต่างประเทศ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Luar Negeri"
+  },
+  "ID-H1309": {
+   "zh": "核能监督局非税国家收入税率",
+   "en": "the Rates of Non-Tax State Revenue Applicable at the Nuclear Energy Regulatory Agency",
+   "vi": "Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Thanh tra Năng lượng Hạt nhân",
+   "th": "อัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานกำกับดูแลพลังงานปรมาณู",
+   "ms": "Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pengawas Tenaga Nuklir"
+  },
+  "ID-H1401": {
+   "zh": "国家测绘协调局非税国家收入税率",
+   "en": "the Rates of Non-Tax State Revenue Applicable at the National Coordination Agency for Survey and Mapping",
+   "vi": "Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Điều phối Khảo sát và Bản đồ Quốc gia",
+   "th": "อัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานประสานการสำรวจและทำแผนที่แห่งชาติ",
+   "ms": "Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Koordinasi Survei dan Pemetaan Nasional"
+  },
+  "ID-H1599": {
+   "zh": "工业部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Industry",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Công nghiệp",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงอุตสาหกรรม",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Perindustrian"
+  },
+  "ID-H2319": {
+   "zh": "国防部医疗服务所得非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Derived from Health Services within the Ministry of Defence",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế từ Dịch vụ Y tế trong Bộ Quốc phòng",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีจากบริการสุขภาพในกระทรวงกลาโหม",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai daripada Perkhidmatan Kesihatan dalam Kementerian Pertahanan"
+  },
+  "ID-H2320": {
+   "zh": "森林区域用于林业以外建设活动所得非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Derived from the Use of Forest Areas for Development Purposes outside Forestry Activities",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế từ Việc Sử dụng Khu vực Rừng cho Mục đích Phát triển ngoài Hoạt động Lâm nghiệp",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีจากการใช้พื้นที่ป่าเพื่อวัตถุประสงค์ในการพัฒนานอกกิจกรรมด้านป่าไม้",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai daripada Penggunaan Kawasan Hutan untuk Kepentingan Pembangunan di Luar Kegiatan Perhutanan"
+  },
+  "ID-H1723": {
+   "zh": "森林区域用于林业以外建设活动所得非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Derived from the Use of Forest Areas for Development Purposes outside Forestry Activities",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế từ Việc Sử dụng Khu vực Rừng cho Mục đích Phát triển ngoài Hoạt động Lâm nghiệp",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีจากการใช้พื้นที่ป่าเพื่อวัตถุประสงค์ในการพัฒนานอกกิจกรรมด้านป่าไม้",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai daripada Penggunaan Kawasan Hutan untuk Kepentingan Pembangunan di Luar Kegiatan Perhutanan"
+  },
+  "ID-H2323": {
+   "zh": "核能监督局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Nuclear Energy Regulatory Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Thanh tra Năng lượng Hạt nhân",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานกำกับดูแลพลังงานปรมาณู",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Pengawas Tenaga Nuklir"
+  },
+  "ID-H2326": {
+   "zh": "环境部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of the Environment",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Môi trường",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Alam Sekitar"
+  },
+  "ID-H2966": {
+   "zh": "金融交易报告与分析中心非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Financial Transaction Reports and Analysis Centre",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Trung tâm Báo cáo và Phân tích Giao dịch Tài chính",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในศูนย์รายงานและวิเคราะห์ธุรกรรมทางการเงิน",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Pusat Pelaporan dan Analisis Transaksi Kewangan"
+  },
+  "ID-H3125": {
+   "zh": "教育、文化、研究与技术部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Education, Culture, Research and Technology",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Giáo dục, Văn hóa, Nghiên cứu và Công nghệ",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงศึกษาธิการ วัฒนธรรม การวิจัยและเทคโนโลยี",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi"
+  },
+  "ID-H1004": {
+   "zh": "矿产与能源部（普通采矿领域）非税国家收入税率",
+   "en": "the Rates of Non-Tax State Revenue Applicable at the Ministry of Mines and Energy in the General Mining Sector",
+   "vi": "Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Mỏ và Năng lượng trong lĩnh vực Khai khoáng Chung",
+   "th": "อัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงเหมืองแร่และพลังงานในด้านการทำเหมืองทั่วไป",
+   "ms": "Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Perlombongan dan Tenaga dalam Bidang Perlombongan Umum"
+  },
+  "ID-H1163": {
+   "zh": "司法部（商事法院领域）非税国家收入税率",
+   "en": "the Rates of Non-Tax State Revenue Applicable at the Ministry of Justice in the Commercial Court Sector",
+   "vi": "Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Tư pháp trong lĩnh vực Tòa án Thương mại",
+   "th": "อัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงยุติธรรมในด้านศาลพาณิชย์",
+   "ms": "Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Kehakiman dalam Bidang Mahkamah Niaga"
+  },
+  "ID-H1312": {
+   "zh": "交通部非税国家收入税率",
+   "en": "the Rates of Non-Tax State Revenue Applicable at the Ministry of Transportation",
+   "vi": "Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Giao thông Vận tải",
+   "th": "อัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงคมนาคม",
+   "ms": "Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Perhubungan"
+  },
+  "ID-H1403": {
+   "zh": "国家核能局非税国家收入税率",
+   "en": "the Rates of Non-Tax State Revenue Applicable at the National Nuclear Energy Agency",
+   "vi": "Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Năng lượng Hạt nhân Quốc gia",
+   "th": "อัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานพลังงานปรมาณูแห่งชาติ",
+   "ms": "Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Badan Tenaga Nuklir Nasional"
+  },
+  "ID-H1475": {
+   "zh": "国家行政学院非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Institute of Public Administration",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Học viện Hành chính Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสถาบันการบริหารราชการแผ่นดินแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Lembaga Administrasi Negara"
+  },
+  "ID-H2541": {
+   "zh": "国家行政学院非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Institute of Public Administration",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Học viện Hành chính Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสถาบันการบริหารราชการแผ่นดินแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Lembaga Administrasi Negara"
+  },
+  "ID-H1536": {
+   "zh": "卫生部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Health",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Y tế",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงสาธารณสุข",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Kesihatan"
+  },
+  "ID-H1725": {
+   "zh": "国家环境部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the State Ministry of the Environment",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Môi trường Nhà nước",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงสิ่งแวดล้อมแห่งรัฐ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Negara Alam Sekitar"
+  },
+  "ID-H1938": {
+   "zh": "印度尼西亚共和国国家警察非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Indonesian National Police",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cảnh sát Quốc gia Cộng hòa Indonesia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานตำรวจแห่งชาติอินโดนีเซีย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Polis Negara Republik Indonesia"
+  },
+  "ID-H2540": {
+   "zh": "印度尼西亚共和国国家警察非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Indonesian National Police",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cảnh sát Quốc gia Cộng hòa Indonesia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานตำรวจแห่งชาติอินโดนีเซีย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Polis Negara Republik Indonesia"
+  },
+  "ID-H2327": {
+   "zh": "研究与技术部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Research and Technology",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Nghiên cứu và Công nghệ",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงการวิจัยและเทคโนโลยี",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Penyelidikan dan Teknologi"
+  },
+  "ID-H2685": {
+   "zh": "国家灾害管理局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Disaster Management Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Quản lý Thiên tai Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานป้องกันและบรรเทาสาธารณภัยแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Agensi Pengurusan Bencana Negara"
+  },
+  "ID-H2866": {
+   "zh": "国家禁毒局非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Narcotics Agency",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Phòng chống Ma túy Quốc gia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานปราบปรามยาเสพติดแห่งชาติ",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Agensi Anti Dadah Kebangsaan"
+  },
+  "ID-H3128": {
+   "zh": "商业竞争监督委员会非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Commission for the Supervision of Business Competition",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Ủy ban Giám sát Cạnh tranh Kinh doanh",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในคณะกรรมการกำกับดูแลการแข่งขันทางการค้า",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Suruhanjaya Pengawasan Persaingan Usaha"
+  },
+  "ID-H2432": {
+   "zh": "商业竞争监督委员会非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Commission for the Supervision of Business Competition",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Ủy ban Giám sát Cạnh tranh Kinh doanh",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในคณะกรรมการกำกับดูแลการแข่งขันทางการค้า",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Suruhanjaya Pengawasan Persaingan Usaha"
+  },
+  "ID-H1310": {
+   "zh": "宗教部非税国家收入税率",
+   "en": "the Rates of Non-Tax State Revenue Applicable at the Ministry of Religious Affairs",
+   "vi": "Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Tôn giáo",
+   "th": "อัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงศาสนา",
+   "ms": "Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Agama"
+  },
+  "ID-H1404": {
+   "zh": "内政部非税国家收入税率",
+   "en": "the Rates of Non-Tax State Revenue Applicable at the Ministry of Home Affairs",
+   "vi": "Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Nội vụ",
+   "th": "อัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงมหาดไทย",
+   "ms": "Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Dalam Negeri"
+  },
+  "ID-H1406": {
+   "zh": "卫生与社会福利部非税国家收入税率",
+   "en": "the Rates of Non-Tax State Revenue Applicable at the Ministry of Health and Social Welfare",
+   "vi": "Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Y tế và Phúc lợi Xã hội",
+   "th": "อัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงสาธารณสุขและสวัสดิการสังคม",
+   "ms": "Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Kesihatan dan Kebajikan Sosial"
+  },
+  "ID-H1601": {
+   "zh": "印度尼西亚医学委员会秘书处非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Secretariat of the Indonesian Medical Council",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Ban Thư ký Hội đồng Y khoa Indonesia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานเลขาธิการสภาแพทยศาสตร์อินโดนีเซีย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Sekretariat Konsil Kedokteran Indonesia"
+  },
+  "ID-H2538": {
+   "zh": "教育与文化部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Education and Culture",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Giáo dục và Văn hóa",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงศึกษาธิการและวัฒนธรรม",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Pendidikan dan Kebudayaan"
+  },
+  "ID-H2689": {
+   "zh": "财政部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Finance",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Tài chính",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงการคลัง",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Kewangan"
+  },
+  "ID-H2536": {
+   "zh": "印度尼西亚共和国检察院非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Public Prosecution Service of the Republic of Indonesia",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Viện Công tố Cộng hòa Indonesia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานอัยการสูงสุดสาธารณรัฐอินโดนีเซีย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kejaksaan Republik Indonesia"
+  },
+  "ID-H3191": {
+   "zh": "印度尼西亚共和国检察院非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Public Prosecution Service of the Republic of Indonesia",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Viện Công tố Cộng hòa Indonesia",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในสำนักงานอัยการสูงสุดสาธารณรัฐอินโดนีเซีย",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kejaksaan Republik Indonesia"
+  },
+  "ID-H3127": {
+   "zh": "社会部非税国家收入种类与税率",
+   "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Social Affairs",
+   "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Xã hội",
+   "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์",
+   "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Sosial"
+  }
+ }
+}

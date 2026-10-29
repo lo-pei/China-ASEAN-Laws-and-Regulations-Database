@@ -1,0 +1,642 @@
+[
+ {
+  "id": "LA-H001",
+  "level": "law",
+  "ac": 22,
+  "zh": "经济纠纷解决法",
+  "en": "Law on Resolution of Economic Disputes",
+  "orig": "Law on Resolution of Economic Disputes"
+ },
+ {
+  "id": "LA-H004",
+  "level": "law",
+  "ac": 16,
+  "zh": "商业银行法",
+  "en": "Law on Commercial Banks",
+  "orig": "Law on Commercial Banks"
+ },
+ {
+  "id": "LA-H008",
+  "level": "law",
+  "ac": 8,
+  "zh": "所得税法",
+  "en": "Law on Income Tax",
+  "orig": "Law on Income Tax"
+ },
+ {
+  "id": "LA-H015",
+  "level": "law",
+  "ac": 51,
+  "zh": "外汇管理法",
+  "en": "Law on Foreign Exchange Management",
+  "orig": "Law on Foreign Exchange Management"
+ },
+ {
+  "id": "LA-H016",
+  "level": "law",
+  "ac": 108,
+  "zh": "投资促进法",
+  "en": "Law on Investment Promotion",
+  "orig": "Law on Investment Promotion"
+ },
+ {
+  "id": "LA-H017",
+  "level": "law",
+  "ac": 30,
+  "zh": "消费者保护法",
+  "en": "Law on Consumer Protection",
+  "orig": "Law on Consumer Protection"
+ },
+ {
+  "id": "LA-H020",
+  "level": "law",
+  "ac": 115,
+  "zh": "税法",
+  "en": "Law on Tax",
+  "orig": "Law on Tax"
+ },
+ {
+  "id": "LA-H036",
+  "level": "law",
+  "ac": 27,
+  "zh": "民法典 2018",
+  "en": "Civil Code 2018",
+  "orig": "Civil Code 2018"
+ },
+ {
+  "id": "LA-H037",
+  "level": "law",
+  "ac": 27,
+  "zh": "民法典 2018",
+  "en": "Civil Code 2018",
+  "orig": "Civil Code 2018"
+ },
+ {
+  "id": "LA-H038",
+  "level": "law",
+  "ac": 236,
+  "zh": "企业法",
+  "en": "Law on Enterprise",
+  "orig": "Law on Enterprise"
+ },
+ {
+  "id": "LA-H039",
+  "level": "law",
+  "ac": 166,
+  "zh": "知识产权法",
+  "en": "Law on Intellectual Property",
+  "orig": "Law on Intellectual Property"
+ },
+ {
+  "id": "LA-H040",
+  "level": "law",
+  "ac": 16,
+  "zh": "税法（2005 年修订）",
+  "en": "Law on Tax (2005)",
+  "orig": "Law on Tax (2005)"
+ },
+ {
+  "id": "LA-H041",
+  "level": "law",
+  "ac": 25,
+  "zh": "劳动法",
+  "en": "Labor Law",
+  "orig": "Labor Law"
+ },
+ {
+  "id": "LA-H042",
+  "level": "law",
+  "ac": 11,
+  "zh": "投资促进法_2016_en_laotradeportal",
+  "en": "Law on Investment Promotion (Amended) No. 14/NA, dated 17 November 2016",
+  "orig": "Law on Investment Promotion (Amended) No. 14/NA, dated 17 November 2016"
+ },
+ {
+  "id": "LA-H043",
+  "level": "law",
+  "ac": 16,
+  "zh": "投资促进法 2016",
+  "en": "Law on Investment Promotion 2016",
+  "orig": "Law on Investment Promotion 2016"
+ },
+ {
+  "id": "LA-H044",
+  "level": "law",
+  "ac": 21,
+  "zh": "投资促进法实施政令（节选，2016年）",
+  "en": "Decree Implementing the Investment Promotion Law (Extract, 2016)",
+  "orig": "Decree Implementing the Investment Promotion Law (Extract, 2016)"
+ },
+ {
+  "id": "LA-H046",
+  "level": "law",
+  "ac": 68,
+  "zh": "老挝人民民主共和国宪法（2025年修正版）",
+  "en": "Constitution of the Lao People's Democratic Republic (2025 Amendment)",
+  "orig": "Constitution of the Lao People's Democratic Republic (2025 Amendment)"
+ },
+ {
+  "id": "LA-H050",
+  "level": "law",
+  "ac": 29,
+  "zh": "电子商务政令 2021",
+  "en": "Decree on Electronic Commerce 2021",
+  "orig": "Decree on Electronic Commerce 2021"
+ },
+ {
+  "id": "LA-H058",
+  "level": "law",
+  "ac": 58,
+  "zh": "电子交易法",
+  "en": "Law on Electronic Transactions",
+  "orig": "Law on Electronic Transactions"
+ },
+ {
+  "id": "LA-H100",
+  "level": "law",
+  "ac": 67,
+  "zh": "继承法",
+  "en": "Law on Inheritance",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ການສືບທອດມູນມໍຣະດົກ"
+ },
+ {
+  "id": "LA-H101",
+  "level": "law",
+  "ac": 108,
+  "zh": "合同与非合同关系法",
+  "en": "Law on Contracts and Non-Contractual Relations (Amended)",
+  "orig": "ກົດຫມາຍວ່າດ້ວຍ ຂໍ້ຜູກພັນໃນສັນຍາ ແລະ ນອກສັນຍາ ( ສະບັບປັບປຸງ )"
+ },
+ {
+  "id": "LA-H102",
+  "level": "law",
+  "ac": 59,
+  "zh": "家庭登记法",
+  "en": "Law on Family Registration (Amended)",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ທະບຽນຄອບຄົວ ( ສະບັບປັບປຸງ )"
+ },
+ {
+  "id": "LA-H103",
+  "level": "law",
+  "ac": 72,
+  "zh": "经济纠纷解决法",
+  "en": "Law on Resolution of Economic Disputes (Amended)",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ການແກ້ໄຂຂໍ້ຂັດແຍ່ງທາງດ້ານເສດຖະກິດ(ສະບັບປັບປຸງ)"
+ },
+ {
+  "id": "LA-H104",
+  "level": "law",
+  "ac": 93,
+  "zh": "儿童权益保护法",
+  "en": "Law on the Protection of the Rights and Interests of the Child",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ການປົກປ້ອງສິດ ແລະ ຜົນປະໂຫຍດຂອງເດັກ"
+ },
+ {
+  "id": "LA-H105",
+  "level": "law",
+  "ac": 45,
+  "zh": "法院登记法",
+  "en": "Law on Court Registry (Amended)",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ທະບຽນສານ (ສະບັບປັບປຸງ)"
+ },
+ {
+  "id": "LA-H106",
+  "level": "law",
+  "ac": 64,
+  "zh": "法院判决执行法",
+  "en": "Law on the Implementation of Court Judgments (Amended)",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ການຈັດຕັ້ງປະຕິບັດຄຳຕັດສິນຂອງສານ ( ສະບັບປັບປຸງ )"
+ },
+ {
+  "id": "LA-H107",
+  "level": "law",
+  "ac": 72,
+  "zh": "渔业法",
+  "en": "Law on Fisheries",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ການປະມົງ"
+ },
+ {
+  "id": "LA-H108",
+  "level": "law",
+  "ac": 99,
+  "zh": "畜牧与兽医法",
+  "en": "Law on Livestock and Veterinary Affairs",
+  "orig": "ກົດໝາຍ ວ່າດ້ວຍການລ້ຽງສັດ ແລະ ການສັດຕະວະແພດ"
+ },
+ {
+  "id": "LA-H109",
+  "level": "law",
+  "ac": 79,
+  "zh": "水利法",
+  "en": "Law on Irrigation",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ຊົນລະປະທານ"
+ },
+ {
+  "id": "LA-H110",
+  "level": "law",
+  "ac": 74,
+  "zh": "水生与野生动物法",
+  "en": "Law on Aquatic and Wild Animals",
+  "orig": "ກົດໝາຍ ວ່າດ້ວຍສັດນ້ຳ ແລະ ສັດປ່າ"
+ },
+ {
+  "id": "LA-H111",
+  "level": "law",
+  "ac": 62,
+  "zh": "植物保护法",
+  "en": "Law on Plant Protection",
+  "orig": "ກົດໝາຍ ວ່າດ້ວຍການປ້ອງກັນພືດ"
+ },
+ {
+  "id": "LA-H112",
+  "level": "law",
+  "ac": 130,
+  "zh": "森林法",
+  "en": "Law on Forestry (Amended)",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ປ່າໄມ້ ( ສະບັບປັບປຸງ )"
+ },
+ {
+  "id": "LA-H113",
+  "level": "law",
+  "ac": 69,
+  "zh": "科学与技术法",
+  "en": "Law on Science and Technology",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ວິທະຍາສາດ ແລະ ເຕັກໂນໂລຊີ"
+ },
+ {
+  "id": "LA-H114",
+  "level": "law",
+  "ac": 94,
+  "zh": "社会保障法",
+  "en": "Law on Social Security",
+  "orig": "ກົດໝາຍ ວ່າດ້ວຍການປະກັນສັງຄົມ"
+ },
+ {
+  "id": "LA-H115",
+  "level": "law",
+  "ac": 84,
+  "zh": "食品法",
+  "en": "Law on Food (Amended)",
+  "orig": "ກົດໝາຍ ວ່າດ້ວຍອາຫານ ( ສະບັບປັບປຸງ )"
+ },
+ {
+  "id": "LA-H116",
+  "level": "law",
+  "ac": 50,
+  "zh": "药品与医疗产品法",
+  "en": "Law on Drugs and Medical Products (Amended)",
+  "orig": "ກົດໝາຍ ວ່າດ້ວຍ ຢາ ແລະ ຜະລິດຕະພັນການແພດ( ສະບັບປັບປຸງ )"
+ },
+ {
+  "id": "LA-H117",
+  "level": "law",
+  "ac": 64,
+  "zh": "卫生防疫法",
+  "en": "Law on Hygiene, Disease Prevention and Health Promotion (Amended)",
+  "orig": "ກົດໝາຍ ວ່າດ້ວຍ ອະນາໄມ, ກັນພະຍາດ ແລະ ສົ່ງເສີມສຸຂະພາບ ( ສະບັບປັບປຸງ )"
+ },
+ {
+  "id": "LA-H118",
+  "level": "law",
+  "ac": 46,
+  "zh": "公路法",
+  "en": "Law on Roads",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ທາງຫຼວງ"
+ },
+ {
+  "id": "LA-H119",
+  "level": "law",
+  "ac": 54,
+  "zh": "城市规划法",
+  "en": "Law on Urban Planning",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ຜັງເມືອງ"
+ },
+ {
+  "id": "LA-H120",
+  "level": "law",
+  "ac": 85,
+  "zh": "农业法",
+  "en": "Law on Agriculture",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ກະສິກຳ"
+ },
+ {
+  "id": "LA-H121",
+  "level": "law",
+  "ac": 54,
+  "zh": "老挝妇女联盟法",
+  "en": "Law on the Lao Women's Union",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ສະຫະພັນແມ່ຍິງລາວ"
+ },
+ {
+  "id": "LA-H122",
+  "level": "law",
+  "ac": 58,
+  "zh": "电子交易法",
+  "en": "Law on Electronic Transactions",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ທຸລະກຳທາງເອເລັກໂຕຣນິກ"
+ },
+ {
+  "id": "LA-H123",
+  "level": "law",
+  "ac": 56,
+  "zh": "家庭法",
+  "en": "Law on Family (Amended)",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ຄອບຄົວ ( ສະບັບປັບປຸງ )"
+ },
+ {
+  "id": "LA-H416",
+  "level": null,
+  "ac": 1,
+  "zh": "2018年经济纠纷解决法",
+  "en": "Law on Resolution of Economic Disputes 2018",
+  "orig": "Law on Resolution of Economic Disputes 2018"
+ },
+ {
+  "id": "LA-H417",
+  "level": null,
+  "ac": 68,
+  "zh": "投资促进法实施法令第119/PM号（2011年4月20日）",
+  "en": "Decree on the Implementation of the Investment Promotion Law No. 119/PM, dated 20 April 2011",
+  "orig": "ດໍາລັດ ວ່າດ້ວຍ ການຈັດຕັ້ງປະຕິບັດ ກົດໝາຍ ວ່າດ້ວຍ ການສົ່ງເສີມການລົງທຶນ ເລກທີ 119/ນຍ, ລົງວັນທີ 20 ເມສາ 2011"
+ },
+ {
+  "id": "LA-H418",
+  "level": null,
+  "ac": 10,
+  "zh": "关于电子商务的政令（第296/GoL号，2021年4月12日）",
+  "en": "Decree on Electronic Commerce No. 296/GoL, dated 12 April 2021",
+  "orig": "Decree on Electronic Commerce, No.296/GoL, date 12 April 2021"
+ },
+ {
+  "id": "LA-H419",
+  "level": null,
+  "ac": 25,
+  "zh": "海关法实施政令（第362/PMO号，2007年10月19日）",
+  "en": "Decree on the Implementation of the Customs Law No. 362/PMO, dated 19 October 2007",
+  "orig": "Decree on the Implementation Of the Customs Law No. 362/PMO, dated 19 October 2007"
+ },
+ {
+  "id": "LA-H420",
+  "level": null,
+  "ac": 68,
+  "zh": "投资促进法实施法令第119/PM号（2011年4月20日）",
+  "en": "Decree on the Implementation of the Investment Promotion Law No. 119/PM, dated 20 April 2011",
+  "orig": "Decree on The Implementation of the Investment Promotion Law No. 119/PM, dated 20 April 2011"
+ },
+ {
+  "id": "LA-H421",
+  "level": null,
+  "ac": 45,
+  "zh": "海关法第05/NA号（2005年5月20日）实施部长指令第0491/MOF号",
+  "en": "Ministerial Instruction on the Implementation of the Customs Law No. 05/NA of 20 May 2005 (No. 0491/MOF)",
+  "orig": "Financial ministerial instruction on the implementation of the law and enforcing decree to implement the Custom Law No. "
+ },
+ {
+  "id": "LA-H422",
+  "level": null,
+  "ac": 21,
+  "zh": "知识产权海关保护措施指令第1970/MOF号",
+  "en": "Instruction on Customs Measures for the Protection of Intellectual Property Rights No. 1970/MOF",
+  "orig": "Instruction On Customs Measures For The Protection Of Intellectual Property Rights No. 1970/MOF"
+ },
+ {
+  "id": "LA-H423",
+  "level": null,
+  "ac": 19,
+  "zh": "税法若干条文修正法第01/NA号（2021年8月7日）",
+  "en": "Law on Amendments to Certain Articles of the Law on Taxation No. 01/NA, dated 7 August 2021",
+  "orig": "Law on Amendments to Certain Articles of the Law on Taxation, No. 01/NA, date 07 August 2021"
+ },
+ {
+  "id": "LA-H424",
+  "level": null,
+  "ac": 7,
+  "zh": "老挝人民民主共和国银行法（修正版，第47/NA号，2018年6月19日）",
+  "en": "Law on the Bank of the Lao PDR (Amended Version) No. 47/NA, dated 19 June 2018",
+  "orig": "Law on Bank of the Lao PDR (amended version) no. 47/NA, dated 19 June 2018"
+ },
+ {
+  "id": "LA-H425",
+  "level": null,
+  "ac": 41,
+  "zh": "消费税法（第68/NA号，2019年6月19日）",
+  "en": "Law on Consumption Tax No. 68/NA, dated 19 June 2019",
+  "orig": "Law on Consumption Tax No 68/NA, date 19 June 2019"
+ },
+ {
+  "id": "LA-H426",
+  "level": null,
+  "ac": 1,
+  "zh": "所得税法（第67/NA号，2019年6月18日）",
+  "en": "Law on Income Tax No. 67/NA, dated 18 June 2019",
+  "orig": "Law on Income Tax No 67/NA, date 18 June 2019"
+ },
+ {
+  "id": "LA-H427",
+  "level": null,
+  "ac": 224,
+  "zh": "企业法（2023年修订）",
+  "en": "Enterprise Law (Amended) 2023",
+  "orig": "企业法"
+ },
+ {
+  "id": "LA-H428",
+  "level": null,
+  "ac": 417,
+  "zh": "海关法（2020年修订）",
+  "en": "Customs Law (Amended) 2020",
+  "orig": "关税法（修订）"
+ },
+ {
+  "id": "LA-H429",
+  "level": null,
+  "ac": 378,
+  "zh": "劳动法 2013",
+  "en": "Labour Law 2013",
+  "orig": "Labour Law 2013"
+ },
+ {
+  "id": "LA-H430",
+  "level": null,
+  "ac": 106,
+  "zh": "合同和非合同关系法",
+  "en": "Law on Contracts and Non-Contractual Relations",
+  "orig": "合同和非合同关系法"
+ },
+ {
+  "id": "LA-H431",
+  "level": null,
+  "ac": 1,
+  "zh": "外国投资者商业活动清单（2015年2月修订）",
+  "en": "List of Business Activities for Foreign Investors (February 2015 Revision)",
+  "orig": "外国投资者商业活动清单"
+ },
+ {
+  "id": "LA-H432",
+  "level": null,
+  "ac": 111,
+  "zh": "老挝人民民主共和国宪法",
+  "en": "Constitution of the Lao People's Democratic Republic",
+  "orig": "宪法"
+ },
+ {
+  "id": "LA-H433",
+  "level": null,
+  "ac": 47,
+  "zh": "老挝人民民主共和国宪法（2025年修正）",
+  "en": "Constitution of the Lao People's Democratic Republic (2025 Amendment)",
+  "orig": "宪法_2025修正版"
+ },
+ {
+  "id": "LA-H434",
+  "level": null,
+  "ac": 82,
+  "zh": "律师法",
+  "en": "Law on Lawyers",
+  "orig": "律师法"
+ },
+ {
+  "id": "LA-H435",
+  "level": null,
+  "ac": 182,
+  "zh": "投资促进法",
+  "en": "Law on Investment Promotion (Amended)",
+  "orig": "投资促进法"
+ },
+ {
+  "id": "LA-H436",
+  "level": null,
+  "ac": 59,
+  "zh": "投资促进法",
+  "en": "Law on Investment Promotion (Amended)",
+  "orig": "投资促进法"
+ },
+ {
+  "id": "LA-H437",
+  "level": null,
+  "ac": 70,
+  "zh": "投资法实施条例第119/PM号",
+  "en": "Decree on the Implementation of the Investment Law No. 119/PM",
+  "orig": "投资法实施条例"
+ },
+ {
+  "id": "LA-H438",
+  "level": null,
+  "ac": 721,
+  "zh": "民法典 2018",
+  "en": "Civil Code 2018",
+  "orig": "民法典"
+ },
+ {
+  "id": "LA-H440",
+  "level": null,
+  "ac": 717,
+  "zh": "民法典 2018",
+  "en": "Civil Code 2018",
+  "orig": "Civil Code 2018"
+ },
+ {
+  "id": "LA-H441",
+  "level": null,
+  "ac": 721,
+  "zh": "民法典 2018",
+  "en": "Civil Code 2018",
+  "orig": "民法典"
+ },
+ {
+  "id": "LA-H442",
+  "level": null,
+  "ac": 122,
+  "zh": "海关法（2011年修订）",
+  "en": "Customs Law (Amended) 2011",
+  "orig": "海关法"
+ },
+ {
+  "id": "LA-H443",
+  "level": null,
+  "ac": 1,
+  "zh": "海关法部分条款修正（2014年）",
+  "en": "Customs Law (Amendment of Certain Articles) 2014",
+  "orig": "海关法（修订条款）"
+ },
+ {
+  "id": "LA-H444",
+  "level": null,
+  "ac": 99,
+  "zh": "环境保护法（修订）",
+  "en": "Environmental Protection Law (Amended)",
+  "orig": "环境保护法"
+ },
+ {
+  "id": "LA-H445",
+  "level": null,
+  "ac": 58,
+  "zh": "电子交易法 2012",
+  "en": "Law on Electronic Transactions 2012",
+  "orig": "电子交易法 2012"
+ },
+ {
+  "id": "LA-H446",
+  "level": null,
+  "ac": 10,
+  "zh": "电子商务政令 2021",
+  "en": "Decree on Electronic Commerce 2021",
+  "orig": "Decree on Electronic Commerce 2021"
+ },
+ {
+  "id": "LA-H447",
+  "level": null,
+  "ac": 80,
+  "zh": "电子商务法（修订版）",
+  "en": "Law on Electronic Commerce (Amended)",
+  "orig": "电子商务法（修订版）"
+ },
+ {
+  "id": "LA-H448",
+  "level": null,
+  "ac": 147,
+  "zh": "知识产权法（2023年修订）",
+  "en": "Law on Intellectual Property (Amended) 2023",
+  "orig": "知识产权法"
+ },
+ {
+  "id": "LA-H449",
+  "level": null,
+  "ac": 98,
+  "zh": "税收征管法（2019年修订）",
+  "en": "Law on Tax Administration (Amended) 2019",
+  "orig": "税收征管法（修订）"
+ },
+ {
+  "id": "LA-H450",
+  "level": null,
+  "ac": 136,
+  "zh": "投资促进法 2016",
+  "en": "Law on Investment Promotion 2016",
+  "orig": "Law on Investment Promotion 2016"
+ },
+ {
+  "id": "LA-H451",
+  "level": null,
+  "ac": 1,
+  "zh": "2010年经济纠纷解决法",
+  "en": "Law on Resolution of Economic Disputes 2010",
+  "orig": "econdispute_2010【实为HTML】"
+ },
+ {
+  "id": "LA-H453",
+  "level": null,
+  "ac": 1,
+  "zh": "老挝官方公报 · 决议列表页（第 2 页）",
+  "en": "Lao Official Gazette — Listing of Decisions (Page 2)",
+  "orig": "ຈົດໝາຍເຫດທາງລັດຖະການ ແຫ່ງ ສປປ ລາວ — ລາຍການ ຂໍ້ຕົກລົງ (ໜ້າ 2)"
+ },
+ {
+  "id": "LA-LEGISLATION-2021",
+  "level": "law",
+  "ac": 128,
+  "zh": "老挝《立法法》（2021年修正版）",
+  "en": "Law on Legislation (Amended), 2021",
+  "orig": "ກົດໝາຍວ່າດ້ວຍ ການສ້າງນິຕິກຳ (ສະບັບປັບປຸງ)"
+ }
+]

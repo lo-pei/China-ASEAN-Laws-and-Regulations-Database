@@ -1,0 +1,502 @@
+{
+  "_note": "MY 附属法规括号术语 · add14（单缺括号剩余 61-131）",
+  "brackets": {
+    "TERMS OF EDUCATIONAL INSTITUTIONS YEAR 2017": {
+      "zh": "教育机构学期（2017年）",
+      "vi": "Thời hạn học kỳ của các cơ sở giáo dục năm 2017",
+      "th": "ภาคเรียนของสถานศึกษาปี 2017",
+      "id": "Terma Institusi Pendidikan Tahun 2017",
+      "ms": "Syarat Institusi Pendidikan Tahun 2017"
+    },
+    "CAMPUS": {
+      "zh": "校园",
+      "vi": "Cơ sở học xá",
+      "th": "วิทยาเขต",
+      "id": "Kampus",
+      "ms": "Kampus"
+    },
+    "RECTIFICATION OF DEVELOPMENT FUNDS ACT": {
+      "zh": "发展基金法的更正",
+      "vi": "Đính chính Luật Quỹ Phát triển",
+      "th": "การแก้ไขข้อผิดพลาดพระราชบัญญัติกองทุนพัฒนา",
+      "id": "Koreksi Undang-Undang Dana Pembangunan",
+      "ms": "Pembetulan Akta Kumpulan Wang Pembangunan"
+    },
+    "RECTIFICATION OF QUANTITY SURVEYORS ACT 1967": {
+      "zh": "1967年工料测量师法的更正",
+      "vi": "Đính chính Luật Định lượng viên 1967",
+      "th": "การแก้ไขข้อผิดพลาดพระราชบัญญัติผู้ประมาณการราคาก่อสร้าง ค.ศ. 1967",
+      "id": "Koreksi Undang-Undang Juru Taksir Kuantitas 1967",
+      "ms": "Pembetulan Akta Juruukur Bahan 1967"
+    },
+    "IMPORT LICENSE FEE FOR MOTOR VEHICLE": {
+      "zh": "机动车进口许可证费",
+      "vi": "Phí giấy phép nhập khẩu xe cơ giới",
+      "th": "ค่าธรรมเนียมใบอนุญาตนำเข้ายานยนต์",
+      "id": "Biaya Izin Impor Kendaraan Bermotor",
+      "ms": "Fi Permit Import Kenderaan Bermotor"
+    },
+    "MECHANISM TO DETERMINE UNREASONABLY HIGH PROFIT FOR GOODS": {
+      "zh": "货物不合理高额利润的认定机制",
+      "vi": "Cơ chế xác định lợi nhuận cao bất hợp lý đối với hàng hóa",
+      "th": "กลไกการกำหนดกำไรที่สูงเกินสมควรสำหรับสินค้า",
+      "id": "Mekanisme Penetapan Laba Tidak Wajar atas Barang",
+      "ms": "Mekanisme Penentuan Keuntungan Tidak Munasabah bagi Barang"
+    },
+    "IMPLEMENTATION OF THE UNITED NATIONS SECURITY COUNCIL RESOLUTIONS RELATING TO THE REPUBLIC OF IRAQ": {
+      "zh": "执行联合国安全理事会关于伊拉克共和国的决议",
+      "vi": "Thực hiện các nghị quyết của Hội đồng Bảo an Liên Hợp Quốc liên quan đến Cộng hòa Iraq",
+      "th": "การดำเนินการตามมติคณะมนตรีความมั่นคงแห่งสหประชาชาติเกี่ยวกับสาธารณรัฐอิรัก",
+      "id": "Pelaksanaan Resolusi Dewan Keamanan Perserikatan Bangsa-Bangsa Terkait Republik Irak",
+      "ms": "Pelaksanaan Resolusi Majlis Keselamatan Pertubuhan Bangsa-Bangsa Bersatu Berkaitan Republik Iraq"
+    },
+    "IMPORT AND EXPORT": {
+      "zh": "进出口",
+      "vi": "Nhập khẩu và xuất khẩu",
+      "th": "การนำเข้าและการส่งออก",
+      "id": "Impor dan Ekspor",
+      "ms": "Import dan Eksport"
+    },
+    "THE INCENTIVE FOR MANUFACTURERS OF PHARMACEUTICAL PRODUCTS SCHEME": {
+      "zh": "药品生产商激励计划",
+      "vi": "Chương trình ưu đãi cho nhà sản xuất sản phẩm dược phẩm",
+      "th": "โครงการสิ่งจูงใจสำหรับผู้ผลิตผลิตภัณฑ์ยา",
+      "id": "Skema Insentif bagi Produsen Produk Farmasi",
+      "ms": "Skim Insentif bagi Pengilang Produk Farmaseutikal"
+    },
+    "ASSUMPTION OF CONTROL OF KOPERASI WARISAN PEGAWAI HUTAN MELAYU NEGERI PERAK BERHAD": {
+      "zh": "接管霹雳州马来林业官员遗产合作社有限公司",
+      "vi": "Tiếp nhận kiểm soát Hợp tác xã Warisan Pegawai Hutan Melayu Negeri Perak Berhad",
+      "th": "การเข้าควบคุมสหกรณ์วารีซันเปอ กาวายฮูตันเมอลายูเนอเกอรีเประเบอร์ฮัด",
+      "id": "Pengambilalihan Kendali Koperasi Warisan Pegawai Hutan Melayu Negeri Perak Berhad",
+      "ms": "Pengambilalihan Kawalan Koperasi Warisan Pegawai Hutan Melayu Negeri Perak Berhad"
+    },
+    "FEES AND CHARGES EXEMPTION TO MONTFORTYOUTH TRAINING CENTRE, KOTA KINABALU, SABAH": {
+      "zh": "豁免蒙福特青年培训中心（沙巴亚庇）的费用",
+      "vi": "Miễn phí và lệ phí cho Trung tâm Đào tạo Thanh niên Monfort, Kota Kinabalu, Sabah",
+      "th": "การยกเว้นค่าธรรมเนียมและค่าบริการให้ศูนย์ฝึกอบรมเยาวชนมอนฟอร์ต, โกตากีนาบาลู, ซาบาห์",
+      "id": "Pembebasan Biaya dan Pungutan kepada Pusat Pelatihan Pemuda Monfort, Kota Kinabalu, Sabah",
+      "ms": "Pengecualian Fi dan Caj kepada Pusat Latihan Belia Monfort, Kota Kinabalu, Sabah"
+    },
+    "EAST-WEST LINK EXPRESSWAY": {
+      "zh": "东西连通大道",
+      "vi": "Đường cao tốc Kết nối Đông-Tây",
+      "th": "ทางด่วนเชื่อมตะวันออก-ตะวันตก",
+      "id": "Jalan Tol Penghubung Timur-Barat",
+      "ms": "Lebuhraya Hubungan Timur-Barat"
+    },
+    "DEDUCTION FOR INVESTMENT IN APPROVED NEW FOOD PRODUCTION PROJECT": {
+      "zh": "经批准的新食品生产项目投资扣除",
+      "vi": "Khấu trừ đầu tư vào dự án sản xuất thực phẩm mới được phê duyệt",
+      "th": "การหักเงินลงทุนในโครงการผลิตอาหารใหม่ที่ได้รับอนุมัติ",
+      "id": "Pengurangan Investasi pada Proyek Produksi Pangan Baru yang Disetujui",
+      "ms": "Potongan Pelaburan dalam Projek Pengeluaran Makanan Baharu yang Diluluskan"
+    },
+    "TERMS OF EDUCATIONAL INSTITUTIONS YEAR 2027": {
+      "zh": "教育机构学期（2027年）",
+      "vi": "Thời hạn học kỳ của các cơ sở giáo dục năm 2027",
+      "th": "ภาคเรียนของสถานศึกษาปี 2027",
+      "id": "Terma Institusi Pendidikan Tahun 2027",
+      "ms": "Syarat Institusi Pendidikan Tahun 2027"
+    },
+    "JAWATANKUASA KARIAH": {
+      "zh": "地区委员会",
+      "vi": "Ủy ban Khu vực",
+      "th": "คณะกรรมการเขต",
+      "id": "Komite Kewilayahan",
+      "ms": "Jawatankuasa Kariah"
+    },
+    "SINGLE FAMILY FUND COMPANY": {
+      "zh": "单一家庭基金公司",
+      "vi": "Công ty Quỹ Gia đình Đơn nhất",
+      "th": "บริษัทกองทุนครอบครัวเดี่ยว",
+      "id": "Perusahaan Dana Keluarga Tunggal",
+      "ms": "Syarikat Dana Keluarga Tunggal"
+    },
+    "TERMS OF EDUCATIONAL INSTITUTIONS YEAR 2012": {
+      "zh": "教育机构学期（2012年）",
+      "vi": "Thời hạn học kỳ của các cơ sở giáo dục năm 2012",
+      "th": "ภาคเรียนของสถานศึกษาปี 2012",
+      "id": "Terma Institusi Pendidikan Tahun 2012",
+      "ms": "Syarat Institusi Pendidikan Tahun 2012"
+    },
+    "CONVENTION ON MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS": {
+      "zh": "税务事项相互行政协助公约",
+      "vi": "Công ước về Tương trợ Hành chính trong các Vấn đề Thuế",
+      "th": "อนุสัญญาว่าด้วยความช่วยเหลือทางการบริหารร่วมกันในเรื่องภาษี",
+      "id": "Konvensi Bantuan Administratif Timbal Balik dalam Perpajakan",
+      "ms": "Konvensyen Bantuan Pentadbiran Bersama dalam Hal Cukai"
+    },
+    "SOCIAL SECURITY APPELLATE BOARD": {
+      "zh": "社会保障上诉委员会",
+      "vi": "Hội đồng Kháng nghị An sinh Xã hội",
+      "th": "คณะกรรมการอุทธรณ์ประกันสังคม",
+      "id": "Dewan Banding Jaminan Sosial",
+      "ms": "Lembaga Rayuan Keselamatan Sosial"
+    },
+    "PULAU SIPADAN": {
+      "zh": "西巴丹岛",
+      "vi": "Đảo Sipadan",
+      "th": "เกาะซีปาดัน",
+      "id": "Pulau Sipadan",
+      "ms": "Pulau Sipadan"
+    },
+    "INSTRUMENT OF LOAN OR FINANCING AGREEMENT IN RELATION TO INDIVIDUAL": {
+      "zh": "个人贷款或融资协议文书",
+      "vi": "Chứng thư hợp đồng vay hoặc tài trợ đối với cá nhân",
+      "th": "ตราสารสัญญาเงินกู้หรือสัญญาเงินทุนสำหรับบุคคลธรรมดา",
+      "id": "Akta Perjanjian Pinjaman atau Pembiayaan atas Orang Pribadi",
+      "ms": "Surat Ikatan Perjanjian Pinjaman atau Pembiayaan bagi Individu"
+    },
+    "RATES OF TAX NO. 1": {
+      "zh": "税率（第1号）",
+      "vi": "Mức thuế số 1",
+      "th": "อัตราภาษีฉบับที่ 1",
+      "id": "Tarif Pajak Nomor 1",
+      "ms": "Kadar Cukai Bilangan 1"
+    },
+    "WAIVER OF FEE TO NATIONAL DUAL TRAINING SYSTEM TRAINEE AT MALAYSIAN PRISON DEPARTMENT": {
+      "zh": "豁免马来西亚监狱局国家双轨培训体系学员费用",
+      "vi": "Miễn phí cho học viên Hệ thống Đào tạo Song hành Quốc gia tại Cục Trại giam Malaysia",
+      "th": "การยกเว้นค่าธรรมเนียมสำหรับผู้เข้ารับการฝึกอบรมระบบทวิภาคีแห่งชาติ ณ กรมราชทัณฑ์มาเลเซีย",
+      "id": "Pembebasan Biaya bagi Peserta Sistem Pelatihan Ganda Nasional di Departemen Pemasyarakatan Malaysia",
+      "ms": "Pengecualian Fi kepada Pelatih Sistem Latihan Dual Kebangsaan di Jabatan Penjara Malaysia"
+    },
+    "INSTRUMENT OF TRANSFER IN RELATION TO INDIVIDUAL": {
+      "zh": "个人转让文书",
+      "vi": "Chứng thư chuyển nhượng đối với cá nhân",
+      "th": "ตราสารโอนสำหรับบุคคลธรรมดา",
+      "id": "Akta Pengalihan atas Orang Pribadi",
+      "ms": "Surat Ikatan Pindah Milik bagi Individu"
+    },
+    "DEDUCTION FOR EXPENDITURE ON ISSUANCE OF ISLAMIC SECURITIES PURSUANT TO PRINCIPLES OF MURABAHAH AND BAI’ BITHAMAN AJIL": {
+      "zh": "依穆拉巴哈及渐进付款买卖原则发行伊斯兰证券的开支扣除",
+      "vi": "Khấu trừ chi phí phát hành chứng khoán Hồi giáo theo nguyên tắc Murabahah và Bai’ Bithaman Ajil",
+      "th": "การหักรายจ่ายในการออกหลักทรัพย์อิสลามตามหลักมุรอบาฮะห์และบัยอ์บิษะมันอาญิล",
+      "id": "Pengurangan Pengeluaran atas Penerbitan Surat Berharga Syariah menurut Prinsip Murabahah dan Bai’ Bithaman Ajil",
+      "ms": "Potongan Perbelanjaan bagi Penerbitan Sekuriti Islam menurut Prinsip Murabahah dan Bai’ Bithaman Ajil"
+    },
+    "INSTRUMENT OF LOAN OR FINANCING AGREEMENT IN RELATION TO QUALIFYING PERSON": {
+      "zh": "合格人士贷款或融资协议文书",
+      "vi": "Chứng thư hợp đồng vay hoặc tài trợ đối với người đủ điều kiện",
+      "th": "ตราสารสัญญาเงินกู้หรือสัญญาเงินทุนสำหรับบุคคลที่เข้าเกณฑ์",
+      "id": "Akta Perjanjian Pinjaman atau Pembiayaan atas Orang yang Memenuhi Syarat",
+      "ms": "Surat Ikatan Perjanjian Pinjaman atau Pembiayaan bagi Orang Layak"
+    },
+    "ORGANIZING INCENTIVE TRIPS, CONFERENCES AND TRADE EXHIBITIONS OF INTERNATIONAL STANDARD": {
+      "zh": "举办国际水准的奖励旅游、会议及贸易展览",
+      "vi": "Tổ chức các chuyến du lịch khen thưởng, hội nghị và triển lãm thương mại đạt chuẩn quốc tế",
+      "th": "การจัดทริป Incentive การประชุม และงานแสดงสินค้าระดับมาตรฐานสากล",
+      "id": "Penyelenggaraan Perjalanan Insentif, Konferensi, dan Pameran Dagang Berstandar Internasional",
+      "ms": "Penganjuran Lawatan Insentif, Persidangan dan Pameran Dagang Bertaraf Antarabangsa"
+    },
+    "USED": {
+      "zh": "二手",
+      "vi": "Đã qua sử dụng",
+      "th": "ใช้แล้ว",
+      "id": "Bekas",
+      "ms": "Terpakai"
+    },
+    "MULTILATERAL COMPETENT AUTHORITY AGREEMENT ONAUTOMATIC EXCHANGE OF FINANCIAL ACCOUNT INFORMATION": {
+      "zh": "金融账户信息自动交换多边主管当局协定",
+      "vi": "Hiệp định đa phương giữa các cơ quan có thẩm quyền về trao đổi tự động thông tin tài khoản tài chính",
+      "th": "ความตกลงพหุภาคีระหว่างหน่วยงานผู้มีอำนาจว่าด้วยการแลกเปลี่ยนข้อมูลบัญชีการเงินโดยอัตโนมัติ",
+      "id": "Perjanjian Multilateral Antar Otoritas Berwenang tentang Pertukaran Informasi Rekening Keuangan Secara Otomatis",
+      "ms": "Perjanjian Multilateral antara Pihak Berkuasa Berwibawa mengenai Pertukaran Automatik Maklumat Akaun Kewangan"
+    },
+    "INSTRUMENT OF TRANSFER IN RELATION TO QUALIFYING PERSON": {
+      "zh": "合格人士转让文书",
+      "vi": "Chứng thư chuyển nhượng đối với người đủ điều kiện",
+      "th": "ตราสารโอนสำหรับบุคคลที่เข้าเกณฑ์",
+      "id": "Akta Pengalihan atas Orang yang Memenuhi Syarat",
+      "ms": "Surat Ikatan Pindah Milik bagi Orang Layak"
+    },
+    "INCOME OF NON-RESIDENT PERSON": {
+      "zh": "非居民个人收入",
+      "vi": "Thu nhập của người không cư trú",
+      "th": "เงินได้ของบุคคลที่ไม่มีถิ่นพำนัก",
+      "id": "Penghasilan Orang Bukan Penduduk",
+      "ms": "Pendapatan Orang Bukan Pemastautin"
+    },
+    "MULTILATERAL COMPETENT AUTHORITY AGREEMENT ON THE EXCHANGE OF COUNTRY-BY-COUNTRY REPORTS": {
+      "zh": "国别报告交换多边主管当局协定",
+      "vi": "Hiệp định đa phương giữa các cơ quan có thẩm quyền về trao đổi báo cáo quốc gia",
+      "th": "ความตกลงพหุภาคีระหว่างหน่วยงานผู้มีอำนาจว่าด้วยการแลกเปลี่ยนรายงานรายประเทศ",
+      "id": "Perjanjian Multilateral Antar Otoritas Berwenang tentang Pertukaran Laporan per Negara",
+      "ms": "Perjanjian Multilateral antara Pihak Berkuasa Berwibawa mengenai Pertukaran Laporan Negara demi Negara"
+    },
+    "AMENDMENT OF THE SECOND SCHEDULE": {
+      "zh": "第二附表修正",
+      "vi": "Sửa đổi Phụ lục thứ hai",
+      "th": "การแก้ไขตารางผนวกที่สอง",
+      "id": "Pindaan Lampiran Kedua",
+      "ms": "Pindaan Jadual Kedua"
+    },
+    "AMENDMENT OF FIRST, SECOND AND FIFTH SCHEDULES": {
+      "zh": "第一、第二及第五附表修正",
+      "vi": "Sửa đổi Phụ lục thứ nhất, thứ hai và thứ năm",
+      "th": "การแก้ไขตารางผนวกที่หนึ่ง ที่สอง และที่ห้า",
+      "id": "Pindaan Lampiran Pertama, Kedua, dan Kelima",
+      "ms": "Pindaan Jadual Pertama, Kedua dan Kelima"
+    },
+    "DEDUCTION RELATING TO TRANSACTION WITH NON-MEMBERS FOR CLUB, ASSOCIATION OR SIMILAR INSTITUTION": {
+      "zh": "俱乐部、协会或类似机构与非会员交易的扣除",
+      "vi": "Khấu trừ liên quan đến giao dịch với người không phải hội viên của câu lạc bộ, hiệp hội hoặc tổ chức tương tự",
+      "th": "การหักเกี่ยวกับธุรกรรมกับผู้ที่ไม่ใช่สมาชิกสำหรับสโมสร สมาคม หรือสถาบันที่คล้ายกัน",
+      "id": "Pengurangan Terkait Transaksi dengan Bukan Anggota bagi Klub, Asosiasi, atau Lembaga Sejenis",
+      "ms": "Potongan Berkaitan Urus Niaga dengan Bukan Ahli bagi Kelab, Persatuan atau Institusi Seumpamanya"
+    },
+    "PERMIT TO TEACH": {
+      "zh": "执教许可证",
+      "vi": "Giấy phép giảng dạy",
+      "th": "ใบอนุญาตสอน",
+      "id": "Izin Mengajar",
+      "ms": "Permit Mengajar"
+    },
+    "DEDUCTION OF COST FOR RELOCATION OF BUSINESS": {
+      "zh": "业务搬迁成本扣除",
+      "vi": "Khấu trừ chi phí di dời cơ sở kinh doanh",
+      "th": "การหักต้นทุนการย้ายสถานประกอบการ",
+      "id": "Pengurangan Biaya Relokasi Usaha",
+      "ms": "Potongan Kos Pemindahan Perniagaan"
+    },
+    "TURUS PESAWAT SDN. BHD.": {
+      "zh": "图鲁斯飞机私人有限公司",
+      "vi": "Turus Pesawat Sdn. Bhd.",
+      "th": "บริษัท Turus Pesawat Sdn. Bhd.",
+      "id": "Turus Pesawat Sdn. Bhd.",
+      "ms": "Turus Pesawat Sdn. Bhd."
+    },
+    "CHANGE OR ALTERATION IN RESPECT OF COMPANY": {
+      "zh": "公司相关变更或改动",
+      "vi": "Thay đổi hoặc sửa đổi đối với công ty",
+      "th": "การเปลี่ยนแปลงหรือแก้ไขเกี่ยวกับบริษัท",
+      "id": "Perubahan atau Modifikasi atas Perusahaan",
+      "ms": "Perubahan atau Pengubahsuaian Berkenaan Syarikat"
+    },
+    "TERMS OF EDUCATIONAL INSTITUTIONS YEAR 2019": {
+      "zh": "教育机构学期（2019年）",
+      "vi": "Thời hạn học kỳ của các cơ sở giáo dục năm 2019",
+      "th": "ภาคเรียนของสถานศึกษาปี 2019",
+      "id": "Terma Institusi Pendidikan Tahun 2019",
+      "ms": "Syarat Institusi Pendidikan Tahun 2019"
+    },
+    "QUOTA OF LICENCE": {
+      "zh": "执照配额",
+      "vi": "Hạn ngạch giấy phép",
+      "th": "โควตาใบอนุญาต",
+      "id": "Kuota Izin",
+      "ms": "Kuota Lesen"
+    },
+    "COST OF SERVICES": {
+      "zh": "服务成本",
+      "vi": "Chi phí dịch vụ",
+      "th": "ต้นทุนการบริการ",
+      "id": "Biaya Jasa",
+      "ms": "Kos Perkhidmatan"
+    },
+    "CONDUCTING COURSES OF STUDY": {
+      "zh": "开设学习课程",
+      "vi": "Tổ chức các khóa học",
+      "th": "การจัดการหลักสูตรการศึกษา",
+      "id": "Penyelenggaraan Kursus Studi",
+      "ms": "Penganjuran Kursus Pengajian"
+    },
+    "THE BADMINTON WORLD FEDERATION": {
+      "zh": "世界羽毛球联合会",
+      "vi": "Liên đoàn Cầu lông Thế giới",
+      "th": "สหพันธ์แบดมินตันโลก",
+      "id": "Federasi Bulu Tangkis Dunia",
+      "ms": "Persekutuan Badminton Dunia"
+    },
+    "SOURCE OF PRODUCTION, BLEND AND PERMITTED ACTIVITIES": {
+      "zh": "生产来源、调配及准许活动",
+      "vi": "Nguồn sản xuất, pha trộn và hoạt động được phép",
+      "th": "แหล่งผลิต การผสม และกิจกรรมที่ได้รับอนุญาต",
+      "id": "Sumber Produksi, Campuran, dan Aktivitas yang Diizinkan",
+      "ms": "Sumber Pengeluaran, Adunan dan Aktiviti yang Dibenarkan"
+    },
+    "AMENDMENT OF FIRST SCHEDULE AND SECOND SCHEDULE": {
+      "zh": "第一及第二附表修正",
+      "vi": "Sửa đổi Phụ lục thứ nhất và thứ hai",
+      "th": "การแก้ไขตารางผนวกที่หนึ่งและที่สอง",
+      "id": "Pindaan Lampiran Pertama dan Kedua",
+      "ms": "Pindaan Jadual Pertama dan Kedua"
+    },
+    "APPLICATION OF SURPLUS ASSETS OF TAKAFUL FUND": {
+      "zh": "回教保险基金剩余资产的运用",
+      "vi": "Việc sử dụng tài sản thặng dư của Quỹ Takaful",
+      "th": "การใช้สินทรัพย์ส่วนเกินของกองทุนตะกาฟุล",
+      "id": "Penggunaan Aset Surplus Dana Takaful",
+      "ms": "Penggunaan Aset Lebihan Kumpulan Wang Takaful"
+    },
+    "EXEMPTION TO PETRONAS CHEMICALS ETHYLENE SDN. BHD., KERTIH, TERENGGANU": {
+      "zh": "豁免国家石油化学乙烯私人有限公司（登嘉楼吉利地）",
+      "vi": "Miễn trừ cho Petronas Chemicals Ethylene Sdn. Bhd., Kertih, Terengganu",
+      "th": "การยกเว้นให้ Petronas Chemicals Ethylene Sdn. Bhd., เกอริห์, ตรังกานู",
+      "id": "Pengecualian kepada Petronas Chemicals Ethylene Sdn. Bhd., Kertih, Terengganu",
+      "ms": "Pengecualian kepada Petronas Chemicals Ethylene Sdn. Bhd., Kertih, Terengganu"
+    },
+    "SENAI AIRPORT TERMINAL SERVICES SDN. BHD.": {
+      "zh": "士乃机场航站服务私人有限公司",
+      "vi": "Senai Airport Terminal Services Sdn. Bhd.",
+      "th": "บริษัท Senai Airport Terminal Services Sdn. Bhd.",
+      "id": "Senai Airport Terminal Services Sdn. Bhd.",
+      "ms": "Senai Airport Terminal Services Sdn. Bhd."
+    },
+    "DIVIDEND INCOME RECEIVED IN MALAYSIA FROM OUTSIDE MALAYSIA": {
+      "zh": "在马来西亚收取的来自境外的股息收入",
+      "vi": "Thu nhập cổ tức nhận tại Malaysia từ ngoài Malaysia",
+      "th": "เงินได้เงินปันผลที่ได้รับในมาเลเซียจากต่างประเทศ",
+      "id": "Penghasilan Dividen yang Diterima di Malaysia dari Luar Malaysia",
+      "ms": "Pendapatan Dividen yang Diterima di Malaysia dari Luar Malaysia"
+    },
+    "INQUIRY": {
+      "zh": "调查",
+      "vi": "Điều tra",
+      "th": "การสอบสวน",
+      "id": "Penyelidikan",
+      "ms": "Siasatan"
+    },
+    "IMPOSITION OF TAX FOR TAXABLE SERVICE IN RESPECT OF DESIGNATED AREAS RELATING TO PULAU 1 AND SPECIAL AREAS": {
+      "zh": "对1号岛及特别区相关指定区域应税服务征税",
+      "vi": "Áp thuế đối với dịch vụ chịu thuế tại các khu vực được chỉ định liên quan đến Pulau 1 và các khu vực đặc biệt",
+      "th": "การจัดเก็บภาษีสำหรับบริการที่ต้องเสียภาษีในพื้นที่ที่กำหนดเกี่ยวกับเกาะ 1 และพื้นที่พิเศษ",
+      "id": "Pengenaan Pajak atas Jasa Kena Pajak di Kawasan Ditunjuk Terkait Pulau 1 dan Kawasan Khusus",
+      "ms": "Pengenaan Cukai bagi Perkhidmatan Bercukai di Kawasan Ditetapkan Berkaitan Pulau 1 dan Kawasan Khas"
+    },
+    "FEES AND CONTRIBUTIONS": {
+      "zh": "费用与缴款",
+      "vi": "Phí và các khoản đóng góp",
+      "th": "ค่าธรรมเนียมและเงินสมทบ",
+      "id": "Biaya dan Iuran",
+      "ms": "Fi dan Caruman"
+    },
+    "PRESCRIBED INTEREST": {
+      "zh": "规定利息",
+      "vi": "Lãi suất quy định",
+      "th": "ดอกเบี้ยที่กำหนด",
+      "id": "Bunga yang Ditetapkan",
+      "ms": "Faedah yang Ditetapkan"
+    },
+    "RATES OF CONTRIBUTION FOR PERSON CARRYING OUT SERVICE OF CARRIAGE AND DELIVERY OF GOODS OR FOOD": {
+      "zh": "承运及配送货物或食品服务人员的缴费率",
+      "vi": "Mức đóng góp đối với người thực hiện dịch vụ vận chuyển và giao hàng hóa hoặc thực phẩm",
+      "th": "อัตราเงินสมทบสำหรับผู้ให้บริการขนส่งและส่งมอบสินค้าหรืออาหาร",
+      "id": "Tarif Iuran bagi Orang yang Menjalankan Jasa Pengangkutan dan Pengantaran Barang atau Makanan",
+      "ms": "Kadar Caruman bagi Orang yang Menjalankan Perkhidmatan Pengangkutan dan Penghantaran Barang atau Makanan"
+    },
+    "ELECTRONIC FORMS": {
+      "zh": "电子表格",
+      "vi": "Biểu mẫu điện tử",
+      "th": "แบบฟอร์มอิเล็กทรอนิกส์",
+      "id": "Formulir Elektronik",
+      "ms": "Borang Elektronik"
+    },
+    "DEDUCTION OF INVESTMENT IN NEW FOOD PRODUCTION PROJECT OR EXPANSION PROJECT": {
+      "zh": "新食品生产项目或扩建项目投资扣除",
+      "vi": "Khấu trừ đầu tư vào dự án sản xuất thực phẩm mới hoặc dự án mở rộng",
+      "th": "การหักเงินลงทุนในโครงการผลิตอาหารใหม่หรือโครงการขยาย",
+      "id": "Pengurangan Investasi pada Proyek Produksi Pangan Baru atau Proyek Ekspansi",
+      "ms": "Potongan Pelaburan dalam Projek Pengeluaran Makanan Baharu atau Projek Pengembangan"
+    },
+    "TERMS OF EDUCATIONAL INSTITUTIONS ACADEMIC CALENDAR 2023/2024": {
+      "zh": "教育机构学期（2023/2024学年）",
+      "vi": "Thời hạn học kỳ của các cơ sở giáo dục niên học 2023/2024",
+      "th": "ภาคเรียนของสถานศึกษาปีการศึกษา 2023/2024",
+      "id": "Terma Institusi Pendidikan Tahun Akademik 2023/2024",
+      "ms": "Syarat Institusi Pendidikan Tahun Akademik 2023/2024"
+    },
+    "AMENDMENT OF FIRST AND TENTH SCHEDULES": {
+      "zh": "第一及第十附表修正",
+      "vi": "Sửa đổi Phụ lục thứ nhất và thứ mười",
+      "th": "การแก้ไขตารางผนวกที่หนึ่งและที่สิบ",
+      "id": "Pindaan Lampiran Pertama dan Kesepuluh",
+      "ms": "Pindaan Jadual Pertama dan Kesepuluh"
+    },
+    "DEDUCTIONS NOT ALLOWED FOR PAYMENT MADE TO LABUAN COMPANY BY RESIDENT": {
+      "zh": "居民向纳闽公司付款不得扣除",
+      "vi": "Các khoản khấu trừ không được phép đối với thanh toán của người cư trú cho công ty Labuan",
+      "th": "การหักที่ไม่ได้รับอนุญาตสำหรับการชำระเงินให้บริษัทลาบวนโดยผู้มีถิ่นพำนัก",
+      "id": "Pengurangan yang Tidak Diperbolehkan atas Pembayaran oleh Penduduk kepada Perusahaan Labuan",
+      "ms": "Potongan Tidak Dibenarkan bagi Bayaran oleh Pemastautin kepada Syarikat Labuan"
+    },
+    "SAFETY SEAT-BELTS": {
+      "zh": "安全座椅安全带",
+      "vi": "Dây an toàn ghế ngồi",
+      "th": "เข็มขัดนิรภัยที่นั่ง",
+      "id": "Sabuk Keselamatan Kursi",
+      "ms": "Tali Pinggang Keledar Tempat Duduk"
+    },
+    "ACCOUNTS OF OTHER BODIES": {
+      "zh": "其他机构的账目",
+      "vi": "Sổ sách của các cơ quan khác",
+      "th": "บัญชีขององค์กรอื่น",
+      "id": "Akun Badan Lain",
+      "ms": "Akaun Badan Lain"
+    },
+    "RECTIFICATION OF FINANCIAL PROCEDURE ACT 1957": {
+      "zh": "1957年财务程序法的更正",
+      "vi": "Đính chính Luật Thủ tục Tài chính 1957",
+      "th": "การแก้ไขข้อผิดพลาดพระราชบัญญัติวิธีปฏิบัติราชการทางการเงิน ค.ศ. 1957",
+      "id": "Koreksi Undang-Undang Prosedur Keuangan 1957",
+      "ms": "Pembetulan Akta Tatacara Kewangan 1957"
+    },
+    "REPUBLIC OF TAJIKISTAN": {
+      "zh": "塔吉克斯坦共和国",
+      "vi": "Cộng hòa Tajikistan",
+      "th": "สาธารณรัฐทาจิกิสถาน",
+      "id": "Republik Tajikistan",
+      "ms": "Republik Tajikistan"
+    },
+    "WATER SERVICES DEPOSITS, FEES AND CHARGES": {
+      "zh": "供水服务保证金与费用",
+      "vi": "Tiền đặt cọc, phí và lệ phí dịch vụ cấp nước",
+      "th": "เงินประกัน ค่าธรรมเนียมและค่าบริการบริการน้ำ",
+      "id": "Deposit, Biaya, dan Pungutan Jasa Air",
+      "ms": "Deposit, Fi dan Caj Perkhidmatan Air"
+    },
+    "EXEMPTION TO PETRONAS CARIGALI SDN. BHD., SABAH OPERATION, SABAH": {
+      "zh": "豁免国家石油卡里加利私人有限公司（沙巴作业区）",
+      "vi": "Miễn trừ cho Petronas Carigali Sdn. Bhd., Hoạt động Sabah, Sabah",
+      "th": "การยกเว้นให้ Petronas Carigali Sdn. Bhd., ปฏิบัติการซาบาห์, ซาบาห์",
+      "id": "Pengecualian kepada Petronas Carigali Sdn. Bhd., Operasi Sabah, Sabah",
+      "ms": "Pengecualian kepada Petronas Carigali Sdn. Bhd., Operasi Sabah, Sabah"
+    },
+    "TERMS OF EDUCATIONAL INSTITUTIONS YEAR 2026": {
+      "zh": "教育机构学期（2026年）",
+      "vi": "Thời hạn học kỳ của các cơ sở giáo dục năm 2026",
+      "th": "ภาคเรียนของสถานศึกษาปี 2026",
+      "id": "Terma Institusi Pendidikan Tahun 2026",
+      "ms": "Syarat Institusi Pendidikan Tahun 2026"
+    },
+    "PRESCRIBED INTEREST FOR ISLAMIC SECURITIES SELLING AND BUYING NEGOTIATED TRANSACTION": {
+      "zh": "伊斯兰证券卖出与买入协商交易的规定利息",
+      "vi": "Lãi suất quy định đối với giao dịch bán và mua chứng khoán Hồi giáo có thương lượng",
+      "th": "ดอกเบี้ยที่กำหนดสำหรับธุรกรรมการขายและการซื้อหลักทรัพย์อิสลามแบบเจรจา",
+      "id": "Bunga yang Ditetapkan atas Transaksi Jual dan Beli Surat Berharga Syariah yang Dirundingkan",
+      "ms": "Faedah yang Ditetapkan bagi Urus Niaga Jual dan Beli Sekuriti Islam yang Dirunding"
+    },
+    "GOODS MADE FROM ANY PART OF PIG OR DOG": {
+      "zh": "以猪或狗任何部位制成的货物",
+      "vi": "Hàng hóa làm từ bất kỳ bộ phận nào của lợn hoặc chó",
+      "th": "สินค้าที่ทำจากส่วนใด ๆ ของสุกรหรือสุนัข",
+      "id": "Barang yang Dibuat dari Bagian Apa Pun dari Babi atau Anjing",
+      "ms": "Barang yang Diperbuat daripada Mana-Mana Bahagian Babi atau Anjing"
+    },
+    "REQUIREMENTS FOR INSURER CARRYING ON RE-INSURANCE BUSINESS": {
+      "zh": "经营再保险业务的保险人要求",
+      "vi": "Yêu cầu đối với doanh nghiệp bảo hiểm kinh doanh tái bảo hiểm",
+      "th": "ข้อกำหนดสำหรับผู้รับประกันภัยที่ประกอบธุรกิจประกันภัยต่อ",
+      "id": "Persyaratan bagi Penanggung yang Menjalankan Usaha Reasuransi",
+      "ms": "Keperluan bagi Penanggung Insurans yang Menjalankan Perniagaan Insurans Semula"
+    },
+    "REQUIREMENTS FOR TAKAFUL OPERATOR CARRYING ON RE-TAKAFUL BUSINESS": {
+      "zh": "经营再回教保险业务的回教保险运营者要求",
+      "vi": "Yêu cầu đối với đơn vị vận hành Takaful kinh doanh tái Takaful",
+      "th": "ข้อกำหนดสำหรับผู้ประกอบการตะกาฟุลที่ประกอบธุรกิจตะกาฟุลต่อ",
+      "id": "Persyaratan bagi Operator Takaful yang Menjalankan Usaha Re-Takaful",
+      "ms": "Keperluan bagi Pengendali Takaful yang Menjalankan Perniagaan Takaful Semula"
+    }
+  }
+}

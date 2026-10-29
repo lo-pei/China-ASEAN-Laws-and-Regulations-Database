@@ -1,0 +1,354 @@
+{
+ "items": {
+  "ID-H2033": {
+   "zh": "公共会计师法",
+   "en": "Law on Public Accountants",
+   "vi": "Luật về Kế toán viên Công",
+   "th": "พระราชบัญญัติว่าด้วยผู้สอบบัญชีสาธารณะ",
+   "ms": "Akta tentang Akauntan Awam"
+  },
+  "ID-H2318": {
+   "zh": "军事纪律法",
+   "en": "Law on Military Discipline",
+   "vi": "Luật về Kỷ luật Quân đội",
+   "th": "พระราชบัญญัติว่าด้วยวินัยทหาร",
+   "ms": "Akta tentang Disiplin Tentera"
+  },
+  "ID-H2184": {
+   "zh": "为公共利益建设征用土地法",
+   "en": "Law on Land Acquisition for Development in the Public Interest",
+   "vi": "Luật về Thu hồi Đất cho Phát triển vì Lợi ích Công cộng",
+   "th": "พระราชบัญญัติว่าด้วยการเวนคืนที่ดินเพื่อการพัฒนาเพื่อประโยชน์สาธารณะ",
+   "ms": "Akta tentang Perolehan Tanah untuk Pembangunan bagi Kepentingan Awam"
+  },
+  "ID-H2482": {
+   "zh": "水资源经营法",
+   "en": "Law on the Exploitation of Water Resources",
+   "vi": "Luật về Khai thác Tài nguyên Nước",
+   "th": "พระราชบัญญัติว่าด้วยการประกอบกิจการทรัพยากรน้ำ",
+   "ms": "Akta tentang Pengusahaan Sumber Daya Air"
+  },
+  "ID-H2798": {
+   "zh": "公务员绩效考核法",
+   "en": "Law on the Performance Assessment of Civil Servants",
+   "vi": "Luật về Đánh giá Hiệu quả Công tác của Công chức",
+   "th": "พระราชบัญญัติว่าด้วยการประเมินผลการปฏิบัติราชการของข้าราชการพลเรือน",
+   "ms": "Akta tentang Penilaian Prestasi Pegawai Perkhidmatan Awam"
+  },
+  "ID-H1383": {
+   "zh": "水质管理与水污染防治法",
+   "en": "Law on Water Quality Management and Water Pollution Control",
+   "vi": "Luật về Quản lý Chất lượng Nước và Kiểm soát Ô nhiễm Nước",
+   "th": "พระราชบัญญัติว่าด้วยการจัดการคุณภาพน้ำและการควบคุมมลพิษทางน้ำ",
+   "ms": "Akta tentang Pengurusan Kualiti Air dan Kawalan Pencemaran Air"
+  },
+  "ID-H561": {
+   "zh": "雇主养老金法",
+   "en": "Law on Employer Pension Funds",
+   "vi": "Luật về Quỹ Hưu trí của Người sử dụng Lao động",
+   "th": "พระราชบัญญัติว่าด้วยกองทุนบำเหน็จบำนาญของนายจ้าง",
+   "ms": "Akta tentang Kumpulan Wang Pencen Majikan"
+  },
+  "ID-H939": {
+   "zh": "自然保护区与自然保育区法",
+   "en": "Law on Nature Reserve Areas and Nature Conservation Areas",
+   "vi": "Luật về Khu Bảo tồn Thiên nhiên và Khu Bảo vệ Thiên nhiên",
+   "th": "พระราชบัญญัติว่าด้วยเขตสงวนธรรมชาติและเขตอนุรักษ์ธรรมชาติ",
+   "ms": "Akta tentang Kawasan Simpanan Alam dan Kawasan Pemuliharaan Alam"
+  },
+  "ID-H1113": {
+   "zh": "大气污染防治法",
+   "en": "Law on Air Pollution Control",
+   "vi": "Luật về Kiểm soát Ô nhiễm Không khí",
+   "th": "พระราชบัญญัติว่าด้วยการควบคุมมลพิษทางอากาศ",
+   "ms": "Akta tentang Kawalan Pencemaran Udara"
+  },
+  "ID-H3043": {
+   "zh": "人体器官与组织移植法",
+   "en": "Law on the Transplantation of Organs and Body Tissues",
+   "vi": "Luật về Cấy ghép Nội tạng và Mô Cơ thể",
+   "th": "พระราชบัญญัติว่าด้วยการปลูกถ่ายอวัยวะและเนื้อเยื่อร่างกาย",
+   "ms": "Akta tentang Pemindahan Organ dan Tisu Badan"
+  },
+  "ID-H2899": {
+   "zh": "人民住房储蓄实施法",
+   "en": "Law on the Conduct of Public Housing Savings",
+   "vi": "Luật về Việc Thực hiện Tiết kiệm Nhà ở Nhân dân",
+   "th": "พระราชบัญญัติว่าด้วยการดำเนินการออมเพื่อที่อยู่อาศัยของประชาชน",
+   "ms": "Akta tentang Pelaksanaan Simpanan Perumahan Rakyat"
+  },
+  "ID-H1175": {
+   "zh": "工业设计法",
+   "en": "Law on Industrial Designs",
+   "vi": "Luật về Kiểu dáng Công nghiệp",
+   "th": "พระราชบัญญัติว่าด้วยการออกแบบอุตสาหกรรม",
+   "ms": "Akta tentang Reka Bentuk Industri"
+  },
+  "ID-H1818": {
+   "zh": "政府内部控制制度法",
+   "en": "Law on the Government Internal Control System",
+   "vi": "Luật về Hệ thống Kiểm soát Nội bộ của Chính phủ",
+   "th": "พระราชบัญญัติว่าด้วยระบบการควบคุมภายในภาครัฐ",
+   "ms": "Akta tentang Sistem Kawalan Dalaman Kerajaan"
+  },
+  "ID-H2626": {
+   "zh": "文化促进法",
+   "en": "Law on the Advancement of Culture",
+   "vi": "Luật về Phát triển Văn hóa",
+   "th": "พระราชบัญญัติว่าด้วยการส่งเสริมวัฒนธรรม",
+   "ms": "Akta tentang Pemajuan Kebudayaan"
+  },
+  "ID-H2945": {
+   "zh": "森林恢复与复垦法",
+   "en": "Law on Forest Rehabilitation and Reclamation",
+   "vi": "Luật về Phục hồi và Cải tạo Rừng",
+   "th": "พระราชบัญญัติว่าด้วยการฟื้นฟูและการบุกเบิกป่า",
+   "ms": "Akta tentang Pemulihan dan Penambakan Hutan"
+  },
+  "ID-H475": {
+   "zh": "水利服务公营企业法",
+   "en": "Law on the Public Corporation (Perum) for Water Services",
+   "vi": "Luật về Doanh nghiệp Công ích (Perum) Dịch vụ Thủy lợi",
+   "th": "พระราชบัญญัติว่าด้วยรัฐวิสาหกิจ (Perum) บริการน้ำ",
+   "ms": "Akta tentang Perbadanan Awam (Perum) Perkhidmatan Air"
+  },
+  "ID-H1240": {
+   "zh": "设立雅加达法特玛瓦蒂医院公营公司法",
+   "en": "Law on the Establishment of the Fatmawati Jakarta Hospital Public Corporation",
+   "vi": "Luật về Việc Thành lập Doanh nghiệp Công ích Bệnh viện Fatmawati Jakarta",
+   "th": "พระราชบัญญัติว่าด้วยการจัดตั้งรัฐวิสาหกิจโรงพยาบาลฟัตมาวาตีจาการ์ตา",
+   "ms": "Akta tentang Penubuhan Perbadanan Awam Hospital Fatmawati Jakarta"
+  },
+  "ID-H1244": {
+   "zh": "设立登巴萨桑格拉医院公营公司法",
+   "en": "Law on the Establishment of the Sanglah Denpasar Hospital Public Corporation",
+   "vi": "Luật về Việc Thành lập Doanh nghiệp Công ích Bệnh viện Sanglah Denpasar",
+   "th": "พระราชบัญญัติว่าด้วยการจัดตั้งรัฐวิสาหกิจโรงพยาบาลสังลาห์เดนปาซาร์",
+   "ms": "Akta tentang Penubuhan Perbadanan Awam Hospital Sanglah Denpasar"
+  },
+  "ID-H1530": {
+   "zh": "刑事事项互助法",
+   "en": "Law on Mutual Assistance in Criminal Matters",
+   "vi": "Luật về Tương trợ Tư pháp trong các Vấn đề Hình sự",
+   "th": "พระราชบัญญัติว่าด้วยความช่วยเหลือซึ่งกันและกันในเรื่องอาญา",
+   "ms": "Akta tentang Bantuan Timbal Balik dalam Perkara Jenayah"
+  },
+  "ID-H3135": {
+   "zh": "节能法",
+   "en": "Law on Energy Conservation",
+   "vi": "Luật về Bảo tồn Năng lượng",
+   "th": "พระราชบัญญัติว่าด้วยการอนุรักษ์พลังงาน",
+   "ms": "Akta tentang Pemuliharaan Tenaga"
+  },
+  "ID-H1839": {
+   "zh": "节能法",
+   "en": "Law on Energy Conservation",
+   "vi": "Luật về Bảo tồn Năng lượng",
+   "th": "พระราชบัญญัติว่าด้วยการอนุรักษ์พลังงาน",
+   "ms": "Akta tentang Pemuliharaan Tenaga"
+  },
+  "ID-H953": {
+   "zh": "船舶事故调查法",
+   "en": "Law on the Investigation of Ship Accidents",
+   "vi": "Luật về Điều tra Tai nạn Tàu biển",
+   "th": "พระราชบัญญัติว่าด้วยการสอบสวนอุบัติเหตุเรือ",
+   "ms": "Akta tentang Siasatan Kemalangan Kapal"
+  },
+  "ID-H1230": {
+   "zh": "设立印度尼西亚共和国电视台公营公司法",
+   "en": "Law on the Establishment of the Public Corporation of Televisi Republik Indonesia",
+   "vi": "Luật về Việc Thành lập Doanh nghiệp Công ích Đài Truyền hình Cộng hòa Indonesia",
+   "th": "พระราชบัญญัติว่าด้วยการจัดตั้งรัฐวิสาหกิจสถานีโทรทัศน์แห่งสาธารณรัฐอินโดนีเซีย",
+   "ms": "Akta tentang Penubuhan Perbadanan Awam Televisyen Republik Indonesia"
+  },
+  "ID-H1231": {
+   "zh": "设立印度尼西亚共和国广播电台公营公司法",
+   "en": "Law on the Establishment of the Public Corporation of Radio Republik Indonesia",
+   "vi": "Luật về Việc Thành lập Doanh nghiệp Công ích Đài Phát thanh Cộng hòa Indonesia",
+   "th": "พระราชบัญญัติว่าด้วยการจัดตั้งรัฐวิสาหกิจสถานีวิทยุแห่งสาธารณรัฐอินโดนีเซีย",
+   "ms": "Akta tentang Penubuhan Perbadanan Awam Radio Republik Indonesia"
+  },
+  "ID-H1295": {
+   "zh": "典当公营企业法",
+   "en": "Law on the Public Corporation (Perum) for Pawnbroking",
+   "vi": "Luật về Doanh nghiệp Công ích (Perum) Cầm đồ",
+   "th": "พระราชบัญญัติว่าด้วยรัฐวิสาหกิจ (Perum) การรับจำนำ",
+   "ms": "Akta tentang Perbadanan Awam (Perum) Pajak Gadai"
+  },
+  "ID-H2225": {
+   "zh": "交通事故调查法",
+   "en": "Law on the Investigation of Transportation Accidents",
+   "vi": "Luật về Điều tra Tai nạn Giao thông Vận tải",
+   "th": "พระราชบัญญัติว่าด้วยการสอบสวนอุบัติเหตุการขนส่ง",
+   "ms": "Akta tentang Siasatan Kemalangan Pengangkutan"
+  },
+  "ID-H298": {
+   "zh": "中央银行法",
+   "en": "Law on the Central Bank",
+   "vi": "Luật về Ngân hàng Trung ương",
+   "th": "พระราชบัญญัติว่าด้วยธนาคารกลาง",
+   "ms": "Akta tentang Bank Pusat"
+  },
+  "ID-H3139": {
+   "zh": "大陆架法",
+   "en": "Law on the Continental Shelf",
+   "vi": "Luật về Thềm Lục địa",
+   "th": "พระราชบัญญัติว่าด้วยไหล่ทวีป",
+   "ms": "Akta tentang Pelantar Benua"
+  },
+  "ID-H736": {
+   "zh": "签证、入境许可与移民许可法",
+   "en": "Law on Visa, Entry Permits and Immigration Permits",
+   "vi": "Luật về Thị thực, Giấy phép Nhập cảnh và Giấy phép Xuất nhập cảnh",
+   "th": "พระราชบัญญัติว่าด้วยวีซ่า การอนุญาตเข้าเมือง และการอนุญาตคนเข้าเมือง",
+   "ms": "Akta tentang Visa, Permit Masuk dan Permit Imigresen"
+  },
+  "ID-H2339": {
+   "zh": "生殖健康法",
+   "en": "Law on Reproductive Health",
+   "vi": "Luật về Sức khỏe Sinh sản",
+   "th": "พระราชบัญญัติว่าด้วยอนามัยการเจริญพันธุ์",
+   "ms": "Akta tentang Kesihatan Reproduktif"
+  },
+  "ID-H2530": {
+   "zh": "森林区域用途与功能变更程序法",
+   "en": "Law on Procedures for Changing the Designation and Function of Forest Areas",
+   "vi": "Luật về Thủ tục Thay đổi Mục đích và Chức năng Khu vực Rừng",
+   "th": "พระราชบัญญัติว่าด้วยขั้นตอนการเปลี่ยนแปลงการกำหนดประโยชน์และหน้าที่ของเขตป่า",
+   "ms": "Akta tentang Tatacara Perubahan Peruntukan dan Fungsi Kawasan Hutan"
+  },
+  "ID-H2028": {
+   "zh": "森林区域用途与功能变更程序法",
+   "en": "Law on Procedures for Changing the Designation and Function of Forest Areas",
+   "vi": "Luật về Thủ tục Thay đổi Mục đích và Chức năng Khu vực Rừng",
+   "th": "พระราชบัญญัติว่าด้วยขั้นตอนการเปลี่ยนแปลงการกำหนดประโยชน์และหน้าที่ของเขตป่า",
+   "ms": "Akta tentang Tatacara Perubahan Peruntukan dan Fungsi Kawasan Hutan"
+  },
+  "ID-H2566": {
+   "zh": "金融体系危机预防与处置法",
+   "en": "Law on the Prevention and Handling of Financial System Crises",
+   "vi": "Luật về Phòng ngừa và Xử lý Khủng hoảng Hệ thống Tài chính",
+   "th": "พระราชบัญญัติว่าด้วยการป้องกันและแก้ไขวิกฤตระบบการเงิน",
+   "ms": "Akta tentang Pencegahan dan Pengendalian Krisis Sistem Kewangan"
+  },
+  "ID-H2758": {
+   "zh": "遥感活动实施程序法",
+   "en": "Law on Procedures for the Conduct of Remote Sensing Activities",
+   "vi": "Luật về Thủ tục Tiến hành Hoạt động Viễn thám",
+   "th": "พระราชบัญญัติว่าด้วยขั้นตอนการดำเนินกิจกรรมการสำรวจระยะไกล",
+   "ms": "Akta tentang Tatacara Pelaksanaan Aktiviti Penderiaan Jauh"
+  },
+  "ID-H1845": {
+   "zh": "商品和/或服务监管规定与程序法",
+   "en": "Law on the Provisions and Procedures for the Supervision of Goods and/or Services",
+   "vi": "Luật về Quy định và Thủ tục Giám sát Hàng hóa và/hoặc Dịch vụ",
+   "th": "พระราชบัญญัติว่าด้วยข้อกำหนดและขั้นตอนการกำกับดูแลสินค้าและ/หรือบริการ",
+   "ms": "Akta tentang Peruntukan dan Tatacara Pengawasan Barang dan/atau Perkhidmatan"
+  },
+  "ID-H1028": {
+   "zh": "禁止垄断行为与竞争法",
+   "en": "Law on the Prohibition of Monopolistic Practices and Competition",
+   "vi": "Luật về Cấm Hành vi Độc quyền và Cạnh tranh",
+   "th": "พระราชบัญญัติว่าด้วยการห้ามการปฏิบัติอันเป็นการผูกขาดและการแข่งขัน",
+   "ms": "Akta tentang Larangan Amalan Monopoli dan Persaingan"
+  },
+  "ID-H2049": {
+   "zh": "血液服务法",
+   "en": "Law on Blood Services",
+   "vi": "Luật về Dịch vụ Máu",
+   "th": "พระราชบัญญัติว่าด้วยบริการโลหิต",
+   "ms": "Akta tentang Perkhidmatan Darah"
+  },
+  "ID-H2735": {
+   "zh": "流通商品和/或服务监管法",
+   "en": "Law on the Supervision of Circulated Goods and/or Services",
+   "vi": "Luật về Giám sát Hàng hóa Lưu thông và/hoặc Dịch vụ",
+   "th": "พระราชบัญญัติว่าด้วยการกำกับดูแลสินค้าที่หมุนเวียนและ/หรือบริการ",
+   "ms": "Akta tentang Pengawasan Barang Edaran dan/atau Perkhidmatan"
+  },
+  "ID-H1259": {
+   "zh": "人权法院法",
+   "en": "Law on the Human Rights Court",
+   "vi": "Luật về Tòa án Nhân quyền",
+   "th": "พระราชบัญญัติว่าด้วยศาลสิทธิมนุษยชน",
+   "ms": "Akta tentang Mahkamah Hak Asasi Manusia"
+  },
+  "ID-H1613": {
+   "zh": "地方机构组织法",
+   "en": "Law on the Organisation of Regional Apparatus",
+   "vi": "Luật về Tổ chức Bộ máy Địa phương",
+   "th": "พระราชบัญญัติว่าด้วยการจัดองค์กรของหน่วยงานส่วนท้องถิ่น",
+   "ms": "Akta tentang Organisasi Perangkat Daerah"
+  },
+  "ID-H137": {
+   "zh": "合作社团体法",
+   "en": "Law on Cooperative Associations",
+   "vi": "Luật về Hiệp hội Hợp tác xã",
+   "th": "พระราชบัญญัติว่าด้วยสมาคมสหกรณ์",
+   "ms": "Akta tentang Persatuan Koperasi"
+  },
+  "ID-H2039": {
+   "zh": "国家情报法",
+   "en": "Law on State Intelligence",
+   "vi": "Luật về Tình báo Quốc gia",
+   "th": "พระราชบัญญัติว่าด้วยข่าวกรองแห่งชาติ",
+   "ms": "Akta tentang Risikan Negara"
+  },
+  "ID-H3314": {
+   "zh": "环境保护与管理规划法",
+   "en": "Law on Planning for Environmental Protection and Management",
+   "vi": "Luật về Quy hoạch Bảo vệ và Quản lý Môi trường",
+   "th": "พระราชบัญญัติว่าด้วยการวางแผนการคุ้มครองและการจัดการสิ่งแวดล้อม",
+   "ms": "Akta tentang Perancangan Perlindungan dan Pengurusan Alam Sekitar"
+  },
+  "ID-H749": {
+   "zh": "植物种子繁育法",
+   "en": "Law on Plant Seed Breeding",
+   "vi": "Luật về Sản xuất Giống Cây trồng",
+   "th": "พระราชบัญญัติว่าด้วยการผลิตเมล็ดพันธุ์พืช",
+   "ms": "Akta tentang Pembenihan Tanaman"
+  },
+  "ID-H1261": {
+   "zh": "地方财政管理与问责法",
+   "en": "Law on Regional Financial Management and Accountability",
+   "vi": "Luật về Quản lý và Trách nhiệm Giải trình Tài chính Địa phương",
+   "th": "พระราชบัญญัติว่าด้วยการจัดการและการตรวจสอบรับผิดชอบทางการเงินของท้องถิ่น",
+   "ms": "Akta tentang Pengurusan dan Akauntabiliti Kewangan Daerah"
+  },
+  "ID-H1408": {
+   "zh": "建筑物法",
+   "en": "Law on Buildings",
+   "vi": "Luật về Công trình Xây dựng",
+   "th": "พระราชบัญญัติว่าด้วยอาคาร",
+   "ms": "Akta tentang Bangunan"
+  },
+  "ID-H2018": {
+   "zh": "复垦与矿山关闭后治理法",
+   "en": "Law on Reclamation and Post-Mining",
+   "vi": "Luật về Cải tạo và Hậu Khai thác Mỏ",
+   "th": "พระราชบัญญัติว่าด้วยการบุกเบิกและการฟื้นฟูหลังการทำเหมือง",
+   "ms": "Akta tentang Penambakan dan Pasca Perlombongan"
+  },
+  "ID-H2341": {
+   "zh": "电影审查机构法",
+   "en": "Law on the Film Censorship Board",
+   "vi": "Luật về Cơ quan Kiểm duyệt Phim",
+   "th": "พระราชบัญญัติว่าด้วยคณะกรรมการตรวจพิจารณาภาพยนตร์",
+   "ms": "Akta tentang Lembaga Penapisan Filem"
+  },
+  "ID-H682": {
+   "zh": "电影审查机构法",
+   "en": "Law on the Film Censorship Board",
+   "vi": "Luật về Cơ quan Kiểm duyệt Phim",
+   "th": "พระราชบัญญัติว่าด้วยคณะกรรมการตรวจพิจารณาภาพยนตร์",
+   "ms": "Akta tentang Lembaga Penapisan Filem"
+  },
+  "ID-H739": {
+   "zh": "航空运输法",
+   "en": "Law on Air Transport",
+   "vi": "Luật về Vận tải Hàng không",
+   "th": "พระราชบัญญัติว่าด้วยการขนส่งทางอากาศ",
+   "ms": "Akta tentang Pengangkutan Udara"
+  }
+ }
+}

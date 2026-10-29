@@ -1,0 +1,488 @@
+{
+  "_note": "MY 附属法规主体术语 · add26（主干法主体 1-70，跳过解析残留 57）",
+  "heads": {
+    "DOUBLE TAXATION RELIEF": {
+      "zh": "双重征税宽免",
+      "vi": "Giảm trừ thuế hai lần",
+      "th": "การบรรเทาการเก็บภาษีซ้ำซ้อน",
+      "id": "Keringanan Pajak Berganda",
+      "ms": "Pelepasan Cukai Dua Kali"
+    },
+    "EMERGENCY": {
+      "zh": "紧急状态",
+      "vi": "Tình trạng khẩn cấp",
+      "th": "ภาวะฉุกเฉิน",
+      "id": "Keadaan Darurat",
+      "ms": "Darurat"
+    },
+    "ENVIRONMENTAL QUALITY": {
+      "zh": "环境质量",
+      "vi": "Chất lượng môi trường",
+      "th": "คุณภาพสิ่งแวดล้อม",
+      "id": "Mutu Lingkungan",
+      "ms": "Kualiti Alam Sekitar"
+    },
+    "WORKMEN’S COMPENSATION": {
+      "zh": "工人赔偿",
+      "vi": "Bồi thường cho người lao động",
+      "th": "การชดเชยแรงงาน",
+      "id": "Kompensasi Pekerja",
+      "ms": "Pampasan Pekerja"
+    },
+    "CONSUMER PROTECTION": {
+      "zh": "消费者保护",
+      "vi": "Bảo vệ người tiêu dùng",
+      "th": "การคุ้มครองผู้บริโภค",
+      "id": "Perlindungan Konsumen",
+      "ms": "Perlindungan Pengguna"
+    },
+    "PROMOTION OF INVESTMENTS": {
+      "zh": "投资促进",
+      "vi": "Xúc tiến đầu tư",
+      "th": "การส่งเสริมการลงทุน",
+      "id": "Promosi Investasi",
+      "ms": "Penggalakan Pelaburan"
+    },
+    "MALAY RESERVATIONS": {
+      "zh": "马来保留地",
+      "vi": "Đất dành riêng cho người Mã Lai",
+      "th": "ที่ดินสงวนสำหรับชาวมลายู",
+      "id": "Tanah Simpanan Melayu",
+      "ms": "Rizab Melayu"
+    },
+    "EDUCATIONAL INSTITUTIONS": {
+      "zh": "教育机构",
+      "vi": "Các cơ sở giáo dục",
+      "th": "สถานศึกษา",
+      "id": "Institusi Pendidikan",
+      "ms": "Institusi Pendidikan"
+    },
+    "MEMBERS OF PARLIAMENT": {
+      "zh": "国会议员",
+      "vi": "Các nghị sĩ",
+      "th": "สมาชิกรัฐสภา",
+      "id": "Anggota Parlemen",
+      "ms": "Ahli Parlimen"
+    },
+    "OCCUPATIONAL SAFETY AND HEALTH": {
+      "zh": "职业安全与健康",
+      "vi": "An toàn và Sức khỏe Nghề nghiệp",
+      "th": "ความปลอดภัยและอาชีวอนามัย",
+      "id": "Keselamatan dan Kesehatan Kerja",
+      "ms": "Keselamatan dan Kesihatan Pekerjaan"
+    },
+    "STATUTORY BODIES": {
+      "zh": "法定机构",
+      "vi": "Các cơ quan theo luật định",
+      "th": "องค์กรตามกฎหมาย",
+      "id": "Badan-Badan Berkanun",
+      "ms": "Badan-Badan Berkanun"
+    },
+    "FEDERAL CONSTITUTION": {
+      "zh": "联邦宪法",
+      "vi": "Hiến pháp Liên bang",
+      "th": "รัฐธรรมนูญสหพันธ์",
+      "id": "Konstitusi Federal",
+      "ms": "Perlembagaan Persekutuan"
+    },
+    "TEMPORARY MEASURES FOR REDUCING THE IMPACT OF CORONAVIRUS DISEASE 2019": {
+      "zh": "减轻2019冠状病毒病影响的临时措施",
+      "vi": "Các biện pháp tạm thời nhằm giảm tác động của bệnh do vi-rút Corona 2019",
+      "th": "มาตรการชั่วคราวเพื่อลดผลกระทบของโรคติดเชื้อไวรัสโคโรนา 2019",
+      "id": "Tindakan Sementara untuk Mengurangi Dampak Penyakit Coronavirus 2019",
+      "ms": "Langkah Sementara untuk Mengurangkan Kesan Penyakit Koronavirus 2019"
+    },
+    "PORTS": {
+      "zh": "港口",
+      "vi": "Các cảng",
+      "th": "ท่าเรือ",
+      "id": "Pelabuhan-Pelabuhan",
+      "ms": "Pelabuhan-Pelabuhan"
+    },
+    "INCORPORATION": {
+      "zh": "注册成立",
+      "vi": "Thành lập",
+      "th": "การจดทะเบียนจัดตั้ง",
+      "id": "Pendirian Badan Hukum",
+      "ms": "Perbadanan"
+    },
+    "ESSENTIAL": {
+      "zh": "必需品",
+      "vi": "Hàng hóa thiết yếu",
+      "th": "สิ่งของจำเป็น",
+      "id": "Barang Pokok",
+      "ms": "Barang Perlu"
+    },
+    "MERCHANT SHIPPING": {
+      "zh": "商船",
+      "vi": "Tàu buôn",
+      "th": "เรือพาณิชย์",
+      "id": "Pelayaran Niaga",
+      "ms": "Perkapalan Saudagar"
+    },
+    "ANTI-TRAFFICKING IN PERSONS AND ANTI-SMUGGLING OF MIGRANTS": {
+      "zh": "反人口贩运与反偷运移民",
+      "vi": "Chống buôn bán người và chống đưa người di cư trái phép",
+      "th": "การต่อต้านการค้ามนุษย์และการต่อต้านการลักลอบขนผู้อพยพ",
+      "id": "Antiperdagangan Orang dan Antipenyelundupan Migran",
+      "ms": "Anti Pemerdagangan Orang dan Anti Penyeludupan Migran"
+    },
+    "LAW REFORM": {
+      "zh": "法律改革",
+      "vi": "Cải cách pháp luật",
+      "th": "การปฏิรูปกฎหมาย",
+      "id": "Reformasi Hukum",
+      "ms": "Pembaharuan Undang-Undang"
+    },
+    "LOANS": {
+      "zh": "贷款",
+      "vi": "Các khoản vay",
+      "th": "เงินกู้",
+      "id": "Pinjaman-Pinjaman",
+      "ms": "Pinjaman-Pinjaman"
+    },
+    "LOAN": {
+      "zh": "贷款",
+      "vi": "Khoản vay",
+      "th": "เงินกู้",
+      "id": "Pinjaman",
+      "ms": "Pinjaman"
+    },
+    "CONTROL OF PADI AND RICE": {
+      "zh": "稻谷与稻米管制",
+      "vi": "Kiểm soát lúa và gạo",
+      "th": "การควบคุมข้าวเปลือกและข้าวสาร",
+      "id": "Pengendalian Padi dan Beras",
+      "ms": "Kawalan Padi dan Beras"
+    },
+    "ISLAMIC FAMILY LAW": {
+      "zh": "伊斯兰家庭法",
+      "vi": "Luật Gia đình Hồi giáo",
+      "th": "กฎหมายครอบครัวอิสลาม",
+      "id": "Hukum Keluarga Islam",
+      "ms": "Undang-Undang Keluarga Islam"
+    },
+    "TRAFFIC SIGNS": {
+      "zh": "交通标志",
+      "vi": "Biển báo giao thông",
+      "th": "เครื่องหมายจราจร",
+      "id": "Rambu Lalu Lintas",
+      "ms": "Tanda Isyarat Lalu Lintas"
+    },
+    "STATE OF SARAWAK": {
+      "zh": "砂拉越州",
+      "vi": "Bang Sarawak",
+      "th": "รัฐซาราวัก",
+      "id": "Negara Bagian Sarawak",
+      "ms": "Negeri Sarawak"
+    },
+    "REGULAR FORCES": {
+      "zh": "正规军",
+      "vi": "Lực lượng thường trực",
+      "th": "กำลังรบประจำการ",
+      "id": "Pasukan Reguler",
+      "ms": "Angkatan Tetap"
+    },
+    "MAINTENANCE ORDERS": {
+      "zh": "赡养令",
+      "vi": "Các lệnh cấp dưỡng",
+      "th": "คำสั่งค่าอุปการะเลี้ยงดู",
+      "id": "Perintah Nafkah",
+      "ms": "Perintah Nafkah"
+    },
+    "MODIFICATION OF LAWS": {
+      "zh": "法律的修改",
+      "vi": "Sửa đổi các luật",
+      "th": "การปรับปรุงกฎหมาย",
+      "id": "Modifikasi Undang-Undang",
+      "ms": "Pengubahsuaian Undang-Undang"
+    },
+    "INTERNATIONAL MONETARY FUND": {
+      "zh": "国际货币基金组织",
+      "vi": "Quỹ Tiền tệ Quốc tế",
+      "th": "กองทุนการเงินระหว่างประเทศ",
+      "id": "Dana Moneter Internasional",
+      "ms": "Tabung Kewangan Antarabangsa"
+    },
+    "MALAYSIAN INSTITUTE OF ACCOUNTANTS": {
+      "zh": "马来西亚会计师协会",
+      "vi": "Học viện Kế toán viên Malaysia",
+      "th": "สถาบันนักบัญชีมาเลเซีย",
+      "id": "Institut Akuntan Malaysia",
+      "ms": "Institut Akauntan Malaysia"
+    },
+    "UNIVERSITI TEKNOLOGI MALAYSIA": {
+      "zh": "马来西亚理工大学",
+      "vi": "Đại học Công nghệ Malaysia",
+      "th": "มหาวิทยาลัยเทคโนโลยีมาเลเซีย",
+      "id": "Universitas Teknologi Malaysia",
+      "ms": "Universiti Teknologi Malaysia"
+    },
+    "WORKMEN'S COMPENSATION": {
+      "zh": "工人赔偿",
+      "vi": "Bồi thường cho người lao động",
+      "th": "การชดเชยแรงงาน",
+      "id": "Kompensasi Pekerja",
+      "ms": "Pampasan Pekerja"
+    },
+    "SMALL ESTATES": {
+      "zh": "小额遗产",
+      "vi": "Di sản nhỏ",
+      "th": "กองมรดกขนาดเล็ก",
+      "id": "Warisan Kecil",
+      "ms": "Harta Pusaka Kecil"
+    },
+    "STATE OF SABAH": {
+      "zh": "沙巴州",
+      "vi": "Bang Sabah",
+      "th": "รัฐซาบาห์",
+      "id": "Negara Bagian Sabah",
+      "ms": "Negeri Sabah"
+    },
+    "ABATTOIRS": {
+      "zh": "屠宰场",
+      "vi": "Lò mổ",
+      "th": "โรงฆ่าสัตว์",
+      "id": "Rumah Potong Hewan",
+      "ms": "Rumah Sembelih"
+    },
+    "BORNEO STATES": {
+      "zh": "婆罗洲各州",
+      "vi": "Các bang Borneo",
+      "th": "รัฐบอร์เนียว",
+      "id": "Negara-Negara Bagian Borneo",
+      "ms": "Negeri-Negeri Borneo"
+    },
+    "NETTING OF FINANCIAL AGREEMENTS": {
+      "zh": "金融协议净额结算",
+      "vi": "Bù trừ các hợp đồng tài chính",
+      "th": "การหักกลบสัญญาการเงิน",
+      "id": "Netting Perjanjian Keuangan",
+      "ms": "Netting Perjanjian Kewangan"
+    },
+    "GOODS VEHICLES": {
+      "zh": "货物车辆",
+      "vi": "Xe chở hàng",
+      "th": "รถบรรทุกสินค้า",
+      "id": "Kendaraan Barang",
+      "ms": "Kenderaan Barang"
+    },
+    "PUBLIC SERVICE VEHICLES": {
+      "zh": "公共服务车辆",
+      "vi": "Xe dịch vụ công cộng",
+      "th": "รถบริการสาธารณะ",
+      "id": "Kendaraan Angkutan Umum",
+      "ms": "Kenderaan Perkhidmatan Awam"
+    },
+    "C0-OPERATIVE SOCIETIES": {
+      "zh": "合作社",
+      "vi": "Các hợp tác xã",
+      "th": "สหกรณ์",
+      "id": "Koperasi-Koperasi",
+      "ms": "Koperasi-Koperasi"
+    },
+    "PETROLEUM AND ELECTRICITY": {
+      "zh": "石油与电力",
+      "vi": "Dầu khí và Điện lực",
+      "th": "ปิโตรเลียมและไฟฟ้า",
+      "id": "Petroleum dan Ketenagalistrikan",
+      "ms": "Petroleum dan Elektrik"
+    },
+    "EDUCATIONAL INSTITUTION": {
+      "zh": "教育机构",
+      "vi": "Cơ sở giáo dục",
+      "th": "สถานศึกษา",
+      "id": "Institusi Pendidikan",
+      "ms": "Institusi Pendidikan"
+    },
+    "MALAYSIAN CURRENCY": {
+      "zh": "马来西亚货币",
+      "vi": "Tiền tệ Malaysia",
+      "th": "สกุลเงินมาเลเซีย",
+      "id": "Mata Uang Malaysia",
+      "ms": "Mata Wang Malaysia"
+    },
+    "MALAYSIAN RED CROSS SOCIETY": {
+      "zh": "马来西亚红新月会",
+      "vi": "Hội Chữ thập Đỏ Malaysia",
+      "th": "สภากาชาดมาเลเซีย",
+      "id": "Perhimpunan Palang Merah Malaysia",
+      "ms": "Persatuan Bulan Sabit Merah Malaysia"
+    },
+    "TREASURY BILLS": {
+      "zh": "国库券",
+      "vi": "Tín phiếu kho bạc",
+      "th": "ตั๋วเงินคลัง",
+      "id": "Surat Perbendaharaan Negara",
+      "ms": "Bil Perbendaharaan"
+    },
+    "NATIONAL EMBLEMS": {
+      "zh": "国徽",
+      "vi": "Quốc huy",
+      "th": "ตราแผ่นดิน",
+      "id": "Lambang Negara",
+      "ms": "Lambang Negara"
+    },
+    "STATE GRANTS": {
+      "zh": "州拨款",
+      "vi": "Trợ cấp cho các bang",
+      "th": "เงินอุดหนุนแก่รัฐ",
+      "id": "Hibah kepada Negara Bagian",
+      "ms": "Geran Negeri"
+    },
+    "PEACEFUL ASSEMBLY": {
+      "zh": "和平集会",
+      "vi": "Tụ họp hòa bình",
+      "th": "การชุมนุมโดยสงบ",
+      "id": "Perkumpulan Damai",
+      "ms": "Perhimpunan Aman"
+    },
+    "TAKAFUL": {
+      "zh": "回教保险",
+      "vi": "Takaful",
+      "th": "ตะกาฟุล",
+      "id": "Takaful",
+      "ms": "Takaful"
+    },
+    "SOUTHEAST ASIAN MINISTERS OF EDUCATION ORGANIZATION": {
+      "zh": "东南亚教育部长组织",
+      "vi": "Tổ chức Bộ trưởng Giáo dục Đông Nam Á",
+      "th": "องค์การรัฐมนตรีศึกษาแห่งเอเชียตะวันออกเฉียงใต้",
+      "id": "Organisasi Menteri Pendidikan Asia Tenggara",
+      "ms": "Pertubuhan Menteri Pendidikan Asia Tenggara"
+    },
+    "DRUG DEPENDANTS": {
+      "zh": "药物依赖者",
+      "vi": "Người nghiện ma túy",
+      "th": "ผู้ติดยาเสพติด",
+      "id": "Pecandu Narkotika",
+      "ms": "Penagih Dadah"
+    },
+    "MEDICINES": {
+      "zh": "药品",
+      "vi": "Dược phẩm",
+      "th": "ยา",
+      "id": "Obat-Obatan",
+      "ms": "Ubat-Ubatan"
+    },
+    "IMMIGRATION AND PASSPORT": {
+      "zh": "移民与护照",
+      "vi": "Nhập cư và Hộ chiếu",
+      "th": "การตรวจคนเข้าเมืองและหนังสือเดินทาง",
+      "id": "Keimigrasian dan Paspor",
+      "ms": "Imigresen dan Pasport"
+    },
+    "NATIONAL DEFENCE FUND": {
+      "zh": "国防基金",
+      "vi": "Quỹ Quốc phòng",
+      "th": "กองทุนกลาโหม",
+      "id": "Dana Pertahanan Nasional",
+      "ms": "Kumpulan Wang Pertahanan Negara"
+    },
+    "NATIONAL SECURITY COUNCIL": {
+      "zh": "国家安全理事会",
+      "vi": "Hội đồng An ninh Quốc gia",
+      "th": "สภาความมั่นคงแห่งชาติ",
+      "id": "Dewan Keamanan Nasional",
+      "ms": "Majlis Keselamatan Negara"
+    },
+    "WOOD-BASED INDUSTRIES": {
+      "zh": "木材工业",
+      "vi": "Công nghiệp chế biến gỗ",
+      "th": "อุตสาหกรรมไม้",
+      "id": "Industri Berbasis Kayu",
+      "ms": "Industri Berasaskan Kayu"
+    },
+    "KEDAH AND PENANG": {
+      "zh": "吉打与槟城",
+      "vi": "Kedah và Penang",
+      "th": "เกดะห์และปีนัง",
+      "id": "Kedah dan Penang",
+      "ms": "Kedah dan Pulau Pinang"
+    },
+    "BANKERS' BOOKS": {
+      "zh": "银行账簿",
+      "vi": "Sổ sách ngân hàng",
+      "th": "สมุดบัญชีของธนาคาร",
+      "id": "Buku Bank",
+      "ms": "Buku Bank"
+    },
+    "FEDERAL ROADS ORDINANCE": {
+      "zh": "联邦道路条例",
+      "vi": "Pháp lệnh Đường Liên bang",
+      "th": "บัญญัติทางหลวงสหพันธ์",
+      "id": "Peraturan Jalan Federal",
+      "ms": "Ordinan Jalan Persekutuan"
+    },
+    "TIN INDUSTRY": {
+      "zh": "锡业",
+      "vi": "Công nghiệp thiếc",
+      "th": "อุตสาหกรรมดีบุก",
+      "id": "Industri Timah",
+      "ms": "Industri Bijih Timah"
+    },
+    "SYARIAH COURTS": {
+      "zh": "伊斯兰法庭",
+      "vi": "Các tòa án Syariah",
+      "th": "ศาลชะรีอะฮ์",
+      "id": "Pengadilan Syariah",
+      "ms": "Mahkamah Syariah"
+    },
+    "FILMS": {
+      "zh": "影片",
+      "vi": "Phim",
+      "th": "ภาพยนตร์",
+      "id": "Film",
+      "ms": "Filem"
+    },
+    "SECURITY OFFENCES": {
+      "zh": "安全罪行",
+      "vi": "Các tội xâm phạm an ninh",
+      "th": "ความผิดด้านความมั่นคง",
+      "id": "Pelanggaran Keamanan",
+      "ms": "Kesalahan Keselamatan"
+    },
+    "YANG DI-PERTUAN AGONG": {
+      "zh": "最高元首",
+      "vi": "Quốc vương Tối cao",
+      "th": "ยังดีเปอร์ตวนอากง",
+      "id": "Yang di-Pertuan Agong",
+      "ms": "Yang di-Pertuan Agong"
+    },
+    "TIMBALAN YANG DI-PERTUAN AGONG": {
+      "zh": "副最高元首",
+      "vi": "Phó Quốc vương Tối cao",
+      "th": "ติมบาลันยังดีเปอร์ตวนอากง",
+      "id": "Wakil Yang di-Pertuan Agong",
+      "ms": "Timbalan Yang di-Pertuan Agong"
+    },
+    "FIREARMS": {
+      "zh": "枪械",
+      "vi": "Súng",
+      "th": "อาวุธปืน",
+      "id": "Senjata Api",
+      "ms": "Senjata Api"
+    },
+    "PUBLIC AUTHORITIES": {
+      "zh": "公共机构",
+      "vi": "Các cơ quan công quyền",
+      "th": "หน่วยงานรัฐ",
+      "id": "Otoritas Publik",
+      "ms": "Pihak Berkuasa Awam"
+    },
+    "ATTESTATION OF REGISTRABLE INSTRUMENTS": {
+      "zh": "可登记文书的认证",
+      "vi": "Chứng thực các văn bản có thể đăng ký",
+      "th": "การรับรองตราสารที่จดทะเบียนได้",
+      "id": "Pengesahan Akta yang Dapat Didaftarkan",
+      "ms": "Pembuktiandirian Surat Ikatan Boleh Daftar"
+    },
+    "FEDERAL TERRITORY OF KUALA LUMPUR": {
+      "zh": "吉隆坡联邦直辖区",
+      "vi": "Lãnh thổ Liên bang Kuala Lumpur",
+      "th": "เขตปกครองสหพันธ์กัวลาลัมเปอร์",
+      "id": "Wilayah Persekutuan Kuala Lumpur",
+      "ms": "Wilayah Persekutuan Kuala Lumpur"
+    }
+  }
+}

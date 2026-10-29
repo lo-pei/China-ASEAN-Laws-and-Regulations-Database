@@ -1,0 +1,985 @@
+{
+ "_note": "MY 括号限定语 · add3（当前唯一缺括号 Top140，长尾 1:1 产出）",
+ "brackets": {
+  "REMISSION OF FEES": {
+   "zh": "费用免除",
+   "vi": "Miễn giảm phí",
+   "th": "การงดเว้นค่าธรรมเนียม",
+   "id": "Pembebasan Biaya",
+   "ms": "Remisi Fi"
+  },
+  "CESS": {
+   "zh": "附加征费",
+   "vi": "Thuế bổ sung",
+   "th": "ภาษีส่วนเพิ่ม",
+   "id": "Pungutan Tambahan",
+   "ms": "Cukai Tambahan"
+  },
+  "AMENDMENT OF SCHEDULE 1": {
+   "zh": "附表1修正",
+   "vi": "Sửa đổi Phụ lục 1",
+   "th": "การแก้ไขตารางที่ 1",
+   "id": "Perubahan Lampiran 1",
+   "ms": "Pindaan Jadual 1"
+  },
+  "ASSUMPTION OF CONTROL OF KOPERASI SERBAUSAHA MAKMUR BERHAD": {
+   "zh": "接管 SERBAUSAHA MAKMUR 合作社（KOPERASI SERBAUSAHA MAKMUR BERHAD）",
+   "vi": "Tiếp nhận kiểm soát KOPERASI SERBAUSAHA MAKMUR BERHAD",
+   "th": "การเข้าควบคุม KOPERASI SERBAUSAHA MAKMUR BERHAD",
+   "id": "Pengambilalihan Pengendalian KOPERASI SERBAUSAHA MAKMUR BERHAD",
+   "ms": "Pengambilalihan Kawalan KOPERASI SERBAUSAHA MAKMUR BERHAD"
+  },
+  "ASSUMPTION OF CONTROL OF KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD": {
+   "zh": "接管柔佛南部小园主合作社（KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD）",
+   "vi": "Tiếp nhận kiểm soát KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD",
+   "th": "การเข้าควบคุม KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD",
+   "id": "Pengambilalihan Pengendalian KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD",
+   "ms": "Pengambilalihan Kawalan KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD"
+  },
+  "DISSOLUTION": {
+   "zh": "解散",
+   "vi": "Giải thể",
+   "th": "การเลิก",
+   "id": "Pembubaran",
+   "ms": "Pembubaran"
+  },
+  "LOWEST PENSION": {
+   "zh": "最低养老金",
+   "vi": "Lương hưu thấp nhất",
+   "th": "เงินบำนาญต่ำสุด",
+   "id": "Pensiun Terendah",
+   "ms": "Pencen Terendah"
+  },
+  "VALIDATION": {
+   "zh": "追认",
+   "vi": "Sự xác nhận hiệu lực",
+   "th": "การรับรอง",
+   "id": "Pengesahan",
+   "ms": "Pengesahan"
+  },
+  "LICENSING AND PERMIT": {
+   "zh": "发牌与许可证",
+   "vi": "Cấp phép và giấy phép",
+   "th": "การออกใบอนุญาต",
+   "id": "Perizinan dan Izin",
+   "ms": "Pelesenan dan Permit"
+  },
+  "BANK PERTANIAN MALAYSIA": {
+   "zh": "马来西亚农业银行",
+   "vi": "Ngân hàng Nông nghiệp Malaysia",
+   "th": "ธนาคารเกษตรมาเลเซีย",
+   "id": "Bank Pertanian Malaysia",
+   "ms": "Bank Pertanian Malaysia"
+  },
+  "BANK KERJASAMA RAKYAT MALAYSIA BERHAD": {
+   "zh": "马来西亚人民银行",
+   "vi": "Bank Kerjasama Rakyat Malaysia Berhad",
+   "th": "ธนาคารเคร็จาซามารายัตมาเลเซีย",
+   "id": "Bank Kerjasama Rakyat Malaysia Berhad",
+   "ms": "Bank Kerjasama Rakyat Malaysia Berhad"
+  },
+  "DEPOSITS AND WITHDRAWALS": {
+   "zh": "存款与提款",
+   "vi": "Tiền gửi và rút tiền",
+   "th": "เงินฝากและการถอน",
+   "id": "Simpanan dan Penarikan",
+   "ms": "Deposit dan Pengeluaran"
+  },
+  "SCALE OF CHARGES": {
+   "zh": "收费表",
+   "vi": "Biểu phí",
+   "th": "ตารางค่าบริการ",
+   "id": "Skala Biaya",
+   "ms": "Skala Caj"
+  },
+  "MONEY-CHANGING BUSINESS": {
+   "zh": "货币兑换业务",
+   "vi": "Nghiệp vụ đổi tiền",
+   "th": "ธุรกิจแลกเปลี่ยนเงิน",
+   "id": "Usaha Penukaran Valuta",
+   "ms": "Perniagaan Penukaran Wang"
+  },
+  "WHOLESALE CURRENCY BUSINESS": {
+   "zh": "批发货币业务",
+   "vi": "Nghiệp vụ tiền tệ bán buôn",
+   "th": "ธุรกิจเงินตราขายส่ง",
+   "id": "Usaha Valuta Grosir",
+   "ms": "Perniagaan Mata Wang Borong"
+  },
+  "FULL PAYING PATIENT": {
+   "zh": "全额付费病人",
+   "vi": "Bệnh nhân tự trả toàn bộ",
+   "th": "ผู้ป่วยชำระเต็มจำนวน",
+   "id": "Pasien Bayar Penuh",
+   "ms": "Pesakit Bayar Penuh"
+  },
+  "TYPE OF COMMUNITY SERVICE AND MANNER OF SUPERVISION OF PERFORMANCE OF COMMUNITY SERVICE": {
+   "zh": "社区服务类型与社区服务执行的监督方式",
+   "vi": "Loại hình phục vụ cộng đồng và cách thức giám sát việc thực hiện phục vụ cộng đồng",
+   "th": "ประเภทงานบริการสังคมและวิธีการกำกับดูแลการปฏิบัติงานบริการสังคม",
+   "id": "Jenis Pelayanan Masyarakat dan Cara Pengawasan Pelaksanaan Pelayanan Masyarakat",
+   "ms": "Jenis Perkhidmatan Masyarakat dan Cara Penyeliaan Pelaksanaan Perkhidmatan Masyarakat"
+  },
+  "CENTRAL DEPOSITORIES": {
+   "zh": "中央存管机构",
+   "vi": "Các tổ chức lưu ký trung tâm",
+   "th": "ศูนย์รับฝากหลักทรัพย์",
+   "id": "Lembaga Penyimpanan Sentral",
+   "ms": "Depositori Pusat"
+  },
+  "EMPLOYMENT OF CHILDREN AND YOUNG PERSONS": {
+   "zh": "儿童与青少年的雇用",
+   "vi": "Việc sử dụng lao động trẻ em và người trẻ",
+   "th": "การจ้างเด็กและเยาวชน",
+   "id": "Pekerjaan Anak dan Orang Muda",
+   "ms": "Penggajian Kanak-Kanak dan Orang Muda"
+  },
+  "ASYLUM SEEKERS": {
+   "zh": "寻求庇护者",
+   "vi": "Người xin tị nạn",
+   "th": "ผู้ขอลี้ภัย",
+   "id": "Pencari Suaka",
+   "ms": "Pencari Suaka"
+  },
+  "ASSUMPTION OF CONTROL OF KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD": {
+   "zh": "接管 ANGKASA 回教融资合作社（KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD）",
+   "vi": "Tiếp nhận kiểm soát KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD",
+   "th": "การเข้าควบคุม KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD",
+   "id": "Pengambilalihan Pengendalian KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD",
+   "ms": "Pengambilalihan Kawalan KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD"
+  },
+  "PART-TIME EMPLOYEES": {
+   "zh": "兼职雇员",
+   "vi": "Người lao động bán thời gian",
+   "th": "ลูกจ้างพาร์ทไทม์",
+   "id": "Karyawan Paruh Waktu",
+   "ms": "Pekerja Sambilan"
+  },
+  "APPOINTMENT AND REVOCATION OF APPOINTMENT": {
+   "zh": "委任与撤销委任",
+   "vi": "Bổ nhiệm và bãi bỏ bổ nhiệm",
+   "th": "การแต่งตั้งและการเพิกถอนการแต่งตั้ง",
+   "id": "Pengangkatan dan Pencabutan Pengangkatan",
+   "ms": "Pelantikan dan Pembatalan Pelantikan"
+  },
+  "REGISTRATION AND LICENSING OF GAMING MACHINES": {
+   "zh": "博彩机登记与发牌",
+   "vi": "Đăng ký và cấp phép máy trò chơi",
+   "th": "การขึ้นทะเบียนและการออกใบอนุญาตเครื่องเล่นเกม",
+   "id": "Registrasi dan Perizinan Mesin Permainan",
+   "ms": "Pendaftaran dan Pelesenan Mesin Perjudian"
+  },
+  "DECLARATION": {
+   "zh": "宣告",
+   "vi": "Tuyên bố",
+   "th": "การประกาศ",
+   "id": "Deklarasi",
+   "ms": "Pengisytiharan"
+  },
+  "AUDIT OVERSIGHT BOARD": {
+   "zh": "审计监督委员会",
+   "vi": "Ủy ban Giám sát Kiểm toán",
+   "th": "คณะกรรมการกำกับดูแลการตรวจสอบ",
+   "id": "Dewan Pengawas Audit",
+   "ms": "Lembaga Pengawasan Audit"
+  },
+  "REPEAL": {
+   "zh": "废止",
+   "vi": "Bãi bỏ",
+   "th": "การยกเลิก",
+   "id": "Pencabutan",
+   "ms": "Pemansuhan"
+  },
+  "LICENCE TO EMPLOY NON-RESIDENT EMPLOYEE": {
+   "zh": "雇用非居民雇员许可证",
+   "vi": "Giấy phép sử dụng lao động không cư trú",
+   "th": "ใบอนุญาตจ้างลูกจ้างที่ไม่มีถิ่นพำนัก",
+   "id": "Izin Mempekerjakan Karyawan Non-Residen",
+   "ms": "Lesen Menggaji Pekerja Bukan Pemastautin"
+  },
+  "TENDERS AND CONTRACTS": {
+   "zh": "招标与合同",
+   "vi": "Đấu thầu và hợp đồng",
+   "th": "การประมูลและสัญญา",
+   "id": "Tender dan Kontrak",
+   "ms": "Tender dan Kontrak"
+  },
+  "REGISTRATION REQUIREMENTS": {
+   "zh": "登记要求",
+   "vi": "Yêu cầu đăng ký",
+   "th": "ข้อกำหนดการขึ้นทะเบียน",
+   "id": "Persyaratan Registrasi",
+   "ms": "Keperluan Pendaftaran"
+  },
+  "JOHOR CORPORATION": {
+   "zh": "柔佛机构",
+   "vi": "Tổng công ty Johor",
+   "th": "องค์การยะโฮร์",
+   "id": "Perusahaan Johor",
+   "ms": "Perbadanan Johor"
+  },
+  "EXEMPTION TO FPG OLEOCHEMICALS SDN. BHD., KUANTAN, PAHANG": {
+   "zh": "豁免 FPG OLEOCHEMICALS 私人有限公司（彭亨关丹）",
+   "vi": "Miễn trừ cho FPG OLEOCHEMICALS Sdn. Bhd., Kuantan, Pahang",
+   "th": "การยกเว้นให้ FPG OLEOCHEMICALS Sdn. Bhd., กวนตัน, ปะหัง",
+   "id": "Pembebasan bagi FPG OLEOCHEMICALS Sdn. Bhd., Kuantan, Pahang",
+   "ms": "Pengecualian kepada FPG OLEOCHEMICALS Sdn. Bhd., Kuantan, Pahang"
+  },
+  "BASIS OF ASCERTAINING THE AMOUNT OF REFUND FOR TAKAFUL CONTRIBUTION AND PREMIUM": {
+   "zh": "确定回教保险缴款与保费退还金额的依据",
+   "vi": "Căn cứ xác định số tiền hoàn trả khoản đóng góp và phí takaful",
+   "th": "เกณฑ์การกำหนดจำนวนเงินคืนสำหรับเงินสมทบและเบี้ยประกันตาคาฟุล",
+   "id": "Dasar Penetapan Jumlah Pengembalian Iuran dan Premi Takaful",
+   "ms": "Asas Penentuan Jumlah Bayaran Balik Caruman dan Premium Takaful"
+  },
+  "EXEMPTION TO PETRON MALAYSIA REFINING & MARKETING BERHAD, PORT DICKSON, NEGERI SEMBILAN": {
+   "zh": "豁免 PETRON MALAYSIA REFINING & MARKETING 有限公司（森美兰波德申）",
+   "vi": "Miễn trừ cho PETRON MALAYSIA REFINING & MARKETING Berhad, Port Dickson, Negeri Sembilan",
+   "th": "การยกเว้นให้ PETRON MALAYSIA REFINING & MARKETING Berhad, พอร์ตดิกสัน, เนอเกอรีเซิมบีลัน",
+   "id": "Pembebasan bagi PETRON MALAYSIA REFINING & MARKETING Berhad, Port Dickson, Negeri Sembilan",
+   "ms": "Pengecualian kepada PETRON MALAYSIA REFINING & MARKETING Berhad, Port Dickson, Negeri Sembilan"
+  },
+  "PAYMENT OF ANNUAL PREMIUM IN RESPECT OF DEPOSIT-TAKING MEMBERS": {
+   "zh": "收受存款会员年度保费缴纳",
+   "vi": "Nộp phí bảo hiểm hằng năm đối với thành viên nhận tiền gửi",
+   "th": "การชำระเบี้ยประกันรายปีสำหรับสมาชิกผู้รับเงินฝาก",
+   "id": "Pembayaran Premi Tahunan bagi Anggota Penghimpun Dana",
+   "ms": "Pembayaran Premium Tahunan bagi Anggota Pengambil Deposit"
+  },
+  "EXEMPTION TO PETRONAS GAS BERHAD FOR GAS PROCESSING PLANT 5, COMPLEX B, PAKA, TERENGGANU": {
+   "zh": "豁免 PETRONAS GAS 有限公司（登嘉楼巴卡 B 综合区第5天然气处理厂）",
+   "vi": "Miễn trừ cho PETRONAS GAS Berhad đối với Nhà máy Xử lý Khí 5, Khu phức hợp B, Paka, Terengganu",
+   "th": "การยกเว้นให้ PETRONAS GAS Berhad สำหรับโรงงานแปรรูปก๊าซ 5, ศูนย์รวม B, ปากา, ตรังกานู",
+   "id": "Pembebasan bagi PETRONAS GAS Berhad atas Pabrik Pengolahan Gas 5, Kompleks B, Paka, Terengganu",
+   "ms": "Pengecualian kepada PETRONAS GAS Berhad bagi Loji Pemprosesan Gas 5, Kompleks B, Paka, Terengganu"
+  },
+  "EXEMPTION TO PETRONAS GAS BERHAD, CENTRALISED UTILITY FACILITIES, KUANTAN, PAHANG": {
+   "zh": "豁免 PETRONAS GAS 有限公司（彭亨关丹集中公用设施）",
+   "vi": "Miễn trừ cho PETRONAS GAS Berhad, Cơ sở tiện ích tập trung, Kuantan, Pahang",
+   "th": "การยกเว้นให้ PETRONAS GAS Berhad, สาธารณูปโภคส่วนกลาง, กวนตัน, ปะหัง",
+   "id": "Pembebasan bagi PETRONAS GAS Berhad, Fasilitas Utilitas Terpusat, Kuantan, Pahang",
+   "ms": "Pengecualian kepada PETRONAS GAS Berhad, Kemudahan Utiliti Berpusat, Kuantan, Pahang"
+  },
+  "REGISTRATION OF ADOPTIONS ACT 1952": {
+   "zh": "《1952年收养登记法》",
+   "vi": "Luật Đăng ký Nuôi con nuôi 1952",
+   "th": "พระราชบัญญัติการขึ้นทะเบียนการรับบุตรบุญธรรม ค.ศ. 1952",
+   "id": "Undang-Undang Registrasi Adopsi 1952",
+   "ms": "Akta Pendaftaran Pengangkatan 1952"
+  },
+  "AMENDMENT OF SCHEDULES 2 AND 3": {
+   "zh": "附表2及3修正",
+   "vi": "Sửa đổi Phụ lục 2 và 3",
+   "th": "การแก้ไขตารางที่ 2 และ 3",
+   "id": "Perubahan Lampiran 2 dan 3",
+   "ms": "Pindaan Jadual 2 dan 3"
+  },
+  "PROVISION OF INFORMATION ON TAKAFUL AND INSURANCE BENEFITS PROTECTION": {
+   "zh": "提供回教保险与保险利益保障信息",
+   "vi": "Cung cấp thông tin về bảo vệ quyền lợi takaful và bảo hiểm",
+   "th": "การให้ข้อมูลเกี่ยวกับการคุ้มครองสิทธิประโยชน์ตาคาฟุลและการประกันภัย",
+   "id": "Penyediaan Informasi tentang Perlindungan Manfaat Takaful dan Asuransi",
+   "ms": "Peruntukan Maklumat tentang Perlindungan Faedah Takaful dan Insurans"
+  },
+  "OVERDUE CHARGES": {
+   "zh": "逾期收费",
+   "vi": "Phí quá hạn",
+   "th": "ค่าบริการค้างชำระ",
+   "id": "Biaya Terlambat",
+   "ms": "Caj Tertunggak"
+  },
+  "QUALIFICATIONS OF A FRANCHISE BROKER": {
+   "zh": "特许经营经纪资格",
+   "vi": "Điều kiện của nhà môi giới nhượng quyền",
+   "th": "คุณสมบัติของนายหน้าธุรกิจแฟรนไชส์",
+   "id": "Kualifikasi Pialang Waralaba",
+   "ms": "Kelayakan Broker Francais"
+  },
+  "EXEMPTION TO PETRONAS CHEMICALS GLYCOLS SDN. BHD., KERTIH, TERENGGANU": {
+   "zh": "豁免 PETRONAS CHEMICALS GLYCOLS 私人有限公司（登嘉楼吉利地）",
+   "vi": "Miễn trừ cho PETRONAS CHEMICALS GLYCOLS Sdn. Bhd., Kertih, Terengganu",
+   "th": "การยกเว้นให้ PETRONAS CHEMICALS GLYCOLS Sdn. Bhd., เกอติห์, ตรังกานู",
+   "id": "Pembebasan bagi PETRONAS CHEMICALS GLYCOLS Sdn. Bhd., Kertih, Terengganu",
+   "ms": "Pengecualian kepada PETRONAS CHEMICALS GLYCOLS Sdn. Bhd., Kertih, Terengganu"
+  },
+  "EXHIBITIONS": {
+   "zh": "展览",
+   "vi": "Triển lãm",
+   "th": "การจัดแสดงสินค้า",
+   "id": "Pameran",
+   "ms": "Pameran"
+  },
+  "PRESCRIBED FINANCIAL INSTITUTION": {
+   "zh": "订明金融机构",
+   "vi": "Tổ chức tài chính được quy định",
+   "th": "สถาบันการเงินที่กำหนด",
+   "id": "Lembaga Keuangan yang Ditetapkan",
+   "ms": "Institusi Kewangan yang Ditetapkan"
+  },
+  "PRESCRIPTION OF PERIOD OF EFFECTIVENESS OF REGISTRATION": {
+   "zh": "登记有效期的订明",
+   "vi": "Quy định thời hạn hiệu lực của đăng ký",
+   "th": "การกำหนดระยะเวลาการมีผลของการขึ้นทะเบียน",
+   "id": "Penetapan Masa Berlaku Registrasi",
+   "ms": "Penetapan Tempoh Keesahan Pendaftaran"
+  },
+  "AMENDMENT OF SIXTH SCHEDULE": {
+   "zh": "附表六修正",
+   "vi": "Sửa đổi Phụ lục thứ sáu",
+   "th": "การแก้ไขตารางที่หก",
+   "id": "Perubahan Lampiran Keenam",
+   "ms": "Pindaan Jadual Keenam"
+  },
+  "SELECTION PROCESS AND METHOD OF APPOINTMENT OF JUDGES OF THE SUPERIOR COURTS": {
+   "zh": "高级法院法官遴选程序与委任方法",
+   "vi": "Quy trình tuyển chọn và phương thức bổ nhiệm thẩm phán các tòa án cấp cao",
+   "th": "กระบวนการคัดเลือกและวิธีการแต่งตั้งผู้พิพากษาศาลชั้นสูง",
+   "id": "Proses Seleksi dan Metode Pengangkatan Hakim Pengadilan Tinggi",
+   "ms": "Proses Pemilihan dan Kaedah Pelantikan Hakim Mahkamah Atasan"
+  },
+  "SOCIAL SECURITY": {
+   "zh": "社会保障",
+   "vi": "An sinh xã hội",
+   "th": "ประกันสังคม",
+   "id": "Jaminan Sosial",
+   "ms": "Keselamatan Sosial"
+  },
+  "GIG WORKERS TRIBUNAL": {
+   "zh": "零工工作者审裁处",
+   "vi": "Tòa án Người lao động tự do",
+   "th": "คณะตุลาการผู้ทำงานอิสระ",
+   "id": "Tribunal Pekerja Gig",
+   "ms": "Tribunal Pekerja Gig"
+  },
+  "CONCILIATION PROCEEDINGS": {
+   "zh": "调解程序",
+   "vi": "Thủ tục hòa giải",
+   "th": "กระบวนการประนอมข้อพิพาท",
+   "id": "Proses Perdamaian",
+   "ms": "Prosiding Pendamaian"
+  },
+  "BANK SIMPANAN NASIONAL": {
+   "zh": "国家储蓄银行",
+   "vi": "Ngân hàng Tiết kiệm Quốc gia",
+   "th": "ธนาคารออมสินแห่งชาติ",
+   "id": "Bank Simpanan Nasional",
+   "ms": "Bank Simpanan Nasional"
+  },
+  "BANK INDUSTRI DAN TEKNOLOGI MALAYSIA BERHAD": {
+   "zh": "马来西亚工业与技术银行",
+   "vi": "Ngân hàng Industri dan Teknologi Malaysia Berhad",
+   "th": "ธนาคารอุตสาหกรรมและเทคโนโลยีมาเลเซีย",
+   "id": "Bank Industri dan Teknologi Malaysia Berhad",
+   "ms": "Bank Industri dan Teknologi Malaysia Berhad"
+  },
+  "LICENSING OF INTERNATIONAL PARTNERSHIPS AND QUALIFIED FOREIGN LAW FIRMS AND REGISTRATION OF FOREIGN LAWYERS": {
+   "zh": "国际合伙与合格外国律师事务所的发牌及外国律师的登记",
+   "vi": "Cấp phép hợp danh quốc tế và công ty luật nước ngoài đủ điều kiện, đăng ký luật sư nước ngoài",
+   "th": "การออกใบอนุญาตห้างหุ้นส่วนระหว่างประเทศและสำนักงานกฎหมายต่างชาติที่มีคุณสมบัติ และการขึ้นทะเบียนทนายความต่างชาติ",
+   "id": "Perizinan Persekutuan Internasional dan Kantor Hukum Asing Berkualifikasi serta Registrasi Advokat Asing",
+   "ms": "Pelesenan Perkongsian Antarabangsa dan Firma Guaman Asing Layak serta Pendaftaran Peguam Asing"
+  },
+  "VISA TO THE CITIZEN OF THE REPUBLIC OF MALDIVES": {
+   "zh": "马尔代夫共和国公民签证",
+   "vi": "Thị thực cho công dân Cộng hòa Maldives",
+   "th": "วีซ่าสำหรับพลเมืองสาธารณรัฐมัลดีฟส์",
+   "id": "Visa bagi Warga Negara Republik Maladewa",
+   "ms": "Visa kepada Warganegara Republik Maldives"
+  },
+  "DETERMINATION OF CHARGEABLE INCOME OF AN INDIVIDUAL IN RESPECT OF DIVIDEND": {
+   "zh": "个人股息应税收入核定",
+   "vi": "Xác định thu nhập chịu thuế của cá nhân đối với cổ tức",
+   "th": "การกำหนดรายได้ที่ต้องเสียภาษีของบุคคลธรรมดาในส่วนของเงินปันผล",
+   "id": "Penetapan Penghasilan Kena Pajak Orang Pribadi atas Dividen",
+   "ms": "Penentuan Pendapatan Bercukai Individu bagi Dividen"
+  },
+  "BANK PEMBANGUNAN DAN INFRASTRUKTUR MALAYSIA BERHAD": {
+   "zh": "马来西亚发展及基建银行",
+   "vi": "Ngân hàng Phát triển và Cơ sở hạ tầng Malaysia Berhad",
+   "th": "ธนาคารเพื่อการพัฒนาและโครงสร้างพื้นฐานมาเลเซีย",
+   "id": "Bank Pembangunan dan Infrastruktur Malaysia Berhad",
+   "ms": "Bank Pembangunan dan Infrastruktur Malaysia Berhad"
+  },
+  "PRESCRIBED DATES FOR ISLAMIC DEPOSITS": {
+   "zh": "伊斯兰存款的订明日期",
+   "vi": "Ngày quy định đối với tiền gửi Hồi giáo",
+   "th": "วันที่กำหนดสำหรับเงินฝากอิสลาม",
+   "id": "Tanggal yang Ditetapkan bagi Simpanan Syariah",
+   "ms": "Tarikh yang Ditetapkan bagi Deposit Islam"
+  },
+  "TEACHERS PROVIDENT FUND RULES 1962": {
+   "zh": "《1962年教师公积金规则》",
+   "vi": "Quy tắc Quỹ Tiết kiệm Giáo viên 1962",
+   "th": "ข้อบังคับกองทุนสำรองเลี้ยงชีพครู ค.ศ. 1962",
+   "id": "Peraturan Dana Simpanan Guru 1962",
+   "ms": "Kaedah Kumpulan Wang Simpanan Guru 1962"
+  },
+  "APPOINTMENT, PROMOTION AND TERMINATION OF SERVICE": {
+   "zh": "委任、晋升与终止服务",
+   "vi": "Bổ nhiệm, thăng chức và chấm dứt phục vụ",
+   "th": "การแต่งตั้ง การเลื่อนตำแหน่ง และการสิ้นสุดการปฏิบัติงาน",
+   "id": "Pengangkatan, Promosi dan Pemutusan Dinas",
+   "ms": "Pelantikan, Kenaikan Pangkat dan Penamatan Perkhidmatan"
+  },
+  "BUKIT KAYU HITAM FREE TAX ZONE": {
+   "zh": "黑木山免税区",
+   "vi": "Khu vực miễn thuế Bukit Kayu Hitam",
+   "th": "เขตปลอดภาษีบูกิตกายูฮิตัม",
+   "id": "Kawasan Bebas Pajak Bukit Kayu Hitam",
+   "ms": "Zon Bebas Cukai Bukit Kayu Hitam"
+  },
+  "OFFICIAL IDENTIFICATIONS CARD": {
+   "zh": "官方身份证明卡",
+   "vi": "Thẻ nhận dạng chính thức",
+   "th": "บัตรประจำตัวราชการ",
+   "id": "Kartu Identitas Resmi",
+   "ms": "Kad Pengenalan Rasmi"
+  },
+  "PRESCRIPTION OF PUBLIC BODY": {
+   "zh": "公共机构的订明",
+   "vi": "Quy định cơ quan công",
+   "th": "การกำหนดหน่วยงานมหาชน",
+   "id": "Penetapan Badan Publik",
+   "ms": "Penetapan Badan Awam"
+  },
+  "REGISTRATION BOARD": {
+   "zh": "登记局",
+   "vi": "Hội đồng đăng ký",
+   "th": "คณะกรรมการขึ้นทะเบียน",
+   "id": "Dewan Registrasi",
+   "ms": "Lembaga Pendaftaran"
+  },
+  "FINANCIAL PROCEDURE": {
+   "zh": "财务程序",
+   "vi": "Thủ tục tài chính",
+   "th": "ขั้นตอนทางการเงิน",
+   "id": "Prosedur Keuangan",
+   "ms": "Prosedur Kewangan"
+  },
+  "EXEMPTION TO BASF PETRONAS CHEMICALS SDN. BHD.": {
+   "zh": "豁免 BASF PETRONAS CHEMICALS 私人有限公司",
+   "vi": "Miễn trừ cho BASF PETRONAS CHEMICALS Sdn. Bhd.",
+   "th": "การยกเว้นให้ BASF PETRONAS CHEMICALS Sdn. Bhd.",
+   "id": "Pembebasan bagi BASF PETRONAS CHEMICALS Sdn. Bhd.",
+   "ms": "Pengecualian kepada BASF PETRONAS CHEMICALS Sdn. Bhd."
+  },
+  "CHANGE OF NAME AND INCORPORATION": {
+   "zh": "名称变更与注册成立",
+   "vi": "Thay đổi tên và thành lập pháp nhân",
+   "th": "การเปลี่ยนชื่อและการจดทะเบียนจัดตั้ง",
+   "id": "Perubahan Nama dan Pendirian Badan Hukum",
+   "ms": "Pertukaran Nama dan Perbadanan"
+  },
+  "ASSISTANT PROTECTOR": {
+   "zh": "助理保护官",
+   "vi": "Trợ lý quan chức bảo vệ",
+   "th": "ผู้ช่วยเจ้าพนักงานคุ้มครอง",
+   "id": "Asisten Pelindung",
+   "ms": "Penolong Pelindung"
+  },
+  "TIN BUFFER STOCK CONTRIBUTIONS AND REPAYMENTS": {
+   "zh": "锡缓冲库存缴纳与偿还",
+   "vi": "Đóng góp và hoàn trả kho dự trữ thiếc",
+   "th": "การสมทบและการชำระคืนสต็อกกันชนดีบุก",
+   "id": "Iuran dan Pengembalian Stok Penyangga Timah",
+   "ms": "Caruman dan Bayaran Balik Stok Penampan Timah"
+  },
+  "SAWN TIMBER GRADING FEES": {
+   "zh": "锯材分级费",
+   "vi": "Phí phân loại gỗ xẻ",
+   "th": "ค่าธรรมเนียมการคัดเกรดไม้แปรรูป",
+   "id": "Biaya Penilaian Kayu Gergajian",
+   "ms": "Fi Penggredan Kayu Gergaji"
+  },
+  "EXEMPTION TO PETRONAS GAS BERHAD, GAS PROCESSING PLANT-6, PAKA, TERENGGANU": {
+   "zh": "豁免 PETRONAS GAS 有限公司（登嘉楼巴卡第6天然气处理厂）",
+   "vi": "Miễn trừ cho PETRONAS GAS Berhad, Nhà máy Xử lý Khí-6, Paka, Terengganu",
+   "th": "การยกเว้นให้ PETRONAS GAS Berhad, โรงงานแปรรูปก๊าซ-6, ปากา, ตรังกานู",
+   "id": "Pembebasan bagi PETRONAS GAS Berhad, Pabrik Pengolahan Gas-6, Paka, Terengganu",
+   "ms": "Pengecualian kepada PETRONAS GAS Berhad, Loji Pemprosesan Gas-6, Paka, Terengganu"
+  },
+  "EXEMPTION TO PETRONAS GAS BERHAD, SEGAMAT COMPRESSOR STATION, SEGAMAT REGIONAL OPERATION, JOHOR": {
+   "zh": "豁免 PETRONAS GAS 有限公司（柔佛昔加末区域作业区压缩机站）",
+   "vi": "Miễn trừ cho PETRONAS GAS Berhad, Trạm Nén Segamat, Vận hành Khu vực Segamat, Johor",
+   "th": "การยกเว้นให้ PETRONAS GAS Berhad, สถานีอัดก๊าซเซอกามัต, ปฏิบัติการภูมิภาคเซอกามัต, ยะโฮร์",
+   "id": "Pembebasan bagi PETRONAS GAS Berhad, Stasiun Kompresor Segamat, Operasi Regional Segamat, Johor",
+   "ms": "Pengecualian kepada PETRONAS GAS Berhad, Stesen Pemampat Segamat, Operasi Serantau Segamat, Johor"
+  },
+  "KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD": {
+   "zh": "ANGKASA 回教融资合作社",
+   "vi": "KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD",
+   "th": "สหกรณ์การเงินอิสลามอังกาซา",
+   "id": "KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD",
+   "ms": "KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD"
+  },
+  "EXEMPTION TO OPTIMISTIC ORGANIC SDN. BHD., TELUK KALONG, TERENGGANU": {
+   "zh": "豁免 OPTIMISTIC ORGANIC 私人有限公司（登嘉楼直落加弄）",
+   "vi": "Miễn trừ cho OPTIMISTIC ORGANIC Sdn. Bhd., Teluk Kalong, Terengganu",
+   "th": "การยกเว้นให้ OPTIMISTIC ORGANIC Sdn. Bhd., เตลูกกาลง, ตรังกานู",
+   "id": "Pembebasan bagi OPTIMISTIC ORGANIC Sdn. Bhd., Teluk Kalong, Terengganu",
+   "ms": "Pengecualian kepada OPTIMISTIC ORGANIC Sdn. Bhd., Teluk Kalong, Terengganu"
+  },
+  "DEDUCTION FOR CONTRIBUTION TO UNIVERSAL SERVICE PROVISION FUND": {
+   "zh": "向普遍服务提供基金的缴款扣除",
+   "vi": "Khấu trừ khoản đóng góp vào Quỹ Cung cấp Dịch vụ Phổ thông",
+   "th": "การหักเงินสมทบเข้ากองทุนจัดหาบริการสากล",
+   "id": "Pengurangan Iuran pada Dana Penyediaan Layanan Universal",
+   "ms": "Potongan Caruman kepada Kumpulan Wang Peruntukan Perkhidmatan Sejagat"
+  },
+  "KOPERASI USAHA MAWAH BERHAD": {
+   "zh": "MAWAH 经营合作社",
+   "vi": "KOPERASI USAHA MAWAH BERHAD",
+   "th": "สหกรณ์อุซาฮามาวะห์",
+   "id": "KOPERASI USAHA MAWAH BERHAD",
+   "ms": "KOPERASI USAHA MAWAH BERHAD"
+  },
+  "FIXING OF MAXIMUM PRICE": {
+   "zh": "最高价格订定",
+   "vi": "Ấn định giá tối đa",
+   "th": "การกำหนดราคาสูงสุด",
+   "id": "Penetapan Harga Maksimum",
+   "ms": "Penetapan Harga Maksimum"
+  },
+  "LICENSING BODY": {
+   "zh": "发牌机构",
+   "vi": "Cơ quan cấp phép",
+   "th": "หน่วยงานออกใบอนุญาต",
+   "id": "Badan Perizinan",
+   "ms": "Badan Pelesenan"
+  },
+  "APPOINTMENT OF CHAIRMAN OF THE APPEAL TRIBUNAL": {
+   "zh": "上诉审裁处主席委任",
+   "vi": "Bổ nhiệm Chủ tịch Tòa án Phúc thẩm",
+   "th": "การแต่งตั้งประธานคณะตุลาการอุทธรณ์",
+   "id": "Pengangkatan Ketua Tribunal Banding",
+   "ms": "Pelantikan Pengerusi Tribunal Rayuan"
+  },
+  "DEDUCTION FOR THE PROVISION OF CHILD CARE CENTRE": {
+   "zh": "提供托儿中心的扣除",
+   "vi": "Khấu trừ việc cung cấp trung tâm giữ trẻ",
+   "th": "การหักค่าใช้จ่ายในการจัดให้มีสถานรับเลี้ยงเด็ก",
+   "id": "Pengurangan atas Penyediaan Pusat Penitipan Anak",
+   "ms": "Potongan bagi Penyediaan Taman Asuhan Kanak-Kanak"
+  },
+  "GROUP LAW PRACTICE": {
+   "zh": "律师集团执业",
+   "vi": "Hành nghề luật theo nhóm",
+   "th": "การประกอบวิชาชีพกฎหมายแบบกลุ่ม",
+   "id": "Praktik Hukum Kelompok",
+   "ms": "Amalan Guaman Berkumpulan"
+  },
+  "INFORMATION AND COMMUNICATION TECHNOLOGY EQUIPMENT FOR THE IMPLEMENTATION OF ELECTRONIC INVOICE": {
+   "zh": "实施电子发票的信息通信技术设备",
+   "vi": "Thiết bị công nghệ thông tin và truyền thông để thực hiện hóa đơn điện tử",
+   "th": "อุปกรณ์เทคโนโลยีสารสนเทศและการสื่อสารเพื่อการดำเนินการใบแจ้งหนี้อิเล็กทรอนิกส์",
+   "id": "Peralatan Teknologi Informasi dan Komunikasi untuk Penerapan Faktur Elektronik",
+   "ms": "Peralatan Teknologi Maklumat dan Komunikasi bagi Pelaksanaan Invois Elektronik"
+  },
+  "LICENSING BOARDS": {
+   "zh": "发牌机构",
+   "vi": "Các cơ quan cấp phép",
+   "th": "หน่วยงานออกใบอนุญาต",
+   "id": "Badan-Badan Perizinan",
+   "ms": "Badan-Badan Pelesenan"
+  },
+  "TAXIMETER": {
+   "zh": "计程表",
+   "vi": "Đồng hồ tính tiền taxi",
+   "th": "มาตรค่าโดยสาร",
+   "id": "Argo Taksi",
+   "ms": "Meter Teksi"
+  },
+  "DEVELOPMENT COST FOR CUSTOMISED COMPUTER SOFTWARE FOR THE IMPLEMENTATION OF ELECTRONIC INVOICE": {
+   "zh": "实施电子发票的定制软件开发成本",
+   "vi": "Chi phí phát triển phần mềm máy tính tùy chỉnh để thực hiện hóa đơn điện tử",
+   "th": "ต้นทุนการพัฒนาซอฟต์แวร์คอมพิวเตอร์เฉพาะเพื่อการดำเนินการใบแจ้งหนี้อิเล็กทรอนิกส์",
+   "id": "Biaya Pengembangan Perangkat Lunak Komputer Khusus untuk Penerapan Faktur Elektronik",
+   "ms": "Kos Pembangunan Perisian Komputer Tersuai bagi Pelaksanaan Invois Elektronik"
+  },
+  "IMPLEMENTATION OF THE UNITED NATIONS SECURITY COUNCIL RESOLUTIONS RELATING TO THE STATE OF ERITREA": {
+   "zh": "执行联合国安全理事会关于厄立特里亚国的决议",
+   "vi": "Thực hiện các nghị quyết của Hội đồng Bảo an Liên hợp quốc liên quan đến Nhà nước Eritrea",
+   "th": "การดำเนินการตามข้อมติคณะมนตรีความมั่นคงแห่งสหประชาชาติเกี่ยวกับรัฐเอริเทรีย",
+   "id": "Pelaksanaan Resolusi Dewan Keamanan Perserikatan Bangsa-Bangsa tentang Negara Eritrea",
+   "ms": "Pelaksanaan Resolusi Majlis Keselamatan Pertubuhan Bangsa-Bangsa Bersatu berhubung Negara Eritrea"
+  },
+  "EXEMPTION TO KOLEJ MASA": {
+   "zh": "豁免 MASA 学院",
+   "vi": "Miễn trừ cho Kolej MASA",
+   "th": "การยกเว้นให้วิทยาลัย MASA",
+   "id": "Pembebasan bagi Kolej MASA",
+   "ms": "Pengecualian kepada Kolej MASA"
+  },
+  "THE PRINCIPAL HUB INCENTIVE SCHEME": {
+   "zh": "主枢纽激励计划",
+   "vi": "Chương trình ưu đãi trung tâm chính",
+   "th": "โครงการสิ่งจูงใจศูนย์กลางหลัก",
+   "id": "Skema Insentif Hub Utama",
+   "ms": "Skim Insentif Hab Utama"
+  },
+  "TOUR OPERATOR COMPANY": {
+   "zh": "旅游经营公司",
+   "vi": "Công ty lữ hành",
+   "th": "บริษัทนำเที่ยว",
+   "id": "Perusahaan Biro Perjalanan Wisata",
+   "ms": "Syarikat Pengendali Pelancongan"
+  },
+  "CONTROL OF TODDY AND TODDY SHOPS": {
+   "zh": "椰花酒及椰花酒商店管制",
+   "vi": "Kiểm soát rượu toddy và cửa hàng rượu toddy",
+   "th": "การควบคุมน้ำตาลโตนดและการควบคุมร้านขายน้ำตาลโตนด",
+   "id": "Pengendalian Tuak dan Toko Tuak",
+   "ms": "Kawalan Tuak dan Kedai Tuak"
+  },
+  "DEDUCTION FOR INVESTMENT IN AN APPROVED FOOD PRODUCTION PROJECT": {
+   "zh": "对认可食品生产项目投资的扣除",
+   "vi": "Khấu trừ đầu tư vào dự án sản xuất thực phẩm được phê duyệt",
+   "th": "การหักค่าใช้จ่ายการลงทุนในโครงการผลิตอาหารที่ได้รับอนุมัติ",
+   "id": "Pengurangan atas Investasi dalam Proyek Produksi Pangan yang Disetujui",
+   "ms": "Potongan bagi Pelaburan dalam Projek Pengeluaran Makanan yang Diluluskan"
+  },
+  "DATARAN MERDEKA": {
+   "zh": "独立广场",
+   "vi": "Quảng trường Merdeka",
+   "th": "ลานเมอร์เดกา",
+   "id": "Dataran Merdeka",
+   "ms": "Dataran Merdeka"
+  },
+  "IMPLEMENTATION OF THE UNITED NATIONS SECURITY COUNCIL RESOLUTIONS RELATING TO THE FEDERAL REPUBLIC OF SOMALIA": {
+   "zh": "执行联合国安全理事会关于索马里联邦共和国的决议",
+   "vi": "Thực hiện các nghị quyết của Hội đồng Bảo an Liên hợp quốc liên quan đến Cộng hòa Liên bang Somalia",
+   "th": "การดำเนินการตามข้อมติคณะมนตรีความมั่นคงแห่งสหประชาชาติเกี่ยวกับสหพันธ์สาธารณรัฐโซมาเลีย",
+   "id": "Pelaksanaan Resolusi Dewan Keamanan Perserikatan Bangsa-Bangsa tentang Republik Federal Somalia",
+   "ms": "Pelaksanaan Resolusi Majlis Keselamatan Pertubuhan Bangsa-Bangsa Bersatu berhubung Republik Persekutuan Somalia"
+  },
+  "APPEAL TRIBUNAL": {
+   "zh": "上诉审裁处",
+   "vi": "Tòa án Phúc thẩm",
+   "th": "คณะตุลาการอุทธรณ์",
+   "id": "Tribunal Banding",
+   "ms": "Tribunal Rayuan"
+  },
+  "APPROVED INTERNATIONAL MARINE, AVIATION AND TRANSIT INSURANCE BROKERS": {
+   "zh": "认可国际海运、航空及转运保险经纪",
+   "vi": "Các nhà môi giới bảo hiểm hàng hải, hàng không và quá cảnh quốc tế được phê duyệt",
+   "th": "นายหน้าประกันภัยทางทะเล การบิน และการขนส่งผ่านแดนระหว่างประเทศที่ได้รับอนุมัติ",
+   "id": "Pialang Asuransi Laut, Penerbangan dan Transit Internasional yang Disetujui",
+   "ms": "Broker Insurans Marin, Penerbangan dan Transit Antarabangsa yang Diluluskan"
+  },
+  "KOPERASI POLIS DIRAJA MALAYSIA BERHAD": {
+   "zh": "马来西亚皇家警察合作社",
+   "vi": "Hợp tác xã Cảnh sát Hoàng gia Malaysia",
+   "th": "สหกรณ์ตำรวจหลวงมาเลเซีย",
+   "id": "KOPERASI POLIS DIRAJA MALAYSIA BERHAD",
+   "ms": "KOPERASI POLIS DIRAJA MALAYSIA BERHAD"
+  },
+  "ASSUMPTION OF CONTROL OF KOPERASI BARISAN USAHAWAN BERHAD": {
+   "zh": "接管企业家阵线合作社（KOPERASI BARISAN USAHAWAN BERHAD）",
+   "vi": "Tiếp nhận kiểm soát KOPERASI BARISAN USAHAWAN BERHAD",
+   "th": "การเข้าควบคุม KOPERASI BARISAN USAHAWAN BERHAD",
+   "id": "Pengambilalihan Pengendalian KOPERASI BARISAN USAHAWAN BERHAD",
+   "ms": "Pengambilalihan Kawalan KOPERASI BARISAN USAHAWAN BERHAD"
+  },
+  "RATES OF CONTRIBUTION FOR TAXI DRIVER": {
+   "zh": "出租车司机缴纳率",
+   "vi": "Mức đóng góp của tài xế taxi",
+   "th": "อัตราการสมทบของผู้ขับแท็กซี่",
+   "id": "Tarif Iuran bagi Pengemudi Taksi",
+   "ms": "Kadar Caruman bagi Pemandu Teksi"
+  },
+  "EXEMPTION TO POLYETHYLENE MALAYSIA SDN. BHD., KERTEH, TERENGGANU": {
+   "zh": "豁免 POLYETHYLENE MALAYSIA 私人有限公司（登嘉楼吉利地）",
+   "vi": "Miễn trừ cho POLYETHYLENE MALAYSIA Sdn. Bhd., Kerteh, Terengganu",
+   "th": "การยกเว้นให้ POLYETHYLENE MALAYSIA Sdn. Bhd., เกอเตะห์, ตรังกานู",
+   "id": "Pembebasan bagi POLYETHYLENE MALAYSIA Sdn. Bhd., Kerteh, Terengganu",
+   "ms": "Pengecualian kepada POLYETHYLENE MALAYSIA Sdn. Bhd., Kerteh, Terengganu"
+  },
+  "PLANNING": {
+   "zh": "规划",
+   "vi": "Quy hoạch",
+   "th": "การผังเมือง",
+   "id": "Penataan Ruang",
+   "ms": "Perancangan"
+  },
+  "DUTIES AND POWERS OF THE CUSTODIAN": {
+   "zh": "保管人的职责与权力",
+   "vi": "Nhiệm vụ và quyền hạn của người lưu giữ",
+   "th": "หน้าที่และอำนาจของผู้ดูแลทรัพย์",
+   "id": "Kewajiban dan Wewenang Penitipan",
+   "ms": "Tugas dan Kuasa Penjaga"
+  },
+  "TERMS CHARGES": {
+   "zh": "条款收费",
+   "vi": "Phí theo điều khoản",
+   "th": "ค่าบริการตามข้อกำหนด",
+   "id": "Biaya Ketentuan",
+   "ms": "Caj Terma"
+  },
+  "AMENDMENT OF SIXTEENTH SCHEDULE": {
+   "zh": "附表十六修正",
+   "vi": "Sửa đổi Phụ lục thứ mười sáu",
+   "th": "การแก้ไขตารางที่สิบหก",
+   "id": "Perubahan Lampiran Keenam Belas",
+   "ms": "Pindaan Jadual Keenam Belas"
+  },
+  "DEDUCTION FOR EXPENDITURE IN RELATION TO INDUSTRY4WRD VENDOR DEVELOPMENT PROGRAMME": {
+   "zh": "与 Industry4WRD 供应商发展计划有关的支出扣除",
+   "vi": "Khấu trừ chi phí liên quan đến chương trình phát triển nhà cung cấp Industry4WRD",
+   "th": "การหักค่าใช้จ่ายที่เกี่ยวกับโครงการพัฒนาผู้จำหน่าย Industry4WRD",
+   "id": "Pengurangan atas Pengeluaran Terkait Program Pengembangan Pemasok Industry4WRD",
+   "ms": "Potongan bagi Perbelanjaan Berhubung Program Pembangunan Vendor Industry4WRD"
+  },
+  "FORM OF RIGHT TO RECEIVE RINGGIT AND FOREIGN CURRENCY": {
+   "zh": "收取令吉与外币权利的形式",
+   "vi": "Hình thức quyền nhận Ringgit và ngoại tệ",
+   "th": "รูปแบบสิทธิในการรับริงกิตและสกุลเงินต่างประเทศ",
+   "id": "Bentuk Hak Menerima Ringgit dan Valuta Asing",
+   "ms": "Bentuk Hak Menerima Ringgit dan Mata Wang Asing"
+  },
+  "PROVISION OF INFORMATION": {
+   "zh": "提供信息",
+   "vi": "Cung cấp thông tin",
+   "th": "การให้ข้อมูล",
+   "id": "Penyediaan Informasi",
+   "ms": "Peruntukan Maklumat"
+  },
+  "EXEMPTION TO TORAY BASF PBT RESIN SDN. BHD., KUANTAN, PAHANG": {
+   "zh": "豁免 TORAY BASF PBT RESIN 私人有限公司（彭亨关丹）",
+   "vi": "Miễn trừ cho TORAY BASF PBT RESIN Sdn. Bhd., Kuantan, Pahang",
+   "th": "การยกเว้นให้ TORAY BASF PBT RESIN Sdn. Bhd., กวนตัน, ปะหัง",
+   "id": "Pembebasan bagi TORAY BASF PBT RESIN Sdn. Bhd., Kuantan, Pahang",
+   "ms": "Pengecualian kepada TORAY BASF PBT RESIN Sdn. Bhd., Kuantan, Pahang"
+  },
+  "DEPOSIT INSURANCE LIMIT": {
+   "zh": "存款保险限额",
+   "vi": "Hạn mức bảo hiểm tiền gửi",
+   "th": "วงเงินประกันเงินฝาก",
+   "id": "Batas Penjaminan Simpanan",
+   "ms": "Had Insurans Deposit"
+  },
+  "EXEMPTION OF AD VALOREM REGISTRATION FEES": {
+   "zh": "豁免从价登记费",
+   "vi": "Miễn phí đăng ký theo trị giá",
+   "th": "การยกเว้นค่าธรรมเนียมการขึ้นทะเบียนตามมูลค่า",
+   "id": "Pembebasan Biaya Registrasi Ad Valorem",
+   "ms": "Pengecualian Fi Pendaftaran Ad Valorem"
+  },
+  "FISHERIES COMPLEXES, FISHERIES HARBOURS AND FISHERIES LANDING JETTIES": {
+   "zh": "渔业综合区、渔港与渔获卸岸码头",
+   "vi": "Khu phức hợp thủy sản, cảng cá và cầu cảng bốc dỡ hải sản",
+   "th": "ศูนย์รวมการประมง ท่าเรือประมง และท่าเทียบเรือขนถ่ายสัตว์น้ำ",
+   "id": "Kompleks Perikanan, Pelabuhan Perikanan dan Dermaga Pendaratan Ikan",
+   "ms": "Kompleks Perikanan, Jeti Pendaratan Ikan dan Pelabuhan Perikanan"
+  },
+  "SPECIAL PROVISIONS": {
+   "zh": "特别规定",
+   "vi": "Các quy định đặc biệt",
+   "th": "บทบัญญัติพิเศษ",
+   "id": "Ketentuan Khusus",
+   "ms": "Peruntukan Khas"
+  },
+  "EXEMPTION OF CERTIFICATE OF FITNESS FOR HOISTING MACHINE": {
+   "zh": "豁免起重机械适宜证书",
+   "vi": "Miễn giấy chứng nhận phù hợp cho máy nâng",
+   "th": "การยกเว้นหนังสือรับรองความเหมาะสมของเครื่องยก",
+   "id": "Pembebasan Sertifikat Kelayakan Mesin Pengangkat",
+   "ms": "Pengecualian Sijil Kesesuaian Mesin Pengangkat"
+  },
+  "FEDERAL TERRITORIES": {
+   "zh": "联邦直辖区",
+   "vi": "Các lãnh thổ liên bang",
+   "th": "เขตสหพันธรัฐ",
+   "id": "Wilayah-Wilayah Persekutuan",
+   "ms": "Wilayah-Wilayah Persekutuan"
+  },
+  "SCHEME FOR COMMERCIAL, INDUSTRIAL AND INSTITUTIONAL SOLID WASTE": {
+   "zh": "商业、工业及机构固体废物计划",
+   "vi": "Chương trình chất thải rắn thương mại, công nghiệp và tổ chức",
+   "th": "โครงการขยะมูลฝอยพาณิชย์ อุตสาหกรรม และสถาบัน",
+   "id": "Skema Sampah Padat Komersial, Industri dan Institusi",
+   "ms": "Skim Sisa Pepejal Komersial, Perindustrian dan Institusi"
+  },
+  "PROKHAS SDN. BHD.": {
+   "zh": "PROKHAS 私人有限公司",
+   "vi": "PROKHAS Sdn. Bhd.",
+   "th": "PROKHAS Sdn. Bhd.",
+   "id": "PROKHAS Sdn. Bhd.",
+   "ms": "PROKHAS Sdn. Bhd."
+  },
+  "TERMS OF SERVICE OF REGULAR FORCES": {
+   "zh": "正规部队服役条款",
+   "vi": "Điều kiện phục vụ của lực lượng chính quy",
+   "th": "ข้อกำหนดการรับราชการของกำลังรบประจำการ",
+   "id": "Ketentuan Dinas Angkatan Reguler",
+   "ms": "Terma Perkhidmatan Angkatan Tetap"
+  },
+  "AMOUNT OF TAXABLE SUPPLY": {
+   "zh": "应税供应金额",
+   "vi": "Số tiền cung ứng chịu thuế",
+   "th": "จำนวนเงินของการจัดหาที่ต้องเสียภาษี",
+   "id": "Jumlah Penyerahan Kena Pajak",
+   "ms": "Jumlah Bekalan Bercukai"
+  },
+  "DEDUCTION FOR PRE-COMMENCEMENT EXPENSES IN RELATION TO REFINERY AND PETROCHEMICAL INTEGRATED DEVELOPMENT": {
+   "zh": "炼油与石化一体化开发的开业前费用扣除",
+   "vi": "Khấu trừ chi phí trước khi khởi công liên quan đến phát triển tích hợp nhà máy lọc dầu và hóa dầu",
+   "th": "การหักค่าใช้จ่ายก่อนเริ่มดำเนินการเกี่ยวกับการพัฒนาแบบบูรณาการโรงกลั่นและปิโตรเคมี",
+   "id": "Pengurangan atas Biaya Pra-Mulai Terkait Pengembangan Terpadu Kilang dan Petrokimia",
+   "ms": "Potongan bagi Perbelanjaan Pra-Permulaan Berhubung Pembangunan Bersepadu Loji Penapisan dan Petrokimia"
+  },
+  "CONVERSION OF SUBSIDIARY TITLE TO STRATA TITLE": {
+   "zh": "附属地契转为分层地契",
+   "vi": "Chuyển đổi giấy chứng nhận phụ sang giấy chứng nhận phân tầng",
+   "th": "การแปลงโฉนดย่อยเป็นโฉนดแบ่งชั้น",
+   "id": "Konversi Sertifikat Anak ke Sertifikat Bertingkat",
+   "ms": "Penukaran Hakmilik Subsidiari kepada Hakmilik Strata"
+  },
+  "EXEMPTION FOR MALAYSIAN SHIP": {
+   "zh": "马来西亚船舶豁免",
+   "vi": "Miễn trừ cho tàu Malaysia",
+   "th": "การยกเว้นสำหรับเรือมาเลเซีย",
+   "id": "Pembebasan bagi Kapal Malaysia",
+   "ms": "Pengecualian bagi Kapal Malaysia"
+  },
+  "RATES": {
+   "zh": "费率",
+   "vi": "Các mức phí",
+   "th": "อัตรา",
+   "id": "Tarif",
+   "ms": "Kadar"
+  },
+  "DETERMINATION OF FIXED CHARGE FOR CLASS OF SERVICE OF LICENSED TOUR OPERATOR": {
+   "zh": "持牌旅游经营商服务类别的固定收费核定",
+   "vi": "Xác định phí cố định theo loại hình dịch vụ của công ty lữ hành được cấp phép",
+   "th": "การกำหนดค่าบริการคงที่ตามประเภทบริการของผู้ประกอบการนำเที่ยวที่ได้รับใบอนุญาต",
+   "id": "Penetapan Biaya Tetap untuk Klasifikasi Jasa Biro Perjalanan Wisata Berizin",
+   "ms": "Penentuan Caj Tetap bagi Kelas Perkhidmatan Pengendali Pelancongan Berlesen"
+  },
+  "TAX AGENT APPLICATION FEE": {
+   "zh": "税务代理申请费",
+   "vi": "Phí nộp đơn đại lý thuế",
+   "th": "ค่าธรรมเนียมการยื่นคำขอตัวแทนภาษี",
+   "id": "Biaya Permohonan Agen Pajak",
+   "ms": "Fi Permohonan Ejen Cukai"
+  },
+  "PEST CONTROL OPERATOR": {
+   "zh": "虫害防治经营者",
+   "vi": "Đơn vị kiểm soát dịch hại",
+   "th": "ผู้ประกอบการควบคุมแมลงและศัตรูพืช",
+   "id": "Operator Pengendalian Hama",
+   "ms": "Pengendali Kawalan Perosak"
+  },
+  "WAIVER OF FEE TO TRAINEE FOR TECHNICAL SKILL LEARNING PROGRAMME": {
+   "zh": "豁免技术技能学习计划学员费用",
+   "vi": "Miễn phí cho học viên chương trình học kỹ năng kỹ thuật",
+   "th": "การยกเว้นค่าธรรมเนียมสำหรับผู้เข้าอบรมโครงการเรียนรู้ทักษะเทคนิค",
+   "id": "Pembebasan Biaya bagi Peserta Program Pembelajaran Keterampilan Teknis",
+   "ms": "Pelepasan Fi kepada Pelatih Program Pembelajaran Kemahiran Teknikal"
+  },
+  "VOCATIONAL COLLEGE SENATE": {
+   "zh": "职业学院评议会",
+   "vi": "Hội đồng Trường Cao đẳng Nghề",
+   "th": "สภาวิทยาลัยอาชีวศึกษา",
+   "id": "Senat Sekolah Tinggi Vokasi",
+   "ms": "Senat Kolej Vokasional"
+  },
+  "CONTROL OF ENDANGERED SPECIES OF FISH": {
+   "zh": "濒危鱼种管制",
+   "vi": "Kiểm soát các loài cá nguy cấp",
+   "th": "การควบคุมชนิดพันธุ์ปลาที่ใกล้สูญพันธุ์",
+   "id": "Pengendalian Jenis Ikan Terancam Punah",
+   "ms": "Kawalan Spesies Ikan Terancam"
+  },
+  "LICENSING FOR SALE AND STORAGE FOR SALE": {
+   "zh": "销售及为销售而储存的许可",
+   "vi": "Cấp phép bán và lưu kho để bán",
+   "th": "การออกใบอนุญาตขายและการเก็บรักษาเพื่อขาย",
+   "id": "Perizinan Penjualan dan Penyimpanan untuk Dijual",
+   "ms": "Pelesenan Penjualan dan Penyimpanan untuk Dijual"
+  },
+  "AUTHORIZED DEALERS AND AUTHORIZED DEPOSITARIES": {
+   "zh": "授权交易商与授权存管机构",
+   "vi": "Đại lý được ủy quyền và tổ chức lưu ký được ủy quyền",
+   "th": "ผู้ค้าที่ได้รับอนุญาตและผู้รับฝากที่ได้รับอนุญาต",
+   "id": "Pedagang Berwenang dan Lembaga Penyimpanan Berwenang",
+   "ms": "Peniaga Diberi Kuasa dan Depositori Diberi Kuasa"
+  },
+  "ADVANCE RULING": {
+   "zh": "预先裁定",
+   "vi": "Phán quyết trước",
+   "th": "คำวินิจฉัยล่วงหน้า",
+   "id": "Ketetapan Pendahuluan",
+   "ms": "Keputusan Awal"
+  },
+  "PRASARANA MALAYSIA BERHAD": {
+   "zh": "马来西亚基建有限公司",
+   "vi": "Prasarana Malaysia Berhad",
+   "th": "ปราสารานามาเลเซีย เบอร์ฮัด",
+   "id": "Prasarana Malaysia Berhad",
+   "ms": "Prasarana Malaysia Berhad"
+  },
+  "FORM OF BANKRUPTCY NOTICE": {
+   "zh": "破产通知的形式",
+   "vi": "Mẫu thông báo phá sản",
+   "th": "รูปแบบหนังสือแจ้งล้มละลาย",
+   "id": "Formulir Pemberitahuan Kepailitan",
+   "ms": "Borang Notis Kebankrapan"
+  },
+  "PRESCRIPTION OF TERRITORY AND MANNER OF PAYMENT": {
+   "zh": "地域与缴付方式的订明",
+   "vi": "Quy định lãnh thổ và phương thức thanh toán",
+   "th": "การกำหนดอาณาเขตและวิธีการชำระเงิน",
+   "id": "Penetapan Wilayah dan Cara Pembayaran",
+   "ms": "Penetapan Wilayah dan Cara Pembayaran"
+  },
+  "GOODS UNDER THE AGREEMENT ON COMPREHENSIVE ECONOMIC PARTNERSHIP AMONG THE GOVERNMENT OF THE MEMBER STATES OF THE ASEAN AND JAPAN": {
+   "zh": "依《东盟与日本成员国政府全面经济伙伴关系协定》的货物",
+   "vi": "Hàng hóa theo Hiệp định Đối tác Kinh tế Toàn diện giữa Chính phủ các Quốc gia thành viên ASEAN và Nhật Bản",
+   "th": "สินค้าภายใต้ความตกลงหุ้นส่วนทางเศรษฐกิจที่ครอบคลุมระหว่างรัฐบาลรัฐสมาชิกอาเซียนกับญี่ปุ่น",
+   "id": "Barang berdasarkan Persetujuan Kemitraan Ekonomi Menyeluruh antar Pemerintah Negara Anggota ASEAN dan Jepang",
+   "ms": "Barang di bawah Perjanjian Perkongsian Ekonomi Menyeluruh antara Kerajaan Negara Anggota ASEAN dan Jepun"
+  },
+  "IMPORTATION": {
+   "zh": "进口",
+   "vi": "Nhập khẩu",
+   "th": "การนำเข้า",
+   "id": "Impor",
+   "ms": "Pengimportan"
+  },
+  "GOLD EXEMPTION": {
+   "zh": "黄金豁免",
+   "vi": "Miễn trừ vàng",
+   "th": "การยกเว้นทองคำ",
+   "id": "Pembebasan Emas",
+   "ms": "Pengecualian Emas"
+  },
+  "RELOCATION": {
+   "zh": "迁址",
+   "vi": "Di dời",
+   "th": "การย้ายที่ตั้ง",
+   "id": "Relokasi",
+   "ms": "Penempatan Semula"
+  },
+  "DEDUCTION FOR EXPENDITURE IN RELATION TO ENVIRONMENTAL PRESERVATION, SOCIAL AND GOVERNANCE": {
+   "zh": "环保、社会与治理相关支出的扣除",
+   "vi": "Khấu trừ chi phí liên quan đến bảo vệ môi trường, xã hội và quản trị",
+   "th": "การหักค่าใช้จ่ายที่เกี่ยวกับการอนุรักษ์สิ่งแวดล้อม สังคม และธรรมาภิบาล",
+   "id": "Pengurangan atas Pengeluaran Terkait Pelestarian Lingkungan, Sosial dan Tata Kelola",
+   "ms": "Potongan bagi Perbelanjaan Berhubung Pemuliharaan Alam Sekitar, Sosial dan Tadbir Urus"
+  },
+  "LICENSED FOREIGN ELECTRONIC MONEY-BROKER": {
+   "zh": "持牌外国电子货币经纪",
+   "vi": "Nhà môi giới tiền điện tử nước ngoài được cấp phép",
+   "th": "นายหน้าตราอิเล็กทรอนิกส์ต่างชาติที่ได้รับใบอนุญาต",
+   "id": "Pialang Uang Elektronik Asing Berizin",
+   "ms": "Broker Wang Elektronik Asing Berlesen"
+  },
+  "MINIMUM AMOUNT OF CAPITAL FUNDS": {
+   "zh": "最低资本金额",
+   "vi": "Số tiền vốn tối thiểu",
+   "th": "จำนวนเงินทุนขั้นต่ำ",
+   "id": "Jumlah Minimum Dana Modal",
+   "ms": "Jumlah Minimum Dana Modal"
+  }
+ }
+}

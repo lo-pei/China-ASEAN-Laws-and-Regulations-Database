@@ -1,0 +1,1352 @@
+{
+ "batch": "bn-p1-b02",
+ "scope": "BN",
+ "generatedAt": "2026-10-27T17:14:25.531Z",
+ "engine": "bn_gen",
+ "items": {
+  "BN-H120": {
+   "vi": "Luật Chứng cứ",
+   "th": "พระราชบัญญัติพยานหลักฐาน",
+   "id": "Undang-Undang Pembuktian",
+   "ms": "Akta Keterangan"
+  },
+  "BN-H067": {
+   "vi": "Luật Luật công ty",
+   "th": "พระราชบัญญัติกฎหมายบริษัท",
+   "id": "Undang-Undang Hukum Perusahaan",
+   "ms": "Akta Undang-Undang Syarikat"
+  },
+  "BN-S-57-2003-MERCHANT-SHIPPING-SAFETY-CONVENTION-REGNS-2003-1": {
+   "vi": "Công ước An toàn vận tải biển số 1 năm 2003",
+   "th": "อนุสัญญาความปลอดภัยการเดินเรือพาณิชย์ ฉบับที่ 1 พ.ศ. 2546",
+   "id": "Konvensi Keselamatan Pelayaran Niaga Nomor 1 Tahun 2003",
+   "ms": "Konvensyen Keselamatan Perkapalan Saudagar Bilangan 1 2003"
+  },
+  "BN-S-59-2013-SECURITIES-MARKETS-ORDER-2013": {
+   "vi": "Sắc lệnh Thị trường chứng khoán năm 2013",
+   "th": "คำสั่งตลาดหลักทรัพย์ พ.ศ. 2556",
+   "id": "Perintah Pasar Modal Tahun 2013",
+   "ms": "Perintah Pasaran Sekuriti 2013"
+  },
+  "BN-H069": {
+   "vi": "Luật Luật quyền tác giả",
+   "th": "พระราชบัญญัติกฎหมายลิขสิทธิ์",
+   "id": "Undang-Undang Hukum Hak Cipta",
+   "ms": "Akta Undang-Undang Hak Cipta"
+  },
+  "BN-S-27-2002-MERCHANT-SHIPPING-ORER-2002-SEC-216": {
+   "vi": "Sắc lệnh Vận tải biển năm 2002 (Điều 216)",
+   "th": "คำสั่งการเดินเรือพาณิชย์ พ.ศ. 2545 (มาตรา 216)",
+   "id": "Perintah Pelayaran Niaga Tahun 2002 (Pasal 216)",
+   "ms": "Perintah Perkapalan Saudagar 2002 (Seksyen 216)"
+  },
+  "BN-CAP-247-R-4-INSOLVENCY-WINDING-UP-RULES": {
+   "vi": "Quy tắc Giải thể do mất khả năng thanh toán",
+   "th": "ข้อกำหนดการชำระบัญชีกรณีล้มละลาย",
+   "id": "Peraturan Kepailitan dan Likuidasi",
+   "ms": "Kaedah Penggulungan Insolvensi"
+  },
+  "BN-CAP-52-R-7-2018-POST-OFFICE-RULES": {
+   "vi": "Quy tắc Bưu điện",
+   "th": "ข้อกำหนดไปรษณีย์",
+   "id": "Peraturan Kantor Pos",
+   "ms": "Kaedah Pejabat Pos"
+  },
+  "BN-S-63-2001-SYARIAH-COURTS-EVIDENCE-ORDER-2001": {
+   "vi": "Sắc lệnh Chứng cứ của Tòa án Syariah năm 2001",
+   "th": "คำสั่งพยานหลักฐานของศาลชะรีอะฮ์ พ.ศ. 2544",
+   "id": "Perintah Pembuktian Mahkamah Syariah Tahun 2001",
+   "ms": "Perintah Keterangan Mahkamah Syariah 2001"
+  },
+  "BN-S-40-2006-E-EXCISE-ORDER-2006-1": {
+   "vi": "Sắc lệnh Thuế tiêu thụ đặc biệt số 1 năm 2006",
+   "th": "คำสั่งสรรพสามิต ฉบับที่ 1 พ.ศ. 2549",
+   "id": "Perintah Cukai Nomor 1 Tahun 2006",
+   "ms": "Perintah Eksais Bilangan 1 2006"
+  },
+  "BN-S-40-2006-EXCISE-ORDER-2006-SEC-164": {
+   "vi": "Sắc lệnh Thuế tiêu thụ đặc biệt năm 2006 (Điều 164)",
+   "th": "คำสั่งสรรพสามิต พ.ศ. 2549 (มาตรา 164)",
+   "id": "Perintah Cukai Tahun 2006 (Pasal 164)",
+   "ms": "Perintah Eksais 2006 (Seksyen 164)"
+  },
+  "BN-S-39-2006-CUSTOMS-ORDER-2009-SEC-157": {
+   "vi": "Sắc lệnh Hải quan năm 2009 (Điều 157)",
+   "th": "คำสั่งศุลกากร พ.ศ. 2552 (มาตรา 157)",
+   "id": "Perintah Kepabeanan Tahun 2009 (Pasal 157)",
+   "ms": "Perintah Kastam 2009 (Seksyen 157)"
+  },
+  "BN-S-47-2012-CRIMINAL-ASSET-RECOVERY-ORDER-2012-SEC-153-1": {
+   "vi": "Sắc lệnh Thu hồi tài sản phạm tội số 1 năm 2012 (Điều 153)",
+   "th": "คำสั่งการยึดคืนทรัพย์สินจากอาชญากรรม ฉบับที่ 1 พ.ศ. 2555 (มาตรา 153)",
+   "id": "Perintah Pemulihan Aset Kriminal Nomor 1 Tahun 2012 (Pasal 153)",
+   "ms": "Perintah Perolehan Semula Harta Jenayah Bilangan 1 2012 (Seksyen 153)"
+  },
+  "BN-S-59-2003-EDUCATION-ORDER-2003-SEC-144": {
+   "vi": "Sắc lệnh Giáo dục năm 2003 (Điều 144)",
+   "th": "คำสั่งการศึกษา พ.ศ. 2546 (มาตรา 144)",
+   "id": "Perintah Pendidikan Tahun 2003 (Pasal 144)",
+   "ms": "Perintah Pendidikan 2003 (Seksyen 144)"
+  },
+  "BN-CAP-210-EDUCATION-ACT-1": {
+   "vi": "Luật Giáo dục số 1",
+   "th": "พระราชบัญญัติการศึกษา ฉบับที่ 1",
+   "id": "Undang-Undang Pendidikan Nomor 1",
+   "ms": "Akta Pendidikan Bilangan 1"
+  },
+  "BN-CAP-277-RG-4-2024-WORKPLACE-SAFETY-AND-HEALTH-CONSTRU-9C5055": {
+   "vi": "Quy định An toàn và sức khỏe lao động trong xây dựng",
+   "th": "ข้อบังคับความปลอดภัยและอาชีวอนามัยในงานก่อสร้าง",
+   "id": "Peraturan Keselamatan dan Kesehatan Kerja Konstruksi",
+   "ms": "Peraturan Keselamatan dan Kesihatan Pekerjaan Pembinaan"
+  },
+  "BN-CAP-95-2024-BANKING-ACT": {
+   "vi": "Luật Ngân hàng",
+   "th": "พระราชบัญญัติการธนาคาร",
+   "id": "Undang-Undang Perbankan",
+   "ms": "Akta Perbankan"
+  },
+  "BN-CAP-222-2021-MARITIME-AND-PORT-AUTHORITY-OF-BRUNEI-DA-1998A6": {
+   "vi": "Luật Cơ quan Hàng hải và Cảng Brunei Darussalam",
+   "th": "พระราชบัญญัติหน่วยงานการเดินเรือและท่าเรือบรูไนดารุสซาลาม",
+   "id": "Undang-Undang Otoritas Maritim dan Pelabuhan Brunei Darussalam",
+   "ms": "Akta Lembaga Maritim dan Pelabuhan Brunei Darussalam"
+  },
+  "BN-CAP-77-2022-RELIGIOUS-AND-KADIS-COURTS-ACT": {
+   "vi": "Luật Tòa án Tôn giáo và Kadi",
+   "th": "พระราชบัญญัติศาลศาสนาและกาดี",
+   "id": "Undang-Undang Pengadilan Agama dan Kadi",
+   "ms": "Akta Mahkamah Agama dan Kadi"
+  },
+  "BN-S-12-2000-SEC-146-OF-THE-EMERGENCY-ISLAMIC-FAMILY-LAW-249B98": {
+   "vi": "Sắc lệnh Luật gia đình Hồi giáo trong tình trạng khẩn cấp năm 1999 (Điều 146)",
+   "th": "คำสั่งกฎหมายครอบครัวอิสลามในสถานการณ์ฉุกเฉิน พ.ศ. 2542 (มาตรา 146)",
+   "id": "Perintah Hukum Keluarga Islam dalam Keadaan Darurat Tahun 1999 (Pasal 146)",
+   "ms": "Perintah Undang-Undang Keluarga Islam dalam Keadaan Darurat 1999 (Seksyen 146)"
+  },
+  "BN-S-57-2011-PATENTS-ORDER-2011-SEC-114": {
+   "vi": "Sắc lệnh Sáng chế năm 2011 (Điều 114)",
+   "th": "คำสั่งสิทธิบัตร พ.ศ. 2554 (มาตรา 114)",
+   "id": "Perintah Paten Tahun 2011 (Pasal 114)",
+   "ms": "Perintah Paten 2011 (Seksyen 114)"
+  },
+  "BN-CAP-5-R-1-2022-RULES-OF-THE-SUPREME-COURT": {
+   "vi": "Luật Quy tắc của Tòa án tối cao",
+   "th": "พระราชบัญญัติข้อกำหนดของศาลสูงสุด",
+   "id": "Undang-Undang Peraturan Mahkamah Agung",
+   "ms": "Akta Kaedah Mahkamah Agung"
+  },
+  "BN-S-9-2006-CHILDREN-AND-YOUNG-PERSONS-ORDER-2006-SEC-106": {
+   "vi": "Sắc lệnh Trẻ em và người vị thành niên năm 2006 (Điều 106)",
+   "th": "คำสั่งเด็กและเยาวชน พ.ศ. 2549 (มาตรา 106)",
+   "id": "Perintah Anak dan Remaja Tahun 2006 (Pasal 106)",
+   "ms": "Perintah Kanak-Kanak dan Orang Muda 2006 (Seksyen 106)"
+  },
+  "BN-S-55-2000-INTERNATIONAL-TRUSTS-ORDER-2000": {
+   "vi": "Sắc lệnh Tín thác quốc tế năm 2000",
+   "th": "คำสั่งทรัสต์ระหว่างประเทศ พ.ศ. 2543",
+   "id": "Perintah Perwalian Internasional Tahun 2000",
+   "ms": "Perintah Amanah Antarabangsa 2000"
+  },
+  "BN-H121": {
+   "vi": "Sắc lệnh Kiểu dáng công nghiệp năm 1999",
+   "th": "คำสั่งการออกแบบอุตสาหกรรม พ.ศ. 2542",
+   "id": "Perintah Desain Industri Tahun 1999",
+   "ms": "Perintah Reka Bentuk Perindustrian 1999"
+  },
+  "BN-CAP-7-R-1-2021-YOUTHFUL-OFFENDERS-PLACES-OF-DETENTION-RULES": {
+   "vi": "Quy tắc Cơ sở giam giữ người phạm tội vị thành niên",
+   "th": "ข้อกำหนดสถานที่กักขังผู้กระทำผิดเยาวชน",
+   "id": "Peraturan Tempat Penahanan Pelaku Kejahatan Remaja",
+   "ms": "Kaedah Tempat Tahanan Pesalah Muda"
+  },
+  "BN-S-10-2016-SECTION-93A-OF-SECURED-TRANSACTION-ORDER-2016": {
+   "vi": "Sắc lệnh Giao dịch bảo đảm năm 2016 (Điều 93A)",
+   "th": "คำสั่งธุรกรรมที่มีหลักประกัน พ.ศ. 2559 (มาตรา 93A)",
+   "id": "Perintah Transaksi Jaminan Tahun 2016 (Pasal 93A)",
+   "ms": "Perintah Transaksi Bercagar 2016 (Seksyen 93A)"
+  },
+  "BN-H144": {
+   "vi": "Luật Luật cứu trợ đặc thù",
+   "th": "พระราชบัญญัติกฎหมายการบรรเทาทุกข์เฉพาะ",
+   "id": "Undang-Undang Hukum Bantuan Khusus",
+   "ms": "Akta Undang-Undang Relief Khusus"
+  },
+  "BN-CAP-52-N2-2018-POST-OFFICE-LETTER-MAIL-INSURANCE-LIMI-847E26": {
+   "vi": "Thông báo Giới hạn bảo hiểm thư bảo đảm của bưu điện",
+   "th": "ประกาศวงเงินประกันไปรษณีย์ภัณฑ์ลงทะเบียน",
+   "id": "Pemberitahuan Batas Asuransi Surat Pos",
+   "ms": "Pemberitahuan Had Insurans Surat Pos"
+  },
+  "BN-CAP-68-2026-ROAD-TRAFFIC-ACT": {
+   "vi": "Luật Giao thông đường bộ",
+   "th": "พระราชบัญญัติการจราจรทางบก",
+   "id": "Undang-Undang Lalu Lintas Jalan",
+   "ms": "Akta Lalu Lintas Jalan Raya"
+  },
+  "BN-CAP-113-RG-1984-AIR-NAVIGATION-RESTRICTION-OF-FLYING-59C826": {
+   "vi": "Quy định Hạn chế bay trên khu vực trại giam và nơi giam giữ",
+   "th": "ข้อบังคับการจำกัดการบินเหนือเรือนจำและสถานที่กักขัง",
+   "id": "Peraturan Pembatasan Penerbangan di atas Lembaga Pemasyarakatan dan Tempat Penahanan",
+   "ms": "Peraturan Sekatan Penerbangan di atas Penjara dan Tempat Tahanan"
+  },
+  "BN-CAP-113-RG-1984-AIR-NAVIGATION-RESTRICTION-OF-FLYING-AE542E": {
+   "vi": "Quy định Hạn chế bay trên Istana Darul Hana",
+   "th": "ข้อบังคับการจำกัดการบินเหนือ Istana Darul Hana",
+   "id": "Peraturan Pembatasan Penerbangan di atas Istana Darul Hana",
+   "ms": "Peraturan Sekatan Penerbangan di atas Istana Darul Hana"
+  },
+  "BN-CAP-113-RG-1984-AIR-TRAFFIC-CONTROL-REGULATIONS": {
+   "vi": "Quy định Kiểm soát không lưu",
+   "th": "ข้อบังคับการควบคุมจราจรทางอากาศ",
+   "id": "Peraturan Pengendalian Lalu Lintas Udara",
+   "ms": "Peraturan Kawalan Lalu Lintas Udara"
+  },
+  "BN-CAP-113-RG-1984-AIR-TRANSPORT-AND-COMMERCIAL-FLYING-L-0110A9": {
+   "vi": "Quy định Cấp phép vận tải hàng không và bay thương mại",
+   "th": "ข้อบังคับการออกใบอนุญาตขนส่งทางอากาศและการบินพาณิชย์",
+   "id": "Peraturan Perizinan Angkutan Udara dan Penerbangan Komersial",
+   "ms": "Peraturan Pelesenan Pengangkutan Udara dan Penerbangan Komersial"
+  },
+  "BN-CAP-113-RG-1984-CIVIL-AVIATION-INVESTIGATION-OF-ACCID-36D410": {
+   "vi": "Quy định Điều tra tai nạn hàng không dân dụng",
+   "th": "ข้อบังคับการสอบสวนอุบัติเหตุการบินพลเรือน",
+   "id": "Peraturan Investigasi Kecelakaan Penerbangan Sipil",
+   "ms": "Peraturan Siasatan Kemalangan Penerbangan Awam"
+  },
+  "BN-CAP-245-2022-SECURED-TRANSACTIONS-ACT": {
+   "vi": "Luật Giao dịch bảo đảm",
+   "th": "พระราชบัญญัติธุรกรรมที่มีหลักประกัน",
+   "id": "Undang-Undang Transaksi Jaminan",
+   "ms": "Akta Transaksi Bercagar"
+  },
+  "BN-S100-2008-TAKAFUL-ORDER-2008": {
+   "vi": "Sắc lệnh Takaful năm 2008",
+   "th": "คำสั่งตะกาฟุล พ.ศ. 2551",
+   "id": "Perintah Takaful Tahun 2008",
+   "ms": "Perintah Takaful 2008"
+  },
+  "BN-S-34-2001-WOMEN-AND-GIRLS-PROTECTION-PLACE-OF-SAFETY-F5A9AD": {
+   "vi": "Quy tắc Nơi tạm trú an toàn cho phụ nữ và trẻ em gái năm 2001",
+   "th": "ข้อกำหนดสถานที่ปลอดภัยสำหรับสตรีและเด็กหญิง พ.ศ. 2544",
+   "id": "Peraturan Tempat Aman bagi Perempuan dan Anak Perempuan Tahun 2001",
+   "ms": "Kaedah Tempat Selamat bagi Wanita dan Gadis 2001"
+  },
+  "BN-S-86-2013-TELECOMMUNICATIONS-RADIO-COMMUNICATION-REGU-9ADAC4": {
+   "vi": "Quy định Thông tin vô tuyến viễn thông năm 2013",
+   "th": "ข้อบังคับการสื่อสารวิทยุโทรคมนาคม พ.ศ. 2556",
+   "id": "Peraturan Komunikasi Radio Telekomunikasi Tahun 2013",
+   "ms": "Peraturan Komunikasi Radio Telekomunikasi 2013"
+  },
+  "BN-CAP-263-2023-BRUNEI-DARUSSALAM-NATIONAL-ACCREDITATION-49217B": {
+   "vi": "Luật Hội đồng Công nhận Quốc gia Brunei Darussalam",
+   "th": "พระราชบัญญัติสภาการรับรองแห่งชาติบรูไนดารุสซาลาม",
+   "id": "Undang-Undang Dewan Akreditasi Nasional Brunei Darussalam",
+   "ms": "Akta Majlis Akreditasi Kebangsaan Brunei Darussalam"
+  },
+  "BN-CONST-I-2022-CONSTITUTION-OF-BRUNEI-DARUSSALAM-1": {
+   "vi": "Luật Hiến pháp Brunei Darussalam số 1",
+   "th": "พระราชบัญญัติรัฐธรรมนูญบรูไนดารุสซาลาม ฉบับที่ 1",
+   "id": "Undang-Undang Konstitusi Brunei Darussalam Nomor 1",
+   "ms": "Akta Perlembagaan Brunei Darussalam Bilangan 1"
+  },
+  "BN-S-93-2008-PREVENTION-OF-POLLUTION-OF-THE-SEA-OIL-REGU-42F888": {
+   "vi": "Quy định Phòng chống ô nhiễm biển do dầu năm 2008",
+   "th": "ข้อบังคับการป้องกันมลพิษทางทะเลจากน้ำมัน พ.ศ. 2551",
+   "id": "Peraturan Pencegahan Pencemaran Laut oleh Minyak Tahun 2008",
+   "ms": "Peraturan Pencegahan Pencemaran Laut oleh Minyak 2008"
+  },
+  "BN-S-25-2014-MENTAL-HEALTH-ORDER-2014-SEC-78": {
+   "vi": "Sắc lệnh Sức khỏe tâm thần năm 2014 (Điều 78)",
+   "th": "คำสั่งสุขภาพจิต พ.ศ. 2557 (มาตรา 78)",
+   "id": "Perintah Kesehatan Jiwa Tahun 2014 (Pasal 78)",
+   "ms": "Perintah Kesihatan Mental 2014 (Seksyen 78)"
+  },
+  "BN-CAP-285-5-2024-MEDICINES-ACT": {
+   "vi": "Luật Dược phẩm",
+   "th": "พระราชบัญญัติยา",
+   "id": "Undang-Undang Obat",
+   "ms": "Akta Ubat"
+  },
+  "BN-S-103-2010-BRUNEI-DARUSSALAM-CENTRAL-BANK-ORDER-2010": {
+   "vi": "Sắc lệnh Ngân hàng Trung ương Brunei Darussalam năm 2010",
+   "th": "คำสั่งธนาคารกลางบรูไนดารุสซาลาม พ.ศ. 2553",
+   "id": "Perintah Bank Sentral Brunei Darussalam Tahun 2010",
+   "ms": "Perintah Bank Pusat Brunei Darussalam 2010"
+  },
+  "BN-S-38-2001-TELECOMMUNICATIONS-ORDER-2001": {
+   "vi": "Sắc lệnh Viễn thông năm 2001",
+   "th": "คำสั่งโทรคมนาคม พ.ศ. 2544",
+   "id": "Perintah Telekomunikasi Tahun 2001",
+   "ms": "Perintah Telekomunikasi 2001"
+  },
+  "BN-S-34-2003-INFECTIOUS-DISEASES-ORDER-2003-SEC-78": {
+   "vi": "Sắc lệnh Bệnh truyền nhiễm năm 2003 (Điều 78)",
+   "th": "คำสั่งโรคติดต่อ พ.ศ. 2546 (มาตรา 78)",
+   "id": "Perintah Penyakit Menular Tahun 2003 (Pasal 78)",
+   "ms": "Perintah Penyakit Berjangkit 2003 (Seksyen 78)"
+  },
+  "BN-CAP-257-2023-MENTAL-HEALTH-ACT": {
+   "vi": "Luật Sức khỏe tâm thần",
+   "th": "พระราชบัญญัติสุขภาพจิต",
+   "id": "Undang-Undang Kesehatan Jiwa",
+   "ms": "Akta Kesihatan Mental"
+  },
+  "BN-CAP-204-2023-INFECTIOUS-DISEASES": {
+   "vi": "Luật Bệnh truyền nhiễm",
+   "th": "พระราชบัญญัติโรคติดต่อ",
+   "id": "Undang-Undang Penyakit Menular",
+   "ms": "Akta Penyakit Berjangkit"
+  },
+  "BN-CAP-254-2022-ANIMAL-DISEASES-AND-QUARANTINE-ACT": {
+   "vi": "Luật Bệnh động vật và kiểm dịch",
+   "th": "พระราชบัญญัติโรคสัตว์และการกักกัน",
+   "id": "Undang-Undang Penyakit Hewan dan Karantina",
+   "ms": "Akta Penyakit Haiwan dan Kuaranter"
+  },
+  "BN-S-43-2002-E-INTERNATIONAL-INSURANCE-AND-TAKAFUL-ORDER-2002": {
+   "vi": "Sắc lệnh Bảo hiểm và Takaful quốc tế năm 2002",
+   "th": "คำสั่งประกันภัยและตะกาฟุลระหว่างประเทศ พ.ศ. 2545",
+   "id": "Perintah Asuransi dan Takaful Internasional Tahun 2002",
+   "ms": "Perintah Insurans dan Takaful Antarabangsa 2002"
+  },
+  "BN-CAP-6-R-3-2001-MAGISTRATES-COURTS-CIVIL-PROCEDURE-RULES": {
+   "vi": "Quy tắc Tố tụng dân sự của Tòa án sơ thẩm",
+   "th": "ข้อกำหนดวิธีพิจารณาความแพ่งของศาลแขวง",
+   "id": "Peraturan Hukum Acara Perdata Pengadilan Magistrat",
+   "ms": "Kaedah Tatacara Sivil Mahkamah Majistret"
+  },
+  "BN-S-25-2009-FIRSHERIES-ORDER-2009": {
+   "vi": "Sắc lệnh Thủy sản năm 2009",
+   "th": "คำสั่งการประมง พ.ศ. 2552",
+   "id": "Perintah Perikanan Tahun 2009",
+   "ms": "Perintah Perikanan 2009"
+  },
+  "BN-CAP-50-1984-ROYAL-BRUNEI-POLICE-FORCE-ACT": {
+   "vi": "Luật Lực lượng Cảnh sát Hoàng gia Brunei",
+   "th": "พระราชบัญญัติกองกำลังตำรวจหลวงบรูไน",
+   "id": "Undang-Undang Kepolisian Kerajaan Brunei",
+   "ms": "Akta Pasukan Polis Diraja Brunei"
+  },
+  "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9": {
+   "vi": "Quy định Nơi tạm trú an toàn cho trẻ em và người vị thành niên năm 2010",
+   "th": "ข้อบังคับสถานที่ปลอดภัยสำหรับเด็กและเยาวชน พ.ศ. 2553",
+   "id": "Peraturan Tempat Aman bagi Anak dan Remaja Tahun 2010",
+   "ms": "Peraturan Tempat Selamat bagi Kanak-Kanak dan Orang Muda 2010"
+  },
+  "BN-CAP-243-2022-FIRE-SAFETY": {
+   "vi": "Luật An toàn phòng cháy chữa cháy",
+   "th": "พระราชบัญญัติความปลอดภัยจากอัคคีภัย",
+   "id": "Undang-Undang Keselamatan Kebakaran",
+   "ms": "Akta Keselamatan Kebakaran"
+  },
+  "BN-S-1-1983-FINANCIAL-REGULATIONS": {
+   "vi": "Quy định Tài chính",
+   "th": "ข้อบังคับการเงิน",
+   "id": "Peraturan Keuangan",
+   "ms": "Peraturan Kewangan"
+  },
+  "BN-CAP-196-ELECTRONIC-TRANSATIONS-ACT-1": {
+   "vi": "Luật Giao dịch điện tử số 1",
+   "th": "พระราชบัญญัติธุรกรรมอิเล็กทรอนิกส์ ฉบับที่ 1",
+   "id": "Undang-Undang Transaksi Elektronik Nomor 1",
+   "ms": "Akta Transaksi Elektronik Bilangan 1"
+  },
+  "BN-CAP-231-2021-PETROLEUM-AUTHORITY-OF-BRUNEI-DARUSSALAM-ACT": {
+   "vi": "Luật Cơ quan Dầu khí Brunei Darussalam",
+   "th": "พระราชบัญญัติหน่วยงานปิโตรเลียมบรูไนดารุสซาลาม",
+   "id": "Undang-Undang Otoritas Perminyakan Brunei Darussalam",
+   "ms": "Akta Lembaga Petroleum Brunei Darussalam"
+  },
+  "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT": {
+   "vi": "Luật Giám sát hệ thống thanh toán và quyết toán",
+   "th": "พระราชบัญญัติการกำกับดูแลระบบการชำระเงินและการชำระบัญชี",
+   "id": "Undang-Undang Pengawasan Sistem Pembayaran dan Penyelesaian",
+   "ms": "Akta Pengawasan Sistem Pembayaran dan Penyelesaian"
+  },
+  "BN-CAP-294-EXTRADITION-ACT": {
+   "vi": "Luật Dẫn độ",
+   "th": "พระราชบัญญัติการส่งผู้ร้ายข้ามแดน",
+   "id": "Undang-Undang Ekstradisi",
+   "ms": "Akta Ekstradisi"
+  },
+  "BN-H073": {
+   "vi": "Luật Luật giao dịch điện tử",
+   "th": "พระราชบัญญัติกฎหมายธุรกรรมอิเล็กทรอนิกส์",
+   "id": "Undang-Undang Hukum Transaksi Elektronik",
+   "ms": "Akta Undang-Undang Transaksi Elektronik"
+  },
+  "BN-CAP-203-2010-SOCIETIES-ACT": {
+   "vi": "Luật Hội đoàn",
+   "th": "พระราชบัญญัติสมาคม",
+   "id": "Undang-Undang Perhimpunan",
+   "ms": "Akta Persatuan"
+  },
+  "BN-H128": {
+   "vi": "Luật Bồi thường tai nạn lao động",
+   "th": "พระราชบัญญัติการชดเชยค่าทำขวัญแรงงาน",
+   "id": "Undang-Undang Kompensasi Kecelakaan Kerja",
+   "ms": "Akta Pampasan Pekerja"
+  },
+  "BN-CAP-214-2022-UNIVERSITI-TEKNOLOGI-BRUNEI-ACT": {
+   "vi": "Luật Universiti Teknologi Brunei",
+   "th": "พระราชบัญญัติUniversiti Teknologi Brunei",
+   "id": "Undang-Undang Universiti Teknologi Brunei",
+   "ms": "Akta Universiti Teknologi Brunei"
+  },
+  "BN-CAP-188-2000-BROADCASTING-ACT": {
+   "vi": "Luật Phát thanh truyền hình",
+   "th": "พระราชบัญญัติการกระจายเสียง",
+   "id": "Undang-Undang Penyiaran",
+   "ms": "Akta Penyiaran"
+  },
+  "BN-CAP-212-2011-UNIVERSITI-ISLAM-SULTAN-SHARIF-ALI-ACT": {
+   "vi": "Luật Universiti Islam Sultan Sharif Ali",
+   "th": "พระราชบัญญัติUniversiti Islam Sultan Sharif Ali",
+   "id": "Undang-Undang Universiti Islam Sultan Sharif Ali",
+   "ms": "Akta Universiti Islam Sultan Sharif Ali"
+  },
+  "BN-CAP-286-2024-WILD-FAUNA-AND-FLORA-ACT": {
+   "vi": "Luật Động thực vật hoang dã",
+   "th": "พระราชบัญญัติสัตว์ป่าและพันธุ์พืช",
+   "id": "Undang-Undang Satwa dan Flora Liar",
+   "ms": "Akta Hidupan Liar dan Flora"
+  },
+  "BN-S-7-2000-E-EMERGENCY-INDUSTRIAL-DESIGNS-ORDER-1999": {
+   "vi": "Sắc lệnh Kiểu dáng công nghiệp trong tình trạng khẩn cấp năm 1999",
+   "th": "คำสั่งการออกแบบอุตสาหกรรมในสถานการณ์ฉุกเฉิน พ.ศ. 2542",
+   "id": "Perintah Desain Industri dalam Keadaan Darurat Tahun 1999",
+   "ms": "Perintah Reka Bentuk Perindustrian dalam Keadaan Darurat 1999"
+  },
+  "BN-S-92-2006-COMPREHENSIVE-ECONOMIC-CO-OPERATION-BETWEEN-EAAEDF": {
+   "vi": "Sắc lệnh Hợp tác kinh tế toàn diện giữa Hiệp hội các Quốc gia Đông Nam Á và Cộng hòa Nhân dân Trung Hoa năm 2006",
+   "th": "คำสั่งความร่วมมือทางเศรษฐกิจอย่างรอบด้านระหว่างสมาคมประชาชาติแห่งเอเชียตะวันออกเฉียงใต้และสาธารณรัฐประชาชนจีน พ.ศ. 2549",
+   "id": "Perintah Kerja Sama Ekonomi Menyeluruh antara Perhimpunan Bangsa-Bangsa Asia Tenggara dan Republik Rakyat Tiongkok Tahun 2006",
+   "ms": "Perintah Kerjasama Ekonomi Menyeluruh antara Persatuan Negara-Negara Asia Tenggara dan Republik Rakyat China 2006"
+  },
+  "BN-CAP-213-KOLEJ-UNIVERSITI-PERGURUAN-UGAMA-SERI-BEGAWAN-ACT": {
+   "vi": "Luật Kolej Universiti Perguruan Ugama Seri Begawan",
+   "th": "พระราชบัญญัติKolej Universiti Perguruan Ugama Seri Begawan",
+   "id": "Undang-Undang Kolej Universiti Perguruan Ugama Seri Begawan",
+   "ms": "Akta Kolej Universiti Perguruan Ugama Seri Begawan"
+  },
+  "BN-CAP-288-2024-SMALL-CLAIMS-TRIBUNALS-ACT": {
+   "vi": "Luật Tòa án khiếu kiện nhỏ",
+   "th": "พระราชบัญญัติศาลคดีเล็กน้อย",
+   "id": "Undang-Undang Pengadilan Tuntutan Kecil",
+   "ms": "Akta Tribunal Tuntutan Kecil"
+  },
+  "BN-CAP-46-2013-FOREST-ACT": {
+   "vi": "Luật Rừng",
+   "th": "พระราชบัญญัติป่าไม้",
+   "id": "Undang-Undang Kehutanan",
+   "ms": "Akta Hutan"
+  },
+  "BN-S-7-2005-MUTUAL-ASSISTANCE-IN-CRIMINAL-MATTERS-ORDER-2005": {
+   "vi": "Sắc lệnh Tương trợ tư pháp trong các vấn đề hình sự năm 2005",
+   "th": "คำสั่งความช่วยเหลือซึ่งกันและกันในเรื่องอาญา พ.ศ. 2548",
+   "id": "Perintah Bantuan Timbal Balik dalam Masalah Pidana Tahun 2005",
+   "ms": "Perintah Bantuan Bersama dalam Perkara Jenayah 2005"
+  },
+  "BN-CAP-109-2012-SPECIFIC-RELIEF-ACT": {
+   "vi": "Luật Cứu trợ đặc thù",
+   "th": "พระราชบัญญัติการบรรเทาทุกข์เฉพาะ",
+   "id": "Undang-Undang Bantuan Khusus",
+   "ms": "Akta Relief Khusus"
+  },
+  "BN-S-29-1999-E-EMERGENCY-LAND-CODE-STRATA-ORDER1-1999": {
+   "vi": "Sắc lệnh phân tầng đất đai theo Bộ luật Đất đai trong tình trạng khẩn cấp năm 1999",
+   "th": "คำสั่งการแบ่งชั้นที่ดินตามประมวลกฎหมายที่ดินในสถานการณ์ฉุกเฉิน พ.ศ. 2542",
+   "id": "Perintah Strata Tanah menurut Kitab Undang-Undang Tanah dalam Keadaan Darurat Tahun 1999",
+   "ms": "Perintah Strata Tanah di bawah Kanun Tanah dalam Keadaan Darurat 1999"
+  },
+  "BN-S-33-2011-E-ARCHITECTS-PROFESSIONAL-ENGINEERS-AND-QUA-E8B75D": {
+   "vi": "Sắc lệnh Kiến trúc sư, kỹ sư chuyên nghiệp và chuyên gia đo bóc khối lượng năm 2011",
+   "th": "คำสั่งสถาปนิก วิศวกรวิชาชีพ และผู้ประมาณราคา พ.ศ. 2554",
+   "id": "Perintah Arsitek, Insinyur Profesional, dan Juru Ukur Kuantitas Tahun 2011",
+   "ms": "Perintah Arkitek, Jurutera Profesional dan Juruukur Bahan 2011"
+  },
+  "BN-CONST-III-RG-1-2023-FINANCIAL-REGULATIONS": {
+   "vi": "Quy định Tài chính",
+   "th": "ข้อบังคับการเงิน",
+   "id": "Peraturan Keuangan",
+   "ms": "Peraturan Kewangan"
+  },
+  "BN-CAP-4-2022-INTERPRETATION-AND-GENERAL-CLAUSES-ACT": {
+   "vi": "Luật Giải thích và các điều khoản chung",
+   "th": "พระราชบัญญัติการตีความและบททั่วไป",
+   "id": "Undang-Undang Penafsiran dan Ketentuan Umum",
+   "ms": "Akta Tafsiran dan Klausa Am"
+  },
+  "BN-S-17-2019-ANTI-TRAFFICKING-IN-PERSONS-ORDER-2019-SEC-50": {
+   "vi": "Sắc lệnh Chống buôn bán người năm 2019 (Điều 50)",
+   "th": "คำสั่งการต่อต้านการค้ามนุษย์ พ.ศ. 2562 (มาตรา 50)",
+   "id": "Perintah Antipenjualan Orang Tahun 2019 (Pasal 50)",
+   "ms": "Perintah Antipemerdagangan Orang 2019 (Seksyen 50)"
+  },
+  "BN-CAP-132-O1-R3-2022-LEGAL-PROFESSION-PRACTICE-AND-ETIQ-067F40": {
+   "vi": "Quy tắc Hành nghề và quy tắc ứng xử của luật sư",
+   "th": "ข้อกำหนดการปฏิบัติวิชาชีพและจรรยาบรรณทนายความ",
+   "id": "Peraturan Praktik dan Etika Profesi Advokat",
+   "ms": "Kaedah Amalan dan Etiket Profesion Guaman"
+  },
+  "BN-CAP-247-R-1-INSOLVENCYJUDICIAL-MANAGEMENT-RULES": {
+   "vi": "Quy tắc Quản lý tư pháp trong mất khả năng thanh toán",
+   "th": "ข้อกำหนดการบริหารทางตุลาการกรณีล้มละลาย",
+   "id": "Peraturan Pengelolaan Yudisial Insolvensi",
+   "ms": "Kaedah Pengurusan Kehakiman Insolvensi"
+  },
+  "BN-CAP-274-2024-HAZARDOUS-WASTE-CONTROL-OF-EXPORT-IMPORT-75DA37": {
+   "vi": "Luật Kiểm soát chất thải nguy hại trong xuất khẩu, nhập khẩu và quá cảnh",
+   "th": "พระราชบัญญัติการควบคุมของเสียอันตรายในการส่งออก นำเข้า และผ่านแดน",
+   "id": "Undang-Undang Pengendalian Limbah Berbahaya Ekspor, Impor, dan Transit",
+   "ms": "Akta Kawalan Sisa Berbahaya Eksport, Import dan Transit"
+  },
+  "BN-CAP-292-2024-HIRE-PURCHASE-ACT": {
+   "vi": "Luật Thuê mua",
+   "th": "พระราชบัญญัติเช่าซื้อ",
+   "id": "Undang-Undang Sewa Beli",
+   "ms": "Akta Sewa Beli"
+  },
+  "BN-H071": {
+   "vi": "Luật Luật trọng tài",
+   "th": "พระราชบัญญัติกฎหมายอนุญาโตตุลาการ",
+   "id": "Undang-Undang Hukum Arbitrase",
+   "ms": "Akta Undang-Undang Timbang Tara"
+  },
+  "BN-CAP-119-6-2022-INCOME-TAX-PETROLEUM-ACT": {
+   "vi": "Luật Thuế thu nhập dầu khí",
+   "th": "พระราชบัญญัติภาษีเงินได้ปิโตรเลียม",
+   "id": "Undang-Undang Pajak Penghasilan Perminyakan",
+   "ms": "Akta Cukai Pendapatan Petroleum"
+  },
+  "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT": {
+   "vi": "Luật Quản lý thiên tai",
+   "th": "พระราชบัญญัติการจัดการภัยพิบัติ",
+   "id": "Undang-Undang Penanggulangan Bencana",
+   "ms": "Akta Pengurusan Bencana"
+  },
+  "BN-CAP-239-TOURISM-ACT": {
+   "vi": "Luật Du lịch",
+   "th": "พระราชบัญญัติการท่องเที่ยว",
+   "id": "Undang-Undang Pariwisata",
+   "ms": "Akta Pelancongan"
+  },
+  "BN-S-68-2016-TOURISM-ORDER-2016-SEC-48": {
+   "vi": "Sắc lệnh Du lịch năm 2016 (Điều 48)",
+   "th": "คำสั่งการท่องเที่ยว พ.ศ. 2559 (มาตรา 48)",
+   "id": "Perintah Pariwisata Tahun 2016 (Pasal 48)",
+   "ms": "Perintah Pelancongan 2016 (Seksyen 48)"
+  },
+  "BN-S-68-2016-TOURISM-ORDER-2016": {
+   "vi": "Sắc lệnh Du lịch năm 2016",
+   "th": "คำสั่งการท่องเที่ยว พ.ศ. 2559",
+   "id": "Perintah Pariwisata Tahun 2016",
+   "ms": "Perintah Pelancongan 2016"
+  },
+  "BN-CAP-230-2021-ANTI-TRAFFICKING-IN-PERSONS-ACT": {
+   "vi": "Luật Chống buôn bán người",
+   "th": "พระราชบัญญัติการต่อต้านการค้ามนุษย์",
+   "id": "Undang-Undang Antipenjualan Orang",
+   "ms": "Akta Antipemerdagangan Orang"
+  },
+  "BN-CAP-277-RG-3-2024-WSAH-GENERAL-PROVISIONS-REGULATIONS": {
+   "vi": "Quy định Quy định chung về an toàn và sức khỏe lao động",
+   "th": "ข้อบังคับบททั่วไปว่าด้วยความปลอดภัยและอาชีวอนามัย",
+   "id": "Peraturan Ketentuan Umum Keselamatan dan Kesehatan Kerja",
+   "ms": "Peraturan Peruntukan Am Keselamatan dan Kesihatan Pekerjaan"
+  },
+  "BN-S-59-1958-POLICE-REGULATIONS-1958": {
+   "vi": "Quy định Cảnh sát năm 1958",
+   "th": "ข้อบังคับตำรวจ พ.ศ. 2501",
+   "id": "Peraturan Kepolisian Tahun 1958",
+   "ms": "Peraturan Polis 1958"
+  },
+  "BN-CAP-31-2002-ANTIQUITIES-AND-TREASURE-TROVE-ACT": {
+   "vi": "Luật Cổ vật và kho báu",
+   "th": "พระราชบัญญัติโบราณวัตถุและสมบัติโบราณ",
+   "id": "Undang-Undang Benda Cagar Budaya dan Harta Karun",
+   "ms": "Akta Antikuiti dan Harta Karun"
+  },
+  "BN-H057": {
+   "vi": "Luật Bảo vệ người tiêu dùng (thương mại công bằng)",
+   "th": "พระราชบัญญัติการคุ้มครองผู้บริโภค (การค้าที่เป็นธรรม)",
+   "id": "Undang-Undang Perlindungan Konsumen (Perdagangan yang Adil)",
+   "ms": "Akta Perlindungan Pengguna (Perdagangan Adil)"
+  },
+  "BN-S-30-2005-VETERINARY-SURGEONS-ORDER-2005": {
+   "vi": "Sắc lệnh Bác sĩ thú y năm 2005",
+   "th": "คำสั่งสัตวแพทย์ พ.ศ. 2548",
+   "id": "Perintah Dokter Hewan Tahun 2005",
+   "ms": "Perintah Doktor Veterinar 2005"
+  },
+  "BN-CAP-228-2021-RADIATION-PROTECTION-ORDER": {
+   "vi": "Sắc lệnh Bảo vệ bức xạ",
+   "th": "คำสั่งการป้องกันรังสี",
+   "id": "Perintah Proteksi Radiasi",
+   "ms": "Perintah Perlindungan Sinaran"
+  },
+  "BN-S-43-1999-E-BRUNEI-INTERNATIONAL-AIRPORT-BY-LAWS-1999": {
+   "vi": "Luật Quy định nội bộ Sân bay Quốc tế Brunei năm 1999",
+   "th": "พระราชบัญญัติข้อบังคับภายในท่าอากาศยานนานาชาติบรูไน พ.ศ. 2542",
+   "id": "Undang-Undang Peraturan Internal Bandara Internasional Brunei Tahun 1999",
+   "ms": "Akta Undang-Undang Kecil Lapangan Terbang Antarabangsa Brunei 1999"
+  },
+  "BN-CAP-26-1984-ELECTION-OFFENCES-ACT-1": {
+   "vi": "Luật Tội phạm bầu cử số 1",
+   "th": "พระราชบัญญัติความผิดเกี่ยวกับการเลือกตั้ง ฉบับที่ 1",
+   "id": "Undang-Undang Pelanggaran Pemilu Nomor 1",
+   "ms": "Akta Kesalahan Pilihan Raya Bilangan 1"
+  },
+  "BN-CAP-240-ENVIRONMENTAL-PROTECTION-AND-MANAGEMENT-ACT": {
+   "vi": "Luật Bảo vệ và quản lý môi trường",
+   "th": "พระราชบัญญัติการคุ้มครองและจัดการสิ่งแวดล้อม",
+   "id": "Undang-Undang Perlindungan dan Pengelolaan Lingkungan Hidup",
+   "ms": "Akta Perlindungan dan Pengurusan Alam Sekitar"
+  },
+  "BN-CAP-76-2013-MARRIAGE-ACT": {
+   "vi": "Luật Hôn nhân",
+   "th": "พระราชบัญญัติการสมรส",
+   "id": "Undang-Undang Perkawinan",
+   "ms": "Akta Perkahwinan"
+  },
+  "BN-CAP-133-R-1-INTERNAL-SECURITY-PLACE-OF-DETENTION-RULES": {
+   "vi": "Quy tắc Nơi giam giữ vì an ninh quốc nội",
+   "th": "ข้อกำหนดสถานที่กักขังเพื่อความมั่นคงภายใน",
+   "id": "Peraturan Tempat Penahanan Keamanan Dalam Negeri",
+   "ms": "Kaedah Tempat Tahanan Keselamatan Dalam Negeri"
+  },
+  "BN-S-62-2006-MERCHANT-SHIPPING-REGISTRATION-OF-SHIPS-REGNS-2006": {
+   "vi": "Quy định Đăng ký tàu biển năm 2006",
+   "th": "ข้อบังคับการจดทะเบียนเรือ พ.ศ. 2549",
+   "id": "Peraturan Pendaftaran Kapal Tahun 2006",
+   "ms": "Peraturan Pendaftaran Kapal 2006"
+  },
+  "BN-CAP-258-2023-INSTITUTE-OF-BRUNEI-TECHNICAL-EDUCATION-ACT": {
+   "vi": "Luật Học viện Giáo dục Kỹ thuật Brunei",
+   "th": "พระราชบัญญัติสถาบันการศึกษาด้านเทคนิคบรูไน",
+   "id": "Undang-Undang Institut Pendidikan Teknik Brunei",
+   "ms": "Akta Institut Pendidikan Teknikal Brunei"
+  },
+  "BN-CONST-1-S-O-1-2005-STANDING-ORDERS-OF-THE-LEGISLATIVE-COUNCIL": {
+   "vi": "Luật Quy chế hoạt động của Hội đồng Lập pháp",
+   "th": "พระราชบัญญัติข้อบังคับการประชุมของสภาที่ปรึกษานิติบัญญัติ",
+   "id": "Undang-Undang Tata Tertib Dewan Legislatif",
+   "ms": "Akta Perintah Tetap Majlis Mesyuarat Negara"
+  },
+  "BN-CAP-148-2021-PUBLIC-ORDER-ACT-1": {
+   "vi": "Luật Trật tự công cộng",
+   "th": "พระราชบัญญัติความสงบเรียบร้อยของประชาชน",
+   "id": "Undang-Undang Ketertiban Umum",
+   "ms": "Akta Ketenteraman Awam"
+  },
+  "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1": {
+   "vi": "Tình trạng khẩn cấp năm 1962",
+   "th": "สถานการณ์ฉุกเฉิน พ.ศ. 2505",
+   "id": "Keadaan Darurat Tahun 1962",
+   "ms": "Darurat 1962"
+  },
+  "BN-S-84-2004-E-EMPLOYMENT-AGENCIES-ORDER-2004-1": {
+   "vi": "Sắc lệnh Cơ quan giới thiệu việc làm số 1 năm 2004",
+   "th": "คำสั่งหน่วยจัดหางาน ฉบับที่ 1 พ.ศ. 2547",
+   "id": "Perintah Agen Penempatan Kerja Nomor 1 Tahun 2004",
+   "ms": "Perintah Agensi Pekerjaan Bilangan 1 2004"
+  },
+  "BN-CAP-133-2008-INTERNAL-SECURITY-ACT": {
+   "vi": "Luật An ninh quốc nội",
+   "th": "พระราชบัญญัติความมั่นคงภายใน",
+   "id": "Undang-Undang Keamanan Dalam Negeri",
+   "ms": "Akta Keselamatan Dalam Negeri"
+  },
+  "BN-CAP-236-2022-BRUNEI-DARUSSALAM-FOOD-AUTHORITY-ACT": {
+   "vi": "Luật Cơ quan Thực phẩm Brunei Darussalam",
+   "th": "พระราชบัญญัติหน่วยงานอาหารบรูไนดารุสซาลาม",
+   "id": "Undang-Undang Otoritas Pangan Brunei Darussalam",
+   "ms": "Akta Lembaga Makanan Brunei Darussalam"
+  },
+  "BN-CAP-284-2024-MERCHANT-SHIPPING-CIVIL-LIABILITY-AND-CO-043143": {
+   "vi": "Luật Trách nhiệm dân sự và bồi thường ô nhiễm dầu trong vận tải biển",
+   "th": "พระราชบัญญัติความรับผิดทางแพ่งและการชดเชยความเสียหายจากมลพิษน้ำมันในการเดินเรือพาณิชย์",
+   "id": "Undang-Undang Tanggung Jawab Perdata dan Kompensasi Pencemaran Minyak dalam Pelayaran Niaga",
+   "ms": "Akta Liabiliti Sivil dan Pampasan Pencemaran Minyak dalam Perkapalan Saudagar"
+  },
+  "BN-CAP-41-1984-LAND-ACQUISITION-ACT-1": {
+   "vi": "Luật Thu hồi đất số 1",
+   "th": "พระราชบัญญัติการเวนคืนที่ดิน ฉบับที่ 1",
+   "id": "Undang-Undang Pengadaan Tanah Nomor 1",
+   "ms": "Akta Pengambilan Tanah Bilangan 1"
+  },
+  "BN-H075": {
+   "vi": "Luật Luật khu thương mại tự do năm 2014",
+   "th": "พระราชบัญญัติกฎหมายเขตการค้าเสรี พ.ศ. 2557",
+   "id": "Undang-Undang Hukum Kawasan Perdagangan Bebas Tahun 2014",
+   "ms": "Akta Undang-Undang Zon Perdagangan Bebas 2014"
+  },
+  "BN-S-16-2004-CURRENCY-AND-MONETARY-ORDER-2004-SEC-36": {
+   "vi": "Sắc lệnh Tiền tệ và tài chính tiền tệ năm 2004 (Điều 36)",
+   "th": "คำสั่งสกุลเงินและการเงิน พ.ศ. 2547 (มาตรา 36)",
+   "id": "Perintah Mata Uang dan Moneter Tahun 2004 (Pasal 36)",
+   "ms": "Perintah Mata Wang dan Kewangan 2004 (Seksyen 36)"
+  },
+  "BN-S-49-2005-TOBACCO-ORDER-2005": {
+   "vi": "Sắc lệnh Thuốc lá năm 2005",
+   "th": "คำสั่งยาสูบ พ.ศ. 2548",
+   "id": "Perintah Tembakau Tahun 2005",
+   "ms": "Perintah Tembakau 2005"
+  },
+  "BN-S-6-2011-WHOLESOME-MEAT-ORDER-2011": {
+   "vi": "Sắc lệnh Thịt bảo đảm vệ sinh năm 2011",
+   "th": "คำสั่งเนื้อสัตว์ที่ปลอดภัย พ.ศ. 2554",
+   "id": "Perintah Daging Sehat Tahun 2011",
+   "ms": "Perintah Daging Sihat 2011"
+  },
+  "BN-CAP-190-2014-MARRIED-WOMEN-ACT": {
+   "vi": "Luật Phụ nữ đã kết hôn",
+   "th": "พระราชบัญญัติหญิงที่สมรสแล้ว",
+   "id": "Undang-Undang Perempuan Kawin",
+   "ms": "Akta Wanita Bersuami"
+  },
+  "BN-CAP-7-R-4-2021-CRIMINAL-APPEAL-RULES": {
+   "vi": "Quy tắc Kháng cáo hình sự",
+   "th": "ข้อกำหนดอุทธรณ์คดีอาญา",
+   "id": "Peraturan Banding Pidana",
+   "ms": "Kaedah Rayuan Jenayah"
+  },
+  "BN-S-53-2000-E-INTERNATIONAL-BANKING-ORDER-2000": {
+   "vi": "Sắc lệnh Ngân hàng quốc tế năm 2000",
+   "th": "คำสั่งการธนาคารระหว่างประเทศ พ.ศ. 2543",
+   "id": "Perintah Perbankan Internasional Tahun 2000",
+   "ms": "Perintah Perbankan Antarabangsa 2000"
+  },
+  "BN-CAP-128-2023-TRADE-UNIONS-ACT": {
+   "vi": "Luật Công đoàn",
+   "th": "พระราชบัญญัติสหภาพแรงงาน",
+   "id": "Undang-Undang Serikat Pekerja",
+   "ms": "Akta Kesatuan Sekerja"
+  },
+  "BN-CAP-233-2026-ENERGY-EFFICIENCY-STANDARDS-AND-LABELLING-ACT": {
+   "vi": "Luật Tiêu chuẩn và nhãn hiệu suất năng lượng",
+   "th": "พระราชบัญญัติมาตรฐานและฉลากประสิทธิภาพพลังงาน",
+   "id": "Undang-Undang Standar dan Label Efisiensi Energi",
+   "ms": "Akta Piawaian dan Pelabelan Kecekapan Tenaga"
+  },
+  "BN-CAP-30-2023-MISCELLANEOUS-OFFENCES-ACT": {
+   "vi": "Luật Tội phạm khác",
+   "th": "พระราชบัญญัติความผิดเบ็ดเตล็ด",
+   "id": "Undang-Undang Pelanggaran Lain-lain",
+   "ms": "Akta Kesalahan Lain-Lain"
+  },
+  "BN-CONST-II-2012-SUCCESSION-AND-REGENCY-PROCLAMATION-1959": {
+   "vi": "Công bố Kế vị và nhiếp chính năm 1959",
+   "th": "ประกาศการสืบราชสันตติวงศ์และการสำเร็จราชการ พ.ศ. 2502",
+   "id": "Proklamasi Suksesi dan Perwalian Tahun 1959",
+   "ms": "Pengisytiharan Pewarisan dan Pemangku Raja 1959"
+  },
+  "BN-H143": {
+   "vi": "Quy tắc Quỹ xây dựng nhà thờ Hồi giáo",
+   "th": "ข้อกำหนดกองทุนก่อสร้างมัสยิด",
+   "id": "Peraturan Dana Pembangunan Masjid",
+   "ms": "Kaedah Tabung Pembinaan Masjid"
+  },
+  "BN-CAP-102-1984-WILD-LIFE-PROTECTION-ACT": {
+   "vi": "Luật Bảo vệ động vật hoang dã",
+   "th": "พระราชบัญญัติการคุ้มครองสัตว์ป่า",
+   "id": "Undang-Undang Perlindungan Satwa Liar",
+   "ms": "Akta Perlindungan Hidupan Liar"
+  },
+  "BN-CAP-229-2021-PREVENTION-OF-PEOPLE-SMUGGLING-ACT": {
+   "vi": "Luật Phòng chống đưa người nhập cảnh trái phép",
+   "th": "พระราชบัญญัติการป้องกันการลักลอบขนคนเข้าเมือง",
+   "id": "Undang-Undang Pencegahan Penyelundupan Orang",
+   "ms": "Akta Pencegahan Penyeludupan Orang"
+  },
+  "BN-CAP-28-2019-COMMON-GAMING-HOUSES-ACT": {
+   "vi": "Luật Nhà cái cá cược phổ biến",
+   "th": "พระราชบัญญัติบ่อนการพนันทั่วไป",
+   "id": "Undang-Undang Rumah Judi Umum",
+   "ms": "Akta Rumah Perjudian Awam"
+  },
+  "BN-CAP-196-2026-TABUNG-AMANAH-PEKERJA-ACT-1": {
+   "vi": "Luật Tabung Amanah Pekerja số 1",
+   "th": "พระราชบัญญัติTabung Amanah Pekerja ฉบับที่ 1",
+   "id": "Undang-Undang Tabung Amanah Pekerja Nomor 1",
+   "ms": "Akta Tabung Amanah Pekerja Bilangan 1"
+  },
+  "BN-CAP-234-2022-PERSONS-WITH-DISABILITIES-ACT": {
+   "vi": "Luật Người khuyết tật",
+   "th": "พระราชบัญญัติคนพิการ",
+   "id": "Undang-Undang Penyandang Disabilitas",
+   "ms": "Akta Orang Kurang Upaya"
+  },
+  "BN-H076": {
+   "vi": "Luật Luật tranh chấp lao động",
+   "th": "พระราชบัญญัติกฎหมายข้อพิพาทแรงงาน",
+   "id": "Undang-Undang Hukum Perselisihan Perburuhan",
+   "ms": "Akta Undang-Undang Pertikaian Perdagangan"
+  },
+  "BN-CAP-161-2013-INTOXICATING-SUBSTANCES-ACT": {
+   "vi": "Luật Chất gây say",
+   "th": "พระราชบัญญัติสารมึนเมา",
+   "id": "Undang-Undang Zat Memabukkan",
+   "ms": "Akta Bahan Memabukkan"
+  },
+  "BN-CAP-193-2000-WILLS-ACT": {
+   "vi": "Luật Di chúc",
+   "th": "พระราชบัญญัติพินัยกรรม",
+   "id": "Undang-Undang Wasiat",
+   "ms": "Akta Wasiat"
+  },
+  "BN-RG-1-BUSINESS-LICENCES-REGULATIONS": {
+   "vi": "Quy định Giấy phép kinh doanh",
+   "th": "ข้อบังคับใบอนุญาตประกอบธุรกิจ",
+   "id": "Peraturan Perizinan Usaha",
+   "ms": "Peraturan Lesen Perniagaan"
+  },
+  "BN-S-3-2025-WSAH-WORK-AT-HEIGHTS-REGULATIONS-2025": {
+   "vi": "Quy định Làm việc trên cao theo quy định an toàn lao động năm 2025",
+   "th": "ข้อบังคับการทำงานในที่สูงตามข้อกำหนดความปลอดภัย พ.ศ. 2568",
+   "id": "Peraturan Bekerja di Ketinggian menurut Ketentuan Keselamatan Kerja Tahun 2025",
+   "ms": "Peraturan Bekerja di Tempat Tinggi menurut Peruntukan Keselamatan Kerja 2025"
+  },
+  "BN-CAP-277-RG-2-2024-FACILITIES-COMAH-REGULATIONS": {
+   "vi": "Quy định Cơ sở COMAH",
+   "th": "ข้อบังคับสถานประกอบการ COMAH",
+   "id": "Peraturan Fasilitas COMAH",
+   "ms": "Peraturan Kemudahan COMAH"
+  },
+  "BN-S-40-2014-TOWN-PLANNERS-REGISTRATION-ORDER-2014": {
+   "vi": "Sắc lệnh Đăng ký quy hoạch viên đô thị năm 2014",
+   "th": "คำสั่งการขึ้นทะเบียนนักผังเมือง พ.ศ. 2557",
+   "id": "Perintah Registrasi Perencana Tata Ruang Tahun 2014",
+   "ms": "Perintah Pendaftaran Perancang Bandar 2014"
+  },
+  "BN-CAP-112-1984-MEDICAL-PRACTITIONERS-AND-DENTISTS-ACT": {
+   "vi": "Luật Bác sĩ y khoa và nha sĩ",
+   "th": "พระราชบัญญัติแพทย์และทันตแพทย์",
+   "id": "Undang-Undang Dokter dan Dokter Gigi",
+   "ms": "Akta Pengamal Perubatan dan Doktor Gigi"
+  },
+  "BN-S-2-2016-SEC-27-FOURTH-SCHEDULE-OF-THE-TABUNG-AMANAH-C0C498": {
+   "vi": "Sắc lệnh Phụ lục thứ tư của Hội đồng Tabung Amanah Pekerja năm 2016 (Điều 27)",
+   "th": "คำสั่งภาคผนวกที่สี่ของคณะกรรมการ Tabung Amanah Pekerja พ.ศ. 2559 (มาตรา 27)",
+   "id": "Perintah Lampiran Keempat Dewan Tabung Amanah Pekerja Tahun 2016 (Pasal 27)",
+   "ms": "Perintah Jadual Keempat Lembaga Tabung Amanah Pekerja 2016 (Seksyen 27)"
+  },
+  "BN-CAP-132-O1-R2-2022-LEGAL-PROFESSION-DISCIPLINARY-COMM-A89C48": {
+   "vi": "Quy tắc Thủ tục của Ủy ban Kỷ luật hành nghề luật sư",
+   "th": "ข้อกำหนดกระบวนพิจารณาของคณะกรรมการวินัยวิชาชีพทนายความ",
+   "id": "Peraturan Prosedur Komite Disiplin Profesi Advokat",
+   "ms": "Kaedah Prosiding Jawatankuasa Tatatertib Profesion Guaman"
+  },
+  "BN-CAP-259-2023-HOUSING-DEVELOPERS-CONTROL-AND-LICENSING-ACT": {
+   "vi": "Luật Kiểm soát và cấp phép chủ đầu tư nhà ở",
+   "th": "พระราชบัญญัติการควบคุมและออกใบอนุญาตผู้พัฒนาที่อยู่อาศัย",
+   "id": "Undang-Undang Pengendalian dan Perizinan Pengembang Perumahan",
+   "ms": "Akta Kawalan dan Pelesenan Pemaju Perumahan"
+  },
+  "BN-MEETING-OF-CREDITORS-RULES": {
+   "vi": "Quy tắc Cuộc họp chủ nợ",
+   "th": "ข้อกำหนดการประชุมเจ้าหนี้",
+   "id": "Peraturan Rapat Kreditur",
+   "ms": "Kaedah Mesyuarat Pemiutang"
+  },
+  "BN-S-34-2018-BANDAR-SERI-BEGAWAN-MUNICIPAL-BOARD-STANDIN-9562F9": {
+   "vi": "Luật Quy chế của Ủy ban Đô thị Bandar Seri Begawan năm 2018",
+   "th": "พระราชบัญญัติข้อบังคับของคณะกรรมการเทศบาล Bandar Seri Begawan พ.ศ. 2561",
+   "id": "Undang-Undang Tata Tertib Dewan Kotamadya Bandar Seri Begawan Tahun 2018",
+   "ms": "Akta Perintah Tetap Lembaga Perbandaran Bandar Seri Begawan 2018"
+  },
+  "BN-S-56-2018-SECTION-26-CONSEQUENTIAL-AMENDMENTS-OF-THE-EC2A2E": {
+   "vi": "Sắc lệnh sửa đổi kèm theo Phụ lục 3 của Cơ quan Quốc gia về An toàn, Sức khỏe và Môi trường năm 2018 (Điều 26)",
+   "th": "คำสั่งแก้ไขเพิ่มเติมที่เกี่ยวข้องของภาคผนวก 3 ของหน่วยงานแห่งชาติด้านความปลอดภัย สุขภาพ และสิ่งแวดล้อม พ.ศ. 2561 (มาตรา 26)",
+   "id": "Perintah Perubahan Konsekuensial Lampiran 3 Otoritas Nasional Keselamatan, Kesehatan, dan Lingkungan Tahun 2018 (Pasal 26)",
+   "ms": "Perintah Pindaan Bersampingan Jadual 3 Lembaga Kebangsaan Keselamatan, Kesihatan dan Alam Sekitar 2018 (Seksyen 26)"
+  },
+  "BN-S-68-2000-INTERNATIONAL-BANKING-FEES-FORMS-AND-MISCEL-FB0A74": {
+   "vi": "Quy định Phí, biểu mẫu và quy định khác về ngân hàng quốc tế năm 2000",
+   "th": "ข้อบังคับค่าธรรมเนียม แบบฟอร์ม และบทบัญญัติเบ็ดเตล็ดเกี่ยวกับการธนาคารระหว่างประเทศ พ.ศ. 2543",
+   "id": "Peraturan Biaya, Formulir, dan Ketentuan Lain tentang Perbankan Internasional Tahun 2000",
+   "ms": "Peraturan Fi, Borang dan Peruntukan Lain tentang Perbankan Antarabangsa 2000"
+  },
+  "BN-CAP-187-2000-SECURITY-AGENCIES-ACT": {
+   "vi": "Luật Cơ quan an ninh",
+   "th": "พระราชบัญญัติหน่วยรักษาความปลอดภัย",
+   "id": "Undang-Undang Agen Keamanan",
+   "ms": "Akta Agensi Keselamatan"
+  },
+  "BN-CAP-216-2021-POLITEKNIK-BRUNEI-ACT": {
+   "vi": "Luật Politeknik Brunei",
+   "th": "พระราชบัญญัติPoliteknik Brunei",
+   "id": "Undang-Undang Politeknik Brunei",
+   "ms": "Akta Politeknik Brunei"
+  },
+  "BN-CAP-237-R-1-2022-SYARIAH-COURTS-COURT-FEES-AND-COSTS-RULES": {
+   "vi": "Quy tắc Phí và lệ phí tòa án của Tòa án Syariah",
+   "th": "ข้อกำหนดค่าธรรมเนียมและค่าใช้จ่ายศาลของศาลชะรีอะฮ์",
+   "id": "Peraturan Biaya dan Ongkos Perkara Mahkamah Syariah",
+   "ms": "Kaedah Fi dan Kos Mahkamah Syariah"
+  },
+  "BN-CAP-244-2022-DARUSSALAM-ENTERPRISE-ACT": {
+   "vi": "Luật Darussalam Enterprise",
+   "th": "พระราชบัญญัติDarussalam Enterprise",
+   "id": "Undang-Undang Darussalam Enterprise",
+   "ms": "Akta Darussalam Enterprise"
+  },
+  "BN-S-2-2014-TUTONG-MUNICIPAL-BOARD-STANDING-ORDERS-BY-LAWS-2014": {
+   "vi": "Luật Quy chế của Ủy ban Đô thị Tutong năm 2014",
+   "th": "พระราชบัญญัติข้อบังคับของคณะกรรมการเทศบาล Tutong พ.ศ. 2557",
+   "id": "Undang-Undang Tata Tertib Dewan Kotamadya Tutong Tahun 2014",
+   "ms": "Akta Perintah Tetap Lembaga Perbandaran Tutong 2014"
+  },
+  "BN-S-21-2001-PHARMACISTS-REGISTRATION-ORDER-2001": {
+   "vi": "Sắc lệnh Đăng ký dược sĩ năm 2001",
+   "th": "คำสั่งการขึ้นทะเบียนเภสัชกร พ.ศ. 2544",
+   "id": "Perintah Registrasi Apoteker Tahun 2001",
+   "ms": "Perintah Pendaftaran Ahli Farmasi 2001"
+  },
+  "BN-S-45-2000-E-INTERNATIONAL-LIMITED-PARTNERSHIPS-ORDER-2000": {
+   "vi": "Sắc lệnh Công ty hợp danh hữu hạn quốc tế năm 2000",
+   "th": "คำสั่งห้างหุ้นส่วนจำกัดระหว่างประเทศ พ.ศ. 2543",
+   "id": "Perintah Persekutuan Terbatas Internasional Tahun 2000",
+   "ms": "Perintah Perkongsian Terhad Antarabangsa 2000"
+  },
+  "BN-S-68-2014-KUALA-BELAIT-AND-SERIA-MUNICIPAL-BOARD-STAN-2AEAA5": {
+   "vi": "Luật Quy chế của Ủy ban Đô thị Kuala Belait và Seria năm 2014",
+   "th": "พระราชบัญญัติข้อบังคับของคณะกรรมการเทศบาล Kuala Belait และ Seria พ.ศ. 2557",
+   "id": "Undang-Undang Tata Tertib Dewan Kotamadya Kuala Belait dan Seria Tahun 2014",
+   "ms": "Akta Perintah Tetap Lembaga Perbandaran Kuala Belait dan Seria 2014"
+  },
+  "BN-CAP-199-2009-DISTRESS-ACT": {
+   "vi": "Luật Tịch biên",
+   "th": "พระราชบัญญัติการยึดทรัพย์",
+   "id": "Undang-Undang Penyitaan",
+   "ms": "Akta Penyitaan"
+  },
+  "BN-CAP-227-2021-SAFETY-HEALTH-AND-ENVIRONMENT-NATIONAL-A-69E80C": {
+   "vi": "Luật Cơ quan Quốc gia về An toàn, Sức khỏe và Môi trường",
+   "th": "พระราชบัญญัติหน่วยงานแห่งชาติด้านความปลอดภัย สุขภาพ และสิ่งแวดล้อม",
+   "id": "Undang-Undang Otoritas Nasional Keselamatan, Kesehatan, dan Lingkungan",
+   "ms": "Akta Lembaga Kebangsaan Keselamatan, Kesihatan dan Alam Sekitar"
+  },
+  "BN-CAP-246-TABUNG-AMANAH-PEKERJA-BOARD-ACT-1": {
+   "vi": "Luật Hội đồng Tabung Amanah Pekerja",
+   "th": "พระราชบัญญัติคณะกรรมการ Tabung Amanah Pekerja",
+   "id": "Undang-Undang Dewan Tabung Amanah Pekerja",
+   "ms": "Akta Lembaga Tabung Amanah Pekerja"
+  },
+  "BN-CAP-281-2024-VALUERS-AND-ESTATE-AGENTS": {
+   "vi": "Luật Thẩm định viên và đại lý bất động sản",
+   "th": "พระราชบัญญัติผู้ประเมินราคาและนายหน้าอสังหาริมทรัพย์",
+   "id": "Undang-Undang Penilai dan Agen Properti",
+   "ms": "Akta Penilai dan Ejen Hartanah"
+  },
+  "BN-CAP-295-2024-SYARIAH-FINANCIAL-SUPERVISORY-BOARD-ACT": {
+   "vi": "Luật Hội đồng Giám sát Tài chính Syariah",
+   "th": "พระราชบัญญัติคณะกรรมการกำกับดูแลการเงินชะรีอะฮ์",
+   "id": "Undang-Undang Dewan Pengawas Keuangan Syariah",
+   "ms": "Akta Lembaga Penyeliaan Kewangan Syariah"
+  },
+  "BN-CAP-90-2014-MOTOR-VEHICLES-INSURANCE-THIRD-PARTY-RISKS-ACT": {
+   "vi": "Luật Bảo hiểm trách nhiệm bên thứ ba của xe cơ giới",
+   "th": "พระราชบัญญัติการประกันภัยรถยนต์ความรับผิดต่อบุคคลภายนอก",
+   "id": "Undang-Undang Asuransi Kendaraan Bermotor Tanggung Jawab Pihak Ketiga",
+   "ms": "Akta Insurans Kenderaan Bermotor Risiko Pihak Ketiga"
+  },
+  "BN-S-20-1988-E-EMERGENCY-UNIVERSITI-BRUNEI-DARUSSALAM-ORDER-1988": {
+   "vi": "Sắc lệnh Universiti Brunei Darussalam trong tình trạng khẩn cấp năm 1988",
+   "th": "คำสั่งUniversiti Brunei Darussalam ในสถานการณ์ฉุกเฉิน พ.ศ. 2531",
+   "id": "Perintah Universiti Brunei Darussalam dalam Keadaan Darurat Tahun 1988",
+   "ms": "Perintah Universiti Brunei Darussalam dalam Keadaan Darurat 1988"
+  },
+  "BN-S-57-2021-ROYAL-BRUNEI-POLICE-FORCE-DISCIPLINAY-PROCE-A9093B": {
+   "vi": "Quy định Thủ tục kỷ luật của Lực lượng Cảnh sát Hoàng gia Brunei năm 2021",
+   "th": "ข้อบังคับกระบวนพิจารณาทางวินัยของกองกำลังตำรวจหลวงบรูไน พ.ศ. 2564",
+   "id": "Peraturan Prosedur Disiplin Kepolisian Kerajaan Brunei Tahun 2021",
+   "ms": "Peraturan Prosiding Tatatertib Pasukan Polis Diraja Brunei 2021"
+  },
+  "BN-S-82-2004-TRAFFICKING-AND-SMUGGLING-OF-PERSONS-ORDER-2004": {
+   "vi": "Sắc lệnh Buôn bán và đưa người trái phép năm 2004",
+   "th": "คำสั่งการค้าและการลักลอบขนคน พ.ศ. 2547",
+   "id": "Perintah Perdagangan dan Penyelundupan Orang Tahun 2004",
+   "ms": "Perintah Pemerdagangan dan Penyeludupan Orang 2004"
+  },
+  "BN-CAP-120-1984-WOMEN-AND-GIRLS-PROTECTION-ACT": {
+   "vi": "Luật Bảo vệ phụ nữ và trẻ em gái",
+   "th": "พระราชบัญญัติการคุ้มครองสตรีและเด็กหญิง",
+   "id": "Undang-Undang Perlindungan Perempuan dan Anak Perempuan",
+   "ms": "Akta Perlindungan Wanita dan Gadis"
+  },
+  "BN-CAP-191-GUARDIANSHIP-OF-INFANTS-ACT": {
+   "vi": "Luật Giám hộ trẻ sơ sinh",
+   "th": "พระราชบัญญัติการปกครองดูแลทารก",
+   "id": "Undang-Undang Perwalian Anak",
+   "ms": "Akta Penjagaan Bayi"
+  },
+  "BN-CAP-195-2008-DEBTORS-ACT": {
+   "vi": "Luật Con nợ",
+   "th": "พระราชบัญญัติลูกหนี้",
+   "id": "Undang-Undang Debitur",
+   "ms": "Akta Penghutang"
+  },
+  "BN-S-31-2013-E-ANTI-TERRORISM-TERRORIST-FINANCING-REGULA-586B28": {
+   "vi": "Quy định Chống khủng bố và tài trợ khủng bố năm 2013",
+   "th": "ข้อบังคับการต่อต้านการก่อการร้ายและการสนับสนุนทางการเงินแก่การก่อการร้าย พ.ศ. 2556",
+   "id": "Peraturan Antiterorisme dan Pendanaan Terorisme Tahun 2013",
+   "ms": "Peraturan Antikeganasan dan Pembiayaan Keganasan 2013"
+  },
+  "BN-CAP-185-2020-DANA-PENGIRAN-MUDA-MAHKOTA-AL-MUHTADEE-B-BBDFDF": {
+   "vi": "Luật Dana Pengiran Muda Mahkota Al-Muhtadee Billah cho trẻ mồ côi số 1",
+   "th": "พระราชบัญญัติกองทุน Pengiran Muda Mahkota Al-Muhtadee Billah เพื่อเด็กกำพร้า ฉบับที่ 1",
+   "id": "Undang-Undang Dana Pengiran Muda Mahkota Al-Muhtadee Billah untuk Anak Yatim Nomor 1",
+   "ms": "Akta Dana Pengiran Muda Mahkota Al-Muhtadee Billah untuk Anak Yatim Bilangan 1"
+  },
+  "BN-CAP-192-2000-DEFAMATION-ACT": {
+   "vi": "Luật Phỉ báng",
+   "th": "พระราชบัญญัติการหมิ่นประมาท",
+   "id": "Undang-Undang Pencemaran Nama Baik",
+   "ms": "Akta Fitnah"
+  },
+  "BN-CAP-225-2021-HIBAH-ACT": {
+   "vi": "Luật Hibah",
+   "th": "พระราชบัญญัติฮิบะฮ์",
+   "id": "Undang-Undang Hibah",
+   "ms": "Akta Hibah"
+  },
+  "BN-CAP-9-2014-COMMISSIONS-OF-INQUIRY-ACT": {
+   "vi": "Luật Ủy ban điều tra",
+   "th": "พระราชบัญญัติคณะกรรมการสอบสวน",
+   "id": "Undang-Undang Komisi Penyelidikan",
+   "ms": "Akta Suruhanjaya Siasatan"
+  },
+  "BN-PROOF-OF-DEBTS-RULES": {
+   "vi": "Quy tắc Chứng minh nợ",
+   "th": "ข้อกำหนดการพิสูจน์หนี้",
+   "id": "Peraturan Pembuktian Utang",
+   "ms": "Kaedah Pembuktian Hutang"
+  },
+  "BN-S-31-2002-E-FISHERIES-FISH-LANDING-COMPLEXES-REGULATIONS-2002": {
+   "vi": "Quy định Khu phức hợp bốc dỡ cá năm 2002",
+   "th": "ข้อบังคับศูนย์ขนถ่ายปลา พ.ศ. 2545",
+   "id": "Peraturan Kompleks Pendaratan Ikan Tahun 2002",
+   "ms": "Peraturan Kompleks Pendaratan Ikan 2002"
+  },
+  "BN-S-32-2010-CHILDREN-AND-YOUNG-PERSONS-REMAND-HOME-REGU-C8AF6F": {
+   "vi": "Quy định Trại tạm giam trẻ em và người vị thành niên năm 2010",
+   "th": "ข้อบังคับสถานพินิจเด็กและเยาวชน พ.ศ. 2553",
+   "id": "Peraturan Rumah Tahanan Anak dan Remaja Tahun 2010",
+   "ms": "Peraturan Rumah Tahanan Kanak-Kanak dan Orang Muda 2010"
+  },
+  "BN-CAP-132-R6-2022-LEGAL-PROFESSION-CONTINGENCY-FEES-RULES": {
+   "vi": "Quy tắc Phí thành công trong hành nghề luật sư",
+   "th": "ข้อกำหนดค่าธรรมเนียมตามผลสำเร็จของทนายความ",
+   "id": "Peraturan Biaya Kontinjensi Profesi Advokat",
+   "ms": "Kaedah Fi Kontingensi Profesion Guaman"
+  },
+  "BN-CAP-135-GURKHA-RESERVE-UNIT-ACT-ACT-1": {
+   "vi": "Luật Đơn vị Dự bị Gurkha số 1",
+   "th": "พระราชบัญญัติหน่วยกำลังสำรองกูรข่า ฉบับที่ 1",
+   "id": "Undang-Undang Unit Cadangan Gurkha Nomor 1",
+   "ms": "Akta Unit Simpanan Gurkha Bilangan 1"
+  },
+  "BN-CAP-160-2020-FATAL-ACCIDENTS-AND-PERSONAL-INJURIES-ACT": {
+   "vi": "Luật Tai nạn chết người và thương tích cá nhân",
+   "th": "พระราชบัญญัติอุบัติเหตุถึงแก่ชีวิตและการบาดเจ็บส่วนบุคคล",
+   "id": "Undang-Undang Kecelakaan Fatal dan Cedera Pribadi",
+   "ms": "Akta Kemalangan Maut dan Kecederaan Peribadi"
+  },
+  "BN-CAP-241-2022-BEAUTY-AND-HEALTH-ESTABLISHMENTS-ACT": {
+   "vi": "Luật Cơ sở thẩm mỹ và chăm sóc sức khỏe",
+   "th": "พระราชบัญญัติสถานประกอบการเสริมความงามและสุขภาพ",
+   "id": "Undang-Undang Usaha Kecantikan dan Kesehatan",
+   "ms": "Akta Premis Kecantikan dan Kesihatan"
+  },
+  "BN-CAP-42-1984-MINING-ACT": {
+   "vi": "Luật Khai khoáng",
+   "th": "พระราชบัญญัติการทำเหมือง",
+   "id": "Undang-Undang Pertambangan",
+   "ms": "Akta Perlombongan"
+  },
+  "BN-CAP-82-2021-FIRE-AND-RESCUE": {
+   "vi": "Luật Phòng cháy chữa cháy và cứu hộ",
+   "th": "พระราชบัญญัติดับเพลิงและกู้ภัย",
+   "id": "Undang-Undang Pemadam Kebakaran dan Penyelamatan",
+   "ms": "Akta Bomba dan Penyelamat"
+  },
+  "BN-CAP-153-OFFICIAL-SECRETS-ACT": {
+   "vi": "Luật Bí mật nhà nước",
+   "th": "พระราชบัญญัติความลับราชการ",
+   "id": "Undang-Undang Rahasia Negara",
+   "ms": "Akta Rahsia Rasmi"
+  },
+  "BN-CAP-181-2013-PUBLIC-ENTERTAINMENT-ACT": {
+   "vi": "Luật Giải trí công cộng",
+   "th": "พระราชบัญญัติความบันเทิงสาธารณะ",
+   "id": "Undang-Undang Hiburan Publik",
+   "ms": "Akta Hiburan Awam"
+  },
+  "BN-CAP-205-2010-ADOPTION-OF-CHILDREN-ACT": {
+   "vi": "Luật Nhận nuôi trẻ em",
+   "th": "พระราชบัญญัติการรับบุตรบุญธรรม",
+   "id": "Undang-Undang Pengangkatan Anak",
+   "ms": "Akta Pengambilan Anak Angkat"
+  },
+  "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES": {
+   "vi": "Quy tắc Thiết bị tự động hóa trong thuế thu nhập",
+   "th": "ข้อกำหนดอุปกรณ์อัตโนมัติด้านภาษีเงินได้",
+   "id": "Peraturan Peralatan Otomasi Pajak Penghasilan",
+   "ms": "Kaedah Peralatan Automasi Cukai Pendapatan"
+  },
+  "BN-S-21-2007-MERCHANT-SHIPPING-DISCIPLINARY-OFFENCES-REG-0E9035": {
+   "vi": "Quy định Tội kỷ luật trong vận tải biển năm 2007",
+   "th": "ข้อบังคับความผิดทางวินัยการเดินเรือพาณิชย์ พ.ศ. 2550",
+   "id": "Peraturan Pelanggaran Disiplin Pelayaran Niaga Tahun 2007",
+   "ms": "Peraturan Kesalahan Tatatertib Perkapalan Saudagar 2007"
+  },
+  "BN-S-44-2001-E-INDUSTRIAL-CO-ORDINATION-ORDER-2001": {
+   "vi": "Sắc lệnh Điều phối công nghiệp năm 2001",
+   "th": "คำสั่งการประสานอุตสาหกรรม พ.ศ. 2544",
+   "id": "Perintah Koordinasi Industri Tahun 2001",
+   "ms": "Perintah Penyelarasan Perindustrian 2001"
+  },
+  "BN-S-51-2006-CUSTOMS-CUSTOMS-TRANSIT-RULES-2006": {
+   "vi": "Quy tắc Quá cảnh hải quan năm 2006",
+   "th": "ข้อกำหนดการขนถ่ายสินค้าผ่านแดนทางศุลกากร พ.ศ. 2549",
+   "id": "Peraturan Transit Kepabeanan Tahun 2006",
+   "ms": "Kaedah Transit Kastam 2006"
+  },
+  "BN-CAP-194-2007-COMPUTER-MISUSE-ACT": {
+   "vi": "Luật Sử dụng máy tính sai mục đích",
+   "th": "พระราชบัญญัติการใช้คอมพิวเตอร์ในทางผิด",
+   "id": "Undang-Undang Penyalahgunaan Komputer",
+   "ms": "Akta Penyalahgunaan Komputer"
+  },
+  "BN-CONST-III-2023-CONSTITUTION-FINANCIAL-PROCEDURE-ORDER": {
+   "vi": "Sắc lệnh thủ tục tài chính của Hiến pháp",
+   "th": "คำสั่งวิธีปฏิบัติทางการเงินตามรัฐธรรมนูญ",
+   "id": "Perintah Tata Cara Keuangan menurut Konstitusi",
+   "ms": "Perintah Tatacara Kewangan di bawah Perlembagaan"
+  },
+  "BN-CAP-124-REGISTRATION-OF-MARRIAGES-ACT": {
+   "vi": "Luật Đăng ký kết hôn",
+   "th": "พระราชบัญญัติการจดทะเบียนสมรส",
+   "id": "Undang-Undang Pencatatan Perkawinan",
+   "ms": "Akta Pendaftaran Perkahwinan"
+  },
+  "BN-CAP-15-2011-BRUNEI-NATIONALITY-ACT": {
+   "vi": "Luật Quốc tịch Brunei",
+   "th": "พระราชบัญญัติสัญชาติบรูไน",
+   "id": "Undang-Undang Kewarganegaraan Brunei",
+   "ms": "Akta Kerakyatan Brunei"
+  },
+  "BN-CAP-166-YAYASAN-SULTAN-HAJI-HASSANAL-BOLKIAH-ACT": {
+   "vi": "Luật Yayasan Sultan Haji Hassanal Bolkiah",
+   "th": "พระราชบัญญัติYayasan Sultan Haji Hassanal Bolkiah",
+   "id": "Undang-Undang Yayasan Sultan Haji Hassanal Bolkiah",
+   "ms": "Akta Yayasan Sultan Haji Hassanal Bolkiah"
+  },
+  "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49": {
+   "vi": "Luật Tính cuối cùng và bù trừ trong hệ thống thanh toán",
+   "th": "พระราชบัญญัติความสมบูรณ์และการหักกลบลบหนี้ในระบบการชำระเงิน",
+   "id": "Undang-Undang Finalitas dan Netting Sistem Pembayaran",
+   "ms": "Akta Kemuktamadan dan Penjelasan Bersih Sistem Pembayaran"
+  },
+  "BN-CAP-265-2023-INTERNATIONAL-TRANSFER-OF-PRISONERS-ACT": {
+   "vi": "Luật Chuyển giao phạm nhân quốc tế",
+   "th": "พระราชบัญญัติการส่งตัวผู้ต้องขังระหว่างประเทศ",
+   "id": "Undang-Undang Pemindahan Narapidana Internasional",
+   "ms": "Akta Pemindahan Banduan Antarabangsa"
+  },
+  "BN-CAP-277-RG-6-2024-WSAH-WSAH-COMMITTEES-REGULATIONS": {
+   "vi": "Quy định Các ủy ban an toàn và sức khỏe lao động",
+   "th": "ข้อบังคับคณะกรรมการความปลอดภัยและอาชีวอนามัย",
+   "id": "Peraturan Komite Keselamatan dan Kesehatan Kerja",
+   "ms": "Peraturan Jawatankuasa Keselamatan dan Kesihatan Pekerjaan"
+  },
+  "BN-CAP-287-2024-MARITIME-OFFENCES-SHIP-AND-FIXED-PLATFORMS-ACT": {
+   "vi": "Luật Tội phạm hàng hải đối với tàu và giàn cố định",
+   "th": "พระราชบัญญัติความผิดทางทะเลเกี่ยวกับเรือและแท่นคงที่",
+   "id": "Undang-Undang Pelanggaran Maritim Kapal dan Anjungan Tetap",
+   "ms": "Akta Kesalahan Maritim Kapal dan Pelantar Tetap"
+  },
+  "BN-CAP-6-R-2-2001-MAGISTRATES-COURT-EXECUTION-PROCEEDINGS-RULES": {
+   "vi": "Quy tắc Thủ tục thi hành án của Tòa án sơ thẩm",
+   "th": "ข้อกำหนดกระบวนพิจารณาบังคับคดีของศาลแขวง",
+   "id": "Peraturan Prosedur Eksekusi Pengadilan Magistrat",
+   "ms": "Kaedah Prosiding Pelaksanaan Mahkamah Majistret"
+  },
+  "BN-CAP-69-2002-CENSORSHIP-OF-FILMS-AND-PUBLIC-ENTERTAINMENTS": {
+   "vi": "Luật Kiểm duyệt phim và hoạt động giải trí công cộng",
+   "th": "พระราชบัญญัติการตรวจพิจารณาภาพยนตร์และความบันเทิงสาธารณะ",
+   "id": "Undang-Undang Penyensoran Film dan Hiburan Publik",
+   "ms": "Akta Penapisan Filem dan Hiburan Awam"
+  },
+  "BN-S-42-2008-CRIMINALS-REGISTRATION-ORDER-2008-SEC-17": {
+   "vi": "Sắc lệnh Đăng ký người phạm tội năm 2008 (Điều 17)",
+   "th": "คำสั่งการขึ้นทะเบียนผู้กระทำผิด พ.ศ. 2551 (มาตรา 17)",
+   "id": "Perintah Registrasi Pelaku Kejahatan Tahun 2008 (Pasal 17)",
+   "ms": "Perintah Pendaftaran Penjenayah 2008 (Seksyen 17)"
+  },
+  "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES": {
+   "vi": "Quy tắc Tòa án sơ thẩm",
+   "th": "ข้อกำหนดศาลแขวง",
+   "id": "Peraturan Pengadilan Magistrat",
+   "ms": "Kaedah Mahkamah Majistret"
+  },
+  "BN-CAP-77-R-3-2022-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-CO-FBA0A8": {
+   "vi": "Quy tắc Người cải đạo theo Tòa án Tôn giáo và Kadi",
+   "th": "ข้อกำหนดผู้เปลี่ยนศาสนาตามศาลศาสนาและกาดี",
+   "id": "Peraturan Mualaf pada Dewan Agama dan Pengadilan Kadi",
+   "ms": "Kaedah Saudara Baru Mahkamah Agama dan Kadi"
+  },
+  "BN-S-20-2007-MERCHANT-SHIPPING-CREW-ACCOMODATION-REGNS-2007": {
+   "vi": "Quy định Chỗ ở của thuyền viên năm 2007",
+   "th": "ข้อบังคับที่พักลูกเรือ พ.ศ. 2550",
+   "id": "Peraturan Akomodasi Awak Kapal Tahun 2007",
+   "ms": "Peraturan Penginapan Anak Kapal 2007"
+  },
+  "BN-S-22-1988-E-MERCHANT-SHIPPING-MANNING-SCALES-AND-PLYI-F9A936": {
+   "vi": "Quy định Định biên thuyền viên và giới hạn tuyến hoạt động năm 1988",
+   "th": "ข้อบังคับอัตรากำลังลูกเรือและเขตการเดินเรือ พ.ศ. 2531",
+   "id": "Peraturan Skala Awak Kapal dan Batas Pelayaran Tahun 1988",
+   "ms": "Peraturan Skala Anak Kapal dan Had Berulang-Alik 1988"
+  },
+  "BN-CAP-105-2013-NEWSPAPER-ACT": {
+   "vi": "Luật Báo in",
+   "th": "พระราชบัญญัติหนังสือพิมพ์",
+   "id": "Undang-Undang Surat Kabar",
+   "ms": "Akta Akhbar"
+  },
+  "BN-CAP-105-RG-1-2013-LOCAL-NEWSPAPER-REGULATIONS": {
+   "vi": "Quy định Báo địa phương",
+   "th": "ข้อบังคับหนังสือพิมพ์ท้องถิ่น",
+   "id": "Peraturan Surat Kabar Lokal",
+   "ms": "Peraturan Akhbar Tempatan"
+  },
+  "BN-CAP-116-1984-BRUNEI-NATIONAL-ARCHIVES-ACT": {
+   "vi": "Luật Lưu trữ Quốc gia Brunei",
+   "th": "พระราชบัญญัติจดหมายเหตุแห่งชาติบรูไน",
+   "id": "Undang-Undang Arsip Nasional Brunei",
+   "ms": "Akta Arkib Negara Brunei"
+  },
+  "BN-CAP-129-TRADE-DISPUTES-ACT": {
+   "vi": "Luật Tranh chấp lao động",
+   "th": "พระราชบัญญัติข้อพิพาทแรงงาน",
+   "id": "Undang-Undang Perselisihan Perburuhan",
+   "ms": "Akta Pertikaian Perdagangan"
+  },
+  "BN-CAP-142-R-2-2014-PRICE-CONTROL-CHEAP-SALE-PRICE-REGULATIONS": {
+   "vi": "Quy định Kiểm soát giá - giá bán rẻ",
+   "th": "ข้อบังคับการควบคุมราคา - ราคาขายถูก",
+   "id": "Peraturan Pengendalian Harga - Harga Jual Murah",
+   "ms": "Peraturan Kawalan Harga - Harga Jual Murah"
+  },
+  "BN-CAP-156-1999-NATIONAL-BANK-OF-BRUNEI-BERHAD-NATIONAL-3970B3": {
+   "vi": "Luật National Bank of Brunei Berhad National Finance Sendirian Berhad",
+   "th": "พระราชบัญญัติNational Bank of Brunei Berhad National Finance Sendirian Berhad",
+   "id": "Undang-Undang National Bank of Brunei Berhad National Finance Sendirian Berhad",
+   "ms": "Akta National Bank of Brunei Berhad National Finance Sendirian Berhad"
+  },
+  "BN-CAP-174-1999-MONEY-CHANGING-AND-REMITTANCE-BUSINESSES-ACT": {
+   "vi": "Luật Kinh doanh đổi tiền và chuyển tiền",
+   "th": "พระราชบัญญัติธุรกิจแลกเปลี่ยนเงินและโอนเงิน",
+   "id": "Undang-Undang Usaha Penukaran Valuta Asing dan Pengiriman Uang",
+   "ms": "Akta Perniagaan Penukaran Wang dan Kiriman Wang"
+  },
+  "BN-CAP-215-2012-COMPULSORY-RELIGIOUS-EDUCATION-ACT-1": {
+   "vi": "Luật Giáo dục tôn giáo bắt buộc số 1",
+   "th": "พระราชบัญญัติการศึกษาศาสนาภาคบังคับ ฉบับที่ 1",
+   "id": "Undang-Undang Pendidikan Agama Wajib Nomor 1",
+   "ms": "Akta Pendidikan Agama Wajib Bilangan 1"
+  },
+  "BN-CAP-249-2022-RECORD-KEEPING-BUISNESS-ACT": {
+   "vi": "Luật Kinh doanh dịch vụ lưu giữ hồ sơ",
+   "th": "พระราชบัญญัติธุรกิจการเก็บรักษาบันทึก",
+   "id": "Undang-Undang Usaha Penyimpanan Catatan",
+   "ms": "Akta Perniagaan Penyimpanan Rekod"
+  },
+  "BN-CAP-267-2023-ACCOUNTING-STANDARDS-ACT": {
+   "vi": "Luật Chuẩn mực kế toán",
+   "th": "พระราชบัญญัติมาตรฐานการบัญชี",
+   "id": "Undang-Undang Standar Akuntansi",
+   "ms": "Akta Piawaian Perakaunan"
+  },
+  "BN-S-13-2001-BROADCASTING-CLASS-LICENCE-NOTIFICATION-2001": {
+   "vi": "Thông báo Giấy phép loại hình phát thanh truyền hình năm 2001",
+   "th": "ประกาศใบอนุญาตประเภทการกระจายเสียง พ.ศ. 2544",
+   "id": "Pemberitahuan Lisensi Kelas Penyiaran Tahun 2001",
+   "ms": "Pemberitahuan Lesen Kelas Penyiaran 2001"
+  },
+  "BN-S-40-2005-GENEVA-CONVENTIONS-ORDER-2005": {
+   "vi": "Sắc lệnh Công ước Geneva năm 2005",
+   "th": "คำสั่งอนุสัญญาเจนีวา พ.ศ. 2548",
+   "id": "Perintah Konvensi Jenewa Tahun 2005",
+   "ms": "Perintah Konvensyen Geneva 2005"
+  },
+  "BN-CAP-122-REGISTRATION-OF-ADOPTIONS-ACT": {
+   "vi": "Luật Đăng ký nhận nuôi",
+   "th": "พระราชบัญญัติการจดทะเบียนรับบุตรบุญธรรม",
+   "id": "Undang-Undang Pencatatan Pengangkatan Anak",
+   "ms": "Akta Pendaftaran Pengambilan Anak Angkat"
+  },
+  "BN-CAP-132-R5-2022-ADVOCATES-AND-SOLICITORS-REMUNERATION-RULES": {
+   "vi": "Quy tắc Thù lao của luật sư",
+   "th": "ข้อกำหนดค่าตอบแทนทนายความ",
+   "id": "Peraturan Remunerasi Advokat",
+   "ms": "Kaedah Ganjaran Peguam Bela dan Peguam Cara"
+  },
+  "BN-CAP-25-2010-UNDESIRABLE-PUBLICATIONS-ACT": {
+   "vi": "Luật Ấn phẩm không mong muốn",
+   "th": "พระราชบัญญัติสิ่งพิมพ์ที่ไม่พึงประสงค์",
+   "id": "Undang-Undang Terbitan Tidak Layak",
+   "ms": "Akta Penerbitan Tidak Diingini"
+  },
+  "BN-CAP-45-1984-E-PETROLEUM-PIPE-LINES-ACT": {
+   "vi": "Luật Đường ống dẫn dầu khí",
+   "th": "พระราชบัญญัติท่อส่งปิโตรเลียม",
+   "id": "Undang-Undang Pipa Minyak dan Gas",
+   "ms": "Akta Paip Petroleum"
+  },
+  "BN-S-75-2010-E-MONEY-LAUNDERING-AMENDMENT-ORDER-2010": {
+   "vi": "Sắc lệnh sửa đổi Sắc lệnh Rửa tiền năm 2010",
+   "th": "คำสั่งแก้ไขเพิ่มเติมคำสั่งการฟอกเงิน พ.ศ. 2553",
+   "id": "Perintah Perubahan Perintah Pencucian Uang Tahun 2010",
+   "ms": "Perintah Pindaan Perintah Pengubahan Wang Haram 2010"
+  },
+  "BN-CAP-132-R2-2022-ADVOCATES-AND-SOLICITORS-ACCOUNTS-RULES": {
+   "vi": "Quy tắc Tài khoản của luật sư",
+   "th": "ข้อกำหนดบัญชีทนายความ",
+   "id": "Peraturan Rekening Advokat",
+   "ms": "Kaedah Akaun Peguam Bela dan Peguam Cara"
+  },
+  "BN-S-9-2023-POSTAL-SERVICES-ORDER-2023-SEC-67": {
+   "vi": "Sắc lệnh Dịch vụ bưu chính năm 2023 (Điều 67)",
+   "th": "คำสั่งบริการไปรษณีย์ พ.ศ. 2566 (มาตรา 67)",
+   "id": "Perintah Layanan Pos Tahun 2023 (Pasal 67)",
+   "ms": "Perintah Perkhidmatan Pos 2023 (Seksyen 67)"
+  },
+  "BN-S-12-1999-TRANSFER-OF-THE-FUNCTIONS-OF-THE-MINISTER-OF-LAW-1": {
+   "vi": "Luật chuyển giao chức năng của Bộ trưởng Bộ Tư pháp",
+   "th": "พระราชบัญญัติการโอนหน้าที่ของรัฐมนตรีว่าการกระทรวงยุติธรรม",
+   "id": "Undang-Undang Pengalihan Fungsi Menteri Hukum",
+   "ms": "Akta Pemindahan Fungsi Menteri Undang-Undang"
+  },
+  "BN-S-26-1990-E-EMERGENCY-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-1990": {
+   "vi": "Sắc lệnh sửa đổi Luật Tội nhẹ trong tình trạng khẩn cấp năm 1990",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติความผิดลหุโทษในสถานการณ์ฉุกเฉิน พ.ศ. 2533",
+   "id": "Perintah Perubahan Undang-Undang Pelanggaran Ringan dalam Keadaan Darurat Tahun 1990",
+   "ms": "Perintah Pindaan Akta Kesalahan Kecil dalam Keadaan Darurat 1990"
+  },
+  "BN-S-33-1998-TRANSFER-OF-THE-FUNCTIONS-OF-THE-MINISTER-OF-LAW-1": {
+   "vi": "Luật chuyển giao chức năng của Bộ trưởng Bộ Tư pháp",
+   "th": "พระราชบัญญัติการโอนหน้าที่ของรัฐมนตรีว่าการกระทรวงยุติธรรม",
+   "id": "Undang-Undang Pengalihan Fungsi Menteri Hukum",
+   "ms": "Akta Pemindahan Fungsi Menteri Undang-Undang"
+  },
+  "BN-S-43-1998-EMERGENCY-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-1998": {
+   "vi": "Sắc lệnh sửa đổi Luật Tội nhẹ trong tình trạng khẩn cấp năm 1998",
+   "th": "คำสั่งแก้ไขเพิ่มเติมพระราชบัญญัติความผิดลหุโทษในสถานการณ์ฉุกเฉิน พ.ศ. 2541",
+   "id": "Perintah Perubahan Undang-Undang Pelanggaran Ringan dalam Keadaan Darurat Tahun 1998",
+   "ms": "Perintah Pindaan Akta Kesalahan Kecil dalam Keadaan Darurat 1998"
+  }
+ }
+}

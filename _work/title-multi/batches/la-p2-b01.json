@@ -1,0 +1,489 @@
+{
+ "batch": "la-p2-b01",
+ "scope": "LA 老挝法全 80 部（四语 vi/th/id/ms 整域清零）",
+ "note": "语义基准 title.zh/title.en；老挝非泰国法域，年份一律 ค.ศ.；编号照录（No. 119/PM 等），不改中文「第…号」语序；另按 §2.2/§5.4 修 2 处 zh 缺陷（文件名残渣、书名号）。",
+ "items": {
+  "LA-H001": {
+   "vi": "Luật Giải quyết tranh chấp kinh tế",
+   "th": "พระราชบัญญัติการระงับข้อพิพาททางเศรษฐกิจ",
+   "id": "Undang-Undang Penyelesaian Sengketa Ekonomi",
+   "ms": "Akta Penyelesaian Pertikaian Ekonomi"
+  },
+  "LA-H004": {
+   "vi": "Luật Ngân hàng thương mại",
+   "th": "พระราชบัญญัติธนาคารพาณิชย์",
+   "id": "Undang-Undang Bank Komersial",
+   "ms": "Akta Bank Perdagangan"
+  },
+  "LA-H008": {
+   "vi": "Luật Thuế thu nhập",
+   "th": "พระราชบัญญัติภาษีเงินได้",
+   "id": "Undang-Undang Pajak Penghasilan",
+   "ms": "Akta Cukai Pendapatan"
+  },
+  "LA-H015": {
+   "vi": "Luật Quản lý ngoại hối",
+   "th": "พระราชบัญญัติการบริหารเงินตราต่างประเทศ",
+   "id": "Undang-Undang Pengelolaan Valuta Asing",
+   "ms": "Akta Pengurusan Pertukaran Asing"
+  },
+  "LA-H016": {
+   "vi": "Luật Xúc tiến đầu tư",
+   "th": "พระราชบัญญัติส่งเสริมการลงทุน",
+   "id": "Undang-Undang Promosi Investasi",
+   "ms": "Akta Penggalakan Pelaburan"
+  },
+  "LA-H017": {
+   "vi": "Luật Bảo vệ người tiêu dùng",
+   "th": "พระราชบัญญัติคุ้มครองผู้บริโภค",
+   "id": "Undang-Undang Perlindungan Konsumen",
+   "ms": "Akta Perlindungan Pengguna"
+  },
+  "LA-H020": {
+   "vi": "Luật Thuế",
+   "th": "พระราชบัญญัติภาษีอากร",
+   "id": "Undang-Undang Perpajakan",
+   "ms": "Akta Percukaian"
+  },
+  "LA-H038": {
+   "vi": "Luật Doanh nghiệp",
+   "th": "พระราชบัญญัติวิสาหกิจ",
+   "id": "Undang-Undang Perusahaan",
+   "ms": "Akta Perusahaan"
+  },
+  "LA-H039": {
+   "vi": "Luật Sở hữu trí tuệ",
+   "th": "พระราชบัญญัติทรัพย์สินทางปัญญา",
+   "id": "Undang-Undang Kekayaan Intelektual",
+   "ms": "Akta Harta Intelek"
+  },
+  "LA-H041": {
+   "vi": "Luật Lao động",
+   "th": "พระราชบัญญัติแรงงาน",
+   "id": "Undang-Undang Ketenagakerjaan",
+   "ms": "Akta Buruh"
+  },
+  "LA-H058": {
+   "vi": "Luật Giao dịch điện tử",
+   "th": "พระราชบัญญัติธุรกรรมทางอิเล็กทรอนิกส์",
+   "id": "Undang-Undang Transaksi Elektronik",
+   "ms": "Akta Transaksi Elektronik"
+  },
+  "LA-H100": {
+   "vi": "Luật Thừa kế",
+   "th": "พระราชบัญญัติมรดก",
+   "id": "Undang-Undang Waris",
+   "ms": "Akta Pusaka"
+  },
+  "LA-H104": {
+   "vi": "Luật Bảo vệ quyền và lợi ích của trẻ em",
+   "th": "พระราชบัญญัติคุ้มครองสิทธิและประโยชน์ของเด็ก",
+   "id": "Undang-Undang Perlindungan Hak dan Kepentingan Anak",
+   "ms": "Akta Perlindungan Hak dan Kepentingan Kanak-Kanak"
+  },
+  "LA-H107": {
+   "vi": "Luật Thủy sản",
+   "th": "พระราชบัญญัติการประมง",
+   "id": "Undang-Undang Perikanan",
+   "ms": "Akta Perikanan"
+  },
+  "LA-H108": {
+   "vi": "Luật Chăn nuôi và thú y",
+   "th": "พระราชบัญญัติการปศุสัตว์และสัตวแพทย์",
+   "id": "Undang-Undang Peternakan dan Kedokteran Hewan",
+   "ms": "Akta Penternakan dan Veterinar"
+  },
+  "LA-H109": {
+   "vi": "Luật Thủy lợi",
+   "th": "พระราชบัญญัติชลประทาน",
+   "id": "Undang-Undang Irigasi",
+   "ms": "Akta Pengairan"
+  },
+  "LA-H110": {
+   "vi": "Luật Động vật thủy sinh và động vật hoang dã",
+   "th": "พระราชบัญญัติสัตว์น้ำและสัตว์ป่า",
+   "id": "Undang-Undang Satwa Air dan Satwa Liar",
+   "ms": "Akta Hidupan Akuatik dan Hidupan Liar"
+  },
+  "LA-H111": {
+   "vi": "Luật Bảo vệ thực vật",
+   "th": "พระราชบัญญัติคุ้มครองพืช",
+   "id": "Undang-Undang Perlindungan Tanaman",
+   "ms": "Akta Perlindungan Tanaman"
+  },
+  "LA-H113": {
+   "vi": "Luật Khoa học và công nghệ",
+   "th": "พระราชบัญญัติวิทยาศาสตร์และเทคโนโลยี",
+   "id": "Undang-Undang Ilmu Pengetahuan dan Teknologi",
+   "ms": "Akta Sains dan Teknologi"
+  },
+  "LA-H114": {
+   "vi": "Luật Bảo hiểm xã hội",
+   "th": "พระราชบัญญัติประกันสังคม",
+   "id": "Undang-Undang Jaminan Sosial",
+   "ms": "Akta Keselamatan Sosial"
+  },
+  "LA-H118": {
+   "vi": "Luật Đường bộ",
+   "th": "พระราชบัญญัติทางหลวง",
+   "id": "Undang-Undang Jalan",
+   "ms": "Akta Jalan Raya"
+  },
+  "LA-H119": {
+   "vi": "Luật Quy hoạch đô thị",
+   "th": "พระราชบัญญัติการผังเมือง",
+   "id": "Undang-Undang Penataan Ruang Perkotaan",
+   "ms": "Akta Perancangan Bandar"
+  },
+  "LA-H120": {
+   "vi": "Luật Nông nghiệp",
+   "th": "พระราชบัญญัติเกษตรกรรม",
+   "id": "Undang-Undang Pertanian",
+   "ms": "Akta Pertanian"
+  },
+  "LA-H121": {
+   "vi": "Luật Hội Liên hiệp Phụ nữ Lào",
+   "th": "พระราชบัญญัติสหภาพสตรีลาว",
+   "id": "Undang-Undang Persatuan Wanita Laos",
+   "ms": "Akta Kesatuan Wanita Laos"
+  },
+  "LA-H122": {
+   "vi": "Luật Giao dịch điện tử",
+   "th": "พระราชบัญญัติธุรกรรมทางอิเล็กทรอนิกส์",
+   "id": "Undang-Undang Transaksi Elektronik",
+   "ms": "Akta Transaksi Elektronik"
+  },
+  "LA-H430": {
+   "vi": "Luật Hợp đồng và quan hệ ngoài hợp đồng",
+   "th": "พระราชบัญญัติสัญญาและความสัมพันธ์นอกสัญญา",
+   "id": "Undang-Undang Kontrak dan Hubungan Non-Kontraktual",
+   "ms": "Akta Kontrak dan Hubungan Bukan Kontrak"
+  },
+  "LA-H434": {
+   "vi": "Luật Luật sư",
+   "th": "พระราชบัญญัติทนายความ",
+   "id": "Undang-Undang Advokat",
+   "ms": "Akta Peguam"
+  },
+  "LA-H101": {
+   "vi": "Luật Hợp đồng và quan hệ ngoài hợp đồng (sửa đổi)",
+   "th": "พระราชบัญญัติสัญญาและความสัมพันธ์นอกสัญญา(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Kontrak dan Hubungan Non-Kontraktual (Perubahan)",
+   "ms": "Akta Kontrak dan Hubungan Bukan Kontrak (Pindaan)"
+  },
+  "LA-H102": {
+   "vi": "Luật Đăng ký hộ tịch (sửa đổi)",
+   "th": "พระราชบัญญัติการจดทะเบียนครอบครัว(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Pencatatan Keluarga (Perubahan)",
+   "ms": "Akta Pendaftaran Keluarga (Pindaan)"
+  },
+  "LA-H103": {
+   "vi": "Luật Giải quyết tranh chấp kinh tế (sửa đổi)",
+   "th": "พระราชบัญญัติการระงับข้อพิพาททางเศรษฐกิจ(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Penyelesaian Sengketa Ekonomi (Perubahan)",
+   "ms": "Akta Penyelesaian Pertikaian Ekonomi (Pindaan)"
+  },
+  "LA-H105": {
+   "vi": "Luật Đăng ký tòa án (sửa đổi)",
+   "th": "พระราชบัญญัติการจดทะเบียนศาล(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Registrasi Pengadilan (Perubahan)",
+   "ms": "Akta Pendaftaran Mahkamah (Pindaan)"
+  },
+  "LA-H106": {
+   "vi": "Luật Thi hành bản án của tòa án (sửa đổi)",
+   "th": "พระราชบัญญัติการบังคับคดีตามคำพิพากษาของศาล(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Pelaksanaan Putusan Pengadilan (Perubahan)",
+   "ms": "Akta Pelaksanaan Penghakiman Mahkamah (Pindaan)"
+  },
+  "LA-H112": {
+   "vi": "Luật Lâm nghiệp (sửa đổi)",
+   "th": "พระราชบัญญัติป่าไม้(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Kehutanan (Perubahan)",
+   "ms": "Akta Perhutanan (Pindaan)"
+  },
+  "LA-H115": {
+   "vi": "Luật Thực phẩm (sửa đổi)",
+   "th": "พระราชบัญญัติอาหาร(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Pangan (Perubahan)",
+   "ms": "Akta Makanan (Pindaan)"
+  },
+  "LA-H116": {
+   "vi": "Luật Dược phẩm và trang thiết bị y tế (sửa đổi)",
+   "th": "พระราชบัญญัติยาและผลิตภัณฑ์ทางการแพทย์(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Obat dan Produk Medis (Perubahan)",
+   "ms": "Akta Ubat dan Produk Perubatan (Pindaan)"
+  },
+  "LA-H117": {
+   "vi": "Luật Vệ sinh, phòng chống dịch bệnh và nâng cao sức khỏe (sửa đổi)",
+   "th": "พระราชบัญญัติสุขาภิบาล การป้องกันโรค และการส่งเสริมสุขภาพ(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Higiene, Pencegahan Penyakit, dan Promosi Kesehatan (Perubahan)",
+   "ms": "Akta Kebersihan, Pencegahan Penyakit dan Promosi Kesihatan (Pindaan)"
+  },
+  "LA-H123": {
+   "vi": "Luật Hôn nhân và gia đình (sửa đổi)",
+   "th": "พระราชบัญญัติครอบครัว(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Keluarga (Perubahan)",
+   "ms": "Akta Keluarga (Pindaan)"
+  },
+  "LA-H435": {
+   "vi": "Luật Xúc tiến đầu tư (sửa đổi)",
+   "th": "พระราชบัญญัติส่งเสริมการลงทุน(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Promosi Investasi (Perubahan)",
+   "ms": "Akta Penggalakan Pelaburan (Pindaan)"
+  },
+  "LA-H436": {
+   "vi": "Luật Xúc tiến đầu tư (sửa đổi)",
+   "th": "พระราชบัญญัติส่งเสริมการลงทุน(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Promosi Investasi (Perubahan)",
+   "ms": "Akta Penggalakan Pelaburan (Pindaan)"
+  },
+  "LA-H444": {
+   "vi": "Luật Bảo vệ môi trường (sửa đổi)",
+   "th": "พระราชบัญญัติคุ้มครองสิ่งแวดล้อม(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Perlindungan Lingkungan Hidup (Perubahan)",
+   "ms": "Akta Perlindungan Alam Sekitar (Pindaan)"
+  },
+  "LA-H447": {
+   "vi": "Luật Thương mại điện tử (sửa đổi)",
+   "th": "พระราชบัญญัติพาณิชย์อิเล็กทรอนิกส์(แก้ไขเพิ่มเติม)",
+   "id": "Undang-Undang Perdagangan Elektronik (Perubahan)",
+   "ms": "Akta Perdagangan Elektronik (Pindaan)"
+  },
+  "LA-H427": {
+   "vi": "Luật Doanh nghiệp (sửa đổi năm 2023)",
+   "th": "พระราชบัญญัติวิสาหกิจ(แก้ไขเพิ่มเติม ค.ศ. 2023)",
+   "id": "Undang-Undang Perusahaan (Perubahan Tahun 2023)",
+   "ms": "Akta Perusahaan (Pindaan 2023)"
+  },
+  "LA-H428": {
+   "vi": "Luật Hải quan (sửa đổi năm 2020)",
+   "th": "พระราชบัญญัติศุลกากร(แก้ไขเพิ่มเติม ค.ศ. 2020)",
+   "id": "Undang-Undang Kepabeanan (Perubahan Tahun 2020)",
+   "ms": "Akta Kastam (Pindaan 2020)"
+  },
+  "LA-H442": {
+   "vi": "Luật Hải quan (sửa đổi năm 2011)",
+   "th": "พระราชบัญญัติศุลกากร(แก้ไขเพิ่มเติม ค.ศ. 2011)",
+   "id": "Undang-Undang Kepabeanan (Perubahan Tahun 2011)",
+   "ms": "Akta Kastam (Pindaan 2011)"
+  },
+  "LA-H448": {
+   "vi": "Luật Sở hữu trí tuệ (sửa đổi năm 2023)",
+   "th": "พระราชบัญญัติทรัพย์สินทางปัญญา(แก้ไขเพิ่มเติม ค.ศ. 2023)",
+   "id": "Undang-Undang Kekayaan Intelektual (Perubahan Tahun 2023)",
+   "ms": "Akta Harta Intelek (Pindaan 2023)"
+  },
+  "LA-H449": {
+   "vi": "Luật Quản lý thuế (sửa đổi năm 2019)",
+   "th": "พระราชบัญญัติการบริหารภาษี(แก้ไขเพิ่มเติม ค.ศ. 2019)",
+   "id": "Undang-Undang Administrasi Perpajakan (Perubahan Tahun 2019)",
+   "ms": "Akta Pentadbiran Cukai (Pindaan 2019)"
+  },
+  "LA-H036": {
+   "vi": "Bộ luật Dân sự năm 2018",
+   "th": "ประมวลกฎหมายแพ่งและพาณิชย์ ค.ศ. 2018",
+   "id": "Kitab Undang-Undang Hukum Perdata Tahun 2018",
+   "ms": "Kanun Undang-Undang Sivil 2018"
+  },
+  "LA-H037": {
+   "vi": "Bộ luật Dân sự năm 2018",
+   "th": "ประมวลกฎหมายแพ่งและพาณิชย์ ค.ศ. 2018",
+   "id": "Kitab Undang-Undang Hukum Perdata Tahun 2018",
+   "ms": "Kanun Undang-Undang Sivil 2018"
+  },
+  "LA-H438": {
+   "vi": "Bộ luật Dân sự năm 2018",
+   "th": "ประมวลกฎหมายแพ่งและพาณิชย์ ค.ศ. 2018",
+   "id": "Kitab Undang-Undang Hukum Perdata Tahun 2018",
+   "ms": "Kanun Undang-Undang Sivil 2018"
+  },
+  "LA-H440": {
+   "vi": "Bộ luật Dân sự năm 2018",
+   "th": "ประมวลกฎหมายแพ่งและพาณิชย์ ค.ศ. 2018",
+   "id": "Kitab Undang-Undang Hukum Perdata Tahun 2018",
+   "ms": "Kanun Undang-Undang Sivil 2018"
+  },
+  "LA-H441": {
+   "vi": "Bộ luật Dân sự năm 2018",
+   "th": "ประมวลกฎหมายแพ่งและพาณิชย์ ค.ศ. 2018",
+   "id": "Kitab Undang-Undang Hukum Perdata Tahun 2018",
+   "ms": "Kanun Undang-Undang Sivil 2018"
+  },
+  "LA-H043": {
+   "vi": "Luật Xúc tiến đầu tư năm 2016",
+   "th": "พระราชบัญญัติส่งเสริมการลงทุน ค.ศ. 2016",
+   "id": "Undang-Undang Promosi Investasi Tahun 2016",
+   "ms": "Akta Penggalakan Pelaburan 2016"
+  },
+  "LA-H450": {
+   "vi": "Luật Xúc tiến đầu tư năm 2016",
+   "th": "พระราชบัญญัติส่งเสริมการลงทุน ค.ศ. 2016",
+   "id": "Undang-Undang Promosi Investasi Tahun 2016",
+   "ms": "Akta Penggalakan Pelaburan 2016"
+  },
+  "LA-H429": {
+   "vi": "Luật Lao động năm 2013",
+   "th": "พระราชบัญญัติแรงงาน ค.ศ. 2013",
+   "id": "Undang-Undang Ketenagakerjaan Tahun 2013",
+   "ms": "Akta Buruh 2013"
+  },
+  "LA-H445": {
+   "vi": "Luật Giao dịch điện tử năm 2012",
+   "th": "พระราชบัญญัติธุรกรรมทางอิเล็กทรอนิกส์ ค.ศ. 2012",
+   "id": "Undang-Undang Transaksi Elektronik Tahun 2012",
+   "ms": "Akta Transaksi Elektronik 2012"
+  },
+  "LA-H416": {
+   "vi": "Luật Giải quyết tranh chấp kinh tế năm 2018",
+   "th": "พระราชบัญญัติการระงับข้อพิพาททางเศรษฐกิจ ค.ศ. 2018",
+   "id": "Undang-Undang Penyelesaian Sengketa Ekonomi Tahun 2018",
+   "ms": "Akta Penyelesaian Pertikaian Ekonomi 2018"
+  },
+  "LA-H451": {
+   "vi": "Luật Giải quyết tranh chấp kinh tế năm 2010",
+   "th": "พระราชบัญญัติการระงับข้อพิพาททางเศรษฐกิจ ค.ศ. 2010",
+   "id": "Undang-Undang Penyelesaian Sengketa Ekonomi Tahun 2010",
+   "ms": "Akta Penyelesaian Pertikaian Ekonomi 2010"
+  },
+  "LA-H040": {
+   "vi": "Luật Thuế năm 2005",
+   "th": "พระราชบัญญัติภาษีอากร ค.ศ. 2005",
+   "id": "Undang-Undang Perpajakan Tahun 2005",
+   "ms": "Akta Percukaian 2005"
+  },
+  "LA-H046": {
+   "vi": "Hiến pháp nước CHDCND Lào (sửa đổi năm 2025)",
+   "th": "รัฐธรรมนูญแห่ง สปป. ลาว (แก้ไขเพิ่มเติม ค.ศ. 2025)",
+   "id": "Undang-Undang Dasar Republik Demokratik Rakyat Laos (Perubahan Tahun 2025)",
+   "ms": "Perlembagaan Republik Demokratik Rakyat Laos (Pindaan 2025)"
+  },
+  "LA-H432": {
+   "vi": "Hiến pháp nước CHDCND Lào",
+   "th": "รัฐธรรมนูญแห่ง สปป. ลาว",
+   "id": "Undang-Undang Dasar Republik Demokratik Rakyat Laos",
+   "ms": "Perlembagaan Republik Demokratik Rakyat Laos"
+  },
+  "LA-H433": {
+   "vi": "Hiến pháp nước CHDCND Lào (sửa đổi năm 2025)",
+   "th": "รัฐธรรมนูญแห่ง สปป. ลาว (แก้ไขเพิ่มเติม ค.ศ. 2025)",
+   "id": "Undang-Undang Dasar Republik Demokratik Rakyat Laos (Perubahan Tahun 2025)",
+   "ms": "Perlembagaan Republik Demokratik Rakyat Laos (Pindaan 2025)"
+  },
+  "LA-H042": {
+   "vi": "Luật Xúc tiến đầu tư (sửa đổi) số 14/NA ngày 17 tháng 11 năm 2016",
+   "th": "พระราชบัญญัติส่งเสริมการลงทุน(แก้ไขเพิ่มเติม) ฉบับที่ 14/NA ลงวันที่ 17 พฤศจิกายน ค.ศ. 2016",
+   "id": "Undang-Undang Promosi Investasi (Perubahan) Nomor 14/NA tanggal 17 November 2016",
+   "ms": "Akta Penggalakan Pelaburan (Pindaan) Nombor 14/NA bertarikh 17 November 2016",
+   "zh": "投资促进法（修订，第14/NA号，2016年11月17日）"
+  },
+  "LA-H424": {
+   "vi": "Luật Ngân hàng của CHDCND Lào (sửa đổi) số 47/NA ngày 19 tháng 6 năm 2018",
+   "th": "พระราชบัญญัติธนาคารแห่ง สปป. ลาว(แก้ไขเพิ่มเติม) ฉบับที่ 47/NA ลงวันที่ 19 มิถุนายน ค.ศ. 2018",
+   "id": "Undang-Undang Bank Republik Demokratik Rakyat Laos (Perubahan) Nomor 47/NA tanggal 19 Juni 2018",
+   "ms": "Akta Bank Republik Demokratik Rakyat Laos (Pindaan) Nombor 47/NA bertarikh 19 Jun 2018"
+  },
+  "LA-H425": {
+   "vi": "Luật Thuế tiêu thụ số 68/NA ngày 19 tháng 6 năm 2019",
+   "th": "พระราชบัญญัติภาษีการบริโภค ฉบับที่ 68/NA ลงวันที่ 19 มิถุนายน ค.ศ. 2019",
+   "id": "Undang-Undang Pajak Konsumsi Nomor 68/NA tanggal 19 Juni 2019",
+   "ms": "Akta Cukai Penggunaan Nombor 68/NA bertarikh 19 Jun 2019"
+  },
+  "LA-H426": {
+   "vi": "Luật Thuế thu nhập số 67/NA ngày 18 tháng 6 năm 2019",
+   "th": "พระราชบัญญัติภาษีเงินได้ ฉบับที่ 67/NA ลงวันที่ 18 มิถุนายน ค.ศ. 2019",
+   "id": "Undang-Undang Pajak Penghasilan Nomor 67/NA tanggal 18 Juni 2019",
+   "ms": "Akta Cukai Pendapatan Nombor 67/NA bertarikh 18 Jun 2019"
+  },
+  "LA-H423": {
+   "vi": "Luật Sửa đổi một số điều của Luật Thuế số 01/NA ngày 7 tháng 8 năm 2021",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมบทบัญญัติบางประการแห่งพระราชบัญญัติภาษีอากร ฉบับที่ 01/NA ลงวันที่ 7 สิงหาคม ค.ศ. 2021",
+   "id": "Undang-Undang Perubahan atas Beberapa Pasal Undang-Undang Perpajakan Nomor 01/NA tanggal 7 Agustus 2021",
+   "ms": "Akta Pindaan kepada Beberapa Seksyen Akta Percukaian Nombor 01/NA bertarikh 7 Ogos 2021"
+  },
+  "LA-H443": {
+   "vi": "Luật Sửa đổi một số điều của Luật Hải quan năm 2014",
+   "th": "พระราชบัญญัติแก้ไขเพิ่มเติมบทบัญญัติบางประการแห่งพระราชบัญญัติศุลกากร ค.ศ. 2014",
+   "id": "Undang-Undang Perubahan atas Beberapa Pasal Undang-Undang Kepabeanan Tahun 2014",
+   "ms": "Akta Pindaan kepada Beberapa Seksyen Akta Kastam 2014"
+  },
+  "LA-H044": {
+   "vi": "Nghị định thi hành Luật Xúc tiến đầu tư (trích lục năm 2016)",
+   "th": "พระราชกฤษฎีกาเพื่อดำเนินการตามพระราชบัญญัติส่งเสริมการลงทุน (บางส่วน ค.ศ. 2016)",
+   "id": "Peraturan Pemerintah tentang Pelaksanaan Undang-Undang Promosi Investasi (Kutipan Tahun 2016)",
+   "ms": "Peraturan tentang Pelaksanaan Akta Penggalakan Pelaburan (Petikan 2016)"
+  },
+  "LA-H050": {
+   "vi": "Nghị định Thương mại điện tử năm 2021",
+   "th": "พระราชกฤษฎีกาพาณิชย์อิเล็กทรอนิกส์ ค.ศ. 2021",
+   "id": "Peraturan Pemerintah Perdagangan Elektronik Tahun 2021",
+   "ms": "Peraturan Perdagangan Elektronik 2021"
+  },
+  "LA-H446": {
+   "vi": "Nghị định Thương mại điện tử năm 2021",
+   "th": "พระราชกฤษฎีกาพาณิชย์อิเล็กทรอนิกส์ ค.ศ. 2021",
+   "id": "Peraturan Pemerintah Perdagangan Elektronik Tahun 2021",
+   "ms": "Peraturan Perdagangan Elektronik 2021"
+  },
+  "LA-H417": {
+   "vi": "Nghị định Xúc tiến đầu tư số 119/PM ngày 20 tháng 4 năm 2011",
+   "th": "พระราชกฤษฎีกาส่งเสริมการลงทุน ฉบับที่ 119/PM ลงวันที่ 20 เมษายน ค.ศ. 2011",
+   "id": "Peraturan Pemerintah Promosi Investasi Nomor 119/PM tanggal 20 April 2011",
+   "ms": "Peraturan Penggalakan Pelaburan Nombor 119/PM bertarikh 20 April 2011"
+  },
+  "LA-H420": {
+   "vi": "Nghị định Xúc tiến đầu tư số 119/PM ngày 20 tháng 4 năm 2011",
+   "th": "พระราชกฤษฎีกาส่งเสริมการลงทุน ฉบับที่ 119/PM ลงวันที่ 20 เมษายน ค.ศ. 2011",
+   "id": "Peraturan Pemerintah Promosi Investasi Nomor 119/PM tanggal 20 April 2011",
+   "ms": "Peraturan Penggalakan Pelaburan Nombor 119/PM bertarikh 20 April 2011"
+  },
+  "LA-H418": {
+   "vi": "Nghị định Thương mại điện tử số 296/GoL ngày 12 tháng 4 năm 2021",
+   "th": "พระราชกฤษฎีกาพาณิชย์อิเล็กทรอนิกส์ ฉบับที่ 296/GoL ลงวันที่ 12 เมษายน ค.ศ. 2021",
+   "id": "Peraturan Pemerintah Perdagangan Elektronik Nomor 296/GoL tanggal 12 April 2021",
+   "ms": "Peraturan Perdagangan Elektronik Nombor 296/GoL bertarikh 12 April 2021"
+  },
+  "LA-H419": {
+   "vi": "Nghị định Hải quan số 362/PMO ngày 19 tháng 10 năm 2007",
+   "th": "พระราชกฤษฎีกาศุลกากร ฉบับที่ 362/PMO ลงวันที่ 19 ตุลาคม ค.ศ. 2007",
+   "id": "Peraturan Pemerintah Kepabeanan Nomor 362/PMO tanggal 19 Oktober 2007",
+   "ms": "Peraturan Kastam Nombor 362/PMO bertarikh 19 Oktober 2007"
+  },
+  "LA-H437": {
+   "vi": "Quy định thi hành Luật Đầu tư số 119/PM ngày 20 tháng 4 năm 2011",
+   "th": "ข้อบังคับการดำเนินการตามพระราชบัญญัติการลงทุน ฉบับที่ 119/PM ลงวันที่ 20 เมษายน ค.ศ. 2011",
+   "id": "Peraturan Pelaksanaan Undang-Undang Investasi Nomor 119/PM tanggal 20 April 2011",
+   "ms": "Peraturan Pelaksanaan Akta Pelaburan Nombor 119/PM bertarikh 20 April 2011"
+  },
+  "LA-H421": {
+   "vi": "Thông tư của Bộ trưởng số 0491/MOF về thi hành Luật Hải quan số 05/NA ngày 20 tháng 5 năm 2005",
+   "th": "กฎกระทรวงฉบับที่ 0491/MOF ว่าด้วยการดำเนินการตามพระราชบัญญัติศุลกากร ฉบับที่ 05/NA ลงวันที่ 20 พฤษภาคม ค.ศ. 2005",
+   "id": "Peraturan Menteri Nomor 0491/MOF tentang Pelaksanaan Undang-Undang Kepabeanan Nomor 05/NA tanggal 20 Mei 2005",
+   "ms": "Peraturan Menteri Nombor 0491/MOF tentang Pelaksanaan Akta Kastam Nombor 05/NA bertarikh 20 Mei 2005"
+  },
+  "LA-H422": {
+   "vi": "Thông tư về biện pháp hải quan bảo hộ quyền sở hữu trí tuệ số 1970/MOF",
+   "th": "กฎกระทรวงว่าด้วยมาตรการศุลกากรเพื่อคุ้มครองทรัพย์สินทางปัญญา ฉบับที่ 1970/MOF",
+   "id": "Peraturan Menteri tentang Tindakan Kepabeanan untuk Perlindungan Kekayaan Intelektual Nomor 1970/MOF",
+   "ms": "Peraturan Menteri tentang Langkah Kastam untuk Perlindungan Harta Intelek Nombor 1970/MOF"
+  },
+  "LA-H431": {
+   "vi": "Danh mục hoạt động kinh doanh dành cho nhà đầu tư nước ngoài (sửa đổi tháng 2 năm 2015)",
+   "th": "รายการกิจกรรมทางธุรกิจสำหรับนักลงทุนต่างประเทศ (แก้ไขเพิ่มเติม กุมภาพันธ์ ค.ศ. 2015)",
+   "id": "Daftar Kegiatan Usaha bagi Investor Asing (Perubahan Februari 2015)",
+   "ms": "Senarai Aktiviti Perniagaan bagi Pelabur Asing (Pindaan Februari 2015)"
+  },
+  "LA-H453": {
+   "vi": "Công báo chính thức của Lào — Danh mục nghị quyết (trang 2)",
+   "th": "ราชกิจจานุเบกษาแห่ง สปป. ลาว — รายการมติ (หน้า 2)",
+   "id": "Berita Resmi Laos — Daftar Keputusan (Halaman 2)",
+   "ms": "Warta Rasmi Laos — Senarai Resolusi (Halaman 2)"
+  },
+  "LA-LEGISLATION-2021": {
+   "vi": "Luật Ban hành văn bản quy phạm pháp luật (sửa đổi năm 2021)",
+   "th": "พระราชบัญญัติการออกกฎหมาย(แก้ไขเพิ่มเติม ค.ศ. 2021)",
+   "id": "Undang-Undang Pembentukan Peraturan Perundang-Undangan (Perubahan Tahun 2021)",
+   "ms": "Akta Penggubalan Undang-Undang (Pindaan 2021)",
+   "zh": "立法法（2021年修正版）"
+  }
+ }
+}

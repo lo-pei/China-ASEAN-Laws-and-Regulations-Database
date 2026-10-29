@@ -1,0 +1,956 @@
+{
+ "jobId": "CALR-TITLE-20261017-1818-SG-2467",
+ "shard": 5,
+ "items": [
+  {
+   "id": "SG-H1193",
+   "en": "Early Childhood Development Centres (Exemption) Order 2018",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1634",
+   "en": "Goods and Services Tax (Prescribed Information) Order 2004",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1691",
+   "en": "Health Products (Composition of Offences) Regulations 2011",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H347",
+   "en": "Building and Construction Authority (Exemption) Order 2011",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H594",
+   "en": "Children and Young Persons (Remand Home) Notification 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1231",
+   "en": "Electricity (Repurposing of Installations) Regulations 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H135",
+   "en": "Adoption of Children (Prescribed Offences) Regulations 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1789",
+   "en": "Housing and Development (Designated Buildings) Notification",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1896",
+   "en": "Immigration (Security Measures for Work Place) Notification",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2033",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2006",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2047",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2002",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2057",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2016",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2083",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2012",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3101",
+   "en": "Massage Establishments (Composition of Offences) Rules 2018",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3370",
+   "en": "Nurses and Midwives (COVID-19 Vaccinators) Regulations 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3463",
+   "en": "Parking Places (Composition of Offences) (No. 2) Rules 2018",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H356",
+   "en": "Building Control (Composition of Offences) Regulations 2012",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3563",
+   "en": "Platform Workers (Composition of Offences) Regulations 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1625",
+   "en": "Goods and Services Tax (Electronic Service) Regulations 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1773",
+   "en": "Housing and Development (Composition of Offences) Rules 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3113",
+   "en": "Medical Registration (Certifying Authority) Regulations 2014",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3316",
+   "en": "National Parks Board (Certification Marks) Notification 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H399",
+   "en": "Bus Services Industry (Non-Regular Route Service) Order 2016",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2844",
+   "en": "International Child Abduction (Contracting States) Order 2011",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2901",
+   "en": "Interpretation (Price Control (Rice) Order — Fees) Order 2009",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3314",
+   "en": "National Library Board (Prescribed Websites) Regulations 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H121",
+   "en": "Administration of Muslim Law (Certification Mark) Notification",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H172",
+   "en": "Air Navigation (Protected Areas — Public Hospitals) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2627",
+   "en": "Infrastructure Protection (Protected Areas) (No. 2) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2630",
+   "en": "Infrastructure Protection (Protected Areas) (No. 2) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2632",
+   "en": "Infrastructure Protection (Protected Areas) (No. 2) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2634",
+   "en": "Infrastructure Protection (Protected Areas) (No. 3) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2635",
+   "en": "Infrastructure Protection (Protected Areas) (No. 3) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2639",
+   "en": "Infrastructure Protection (Protected Areas) (No. 5) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2640",
+   "en": "Infrastructure Protection (Protected Areas) (No. 5) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2641",
+   "en": "Infrastructure Protection (Protected Areas) (No. 6) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2642",
+   "en": "Infrastructure Protection (Protected Areas) (No. 7) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2945",
+   "en": "Land Surveyors (Code of Professional Conduct and Ethics) Rules",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H322",
+   "en": "Boundaries and Survey Maps (Map Production Service) Rules 2001",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H494",
+   "en": "Central Provident Fund (Approved Mortgagees) Notification 2002",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H516",
+   "en": "Central Provident Fund (Long Service Awards) Notification 2001",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H544",
+   "en": "Central Provident Fund (Specified Employment) Regulations 1966",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H606",
+   "en": "Chit Funds (Payment to Successful Subscriber) Regulations 1972",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H825",
+   "en": "Control of Plants (Analysis and Inspection Service Fees) Rules",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H951",
+   "en": "Criminal Procedure Code (Viewing of Exhibits) Regulations 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2535",
+   "en": "Income Tax (Substituted Objection Period for Trusts) Rules 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2685",
+   "en": "Infrastructure Protection (Protected Places) (No. 2) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2690",
+   "en": "Infrastructure Protection (Protected Places) (No. 2) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2699",
+   "en": "Infrastructure Protection (Protected Places) (No. 3) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2700",
+   "en": "Infrastructure Protection (Protected Places) (No. 3) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2701",
+   "en": "Infrastructure Protection (Protected Places) (No. 3) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2704",
+   "en": "Infrastructure Protection (Protected Places) (No. 3) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2705",
+   "en": "Infrastructure Protection (Protected Places) (No. 3) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2707",
+   "en": "Infrastructure Protection (Protected Places) (No. 4) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2715",
+   "en": "Infrastructure Protection (Protected Places) (No. 5) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2718",
+   "en": "Infrastructure Protection (Protected Places) (No. 5) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2721",
+   "en": "Infrastructure Protection (Protected Places) (No. 6) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2725",
+   "en": "Infrastructure Protection (Protected Places) (No. 6) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2726",
+   "en": "Infrastructure Protection (Protected Places) (No. 7) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2730",
+   "en": "Infrastructure Protection (Protected Places) (No. 8) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2731",
+   "en": "Infrastructure Protection (Protected Places) (No. 8) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2734",
+   "en": "Infrastructure Protection (Protected Places) (No. 8) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2736",
+   "en": "Infrastructure Protection (Protected Places) (No. 9) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2738",
+   "en": "Infrastructure Protection (Protected Places) (No. 9) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H839",
+   "en": "Control of Vectors and Pesticides (Prescribed Form) Regulations",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2649",
+   "en": "Infrastructure Protection (Protected Places) (No. 10) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2650",
+   "en": "Infrastructure Protection (Protected Places) (No. 10) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2652",
+   "en": "Infrastructure Protection (Protected Places) (No. 10) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2655",
+   "en": "Infrastructure Protection (Protected Places) (No. 11) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2656",
+   "en": "Infrastructure Protection (Protected Places) (No. 11) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2657",
+   "en": "Infrastructure Protection (Protected Places) (No. 11) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2660",
+   "en": "Infrastructure Protection (Protected Places) (No. 12) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2661",
+   "en": "Infrastructure Protection (Protected Places) (No. 12) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2663",
+   "en": "Infrastructure Protection (Protected Places) (No. 13) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2664",
+   "en": "Infrastructure Protection (Protected Places) (No. 13) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2665",
+   "en": "Infrastructure Protection (Protected Places) (No. 13) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2666",
+   "en": "Infrastructure Protection (Protected Places) (No. 14) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2667",
+   "en": "Infrastructure Protection (Protected Places) (No. 14) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2669",
+   "en": "Infrastructure Protection (Protected Places) (No. 14) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2671",
+   "en": "Infrastructure Protection (Protected Places) (No. 15) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2673",
+   "en": "Infrastructure Protection (Protected Places) (No. 15) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2675",
+   "en": "Infrastructure Protection (Protected Places) (No. 16) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2676",
+   "en": "Infrastructure Protection (Protected Places) (No. 16) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2678",
+   "en": "Infrastructure Protection (Protected Places) (No. 17) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2680",
+   "en": "Infrastructure Protection (Protected Places) (No. 18) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2681",
+   "en": "Infrastructure Protection (Protected Places) (No. 18) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2682",
+   "en": "Infrastructure Protection (Protected Places) (No. 19) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2683",
+   "en": "Infrastructure Protection (Protected Places) (No. 19) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2691",
+   "en": "Infrastructure Protection (Protected Places) (No. 20) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2693",
+   "en": "Infrastructure Protection (Protected Places) (No. 21) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2694",
+   "en": "Infrastructure Protection (Protected Places) (No. 22) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2697",
+   "en": "Infrastructure Protection (Protected Places) (No. 25) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3322",
+   "en": "National Registration (Prescribed Institutions) Regulations 2016",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H799",
+   "en": "Compulsory Education (National Primary Schools) Regulations 2018",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H171",
+   "en": "Air Navigation (Protected Areas — Non-Military Places) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2886",
+   "en": "Interpretation (Delegations by Minister for Education) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2895",
+   "en": "Interpretation (Delegations by Minister for Transport) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3025",
+   "en": "Limited Liability Partnerships (Identical Names) Regulations 2015",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H400",
+   "en": "Bus Services Industry (Savings and Transitional) Regulations 2016",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H593",
+   "en": "Children and Young Persons (Place of Detention) Notification 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H088",
+   "en": "Active Mobility (Footpaths — Temporary Discontinuation) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1559",
+   "en": "Financial Holding Companies (Withdrawal of Designation) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1701",
+   "en": "Health Products (Supply of Medical Devices — Exemption) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1893",
+   "en": "Immigration (Prescribed Law Enforcement Agencies) Regulations 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1437",
+   "en": "Executive Condominium Housing Scheme (Eligibility) Regulations 1996",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2923",
+   "en": "Jurong Town Corporation (Assignment of Functions) Notification 2018",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H305",
+   "en": "Betting (Singapore Totalisator Board — Exemption) Notification 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H060",
+   "en": "Active Mobility (Certificate of Medical Need — Exemption) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1164",
+   "en": "Destruction of Disease-Bearing Insects (Prescribed Form) Regulations",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2259",
+   "en": "Income Tax (FLCT UK Pte. Ltd. — Section 13(12) Exemption) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H547",
+   "en": "Central Provident Fund (Wages — Excluded Payments) Notification 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1674",
+   "en": "Guns, Explosives and Weapons Control (Temporary Exemption) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H533",
+   "en": "Central Provident Fund (Relevant Transactions — Exemption) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H745",
+   "en": "Common Gaming Houses (Casino Operators — Exemption) Notification 2010",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1073",
+   "en": "Cybersecurity (Confidential Treatment of Information) Regulations 2018",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1202",
+   "en": "Education (Exemptions of Religious Schools from Act) Notification 1989",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1363",
+   "en": "Environmental Public Health (Excluded Cleaning Work) Notification 2014",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1375",
+   "en": "Environmental Public Health (Licensable Aquatic Facilities) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H164",
+   "en": "Air Navigation (Protected Areas — Army Division Facilities) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3686",
+   "en": "Straits Settlements and Johore Territorial Waters (Agreement) Act 1928",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H661",
+   "en": "Co-operative Societies (Exemption under Section 97) (No. 2) Order 2018",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H670",
+   "en": "Co-operative Societies (Exemption under Section 97) (No. 5) Order 2010",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H671",
+   "en": "Co-operative Societies (Exemption under Section 97) (No. 5) Order 2012",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H917",
+   "en": "Criminal Law (Obligations on Person Subject to Supervision) Rules 2018",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H946",
+   "en": "Criminal Procedure Code (Relevant Law Enforcement Agencies) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1172",
+   "en": "Diplomatic and Consular Relations (Commonwealth Secretariat) Order 2008",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1332",
+   "en": "Environmental Protection and Management (Fees for Licences) Regulations",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1377",
+   "en": "Environmental Public Health (Modification of Licences) Regulations 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1726",
+   "en": "Healthcare Services (Institute of Mental Health) (Exemption) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1807",
+   "en": "Housing and Development (Precincts for Lift Upgrading Works) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1808",
+   "en": "Housing and Development (Precincts for Lift Upgrading Works) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1809",
+   "en": "Housing and Development (Precincts for Lift Upgrading Works) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1810",
+   "en": "Housing and Development (Precincts for Lift Upgrading Works) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1811",
+   "en": "Housing and Development (Precincts for Lift Upgrading Works) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H398",
+   "en": "Bus Services Industry (Designated Operating Entities) Notification 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H760",
+   "en": "Community Disputes Resolution (Notice to Attend Court) Regulations 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H802",
+   "en": "Computer Misuse (Composition of Offences) (Revocation) Regulations 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1261",
+   "en": "Employment (Recommendations for Annual Wage Increases) Notification 1998",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1262",
+   "en": "Employment (Recommendations for Annual Wage Increases) Notification 2000",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1263",
+   "en": "Employment (Recommendations for Annual Wage Increases) Notification 2001",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1365",
+   "en": "Environmental Public Health (Exemption from Section 67) Regulations 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1502",
+   "en": "Fees (Ministry of Social and Family Development) (Revocation) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1548",
+   "en": "Financial Advisers (Exemption from Sections 25 to 29 and 36) Regulations",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1993",
+   "en": "Income Tax (Elite Commercial REIT — Section 13(12) Exemption) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3310",
+   "en": "National Heritage Board (Micrographic and Reprographic Fees) Regulations",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H617",
+   "en": "Civil Aviation Authority of Singapore (Changi Airport) Notification 2009",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H834",
+   "en": "Control of Rent (Exemption — Housing and Development Board) Notification",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H931",
+   "en": "Criminal Procedure Code (Prescribed Forms) (Revocation) Regulations 2018",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H932",
+   "en": "Criminal Procedure Code (Prescribed Law Enforcement Agencies) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1250",
+   "en": "Employment (Recommendations for Annual Wage Adjustment) Notification 1999",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1251",
+   "en": "Employment (Recommendations for Annual Wage Adjustment) Notification 2003",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1252",
+   "en": "Employment (Recommendations for Annual Wage Adjustment) Notification 2004",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1253",
+   "en": "Employment (Recommendations for Annual Wage Adjustment) Notification 2005",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1254",
+   "en": "Employment (Recommendations for Annual Wage Adjustment) Notification 2006",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1255",
+   "en": "Employment (Recommendations for Annual Wage Adjustment) Notification 2007",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1256",
+   "en": "Employment (Recommendations for Annual Wage Adjustment) Notification 2008",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1257",
+   "en": "Employment (Recommendations for Annual Wage Adjustment) Notification 2009",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1258",
+   "en": "Employment (Recommendations for Annual Wage Adjustment) Notification 2010",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1259",
+   "en": "Employment (Recommendations for Annual Wage Adjustment) Notification 2011",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1260",
+   "en": "Employment (Recommendations for Annual Wage Adjustment) Notification 2014",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1359",
+   "en": "Environmental Public Health (Declaration of DPWCS Area) Notification 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1360",
+   "en": "Environmental Public Health (Declaration of DPWCS Area) Notification 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2590",
+   "en": "Income Tax (Use of Container — Section 13(4) Exemption) Notification 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3124",
+   "en": "Medicines (Cessation of Application of Act to Medical Devices) Order 2010",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3371",
+   "en": "Nurses and Midwives (Exemption for Approved Pharmacists) Regulations 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H626",
+   "en": "Civil Aviation Authority of Singapore (Seletar Airport) Notification 2009",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H889",
+   "en": "COVID-19 (Temporary Measures) (Extension of Prescribed Period) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H084",
+   "en": "Active Mobility (Footpaths — Temporary Discontinuation) (No. 2) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1029",
+   "en": "Currency Act — Denominations and Characteristics of the Coins to Be Issued",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H167",
+   "en": "Air Navigation (Protected Areas — Military Offshore Facilities) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H175",
+   "en": "Air Navigation (Protected Areas — Telecommunication Facilities) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2583",
+   "en": "Income Tax (Transfer of Undertaking by Bank or Finance Company) Order 2008",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2622",
+   "en": "Infrastructure Protection (Designation of Special Developments) Order 2018",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3030",
+   "en": "Limited Partnerships (Direction under section 17A(1)(d)) Notification 2015",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3282",
+   "en": "Mutual Assistance in Criminal Matters (Prescribed Foreign Countries) Order",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H564",
+   "en": "Charities (Exemption from Permit for Fund-raising Appeal) Regulations 2011",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1333",
+   "en": "Environmental Protection and Management (Greenhouse Gases) Regulations 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2608",
+   "en": "Infectious Diseases (Prescribed Entities and Institutions) Regulations 2008",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3111",
+   "en": "Medical and Elderly Care Endowment Schemes (Medifund Committees) Order 2015",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3123",
+   "en": "Medicines (Cessation of Application of Act to Cosmetic Products) Order 2013",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1277",
+   "en": "Employment of Foreign Manpower (Exemption from Section 10) Notification 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H168",
+   "en": "Air Navigation (Protected Areas — Military Training-1 Facilities) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H169",
+   "en": "Air Navigation (Protected Areas — Military Training-2 Facilities) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H170",
+   "en": "Air Navigation (Protected Areas — Military Training-3 Facilities) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1975",
+   "en": "Income Tax (Cromwell SG SPV 5 Pte Ltd — Section 13(12) Exemption) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3256",
+   "en": "Motor Vehicles (Third-Party Risks and Compensation) (Exemption) Notification",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3294",
+   "en": "Nanyang Polytechnic Students’ Union and Constituent Bodies (Exemption) Order",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H073",
+   "en": "Active Mobility (Enforcement Detection System Testing — Exemption) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1061",
+   "en": "Customs (Motor Vehicles with Special Purpose Licences) (Exemption) Regulations",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1281",
+   "en": "Employment of Foreign Manpower (Security Measures for Work Place) Notification",
+   "hint": "3 条"
+  }
+ ]
+}

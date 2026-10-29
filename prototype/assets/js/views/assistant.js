@@ -73,43 +73,6 @@
     }).join('<br>');
   }
 
-  /** 把结构化答案转成纯文本（供导出 TXT） */
-  function plainAnswer(res, byok) {
-    if (!res || res.empty) return '';
-    var a = res.answer || {};
-    var llm = byok && byok.llm;
-    var L = [];
-    var llmUsed = !!(llm && llm.ok && llm.text);
-    L.push(llmUsed ? String(llm.text).trim() : String(a.overview || '').trim());
-    if (a.points && a.points.length) {
-      L.push('');
-      L.push('条文要点：');
-      a.points.forEach(function (p, i) {
-        L.push('  ' + (i + 1) + '. ' + p.text + '  [' + p.n + '] ' +
-          [p.countryName, p.lawTitle, p.noLabel].filter(Boolean).join(' · '));
-      });
-    }
-    if (a.basis && a.basis.length) {
-      L.push('');
-      L.push('法条依据：');
-      a.basis.forEach(function (b, i) {
-        L.push('  [' + (i + 1) + '] ' + [b.countryName, b.lawTitle, b.noLabel].filter(Boolean).join(' · ') +
-          (b.heading ? '（' + b.heading + '）' : ''));
-        if (b.excerpt) L.push('      ' + b.excerpt);
-      });
-    }
-    var bg = a.background || a.analysis;
-    if (bg) { L.push(''); L.push('背景说明（非条文结论）：'); L.push(bg); }
-    if (a.risk) { L.push(''); L.push('风险与提示：'); L.push(a.risk); }
-    if (llm && !llmUsed) {
-      var why = llm.error || (llm.reason === 'nokey' ? '未配置 API Key' :
-        (llm.reason === 'no-materials' ? '本地未检索到可引用的条文，已跳过模型调用' : '模型调用失败'));
-      L.push('');
-      L.push('（模型增强未生效：' + why + '，以上内容来自本地法规库）');
-    }
-    return L.join('\n').replace(/\*\*([^*]+)\*\*/g, '$1');
-  }
-
   var history = [];
   var deepAsked = null;   /* 深链 ?q= 只在同一会话内自动提问一次，避免二次渲染重复追问 */
 
@@ -118,9 +81,7 @@
   var convSeq = 0;
   var curConvId = 0;
 
-  /* 会话增强状态：多选、菜单、重命名 */
-  var selectMode = false;
-  var selected = {};
+  /* 会话增强状态：重命名 / ⋯ 菜单 */
   var menuId = 0;
   var renamingId = 0;
 
@@ -177,14 +138,11 @@
       '<div class="container container--wide page">' +
         '<div class="ai-layout">' +
 
-          /* ---------- 左：历史对话 ---------- */
+          /* ---------- 左：历史对话（只保留列表） ---------- */
           '<aside class="ai-history" aria-label="' + esc(t('历史对话')) + '">' +
             '<div class="ai-history__head">' +
               '<span class="ai-history__title">' + esc(t('历史对话')) + '</span>' +
-              '<button class="btn btn--outline btn--sm" id="conv-new" type="button" title="' + esc(t('新对话')) + '">＋</button>' +
-              '<button class="btn btn--ghost btn--sm" id="conv-select" type="button" title="' + esc(t('多选')) + '">☑</button>' +
             '</div>' +
-            '<div class="ai-selbar" id="conv-bar"></div>' +
             '<div class="ai-history__list" id="conv-list"></div>' +
             '<div class="ai-history__foot mini muted">' + esc(t('仅保存在当前页面内存中')) + '</div>' +
           '</aside>' +
@@ -198,12 +156,15 @@
                 '<span class="tag tag--gold">' + esc(t('AI 辅助生成，仅供参考')) + '</span>' +
               '</div>' +
               '<div class="ai-main__actions">' +
+                /* 「新对话」放在对话面板右上角，与 API 配置同区 */
+                '<button class="btn btn--sm ai-new-btn" id="conv-new" type="button" title="' + esc(t('新对话')) + '">' +
+                  '<span class="ai-new-btn__icon" aria-hidden="true">＋</span>' + esc(t('新对话')) +
+                '</button>' +
                 '<button class="btn btn--outline btn--sm" id="byok-open" type="button">' +
                   '<span id="byok-dot" class="ai-dot' + (llmOn ? ' is-on' : '') + '"></span>' +
                   esc(t('API 配置')) +
                   '<span class="ai-main__state" id="byok-state">' + esc(llmOn ? t('已启用') : t('未启用')) + '</span>' +
                 '</button>' +
-                '<button class="btn btn--ghost btn--sm" id="export-chat" type="button">' + esc(t('导出 TXT')) + '</button>' +
               '</div>' +
             '</div>' +
             '<div class="ai-main__body">' +
@@ -259,15 +220,6 @@
         var box = U().$('#conv-list', main);
         if (!box) return;
         var list = sortedConvs();
-        var bar = U().$('#conv-bar', main);
-        if (bar) {
-          bar.innerHTML = selectMode
-            ? '<span class="mini">' + esc(t('已选')) + ' ' + Object.keys(selected).length + '</span>' +
-              '<button type="button" class="btn btn--outline btn--sm" data-sel="pin">' + esc(t('置顶')) + '</button>' +
-              '<button type="button" class="btn btn--ghost btn--sm" data-sel="del">' + esc(t('删除')) + '</button>' +
-              '<button type="button" class="btn btn--ghost btn--sm" data-sel="cancel">' + esc(t('取消')) + '</button>'
-            : '';
-        }
 
         /* 按组渲染：置顶优先，其余按今天/昨天/前 7 天/更早 */
         var html = '';
@@ -279,32 +231,24 @@
             lastGroup = g;
           }
           var on = c.id === curConvId;
-          var isSel = !!selected[c.id];
           var title = convTitleOf(c);
           var inner = renamingId === c.id
             ? '<input class="ai-conv__rename" data-rename="' + c.id + '" value="' + esc(title) + '" maxlength="40">'
             : '<span class="ai-conv__title">' + esc(title) + '</span>';
-          html += '<div class="ai-conv' + (on ? ' is-active' : '') + (isSel ? ' is-selected' : '') +
-              '" data-conv="' + c.id + '">' +
-            (selectMode ? '<span class="ai-conv__check">' + (isSel ? '✓' : '') + '</span>' : '') +
+          html += '<div class="ai-conv' + (on ? ' is-active' : '') + '" data-conv="' + c.id + '">' +
             inner +
-            (selectMode || renamingId === c.id ? '' :
+            (renamingId === c.id ? '' :
               '<button class="ai-conv__more" type="button" data-conv-more="' + c.id + '" title="' + esc(t('更多')) + '">⋯</button>') +
-            (!selectMode && menuId === c.id ? menuHtml(c) : '') +
+            (menuId === c.id ? menuHtml(c) : '') +
           '</div>';
         });
         box.innerHTML = html;
 
-        /* --- 行点击：切换会话 / 多选勾选 --- */
+        /* --- 行点击：切换会话 --- */
         U().$$('[data-conv]', box).forEach(function (el) {
           U().on(el, 'click', function (e) {
             if (e.target.closest && e.target.closest('[data-conv-more],[data-act],[data-rename]')) return;
             var id = parseInt(el.getAttribute('data-conv'), 10);
-            if (selectMode) {
-              if (selected[id]) delete selected[id]; else selected[id] = true;
-              renderConvList();
-              return;
-            }
             menuId = 0;
             for (var k = 0; k < CONVS.length; k++) if (CONVS[k].id === id) { bindConv(CONVS[k]); break; }
             renderConvList(); renderChat();
@@ -337,7 +281,6 @@
               renamingId = id;
             } else if (act === 'del') {
               CONVS = CONVS.filter(function (x) { return x.id !== id; });
-              delete selected[id];
               if (!CONVS.length) newConv(true);
               if (!CONVS.some(function (x) { return x.id === curConvId; })) bindConv(CONVS[0]);
               else bindConv(curConv());
@@ -367,41 +310,7 @@
           U().on(el, 'blur', function () { commit(true); });
           try { el.focus({ preventScroll: true }); el.select(); } catch (err) { el.focus(); }
         });
-
-        /* --- 多选工具条 --- */
-        if (bar) {
-          U().$$('[data-sel]', bar).forEach(function (el) {
-            U().on(el, 'click', function () {
-              var act = el.getAttribute('data-sel');
-              var ids = Object.keys(selected).map(Number);
-              if (act === 'cancel') { selectMode = false; selected = {}; }
-              else if (act === 'pin' && ids.length) {
-                ids.forEach(function (id) {
-                  for (var k = 0; k < CONVS.length; k++) if (CONVS[k].id === id) CONVS[k].pinned = true;
-                });
-                U().toast(t('已置顶') + ' ' + ids.length + ' ' + t('个对话'), 'ok');
-                selected = {}; selectMode = false;
-              } else if (act === 'del' && ids.length) {
-                CONVS = CONVS.filter(function (x) { return ids.indexOf(x.id) < 0; });
-                if (!CONVS.length) newConv(true);
-                if (!CONVS.some(function (x) { return x.id === curConvId; })) bindConv(CONVS[0]);
-                else bindConv(curConv());
-                U().toast(t('已删除') + ' ' + ids.length + ' ' + t('个对话'), 'ok');
-                selected = {}; selectMode = false;
-              }
-              renderConvList(); renderChat();
-            });
-          });
-        }
       }
-
-      /* 顶栏「多选」开关 */
-      U().on(U().$('#conv-select', main), 'click', function () {
-        selectMode = !selectMode;
-        selected = {}; menuId = 0; renamingId = 0;
-        U().$('#conv-select', main).classList.toggle('is-active', selectMode);
-        renderConvList();
-      });
 
       /* 会话标题随首问更新 */
       function touchConv() {
@@ -498,29 +407,22 @@
         });
       }
 
-      /* 导出对话为 TXT（含提问与回答全文；不做任何持久化，仅用户主动导出） */
-      U().on(U().$('#export-chat', main), 'click', function () {
-        var rows = history.filter(function (h) { return h.role; });
-        if (!rows.length) { U().toast(t('当前没有可导出的对话'), 'warn'); return; }
-        var d = new Date();
-        function pad(n) { return (n < 10 ? '0' : '') + n; }
-        var stamp = d.getFullYear() + pad(d.getMonth() + 1) + pad(d.getDate()) + '-' + pad(d.getHours()) + pad(d.getMinutes());
-        var L = [];
-        L.push('中国—东盟法律法规数据库（CALR）· AI 法律问答对话记录');
-        L.push('导出时间：' + d.toLocaleString());
-        L.push('说明：本记录由 AI 辅助生成，仅供参考；正式引用请以各国官方公布文本为准。');
-        L.push('分隔线：====================');
-        L.push('');
-        rows.forEach(function (h, i) {
-          L.push((h.role === 'user' ? '【我 · ' : '【AI · ') + (i + 1) + '】');
-          L.push(String(h.text || '').trim());
-          L.push('');
-        });
-        U().download('CALR-AI对话-' + stamp + '.txt', L.join('\r\n'), 'text/plain;charset=utf-8');
-        U().toast(t('对话已导出为 TXT'), 'ok');
-      });
-
       wireByok();
+
+      /* 点击 ⋯ 菜单以外的任何位置（或按 Esc）自动关闭「置顶/重命名/删除」菜单 */
+      if (main._convOutside) document.removeEventListener('click', main._convOutside);
+      main._convOutside = function (e) {
+        if (!menuId) return;
+        if (e.target && e.target.closest && (e.target.closest('.ai-menu') || e.target.closest('[data-conv-more]'))) return;
+        menuId = 0;
+        renderConvList();
+      };
+      document.addEventListener('click', main._convOutside);
+      if (main._convEsc) document.removeEventListener('keydown', main._convEsc);
+      main._convEsc = function (e) {
+        if (e.key === 'Escape' && menuId) { menuId = 0; renderConvList(); }
+      };
+      document.addEventListener('keydown', main._convEsc);
 
       /* 婉拒气泡里的「您是不是想问」建议：事件委托，重绘后仍有效 */
       U().on(chatEl(), 'click', function (e) {
@@ -569,9 +471,7 @@
           var done = function (res) {
             /* answerHtml() 内部已经用 rowHtml('ai', …) 包过一层，
                这里不能再包，否则会出现「气泡里套气泡」。 */
-            var full = answerHtml(res);
-            var plain = plainAnswer(res, null);
-            history[slot] = { html: full, role: 'ai', text: plain };
+            history[slot] = { html: answerHtml(res), role: 'ai', text: '' };
             renderChat();
           };
           var askP = (CALR.qa.askAsync ? CALR.qa.askAsync(question) : Promise.resolve(CALR.qa.ask(question)));
@@ -598,13 +498,13 @@
           }
         }); }).then(function (r) {
           history[history.length - 1] = {
-            html: answerHtml(r.local, r), role: 'ai', text: plainAnswer(r.local, r)
+            html: answerHtml(r.local, r), role: 'ai', text: ''
           };
           renderChat();
         }).catch(function (e) {
           var fbRes = { local: CALR.qa.ask(question), llm: { ok: false, error: String((e && e.message) || e) } };
           history[history.length - 1] = {
-            html: answerHtml(fbRes.local, fbRes), role: 'ai', text: plainAnswer(fbRes.local, fbRes)
+            html: answerHtml(fbRes.local, fbRes), role: 'ai', text: ''
           };
           renderChat();
         });
@@ -642,8 +542,13 @@
   function answerHtml(res, byok) {
     if (!res || res.empty) return '';
     if (!res.inScope) {
+      /* 区分三种「答不了」：非法律问题（offTopic）、未收录法域（outOfJurisdiction）、
+         库内暂无对应条文。语气保持礼貌、边界明确，并给出可操作建议。 */
+      var noteLabel = '';
+      if (res.outOfJurisdiction) noteLabel = t('暂未收录该国法规');
+      else if (!res.offTopic) noteLabel = t('暂未收录相关法规');
       return rowHtml('ai',
-        '<p class="ans-note">' + CALR.ui.icon('check') + ' ' + esc(t('暂未收录相关法规')) + '</p>' +
+        (noteLabel ? '<p class="ans-note">' + CALR.ui.icon('info') + ' ' + esc(noteLabel) + '</p>' : '') +
         '<div class="ans-body">' + fmtRich(res.answer.overview) + '</div>' +
         '<p class="ans-foot">' + esc(res.answer.analysis) + '</p>' +
         (res.suggestions && res.suggestions.length
@@ -767,21 +672,6 @@
   function byokPanel() {
     var cfg = CALR.llm.config() || {};
     var on = !!(cfg.apiKey && cfg.baseUrl && cfg.model && cfg.enabled);
-    var presets = CALR.llm.PRESETS;
-    var cur = cfg.preset || '';
-    if (!cur) {
-      if (cfg.baseUrl) {
-        for (var i = 0; i < presets.length; i++) {
-          if (presets[i].baseUrl && cfg.baseUrl.indexOf(presets[i].baseUrl) === 0) { cur = presets[i].id; break; }
-        }
-      }
-      if (!cur) cur = 'deepseek';
-    }
-    var defP = null;
-    for (var k = 0; k < presets.length; k++) { if (presets[k].id === cur) defP = presets[k]; }
-    var modelVal = cfg.model || (defP && defP.model) || '';
-    var baseVal = cfg.baseUrl || (defP && defP.baseUrl) || '';
-    var temp = typeof cfg.temperature === 'number' ? cfg.temperature : 0.2;
 
     /* 表单字段：标签在上、控件满宽 */
     function v(label, inner) {
@@ -801,7 +691,7 @@
         '<span class="tag ' + (on ? 'tag--blue' : 'tag--outline') + '">' + esc(on ? CALR.i18n.t('已启用') : CALR.i18n.t('未启用')) + '</span>' +
       '</div>' +
       '<p class="mini muted" style="margin:8px 0 14px">' +
-        esc(CALR.i18n.t('可选：用您自己的大模型 API Key 提升检索改写与答案组织质量，Token 费用由您自付；数据库与检索仍在本机运行，平台不收费、不记录您的 Key。')) +
+        esc(CALR.i18n.t('可选：填写您自己的 OpenAI 兼容接口，用于增强检索改写与答案组织；Token 费用由您自付，数据库与检索仍在本机运行，平台不收费、不记录您的 Key。')) +
       '</p>' +
       (on
         ? '<div class="row" style="margin-bottom:12px">' +
@@ -812,58 +702,21 @@
         : '<div id="byok-body">' + byokForm() + '</div>') +
     '</div>';
 
-    /** 该厂商模型清单里是否没有这个模型（→ 视为自定义输入） */
-    function isCustomModel(pid, val) {
-      var list = (CALR.llm.modelsOf ? CALR.llm.modelsOf(pid) : []) || [];
-      return !!val && list.indexOf(val) < 0;
-    }
-
-    /** 模型下拉选项：厂商常用模型 + 「自定义（手动输入）」 */
-    function modelOptions(pid, val) {
-      var list = (CALR.llm.modelsOf ? CALR.llm.modelsOf(pid) : []) || [];
-      var custom = isCustomModel(pid, val);
-      var out = list.map(function (m) {
-        return '<option value="' + esc(m) + '"' + (m === val ? ' selected' : '') + '>' + esc(m) + '</option>';
-      }).join('');
-      if (!list.length) {
-        out = '<option value="">' + esc(t('请选择或自定义模型')) + '</option>' + out;
-      }
-      out += '<option value="__custom__"' + (custom ? ' selected' : '') + '>' + esc(t('自定义（手动输入）')) + '</option>';
-      return out;
-    }
-
-    /** 表单主体（首次展开 / 点「修改配置」展开时复用同一段 HTML） */
+    /** 表单主体：接口地址、模型、Key 全部由用户自行填写，不提供厂商/模型预设 */
     function byokForm() {
       return '<div style="margin-top:2px">' +
-        v('厂商',
-          '<select class="select" id="byok-preset" style="width:100%">' +
-            presets.map(function (p) {
-              return '<option value="' + esc(p.id) + '"' + (p.id === cur ? ' selected' : '') + '>' + esc(p.name) + '</option>';
-            }).join('') +
-          '</select>') +
+        v('接口地址（Base URL）',
+          '<input class="input" id="byok-base" type="url" autocomplete="off" spellcheck="false" style="width:100%" value="' + esc(cfg.baseUrl || '') + '">') +
         v('模型名称',
-          '<select class="select" id="byok-model" style="width:100%">' + modelOptions(cur, modelVal) + '</select>' +
-          '<input class="input" id="byok-model-custom" style="width:100%;margin-top:6px"' + (isCustomModel(cur, modelVal) ? '' : ' hidden') +
-          ' value="' + esc(isCustomModel(cur, modelVal) ? modelVal : '') + '" placeholder="' + esc(t('输入自定义模型 ID')) + '">') +
+          '<input class="input" id="byok-model" type="text" autocomplete="off" spellcheck="false" style="width:100%" value="' + esc(cfg.model || '') + '">') +
         v('API Key',
-          '<input class="input" id="byok-key" type="password" autocomplete="off" spellcheck="false" style="width:100%" value="' + esc(cfg.apiKey || '') + '" placeholder="sk-...">') +
+          '<input class="input" id="byok-key" type="password" autocomplete="off" spellcheck="false" style="width:100%" value="' + esc(cfg.apiKey || '') + '">') +
         '<div class="row" style="margin-top:12px;gap:8px">' +
           '<button class="btn btn--sm" id="byok-save" type="button" style="flex:1">' + esc(t('保存并启用')) + '</button>' +
           '<button class="btn btn--outline btn--sm" id="byok-test" type="button">' + esc(t('测试连接')) + '</button>' +
         '</div>' +
         (on ? '<div style="margin-top:8px"><button class="btn btn--ghost btn--sm" id="byok-clear" type="button">' + esc(t('清除配置')) + '</button></div>' : '') +
-        '<details style="margin-top:10px">' +
-          '<summary class="mini muted" style="cursor:pointer">' + esc(t('高级选项')) + '</summary>' +
-          v('接口地址（OpenAI 兼容 Base URL）',
-            '<input class="input" id="byok-base" style="width:100%" value="' + esc(baseVal) + '" placeholder="https://api.example.com/v1">') +
-          '<label class="small" style="display:block;margin-top:10px">' + esc(t('温度')) +
-            ' <b id="byok-temp-v">' + temp + '</b>' +
-            '<div style="margin-top:4px"><input id="byok-temp" type="range" min="0" max="1" step="0.1" value="' + temp + '" style="width:100%"></div></label>' +
-          '<label class="small" style="display:flex;align-items:flex-start;gap:6px;margin-top:10px">' +
-            '<input type="checkbox" id="byok-remember"' + (cfg.remember ? ' checked' : '') + ' style="margin-top:3px">' +
-            '<span>' + esc(t('记住此设备')) + '</span></label>' +
-        '</details>' +
-        '<p class="mini muted" style="margin:10px 0 0">' + esc(t('安全提示：默认仅保存在本次会话，关闭标签页即失效；勾选“记住”才写入浏览器本地存储，请勿在公用电脑使用。API Key 只发送给您填写的接口地址，不经过本平台服务器，本平台也无法读取。')) + '</p>' +
+        '<p class="mini muted" style="margin:10px 0 0">' + esc(t('安全提示：默认仅保存在本次会话，关闭标签页即失效；API Key 只发送给您填写的接口地址，不经过本平台服务器，本平台也无法读取。')) + '</p>' +
         '<div id="byok-out" class="small" style="margin-top:8px"></div>' +
       '</div>';
     }
@@ -875,13 +728,14 @@
     function val(id) { var e = el(id); return e ? e.value : ''; }
     function say(html) { var o = el('byok-out'); if (o) o.innerHTML = html; }
     function collect() {
+      var old = CALR.llm.config() || {};
       return {
-        preset: val('byok-preset'),
+        preset: 'custom',
         baseUrl: val('byok-base').trim(),
-        model: (val('byok-model') === '__custom__' ? val('byok-model-custom') : val('byok-model')).trim(),
+        model: val('byok-model').trim(),
         apiKey: val('byok-key').trim(),
-        temperature: parseFloat(val('byok-temp')) || 0,
-        remember: !!(el('byok-remember') || {}).checked,
+        temperature: typeof old.temperature === 'number' ? old.temperature : 0.2,
+        remember: false,
         enabled: true
       };
     }
@@ -892,41 +746,6 @@
       body.hidden = !body.hidden;
       toggle.textContent = body.hidden ? t('修改配置') : t('收起配置');
       if (!body.hidden) { var k = el('byok-key'); if (k) k.focus(); }
-    });
-
-    U().on(el('byok-preset'), 'change', function (e) {
-      var p = null;
-      for (var i = 0; i < CALR.llm.PRESETS.length; i++) {
-        if (CALR.llm.PRESETS[i].id === e.target.value) p = CALR.llm.PRESETS[i];
-      }
-      if (!p) return;
-      if (p.id !== 'custom') {
-        var b = el('byok-base'); if (b) b.value = p.baseUrl;
-        var m = el('byok-model'); if (m) m.value = p.model;
-      }
-      /* 同步刷新「模型名称」下拉选项 */
-      var msel = el('byok-model');
-      if (msel) {
-        var list = (CALR.llm.modelsOf ? CALR.llm.modelsOf(p.id) : []) || [];
-        msel.innerHTML = list.map(function (x) {
-          return '<option value="' + esc(x) + '">' + esc(x) + '</option>';
-        }).join('') + '<option value="__custom__">' + esc(t('自定义（手动输入）')) + '</option>';
-        if (list.length) msel.value = list[0];
-      }
-      var cin = el('byok-model-custom');
-      if (cin) cin.hidden = true;
-    });
-
-    /* 选中「自定义」时显示手动输入框 */
-    U().on(el('byok-model'), 'change', function (e) {
-      var cin = el('byok-model-custom');
-      if (!cin) return;
-      cin.hidden = e.target.value !== '__custom__';
-      if (!cin.hidden) cin.focus();
-    });
-
-    U().on(el('byok-temp'), 'input', function (e) {
-      var v = el('byok-temp-v'); if (v) v.textContent = e.target.value;
     });
 
     U().on(el('byok-test'), 'click', function () {

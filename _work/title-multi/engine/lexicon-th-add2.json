@@ -1,0 +1,397 @@
+{
+ "_note": "TH 主题增补（1–56）",
+ "subjects": {
+  "วิชาชีพสังคมสงเคราะห์": {
+   "zh": "社会工作职业",
+   "en": "Social Work Profession",
+   "vi": "Nghề công tác xã hội",
+   "id": "Profesi Pekerjaan Sosial",
+   "ms": "Profesion Kerja Sosial"
+  },
+  "ส่งเสริมกีฬาอาชีพ": {
+   "zh": "职业体育促进",
+   "en": "Promotion of Professional Sports",
+   "vi": "Thúc đẩy thể thao chuyên nghiệp",
+   "id": "Pengembangan Olahraga Profesional",
+   "ms": "Penggalakan Sukan Profesional"
+  },
+  "เปลี่ยนชื่อมหาวิทยาลัยกรุงเทพมหานครเป็นมหาวิทยาลัยนวมินทราธิราช": {
+   "zh": "将曼谷都立大学更名为纳瓦明塔拉提拉大学",
+   "en": "Renaming of Bangkok Metropolitan University as Navamindradhiraj University",
+   "vi": "Đổi tên Đại học Bangkok thành Đại học Navamindradhiraj",
+   "id": "Penggantian Nama Universitas Bangkok menjadi Universitas Navamindradhiraj",
+   "ms": "Penukaran Nama Universiti Bangkok kepada Universiti Navamindradhiraj"
+  },
+  "ป้องกันการทารุณกรรมและการจัดสวัสดิภาพสัตว์": {
+   "zh": "防止虐待动物与动物福利",
+   "en": "Prevention of Animal Cruelty and Provision of Animal Welfare",
+   "vi": "Phòng chống ngược đãi động vật và bảo đảm phúc lợi động vật",
+   "id": "Pencegahan Kekejaman terhadap Hewan dan Penyelenggaraan Kesejahteraan Hewan",
+   "ms": "Pencegahan Kekejaman terhadap Haiwan dan Penyediaan Kebajikan Haiwan"
+  },
+  "การกีฬาแห่งประเทศไทย": {
+   "zh": "泰国体育总局",
+   "en": "Sports Authority of Thailand",
+   "vi": "Cơ quan Thể thao Thái Lan",
+   "id": "Badan Keolahragaan Thailand",
+   "ms": "Pihak Berkuasa Sukan Thailand"
+  },
+  "การชุมนุมสาธารณะ": {
+   "zh": "公共集会",
+   "en": "Public Assembly",
+   "vi": "Tụ họp công cộng",
+   "id": "Unjuk Rasa Umum",
+   "ms": "Perhimpunan Awam"
+  },
+  "การยางแห่งประเทศไทย": {
+   "zh": "泰国橡胶局",
+   "en": "Rubber Authority of Thailand",
+   "vi": "Cơ quan Cao su Thái Lan",
+   "id": "Badan Karet Thailand",
+   "ms": "Pihak Berkuasa Getah Thailand"
+  },
+  "กำลังพลสำรอง": {
+   "zh": "预备役人员",
+   "en": "Reserve Forces",
+   "vi": "Lực lượng dự bị",
+   "id": "Pasukan Cadangan",
+   "ms": "Angkatan Simpanan"
+  },
+  "คลังสินค้า ไซโล และห้องเย็น": {
+   "zh": "仓库、筒仓与冷库",
+   "en": "Warehouses, Silos and Cold Storage",
+   "vi": "Kho hàng, silo và kho lạnh",
+   "id": "Gudang, Silo dan Penyimpanan Dingin",
+   "ms": "Gudang, Silo dan Stor Sejuk"
+  },
+  "ควบคุมคุณภาพอาหารสัตว์": {
+   "zh": "饲料质量控制",
+   "en": "Control of Animal Feed Quality",
+   "vi": "Kiểm soát chất lượng thức ăn chăn nuôi",
+   "id": "Pengendalian Mutu Pakan Ternak",
+   "ms": "Kawalan Mutu Makanan Haiwan"
+  },
+  "จัดตั้งศาลอุทธรณ์คดีชำนัญพิเศษ": {
+   "zh": "专门案件上诉法院设立",
+   "en": "Establishment of the Appeal Court for Specialised Cases",
+   "vi": "Thành lập Tòa phúc thẩm các vụ án chuyên biệt",
+   "id": "Pembentukan Pengadilan Banding Perkara Khusus",
+   "ms": "Penubuhan Mahkamah Rayuan Kes Khusus"
+  },
+  "ธุรกิจรักษาความปลอดภัย": {
+   "zh": "保安服务",
+   "en": "Security Services Business",
+   "vi": "Kinh doanh dịch vụ bảo vệ",
+   "id": "Usaha Jasa Pengamanan",
+   "ms": "Perniagaan Perkhidmatan Keselamatan"
+  },
+  "ภาษีการรับมรดก": {
+   "zh": "继承税",
+   "en": "Inheritance Tax",
+   "vi": "Thuế thừa kế",
+   "id": "Pajak Warisan",
+   "ms": "Cukai Pusaka"
+  },
+  "สถาบันวิทยาลัยชุมชน": {
+   "zh": "社区学院机构",
+   "en": "Institute of Community Colleges",
+   "vi": "Học viện Cao đẳng Cộng đồng",
+   "id": "Institut Perguruan Tinggi Komunitas",
+   "ms": "Institut Kolej Komuniti"
+  },
+  "สัตว์เพื่องานทางวิทยาศาสตร์": {
+   "zh": "科学用途动物",
+   "en": "Animals for Scientific Purposes",
+   "vi": "Động vật vì mục đích khoa học",
+   "id": "Hewan untuk Keperluan Ilmiah",
+   "ms": "Haiwan untuk Tujuan Saintifik"
+  },
+  "หลักประกันทางธุรกิจ": {
+   "zh": "商业担保",
+   "en": "Business Security",
+   "vi": "Bảo đảm trong kinh doanh",
+   "id": "Jaminan Usaha",
+   "ms": "Jaminan Perniagaan"
+  },
+  "หอพัก": {
+   "zh": "宿舍",
+   "en": "Dormitory",
+   "vi": "Ký túc xá",
+   "id": "Asrama",
+   "ms": "Asrama"
+  },
+  "เครื่องสำอาง": {
+   "zh": "化妆品",
+   "en": "Cosmetics",
+   "vi": "Mỹ phẩm",
+   "id": "Kosmetik",
+   "ms": "Kosmetik"
+  },
+  "เชื้อโรคและพิษจากสัตว์": {
+   "zh": "病原体与动物毒素",
+   "en": "Pathogens and Animal Toxins",
+   "vi": "Mầm bệnh và độc tố động vật",
+   "id": "Patogen dan Racun Hewan",
+   "ms": "Patogen dan Toksin Haiwan"
+  },
+  "แรงงานทางทะเล": {
+   "zh": "海员劳工",
+   "en": "Maritime Labour",
+   "vi": "Lao động hàng hải",
+   "id": "Tenaga Kerja Maritim",
+   "ms": "Buruh Maritim"
+  },
+  "โรคระบาดสัตว์": {
+   "zh": "动物疫病",
+   "en": "Animal Epidemics",
+   "vi": "Dịch bệnh động vật",
+   "id": "Wabah Penyakit Hewan",
+   "ms": "Wabak Penyakit Haiwan"
+  },
+  "การป้องกันและแก้ไขปัญหาการตั้งครรภ์ในวัยรุ่น": {
+   "zh": "青少年怀孕问题的预防与解决",
+   "en": "Prevention and Resolution of Adolescent Pregnancy Problems",
+   "vi": "Phòng ngừa và giải quyết vấn đề mang thai ở tuổi vị thành niên",
+   "id": "Pencegahan dan Penanggulangan Masalah Kehamilan Remaja",
+   "ms": "Pencegahan dan Penyelesaian Masalah Kehamilan Remaja"
+  },
+  "ควบคุมการฆ่าสัตว์เพื่อการจำหน่ายเนื้อสัตว์": {
+   "zh": "为销售肉类屠宰动物的管制",
+   "en": "Control of Animal Slaughter for Meat Sale",
+   "vi": "Kiểm soát giết mổ động vật để bán thịt",
+   "id": "Pengendalian Penyembelihan Hewan untuk Penjualan Daging",
+   "ms": "Kawalan Penyembelihan Haiwan untuk Penjualan Daging"
+  },
+  "พลังงานนิวเคลียร์เพื่อสันติ": {
+   "zh": "和平利用核能",
+   "en": "Nuclear Energy for Peace",
+   "vi": "Năng lượng hạt nhân vì hòa bình",
+   "id": "Energi Nuklir untuk Perdamaian",
+   "ms": "Tenaga Nuklear untuk Keamanan"
+  },
+  "ราชวิทยาลัยจุฬาภรณ์": {
+   "zh": "朱拉蓬皇家学院",
+   "en": "Chulabhorn Royal Academy",
+   "vi": "Học viện Hoàng gia Chulabhorn",
+   "id": "Akademi Kerajaan Chulabhorn",
+   "ms": "Akademi Diraja Chulabhorn"
+  },
+  "วิธีพิจารณาคดีค้ามนุษย์": {
+   "zh": "人口贩运案件审理程序",
+   "en": "Procedure for Human Trafficking Cases",
+   "vi": "Thủ tục xét xử vụ án buôn người",
+   "id": "Tata Cara Pemeriksaan Perkara Perdagangan Orang",
+   "ms": "Tatacara Perbicaraan Kes Pemerdagangan Orang"
+  },
+  "วิธีพิจารณาคดีทุจริตและประพฤติมิชอบ": {
+   "zh": "贪腐与渎职案件审理程序",
+   "en": "Procedure for Corruption and Misconduct Cases",
+   "vi": "Thủ tục xét xử vụ án tham nhũng và hành vi sai trái",
+   "id": "Tata Cara Pemeriksaan Perkara Korupsi dan Perilaku Tercela",
+   "ms": "Tatacara Perbicaraan Kes Rasuah dan Kelakuan Tidak Senonoh"
+  },
+  "สถานประกอบการเพื่อสุขภาพ": {
+   "zh": "健康服务场所",
+   "en": "Health Establishments",
+   "vi": "Cơ sở dịch vụ chăm sóc sức khỏe",
+   "id": "Tempat Usaha Kesehatan",
+   "ms": "Premis Kesihatan"
+  },
+  "กองทุนเงินให้กู้ยืมเพื่อการศึกษา": {
+   "zh": "助学贷款基金",
+   "en": "Student Loan Fund",
+   "vi": "Quỹ cho vay học sinh sinh viên",
+   "id": "Dana Pinjaman Pendidikan",
+   "ms": "Kumpulan Wang Pinjaman Pelajaran"
+  },
+  "การปฏิบัติการตามความตกลงระหว่างรัฐบาลแห่งราชอาณาจักรไทยกับรัฐบาลแห่งประเทศสหรัฐอเมริกาเพื่อความร่วมมือในการปรับปรุงการปฏิบัติตามการภาษีอากรระหว่างประเทศ": {
+   "zh": "泰美关于改进国际税收遵从合作的协定的执行",
+   "en": "Implementation of the Agreement between the Government of the Kingdom of Thailand and the Government of the United States of America on Cooperation in Improving International Tax Compliance",
+   "vi": "Thực hiện Hiệp định giữa Chính phủ Vương quốc Thái Lan và Chính phủ Hợp chúng quốc Hoa Kỳ về hợp tác cải thiện việc tuân thủ thuế quốc tế",
+   "id": "Pelaksanaan Persetujuan antara Pemerintah Kerajaan Thailand dan Pemerintah Amerika Serikat tentang Kerja Sama Peningkatan Kepatuhan Pajak Internasional",
+   "ms": "Pelaksanaan Persetujuan antara Kerajaan Thailand dan Kerajaan Amerika Syarikat tentang Kerjasama Memperbaiki Pematuhan Cukai Antarabangsa"
+  },
+  "การเรียกเงินสมทบเข้ากองทุนระหว่างประเทศเพื่อชดใช้ความเสียหายจากมลพิษนํ้ามันอันเกิดจากเรือ": {
+   "zh": "向船舶油污损害国际赔偿基金缴纳摊款",
+   "en": "Calling of Contributions to the International Fund for Compensation for Oil Pollution Damage from Ships",
+   "vi": "Thu khoản đóng góp vào Quỹ quốc tế bồi thường thiệt hại do ô nhiễm dầu từ tàu",
+   "id": "Pemungutan Iuran kepada Dana Internasional untuk Kompensasi Kerusakan Akibat Pencemaran Minyak dari Kapal",
+   "ms": "Pemungutan Sumbangan kepada Kumpulan Wang Antarabangsa untuk Pampasan Kerosakan Pencemaran Minyak daripada Kapal"
+  },
+  "ความรับผิดทางแพ่งต่อความเสียหายจากมลพิษน้ำมันอันเกิดจากเรือ": {
+   "zh": "船舶油污损害的民事责任",
+   "en": "Civil Liability for Oil Pollution Damage from Ships",
+   "vi": "Trách nhiệm dân sự đối với thiệt hại do ô nhiễm dầu từ tàu",
+   "id": "Tanggung Jawab Perdata atas Kerusakan Akibat Pencemaran Minyak dari Kapal",
+   "ms": "Liabiliti Sivil terhadap Kerosakan Pencemaran Minyak daripada Kapal"
+  },
+  "ภาษีสรรพสามิต": {
+   "zh": "消费税",
+   "en": "Excise Tax",
+   "vi": "Thuế tiêu thụ đặc biệt",
+   "id": "Pajak Cukai",
+   "ms": "Cukai Eksais"
+  },
+  "ศุลกากร": {
+   "zh": "海关",
+   "en": "Customs",
+   "vi": "Hải quan",
+   "id": "Kepabeanan",
+   "ms": "Kastam"
+  },
+  "จัดระเบียบทรัพย์สินพระมหากษัตริย์": {
+   "zh": "王室财产整理",
+   "en": "Reorganisation of Royal Property",
+   "vi": "Sắp xếp tài sản hoàng gia",
+   "id": "Penataan Aset Kerajaan",
+   "ms": "Penyusunan Harta Diraja"
+  },
+  "เขตพัฒนาพิเศษภาคตะวันออก": {
+   "zh": "东部特别发展区",
+   "en": "Eastern Special Development Zone",
+   "vi": "Vùng phát triển đặc biệt phía Đông",
+   "id": "Kawasan Pengembangan Khusus Timur",
+   "ms": "Wilayah Pembangunan Khas Timur"
+  },
+  "เอกสิทธิ์และความคุ้มกันสำหรับองค์การระหว่างประเทศและการประชุมระหว่างประเทศในประเทศไทย": {
+   "zh": "在泰国际组织与国际会议的特权与豁免",
+   "en": "Privileges and Immunities for International Organisations and International Conferences in Thailand",
+   "vi": "Đặc quyền và miễn trừ cho các tổ chức quốc tế và hội nghị quốc tế tại Thái Lan",
+   "id": "Hak Istimewa dan Kekebalan bagi Organisasi Internasional dan Konferensi Internasional di Thailand",
+   "ms": "Keistimewaan dan Kekebalan untuk Organisasi Antarabangsa dan Persidangan Antarabangsa di Thailand"
+  },
+  "กองทุนน้ำมันเชื้อเพลิง": {
+   "zh": "燃油基金",
+   "en": "Fuel Oil Fund",
+   "vi": "Quỹ nhiên liệu",
+   "id": "Dana Bahan Bakar Minyak",
+   "ms": "Kumpulan Wang Minyak Bahan Api"
+  },
+  "การส่งเสริมวิทยาศาสตร์ การวิจัยและนวัตกรรม": {
+   "zh": "科学、研究与创新促进",
+   "en": "Promotion of Science, Research and Innovation",
+   "vi": "Thúc đẩy khoa học, nghiên cứu và đổi mới sáng tạo",
+   "id": "Pengembangan Ilmu Pengetahuan, Riset dan Inovasi",
+   "ms": "Penggalakan Sains, Penyelidikan dan Inovasi"
+  },
+  "ป่าชุมชน": {
+   "zh": "社区林",
+   "en": "Community Forest",
+   "vi": "Rừng cộng đồng",
+   "id": "Hutan Kemasyarakatan",
+   "ms": "Hutan Komuniti"
+  },
+  "ผลิตภัณฑ์สมุนไพร": {
+   "zh": "草药产品",
+   "en": "Herbal Products",
+   "vi": "Sản phẩm thảo dược",
+   "id": "Produk Herbal",
+   "ms": "Produk Herba"
+  },
+  "ภาษีที่ดินและสิ่งปลูกสร้าง": {
+   "zh": "土地与建筑物税",
+   "en": "Land and Buildings Tax",
+   "vi": "Thuế đất và công trình xây dựng",
+   "id": "Pajak Bumi dan Bangunan",
+   "ms": "Cukai Tanah dan Bangunan"
+  },
+  "ระบบสุขภาพปฐมภูมิ": {
+   "zh": "初级卫生保健体系",
+   "en": "Primary Health Care System",
+   "vi": "Hệ thống chăm sóc sức khỏe ban đầu",
+   "id": "Sistem Kesehatan Primer",
+   "ms": "Sistem Penjagaan Kesihatan Primer"
+  },
+  "ระเบียบบริหารราชการกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม": {
+   "zh": "高等教育、科学、研究与创新部行政管理",
+   "en": "Administrative Organisation of the Ministry of Higher Education, Science, Research and Innovation",
+   "vi": "Tổ chức hành chính Bộ Giáo dục Đại học, Khoa học, Nghiên cứu và Đổi mới sáng tạo",
+   "id": "Organisasi Administrasi Kementerian Pendidikan Tinggi, Ilmu Pengetahuan, Riset dan Inovasi",
+   "ms": "Organisasi Pentadbiran Kementerian Pengajian Tinggi, Sains, Penyelidikan dan Inovasi"
+  },
+  "สถาบันบัณฑิตพัฒนบริหารศาสตร์": {
+   "zh": "国家发展管理学院",
+   "en": "National Institute of Development Administration",
+   "vi": "Học viện Hành chính Phát triển Quốc gia",
+   "id": "Institut Administrasi Pembangunan Nasional",
+   "ms": "Institut Pentadbiran Pembangunan Negara"
+  },
+  "สภาดิจิทัลเพื่อเศรษฐกิจและสังคมแห่งประเทศไทย": {
+   "zh": "泰国经济与社会数字理事会",
+   "en": "Digital Council for Economy and Society of Thailand",
+   "vi": "Hội đồng Kỹ thuật số vì Kinh tế và Xã hội Thái Lan",
+   "id": "Dewan Digital untuk Ekonomi dan Masyarakat Thailand",
+   "ms": "Majlis Digital untuk Ekonomi dan Masyarakat Thailand"
+  },
+  "สภานโยบายการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรมแห่งชาติ": {
+   "zh": "国家高等教育、科学、研究与创新政策理事会",
+   "en": "National Policy Council for Higher Education, Science, Research and Innovation",
+   "vi": "Hội đồng Chính sách Quốc gia về Giáo dục Đại học, Khoa học, Nghiên cứu và Đổi mới sáng tạo",
+   "id": "Dewan Kebijakan Nasional Pendidikan Tinggi, Ilmu Pengetahuan, Riset dan Inovasi",
+   "ms": "Majlis Dasar Negara Pengajian Tinggi, Sains, Penyelidikan dan Inovasi"
+  },
+  "ส่งเสริมการพัฒนาและคุ้มครองสถาบันครอบครัว": {
+   "zh": "家庭制度发展与保护的促进",
+   "en": "Promotion of the Development and Protection of the Family Institution",
+   "vi": "Thúc đẩy phát triển và bảo vệ chế định gia đình",
+   "id": "Pengembangan dan Perlindungan Kelembagaan Keluarga",
+   "ms": "Penggalakan Pembangunan dan Perlindungan Institusi Keluarga"
+  },
+  "ป้องกันและปราบปรามการทรมานและการกระทำให้บุคคลสูญหาย": {
+   "zh": "酷刑与强迫失踪的防范与禁止",
+   "en": "Prevention and Suppression of Torture and Enforced Disappearance",
+   "vi": "Phòng chống và trấn áp tra tấn và cưỡng bức mất tích",
+   "id": "Pencegahan dan Pemberantasan Penyiksaan dan Penghilangan Orang secara Paksa",
+   "ms": "Pencegahan dan Pembanterasan Penyeksaan dan Kehilangan Orang Secara Paksa"
+  },
+  "งาช้าง": {
+   "zh": "象牙",
+   "en": "Ivory",
+   "vi": "Ngà voi",
+   "id": "Gading Gajah",
+   "ms": "Gading Gajah"
+  },
+  "โรคติดต่อ": {
+   "zh": "传染病",
+   "en": "Communicable Diseases",
+   "vi": "Bệnh truyền nhiễm",
+   "id": "Penyakit Menular",
+   "ms": "Penyakit Berjangkit"
+  },
+  "ส่งเสริมและพัฒนาระบบเกษตรพันธสัญญา": {
+   "zh": "合同农业制度的促进与发展",
+   "en": "Promotion and Development of the Contract Farming System",
+   "vi": "Thúc đẩy và phát triển hệ thống nông nghiệp theo hợp đồng",
+   "id": "Pengembangan Sistem Pertanian Kontrak",
+   "ms": "Penggalakan dan Pembangunan Sistem Pertanian Kontrak"
+  },
+  "ควบคุมโรคจากการประกอบอาชีพและโรคจากสิ่งแวดล้อม": {
+   "zh": "职业病与环境病控制",
+   "en": "Control of Occupational and Environmental Diseases",
+   "vi": "Kiểm soát bệnh nghề nghiệp và bệnh do môi trường",
+   "id": "Pengendalian Penyakit Akibat Kerja dan Penyakit Akibat Lingkungan",
+   "ms": "Kawalan Penyakit Pekerjaan dan Penyakit Alam Sekitar"
+  },
+  "อุทยานแห่งชาติ": {
+   "zh": "国家公园",
+   "en": "National Park",
+   "vi": "Vườn quốc gia",
+   "id": "Taman Nasional",
+   "ms": "Taman Negara"
+  },
+  "คุ้มครองผู้ประสบภัยจากรถ": {
+   "zh": "道路交通事故受害人保护",
+   "en": "Protection of Road Accident Victims",
+   "vi": "Bảo vệ nạn nhân tai nạn giao thông đường bộ",
+   "id": "Perlindungan Korban Kecelakaan Jalan",
+   "ms": "Perlindungan Mangsa Kemalangan Jalan Raya"
+  },
+  "ธนาคารเพื่อการส่งออกและนำเข้าแห่งประเทศไทย": {
+   "zh": "泰国进出口银行",
+   "en": "Export-Import Bank of Thailand",
+   "vi": "Ngân hàng Xuất nhập khẩu Thái Lan",
+   "id": "Bank Ekspor Impor Thailand",
+   "ms": "Bank Eksport Import Thailand"
+  }
+ }
+}

@@ -1,0 +1,313 @@
+{
+ "batch": "sg-p1-b10",
+ "note": "SG 尾段：体裁 + 母法 + 括注 组合合成",
+ "count": 51,
+ "items": {
+  "SG-H059": {
+   "vi": "Lệnh Di chuyển chủ động (800 Super Waste Management Pte Ltd — Miễn trừ đối với Công viên East Coast và Công viên Sembawang) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (800 Super Waste Management Pte Ltd — การยกเว้นสำหรับสวนอีสต์โคสต์และสวนเซมบาวัง) 2026",
+   "id": "Perintah Mobilitas Aktif (800 Super Waste Management Pte Ltd — Pembebasan untuk Taman East Coast dan Taman Sembawang) 2026",
+   "ms": "Perintah Mobiliti Aktif (800 Super Waste Management Pte Ltd — Pengecualian untuk Taman East Coast dan Taman Sembawang) 2026"
+  },
+  "SG-H060": {
+   "vi": "Lệnh Di chuyển chủ động (Giấy chứng nhận nhu cầu y tế — Miễn trừ) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (หนังสือรับรองความจำเป็นทางการแพทย์ — การยกเว้น) 2026",
+   "id": "Perintah Mobilitas Aktif (Sertifikat Kebutuhan Medis — Pembebasan) 2026",
+   "ms": "Perintah Mobiliti Aktif (Sijil Keperluan Perubatan — Pengecualian) 2026"
+  },
+  "SG-H061": {
+   "vi": "Quy chế Di chuyển chủ động (Giấy chứng nhận nhu cầu y tế) 2026",
+   "th": "ข้อบังคับการเคลื่อนที่เชิงรุก (หนังสือรับรองความจำเป็นทางการแพทย์) 2026",
+   "id": "Peraturan Mobilitas Aktif (Sertifikat Kebutuhan Medis) 2026",
+   "ms": "Peraturan Mobiliti Aktif (Sijil Keperluan Perubatan) 2026"
+  },
+  "SG-H062": {
+   "vi": "Lệnh Di chuyển chủ động (Chye Thiam Maintenance Pte Ltd — Miễn trừ đối với Công viên Bishan-Ang Mo Kio 1, Công viên ven sông Sengkang và Công viên Punggol) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (Chye Thiam Maintenance Pte Ltd — การยกเว้นสำหรับสวนบิชาน-อังโมเกียว 1 สวนริมน้ำเซิงกัง และสวนปุงโกล) 2026",
+   "id": "Perintah Mobilitas Aktif (Chye Thiam Maintenance Pte Ltd — Pembebasan untuk Taman Bishan-Ang Mo Kio 1, Taman Tepi Sungai Sengkang dan Taman Punggol) 2026",
+   "ms": "Perintah Mobiliti Aktif (Chye Thiam Maintenance Pte Ltd — Pengecualian untuk Taman Bishan-Ang Mo Kio 1, Taman Tepi Sungai Sengkang dan Taman Punggol) 2026"
+  },
+  "SG-H063": {
+   "vi": "Lệnh Di chuyển chủ động (Chye Thiam Maintenance Pte Ltd — Miễn trừ đối với Công viên Esplanade và Công viên Bishan-Ang Mo Kio 2) 2025",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (Chye Thiam Maintenance Pte Ltd — การยกเว้นสำหรับสวนเอสพลานาดและสวนบิชาน-อังโมเกียว 2) 2025",
+   "id": "Perintah Mobilitas Aktif (Chye Thiam Maintenance Pte Ltd — Pembebasan untuk Taman Esplanade dan Taman Bishan-Ang Mo Kio 2) 2025",
+   "ms": "Perintah Mobiliti Aktif (Chye Thiam Maintenance Pte Ltd — Pengecualian untuk Taman Esplanade dan Taman Bishan-Ang Mo Kio 2) 2025"
+  },
+  "SG-H064": {
+   "vi": "Lệnh Di chuyển chủ động (Chye Thiam Maintenance Pte Ltd — Miễn trừ đối với Esplanade) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (Chye Thiam Maintenance Pte Ltd — การยกเว้นสำหรับเอสพลานาด) 2026",
+   "id": "Perintah Mobilitas Aktif (Chye Thiam Maintenance Pte Ltd — Pembebasan untuk Esplanade) 2026",
+   "ms": "Perintah Mobiliti Aktif (Chye Thiam Maintenance Pte Ltd — Pengecualian untuk Esplanade) 2026"
+  },
+  "SG-H065": {
+   "vi": "Lệnh Di chuyển chủ động (Chye Thiam Maintenance Pte Ltd — Miễn trừ đối với Công viên West Coast) 2025",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (Chye Thiam Maintenance Pte Ltd — การยกเว้นสำหรับสวนเวสต์โคสต์) 2025",
+   "id": "Perintah Mobilitas Aktif (Chye Thiam Maintenance Pte Ltd — Pembebasan untuk Taman West Coast) 2025",
+   "ms": "Perintah Mobiliti Aktif (Chye Thiam Maintenance Pte Ltd — Pengecualian untuk Taman West Coast) 2025"
+  },
+  "SG-H066": {
+   "vi": "Quy chế Di chuyển chủ động (Kiểm tra năng lực) 2021",
+   "th": "ข้อบังคับการเคลื่อนที่เชิงรุก (การทดสอบความสามารถ) 2021",
+   "id": "Peraturan Mobilitas Aktif (Uji Kompetensi) 2021",
+   "ms": "Peraturan Mobiliti Aktif (Ujian Kompetensi) 2021"
+  },
+  "SG-H068": {
+   "vi": "Lệnh Di chuyển chủ động (Tổ chức Cycling Without Age — Miễn trừ) 2021",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (องค์กร Cycling Without Age — การยกเว้น) 2021",
+   "id": "Perintah Mobilitas Aktif (Organisasi Cycling Without Age — Pembebasan) 2021",
+   "ms": "Perintah Mobiliti Aktif (Pertubuhan Cycling Without Age — Pengecualian) 2021"
+  },
+  "SG-H069": {
+   "vi": "Quy chế Di chuyển chủ động (Mua bán thiết bị di chuyển cá nhân và xe di chuyển) 2018",
+   "th": "ข้อบังคับการเคลื่อนที่เชิงรุก (การซื้อขายอุปกรณ์เคลื่อนที่ส่วนบุคคลและยานพาหนะเคลื่อนที่) 2018",
+   "id": "Peraturan Mobilitas Aktif (Perdagangan Perangkat Mobilitas Pribadi dan Kendaraan Mobilitas) 2018",
+   "ms": "Peraturan Mobiliti Aktif (Perdagangan Peranti Mobiliti Peribadi dan Kenderaan Mobiliti) 2018"
+  },
+  "SG-H070": {
+   "vi": "Quy chế Di chuyển chủ động (Định nghĩa xe di chuyển) 2026",
+   "th": "ข้อบังคับการเคลื่อนที่เชิงรุก (บทนิยามของยานพาหนะเคลื่อนที่) 2026",
+   "id": "Peraturan Mobilitas Aktif (Definisi Kendaraan Mobilitas) 2026",
+   "ms": "Peraturan Mobiliti Aktif (Takrif Kenderaan Mobiliti) 2026"
+  },
+  "SG-H071": {
+   "vi": "Lệnh Di chuyển chủ động (Delta Electronics Int’l (Singapore) Pte. Ltd. — Miễn trừ đối với Đường Bendemeer) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (Delta Electronics Int’l (Singapore) Pte. Ltd. — การยกเว้นสำหรับถนนเบนดีเมียร์) 2026",
+   "id": "Perintah Mobilitas Aktif (Delta Electronics Int’l (Singapore) Pte. Ltd. — Pembebasan untuk Jalan Bendemeer) 2026",
+   "ms": "Perintah Mobiliti Aktif (Delta Electronics Int’l (Singapore) Pte. Ltd. — Pengecualian untuk Jalan Bendemeer) 2026"
+  },
+  "SG-H073": {
+   "vi": "Lệnh Di chuyển chủ động (Kiểm tra hệ thống phát hiện vi phạm — Miễn trừ) 2024",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (การทดสอบระบบตรวจจับการบังคับใช้ — การยกเว้น) 2024",
+   "id": "Perintah Mobilitas Aktif (Pengujian Sistem Deteksi Penegakan — Pembebasan) 2024",
+   "ms": "Perintah Mobiliti Aktif (Ujian Sistem Pengesanan Penguatkuasaan — Pengecualian) 2024"
+  },
+  "SG-H074": {
+   "vi": "Quy chế Di chuyển chủ động (Thực thi) 2018",
+   "th": "ข้อบังคับการเคลื่อนที่เชิงรุก (การบังคับใช้) 2018",
+   "id": "Peraturan Mobilitas Aktif (Penegakan) 2018",
+   "ms": "Peraturan Mobiliti Aktif (Penguatkuasaan) 2018"
+  },
+  "SG-H075": {
+   "vi": "Quy chế Di chuyển chủ động (Việc sử dụng được miễn trừ, v.v., đối với xe di chuyển không tuân thủ, v.v.) 2026",
+   "th": "ข้อบังคับการเคลื่อนที่เชิงรุก (การใช้ที่ได้รับยกเว้น เป็นต้น ของยานพาหนะเคลื่อนที่ที่ไม่เป็นไปตามข้อกำหนด เป็นต้น) 2026",
+   "id": "Peraturan Mobilitas Aktif (Penggunaan yang Dikecualikan, dll., atas Kendaraan Mobilitas Tidak Patuh, dll.) 2026",
+   "ms": "Peraturan Mobiliti Aktif (Penggunaan yang Dikecualikan, dsb., bagi Kenderaan Mobiliti Tidak Patuh, dsb.) 2026"
+  },
+  "SG-H076": {
+   "vi": "Lệnh Di chuyển chủ động (Xe bị loại trừ) 2018",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (ยานพาหนะที่ได้รับการยกเว้น) 2018",
+   "id": "Perintah Mobilitas Aktif (Kendaraan yang Dikecualikan) 2018",
+   "ms": "Perintah Mobiliti Aktif (Kenderaan yang Dikecualikan) 2018"
+  },
+  "SG-H077": {
+   "vi": "Lệnh Di chuyển chủ động (Miễn trừ đối với việc bán một số thiết bị di chuyển cá nhân) 2024",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (การยกเว้นสำหรับการขายอุปกรณ์เคลื่อนที่ส่วนบุคคลบางประเภท) 2024",
+   "id": "Perintah Mobilitas Aktif (Pembebasan atas Penjualan Perangkat Mobilitas Pribadi Tertentu) 2024",
+   "ms": "Perintah Mobiliti Aktif (Pengecualian bagi Penjualan Peranti Mobiliti Peribadi Tertentu) 2024"
+  },
+  "SG-H078": {
+   "vi": "Lệnh Di chuyển chủ động (Miễn trừ đối với việc sử dụng xe trên đường dành cho người đi bộ được chỉ định — Vịnh Marina) (Số 2) 2022",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (การยกเว้นสำหรับการใช้ยานพาหนะบนทางเดินเท้าที่กำหนด — อ่าวมารีนา) (ฉบับที่ 2) 2022",
+   "id": "Perintah Mobilitas Aktif (Pembebasan atas Penggunaan Kendaraan di Jalur Pejalan Kaki yang Ditentukan — Teluk Marina) (Nomor 2) 2022",
+   "ms": "Perintah Mobiliti Aktif (Pengecualian bagi Penggunaan Kenderaan di Laluan Pejalan Kaki yang Ditetapkan — Teluk Marina) (No. 2) 2022"
+  },
+  "SG-H079": {
+   "vi": "Lệnh Di chuyển chủ động (Miễn trừ đối với việc sử dụng xe trên đường dành cho người đi bộ được chỉ định — Vịnh Marina) 2022",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (การยกเว้นสำหรับการใช้ยานพาหนะบนทางเดินเท้าที่กำหนด — อ่าวมารีนา) 2022",
+   "id": "Perintah Mobilitas Aktif (Pembebasan atas Penggunaan Kendaraan di Jalur Pejalan Kaki yang Ditentukan — Teluk Marina) 2022",
+   "ms": "Perintah Mobiliti Aktif (Pengecualian bagi Penggunaan Kenderaan di Laluan Pejalan Kaki yang Ditetapkan — Teluk Marina) 2022"
+  },
+  "SG-H081": {
+   "vi": "Lệnh Di chuyển chủ động (Fonda Global Engineering Pte. Ltd. — Miễn trừ đối với Công viên Pasir Ris) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (Fonda Global Engineering Pte. Ltd. — การยกเว้นสำหรับสวนปาซีริส) 2026",
+   "id": "Perintah Mobilitas Aktif (Fonda Global Engineering Pte. Ltd. — Pembebasan untuk Taman Pasir Ris) 2026",
+   "ms": "Perintah Mobiliti Aktif (Fonda Global Engineering Pte. Ltd. — Pengecualian untuk Taman Pasir Ris) 2026"
+  },
+  "SG-H082": {
+   "vi": "Lệnh Di chuyển chủ động (Đường dành cho người đi bộ — Tạm ngừng sử dụng) (Giải đua ô tô Công thức 1 Singapore Airlines Singapore Grand Prix 2026) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (ทางเดินเท้า — การหยุดใช้ชั่วคราว) (การแข่งขันฟอร์มูลาวันสิงคโปร์แอร์ไลน์สสิงคโปร์กรังด์ปรีซ์ 2026) 2026",
+   "id": "Perintah Mobilitas Aktif (Jalur Pejalan Kaki — Penghentian Sementara) (Formula 1 Singapore Airlines Singapore Grand Prix 2026) 2026",
+   "ms": "Perintah Mobiliti Aktif (Laluan Pejalan Kaki — Penghentian Sementara) (Formula 1 Singapore Airlines Singapore Grand Prix 2026) 2026"
+  },
+  "SG-H083": {
+   "vi": "Lệnh Di chuyển chủ động (Đường dành cho người đi bộ — Tạm ngừng sử dụng) (Chuỗi ba môn phối hợp MetaSprint) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (ทางเดินเท้า — การหยุดใช้ชั่วคราว) (การแข่งขันไตรกีฬาซีรีส์ MetaSprint) 2026",
+   "id": "Perintah Mobilitas Aktif (Jalur Pejalan Kaki — Penghentian Sementara) (Triatlon Seri MetaSprint) 2026",
+   "ms": "Perintah Mobiliti Aktif (Laluan Pejalan Kaki — Penghentian Sementara) (Triatlon Siri MetaSprint) 2026"
+  },
+  "SG-H086": {
+   "vi": "Lệnh Di chuyển chủ động (Đường dành cho người đi bộ — Tạm ngừng sử dụng) (Singapore T100) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (ทางเดินเท้า — การหยุดใช้ชั่วคราว) (Singapore T100) 2026",
+   "id": "Perintah Mobilitas Aktif (Jalur Pejalan Kaki — Penghentian Sementara) (Singapore T100) 2026",
+   "ms": "Perintah Mobiliti Aktif (Laluan Pejalan Kaki — Penghentian Sementara) (Singapore T100) 2026"
+  },
+  "SG-H087": {
+   "vi": "Lệnh Di chuyển chủ động (Đường dành cho người đi bộ — Tạm ngừng sử dụng) (Ba môn phối hợp và hai môn phối hợp Trifactor) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (ทางเดินเท้า — การหยุดใช้ชั่วคราว) (ไตรกีฬาและดูอาธลอน Trifactor) 2026",
+   "id": "Perintah Mobilitas Aktif (Jalur Pejalan Kaki — Penghentian Sementara) (Triatlon dan Duatlon Trifactor) 2026",
+   "ms": "Perintah Mobiliti Aktif (Laluan Pejalan Kaki — Penghentian Sementara) (Triatlon dan Duatlon Trifactor) 2026"
+  },
+  "SG-H089": {
+   "vi": "Lệnh Di chuyển chủ động (Đường dành cho người đi bộ) 2018",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (ทางเดินเท้า) 2018",
+   "id": "Perintah Mobilitas Aktif (Jalur Pejalan Kaki) 2018",
+   "ms": "Perintah Mobiliti Aktif (Laluan Pejalan Kaki) 2018"
+  },
+  "SG-H090": {
+   "vi": "Lệnh Di chuyển chủ động (Highway International Private Limited — Miễn trừ) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (Highway International Private Limited — การยกเว้น) 2026",
+   "id": "Perintah Mobilitas Aktif (Highway International Private Limited — Pembebasan) 2026",
+   "ms": "Perintah Mobiliti Aktif (Highway International Private Limited — Pengecualian) 2026"
+  },
+  "SG-H091": {
+   "vi": "Lệnh Di chuyển chủ động (Tổng công ty Thị trấn Jurong — Miễn trừ) 2025",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (บรรษัทเมืองจูร่ง — การยกเว้น) 2025",
+   "id": "Perintah Mobilitas Aktif (Perusahaan Kota Jurong — Pembebasan) 2025",
+   "ms": "Perintah Mobiliti Aktif (Perbadanan Bandar Jurong — Pengecualian) 2025"
+  },
+  "SG-H092": {
+   "vi": "Lệnh Di chuyển chủ động (Loop Spoke & Hub Pte. Ltd. — Miễn trừ đối với Đại lộ Ang Mo Kio 1) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (Loop Spoke & Hub Pte. Ltd. — การยกเว้นสำหรับถนนอังโมเกียว 1) 2026",
+   "id": "Perintah Mobilitas Aktif (Loop Spoke & Hub Pte. Ltd. — Pembebasan untuk Jalan Raya Ang Mo Kio 1) 2026",
+   "ms": "Perintah Mobiliti Aktif (Loop Spoke & Hub Pte. Ltd. — Pengecualian untuk Lebuh Ang Mo Kio 1) 2026"
+  },
+  "SG-H093": {
+   "vi": "Lệnh Di chuyển chủ động (Bảo trì tài sản chung của hội đồng thị trấn — Miễn trừ) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (การบำรุงรักษาทรัพย์สินส่วนกลางของสภาตำบล — การยกเว้น) 2026",
+   "id": "Perintah Mobilitas Aktif (Pemeliharaan Properti Bersama Dewan Kota — Pembebasan) 2026",
+   "ms": "Perintah Mobiliti Aktif (Penyelenggaraan Harta Bersama Majlis Bandaran — Pengecualian) 2026"
+  },
+  "SG-H094": {
+   "vi": "Lệnh Di chuyển chủ động (Kiểm tra bắt buộc — thiết bị di chuyển cá nhân có động cơ và tay lái) 2020",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (การทดสอบภาคบังคับ — อุปกรณ์เคลื่อนที่ส่วนบุคคลติดเครื่องยนต์ที่มีแฮนด์) 2020",
+   "id": "Perintah Mobilitas Aktif (Pengujian Wajib — Perangkat Mobilitas Pribadi Bermotor dengan Setang) 2020",
+   "ms": "Perintah Mobiliti Aktif (Ujian Mandatori — Peranti Mobiliti Peribadi Bermotor dengan Pemegang) 2020"
+  },
+  "SG-H095": {
+   "vi": "Quy chế Di chuyển chủ động (Kiểm tra bắt buộc) 2020",
+   "th": "ข้อบังคับการเคลื่อนที่เชิงรุก (การทดสอบภาคบังคับ) 2020",
+   "id": "Peraturan Mobilitas Aktif (Pengujian Wajib) 2020",
+   "ms": "Peraturan Mobiliti Aktif (Ujian Mandatori) 2020"
+  },
+  "SG-H096": {
+   "vi": "Lệnh Di chuyển chủ động (Ủy ban Công viên Quốc gia — Miễn trừ đối với Vườn Hồ Jurong) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (คณะกรรมการอุทยานแห่งชาติ — การยกเว้นสำหรับสวนทะเลสาบจูร่ง) 2026",
+   "id": "Perintah Mobilitas Aktif (Dewan Taman Nasional — Pembebasan untuk Taman Danau Jurong) 2026",
+   "ms": "Perintah Mobiliti Aktif (Lembaga Taman Negara — Pengecualian untuk Taman Tasik Jurong) 2026"
+  },
+  "SG-H097": {
+   "vi": "Lệnh Di chuyển chủ động (Ủy ban Công viên Quốc gia — Miễn trừ) 2024",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (คณะกรรมการอุทยานแห่งชาติ — การยกเว้น) 2024",
+   "id": "Perintah Mobilitas Aktif (Dewan Taman Nasional — Pembebasan) 2024",
+   "ms": "Perintah Mobiliti Aktif (Lembaga Taman Negara — Pengecualian) 2024"
+  },
+  "SG-H098": {
+   "vi": "Lệnh Di chuyển chủ động (Sử dụng xe không tuân thủ — Miễn trừ) 2018",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (การใช้ยานพาหนะที่ไม่เป็นไปตามข้อกำหนด — การยกเว้น) 2018",
+   "id": "Perintah Mobilitas Aktif (Penggunaan Kendaraan Tidak Patuh — Pembebasan) 2018",
+   "ms": "Perintah Mobiliti Aktif (Penggunaan Kenderaan Tidak Patuh — Pengecualian) 2018"
+  },
+  "SG-H099": {
+   "vi": "Lệnh Di chuyển chủ động (Đường chỉ dành cho người đi bộ — Tạm ngừng sử dụng) (Singapore T100) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (ทางเดินเท้าเท่านั้น — การหยุดใช้ชั่วคราว) (Singapore T100) 2026",
+   "id": "Perintah Mobilitas Aktif (Jalur Khusus Pejalan Kaki — Penghentian Sementara) (Singapore T100) 2026",
+   "ms": "Perintah Mobiliti Aktif (Laluan Khusus Pejalan Kaki — Penghentian Sementara) (Singapore T100) 2026"
+  },
+  "SG-H100": {
+   "vi": "Lệnh Di chuyển chủ động (Đường chỉ dành cho người đi bộ) 2018",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (ทางเดินเท้าเท่านั้น) 2018",
+   "id": "Perintah Mobilitas Aktif (Jalur Khusus Pejalan Kaki) 2018",
+   "ms": "Perintah Mobiliti Aktif (Laluan Khusus Pejalan Kaki) 2018"
+  },
+  "SG-H101": {
+   "vi": "Quy chế Di chuyển chủ động (Các tội theo quy định đối với suy đoán tại Điều 59A) 2019",
+   "th": "ข้อบังคับการเคลื่อนที่เชิงรุก (ความผิดตามที่กำหนดสำหรับข้อสันนิษฐานตามมาตรา 59A) 2019",
+   "id": "Peraturan Mobilitas Aktif (Pelanggaran yang Ditetapkan untuk Anggapan menurut Pasal 59A) 2019",
+   "ms": "Peraturan Mobiliti Aktif (Kesalahan yang Ditetapkan bagi Anggapan menurut Seksyen 59A) 2019"
+  },
+  "SG-H102": {
+   "vi": "Lệnh Di chuyển chủ động (Ủy ban Tiện ích Công cộng — Miễn trừ) 2021",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (คณะกรรมการการประปา — การยกเว้น) 2021",
+   "id": "Perintah Mobilitas Aktif (Badan Utilitas Publik — Pembebasan) 2021",
+   "ms": "Perintah Mobiliti Aktif (Lembaga Perkhidmatan Awam — Pengecualian) 2021"
+  },
+  "SG-H103": {
+   "vi": "Lệnh Di chuyển chủ động (Xe di chuyển thuộc diện đăng ký) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (ยานพาหนะเคลื่อนที่ที่ต้องจดทะเบียน) 2026",
+   "id": "Perintah Mobilitas Aktif (Kendaraan Mobilitas yang Dapat Didaftarkan) 2026",
+   "ms": "Perintah Mobiliti Aktif (Kenderaan Mobiliti yang Boleh Didaftarkan) 2026"
+  },
+  "SG-H104": {
+   "vi": "Lệnh Di chuyển chủ động (Thiết bị di chuyển cá nhân thuộc diện đăng ký) 2019",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (อุปกรณ์เคลื่อนที่ส่วนบุคคลที่ต้องจดทะเบียน) 2019",
+   "id": "Perintah Mobilitas Aktif (Perangkat Mobilitas Pribadi yang Dapat Didaftarkan) 2019",
+   "ms": "Perintah Mobiliti Aktif (Peranti Mobiliti Peribadi yang Boleh Didaftarkan) 2019"
+  },
+  "SG-H105": {
+   "vi": "Quy chế Di chuyển chủ động (Đăng ký xe di chuyển thuộc diện đăng ký) 2026",
+   "th": "ข้อบังคับการเคลื่อนที่เชิงรุก (การจดทะเบียนยานพาหนะเคลื่อนที่ที่ต้องจดทะเบียน) 2026",
+   "id": "Peraturan Mobilitas Aktif (Pendaftaran Kendaraan Mobilitas yang Dapat Didaftarkan) 2026",
+   "ms": "Peraturan Mobiliti Aktif (Pendaftaran Kenderaan Mobiliti yang Boleh Didaftarkan) 2026"
+  },
+  "SG-H106": {
+   "vi": "Quy chế Di chuyển chủ động (Đăng ký thiết bị di chuyển cá nhân thuộc diện đăng ký) 2019",
+   "th": "ข้อบังคับการเคลื่อนที่เชิงรุก (การจดทะเบียนอุปกรณ์เคลื่อนที่ส่วนบุคคลที่ต้องจดทะเบียน) 2019",
+   "id": "Peraturan Mobilitas Aktif (Pendaftaran Perangkat Mobilitas Pribadi yang Dapat Didaftarkan) 2019",
+   "ms": "Peraturan Mobiliti Aktif (Pendaftaran Peranti Mobiliti Peribadi yang Boleh Didaftarkan) 2019"
+  },
+  "SG-H107": {
+   "vi": "Lệnh Di chuyển chủ động (Bảo hiểm người lái và tài xế — Miễn trừ) 2020",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (การประกันผู้ขับขี่และผู้ขับรถ — การยกเว้น) 2020",
+   "id": "Perintah Mobilitas Aktif (Asuransi Pengendara dan Pengemudi — Pembebasan) 2020",
+   "ms": "Perintah Mobiliti Aktif (Insurans Penunggang dan Pemandu — Pengecualian) 2020"
+  },
+  "SG-H108": {
+   "vi": "Lệnh Di chuyển chủ động (Việc lái thiết bị di chuyển cá nhân thuộc diện đăng ký — Ngày bắt đầu) 2019",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (การขี่อุปกรณ์เคลื่อนที่ส่วนบุคคลที่ต้องจดทะเบียน — วันเริ่มต้น) 2019",
+   "id": "Perintah Mobilitas Aktif (Pengendaraan Perangkat Mobilitas Pribadi yang Dapat Didaftarkan — Tanggal Mulai) 2019",
+   "ms": "Perintah Mobiliti Aktif (Penunggang Peranti Mobiliti Peribadi yang Boleh Didaftarkan — Tarikh Mula) 2019"
+  },
+  "SG-H109": {
+   "vi": "Lệnh Di chuyển chủ động (Ryobi Geotechnique International Pte. Ltd. — Miễn trừ) 2022",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (Ryobi Geotechnique International Pte. Ltd. — การยกเว้น) 2022",
+   "id": "Perintah Mobilitas Aktif (Ryobi Geotechnique International Pte. Ltd. — Pembebasan) 2022",
+   "ms": "Perintah Mobiliti Aktif (Ryobi Geotechnique International Pte. Ltd. — Pengecualian) 2022"
+  },
+  "SG-H110": {
+   "vi": "Quy chế Di chuyển chủ động (Bán xe không tuân thủ thuộc diện miễn trừ) 2026",
+   "th": "ข้อบังคับการเคลื่อนที่เชิงรุก (การขายยานพาหนะที่ไม่เป็นไปตามข้อกำหนดซึ่งได้รับยกเว้น) 2026",
+   "id": "Peraturan Mobilitas Aktif (Penjualan Kendaraan Tidak Patuh yang Dikecualikan) 2026",
+   "ms": "Peraturan Mobiliti Aktif (Penjualan Kenderaan Tidak Patuh yang Dikecualikan) 2026"
+  },
+  "SG-H111": {
+   "vi": "Lệnh Di chuyển chủ động (Đường dùng chung — Tạm ngừng sử dụng) (Chuỗi ba môn phối hợp MetaSprint) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (ทางร่วม — การหยุดใช้ชั่วคราว) (การแข่งขันไตรกีฬาซีรีส์ MetaSprint) 2026",
+   "id": "Perintah Mobilitas Aktif (Jalur Bersama — Penghentian Sementara) (Triatlon Seri MetaSprint) 2026",
+   "ms": "Perintah Mobiliti Aktif (Laluan Kongsi — Penghentian Sementara) (Triatlon Siri MetaSprint) 2026"
+  },
+  "SG-H112": {
+   "vi": "Lệnh Di chuyển chủ động (Đường dùng chung — Tạm ngừng sử dụng) (Singapore T100) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (ทางร่วม — การหยุดใช้ชั่วคราว) (Singapore T100) 2026",
+   "id": "Perintah Mobilitas Aktif (Jalur Bersama — Penghentian Sementara) (Singapore T100) 2026",
+   "ms": "Perintah Mobiliti Aktif (Laluan Kongsi — Penghentian Sementara) (Singapore T100) 2026"
+  },
+  "SG-H113": {
+   "vi": "Lệnh Di chuyển chủ động (Đường dùng chung — Tạm ngừng sử dụng) (Ba môn phối hợp và hai môn phối hợp Trifactor) 2026",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (ทางร่วม — การหยุดใช้ชั่วคราว) (ไตรกีฬาและดูอาธลอน Trifactor) 2026",
+   "id": "Perintah Mobilitas Aktif (Jalur Bersama — Penghentian Sementara) (Triatlon dan Duatlon Trifactor) 2026",
+   "ms": "Perintah Mobiliti Aktif (Laluan Kongsi — Penghentian Sementara) (Triatlon dan Duatlon Trifactor) 2026"
+  },
+  "SG-H114": {
+   "vi": "Lệnh Di chuyển chủ động (Đường dùng chung) 2018",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (ทางร่วม) 2018",
+   "id": "Perintah Mobilitas Aktif (Jalur Bersama) 2018",
+   "ms": "Perintah Mobiliti Aktif (Laluan Kongsi) 2018"
+  },
+  "SG-H115": {
+   "vi": "Lệnh Di chuyển chủ động (Xe đạp ba bánh dùng cho vệ sinh công cộng — Miễn trừ) 2024",
+   "th": "คำสั่งการเคลื่อนที่เชิงรุก (จักรยานสามล้อสำหรับการทำความสะอาดสาธารณะ — การยกเว้น) 2024",
+   "id": "Perintah Mobilitas Aktif (Sepeda Dayung Tiga Roda untuk Kebersihan Publik — Pembebasan) 2024",
+   "ms": "Perintah Mobiliti Aktif (Basikal Berpedal Tiga Roda untuk Pembersihan Awam — Pengecualian) 2024"
+  }
+ }
+}

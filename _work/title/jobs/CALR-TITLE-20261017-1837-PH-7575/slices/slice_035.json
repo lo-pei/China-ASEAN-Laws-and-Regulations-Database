@@ -1,0 +1,956 @@
+{
+ "jobId": "CALR-TITLE-20261017-1837-PH-7575",
+ "shard": 35,
+ "items": [
+  {
+   "id": "PH-H3748",
+   "en": "An Act Transferring Barrio Kiling in the Municipality of Paracales, Mountain Province, to the Municipality of Potia, Same Province",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4425",
+   "en": "An Act Changing the Name of South Pilot School in the Municipality of Paoay, Province of Ilocos Norte, to Evangelista Pilot School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4825",
+   "en": "An Act Amending Section Sixty-Four of Republic Act Numbered Four Hundred Nine, as Amended, Known as the Revised Charter of Manila.",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5334",
+   "en": "An Act Changing the Name of the Marcos Bridge in Barangay Lauis, Municipality of Candelaria, Province of Zambales, to Lauis Bridge",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5433",
+   "en": "An Act Changing the Name of Barangay Santol, Municipality of Balagtas, Province of Bulacan, to Barangay Dr. Nemesio G. Garcia, Sr.",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H6720",
+   "en": "An Act Changing the Name of Barangay Pug-os in the Municipality of Sinait, Province of Ilocos Sur, to Barangay Dean Leopoldo Yabes",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H840",
+   "en": "An Act Changing the Name of the Sitio of Mayamot, Barrio of Banga, Municipality of Plaridel, Province of Bulacan, to Bagong Silang",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1863",
+   "en": "An Act Changing the Name of the Tallag Barrio School in the Municipality of Cabagan, Province of Isabela, to Biuag Community School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2504",
+   "en": "An Act Changing the Name of the Barrio of Baballasioan in the Municipality of Santa Maria, Province of Ilocos Sur, to Barrio Pinsal",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2508",
+   "en": "An Act to Amend Item (41), Page 209, Paragraph c, Title A-Buildings, Section Four of Republic Act Numbered Sixteen Hundred Thirteen",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H321",
+   "en": "An Act to Exempt from the Payment of Income and Other Taxes the Amounts Collected by a Taxpayer for Damages Suffered During the War",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4371",
+   "en": "An Act Changing the Name of Barrio Batingan in the Municipality of Gloria, Province of Oriental Mindoro, to Barrio Andres Bonifacio",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4405",
+   "en": "An Act Changing the Name of Orion Elementary School in the Municipality of Orion, Province of Bataan, to Arellano Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1307",
+   "en": "An Act to Amend Section Two, ap. Quezon, Item Thirty-Three, Page Five Hundred Seventy-Eight, of Republic Act Numbered Twelve Hundred",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1756",
+   "en": "An Act to Amend Item (9), Page 558, Paragraph “Am,” for the Province of Palawan, Section Two of Republic Act Numbered Twelve Hundred",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2308",
+   "en": "An Act Changing the Name of the Sitio of Bural in the Barrio of Zinundungan, Municipality of Rizal, Province of Cagayan, to San Juan",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2636",
+   "en": "An Act to Amend Project Number (B-224.79), Page 464-A, Appendix (A), Title (B) of Republic Act Numbered Sixteen Hundred and Thirteen",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3011",
+   "en": "An Act Changing the Name of the Albay High School in the Municipality of Guinobatan, Province of Albay, to Pio Duran Memorial School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4072",
+   "en": "An Act Amending Certain Sections of Republic Act Numbered Forty-Three Hundred and Eighty-Two, Otherwise Known as the Charter of Bago",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4203",
+   "en": "An Act Changing the Name of Barrio Palandoc in the Municipality of Salug, Province of Zamboanga del Norte, to Barrio Ramon Magsaysay",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4370",
+   "en": "An Act Changing the Name of Barrio Calamundingan in the Municipality of Gloria, Province of Oriental Mindoro, to Barrio Lucio Laurel",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4776",
+   "en": "An Act Sitio Lapgap Into a Regular Barrio in the Municipality of Maydolong, Province of Eastern Samar, to Be Known as Barrio Lapgap.",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4893",
+   "en": "An Act Declaring July First of Each Year as a Public Holiday in the Provinces of Davao Oriental, Davao Del Sur, and Davao Del Norte.",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5285",
+   "en": "An Act Changing the Name of the Dr. Efrain C. Montemayor Medical Center in Baguio City to Baguio General Hospital and Medical Center",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H8100",
+   "en": "An Act Declaring March 16 of Every Year as Romblon Foundation Day and a Special Nonworking Public Holiday in the Province of Romblon",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2489",
+   "en": "An Act to Change the Name of Davao (Sasa) Airport in Davao City to Francisco Bangoy Airport in Honor of the Late Don Francisco Bangoy",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2542",
+   "en": "An Act Changing the Name of the San Mariano School in the Municipality of Bauan, Province of Batangas, to Malaking Pook Barrio School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3445",
+   "en": "An Act to Provide an Annual Contribution for the Maintenance of the Branch of the University of the Philippines in the City of Baguio",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4687",
+   "en": "An Act Authorizing the Appropriation of Three Hundred Thousand Pesos for the Maintenance and Operation of the Ziga Memorial Hospital.",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H483",
+   "en": "An Act to Amend Section Three of Commonwealth Act Numbered Five Hundred and Two, as Amended, Redefining the Boundaries of Quezon City",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5189",
+   "en": "An Act Declaring September Twenty-Eight as Balangiga Encounter Day and a Special Non-Working Holiday in the Province of Eastern Samar",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5335",
+   "en": "An Act Changing the Name of the Municipality of Don Mariano Marcos, Province of Misamis Occidental, to Municipality of Don Victoriano",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1381",
+   "en": "An Act to Amend Section Forty-Two of Republic Act Numbered Seven Hundred Sixty, Otherwise Known as the Charter of the City of Tacloban",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1616",
+   "en": "An Act Amending Priority Numbered One (Quezon I), Page Seventy-Eight, Appendix B of Republic Act Numbered Sixteen Hundred and Thirteen",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1923",
+   "en": "An Act Providing that the Santa Cruz Irrigation System in the Province of Laguna be Hereafter Known as the Magsaysay Irrigation System",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2637",
+   "en": "An Act to Amend Item (13), Page 208, Section Three, Title (A), Sub-Paragraph (c) of Republic Act Numbered Sixteen Hundred and Thirteen",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4077",
+   "en": "An Act Changing the Name of Paoay Elementary School in the Municipality of Atok, Province of Benguet, to Celo Haight Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4373",
+   "en": "An Act Changing the Name of Barrio Tinalunan in the Municipality of Gloria, Province of Oriental Mindoro, to Barrio Gaudencio Antonino",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4386",
+   "en": "An Act Changing the Name of Barrio Carismoan in the Municipality of Sta. Barbara, Province of Iloilo, to Barrio General Martin Delgado",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H552",
+   "en": "An Act to Convert the Tolong High School in the Municipality of Sta. Catalina, Province of Negros Oriental, to a National Rural School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5763",
+   "en": "An Act Changing the Name of the Morong General Hospital in the Municipality of Morong, Province of Rizal, to Rizal Provincial Hospital",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H6507",
+   "en": "An Act Naming the Road From Tigbao (Tacloban) to Sta. Fe, Pastrana, Dagami and Tanauan, Province of Leyte, as Filomeno Montejo Highway",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H776",
+   "en": "An Act to Convert Sitio Pili in the Municipality of Despujols, Province of Romblon, Into a Barrio With the Name of Dona Trinidad Roxas",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1131",
+   "en": "An Act Authorizing the Appropriation of Three Million Pesos for the Construction of a Building or Buildings for the San Lazaro Hospital",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1289",
+   "en": "An Act Amending the Project Number and Location of the Project in Appendix A, Title G, of Republic Act Numbered Fourteen Hundred Eleven",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1586",
+   "en": "An Act Changing the Name of Antipolo Elementary School, Municipality of Antipolo, Province of Rizal, to Juan Sumulong Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2369",
+   "en": "An Act Amending Section Twenty-Two of Republic Act Numbered Seven Hundred Sixty, Otherwise Known as the Charter of the City of Tacloban",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3926",
+   "en": "An Act Changing the Name of Nasugbu Central School in the Municipality of Nasugbu, Province of Batangas, to Nasugbu West Central School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4564",
+   "en": "An Act Converting the Municipal District of Santa Praxedes, Formerly Langañgan, in the Province of Cagayan, Into a Regular Municipality",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4811",
+   "en": "An Act Changing the Name of the Barrio of Barangay in the Municipality of Espiritu, Province of Ilocos Norte, to Barrio Hilario Valdez.",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4816",
+   "en": "An Act Changing the Name of Batac General Hospital in the Municipality of Batac, Province of Ilocos Norte, to Marcos Memorial Hospital.",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H6184",
+   "en": "An Act Changing the Name of the Benigno S. Aquino Memorial High School in Concepcion, Tarlac, to Benigno S. Aquino National High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H6186",
+   "en": "An Act Changing the Name of the Buhangin Barangay High School in Barangay Buhangin, Davao City, to Bernardo Carpio Barangay High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H7875",
+   "en": "An Act Declaring June 19 of Every Year a Special Nonworking Holiday in the Province of Northern Samar to Commemorate its Foundation Day",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H876",
+   "en": "An Act to Convert the Sitio of Pook Ni Banal in the Barrio of Malaking Pook, Municipality of Bauan, Province of Batangas, into a Barrio",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H878",
+   "en": "An Act to Convert the Sitio of Malalim in the Barrio of Mahabang Dahilig, Municipality of Batangas, Province of Batangas, into a Barrio",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1483",
+   "en": "An Act Transferring the Barrios of Capahu-an and Guingawan, Municipality of Dagami, Province of Leyte, to the Municipality of Tabontabon",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1546",
+   "en": "An Act Amending Item Twenty-Six, Paragraph One, for the Province of Camarines Norte, Section Two of Republic Act Numbered Twelve Hundred",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1855",
+   "en": "An Act Changing the Name of the Barrio of Cabicalan in the Municipal District of Potia, Ifugao, Mountain Province, to Barrio San Domingo",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1953",
+   "en": "An Act Changing the Name of the Barrio of Tambon in the Municipality of Alicia, Province of Zamboanga del Sur, to Barrio Tandiong Muslim",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1954",
+   "en": "An Act Changing the Name of the San Isidro Community School in the Municipality of Malitbog, Province of Leyte, to Oppus Memorial School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2280",
+   "en": "An Act Naming the Primary School of Barrio Malabo in the Municipality of Valencia, Province of Negros Oriental, as Carson Primary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2836",
+   "en": "An Act Dividing Barrio Limon in the Municipality of Looc, Province of Romblon, into Two Barrios to be Known as Limon Norte and Limon Sur",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H334",
+   "en": "An Act Providing for the Attachment of the Property of the Defendant in Criminal Action, by Amending for This Purpose the Rules of Court",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3496",
+   "en": "An Act Changing the Name of Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, to Tiburcio Betita Memorial School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4366",
+   "en": "An Act Providing That Barrio Sampong in the Municipality of Bayawan, Province of Negros Oriental, Be Hereafter Known as Barrio San Roque",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5304",
+   "en": "An Act Naming the Plaridel-Bustos-Angat-Norzagaray-Santa Maria Highway in the Province of Bulacan as the General Alejo G. Santos Highway",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H6187",
+   "en": "An Act Changing the Name of Bucandala National High School in the Municipality of Imus, Province of Cavite, to Imus National High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1257",
+   "en": "An Act Changing the Name of the Sabang Elementary School in the Barrio of Sabang, City of Lipa, to G.B. Lontok Memorial Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2175",
+   "en": "An Act Amending Item 81, for the Province of Laguna, Page 162, Paragraph g, Section Two of Republic Act Numbered Sixteen Hundred Thirteen",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2975",
+   "en": "An Act Authorizing the Commission on Elections to Use Savings from its Appropriations for the Construction of a Permanent Office Building",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3535",
+   "en": "An Act Changing the Name of Masalisi Primary School in the Municipality of Lemery, Province of Batangas, to Payapang Ibaba Primary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3939",
+   "en": "An Act Changing the Name of Manalpac School in the Municipality of Solsona, Province of Ilocos Norte, to Manalpac-Mariquet Primary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4200",
+   "en": "An Act Changing the Name of Barrio Dinokot in the Municipality of Sindangan, Province of Zamboanga del Norte, to Barrio Ricardo G. Macias",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4798",
+   "en": "An Act Changing the Name of Manta Elementary School in the Municipality of Siasi, Province of Sulu, to Susulan Jimlani Elementary School.",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4950",
+   "en": "An Act Changing the Name of Occidental Negros Provincial Hospital in the City of Bacolod to Corazon Locsin-Montelibano Memorial Hospital.",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5834",
+   "en": "An Act Changing the Name of the Marigaeg Elementary School in Salaman, Lebak, Sultan Kudarat, to Ampad-guiabar Memorial Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H992",
+   "en": "An Act to Amend Certain Items for the Province of La Union Subsection (a), Title E, Section One Republic Act Numbered Nine Hundred Twenty",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1758",
+   "en": "An Act Increasing the Authorized Capital Stock of the Manila Railroad Company of the Philippine Islands to One Hundred Fifty Million Pesos",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2213",
+   "en": "An Act Changing the Name of Colgante Primary School in the Municipality of Apalit, Province of Pampanga, to Gonzales-Sioco Memorial School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3012",
+   "en": "An Act Changing the Name of the Welfareville School in the Municipality of Mandaluyong, Province of Rizal, to Jose Fabella Memorial School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3168",
+   "en": "An Act Amending Article XIV-A of Republic Act Numbered Four Hundred and Nine, Otherwise Known as the Revised Charter of the City of Manila",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H476",
+   "en": "An Act to Amend Section Twenty-One Hundred and Seventy-Six of the Revised Administrative Code of Nineteen Hundred and Seventeen as Amended",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5199",
+   "en": "An Act Declaring September Thirteen as Battle Of&nbsp;pulang Lupa&nbsp;day and a Special Non-Working Holiday in the Province of Marinduque",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5952",
+   "en": "An Act Changing the Name of the Dibuluan Elementary School in the Municipality of Jones, Province of Isabela, To Jones East Central School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H865",
+   "en": "An Act to Change the Name of Nagcarlan Elementary School in Nagcarlan, Province of Laguna, to Crisanto Guysayko Memorial Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1279",
+   "en": "An Act Amending Certain Sections of Republic Act Numbered Five Hundred Twenty-Six, Otherwise Known as the Charter of the City of Cabanatuan",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1306",
+   "en": "An Act Amending Item G-038.10 Under the Province of Nueva Vizcaya, Title G, Appendix a of Republic Act Numbered Fourteen Hundred and Eleven",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1337",
+   "en": "An Act to Amend Certain Sections of Commonwealth Act Numbered Four Hundred Sixty-Five, Otherwise Known as the Residence Tax Law, as Amended",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1478",
+   "en": "An Act Changing the Name of Cainbuñgan Barrio School, Municipality of Cadiz, Province of Negros Occidental, to Luis Consing Memorial School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1506",
+   "en": "An Act Converting the Sitio of Bugang in the Municipality of Pio V. Corpus, Province of Masbate, into a Barrio to be Known as Barrio Bugang",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1853",
+   "en": "An Act Changing the Name of the Bajo Barrio School in the Municipality of Del Gallego, Province of Camarines Sur, to San Juan Barrio School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2188",
+   "en": "An Act to Amend Item 88, for the Province of Laguna, Page 163, Paragraph “g,” Section Two of Republic Act Numbered Sixteen Hundred Thirteen",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2304",
+   "en": "An Act to Change the Name of Tabuc Primary School in the Municipality of Tanjay, Province of Negros Oriental, to Jose Rotea Memorial School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2491",
+   "en": "An Act to Amend Item (p), Page 281, Paragraph F, Group IV for the Province of Iloilo, Section Two of Republic Act Numbered Nineteen Hundred",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2848",
+   "en": "An Act Constituting Sitios Cabatuan and Atlas in the Municipality of Bontoc, Province of Leyte, into a Barrio to be Known as Barrio Talisay",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3111",
+   "en": "An Act Changing the Name of Cadlan Elementary School in the Municipality of Pili, Province of Camarines Sur, to Rodriguez Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3272",
+   "en": "An Act Changing the Name of Tagbak Elementary School in the Municipality of Indanan, Province of Sulu, to Panglima Mammah Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3309",
+   "en": "An Act to Further Amend Section Fourteen of Republic Act Numbered Seven Hundred Twenty, as Amended, Otherwise Known as the Rural Banks' Act",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4135",
+   "en": "An Act Changing the Name of the Dao Emergency Hospital in the Municipality of Dao, Province of Antique, to Tobias Fornier Memorial Hospital",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5809",
+   "en": "An Act Changing the Name of the Hilongos Hospital in the Municipality of Hilongos, Province of Leyte, to Emiliano Melgazo Memorial Hospital",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5827",
+   "en": "An Act Renaming the San Isidro Elementary School in Barangay San Isidro, Sorsogon, to Pio Jebulan Elementary School, and for Other Purposes",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H6774",
+   "en": "An Act Changing the Name of Sibulan National High School To Polillo National High School in the Municipality of Polillo, Province of Quezon",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H9585",
+   "en": "An Act Declaring December 2 of Every Year a Special Nonworking Holiday in the City of Pasay to Be Known as the Foundation Day of Pasay City",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1793",
+   "en": "An Act to Further Amend Chapter Fifty-Six of the Revised Administrative Code as Amended by Republic Act Numbered Eighteen Hundred Thirty-Six",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2139",
+   "en": "An Act Making the Sitios of Mabini in the Municipality of Matag-ob, Province of Leyte, a Part of the Municipality of Palompon, Same Province",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2275",
+   "en": "An Act Changing the Name of the Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, to Tiburcio Betita Memorial School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3104",
+   "en": "An Act Changing the Name of the Busbus Elementary School in the Municipality of Jolo, Province of Sulu, to Dandan Ututalum Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3105",
+   "en": "An Act Changing the Name of the Sulu High School in the Municipality of Jolo, Province of Sulu, to Dayang Hadji Piandao Memorial High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3579",
+   "en": "An Act Authorizing the Philippine Charity Sweepstakes Office to Hold a Special Lottery for the Benefit of the Girl Scouts of the Philippines",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3925",
+   "en": "An Act Changing the Name of Lumbangan Elementary School in the Municipality of Nasugbu, Province of Batangas, to Nasugbu East Central School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4003",
+   "en": "An Act Granting the Name of Lipay Elementary School in the Municipality of Solsona, Province of Ilocos Norte, to Nalipasan Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4040",
+   "en": "An Act Creating Two Addition Branches of the City Court of Ozamis, Amending for the Purpose Section Seventy-Five of the Charter of Said City",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4414",
+   "en": "An Act Changing the Name of Ayusan Primary School in the Municipality of Tiaong, Province of Quezon, to Bienvenida and Asinas Primary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5288",
+   "en": "An Act Changing the Name of the Nueva Ecija Provincial Hospital in San Jose City, Province of Nueva Ecija, to San Jose City General Hospital",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5799",
+   "en": "An Act Changing the Name of the Western Leyte Hospital in the Municipality of Baybay, Province of Leyte, to Dr. Jose Silao Memorial Hospital",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H6495",
+   "en": "An Act Changing the Name of the Bohol National High School in Tagbilaran City, Province of Bohol, to Dr. Cecilio Putong National High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H727",
+   "en": "An Act to Change the Name of the Maasin Elementary School in the Municipality of Maasin, Province of Leyte, to Tomas Oppus Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H8981",
+   "en": "An Act Naming the Police Regional Office 11 at Sitio Catitipan, Barangay Communal, Buhangin District, Davao City as Camp Quintin M. Merecido",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1049",
+   "en": "An Act to Change the Name of the Concepcion High School in the Municipality of Concepcion, Province of Tarlac, to Aquino Memorial High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H10657",
+   "en": "An Act Declaring January 16 of Every Year a Special Non-working Holiday in the City of Navotas in Commemoration of Its Foundation Anniversary",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2219",
+   "en": "An Act to Change the Name of the Polo Elementary School in the Municipality of Polo, Province of Bulacan, to Pio Valenzuela Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2490",
+   "en": "An Act Amending Item 84, for the Province of Pangasinan, Page 184, Paragraph g, Section Two of Republic Act Numbered Sixteen Hundred Thirteen",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2614",
+   "en": "An Act Reappropriating Certain Sums Appropriated in Republic Act Numbered Nineteen Hundred and Republic Act Numbered Sixteen Hundred Thirteen",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3109",
+   "en": "An Act Changing the Name of the Biid Elementary School in the Municipality of Parang, Province of Sulu, to Panglima Dammang Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3245",
+   "en": "An Act Changing the Name of Banilad Barrio School in the Municipality of Bacong, Province of Negros Oriental, to Nazario Tale Memorial School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3606",
+   "en": "An Act Changing the Name of Ticulon Elementary School in the Municipality of Malita, Province of Davao, to Toribio Limcaoco Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5234",
+   "en": "An Act Changing the Name of the Villasis National High School in Villasis, Pangasinan, to Don Ramon E. Costales Memorial National High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5280",
+   "en": "An Act Changing the Name of the Guagua District Hospital in the Municipality of Guagua, Province of Pampanga, to Pampanga Provincial Hospital",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5282",
+   "en": "An Act Changing the Name of the National Orthopedic Hospital and Rehabilitation Medical Center in Quezon City to Philippine Orthopedic Center",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H7949",
+   "en": "An Act Renaming the Sagrada – Lidong Road Extending From the Province of Camarines Sur to the Province of Albay as Diosdado Macapagal Highway",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H10634",
+   "en": "An Act Declaring June 15 of Every Year a Special Non-working Holiday in the City of General Santos in Commemoration of Its Charter Anniversary",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1285",
+   "en": "An Act Amending Section Eighty-Six of Republic Act Numbered Three Hundred Twenty-Eight, Otherwise Known as the Charter of the City of Calbayog",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3494",
+   "en": "An Act Changing the Name of Infanta Emergency Hospital in the Municipality of Infanta, Province of Quezon, to Claro M. Recto Memorial Hospital",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3936",
+   "en": "An Act Changing the Name of Tuaca Elementary School in the Municipality of Basud, Province of Camarines Norte, to Pedro Rada Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4795",
+   "en": "An Act Changing the Name of Bulikullol Elementary School in the Municipality of Siasi, Province of Sulu, to Panglima Ikbala Elementary School.",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5441",
+   "en": "An Act Changing the Name of the Baretbet Bridge in the Municipality of Bagabag, Province of Nueva Vizcaya, to San Lorenzo Ruiz Memorial Bridge",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5835",
+   "en": "An Act Changing the Name of the Jipapad Barangay High School in the Municipality of Jipapad, Province of Eastern Samar, to Jipapad High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H6090",
+   "en": "An Act Renaming the Magallanes South Central School Located in Magallanes, Sorsogon, Province of Sorsogon, To Eduardo Lee Chan Memorial School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1267",
+   "en": "An Act to Amend Items Nineteen and Twenty, aa. La Union, Paragraph I, Title B, of Section One of Republic Act Numbered One Thousand Two Hundred",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2264",
+   "en": "An Act Changing the Name of Buayan Elementary School in the Municipality of General P. Santos, Province of Cotabato, to Lagao Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2296",
+   "en": "An Act Changing the Name of the Hda. Idad Primary School in the Municipality of Cadiz, Province of Negros Occidental, to Sombito Primary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2359",
+   "en": "An Act Exempting Newspapers from the Payment of the Additional Charge of Five Centavos for Postage During the Yearly Anti-TB Fund Drive Period.",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2534",
+   "en": "An Act Changing the Name of the Argao Intermediate School in the Municipality of Argao, Province of Cebu, to Antonio Miñoza Intermediate School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2772",
+   "en": "An Act to Amend Certain Provisions of Republic Act Numbered Sixteen Hundred Thirteen Regarding Public Works Projects for the Province of Iloilo",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2939",
+   "en": "An Act Changing the Name of the Tuburan National Vocational School in the Municipality of Tuburan, Province of Cebu, to Tuburan National School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H325",
+   "en": "An Act to Raise the Fees on Transfer of Large Cattle Amending Therefor Section Five Hundred and Twenty-Eight of the Revised Administrative Code",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3860",
+   "en": "An Act Changing the Name of Juban Elementary School, in the Municipality of Juban, Province of Sorsogon, to Jose G. Alindogan Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3934",
+   "en": "An Act Changing the Name of Central School Annex in the Municipality of Oroquieta, Province of Misamis Occidental, to Layawan Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4091",
+   "en": "An Act Creating Three Additional Branches of the City Court of Quezon City, Amending for the Purpose Section Thirty of the Charter of Said City",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4946",
+   "en": "An Act Repealing Republic Act Numbered Four Thousand Two Hundred Sixty, and Restoring the Old Name Lake Lanao in the Province of Lanao Del Sur.",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5196",
+   "en": "An Act Renaming the Tuy-An Elementary School in Barangay Tuy-An, Municipality of Cabatuan, Province of Iloilo, as the Colomer Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5693",
+   "en": "An Act Changing the Name of the Manat Elementary School in the Municipality of Nabunturan, Province of Davao Del Norte, to Manat Central School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5951",
+   "en": "An Act Changing the Name of the Salcedo Municipal High School in the Municipality of Salcedo, Province of Eastern Samar, to Salcedo High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H838",
+   "en": "An Act to Amend Section Ninety-Three of Commonwealth Act Numbered Four Hundred Sixty-Six Known as the National Internal Revenue Code as Amended",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1091",
+   "en": "An Act Changing the Name of San Fernando Diversion Road in the Municipality of San Fernando, Province of Pampanga, to Jose Abad Santos Boulevard",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1690",
+   "en": "An Act Amending Sections One Hundred Eighty-Two, One Hundred Eighty-Eight and Two Hundred Four of the National Internal Revenue Code, as Amended",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1930",
+   "en": "An Act to Change the Name of the Sancagulis Community School in the Municipality of Bayambang, Province of Pangasinan, to Cason Community School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1957",
+   "en": "An Act Transferring the Seat of Government of the Municipality of Liloy, Province of Zamboanga del Norte, from Barrio Timan to Upper Liloy Beach",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H205",
+   "en": "An Act to Amend Section Sixteen Hundred and Twenty-Six of Act Numbered Twenty-Seven Hundred and Eleven, Known as the Revised Administrative Code",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2286",
+   "en": "An Act Changing the Name of the Patao Primary School in the Barrio of Bawod, Municipality of Bantayan, Province of Cebu, to Bawod Primary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2314",
+   "en": "An Act Changing the Name of the Coron Elementary School in the Municipality of Coron, Province of Palawan, to Claudio Sandoval Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2368",
+   "en": "An Act Converting the National Power Corporation into a Stock Corporation, Amending for the Purpose Commonwealth Act Numbered One Hundred Twenty",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5258",
+   "en": "An Act Naming the Bridge Linking the Municipalities of Bustos and Baliuag, all in the Province of Bulacan, as the General Alejo S. Santos Bridge",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5833",
+   "en": "An Act Changing the Name of the Hernani Provincial High School in the Municipality of Hernani, Province of Eastern Samar, to Hernani High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5866",
+   "en": "An Act Changing the Name of the Arteche Provincial High School in the Municipality of Arteche, Province of Eastern Samar, to Arteche High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H883",
+   "en": "An Act to Change the Name of Tago Central Elementary School to Falcon Central Elementary School in the Municipality of Tago, Province of Surigao",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H9563",
+   "en": "An Act Declaring May 22 of Every Year a Special Nonworking Holiday in the Province of Guimaras in Commemoration of its Anniversary as a Province",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H968",
+   "en": "An Act to Amend Item (h), Group I, for the Province of Iloilo, Subsection (a), Title C, Section One of Republic Act Numbered Nine Hundred Twenty",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1799",
+   "en": "An Act Amending Article One Hundred and Ninety of the Revised Penal Code, so as to Include Marihuana and Similar Drugs Among the Prohibited Drugs",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2094",
+   "en": "An Act Reverting to the General Funds of the National Government the Cash Balances of Certain Special or Revolving Funds Under Certain Conditions",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2218",
+   "en": "An Act to Change the Name of the Baliwag Provincial High School in the Municipality of Baliwag, Province of Bulacan, to Mariano Ponce High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2251",
+   "en": "An Act Changing the Name of Santol I Elementary School in the Municipality of Bigaa, Province of Bulacan, to Marciano C. Rivera Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2569",
+   "en": "An Act Changing the Name of Tatarac Community School in the Municipality of Bayambang, Province of Pangasinan, to Apalen-Tatarac Community School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2838",
+   "en": "An Act Making the Barrio of Matipunso of the Municipality of Tiaong, Province of Quezon, a Part of the Municipality of San Antonio, Same Province",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3108",
+   "en": "An Act Changing the Name of the Sapa-Sapa Barrio School in the Municipality of Tandu Bas, Province of Sulu, to Tuan Ligaddung Lipae Barrio School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3215",
+   "en": "An Act Extending the Term of the Electric Franchise Originally Granted to Natalio Digal but Subsequently Sold to Ocmis Electric Service Co., Inc.",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3499",
+   "en": "An Act Changing the Name of Camaysa Primary School in the Barrio of Dapdap, Municipality of Tayabas, Province of Quezon, to Dapdap Primary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H4426",
+   "en": "An Act Changing the Name of the Bautista Elementary School in the Barrio of Bautista, City of San Pablo, to Fernando Quisumbing Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H463",
+   "en": "An Act to Amend Section Eighteen Hundred and Twenty-One of Act Numbered Twenty-Seven Hundred and Eleven, Known as the Revised Administrative Code",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H5157",
+   "en": "An Act Changing the Name of the Lakeside Elementary School in the City of San Pablo, Province of Laguna, to Corazon M. Azcarate Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H6192",
+   "en": "An Act Changing the Name of the Kiling High School in Barangay Kiling, Municipality of Tanauan, Province of Leyte, to Kiling National High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1484",
+   "en": "An Act Changing the Name of the Kabayan Central School in the Municipal District of Kabayan, Benguet, Mountain Province, to Bansen Memorial School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H1637",
+   "en": "An Act to Amend Certain Item of Republic Act Numbered One Thousand Four Hundred Eleven, Regarding Public Works Project for the Province of Masbate",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2301",
+   "en": "An Act Changing the Name of the Cabambanan Barrio School in the Municipality of Pagsanjan, Province of Laguna, to Salvador Unson Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H2416",
+   "en": "An Act Further Amending Section Eleven of Republic Act Numbered Three Hundred Twenty-Eight, Otherwise Known as the Charter of the City of Calbayog",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3218",
+   "en": "An Act Changing the Name of Karundong Elementary School in the Municipality of Luuk, Province of Sulu, to Hadji Maharaja Tawasil Elementary School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3271",
+   "en": "An Act to Further Amend Section Sixty-One of Republic Act Numbered Four Hundred Nine, Otherwise Known as the Revised Charter of the City of Manila",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3500",
+   "en": "An Act Authorizing the Appropriation of Three Hundred Thousand Pesos for the Operation and Maintenance of Cabalian National Vocational High School",
+   "hint": "2 条"
+  },
+  {
+   "id": "PH-H3878",
+   "en": "An Act Providing that Retirement Benefits of Employees of Private Firms Shall not be Subject to Attachment, Levy, Execution, or Any Tax Whatsoever",
+   "hint": "2 条"
+  }
+ ]
+}

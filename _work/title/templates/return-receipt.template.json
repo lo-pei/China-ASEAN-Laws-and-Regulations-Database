@@ -1,0 +1,24 @@
+{
+ "jobId": "CALR-TITLE-<时间戳>-<范围>-<条数>",
+ "engine": "llm",
+ "model": "<你的模型名>",
+ "generatedAt": "2026-10-17T18:00:00+08:00",
+ "counts": {
+  "requested": 150,
+  "translated": 150,
+  "skipped": 0
+ },
+ "shards": [
+  "titles.001.json"
+ ],
+ "selfCheck": {
+  "allIdsReturned": true,
+  "noExtraIds": true,
+  "noDuplicateIds": true,
+  "allNonEmpty": true,
+  "noSourceCopies": true,
+  "noInventedNames": true,
+  "noBoilerplate": true,
+  "jsonValid": true
+ }
+}

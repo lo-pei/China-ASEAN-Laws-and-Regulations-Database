@@ -1,0 +1,503 @@
+{
+ "batch": "th-p1-b01",
+ "scope": "TH 法律 · 术语表组装",
+ "generatedFrom": "_work/title-multi/engine/gen_th.js",
+ "items": {
+  "TH-H1002": {
+   "zh": "兰甘亨大学法（佛历2514年／1971）",
+   "en": "Ramkhamhaeng University Act, B.E. 2514 (1971)",
+   "th": "พระราชบัญญัติมหาวิทยาลัยรามคำแหง พ.ศ. 2514",
+   "vi": "Luật Đại học Ramkhamhaeng năm 1971",
+   "id": "Undang-Undang Universitas Ramkhamhaeng Tahun 1971",
+   "ms": "Akta Universiti Ramkhamhaeng 1971"
+  },
+  "TH-H1009": {
+   "zh": "技术与职业教育学院法（佛历2518年／1975）",
+   "en": "College of Technology and Vocational Education Act, B.E. 2518 (1975)",
+   "th": "พระราชบัญญัติวิทยาลัยเทคโนโลยีและอาชีวศึกษา พ.ศ. 2518",
+   "vi": "Luật Cao đẳng Công nghệ và Giáo dục Nghề nghiệp năm 1975",
+   "id": "Undang-Undang Sekolah Tinggi Teknologi dan Pendidikan Kejuruan Tahun 1975",
+   "ms": "Akta Kolej Teknologi dan Pendidikan Vokasional 1975"
+  },
+  "TH-H1047": {
+   "zh": "公民身份证法（佛历2526年／1983）",
+   "en": "National Identity Card Act, B.E. 2526 (1983)",
+   "th": "พระราชบัญญัติบัตรประจำตัวประชาชน พ.ศ. 2526",
+   "vi": "Luật Thẻ căn cước công dân năm 1983",
+   "id": "Undang-Undang Kartu Tanda Penduduk Tahun 1983",
+   "ms": "Akta Kad Pengenalan Warganegara 1983"
+  },
+  "TH-H1057": {
+   "zh": "就业介绍与求职者保护法（佛历2528年／1985）",
+   "en": "Job Placement and Protection of Job Seekers Act, B.E. 2528 (1985)",
+   "th": "พระราชบัญญัติจัดหางานและคุ้มครองคนหางาน พ.ศ. 2528",
+   "vi": "Luật Giới thiệu việc làm và Bảo vệ người tìm việc năm 1985",
+   "id": "Undang-Undang Penempatan Kerja dan Perlindungan Pencari Kerja Tahun 1985",
+   "ms": "Akta Penempatan Kerja dan Perlindungan Pencari Kerja 1985"
+  },
+  "TH-H1100": {
+   "zh": "设立农磨兰普府法院法（佛历2537年／1994）",
+   "en": "Establishment of Nong Bua Lamphu Provincial Court Act, B.E. 2537 (1994)",
+   "th": "พระราชบัญญัติจัดตั้งศาลจังหวัดหนองบัวลำภู พ.ศ. 2537",
+   "vi": "Luật Thành lập Tòa án tỉnh Nong Bua Lamphu năm 1994",
+   "id": "Undang-Undang Pembentukan Pengadilan Provinsi Nong Bua Lamphu Tahun 1994",
+   "ms": "Akta Penubuhan Mahkamah Wilayah Nong Bua Lamphu 1994"
+  },
+  "TH-H1137": {
+   "zh": "国家审计组织法（佛历2542年／1999）",
+   "en": "State Audit Organic Act, B.E. 2542 (1999)",
+   "th": "พระราชบัญญัติประกอบรัฐธรรมนูญว่าด้วยการตรวจเงินแผ่นดิน พ.ศ. 2542",
+   "vi": "Luật Tổ chức Kiểm toán Nhà nước năm 1999",
+   "id": "Undang-Undang Organik Audit Negara Tahun 1999",
+   "ms": "Akta Organik Audit Negara 1999"
+  },
+  "TH-H1138": {
+   "zh": "预防与惩治腐败组织法（佛历2542年／1999）",
+   "en": "Prevention and Suppression of Corruption Organic Act, B.E. 2542 (1999)",
+   "th": "พระราชบัญญัติประกอบรัฐธรรมนูญว่าด้วยการป้องกันและปราบปรามการทุจริต พ.ศ. 2542",
+   "vi": "Luật Tổ chức Phòng ngừa và Trấn áp Tham nhũng năm 1999",
+   "id": "Undang-Undang Organik Pencegahan dan Pemberantasan Korupsi Tahun 1999",
+   "ms": "Akta Organik Pencegahan dan Pembanterasan Rasuah 1999"
+  },
+  "TH-H1146": {
+   "zh": "合作社法（佛历2542年／1999）",
+   "en": "Cooperatives Act, B.E. 2542 (1999)",
+   "th": "พระราชบัญญัติสหกรณ์ พ.ศ. 2542",
+   "vi": "Luật Hợp tác xã năm 1999",
+   "id": "Undang-Undang Koperasi Tahun 1999",
+   "ms": "Akta Koperasi 1999"
+  },
+  "TH-H1155": {
+   "zh": "建筑师法（佛历2543年／2000）",
+   "en": "Architects Act, B.E. 2543 (2000)",
+   "th": "พระราชบัญญัติสถาปนิก พ.ศ. 2543",
+   "vi": "Luật Kiến trúc sư năm 2000",
+   "id": "Undang-Undang Arsitek Tahun 2000",
+   "ms": "Akta Arkitek 2000"
+  },
+  "TH-H1156": {
+   "zh": "国家经济与社会咨询委员会法（佛历2543年／2000）",
+   "en": "National Economic and Social Advisory Council Act, B.E. 2543 (2000)",
+   "th": "พระราชบัญญัติสภาที่ปรึกษาเศรษฐกิจและสังคมแห่งชาติ พ.ศ. 2543",
+   "vi": "Luật Hội đồng Tư vấn Kinh tế và Xã hội Quốc gia năm 2000",
+   "id": "Undang-Undang Dewan Penasihat Ekonomi dan Sosial Nasional Tahun 2000",
+   "ms": "Akta Majlis Penasihat Ekonomi dan Sosial Kebangsaan 2000"
+  },
+  "TH-H1158": {
+   "zh": "高级检察官任命与任职准则法（佛历2543年／2000）",
+   "en": "Criteria for Appointment and Tenure of Senior Public Prosecutors Act, B.E. 2543 (2000)",
+   "th": "พระราชบัญญัติหลักเกณฑ์การแต่งตั้งและการดำรงตำแหน่งอัยการอาวุโส พ.ศ. 2543",
+   "vi": "Luật Tiêu chuẩn bổ nhiệm và giữ chức vụ Kiểm sát viên cao cấp năm 2000",
+   "id": "Undang-Undang Kriteria Pengangkatan dan Masa Jabatan Jaksa Senior Tahun 2000",
+   "ms": "Akta Kriteria Pelantikan dan Penyandangan Jawatan Pendakwa Raya Kanan 2000"
+  },
+  "TH-H1166": {
+   "zh": "丧葬互助法（佛历2545年／2002）",
+   "en": "Funeral Welfare Act, B.E. 2545 (2002)",
+   "th": "พระราชบัญญัติการฌาปนกิจสงเคราะห์ พ.ศ. 2545",
+   "vi": "Luật Tương trợ Hỏa táng năm 2002",
+   "id": "Undang-Undang Bantuan Kematian Tahun 2002",
+   "ms": "Akta Bantuan Pengebumian 2002"
+  },
+  "TH-H1169": {
+   "zh": "泰国伊斯兰银行法（佛历2545年／2002）",
+   "en": "Islamic Bank of Thailand Act, B.E. 2545 (2002)",
+   "th": "พระราชบัญญัติธนาคารอิสลามแห่งประเทศไทย พ.ศ. 2545",
+   "vi": "Luật Ngân hàng Hồi giáo Thái Lan năm 2002",
+   "id": "Undang-Undang Bank Islam Thailand Tahun 2002",
+   "ms": "Akta Bank Islam Thailand 2002"
+  },
+  "TH-H1170": {
+   "zh": "兽医职业法（佛历2545年／2002）",
+   "en": "Veterinary Profession Act, B.E. 2545 (2002)",
+   "th": "พระราชบัญญัติวิชาชีพการสัตวแพทย์ พ.ศ. 2545",
+   "vi": "Luật Nghề Thú y năm 2002",
+   "id": "Undang-Undang Profesi Dokter Hewan Tahun 2002",
+   "ms": "Akta Profesion Veterinar 2002"
+  },
+  "TH-H1172": {
+   "zh": "链锯法（佛历2545年／2002）",
+   "en": "Chainsaws Act, B.E. 2545 (2002)",
+   "th": "พระราชบัญญัติเลื่อยโซ่ยนต์ พ.ศ. 2545",
+   "vi": "Luật Máy cưa xích năm 2002",
+   "id": "Undang-Undang Gergaji Mesin Tahun 2002",
+   "ms": "Akta Gergaji Rantai 2002"
+  },
+  "TH-H1173": {
+   "zh": "地理标志保护法（佛历2546年／2003）",
+   "en": "Protection of Geographical Indications Act, B.E. 2546 (2003)",
+   "th": "พระราชบัญญัติคุ้มครองสิ่งบ่งชี้ทางภูมิศาสตร์ พ.ศ. 2546",
+   "vi": "Luật Bảo hộ Chỉ dẫn Địa lý năm 2003",
+   "id": "Undang-Undang Perlindungan Indikasi Geografis Tahun 2003",
+   "ms": "Akta Perlindungan Petunjuk Geografi 2003"
+  },
+  "TH-H1174": {
+   "zh": "老年人法（佛历2546年／2003）",
+   "en": "Elderly Persons Act, B.E. 2546 (2003)",
+   "th": "พระราชบัญญัติผู้สูงอายุ พ.ศ. 2546",
+   "vi": "Luật Người cao tuổi năm 2003",
+   "id": "Undang-Undang Lanjut Usia Tahun 2003",
+   "ms": "Akta Warga Emas 2003"
+  },
+  "TH-H1175": {
+   "zh": "教育部行政管理组织法（佛历2546年／2003）",
+   "en": "Administrative Organisation of the Ministry of Education Act, B.E. 2546 (2003)",
+   "th": "พระราชบัญญัติระเบียบบริหารราชการกระทรวงศึกษาธิการ พ.ศ. 2546",
+   "vi": "Luật Tổ chức Hành chính của Bộ Giáo dục năm 2003",
+   "id": "Undang-Undang Organisasi Administrasi Kementerian Pendidikan Tahun 2003",
+   "ms": "Akta Organisasi Pentadbiran Kementerian Pendidikan 2003"
+  },
+  "TH-H1176": {
+   "zh": "私立高等教育机构法（佛历2546年／2003）",
+   "en": "Private Higher Education Institutions Act, B.E. 2546 (2003)",
+   "th": "พระราชบัญญัติสถาบันอุดมศึกษาเอกชน พ.ศ. 2546",
+   "vi": "Luật Cơ sở Giáo dục Đại học Tư thục năm 2003",
+   "id": "Undang-Undang Perguruan Tinggi Swasta Tahun 2003",
+   "ms": "Akta Institusi Pengajian Tinggi Swasta 2003"
+  },
+  "TH-H1177": {
+   "zh": "衍生品合约法（佛历2546年／2003）",
+   "en": "Derivatives Contracts Act, B.E. 2546 (2003)",
+   "th": "พระราชบัญญัติสัญญาซื้อขายล่วงหน้า พ.ศ. 2546",
+   "vi": "Luật Hợp đồng Phái sinh năm 2003",
+   "id": "Undang-Undang Kontrak Derivatif Tahun 2003",
+   "ms": "Akta Kontrak Derivatif 2003"
+  },
+  "TH-H1178": {
+   "zh": "国家警察法（佛历2547年／2004）",
+   "en": "National Police Act, B.E. 2547 (2004)",
+   "th": "พระราชบัญญัติตำรวจแห่งชาติ พ.ศ. 2547",
+   "vi": "Luật Cảnh sát Quốc gia năm 2004",
+   "id": "Undang-Undang Kepolisian Nasional Tahun 2004",
+   "ms": "Akta Polis Negara 2004"
+  },
+  "TH-H1179": {
+   "zh": "教师与教育人员公务员管理法（佛历2547年／2004）",
+   "en": "Service Regulations for Teachers and Educational Personnel Act, B.E. 2547 (2004)",
+   "th": "พระราชบัญญัติระเบียบข้าราชการครูและบุคลากรทางการศึกษา พ.ศ. 2547",
+   "vi": "Luật Quy chế Công chức Giáo viên và Nhân viên Giáo dục năm 2004",
+   "id": "Undang-Undang Peraturan Kepegawaian Guru dan Tenaga Kependidikan Tahun 2004",
+   "ms": "Akta Peraturan Perkhidmatan Guru dan Kakitangan Pendidikan 2004"
+  },
+  "TH-H1180": {
+   "zh": "高等教育机构公务员管理法（佛历2547年／2004）",
+   "en": "Civil Service Regulations in Higher Education Institutions Act, B.E. 2547 (2004)",
+   "th": "พระราชบัญญัติระเบียบข้าราชการพลเรือนในสถาบันอุดมศึกษา พ.ศ. 2547",
+   "vi": "Luật Quy chế Công chức trong Cơ sở Giáo dục Đại học năm 2004",
+   "id": "Undang-Undang Peraturan Kepegawaian Negeri di Perguruan Tinggi Tahun 2004",
+   "ms": "Akta Peraturan Perkhidmatan Awam di Institusi Pengajian Tinggi 2004"
+  },
+  "TH-H1181": {
+   "zh": "物理治疗职业法（佛历2547年／2004）",
+   "en": "Physical Therapy Profession Act, B.E. 2547 (2004)",
+   "th": "พระราชบัญญัติวิชาชีพกายภาพบำบัด พ.ศ. 2547",
+   "vi": "Luật Nghề Vật lý Trị liệu năm 2004",
+   "id": "Undang-Undang Profesi Fisioterapi Tahun 2004",
+   "ms": "Akta Profesion Fisioterapi 2004"
+  },
+  "TH-H1182": {
+   "zh": "会计职业法（佛历2547年／2004）",
+   "en": "Accounting Profession Act, B.E. 2547 (2004)",
+   "th": "พระราชบัญญัติวิชาชีพบัญชี พ.ศ. 2547",
+   "vi": "Luật Nghề Kế toán năm 2004",
+   "id": "Undang-Undang Profesi Akuntan Tahun 2004",
+   "ms": "Akta Profesion Perakaunan 2004"
+  },
+  "TH-H1183": {
+   "zh": "医学技术职业法（佛历2547年／2004）",
+   "en": "Medical Technology Profession Act, B.E. 2547 (2004)",
+   "th": "พระราชบัญญัติวิชาชีพเทคนิคการแพทย์ พ.ศ. 2547",
+   "vi": "Luật Nghề Kỹ thuật Y học năm 2004",
+   "id": "Undang-Undang Profesi Teknologi Medis Tahun 2004",
+   "ms": "Akta Profesion Teknologi Perubatan 2004"
+  },
+  "TH-H1184": {
+   "zh": "多式联运法（佛历2548年／2005）",
+   "en": "Multimodal Transport Act, B.E. 2548 (2005)",
+   "th": "พระราชบัญญัติการขนส่งต่อเนื่องหลายรูปแบบ พ.ศ. 2548",
+   "vi": "Luật Vận tải Đa phương thức năm 2005",
+   "id": "Undang-Undang Pengangkutan Multimoda Tahun 2005",
+   "ms": "Akta Pengangkutan Multimod 2005"
+  },
+  "TH-H1185": {
+   "zh": "CD 制品生产法（佛历2548年／2005）",
+   "en": "Manufacture of CD Products Act, B.E. 2548 (2005)",
+   "th": "พระราชบัญญัติการผลิตผลิตภัณฑ์ซีดี พ.ศ. 2548",
+   "vi": "Luật Sản xuất Sản phẩm CD năm 2005",
+   "id": "Undang-Undang Produksi Produk CD Tahun 2005",
+   "ms": "Akta Pengeluaran Produk CD 2005"
+  },
+  "TH-H1186": {
+   "zh": "体育学院法（佛历2548年／2005）",
+   "en": "Institute of Physical Education Act, B.E. 2548 (2005)",
+   "th": "พระราชบัญญัติสถาบันการพลศึกษา พ.ศ. 2548",
+   "vi": "Luật Học viện Giáo dục Thể chất năm 2005",
+   "id": "Undang-Undang Institut Pendidikan Jasmani Tahun 2005",
+   "ms": "Akta Institut Pendidikan Jasmani 2005"
+  },
+  "TH-H1187": {
+   "zh": "社区企业促进法（佛历2548年／2005）",
+   "en": "Promotion of Community Enterprises Act, B.E. 2548 (2005)",
+   "th": "พระราชบัญญัติส่งเสริมวิสาหกิจชุมชน พ.ศ. 2548",
+   "vi": "Luật Thúc đẩy Doanh nghiệp Cộng đồng năm 2005",
+   "id": "Undang-Undang Pemberdayaan Usaha Masyarakat Tahun 2005",
+   "ms": "Akta Penggalakan Perusahaan Komuniti 2005"
+  },
+  "TH-H1188": {
+   "zh": "能源经营法（佛历2550年／2007）",
+   "en": "Energy Business Operations Act, B.E. 2550 (2007)",
+   "th": "พระราชบัญญัติการประกอบกิจการพลังงาน พ.ศ. 2550",
+   "vi": "Luật Kinh doanh Năng lượng năm 2007",
+   "id": "Undang-Undang Penyelenggaraan Usaha Energi Tahun 2007",
+   "ms": "Akta Pengendalian Perniagaan Tenaga 2007"
+  },
+  "TH-H1190": {
+   "zh": "政党组织法（佛历2550年／2007）",
+   "en": "Political Parties Organic Act, B.E. 2550 (2007)",
+   "th": "พระราชบัญญัติประกอบรัฐธรรมนูญว่าด้วยพรรคการเมือง พ.ศ. 2550",
+   "vi": "Luật Tổ chức Đảng Chính trị năm 2007",
+   "id": "Undang-Undang Organik Partai Politik Tahun 2007",
+   "ms": "Akta Organik Parti Politik 2007"
+  },
+  "TH-H1192": {
+   "zh": "艺术发展学院法（佛历2550年／2007）",
+   "en": "Bunditpatanasilpa Institute Act, B.E. 2550 (2007)",
+   "th": "พระราชบัญญัติสถาบันบัณฑิตพัฒนศิลป์ พ.ศ. 2550",
+   "vi": "Luật Học viện Bunditpatanasilpa năm 2007",
+   "id": "Undang-Undang Institut Bunditpatanasilpa Tahun 2007",
+   "ms": "Akta Institut Bunditpatanasilpa 2007"
+  },
+  "TH-H1194": {
+   "zh": "私营武器制造厂法（佛历2550年／2007）",
+   "en": "Private Arms Manufacturing Plants Act, B.E. 2550 (2007)",
+   "th": "พระราชบัญญัติโรงงานผลิตอาวุธของเอกชน พ.ศ. 2550",
+   "vi": "Luật Nhà máy Sản xuất Vũ khí Tư nhân năm 2007",
+   "id": "Undang-Undang Pabrik Senjata Swasta Tahun 2007",
+   "ms": "Akta Kilang Senjata Persendirian 2007"
+  },
+  "TH-H1195": {
+   "zh": "卫生部常务秘书办公室部分职权与行政事务移交诗纳卡宁威洛大学法（佛历2550年／2007）",
+   "en": "Transfer of Certain Powers and Administrative Functions of the Office of the Permanent Secretary, Ministry of Public Health, to Srinakharinwirot University Act, B.E. 2550 (2007)",
+   "th": "พระราชบัญญัติโอนอำนาจหน้าที่และกิจการบริหารบางส่วนของสำนักงานปลัดกระทรวง กระทรวงสาธารณสุข ไปเป็นของมหาวิทยาลัยศรีนครินทรวิโรฒ กระทรวงศึกษาธิการ พ.ศ. 2550",
+   "vi": "Luật Chuyển giao một phần thẩm quyền và công việc hành chính của Văn phòng Thứ trưởng Thường trực Bộ Y tế cho Đại học Srinakharinwirot năm 2007",
+   "id": "Undang-Undang Pengalihan Sebagian Wewenang dan Urusan Administrasi Sekretariat Kementerian Kesehatan kepada Universitas Srinakharinwirot Tahun 2007",
+   "ms": "Akta Pemindahan Sebahagian Kuasa dan Urusan Pentadbiran Pejabat Setiausaha Tetap Kementerian Kesihatan kepada Universiti Srinakharinwirot 2007"
+  },
+  "TH-H1196": {
+   "zh": "残疾人教育管理法（佛历2551年／2008）",
+   "en": "Education Management for Persons with Disabilities Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติการจัดการศึกษาสำหรับคนพิการ พ.ศ. 2551",
+   "vi": "Luật Quản lý Giáo dục cho Người khuyết tật năm 2008",
+   "id": "Undang-Undang Penyelenggaraan Pendidikan bagi Penyandang Disabilitas Tahun 2008",
+   "ms": "Akta Pengurusan Pendidikan bagi Orang Kurang Upaya 2008"
+  },
+  "TH-H1197": {
+   "zh": "泰国高速公路管理局法（佛历2550年／2007）",
+   "en": "Expressway Authority of Thailand Act, B.E. 2550 (2007)",
+   "th": "พระราชบัญญัติการทางพิเศษแห่งประเทศไทย พ.ศ. 2550",
+   "vi": "Luật Cơ quan Đường cao tốc Thái Lan năm 2007",
+   "id": "Undang-Undang Otoritas Jalan Tol Thailand Tahun 2007",
+   "ms": "Akta Pihak Berkuasa Lebuh Raya Thailand 2007"
+  },
+  "TH-H1198": {
+   "zh": "国家标准化法（佛历2551年／2008）",
+   "en": "National Standardisation Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติการมาตรฐานแห่งชาติ พ.ศ. 2551",
+   "vi": "Luật Tiêu chuẩn hóa Quốc gia năm 2008",
+   "id": "Undang-Undang Standardisasi Nasional Tahun 2008",
+   "ms": "Akta Pemiawaian Kebangsaan 2008"
+  },
+  "TH-H1199": {
+   "zh": "酒精饮料管制法（佛历2551年／2008）",
+   "en": "Control of Alcoholic Beverages Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติควบคุมเครื่องดื่มแอลกอฮอล์ พ.ศ. 2551",
+   "vi": "Luật Kiểm soát Đồ uống Có cồn năm 2008",
+   "id": "Undang-Undang Pengendalian Minuman Beralkohol Tahun 2008",
+   "ms": "Akta Kawalan Minuman Beralkohol 2008"
+  },
+  "TH-H1200": {
+   "zh": "亚洲太平洋邮政联盟总部运作保护法（佛历2551年／2008）",
+   "en": "Protection of the Operations of the Headquarters of the Asia-Pacific Postal Union Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติคุ้มครองการดำเนินงานของสำนักงานใหญ่ของสหภาพไปรษณีย์แห่งเอเชียและแปซิฟิก พ.ศ. 2551",
+   "vi": "Luật Bảo vệ Hoạt động của Trụ sở Liên minh Bưu chính Châu Á - Thái Bình Dương năm 2008",
+   "id": "Undang-Undang Perlindungan Penyelenggaraan Markas Uni Pos Asia-Pasifik Tahun 2008",
+   "ms": "Akta Perlindungan Operasi Ibu Pejabat Kesatuan Pos Asia-Pasifik 2008"
+  },
+  "TH-H1201": {
+   "zh": "化石保护法（佛历2551年／2008）",
+   "en": "Protection of Fossils Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติคุ้มครองซากดึกดำบรรพ์ พ.ศ. 2551",
+   "vi": "Luật Bảo vệ Hóa thạch năm 2008",
+   "id": "Undang-Undang Perlindungan Fosil Tahun 2008",
+   "ms": "Akta Perlindungan Fosil 2008"
+  },
+  "TH-H1202": {
+   "zh": "国防部行政管理组织法（佛历2551年／2008）",
+   "en": "Organisation of the Ministry of Defence Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติจัดระเบียบราชการกระทรวงกลาโหม พ.ศ. 2551",
+   "vi": "Luật Tổ chức Hành chính Bộ Quốc phòng năm 2008",
+   "id": "Undang-Undang Organisasi Administrasi Kementerian Pertahanan Tahun 2008",
+   "ms": "Akta Organisasi Pentadbiran Kementerian Pertahanan 2008"
+  },
+  "TH-H1203": {
+   "zh": "资本市场交易信托法（佛历2550年／2007）",
+   "en": "Trusts for Capital Market Transactions Act, B.E. 2550 (2007)",
+   "th": "พระราชบัญญัติทรัสต์เพื่อธุรกรรมในตลาดทุน พ.ศ. 2550",
+   "vi": "Luật Tín thác cho Giao dịch trên Thị trường Vốn năm 2007",
+   "id": "Undang-Undang Perwalian untuk Transaksi di Pasar Modal Tahun 2007",
+   "ms": "Akta Amanah untuk Transaksi di Pasaran Modal 2007"
+  },
+  "TH-H1204": {
+   "zh": "旅游业务与导游法（佛历2551年／2008）",
+   "en": "Tour Business and Tour Guides Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติธุรกิจนำเที่ยวและมัคคุเทศก์ พ.ศ. 2551",
+   "vi": "Luật Kinh doanh Lữ hành và Hướng dẫn viên năm 2008",
+   "id": "Undang-Undang Usaha Perjalanan Wisata dan Pemandu Wisata Tahun 2008",
+   "ms": "Akta Perniagaan Pelancongan dan Pemandu Pelancong 2008"
+  },
+  "TH-H1205": {
+   "zh": "金融机构业务法（佛历2551年／2008）",
+   "en": "Financial Institution Business Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติธุรกิจสถาบันการเงิน พ.ศ. 2551",
+   "vi": "Luật Kinh doanh của Tổ chức Tín dụng năm 2008",
+   "id": "Undang-Undang Usaha Lembaga Keuangan Tahun 2008",
+   "ms": "Akta Perniagaan Institusi Kewangan 2008"
+  },
+  "TH-H1206": {
+   "zh": "农产品标准法（佛历2551年／2008）",
+   "en": "Agricultural Commodity Standards Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติมาตรฐานสินค้าเกษตร พ.ศ. 2551",
+   "vi": "Luật Tiêu chuẩn Nông sản năm 2008",
+   "id": "Undang-Undang Standar Komoditas Pertanian Tahun 2008",
+   "ms": "Akta Piawaian Komoditi Pertanian 2008"
+  },
+  "TH-H1207": {
+   "zh": "公务员管理法（佛历2551年／2008）",
+   "en": "Civil Service Regulations Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติระเบียบข้าราชการพลเรือน พ.ศ. 2551",
+   "vi": "Luật Quy chế Công chức năm 2008",
+   "id": "Undang-Undang Peraturan Kepegawaian Negeri Tahun 2008",
+   "ms": "Akta Peraturan Perkhidmatan Awam 2008"
+  },
+  "TH-H1209": {
+   "zh": "消费者案件审理程序法（佛历2551年／2008）",
+   "en": "Procedure for Consumer Cases Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติวิธีพิจารณาคดีผู้บริโภค พ.ศ. 2551",
+   "vi": "Luật Thủ tục Giải quyết Vụ án Người tiêu dùng năm 2008",
+   "id": "Undang-Undang Hukum Acara Perkara Konsumen Tahun 2008",
+   "ms": "Akta Prosedur Kes Pengguna 2008"
+  },
+  "TH-H1210": {
+   "zh": "毒品案件审理程序法（佛历2550年／2007）",
+   "en": "Procedure for Narcotics Cases Act, B.E. 2550 (2007)",
+   "th": "พระราชบัญญัติวิธีพิจารณาคดียาเสพติด พ.ศ. 2550",
+   "vi": "Luật Thủ tục Giải quyết Vụ án Ma túy năm 2007",
+   "id": "Undang-Undang Hukum Acara Perkara Narkotika Tahun 2007",
+   "ms": "Akta Prosedur Kes Dadah 2007"
+  },
+  "TH-H1211": {
+   "zh": "国家科学技术与创新法（佛历2551年／2008）",
+   "en": "National Science, Technology and Innovation Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติว่าด้วยวิทยาศาสตร์ เทคโนโลยีและนวัตกรรมแห่งชาติ พ.ศ. 2551",
+   "vi": "Luật Khoa học, Công nghệ và Đổi mới Sáng tạo Quốc gia năm 2008",
+   "id": "Undang-Undang Ilmu Pengetahuan, Teknologi dan Inovasi Nasional Tahun 2008",
+   "ms": "Akta Sains, Teknologi dan Inovasi Kebangsaan 2008"
+  },
+  "TH-H1212": {
+   "zh": "医疗器械法（佛历2551年／2008）",
+   "en": "Medical Devices Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติเครื่องมือแพทย์ พ.ศ. 2551",
+   "vi": "Luật Trang thiết bị Y tế năm 2008",
+   "id": "Undang-Undang Alat Kesehatan Tahun 2008",
+   "ms": "Akta Peranti Perubatan 2008"
+  },
+  "TH-H1213": {
+   "zh": "学生制服法（佛历2551年／2008）",
+   "en": "Student Uniforms Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติเครื่องแบบนักเรียน พ.ศ. 2551",
+   "vi": "Luật Đồng phục Học sinh năm 2008",
+   "id": "Undang-Undang Seragam Pelajar Tahun 2008",
+   "ms": "Akta Pakaian Seragam Pelajar 2008"
+  },
+  "TH-H1214": {
+   "zh": "警察士官学校法（佛历2551年／2008）",
+   "en": "Police Cadet Academy Act, B.E. 2551 (2008)",
+   "th": "พระราชบัญญัติโรงเรียนนายร้อยตำรวจ พ.ศ. 2551",
+   "vi": "Luật Trường Sĩ quan Cảnh sát năm 2008",
+   "id": "Undang-Undang Akademi Perwira Polisi Tahun 2008",
+   "ms": "Akta Akademi Kadet Polis 2008"
+  },
+  "TH-H1216": {
+   "zh": "检察官公务员管理法（佛历2553年／2010）",
+   "en": "Public Prosecutor Service Regulations Act, B.E. 2553 (2010)",
+   "th": "พระราชบัญญัติระเบียบข้าราชการฝ่ายอัยการ พ.ศ. 2553",
+   "vi": "Luật Quy chế Công chức Ngành Kiểm sát năm 2010",
+   "id": "Undang-Undang Peraturan Kepegawaian Jaksa Tahun 2010",
+   "ms": "Akta Peraturan Perkhidmatan Pendakwa Raya 2010"
+  },
+  "TH-H1218": {
+   "zh": "频率分配与广播、电视及电信业务监管机构法（佛历2553年／2010）",
+   "en": "National Broadcasting and Telecommunications Commission Act, B.E. 2553 (2010)",
+   "th": "พระราชบัญญัติองค์กรจัดสรรคลื่นความถี่และกำกับการประกอบกิจการวิทยุกระจายเสียง วิทยุโทรทัศน์ และกิจการโทรคมนาคม พ.ศ. 2553",
+   "vi": "Luật Ủy ban Phát thanh, Truyền hình và Viễn thông Quốc gia năm 2010",
+   "id": "Undang-Undang Komisi Penyiaran dan Telekomunikasi Nasional Tahun 2010",
+   "ms": "Akta Suruhanjaya Penyiaran dan Telekomunikasi Kebangsaan 2010"
+  },
+  "TH-H1219": {
+   "zh": "职业安全卫生与工作环境法（佛历2554年／2011）",
+   "en": "Occupational Safety, Health and Working Environment Act, B.E. 2554 (2011)",
+   "th": "พระราชบัญญัติความปลอดภัย อาชีวอนามัย และสภาพแวดล้อมในการทำงาน พ.ศ. 2554",
+   "vi": "Luật An toàn, Vệ sinh Lao động và Môi trường Làm việc năm 2011",
+   "id": "Undang-Undang Keselamatan, Kesehatan Kerja dan Lingkungan Kerja Tahun 2011",
+   "ms": "Akta Keselamatan, Kesihatan Pekerjaan dan Persekitaran Kerja 2011"
+  },
+  "TH-H1221": {
+   "zh": "国家档案馆法（佛历2556年／2013）",
+   "en": "National Archives Act, B.E. 2556 (2013)",
+   "th": "พระราชบัญญัติจดหมายเหตุแห่งชาติ พ.ศ. 2556",
+   "vi": "Luật Lưu trữ Quốc gia năm 2013",
+   "id": "Undang-Undang Arsip Nasional Tahun 2013",
+   "ms": "Akta Arkib Negara 2013"
+  },
+  "TH-H1222": {
+   "zh": "防范与惩治资助恐怖主义法（佛历2556年／2013）",
+   "en": "Prevention and Suppression of Terrorist Financing Act, B.E. 2556 (2013)",
+   "th": "พระราชบัญญัติป้องกันและปราบปรามการสนับสนุนทางการเงินแก่การก่อการร้าย พ.ศ. 2556",
+   "vi": "Luật Phòng ngừa và Trấn áp Tài trợ Khủng bố năm 2013",
+   "id": "Undang-Undang Pencegahan dan Pemberantasan Pendanaan Terorisme Tahun 2013",
+   "ms": "Akta Pencegahan dan Pembanterasan Pembiayaan Keganasan 2013"
+  },
+  "TH-H1223": {
+   "zh": "社区公共卫生职业法（佛历2556年／2013）",
+   "en": "Community Public Health Profession Act, B.E. 2556 (2013)",
+   "th": "พระราชบัญญัติวิชาชีพการสาธารณสุขชุมชน พ.ศ. 2556",
+   "vi": "Luật Nghề Y tế Công cộng Cộng đồng năm 2013",
+   "id": "Undang-Undang Profesi Kesehatan Masyarakat Tahun 2013",
+   "ms": "Akta Profesion Kesihatan Awam Komuniti 2013"
+  },
+  "TH-H1224": {
+   "zh": "泰式传统医学职业法（佛历2556年／2013）",
+   "en": "Traditional Thai Medicine Profession Act, B.E. 2556 (2013)",
+   "th": "พระราชบัญญัติวิชาชีพการแพทย์แผนไทย พ.ศ. 2556",
+   "vi": "Luật Nghề Y học Cổ truyền Thái năm 2013",
+   "id": "Undang-Undang Profesi Pengobatan Tradisional Thai Tahun 2013",
+   "ms": "Akta Profesion Perubatan Tradisional Thai 2013"
+  },
+  "TH-H1302": {
+   "zh": "政党组织法（佛历2541年／1998）",
+   "en": "Political Parties Organic Act, B.E. 2541 (1998)",
+   "th": "พระราชบัญญัติประกอบรัฐธรรมนูญว่าด้วยพรรคการเมือง พ.ศ. 2541",
+   "vi": "Luật Tổ chức Đảng Chính trị năm 1998",
+   "id": "Undang-Undang Organik Partai Politik Tahun 1998",
+   "ms": "Akta Organik Parti Politik 1998"
+  },
+  "TH-H1373": {
+   "zh": "国家审计组织法（佛历2561年／2018）",
+   "en": "State Audit Organic Act, B.E. 2561 (2018)",
+   "th": "พระราชบัญญัติประกอบรัฐธรรมนูญ ว่าด้วยการตรวจเงินแผ่นดิน พ.ศ. 2561",
+   "vi": "Luật Tổ chức Kiểm toán Nhà nước năm 2018",
+   "id": "Undang-Undang Organik Audit Negara Tahun 2018",
+   "ms": "Akta Organik Audit Negara 2018"
+  }
+ }
+}

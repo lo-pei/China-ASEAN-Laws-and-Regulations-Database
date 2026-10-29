@@ -1,0 +1,30 @@
+﻿python.exe : C:\Users\lenovo\OneDrive\Desktop\China–ASEAN Laws and Regulations Database\_work\id\dom3.py:16: FutureWarn
+ing: Truth-testing of elements was a source of confusion and will always return True in future versions. Use specific '
+len(elem)' or 'elem is not None' test instead.
+所在位置 行:1 字符: 221
++ ... ncies\python\python.exe"; & $py -X utf8 _work/id/dom3.py 2>&1 | Out-F ...
++                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\Users\lenovo...' test instead.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  art = art or (doc.xpath('//*[@id="%s"]' % pid) or [None])[0]
+==========================================================================================
+ARTICLE pasal-1
+  <span class='block scroll-mt-20'> len=0 :: 
+  <template class=''> len=0 :: 
+  <template class=''> len=0 :: 
+  <template class=''> len=0 :: 
+  <template class=''> len=0 :: 
+  <template class=''> len=0 :: 
+==========================================================================================
+ARTICLE pasal-3
+  <span class='block scroll-mt-20'> len=0 :: 
+  <div class='flex items-center justify-between mb-2'> len=18 :: Pasal 3TautanSalin
+  <div class='space-y-3'> len=873 :: (1) Penanaman modal diselenggarakan berdasarkan asas: a. kepastian hukum; b. keterbukaan; c. akuntabilitas; d. perlakuan yang sama dan tidak membedakan asal negara; e. kebersamaan; f. efisiensi berkea
+  <div class='mt-2'> len=10 :: Penjelasan
+==========================================================================================
+ARTICLE pasal-18
+  <span class='block scroll-mt-20'> len=0 :: 
+  <div class='flex items-center justify-between mb-2'> len=19 :: Pasal 18TautanSalin
+  <div class='space-y-3'> len=2287 :: (1) Pemerintah memberikan fasilitas kepada penanam modal yang melakukan penanaman modal.(2) Fasilitas penanaman modal sebagaimana dimaksud pada ayat (1) dapat diberikan kepada penanaman modal yang: a.
+  <div class='mt-2'> len=10 :: Penjelasan

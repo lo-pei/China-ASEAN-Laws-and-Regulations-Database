@@ -1,0 +1,1400 @@
+{
+ "batch": "my-p3-b05",
+ "scope": "MY 附属法规（P.U.(A)）· 术语表组装 · 主体 395 个 / 括号 601 条",
+ "generatedFrom": "_work/title-multi/engine/gen_my.js",
+ "items": {
+  "MY-H1072": {
+   "zh": "2012年民都鲁港务局（招标与合同）（废止）附例",
+   "vi": "Quy chế về Cục Cảng Bintulu (Đấu thầu và hợp đồng) (Bãi bỏ) năm 2012",
+   "th": "ข้อบัญญัติการท่าเรือบินตูลู (การประมูลและสัญญา) (การเพิกถอน) ค.ศ. 2012",
+   "id": "Peraturan Daerah Otoritas Pelabuhan Bintulu (Tender dan Kontrak) (Pencabutan) Tahun 2012",
+   "ms": "Undang-Undang Kecil Lembaga Pelabuhan Bintulu (Tender dan Kontrak) (Pembatalan) 2012"
+  },
+  "MY-H1095": {
+   "zh": "2021年货币（登记要求）令",
+   "vi": "Lệnh về Tiền tệ (Yêu cầu đăng ký) năm 2021",
+   "th": "คำสั่งเงินตรา (ข้อกำหนดการขึ้นทะเบียน) ค.ศ. 2021",
+   "id": "Perintah Mata Uang (Persyaratan Registrasi) Tahun 2021",
+   "ms": "Perintah Mata Wang (Keperluan Pendaftaran) 2021"
+  },
+  "MY-H1103": {
+   "zh": "2012年贷款担保（法人团体宣告）（柔佛机构）令",
+   "vi": "Lệnh về Bảo lãnh khoản vay (Tuyên bố pháp nhân) (Tổng công ty Johor) năm 2012",
+   "th": "คำสั่งการค้ำประกันเงินกู้ (การประกาศนิติบุคคล) (องค์การยะโฮร์) ค.ศ. 2012",
+   "id": "Perintah Jaminan Pinjaman (Penetapan Badan Hukum) (Perusahaan Johor) Tahun 2012",
+   "ms": "Perintah Jaminan Pinjaman (Pengisytiharan Badan Korporat) (Perbadanan Johor) 2012"
+  },
+  "MY-H1105": {
+   "zh": "2014年工厂与机械（豁免 FPG OLEOCHEMICALS 私人有限公司（彭亨关丹））令",
+   "vi": "Lệnh về Nhà máy và máy móc (Miễn trừ cho FPG OLEOCHEMICALS Sdn. Bhd., Kuantan, Pahang) năm 2014",
+   "th": "คำสั่งโรงงานและเครื่องจักร (การยกเว้นให้ FPG OLEOCHEMICALS Sdn. Bhd., กวนตัน, ปะหัง) ค.ศ. 2014",
+   "id": "Perintah Pabrik dan Mesin (Pembebasan bagi FPG OLEOCHEMICALS Sdn. Bhd., Kuantan, Pahang) Tahun 2014",
+   "ms": "Perintah Kilang dan Jentera (Pengecualian kepada FPG OLEOCHEMICALS Sdn. Bhd., Kuantan, Pahang) 2014"
+  },
+  "MY-H1108": {
+   "zh": "2017年马来西亚存款保险机构（确定回教保险缴款与保费退还金额的依据）令",
+   "vi": "Lệnh về Tổng công ty Bảo hiểm Tiền gửi Malaysia (Căn cứ xác định số tiền hoàn trả khoản đóng góp và phí takaful) năm 2017",
+   "th": "คำสั่งองค์การประกันเงินฝากมาเลเซีย (เกณฑ์การกำหนดจำนวนเงินคืนสำหรับเงินสมทบและเบี้ยประกันตาคาฟุล) ค.ศ. 2017",
+   "id": "Perintah Lembaga Penjamin Simpanan Malaysia (Dasar Penetapan Jumlah Pengembalian Iuran dan Premi Takaful) Tahun 2017",
+   "ms": "Perintah Perbadanan Insurans Deposit Malaysia (Asas Penentuan Jumlah Bayaran Balik Caruman dan Premium Takaful) 2017"
+  },
+  "MY-H1118": {
+   "zh": "2014年工厂与机械（豁免 PETRON MALAYSIA REFINING & MARKETING 有限公司（森美兰波德申））令",
+   "vi": "Lệnh về Nhà máy và máy móc (Miễn trừ cho PETRON MALAYSIA REFINING & MARKETING Berhad, Port Dickson, Negeri Sembilan) năm 2014",
+   "th": "คำสั่งโรงงานและเครื่องจักร (การยกเว้นให้ PETRON MALAYSIA REFINING & MARKETING Berhad, พอร์ตดิกสัน, เนอเกอรีเซิมบีลัน) ค.ศ. 2014",
+   "id": "Perintah Pabrik dan Mesin (Pembebasan bagi PETRON MALAYSIA REFINING & MARKETING Berhad, Port Dickson, Negeri Sembilan) Tahun 2014",
+   "ms": "Perintah Kilang dan Jentera (Pengecualian kepada PETRON MALAYSIA REFINING & MARKETING Berhad, Port Dickson, Negeri Sembilan) 2014"
+  },
+  "MY-H1151": {
+   "zh": "2020年马来西亚存款保险机构（收受存款会员年度保费缴纳）（废止）令",
+   "vi": "Lệnh về Tổng công ty Bảo hiểm Tiền gửi Malaysia (Nộp phí bảo hiểm hằng năm đối với thành viên nhận tiền gửi) (Bãi bỏ) năm 2020",
+   "th": "คำสั่งองค์การประกันเงินฝากมาเลเซีย (การชำระเบี้ยประกันรายปีสำหรับสมาชิกผู้รับเงินฝาก) (การเพิกถอน) ค.ศ. 2020",
+   "id": "Perintah Lembaga Penjamin Simpanan Malaysia (Pembayaran Premi Tahunan bagi Anggota Penghimpun Dana) (Pencabutan) Tahun 2020",
+   "ms": "Perintah Perbadanan Insurans Deposit Malaysia (Pembayaran Premium Tahunan bagi Anggota Pengambil Deposit) (Pembatalan) 2020"
+  },
+  "MY-H1161": {
+   "zh": "2014年工厂与机械（豁免 PETRONAS GAS 有限公司（登嘉楼巴卡 B 综合区第5天然气处理厂））令",
+   "vi": "Lệnh về Nhà máy và máy móc (Miễn trừ cho PETRONAS GAS Berhad đối với Nhà máy Xử lý Khí 5, Khu phức hợp B, Paka, Terengganu) năm 2014",
+   "th": "คำสั่งโรงงานและเครื่องจักร (การยกเว้นให้ PETRONAS GAS Berhad สำหรับโรงงานแปรรูปก๊าซ 5, ศูนย์รวม B, ปากา, ตรังกานู) ค.ศ. 2014",
+   "id": "Perintah Pabrik dan Mesin (Pembebasan bagi PETRONAS GAS Berhad atas Pabrik Pengolahan Gas 5, Kompleks B, Paka, Terengganu) Tahun 2014",
+   "ms": "Perintah Kilang dan Jentera (Pengecualian kepada PETRONAS GAS Berhad bagi Loji Pemprosesan Gas 5, Kompleks B, Paka, Terengganu) 2014"
+  },
+  "MY-H1175": {
+   "zh": "2014年工厂与机械（豁免 PETRONAS GAS 有限公司（彭亨关丹集中公用设施））令",
+   "vi": "Lệnh về Nhà máy và máy móc (Miễn trừ cho PETRONAS GAS Berhad, Cơ sở tiện ích tập trung, Kuantan, Pahang) năm 2014",
+   "th": "คำสั่งโรงงานและเครื่องจักร (การยกเว้นให้ PETRONAS GAS Berhad, สาธารณูปโภคส่วนกลาง, กวนตัน, ปะหัง) ค.ศ. 2014",
+   "id": "Perintah Pabrik dan Mesin (Pembebasan bagi PETRONAS GAS Berhad, Fasilitas Utilitas Terpusat, Kuantan, Pahang) Tahun 2014",
+   "ms": "Perintah Kilang dan Jentera (Pengecualian kepada PETRONAS GAS Berhad, Kemudahan Utiliti Berpusat, Kuantan, Pahang) 2014"
+  },
+  "MY-H1188": {
+   "zh": "1982年法律修订（《1952年收养登记法》）令",
+   "vi": "Lệnh về Rà soát pháp luật (Luật Đăng ký Nuôi con nuôi 1952) năm 1982",
+   "th": "คำสั่งการปรับปรุงกฎหมาย (พระราชบัญญัติการขึ้นทะเบียนการรับบุตรบุญธรรม ค.ศ. 1952) ค.ศ. 1982",
+   "id": "Perintah Revisi Peraturan (Undang-Undang Registrasi Adopsi 1952) Tahun 1982",
+   "ms": "Perintah Semakan Undang-Undang (Akta Pendaftaran Pengangkatan 1952) 1982"
+  },
+  "MY-H1192": {
+   "zh": "2017年资本市场与服务（附表2及3修正）令",
+   "vi": "Lệnh về Thị trường vốn và dịch vụ (Sửa đổi Phụ lục 2 và 3) năm 2017",
+   "th": "คำสั่งตลาดทุนและบริการ (การแก้ไขตารางที่ 2 และ 3) ค.ศ. 2017",
+   "id": "Perintah Pasar Modal dan Jasa (Perubahan Lampiran 2 dan 3) Tahun 2017",
+   "ms": "Perintah Pasaran Modal dan Perkhidmatan (Pindaan Jadual 2 dan 3) 2017"
+  },
+  "MY-H1206": {
+   "zh": "2018年价格管制与反暴利（最高价格核定）（第2号）令",
+   "vi": "Lệnh về Kiểm soát giá và chống trục lợi (Xác định giá tối đa) (số 2) năm 2018",
+   "th": "คำสั่งการควบคุมราคาและการต่อต้านการฉวยโอกาส (การกำหนดราคาสูงสุด) (ฉบับที่ 2) ค.ศ. 2018",
+   "id": "Perintah Pengendalian Harga dan Anti-Pencatutan (Penetapan Harga Maksimum) (Nomor 2) Tahun 2018",
+   "ms": "Perintah Kawalan Harga dan Anti-Pencatutan (Penetapan Harga Maksimum) (Bilangan 2) 2018"
+  },
+  "MY-H1210": {
+   "zh": "2022年马来西亚存款保险机构（提供回教保险与保险利益保障信息）条例",
+   "vi": "Quy định về Tổng công ty Bảo hiểm Tiền gửi Malaysia (Cung cấp thông tin về bảo vệ quyền lợi takaful và bảo hiểm) năm 2022",
+   "th": "ข้อบังคับองค์การประกันเงินฝากมาเลเซีย (การให้ข้อมูลเกี่ยวกับการคุ้มครองสิทธิประโยชน์ตาคาฟุลและการประกันภัย) ค.ศ. 2022",
+   "id": "Peraturan Lembaga Penjamin Simpanan Malaysia (Penyediaan Informasi tentang Perlindungan Manfaat Takaful dan Asuransi) Tahun 2022",
+   "ms": "Peraturan Perbadanan Insurans Deposit Malaysia (Peruntukan Maklumat tentang Perlindungan Faedah Takaful dan Insurans) 2022"
+  },
+  "MY-H1215": {
+   "zh": "2012年马来西亚存款保险机构（逾期收费）条例",
+   "vi": "Quy định về Tổng công ty Bảo hiểm Tiền gửi Malaysia (Phí quá hạn) năm 2012",
+   "th": "ข้อบังคับองค์การประกันเงินฝากมาเลเซีย (ค่าบริการค้างชำระ) ค.ศ. 2012",
+   "id": "Peraturan Lembaga Penjamin Simpanan Malaysia (Biaya Terlambat) Tahun 2012",
+   "ms": "Peraturan Perbadanan Insurans Deposit Malaysia (Caj Tertunggak) 2012"
+  },
+  "MY-H1238": {
+   "zh": "2021年合作社（接管 KOPERASI SERBAUSAHA MAKMUR BERHAD）（委任）令",
+   "vi": "Lệnh về Hợp tác xã (Tiếp nhận kiểm soát KOPERASI SERBAUSAHA MAKMUR BERHAD) (Bổ nhiệm) năm 2021",
+   "th": "คำสั่งสหกรณ์ (การเข้าควบคุม KOPERASI SERBAUSAHA MAKMUR BERHAD) (การแต่งตั้ง) ค.ศ. 2021",
+   "id": "Perintah Koperasi (Pengambilalihan Pengendalian KOPERASI SERBAUSAHA MAKMUR BERHAD) (Pengangkatan) Tahun 2021",
+   "ms": "Perintah Koperasi (Pengambilalihan Kawalan KOPERASI SERBAUSAHA MAKMUR BERHAD) (Pelantikan) 2021"
+  },
+  "MY-H1239": {
+   "zh": "2022年特许经营（特许经营经纪资格）（修正）条例",
+   "vi": "Quy định về Nhượng quyền thương mại (Điều kiện của nhà môi giới nhượng quyền) (Sửa đổi) năm 2022",
+   "th": "ข้อบังคับแฟรนไชส์ (คุณสมบัติของนายหน้าธุรกิจแฟรนไชส์) (การแก้ไข) ค.ศ. 2022",
+   "id": "Peraturan Waralaba (Kualifikasi Pialang Waralaba) (Perubahan) Tahun 2022",
+   "ms": "Peraturan Francais (Kelayakan Broker Francais) (Pindaan) 2022"
+  },
+  "MY-H1248": {
+   "zh": "2016年工厂与机械（豁免 PETRONAS CHEMICALS GLYCOLS 私人有限公司（登嘉楼吉利地））令",
+   "vi": "Lệnh về Nhà máy và máy móc (Miễn trừ cho PETRONAS CHEMICALS GLYCOLS Sdn. Bhd., Kertih, Terengganu) năm 2016",
+   "th": "คำสั่งโรงงานและเครื่องจักร (การยกเว้นให้ PETRONAS CHEMICALS GLYCOLS Sdn. Bhd., เกอติห์, ตรังกานู) ค.ศ. 2016",
+   "id": "Perintah Pabrik dan Mesin (Pembebasan bagi PETRONAS CHEMICALS GLYCOLS Sdn. Bhd., Kertih, Terengganu) Tahun 2016",
+   "ms": "Perintah Kilang dan Jentera (Pengecualian kepada PETRONAS CHEMICALS GLYCOLS Sdn. Bhd., Kertih, Terengganu) 2016"
+  },
+  "MY-H1260": {
+   "zh": "2013年野生动物保护（展览）条例",
+   "vi": "Quy định về Bảo tồn động vật hoang dã (Triển lãm) năm 2013",
+   "th": "ข้อบังคับการอนุรักษ์สัตว์ป่า (การจัดแสดงสินค้า) ค.ศ. 2013",
+   "id": "Peraturan Konservasi Satwa Liar (Pameran) Tahun 2013",
+   "ms": "Peraturan Pemuliharaan Hidupan Liar (Pameran) 2013"
+  },
+  "MY-H1264": {
+   "zh": "2017年马来西亚国家银行（订明金融机构）令",
+   "vi": "Lệnh về Ngân hàng Trung ương Malaysia (Tổ chức tài chính được quy định) năm 2017",
+   "th": "คำสั่งธนาคารกลางมาเลเซีย (สถาบันการเงินที่กำหนด) ค.ศ. 2017",
+   "id": "Perintah Bank Sentral Malaysia (Lembaga Keuangan yang Ditetapkan) Tahun 2017",
+   "ms": "Perintah Bank Negara Malaysia (Institusi Kewangan yang Ditetapkan) 2017"
+  },
+  "MY-H1268": {
+   "zh": "2022年特许经营（登记有效期的订明）条例",
+   "vi": "Quy định về Nhượng quyền thương mại (Quy định thời hạn hiệu lực của đăng ký) năm 2022",
+   "th": "ข้อบังคับแฟรนไชส์ (การกำหนดระยะเวลาการมีผลของการขึ้นทะเบียน) ค.ศ. 2022",
+   "id": "Peraturan Waralaba (Penetapan Masa Berlaku Registrasi) Tahun 2022",
+   "ms": "Peraturan Francais (Penetapan Tempoh Keesahan Pendaftaran) 2022"
+  },
+  "MY-H1339": {
+   "zh": "2024年家庭主妇社会保障（附表六修正）令",
+   "vi": "Lệnh về An sinh xã hội cho người nội trợ (Sửa đổi Phụ lục thứ sáu) năm 2024",
+   "th": "คำสั่งความมั่นคงทางสังคมของแม่บ้าน (การแก้ไขตารางที่หก) ค.ศ. 2024",
+   "id": "Perintah Jaminan Sosial Ibu Rumah Tangga (Perubahan Lampiran Keenam) Tahun 2024",
+   "ms": "Perintah Keselamatan Sosial Suri Rumah (Pindaan Jadual Keenam) 2024"
+  },
+  "MY-H1349": {
+   "zh": "2021年司法委任委员会（高级法院法官遴选程序与委任方法）（修正）条例",
+   "vi": "Quy định về Ủy ban Bổ nhiệm Tư pháp (Quy trình tuyển chọn và phương thức bổ nhiệm thẩm phán các tòa án cấp cao) (Sửa đổi) năm 2021",
+   "th": "ข้อบังคับคณะกรรมการแต่งตั้งตุลาการ (กระบวนการคัดเลือกและวิธีการแต่งตั้งผู้พิพากษาศาลชั้นสูง) (การแก้ไข) ค.ศ. 2021",
+   "id": "Peraturan Komisi Pengangkatan Yudisial (Proses Seleksi dan Metode Pengangkatan Hakim Pengadilan Tinggi) (Perubahan) Tahun 2021",
+   "ms": "Peraturan Suruhanjaya Pelantikan Kehakiman (Proses Pemilihan dan Kaedah Pelantikan Hakim Mahkamah Atasan) (Pindaan) 2021"
+  },
+  "MY-H1354": {
+   "zh": "2026年零工工作者（社会保障）条例",
+   "vi": "Quy định về Người lao động tự do (An sinh xã hội) năm 2026",
+   "th": "ข้อบังคับผู้ทำงานอิสระ (ประกันสังคม) ค.ศ. 2026",
+   "id": "Peraturan Pekerja Gig (Jaminan Sosial) Tahun 2026",
+   "ms": "Peraturan Pekerja Gig (Keselamatan Sosial) 2026"
+  },
+  "MY-H1370": {
+   "zh": "2026年零工工作者（零工工作者审裁处）条例",
+   "vi": "Quy định về Người lao động tự do (Tòa án Người lao động tự do) năm 2026",
+   "th": "ข้อบังคับผู้ทำงานอิสระ (คณะตุลาการผู้ทำงานอิสระ) ค.ศ. 2026",
+   "id": "Peraturan Pekerja Gig (Tribunal Pekerja Gig) Tahun 2026",
+   "ms": "Peraturan Pekerja Gig (Tribunal Pekerja Gig) 2026"
+  },
+  "MY-H1379": {
+   "zh": "2020年费用（就业准证、访问准证（临时就业）及工作准证）（费用免除）令",
+   "vi": "Lệnh về Phí (Giấy phép lao động, Giấy phép thăm quan (việc làm tạm thời) và Giấy phép làm việc) (Miễn giảm phí) năm 2020",
+   "th": "คำสั่งค่าธรรมเนียม (ใบอนุญาตจ้างงาน ใบอนุญาตเยี่ยมชม (การจ้างงานชั่วคราว) และใบอนุญาตทำงาน) (การงดเว้นค่าธรรมเนียม) ค.ศ. 2020",
+   "id": "Perintah Biaya (Izin Kerja, Izin Kunjungan (Pekerjaan Sementara) dan Izin Bekerja) (Pembebasan Biaya) Tahun 2020",
+   "ms": "Perintah Fi (Pas Pekerjaan, Pas Lawatan (Pekerjaan Sementara) dan Pas Kerja) (Remisi Fi) 2020"
+  },
+  "MY-H1401": {
+   "zh": "2026年零工工作者（调解程序）条例",
+   "vi": "Quy định về Người lao động tự do (Thủ tục hòa giải) năm 2026",
+   "th": "ข้อบังคับผู้ทำงานอิสระ (กระบวนการประนอมข้อพิพาท) ค.ศ. 2026",
+   "id": "Peraturan Pekerja Gig (Proses Perdamaian) Tahun 2026",
+   "ms": "Peraturan Pekerja Gig (Prosiding Pendamaian) 2026"
+  },
+  "MY-H1402": {
+   "zh": "2004年开发金融机构（国家储蓄银行）（修改）令",
+   "vi": "Lệnh về Tổ chức tài chính phát triển (Ngân hàng Tiết kiệm Quốc gia) (Sửa đổi) năm 2004",
+   "th": "คำสั่งสถาบันการเงินเพื่อการพัฒนา (ธนาคารออมสินแห่งชาติ) (การดัดแปลง) ค.ศ. 2004",
+   "id": "Perintah Lembaga Keuangan Pembangunan (Bank Simpanan Nasional) (Modifikasi) Tahun 2004",
+   "ms": "Perintah Institusi Kewangan Pembangunan (Bank Simpanan Nasional) (Pengubahsuaian) 2004"
+  },
+  "MY-H1416": {
+   "zh": "2004年开发金融机构（马来西亚工业与技术银行）（修改）令",
+   "vi": "Lệnh về Tổ chức tài chính phát triển (Ngân hàng Industri dan Teknologi Malaysia Berhad) (Sửa đổi) năm 2004",
+   "th": "คำสั่งสถาบันการเงินเพื่อการพัฒนา (ธนาคารอุตสาหกรรมและเทคโนโลยีมาเลเซีย) (การดัดแปลง) ค.ศ. 2004",
+   "id": "Perintah Lembaga Keuangan Pembangunan (Bank Industri dan Teknologi Malaysia Berhad) (Modifikasi) Tahun 2004",
+   "ms": "Perintah Institusi Kewangan Pembangunan (Bank Industri dan Teknologi Malaysia Berhad) (Pengubahsuaian) 2004"
+  },
+  "MY-H1420": {
+   "zh": "2014年法律专业（国际合伙与合格外国律师事务所的发牌及外国律师的登记）规则",
+   "vi": "Quy tắc về Nghề luật (Cấp phép hợp danh quốc tế và công ty luật nước ngoài đủ điều kiện, đăng ký luật sư nước ngoài) năm 2014",
+   "th": "กฎวิชาชีพกฎหมาย (การออกใบอนุญาตห้างหุ้นส่วนระหว่างประเทศและสำนักงานกฎหมายต่างชาติที่มีคุณสมบัติ และการขึ้นทะเบียนทนายความต่างชาติ) ค.ศ. 2014",
+   "id": "Tata Tertib Profesi Hukum (Perizinan Persekutuan Internasional dan Kantor Hukum Asing Berkualifikasi serta Registrasi Advokat Asing) Tahun 2014",
+   "ms": "Kaedah Profesion Guaman (Pelesenan Perkongsian Antarabangsa dan Firma Guaman Asing Layak serta Pendaftaran Peguam Asing) 2014"
+  },
+  "MY-H1422": {
+   "zh": "2016年护照（马尔代夫共和国公民签证）（豁免）令",
+   "vi": "Lệnh về Hộ chiếu (Thị thực cho công dân Cộng hòa Maldives) (Miễn trừ) năm 2016",
+   "th": "คำสั่งหนังสือเดินทาง (วีซ่าสำหรับพลเมืองสาธารณรัฐมัลดีฟส์) (การยกเว้น) ค.ศ. 2016",
+   "id": "Perintah Paspor (Visa bagi Warga Negara Republik Maladewa) (Pembebasan) Tahun 2016",
+   "ms": "Perintah Pasport (Visa kepada Warganegara Republik Maldives) (Pengecualian) 2016"
+  },
+  "MY-H1430": {
+   "zh": "2025年所得税（个人股息应税收入核定）规则",
+   "vi": "Quy tắc về Thuế thu nhập (Xác định thu nhập chịu thuế của cá nhân đối với cổ tức) năm 2025",
+   "th": "กฎภาษีเงินได้ (การกำหนดรายได้ที่ต้องเสียภาษีของบุคคลธรรมดาในส่วนของเงินปันผล) ค.ศ. 2025",
+   "id": "Tata Tertib Pajak Penghasilan (Penetapan Penghasilan Kena Pajak Orang Pribadi atas Dividen) Tahun 2025",
+   "ms": "Kaedah Cukai Pendapatan (Penentuan Pendapatan Bercukai Individu bagi Dividen) 2025"
+  },
+  "MY-H1433": {
+   "zh": "2004年开发金融机构（马来西亚发展及基建银行）（修改）令",
+   "vi": "Lệnh về Tổ chức tài chính phát triển (Ngân hàng Phát triển và Cơ sở hạ tầng Malaysia Berhad) (Sửa đổi) năm 2004",
+   "th": "คำสั่งสถาบันการเงินเพื่อการพัฒนา (ธนาคารเพื่อการพัฒนาและโครงสร้างพื้นฐานมาเลเซีย) (การดัดแปลง) ค.ศ. 2004",
+   "id": "Perintah Lembaga Keuangan Pembangunan (Bank Pembangunan dan Infrastruktur Malaysia Berhad) (Modifikasi) Tahun 2004",
+   "ms": "Perintah Institusi Kewangan Pembangunan (Bank Pembangunan dan Infrastruktur Malaysia Berhad) (Pengubahsuaian) 2004"
+  },
+  "MY-H1436": {
+   "zh": "2014年伊斯兰金融服务（伊斯兰存款的订明日期）令",
+   "vi": "Lệnh về Dịch vụ tài chính Hồi giáo (Ngày quy định đối với tiền gửi Hồi giáo) năm 2014",
+   "th": "คำสั่งบริการการเงินอิสลาม (วันที่กำหนดสำหรับเงินฝากอิสลาม) ค.ศ. 2014",
+   "id": "Perintah Jasa Keuangan Syariah (Tanggal yang Ditetapkan bagi Simpanan Syariah) Tahun 2014",
+   "ms": "Perintah Perkhidmatan Kewangan Islam (Tarikh yang Ditetapkan bagi Deposit Islam) 2014"
+  },
+  "MY-H1455": {
+   "zh": "2017年教育（《1962年教师公积金规则》）（废止）条例",
+   "vi": "Quy định về Giáo dục (Quy tắc Quỹ Tiết kiệm Giáo viên 1962) (Bãi bỏ) năm 2017",
+   "th": "ข้อบังคับการศึกษา (ข้อบังคับกองทุนสำรองเลี้ยงชีพครู ค.ศ. 1962) (การเพิกถอน) ค.ศ. 2017",
+   "id": "Peraturan Pendidikan (Peraturan Dana Simpanan Guru 1962) (Pencabutan) Tahun 2017",
+   "ms": "Peraturan Pendidikan (Kaedah Kumpulan Wang Simpanan Guru 1962) (Pembatalan) 2017"
+  },
+  "MY-H1462": {
+   "zh": "2024年马来西亚农业研究与发展研究所（委任、晋升与终止服务）规则",
+   "vi": "Quy tắc về Viện Nghiên cứu và Phát triển Nông nghiệp Malaysia (Bổ nhiệm, thăng chức và chấm dứt phục vụ) năm 2024",
+   "th": "กฎสถาบันวิจัยและพัฒนาการเกษตรมาเลเซีย (การแต่งตั้ง การเลื่อนตำแหน่ง และการสิ้นสุดการปฏิบัติงาน) ค.ศ. 2024",
+   "id": "Tata Tertib Institut Penelitian dan Pengembangan Pertanian Malaysia (Pengangkatan, Promosi dan Pemutusan Dinas) Tahun 2024",
+   "ms": "Kaedah Institut Penyelidikan dan Kemajuan Pertanian Malaysia (Pelantikan, Kenaikan Pangkat dan Penamatan Perkhidmatan) 2024"
+  },
+  "MY-H1479": {
+   "zh": "2025年移民与护照（黑木山免税区）（豁免）（废止）令",
+   "vi": "Lệnh về Xuất nhập cảnh và hộ chiếu (Khu vực miễn thuế Bukit Kayu Hitam) (Miễn trừ) (Bãi bỏ) năm 2025",
+   "th": "คำสั่งการตรวจคนเข้าเมืองและหนังสือเดินทาง (เขตปลอดภาษีบูกิตกายูฮิตัม) (การยกเว้น) (การเพิกถอน) ค.ศ. 2025",
+   "id": "Perintah Keimigrasian dan Paspor (Kawasan Bebas Pajak Bukit Kayu Hitam) (Pembebasan) (Pencabutan) Tahun 2025",
+   "ms": "Perintah Imigresen dan Pasport (Zon Bebas Cukai Bukit Kayu Hitam) (Pengecualian) (Pembatalan) 2025"
+  },
+  "MY-H1492": {
+   "zh": "2024年私营医疗机构与服务（官方身份证明卡）（修正）令",
+   "vi": "Lệnh về Cơ sở và dịch vụ chăm sóc sức khỏe tư nhân (Thẻ nhận dạng chính thức) (Sửa đổi) năm 2024",
+   "th": "คำสั่งสถานพยาบาลและบริการสุขภาพเอกชน (บัตรประจำตัวราชการ) (การแก้ไข) ค.ศ. 2024",
+   "id": "Perintah Fasilitas dan Jasa Pelayanan Kesehatan Swasta (Kartu Identitas Resmi) (Perubahan) Tahun 2024",
+   "ms": "Perintah Kemudahan dan Perkhidmatan Penjagaan Kesihatan Swasta (Kad Pengenalan Rasmi) (Pindaan) 2024"
+  },
+  "MY-H1506": {
+   "zh": "2023年马来西亚反腐败委员会（公共机构的订明）令",
+   "vi": "Lệnh về Ủy ban Chống Tham nhũng Malaysia (Quy định cơ quan công) năm 2023",
+   "th": "คำสั่งคณะกรรมการต่อต้านการทุจริตมาเลเซีย (การกำหนดหน่วยงานมหาชน) ค.ศ. 2023",
+   "id": "Perintah Komisi Pemberantasan Korupsi Malaysia (Penetapan Badan Publik) Tahun 2023",
+   "ms": "Perintah Suruhanjaya Pencegahan Rasuah Malaysia (Penetapan Badan Awam) 2023"
+  },
+  "MY-H1507": {
+   "zh": "2024年园丘医院助理（登记局）（修正）条例",
+   "vi": "Quy định về Trợ lý bệnh viện đồn điền (Hội đồng đăng ký) (Sửa đổi) năm 2024",
+   "th": "ข้อบังคับผู้ช่วยโรงพยาบาลสวน (คณะกรรมการขึ้นทะเบียน) (การแก้ไข) ค.ศ. 2024",
+   "id": "Peraturan Asisten Rumah Sakit Perkebunan (Dewan Registrasi) (Perubahan) Tahun 2024",
+   "ms": "Peraturan Penolong Hospital Estet (Lembaga Pendaftaran) (Pindaan) 2024"
+  },
+  "MY-H1510": {
+   "zh": "1972年法律修订（财务程序）令",
+   "vi": "Lệnh về Rà soát pháp luật (Thủ tục tài chính) năm 1972",
+   "th": "คำสั่งการปรับปรุงกฎหมาย (ขั้นตอนทางการเงิน) ค.ศ. 1972",
+   "id": "Perintah Revisi Peraturan (Prosedur Keuangan) Tahun 1972",
+   "ms": "Perintah Semakan Undang-Undang (Prosedur Kewangan) 1972"
+  },
+  "MY-H1527": {
+   "zh": "2011年关税（修正）（第2号）条例",
+   "vi": "Quy định về Hải quan (Sửa đổi) (số 2) năm 2011",
+   "th": "ข้อบังคับศุลกากร (การแก้ไข) (ฉบับที่ 2) ค.ศ. 2011",
+   "id": "Peraturan Kepabeanan (Perubahan) (Nomor 2) Tahun 2011",
+   "ms": "Peraturan Kastam (Pindaan) (Bilangan 2) 2011"
+  },
+  "MY-H1529": {
+   "zh": "2013年工厂与机械（豁免 BASF PETRONAS CHEMICALS 私人有限公司）令",
+   "vi": "Lệnh về Nhà máy và máy móc (Miễn trừ cho BASF PETRONAS CHEMICALS Sdn. Bhd.) năm 2013",
+   "th": "คำสั่งโรงงานและเครื่องจักร (การยกเว้นให้ BASF PETRONAS CHEMICALS Sdn. Bhd.) ค.ศ. 2013",
+   "id": "Perintah Pabrik dan Mesin (Pembebasan bagi BASF PETRONAS CHEMICALS Sdn. Bhd.) Tahun 2013",
+   "ms": "Perintah Kilang dan Jentera (Pengecualian kepada BASF PETRONAS CHEMICALS Sdn. Bhd.) 2013"
+  },
+  "MY-H153": {
+   "zh": "1974年罗马天主教主教（名称变更与注册成立）法",
+   "vi": "Luật về Giám mục Công giáo Rôma (Thay đổi tên và thành lập pháp nhân) năm 1974",
+   "th": "พระราชบัญญัติบาทหลวงคาทอลิกโรมัน (การเปลี่ยนชื่อและการจดทะเบียนจัดตั้ง) ค.ศ. 1974",
+   "id": "Undang-Undang Uskup Katolik Roma (Perubahan Nama dan Pendirian Badan Hukum) Tahun 1974",
+   "ms": "Akta Biskop Roman Katolik (Pertukaran Nama dan Perbadanan) 1974"
+  },
+  "MY-H1533": {
+   "zh": "2017年儿童（助理保护官）条例",
+   "vi": "Quy định về Trẻ em (Trợ lý quan chức bảo vệ) năm 2017",
+   "th": "ข้อบังคับเด็ก (ผู้ช่วยเจ้าพนักงานคุ้มครอง) ค.ศ. 2017",
+   "id": "Peraturan Anak (Asisten Pelindung) Tahun 2017",
+   "ms": "Peraturan Kanak-Kanak (Penolong Pelindung) 2017"
+  },
+  "MY-H154": {
+   "zh": "1974年所得税（锡缓冲库存缴纳与偿还）法",
+   "vi": "Luật về Thuế thu nhập (Đóng góp và hoàn trả kho dự trữ thiếc) năm 1974",
+   "th": "พระราชบัญญัติภาษีเงินได้ (การสมทบและการชำระคืนสต็อกกันชนดีบุก) ค.ศ. 1974",
+   "id": "Undang-Undang Pajak Penghasilan (Iuran dan Pengembalian Stok Penyangga Timah) Tahun 1974",
+   "ms": "Akta Cukai Pendapatan (Caruman dan Bayaran Balik Stok Penampan Timah) 1974"
+  },
+  "MY-H1541": {
+   "zh": "2025年马来西亚木材工业局（锯材分级费）（修正）规则",
+   "vi": "Quy tắc về Ủy ban Công nghiệp Gỗ Malaysia (Phí phân loại gỗ xẻ) (Sửa đổi) năm 2025",
+   "th": "กฎคณะกรรมการอุตสาหกรรมไม้มาเลเซีย (ค่าธรรมเนียมการคัดเกรดไม้แปรรูป) (การแก้ไข) ค.ศ. 2025",
+   "id": "Tata Tertib Dewan Industri Kayu Malaysia (Biaya Penilaian Kayu Gergajian) (Perubahan) Tahun 2025",
+   "ms": "Kaedah Lembaga Perindustrian Kayu Malaysia (Fi Penggredan Kayu Gergaji) (Pindaan) 2025"
+  },
+  "MY-H1545": {
+   "zh": "2013年工厂与机械（豁免 PETRONAS GAS 有限公司（登嘉楼巴卡第6天然气处理厂））令",
+   "vi": "Lệnh về Nhà máy và máy móc (Miễn trừ cho PETRONAS GAS Berhad, Nhà máy Xử lý Khí-6, Paka, Terengganu) năm 2013",
+   "th": "คำสั่งโรงงานและเครื่องจักร (การยกเว้นให้ PETRONAS GAS Berhad, โรงงานแปรรูปก๊าซ-6, ปากา, ตรังกานู) ค.ศ. 2013",
+   "id": "Perintah Pabrik dan Mesin (Pembebasan bagi PETRONAS GAS Berhad, Pabrik Pengolahan Gas-6, Paka, Terengganu) Tahun 2013",
+   "ms": "Perintah Kilang dan Jentera (Pengecualian kepada PETRONAS GAS Berhad, Loji Pemprosesan Gas-6, Paka, Terengganu) 2013"
+  },
+  "MY-H1555": {
+   "zh": "2023年马来西亚橡胶局（发牌与许可证）（修正）条例",
+   "vi": "Quy định về Ủy ban Cao su Malaysia (Cấp phép và giấy phép) (Sửa đổi) năm 2023",
+   "th": "ข้อบังคับคณะกรรมการยางมาเลเซีย (การออกใบอนุญาต) (การแก้ไข) ค.ศ. 2023",
+   "id": "Peraturan Dewan Karet Malaysia (Perizinan dan Izin) (Perubahan) Tahun 2023",
+   "ms": "Peraturan Lembaga Getah Malaysia (Pelesenan dan Permit) (Pindaan) 2023"
+  },
+  "MY-H1558": {
+   "zh": "2011年工厂与机械（豁免 PETRONAS GAS 有限公司（柔佛昔加末区域作业区压缩机站））令",
+   "vi": "Lệnh về Nhà máy và máy móc (Miễn trừ cho PETRONAS GAS Berhad, Trạm Nén Segamat, Vận hành Khu vực Segamat, Johor) năm 2011",
+   "th": "คำสั่งโรงงานและเครื่องจักร (การยกเว้นให้ PETRONAS GAS Berhad, สถานีอัดก๊าซเซอกามัต, ปฏิบัติการภูมิภาคเซอกามัต, ยะโฮร์) ค.ศ. 2011",
+   "id": "Perintah Pabrik dan Mesin (Pembebasan bagi PETRONAS GAS Berhad, Stasiun Kompresor Segamat, Operasi Regional Segamat, Johor) Tahun 2011",
+   "ms": "Perintah Kilang dan Jentera (Pengecualian kepada PETRONAS GAS Berhad, Stesen Pemampat Segamat, Operasi Serantau Segamat, Johor) 2011"
+  },
+  "MY-H1573": {
+   "zh": "2012年合作社（ANGKASA 回教融资合作社）（豁免）令",
+   "vi": "Lệnh về Hợp tác xã (KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD) (Miễn trừ) năm 2012",
+   "th": "คำสั่งสหกรณ์ (สหกรณ์การเงินอิสลามอังกาซา) (การยกเว้น) ค.ศ. 2012",
+   "id": "Perintah Koperasi (KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD) (Pembebasan) Tahun 2012",
+   "ms": "Perintah Koperasi (KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD) (Pengecualian) 2012"
+  },
+  "MY-H1574": {
+   "zh": "2013年工厂与机械（豁免 OPTIMISTIC ORGANIC 私人有限公司（登嘉楼直落加弄））令",
+   "vi": "Lệnh về Nhà máy và máy móc (Miễn trừ cho OPTIMISTIC ORGANIC Sdn. Bhd., Teluk Kalong, Terengganu) năm 2013",
+   "th": "คำสั่งโรงงานและเครื่องจักร (การยกเว้นให้ OPTIMISTIC ORGANIC Sdn. Bhd., เตลูกกาลง, ตรังกานู) ค.ศ. 2013",
+   "id": "Perintah Pabrik dan Mesin (Pembebasan bagi OPTIMISTIC ORGANIC Sdn. Bhd., Teluk Kalong, Terengganu) Tahun 2013",
+   "ms": "Perintah Kilang dan Jentera (Pengecualian kepada OPTIMISTIC ORGANIC Sdn. Bhd., Teluk Kalong, Terengganu) 2013"
+  },
+  "MY-H1588": {
+   "zh": "2011年所得税（向普遍服务提供基金的缴款扣除）规则",
+   "vi": "Quy tắc về Thuế thu nhập (Khấu trừ khoản đóng góp vào Quỹ Cung cấp Dịch vụ Phổ thông) năm 2011",
+   "th": "กฎภาษีเงินได้ (การหักเงินสมทบเข้ากองทุนจัดหาบริการสากล) ค.ศ. 2011",
+   "id": "Tata Tertib Pajak Penghasilan (Pengurangan Iuran pada Dana Penyediaan Layanan Universal) Tahun 2011",
+   "ms": "Kaedah Cukai Pendapatan (Potongan Caruman kepada Kumpulan Wang Peruntukan Perkhidmatan Sejagat) 2011"
+  },
+  "MY-H1591": {
+   "zh": "2014年合作社（MAWAH 经营合作社）（豁免）令",
+   "vi": "Lệnh về Hợp tác xã (KOPERASI USAHA MAWAH BERHAD) (Miễn trừ) năm 2014",
+   "th": "คำสั่งสหกรณ์ (สหกรณ์อุซาฮามาวะห์) (การยกเว้น) ค.ศ. 2014",
+   "id": "Perintah Koperasi (KOPERASI USAHA MAWAH BERHAD) (Pembebasan) Tahun 2014",
+   "ms": "Perintah Koperasi (KOPERASI USAHA MAWAH BERHAD) (Pengecualian) 2014"
+  },
+  "MY-H1608": {
+   "zh": "2011年价格管制与反暴利（最高价格订定）令",
+   "vi": "Lệnh về Kiểm soát giá và chống trục lợi (Ấn định giá tối đa) năm 2011",
+   "th": "คำสั่งการควบคุมราคาและการต่อต้านการฉวยโอกาส (การกำหนดราคาสูงสุด) ค.ศ. 2011",
+   "id": "Perintah Pengendalian Harga dan Anti-Pencatutan (Penetapan Harga Maksimum) Tahun 2011",
+   "ms": "Perintah Kawalan Harga dan Anti-Pencatutan (Penetapan Harga Maksimum) 2011"
+  },
+  "MY-H1609": {
+   "zh": "2012年版权（发牌机构）条例",
+   "vi": "Quy định về Quyền tác giả (Cơ quan cấp phép) năm 2012",
+   "th": "ข้อบังคับลิขสิทธิ์ (หน่วยงานออกใบอนุญาต) ค.ศ. 2012",
+   "id": "Peraturan Hak Cipta (Badan Perizinan) Tahun 2012",
+   "ms": "Peraturan Hak Cipta (Badan Pelesenan) 2012"
+  },
+  "MY-H1617": {
+   "zh": "2022年通信与多媒体（上诉审裁处主席委任）令",
+   "vi": "Lệnh về Truyền thông và đa phương tiện (Bổ nhiệm Chủ tịch Tòa án Phúc thẩm) năm 2022",
+   "th": "คำสั่งการสื่อสารและมัลติมีเดีย (การแต่งตั้งประธานคณะตุลาการอุทธรณ์) ค.ศ. 2022",
+   "id": "Perintah Komunikasi dan Multimedia (Pengangkatan Ketua Tribunal Banding) Tahun 2022",
+   "ms": "Perintah Komunikasi dan Multimedia (Pelantikan Pengerusi Tribunal Rayuan) 2022"
+  },
+  "MY-H1621": {
+   "zh": "2012年开发金融机构（马来西亚农业银行）（修改）（废止）令",
+   "vi": "Lệnh về Tổ chức tài chính phát triển (Ngân hàng Nông nghiệp Malaysia) (Sửa đổi) (Bãi bỏ) năm 2012",
+   "th": "คำสั่งสถาบันการเงินเพื่อการพัฒนา (ธนาคารเกษตรมาเลเซีย) (การดัดแปลง) (การเพิกถอน) ค.ศ. 2012",
+   "id": "Perintah Lembaga Keuangan Pembangunan (Bank Pertanian Malaysia) (Modifikasi) (Pencabutan) Tahun 2012",
+   "ms": "Perintah Institusi Kewangan Pembangunan (Bank Pertanian Malaysia) (Pengubahsuaian) (Pembatalan) 2012"
+  },
+  "MY-H1622": {
+   "zh": "2013年所得税（提供托儿中心的扣除）规则",
+   "vi": "Quy tắc về Thuế thu nhập (Khấu trừ việc cung cấp trung tâm giữ trẻ) năm 2013",
+   "th": "กฎภาษีเงินได้ (การหักค่าใช้จ่ายในการจัดให้มีสถานรับเลี้ยงเด็ก) ค.ศ. 2013",
+   "id": "Tata Tertib Pajak Penghasilan (Pengurangan atas Penyediaan Pusat Penitipan Anak) Tahun 2013",
+   "ms": "Kaedah Cukai Pendapatan (Potongan bagi Penyediaan Taman Asuhan Kanak-Kanak) 2013"
+  },
+  "MY-H1625": {
+   "zh": "2016年开发金融机构（马来西亚人民银行）（修改）令",
+   "vi": "Lệnh về Tổ chức tài chính phát triển (Bank Kerjasama Rakyat Malaysia Berhad) (Sửa đổi) năm 2016",
+   "th": "คำสั่งสถาบันการเงินเพื่อการพัฒนา (ธนาคารเคร็จาซามารายัตมาเลเซีย) (การดัดแปลง) ค.ศ. 2016",
+   "id": "Perintah Lembaga Keuangan Pembangunan (Bank Kerjasama Rakyat Malaysia Berhad) (Modifikasi) Tahun 2016",
+   "ms": "Perintah Institusi Kewangan Pembangunan (Bank Kerjasama Rakyat Malaysia Berhad) (Pengubahsuaian) 2016"
+  },
+  "MY-H1675": {
+   "zh": "2024年法律专业（律师集团执业）（修正）规则",
+   "vi": "Quy tắc về Nghề luật (Hành nghề luật theo nhóm) (Sửa đổi) năm 2024",
+   "th": "กฎวิชาชีพกฎหมาย (การประกอบวิชาชีพกฎหมายแบบกลุ่ม) (การแก้ไข) ค.ศ. 2024",
+   "id": "Tata Tertib Profesi Hukum (Praktik Hukum Kelompok) (Perubahan) Tahun 2024",
+   "ms": "Kaedah Profesion Guaman (Amalan Guaman Berkumpulan) (Pindaan) 2024"
+  },
+  "MY-H1677": {
+   "zh": "2026年所得税（加速资本免税额）（实施电子发票的信息通信技术设备）规则",
+   "vi": "Quy tắc về Thuế thu nhập (Khấu trừ vốn được gia tốc) (Thiết bị công nghệ thông tin và truyền thông để thực hiện hóa đơn điện tử) năm 2026",
+   "th": "กฎภาษีเงินได้ (ค่าเผื่อทุนแบบเร่งรัด) (อุปกรณ์เทคโนโลยีสารสนเทศและการสื่อสารเพื่อการดำเนินการใบแจ้งหนี้อิเล็กทรอนิกส์) ค.ศ. 2026",
+   "id": "Tata Tertib Pajak Penghasilan (Tunjangan Modal Dipercepat) (Peralatan Teknologi Informasi dan Komunikasi untuk Penerapan Faktur Elektronik) Tahun 2026",
+   "ms": "Kaedah Cukai Pendapatan (Elaun Modal Dipercepat) (Peralatan Teknologi Maklumat dan Komunikasi bagi Pelaksanaan Invois Elektronik) 2026"
+  },
+  "MY-H1683": {
+   "zh": "2014年消费税（发牌机构）（修正）条例",
+   "vi": "Quy định về Tiêu thụ đặc biệt (Các cơ quan cấp phép) (Sửa đổi) năm 2014",
+   "th": "ข้อบังคับสรรพสามิต (หน่วยงานออกใบอนุญาต) (การแก้ไข) ค.ศ. 2014",
+   "id": "Peraturan Cukai (Badan-Badan Perizinan) (Perubahan) Tahun 2014",
+   "ms": "Peraturan Eksais (Badan-Badan Pelesenan) (Pindaan) 2014"
+  },
+  "MY-H1686": {
+   "zh": "2018年机动车（计程表）（修正）规则",
+   "vi": "Quy tắc về Xe cơ giới (Đồng hồ tính tiền taxi) (Sửa đổi) năm 2018",
+   "th": "กฎรถยนต์ (มาตรค่าโดยสาร) (การแก้ไข) ค.ศ. 2018",
+   "id": "Tata Tertib Kendaraan Bermotor (Argo Taksi) (Perubahan) Tahun 2018",
+   "ms": "Kaedah Kenderaan Bermotor (Meter Teksi) (Pindaan) 2018"
+  },
+  "MY-H1694": {
+   "zh": "2026年所得税（加速资本免税额）（实施电子发票的定制软件开发成本）规则",
+   "vi": "Quy tắc về Thuế thu nhập (Khấu trừ vốn được gia tốc) (Chi phí phát triển phần mềm máy tính tùy chỉnh để thực hiện hóa đơn điện tử) năm 2026",
+   "th": "กฎภาษีเงินได้ (ค่าเผื่อทุนแบบเร่งรัด) (ต้นทุนการพัฒนาซอฟต์แวร์คอมพิวเตอร์เฉพาะเพื่อการดำเนินการใบแจ้งหนี้อิเล็กทรอนิกส์) ค.ศ. 2026",
+   "id": "Tata Tertib Pajak Penghasilan (Tunjangan Modal Dipercepat) (Biaya Pengembangan Perangkat Lunak Komputer Khusus untuk Penerapan Faktur Elektronik) Tahun 2026",
+   "ms": "Kaedah Cukai Pendapatan (Elaun Modal Dipercepat) (Kos Pembangunan Perisian Komputer Tersuai bagi Pelaksanaan Invois Elektronik) 2026"
+  },
+  "MY-H1702": {
+   "zh": "2017年马来西亚国家银行（执行联合国安全理事会关于厄立特里亚国的决议）条例",
+   "vi": "Quy định về Ngân hàng Trung ương Malaysia (Thực hiện các nghị quyết của Hội đồng Bảo an Liên hợp quốc liên quan đến Nhà nước Eritrea) năm 2017",
+   "th": "ข้อบังคับธนาคารกลางมาเลเซีย (การดำเนินการตามข้อมติคณะมนตรีความมั่นคงแห่งสหประชาชาติเกี่ยวกับรัฐเอริเทรีย) ค.ศ. 2017",
+   "id": "Peraturan Bank Sentral Malaysia (Pelaksanaan Resolusi Dewan Keamanan Perserikatan Bangsa-Bangsa tentang Negara Eritrea) Tahun 2017",
+   "ms": "Peraturan Bank Negara Malaysia (Pelaksanaan Resolusi Majlis Keselamatan Pertubuhan Bangsa-Bangsa Bersatu berhubung Negara Eritrea) 2017"
+  },
+  "MY-H1705": {
+   "zh": "2020年私立高等教育机构（豁免 MASA 学院）令",
+   "vi": "Lệnh về Cơ sở giáo dục đại học tư thục (Miễn trừ cho Kolej MASA) năm 2020",
+   "th": "คำสั่งสถาบันอุดมศึกษาเอกชน (การยกเว้นให้วิทยาลัย MASA) ค.ศ. 2020",
+   "id": "Perintah Institusi Pendidikan Tinggi Swasta (Pembebasan bagi Kolej MASA) Tahun 2020",
+   "ms": "Perintah Institusi Pengajian Tinggi Swasta (Pengecualian kepada Kolej MASA) 2020"
+  },
+  "MY-H1707": {
+   "zh": "2022年所得税（主枢纽激励计划）规则",
+   "vi": "Quy tắc về Thuế thu nhập (Chương trình ưu đãi trung tâm chính) năm 2022",
+   "th": "กฎภาษีเงินได้ (โครงการสิ่งจูงใจศูนย์กลางหลัก) ค.ศ. 2022",
+   "id": "Tata Tertib Pajak Penghasilan (Skema Insentif Hub Utama) Tahun 2022",
+   "ms": "Kaedah Cukai Pendapatan (Skim Insentif Hab Utama) 2022"
+  },
+  "MY-H1711": {
+   "zh": "2026年所得税（旅游经营公司）（豁免）令",
+   "vi": "Lệnh về Thuế thu nhập (Công ty lữ hành) (Miễn trừ) năm 2026",
+   "th": "คำสั่งภาษีเงินได้ (บริษัทนำเที่ยว) (การยกเว้น) ค.ศ. 2026",
+   "id": "Perintah Pajak Penghasilan (Perusahaan Biro Perjalanan Wisata) (Pembebasan) Tahun 2026",
+   "ms": "Perintah Cukai Pendapatan (Syarikat Pengendali Pelancongan) (Pengecualian) 2026"
+  },
+  "MY-H1717": {
+   "zh": "2014年消费税（椰花酒及椰花酒商店管制）（修正）条例",
+   "vi": "Quy định về Tiêu thụ đặc biệt (Kiểm soát rượu toddy và cửa hàng rượu toddy) (Sửa đổi) năm 2014",
+   "th": "ข้อบังคับสรรพสามิต (การควบคุมน้ำตาลโตนดและการควบคุมร้านขายน้ำตาลโตนด) (การแก้ไข) ค.ศ. 2014",
+   "id": "Peraturan Cukai (Pengendalian Tuak dan Toko Tuak) (Perubahan) Tahun 2014",
+   "ms": "Peraturan Eksais (Kawalan Tuak dan Kedai Tuak) (Pindaan) 2014"
+  },
+  "MY-H1742": {
+   "zh": "2011年所得税（对认可食品生产项目投资的扣除）规则",
+   "vi": "Quy tắc về Thuế thu nhập (Khấu trừ đầu tư vào dự án sản xuất thực phẩm được phê duyệt) năm 2011",
+   "th": "กฎภาษีเงินได้ (การหักค่าใช้จ่ายการลงทุนในโครงการผลิตอาหารที่ได้รับอนุมัติ) ค.ศ. 2011",
+   "id": "Tata Tertib Pajak Penghasilan (Pengurangan atas Investasi dalam Proyek Produksi Pangan yang Disetujui) Tahun 2011",
+   "ms": "Kaedah Cukai Pendapatan (Potongan bagi Pelaburan dalam Projek Pengeluaran Makanan yang Diluluskan) 2011"
+  },
+  "MY-H1746": {
+   "zh": "2015年地方政府（独立广场）（吉隆坡联邦直辖区）（修正）附例",
+   "vi": "Quy chế về Chính quyền địa phương (Quảng trường Merdeka) (Lãnh thổ Liên bang Kuala Lumpur) (Sửa đổi) năm 2015",
+   "th": "ข้อบัญญัติการปกครองส่วนท้องถิ่น (ลานเมอร์เดกา) (เขตการปกครองสหพันธ์กัวลาลัมเปอร์) (การแก้ไข) ค.ศ. 2015",
+   "id": "Peraturan Daerah Pemerintahan Daerah (Dataran Merdeka) (Wilayah Persekutuan Kuala Lumpur) (Perubahan) Tahun 2015",
+   "ms": "Undang-Undang Kecil Kerajaan Tempatan (Dataran Merdeka) (Wilayah Persekutuan Kuala Lumpur) (Pindaan) 2015"
+  },
+  "MY-H1748": {
+   "zh": "2017年马来西亚国家银行（执行联合国安全理事会关于索马里联邦共和国的决议）条例",
+   "vi": "Quy định về Ngân hàng Trung ương Malaysia (Thực hiện các nghị quyết của Hội đồng Bảo an Liên hợp quốc liên quan đến Cộng hòa Liên bang Somalia) năm 2017",
+   "th": "ข้อบังคับธนาคารกลางมาเลเซีย (การดำเนินการตามข้อมติคณะมนตรีความมั่นคงแห่งสหประชาชาติเกี่ยวกับสหพันธ์สาธารณรัฐโซมาเลีย) ค.ศ. 2017",
+   "id": "Peraturan Bank Sentral Malaysia (Pelaksanaan Resolusi Dewan Keamanan Perserikatan Bangsa-Bangsa tentang Republik Federal Somalia) Tahun 2017",
+   "ms": "Peraturan Bank Negara Malaysia (Pelaksanaan Resolusi Majlis Keselamatan Pertubuhan Bangsa-Bangsa Bersatu berhubung Republik Persekutuan Somalia) 2017"
+  },
+  "MY-H1765": {
+   "zh": "2021年个人数据保护（上诉审裁处）条例",
+   "vi": "Quy định về Bảo vệ dữ liệu cá nhân (Tòa án Phúc thẩm) năm 2021",
+   "th": "ข้อบังคับการคุ้มครองข้อมูลส่วนบุคคล (คณะตุลาการอุทธรณ์) ค.ศ. 2021",
+   "id": "Peraturan Perlindungan Data Pribadi (Tribunal Banding) Tahun 2021",
+   "ms": "Peraturan Perlindungan Data Peribadi (Tribunal Rayuan) 2021"
+  },
+  "MY-H1771": {
+   "zh": "2012年保险（认可国际海运、航空及转运保险经纪）条例",
+   "vi": "Quy định về Bảo hiểm (Các nhà môi giới bảo hiểm hàng hải, hàng không và quá cảnh quốc tế được phê duyệt) năm 2012",
+   "th": "ข้อบังคับการประกันภัย (นายหน้าประกันภัยทางทะเล การบิน และการขนส่งผ่านแดนระหว่างประเทศที่ได้รับอนุมัติ) ค.ศ. 2012",
+   "id": "Peraturan Asuransi (Pialang Asuransi Laut, Penerbangan dan Transit Internasional yang Disetujui) Tahun 2012",
+   "ms": "Peraturan Insurans (Broker Insurans Marin, Penerbangan dan Transit Antarabangsa yang Diluluskan) 2012"
+  },
+  "MY-H1778": {
+   "zh": "2020年合作社（马来西亚皇家警察合作社）（豁免）令",
+   "vi": "Lệnh về Hợp tác xã (Hợp tác xã Cảnh sát Hoàng gia Malaysia) (Miễn trừ) năm 2020",
+   "th": "คำสั่งสหกรณ์ (สหกรณ์ตำรวจหลวงมาเลเซีย) (การยกเว้น) ค.ศ. 2020",
+   "id": "Perintah Koperasi (KOPERASI POLIS DIRAJA MALAYSIA BERHAD) (Pembebasan) Tahun 2020",
+   "ms": "Perintah Koperasi (KOPERASI POLIS DIRAJA MALAYSIA BERHAD) (Pengecualian) 2020"
+  },
+  "MY-H1779": {
+   "zh": "2021年合作社（接管 KOPERASI BARISAN USAHAWAN BERHAD）（委任）令",
+   "vi": "Lệnh về Hợp tác xã (Tiếp nhận kiểm soát KOPERASI BARISAN USAHAWAN BERHAD) (Bổ nhiệm) năm 2021",
+   "th": "คำสั่งสหกรณ์ (การเข้าควบคุม KOPERASI BARISAN USAHAWAN BERHAD) (การแต่งตั้ง) ค.ศ. 2021",
+   "id": "Perintah Koperasi (Pengambilalihan Pengendalian KOPERASI BARISAN USAHAWAN BERHAD) (Pengangkatan) Tahun 2021",
+   "ms": "Perintah Koperasi (Pengambilalihan Kawalan KOPERASI BARISAN USAHAWAN BERHAD) (Pelantikan) 2021"
+  },
+  "MY-H1805": {
+   "zh": "2017年自雇人员社会保障（出租车司机缴纳率）条例",
+   "vi": "Quy định về An sinh xã hội cho người tự làm việc (Mức đóng góp của tài xế taxi) năm 2017",
+   "th": "ข้อบังคับประกันสังคมผู้ประกอบอาชีพอิสระ (อัตราการสมทบของผู้ขับแท็กซี่) ค.ศ. 2017",
+   "id": "Peraturan Jaminan Sosial Pekerja Mandiri (Tarif Iuran bagi Pengemudi Taksi) Tahun 2017",
+   "ms": "Peraturan Keselamatan Sosial Pekerja Sendiri (Kadar Caruman bagi Pemandu Teksi) 2017"
+  },
+  "MY-H1811": {
+   "zh": "2024年合作社（接管 柔佛南部小园主合作社（KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD））（再委任）令",
+   "vi": "Lệnh về Hợp tác xã (Tiếp nhận kiểm soát KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (Tái bổ nhiệm) năm 2024",
+   "th": "คำสั่งสหกรณ์ (การเข้าควบคุม KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (การแต่งตั้งอีกครั้ง) ค.ศ. 2024",
+   "id": "Perintah Koperasi (Pengambilalihan Pengendalian KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (Pengangkatan Kembali) Tahun 2024",
+   "ms": "Perintah Koperasi (Pengambilalihan Kawalan KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (Pelantikan Semula) 2024"
+  },
+  "MY-H1816": {
+   "zh": "2012年工厂与机械（豁免 POLYETHYLENE MALAYSIA 私人有限公司（登嘉楼吉利地））令",
+   "vi": "Lệnh về Nhà máy và máy móc (Miễn trừ cho POLYETHYLENE MALAYSIA Sdn. Bhd., Kerteh, Terengganu) năm 2012",
+   "th": "คำสั่งโรงงานและเครื่องจักร (การยกเว้นให้ POLYETHYLENE MALAYSIA Sdn. Bhd., เกอเตะห์, ตรังกานู) ค.ศ. 2012",
+   "id": "Perintah Pabrik dan Mesin (Pembebasan bagi POLYETHYLENE MALAYSIA Sdn. Bhd., Kerteh, Terengganu) Tahun 2012",
+   "ms": "Perintah Kilang dan Jentera (Pengecualian kepada POLYETHYLENE MALAYSIA Sdn. Bhd., Kerteh, Terengganu) 2012"
+  },
+  "MY-H1819": {
+   "zh": "2015年联邦直辖区（规划）（违法行为罚款了结）规则",
+   "vi": "Quy tắc về Lãnh thổ Liên bang (Quy hoạch) (Xử lý vi phạm bằng phạt tiền) năm 2015",
+   "th": "กฎเขตการปกครองสหพันธ์ (การผังเมือง) (การระงับข้อหาด้วยค่าปรับ) ค.ศ. 2015",
+   "id": "Tata Tertib Wilayah Persekutuan (Penataan Ruang) (Penyelesaian Pelanggaran dengan Denda) Tahun 2015",
+   "ms": "Kaedah Wilayah Persekutuan (Perancangan) (Pengkompaunan Kesalahan) 2015"
+  },
+  "MY-H1825": {
+   "zh": "2022年度量衡（保管人的职责与权力）（修正）条例",
+   "vi": "Quy định về Đo lường (Nhiệm vụ và quyền hạn của người lưu giữ) (Sửa đổi) năm 2022",
+   "th": "ข้อบังคับมาตราชั่งตวงวัด (หน้าที่และอำนาจของผู้ดูแลทรัพย์) (การแก้ไข) ค.ศ. 2022",
+   "id": "Peraturan Ukuran dan Timbangan (Kewajiban dan Wewenang Penitipan) (Perubahan) Tahun 2022",
+   "ms": "Peraturan Timbang dan Sukat (Tugas dan Kuasa Penjaga) (Pindaan) 2022"
+  },
+  "MY-H1829": {
+   "zh": "2026年租购（条款收费）条例",
+   "vi": "Quy định về Mua trả góp (Phí theo điều khoản) năm 2026",
+   "th": "ข้อบังคับการเช่าซื้อ (ค่าบริการตามข้อกำหนด) ค.ศ. 2026",
+   "id": "Peraturan Sewa Beli (Biaya Ketentuan) Tahun 2026",
+   "ms": "Peraturan Sewa Beli (Caj Terma) 2026"
+  },
+  "MY-H1836": {
+   "zh": "2017年国家土地法典（附表十六修正）令",
+   "vi": "Lệnh về Bộ luật Đất đai Quốc gia (Sửa đổi Phụ lục thứ mười sáu) năm 2017",
+   "th": "คำสั่งประมวลกฎหมายที่ดินแห่งชาติ (การแก้ไขตารางที่สิบหก) ค.ศ. 2017",
+   "id": "Perintah Kitab Undang-Undang Tanah Nasional (Perubahan Lampiran Keenam Belas) Tahun 2017",
+   "ms": "Perintah Kanun Tanah Negara (Pindaan Jadual Keenam Belas) 2017"
+  },
+  "MY-H1841": {
+   "zh": "2022年所得税（与 Industry4WRD 供应商发展计划有关的支出扣除）规则",
+   "vi": "Quy tắc về Thuế thu nhập (Khấu trừ chi phí liên quan đến chương trình phát triển nhà cung cấp Industry4WRD) năm 2022",
+   "th": "กฎภาษีเงินได้ (การหักค่าใช้จ่ายที่เกี่ยวกับโครงการพัฒนาผู้จำหน่าย Industry4WRD) ค.ศ. 2022",
+   "id": "Tata Tertib Pajak Penghasilan (Pengurangan atas Pengeluaran Terkait Program Pengembangan Pemasok Industry4WRD) Tahun 2022",
+   "ms": "Kaedah Cukai Pendapatan (Potongan bagi Perbelanjaan Berhubung Program Pembangunan Vendor Industry4WRD) 2022"
+  },
+  "MY-H1842": {
+   "zh": "2023年货币服务业（收取令吉与外币权利的形式）条例",
+   "vi": "Quy định về Dịch vụ kinh doanh tiền tệ (Hình thức quyền nhận Ringgit và ngoại tệ) năm 2023",
+   "th": "ข้อบังคับธุรกิจบริการเงินตรา (รูปแบบสิทธิในการรับริงกิตและสกุลเงินต่างประเทศ) ค.ศ. 2023",
+   "id": "Peraturan Usaha Jasa Keuangan (Bentuk Hak Menerima Ringgit dan Valuta Asing) Tahun 2023",
+   "ms": "Peraturan Perniagaan Perkhidmatan Wang (Bentuk Hak Menerima Ringgit dan Mata Wang Asing) 2023"
+  },
+  "MY-H1847": {
+   "zh": "2013年朝圣基金局（存款与提款）（修正）条例",
+   "vi": "Quy định về Quỹ Hành hương (Tiền gửi và rút tiền) (Sửa đổi) năm 2013",
+   "th": "ข้อบังคับกองทุนฮัจญ์ (เงินฝากและการถอน) (การแก้ไข) ค.ศ. 2013",
+   "id": "Peraturan Dana Haji (Simpanan dan Penarikan) (Perubahan) Tahun 2013",
+   "ms": "Peraturan Lembaga Tabung Haji (Deposit dan Pengeluaran) (Pindaan) 2013"
+  },
+  "MY-H1851": {
+   "zh": "2017年商品与服务税（提供信息）条例",
+   "vi": "Quy định về Thuế hàng hóa và dịch vụ (Cung cấp thông tin) năm 2017",
+   "th": "ข้อบังคับภาษีสินค้าและบริการ (การให้ข้อมูล) ค.ศ. 2017",
+   "id": "Peraturan Pajak Barang dan Jasa (Penyediaan Informasi) Tahun 2017",
+   "ms": "Peraturan Cukai Barang dan Perkhidmatan (Peruntukan Maklumat) 2017"
+  },
+  "MY-H1875": {
+   "zh": "2011年柔佛港务局（收费表）附例",
+   "vi": "Quy chế về Cục Cảng Johor (Biểu phí) năm 2011",
+   "th": "ข้อบัญญัติการท่าเรือยะโฮร์ (ตารางค่าบริการ) ค.ศ. 2011",
+   "id": "Peraturan Daerah Otoritas Pelabuhan Johor (Skala Biaya) Tahun 2011",
+   "ms": "Undang-Undang Kecil Lembaga Pelabuhan Johor (Skala Caj) 2011"
+  },
+  "MY-H1927": {
+   "zh": "2014年工厂与机械（豁免 TORAY BASF PBT RESIN 私人有限公司（彭亨关丹））令",
+   "vi": "Lệnh về Nhà máy và máy móc (Miễn trừ cho TORAY BASF PBT RESIN Sdn. Bhd., Kuantan, Pahang) năm 2014",
+   "th": "คำสั่งโรงงานและเครื่องจักร (การยกเว้นให้ TORAY BASF PBT RESIN Sdn. Bhd., กวนตัน, ปะหัง) ค.ศ. 2014",
+   "id": "Perintah Pabrik dan Mesin (Pembebasan bagi TORAY BASF PBT RESIN Sdn. Bhd., Kuantan, Pahang) Tahun 2014",
+   "ms": "Perintah Kilang dan Jentera (Pengecualian kepada TORAY BASF PBT RESIN Sdn. Bhd., Kuantan, Pahang) 2014"
+  },
+  "MY-H1929": {
+   "zh": "2016年马来西亚存款保险机构（存款保险限额）（修正）令",
+   "vi": "Lệnh về Tổng công ty Bảo hiểm Tiền gửi Malaysia (Hạn mức bảo hiểm tiền gửi) (Sửa đổi) năm 2016",
+   "th": "คำสั่งองค์การประกันเงินฝากมาเลเซีย (วงเงินประกันเงินฝาก) (การแก้ไข) ค.ศ. 2016",
+   "id": "Perintah Lembaga Penjamin Simpanan Malaysia (Batas Penjaminan Simpanan) (Perubahan) Tahun 2016",
+   "ms": "Perintah Perbadanan Insurans Deposit Malaysia (Had Insurans Deposit) (Pindaan) 2016"
+  },
+  "MY-H1931": {
+   "zh": "2019年机动车（豁免从价登记费）（废止）规则",
+   "vi": "Quy tắc về Xe cơ giới (Miễn phí đăng ký theo trị giá) (Bãi bỏ) năm 2019",
+   "th": "กฎรถยนต์ (การยกเว้นค่าธรรมเนียมการขึ้นทะเบียนตามมูลค่า) (การเพิกถอน) ค.ศ. 2019",
+   "id": "Tata Tertib Kendaraan Bermotor (Pembebasan Biaya Registrasi Ad Valorem) (Pencabutan) Tahun 2019",
+   "ms": "Kaedah Kenderaan Bermotor (Pengecualian Fi Pendaftaran Ad Valorem) (Pembatalan) 2019"
+  },
+  "MY-H1938": {
+   "zh": "2026年马来西亚渔业发展局（渔业综合区、渔港与渔获卸岸码头）（修正）规则",
+   "vi": "Quy tắc về Cơ quan Phát triển Thủy sản Malaysia (Khu phức hợp thủy sản, cảng cá và cầu cảng bốc dỡ hải sản) (Sửa đổi) năm 2026",
+   "th": "กฎองค์การพัฒนาการประมงมาเลเซีย (ศูนย์รวมการประมง ท่าเรือประมง และท่าเทียบเรือขนถ่ายสัตว์น้ำ) (การแก้ไข) ค.ศ. 2026",
+   "id": "Tata Tertib Lembaga Pengembangan Perikanan Malaysia (Kompleks Perikanan, Pelabuhan Perikanan dan Dermaga Pendaratan Ikan) (Perubahan) Tahun 2026",
+   "ms": "Kaedah Lembaga Kemajuan Ikan Malaysia (Kompleks Perikanan, Jeti Pendaratan Ikan dan Pelabuhan Perikanan) (Pindaan) 2026"
+  },
+  "MY-H194": {
+   "zh": "1978年马来西亚人民银行（特别规定）法",
+   "vi": "Luật về Bank Kerjasama Rakyat Malaysia Berhad (Các quy định đặc biệt) năm 1978",
+   "th": "พระราชบัญญัติธนาคารเคร็จาซามารายัตมาเลเซีย (บทบัญญัติพิเศษ) ค.ศ. 1978",
+   "id": "Undang-Undang Bank Kerjasama Rakyat Malaysia Berhad (Ketentuan Khusus) Tahun 1978",
+   "ms": "Akta Bank Kerjasama Rakyat Malaysia Berhad (Peruntukan Khas) 1978"
+  },
+  "MY-H1944": {
+   "zh": "2015年工厂与机械（豁免起重机械适宜证书）令",
+   "vi": "Lệnh về Nhà máy và máy móc (Miễn giấy chứng nhận phù hợp cho máy nâng) năm 2015",
+   "th": "คำสั่งโรงงานและเครื่องจักร (การยกเว้นหนังสือรับรองความเหมาะสมของเครื่องยก) ค.ศ. 2015",
+   "id": "Perintah Pabrik dan Mesin (Pembebasan Sertifikat Kelayakan Mesin Pengangkat) Tahun 2015",
+   "ms": "Perintah Kilang dan Jentera (Pengecualian Sijil Kesesuaian Mesin Pengangkat) 2015"
+  },
+  "MY-H1957": {
+   "zh": "2006年开发金融机构（马来西亚农业银行）（修改）令",
+   "vi": "Lệnh về Tổ chức tài chính phát triển (Ngân hàng Nông nghiệp Malaysia) (Sửa đổi) năm 2006",
+   "th": "คำสั่งสถาบันการเงินเพื่อการพัฒนา (ธนาคารเกษตรมาเลเซีย) (การดัดแปลง) ค.ศ. 2006",
+   "id": "Perintah Lembaga Keuangan Pembangunan (Bank Pertanian Malaysia) (Modifikasi) Tahun 2006",
+   "ms": "Perintah Institusi Kewangan Pembangunan (Bank Pertanian Malaysia) (Pengubahsuaian) 2006"
+  },
+  "MY-H1975": {
+   "zh": "2019年国家林业（联邦直辖区）规则",
+   "vi": "Quy tắc về Lâm nghiệp quốc gia (Các lãnh thổ liên bang) năm 2019",
+   "th": "กฎการป่าไม้แห่งชาติ (เขตสหพันธรัฐ) ค.ศ. 2019",
+   "id": "Tata Tertib Kehutanan Nasional (Wilayah-Wilayah Persekutuan) Tahun 2019",
+   "ms": "Kaedah Perhutanan Negara (Wilayah-Wilayah Persekutuan) 2019"
+  },
+  "MY-H1989": {
+   "zh": "2018年固体废物与公共清洁管理（商业、工业及机构固体废物计划）条例",
+   "vi": "Quy định về Quản lý chất thải rắn và vệ sinh công cộng (Chương trình chất thải rắn thương mại, công nghiệp và tổ chức) năm 2018",
+   "th": "ข้อบังคับการจัดการขยะมูลฝอยและการรักษาความสะอาดสาธารณะ (โครงการขยะมูลฝอยพาณิชย์ อุตสาหกรรม และสถาบัน) ค.ศ. 2018",
+   "id": "Peraturan Pengelolaan Sampah Padat dan Kebersihan Umum (Skema Sampah Padat Komersial, Industri dan Institusi) Tahun 2018",
+   "ms": "Peraturan Pengurusan Sisa Pepejal dan Pembersihan Awam (Skim Sisa Pepejal Komersial, Perindustrian dan Institusi) 2018"
+  },
+  "MY-H1999": {
+   "zh": "2012年银行与金融机构（PROKHAS 私人有限公司）（豁免）令",
+   "vi": "Lệnh về Ngân hàng và tổ chức tài chính (PROKHAS Sdn. Bhd.) (Miễn trừ) năm 2012",
+   "th": "คำสั่งการธนาคารและสถาบันการเงิน (PROKHAS Sdn. Bhd.) (การยกเว้น) ค.ศ. 2012",
+   "id": "Perintah Perbankan dan Lembaga Keuangan (PROKHAS Sdn. Bhd.) (Pembebasan) Tahun 2012",
+   "ms": "Perintah Perbankan dan Institusi Kewangan (PROKHAS Sdn. Bhd.) (Pengecualian) 2012"
+  },
+  "MY-H2014": {
+   "zh": "2013年武装部队（正规部队服役条款）条例",
+   "vi": "Quy định về Lực lượng vũ trang (Điều kiện phục vụ của lực lượng chính quy) năm 2013",
+   "th": "ข้อบังคับกองทัพ (ข้อกำหนดการรับราชการของกำลังรบประจำการ) ค.ศ. 2013",
+   "id": "Peraturan Angkatan Bersenjata (Ketentuan Dinas Angkatan Reguler) Tahun 2013",
+   "ms": "Peraturan Angkatan Tentera (Terma Perkhidmatan Angkatan Tetap) 2013"
+  },
+  "MY-H2015": {
+   "zh": "2014年商品与服务税（应税供应金额）令",
+   "vi": "Lệnh về Thuế hàng hóa và dịch vụ (Số tiền cung ứng chịu thuế) năm 2014",
+   "th": "คำสั่งภาษีสินค้าและบริการ (จำนวนเงินของการจัดหาที่ต้องเสียภาษี) ค.ศ. 2014",
+   "id": "Perintah Pajak Barang dan Jasa (Jumlah Penyerahan Kena Pajak) Tahun 2014",
+   "ms": "Perintah Cukai Barang dan Perkhidmatan (Jumlah Bekalan Bercukai) 2014"
+  },
+  "MY-H2016": {
+   "zh": "2015年所得税（炼油与石化一体化开发的开业前费用扣除）（修正）规则",
+   "vi": "Quy tắc về Thuế thu nhập (Khấu trừ chi phí trước khi khởi công liên quan đến phát triển tích hợp nhà máy lọc dầu và hóa dầu) (Sửa đổi) năm 2015",
+   "th": "กฎภาษีเงินได้ (การหักค่าใช้จ่ายก่อนเริ่มดำเนินการเกี่ยวกับการพัฒนาแบบบูรณาการโรงกลั่นและปิโตรเคมี) (การแก้ไข) ค.ศ. 2015",
+   "id": "Tata Tertib Pajak Penghasilan (Pengurangan atas Biaya Pra-Mulai Terkait Pengembangan Terpadu Kilang dan Petrokimia) (Perubahan) Tahun 2015",
+   "ms": "Kaedah Cukai Pendapatan (Potongan bagi Perbelanjaan Pra-Permulaan Berhubung Pembangunan Bersepadu Loji Penapisan dan Petrokimia) (Pindaan) 2015"
+  },
+  "MY-H2020": {
+   "zh": "2020年分层地契（附属地契转为分层地契）（吉隆坡联邦直辖区）规则",
+   "vi": "Quy tắc về Giấy chứng nhận sở hữu phân tầng (Chuyển đổi giấy chứng nhận phụ sang giấy chứng nhận phân tầng) (Lãnh thổ Liên bang Kuala Lumpur) năm 2020",
+   "th": "กฎกรรมสิทธิ์แบ่งชั้น (การแปลงโฉนดย่อยเป็นโฉนดแบ่งชั้น) (เขตการปกครองสหพันธ์กัวลาลัมเปอร์) ค.ศ. 2020",
+   "id": "Tata Tertib Sertifikat Hak Milik Bertingkat (Konversi Sertifikat Anak ke Sertifikat Bertingkat) (Wilayah Persekutuan Kuala Lumpur) Tahun 2020",
+   "ms": "Kaedah Hakmilik Strata (Penukaran Hakmilik Subsidiari kepada Hakmilik Strata) (Wilayah Persekutuan Kuala Lumpur) 2020"
+  },
+  "MY-H2041": {
+   "zh": "2024年所得税（马来西亚船舶豁免）令",
+   "vi": "Lệnh về Thuế thu nhập (Miễn trừ cho tàu Malaysia) năm 2024",
+   "th": "คำสั่งภาษีเงินได้ (การยกเว้นสำหรับเรือมาเลเซีย) ค.ศ. 2024",
+   "id": "Perintah Pajak Penghasilan (Pembebasan bagi Kapal Malaysia) Tahun 2024",
+   "ms": "Perintah Cukai Pendapatan (Pengecualian bagi Kapal Malaysia) 2024"
+  },
+  "MY-H2049": {
+   "zh": "2016年通信与多媒体（费率）（废止）规则",
+   "vi": "Quy tắc về Truyền thông và đa phương tiện (Các mức phí) (Bãi bỏ) năm 2016",
+   "th": "กฎการสื่อสารและมัลติมีเดีย (อัตรา) (การเพิกถอน) ค.ศ. 2016",
+   "id": "Tata Tertib Komunikasi dan Multimedia (Tarif) (Pencabutan) Tahun 2016",
+   "ms": "Kaedah Komunikasi dan Multimedia (Kadar) (Pembatalan) 2016"
+  },
+  "MY-H2057": {
+   "zh": "2024年价格管制与反暴利（持牌旅游经营商服务类别的固定收费核定）令",
+   "vi": "Lệnh về Kiểm soát giá và chống trục lợi (Xác định phí cố định theo loại hình dịch vụ của công ty lữ hành được cấp phép) năm 2024",
+   "th": "คำสั่งการควบคุมราคาและการต่อต้านการฉวยโอกาส (การกำหนดค่าบริการคงที่ตามประเภทบริการของผู้ประกอบการนำเที่ยวที่ได้รับใบอนุญาต) ค.ศ. 2024",
+   "id": "Perintah Pengendalian Harga dan Anti-Pencatutan (Penetapan Biaya Tetap untuk Klasifikasi Jasa Biro Perjalanan Wisata Berizin) Tahun 2024",
+   "ms": "Perintah Kawalan Harga dan Anti-Pencatutan (Penentuan Caj Tetap bagi Kelas Perkhidmatan Pengendali Pelancongan Berlesen) 2024"
+  },
+  "MY-H2063": {
+   "zh": "2014年商品与服务税（税务代理申请费）令",
+   "vi": "Lệnh về Thuế hàng hóa và dịch vụ (Phí nộp đơn đại lý thuế) năm 2014",
+   "th": "คำสั่งภาษีสินค้าและบริการ (ค่าธรรมเนียมการยื่นคำขอตัวแทนภาษี) ค.ศ. 2014",
+   "id": "Perintah Pajak Barang dan Jasa (Biaya Permohonan Agen Pajak) Tahun 2014",
+   "ms": "Perintah Cukai Barang dan Perkhidmatan (Fi Permohonan Ejen Cukai) 2014"
+  },
+  "MY-H2073": {
+   "zh": "2024年农药（虫害防治经营者）（修正）规则",
+   "vi": "Quy tắc về Thuốc bảo vệ thực vật (Đơn vị kiểm soát dịch hại) (Sửa đổi) năm 2024",
+   "th": "กฎสารกำจัดศัตรูพืช (ผู้ประกอบการควบคุมแมลงและศัตรูพืช) (การแก้ไข) ค.ศ. 2024",
+   "id": "Tata Tertib Pestisida (Operator Pengendalian Hama) (Perubahan) Tahun 2024",
+   "ms": "Kaedah Racun Makhluk Perosak (Pengendali Kawalan Perosak) (Pindaan) 2024"
+  },
+  "MY-H2075": {
+   "zh": "2026年国家技能发展（豁免技术技能学习计划学员费用）条例",
+   "vi": "Quy định về Phát triển kỹ năng quốc gia (Miễn phí cho học viên chương trình học kỹ năng kỹ thuật) năm 2026",
+   "th": "ข้อบังคับการพัฒนาทักษะแห่งชาติ (การยกเว้นค่าธรรมเนียมสำหรับผู้เข้าอบรมโครงการเรียนรู้ทักษะเทคนิค) ค.ศ. 2026",
+   "id": "Peraturan Pengembangan Keterampilan Nasional (Pembebasan Biaya bagi Peserta Program Pembelajaran Keterampilan Teknis) Tahun 2026",
+   "ms": "Peraturan Pembangunan Kemahiran Kebangsaan (Pelepasan Fi kepada Pelatih Program Pembelajaran Kemahiran Teknikal) 2026"
+  },
+  "MY-H2081": {
+   "zh": "2016年教育（职业学院评议会）条例",
+   "vi": "Quy định về Giáo dục (Hội đồng Trường Cao đẳng Nghề) năm 2016",
+   "th": "ข้อบังคับการศึกษา (สภาวิทยาลัยอาชีวศึกษา) ค.ศ. 2016",
+   "id": "Peraturan Pendidikan (Senat Sekolah Tinggi Vokasi) Tahun 2016",
+   "ms": "Peraturan Pendidikan (Senat Kolej Vokasional) 2016"
+  },
+  "MY-H2084": {
+   "zh": "2019年渔业（濒危鱼种管制）（修正）条例",
+   "vi": "Quy định về Thủy sản (Kiểm soát các loài cá nguy cấp) (Sửa đổi) năm 2019",
+   "th": "ข้อบังคับการประมง (การควบคุมชนิดพันธุ์ปลาที่ใกล้สูญพันธุ์) (การแก้ไข) ค.ศ. 2019",
+   "id": "Peraturan Perikanan (Pengendalian Jenis Ikan Terancam Punah) (Perubahan) Tahun 2019",
+   "ms": "Peraturan Perikanan (Kawalan Spesies Ikan Terancam) (Pindaan) 2019"
+  },
+  "MY-H2089": {
+   "zh": "2024年农药（销售及为销售而储存的许可）（修正）规则",
+   "vi": "Quy tắc về Thuốc bảo vệ thực vật (Cấp phép bán và lưu kho để bán) (Sửa đổi) năm 2024",
+   "th": "กฎสารกำจัดศัตรูพืช (การออกใบอนุญาตขายและการเก็บรักษาเพื่อขาย) (การแก้ไข) ค.ศ. 2024",
+   "id": "Tata Tertib Pestisida (Perizinan Penjualan dan Penyimpanan untuk Dijual) (Perubahan) Tahun 2024",
+   "ms": "Kaedah Racun Makhluk Perosak (Pelesenan Penjualan dan Penyimpanan untuk Dijual) (Pindaan) 2024"
+  },
+  "MY-H2095": {
+   "zh": "2013年外汇管制（授权交易商与授权存管机构）（废止）令",
+   "vi": "Lệnh về Kiểm soát ngoại hối (Đại lý được ủy quyền và tổ chức lưu ký được ủy quyền) (Bãi bỏ) năm 2013",
+   "th": "คำสั่งการควบคุมการแลกเปลี่ยนเงิน (ผู้ค้าที่ได้รับอนุญาตและผู้รับฝากที่ได้รับอนุญาต) (การเพิกถอน) ค.ศ. 2013",
+   "id": "Perintah Pengendalian Devisa (Pedagang Berwenang dan Lembaga Penyimpanan Berwenang) (Pencabutan) Tahun 2013",
+   "ms": "Perintah Kawalan Pertukaran Wang (Peniaga Diberi Kuasa dan Depositori Diberi Kuasa) (Pembatalan) 2013"
+  },
+  "MY-H2096": {
+   "zh": "2014年商品与服务税（预先裁定）条例",
+   "vi": "Quy định về Thuế hàng hóa và dịch vụ (Phán quyết trước) năm 2014",
+   "th": "ข้อบังคับภาษีสินค้าและบริการ (คำวินิจฉัยล่วงหน้า) ค.ศ. 2014",
+   "id": "Peraturan Pajak Barang dan Jasa (Ketetapan Pendahuluan) Tahun 2014",
+   "ms": "Peraturan Cukai Barang dan Perkhidmatan (Keputusan Awal) 2014"
+  },
+  "MY-H2098": {
+   "zh": "2016年养老金调整（最低养老金）令",
+   "vi": "Lệnh về Điều chỉnh lương hưu (Lương hưu thấp nhất) năm 2016",
+   "th": "คำสั่งการปรับเงินบำนาญ (เงินบำนาญต่ำสุด) ค.ศ. 2016",
+   "id": "Perintah Penyesuaian Pensiun (Pensiun Terendah) Tahun 2016",
+   "ms": "Perintah Pelarasan Pencen (Pencen Terendah) 2016"
+  },
+  "MY-H2121": {
+   "zh": "2026年贷款担保（法人团体）（税收与印花税豁免）（马来西亚基建有限公司）令",
+   "vi": "Lệnh về Bảo lãnh khoản vay (Pháp nhân) (Giảm miễn thuế và thuế tem) (Prasarana Malaysia Berhad) năm 2026",
+   "th": "คำสั่งการค้ำประกันเงินกู้ (นิติบุคคล) (การงดเว้นภาษีและอากรแสตมป์) (ปราสารานามาเลเซีย เบอร์ฮัด) ค.ศ. 2026",
+   "id": "Perintah Jaminan Pinjaman (Badan Hukum) (Pembebasan Pajak dan Bea Meterai) (Prasarana Malaysia Berhad) Tahun 2026",
+   "ms": "Perintah Jaminan Pinjaman (Badan Korporat) (Remisi Cukai dan Duti Setem) (Prasarana Malaysia Berhad) 2026"
+  },
+  "MY-H2138": {
+   "zh": "2013年外汇管制（破产通知的形式）（废止）令",
+   "vi": "Lệnh về Kiểm soát ngoại hối (Mẫu thông báo phá sản) (Bãi bỏ) năm 2013",
+   "th": "คำสั่งการควบคุมการแลกเปลี่ยนเงิน (รูปแบบหนังสือแจ้งล้มละลาย) (การเพิกถอน) ค.ศ. 2013",
+   "id": "Perintah Pengendalian Devisa (Formulir Pemberitahuan Kepailitan) (Pencabutan) Tahun 2013",
+   "ms": "Perintah Kawalan Pertukaran Wang (Borang Notis Kebankrapan) (Pembatalan) 2013"
+  },
+  "MY-H2154": {
+   "zh": "2013年外汇管制（地域与缴付方式的订明）（废止）令",
+   "vi": "Lệnh về Kiểm soát ngoại hối (Quy định lãnh thổ và phương thức thanh toán) (Bãi bỏ) năm 2013",
+   "th": "คำสั่งการควบคุมการแลกเปลี่ยนเงิน (การกำหนดอาณาเขตและวิธีการชำระเงิน) (การเพิกถอน) ค.ศ. 2013",
+   "id": "Perintah Pengendalian Devisa (Penetapan Wilayah dan Cara Pembayaran) (Pencabutan) Tahun 2013",
+   "ms": "Perintah Kawalan Pertukaran Wang (Penetapan Wilayah dan Cara Pembayaran) (Pembatalan) 2013"
+  },
+  "MY-H2161": {
+   "zh": "2020年关税税则（依《东盟与日本成员国政府全面经济伙伴关系协定》的货物）令",
+   "vi": "Lệnh về Thuế quan (Hàng hóa theo Hiệp định Đối tác Kinh tế Toàn diện giữa Chính phủ các Quốc gia thành viên ASEAN và Nhật Bản) năm 2020",
+   "th": "คำสั่งอากรศุลกากร (สินค้าภายใต้ความตกลงหุ้นส่วนทางเศรษฐกิจที่ครอบคลุมระหว่างรัฐบาลรัฐสมาชิกอาเซียนกับญี่ปุ่น) ค.ศ. 2020",
+   "id": "Perintah Bea Masuk (Barang berdasarkan Persetujuan Kemitraan Ekonomi Menyeluruh antar Pemerintah Negara Anggota ASEAN dan Jepang) Tahun 2020",
+   "ms": "Perintah Duti Kastam (Barang di bawah Perjanjian Perkongsian Ekonomi Menyeluruh antara Kerajaan Negara Anggota ASEAN dan Jepun) 2020"
+  },
+  "MY-H2166": {
+   "zh": "2026年动物（进口）（修正）令",
+   "vi": "Lệnh về Động vật (Nhập khẩu) (Sửa đổi) năm 2026",
+   "th": "คำสั่งสัตว์ (การนำเข้า) (การแก้ไข) ค.ศ. 2026",
+   "id": "Perintah Hewan (Impor) (Perubahan) Tahun 2026",
+   "ms": "Perintah Haiwan (Pengimportan) (Pindaan) 2026"
+  },
+  "MY-H2171": {
+   "zh": "2013年外汇管制（黄金豁免）（废止）令",
+   "vi": "Lệnh về Kiểm soát ngoại hối (Miễn trừ vàng) (Bãi bỏ) năm 2013",
+   "th": "คำสั่งการควบคุมการแลกเปลี่ยนเงิน (การยกเว้นทองคำ) (การเพิกถอน) ค.ศ. 2013",
+   "id": "Perintah Pengendalian Devisa (Pembebasan Emas) (Pencabutan) Tahun 2013",
+   "ms": "Perintah Kawalan Pertukaran Wang (Pengecualian Emas) (Pembatalan) 2013"
+  },
+  "MY-H2175": {
+   "zh": "2018年马六甲马来西亚技术大学（注册成立）（迁址）令",
+   "vi": "Lệnh về Đại học Kỹ thuật Malaysia Melaka (Thành lập) (Di dời) năm 2018",
+   "th": "คำสั่งมหาวิทยาลัยเทคนิคมาเลเซียมะละกา (การจดทะเบียนจัดตั้ง) (การย้ายที่ตั้ง) ค.ศ. 2018",
+   "id": "Perintah Universitas Teknikal Malaysia Melaka (Pendirian) (Relokasi) Tahun 2018",
+   "ms": "Perintah Universiti Teknikal Malaysia Melaka (Perbadanan) (Penempatan Semula) 2018"
+  },
+  "MY-H2186": {
+   "zh": "2013年外汇管制（货币兑换业务）（豁免）（废止）令",
+   "vi": "Lệnh về Kiểm soát ngoại hối (Nghiệp vụ đổi tiền) (Miễn trừ) (Bãi bỏ) năm 2013",
+   "th": "คำสั่งการควบคุมการแลกเปลี่ยนเงิน (ธุรกิจแลกเปลี่ยนเงิน) (การยกเว้น) (การเพิกถอน) ค.ศ. 2013",
+   "id": "Perintah Pengendalian Devisa (Usaha Penukaran Valuta) (Pembebasan) (Pencabutan) Tahun 2013",
+   "ms": "Perintah Kawalan Pertukaran Wang (Perniagaan Penukaran Wang) (Pengecualian) (Pembatalan) 2013"
+  },
+  "MY-H2197": {
+   "zh": "2025年所得税（环保、社会与治理相关支出的扣除）规则",
+   "vi": "Quy tắc về Thuế thu nhập (Khấu trừ chi phí liên quan đến bảo vệ môi trường, xã hội và quản trị) năm 2025",
+   "th": "กฎภาษีเงินได้ (การหักค่าใช้จ่ายที่เกี่ยวกับการอนุรักษ์สิ่งแวดล้อม สังคม และธรรมาภิบาล) ค.ศ. 2025",
+   "id": "Tata Tertib Pajak Penghasilan (Pengurangan atas Pengeluaran Terkait Pelestarian Lingkungan, Sosial dan Tata Kelola) Tahun 2025",
+   "ms": "Kaedah Cukai Pendapatan (Potongan bagi Perbelanjaan Berhubung Pemuliharaan Alam Sekitar, Sosial dan Tadbir Urus) 2025"
+  },
+  "MY-H2201": {
+   "zh": "2013年外汇管制（批发货币业务）（豁免）（废止）令",
+   "vi": "Lệnh về Kiểm soát ngoại hối (Nghiệp vụ tiền tệ bán buôn) (Miễn trừ) (Bãi bỏ) năm 2013",
+   "th": "คำสั่งการควบคุมการแลกเปลี่ยนเงิน (ธุรกิจเงินตราขายส่ง) (การยกเว้น) (การเพิกถอน) ค.ศ. 2013",
+   "id": "Perintah Pengendalian Devisa (Usaha Valuta Grosir) (Pembebasan) (Pencabutan) Tahun 2013",
+   "ms": "Perintah Kawalan Pertukaran Wang (Perniagaan Mata Wang Borong) (Pengecualian) (Pembatalan) 2013"
+  },
+  "MY-H2231": {
+   "zh": "2011年银行与金融机构（持牌外国电子货币经纪）（豁免）令",
+   "vi": "Lệnh về Ngân hàng và tổ chức tài chính (Nhà môi giới tiền điện tử nước ngoài được cấp phép) (Miễn trừ) năm 2011",
+   "th": "คำสั่งการธนาคารและสถาบันการเงิน (นายหน้าตราอิเล็กทรอนิกส์ต่างชาติที่ได้รับใบอนุญาต) (การยกเว้น) ค.ศ. 2011",
+   "id": "Perintah Perbankan dan Lembaga Keuangan (Pialang Uang Elektronik Asing Berizin) (Pembebasan) Tahun 2011",
+   "ms": "Perintah Perbankan dan Institusi Kewangan (Broker Wang Elektronik Asing Berlesen) (Pengecualian) 2011"
+  },
+  "MY-H2233": {
+   "zh": "2013年银行与金融机构（最低资本金额）（废止）令",
+   "vi": "Lệnh về Ngân hàng và tổ chức tài chính (Số tiền vốn tối thiểu) (Bãi bỏ) năm 2013",
+   "th": "คำสั่งการธนาคารและสถาบันการเงิน (จำนวนเงินทุนขั้นต่ำ) (การเพิกถอน) ค.ศ. 2013",
+   "id": "Perintah Perbankan dan Lembaga Keuangan (Jumlah Minimum Dana Modal) (Pencabutan) Tahun 2013",
+   "ms": "Perintah Perbankan dan Institusi Kewangan (Jumlah Minimum Dana Modal) (Pembatalan) 2013"
+  },
+  "MY-H2497": {
+   "zh": "2023年合作社（接管 柔佛南部小园主合作社（KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD））（再委任）令",
+   "vi": "Lệnh về Hợp tác xã (Tiếp nhận kiểm soát KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (Tái bổ nhiệm) năm 2023",
+   "th": "คำสั่งสหกรณ์ (การเข้าควบคุม KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (การแต่งตั้งอีกครั้ง) ค.ศ. 2023",
+   "id": "Perintah Koperasi (Pengambilalihan Pengendalian KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (Pengangkatan Kembali) Tahun 2023",
+   "ms": "Perintah Koperasi (Pengambilalihan Kawalan KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (Pelantikan Semula) 2023"
+  },
+  "MY-H2511": {
+   "zh": "2023年合作社（接管 KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD）（再委任）（第2号）令",
+   "vi": "Lệnh về Hợp tác xã (Tiếp nhận kiểm soát KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (Tái bổ nhiệm) (số 2) năm 2023",
+   "th": "คำสั่งสหกรณ์ (การเข้าควบคุม KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (การแต่งตั้งอีกครั้ง) (ฉบับที่ 2) ค.ศ. 2023",
+   "id": "Perintah Koperasi (Pengambilalihan Pengendalian KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (Pengangkatan Kembali) (Nomor 2) Tahun 2023",
+   "ms": "Perintah Koperasi (Pengambilalihan Kawalan KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (Pelantikan Semula) (Bilangan 2) 2023"
+  },
+  "MY-H2567": {
+   "zh": "2018年关税（上诉审裁处）（修正）条例",
+   "vi": "Quy định về Hải quan (Tòa án Phúc thẩm) (Sửa đổi) năm 2018",
+   "th": "ข้อบังคับศุลกากร (คณะตุลาการอุทธรณ์) (การแก้ไข) ค.ศ. 2018",
+   "id": "Peraturan Kepabeanan (Tribunal Banding) (Perubahan) Tahun 2018",
+   "ms": "Peraturan Kastam (Tribunal Rayuan) (Pindaan) 2018"
+  },
+  "MY-H2771": {
+   "zh": "2016年食品（修正）（第2号）条例",
+   "vi": "Quy định về Thực phẩm (Sửa đổi) (số 2) năm 2016",
+   "th": "ข้อบังคับอาหาร (การแก้ไข) (ฉบับที่ 2) ค.ศ. 2016",
+   "id": "Peraturan Pangan (Perubahan) (Nomor 2) Tahun 2016",
+   "ms": "Peraturan Makanan (Pindaan) (Bilangan 2) 2016"
+  },
+  "MY-H2818": {
+   "zh": "2014年费用（医疗）（全额付费病人）（修正）令",
+   "vi": "Lệnh về Phí (Y tế) (Bệnh nhân tự trả toàn bộ) (Sửa đổi) năm 2014",
+   "th": "คำสั่งค่าธรรมเนียม (การแพทย์) (ผู้ป่วยชำระเต็มจำนวน) (การแก้ไข) ค.ศ. 2014",
+   "id": "Perintah Biaya (Medis) (Pasien Bayar Penuh) (Perubahan) Tahun 2014",
+   "ms": "Perintah Fi (Perubatan) (Pesakit Bayar Penuh) (Pindaan) 2014"
+  },
+  "MY-H2872": {
+   "zh": "2020年橡胶业小园主发展局（附加征费）令",
+   "vi": "Lệnh về Cơ quan Phát triển Tiểu điền Cao su (Thuế bổ sung) năm 2020",
+   "th": "คำสั่งหน่วยงานพัฒนาสวนยางรายย่อย (ภาษีส่วนเพิ่ม) ค.ศ. 2020",
+   "id": "Perintah Otoritas Pengembangan Pekebun Kecil Karet (Pungutan Tambahan) Tahun 2020",
+   "ms": "Perintah Pihak Berkuasa Kemajuan Pekebun Kecil Perusahaan Getah (Cukai Tambahan) 2020"
+  },
+  "MY-H2925": {
+   "zh": "2011年费用（护照与签证）（费用免除）令",
+   "vi": "Lệnh về Phí (Hộ chiếu và thị thực) (Miễn giảm phí) năm 2011",
+   "th": "คำสั่งค่าธรรมเนียม (หนังสือเดินทางและวีซ่า) (การงดเว้นค่าธรรมเนียม) ค.ศ. 2011",
+   "id": "Perintah Biaya (Paspor dan Visa) (Pembebasan Biaya) Tahun 2011",
+   "ms": "Perintah Fi (Pasport dan Visa) (Remisi Fi) 2011"
+  },
+  "MY-H2939": {
+   "zh": "街道、排水与建筑（社区服务类型与社区服务执行的监督方式）（布城联邦直辖区）附例",
+   "vi": "Quy chế về Đường phố, thoát nước và xây dựng (Loại hình phục vụ cộng đồng và cách thức giám sát việc thực hiện phục vụ cộng đồng) (Lãnh thổ Liên bang Putrajaya)",
+   "th": "ข้อบัญญัติถนน การระบายน้ำ และอาคาร (ประเภทงานบริการสังคมและวิธีการกำกับดูแลการปฏิบัติงานบริการสังคม) (เขตสหพันธรัฐปุตราจายา)",
+   "id": "Peraturan Daerah Jalan, Drainase dan Bangunan (Jenis Pelayanan Masyarakat dan Cara Pengawasan Pelaksanaan Pelayanan Masyarakat) (Wilayah Persekutuan Putrajaya)",
+   "ms": "Undang-Undang Kecil Jalan, Saliran dan Bangunan (Jenis Perkhidmatan Masyarakat dan Cara Penyeliaan Pelaksanaan Perkhidmatan Masyarakat) (Wilayah Persekutuan Putrajaya)"
+  },
+  "MY-H3048": {
+   "zh": "2017年费用（护照与签证）（费用免除）令",
+   "vi": "Lệnh về Phí (Hộ chiếu và thị thực) (Miễn giảm phí) năm 2017",
+   "th": "คำสั่งค่าธรรมเนียม (หนังสือเดินทางและวีซ่า) (การงดเว้นค่าธรรมเนียม) ค.ศ. 2017",
+   "id": "Perintah Biaya (Paspor dan Visa) (Pembebasan Biaya) Tahun 2017",
+   "ms": "Perintah Fi (Pasport dan Visa) (Remisi Fi) 2017"
+  },
+  "MY-H3113": {
+   "zh": "2017年费用（护照与签证）（费用免除）（第2号）令",
+   "vi": "Lệnh về Phí (Hộ chiếu và thị thực) (Miễn giảm phí) (số 2) năm 2017",
+   "th": "คำสั่งค่าธรรมเนียม (หนังสือเดินทางและวีซ่า) (การงดเว้นค่าธรรมเนียม) (ฉบับที่ 2) ค.ศ. 2017",
+   "id": "Perintah Biaya (Paspor dan Visa) (Pembebasan Biaya) (Nomor 2) Tahun 2017",
+   "ms": "Perintah Fi (Pasport dan Visa) (Remisi Fi) (Bilangan 2) 2017"
+  },
+  "MY-H3171": {
+   "zh": "2013年证券业（中央存管机构）（豁免）令",
+   "vi": "Lệnh về Ngành chứng khoán (Các tổ chức lưu ký trung tâm) (Miễn trừ) năm 2013",
+   "th": "คำสั่งอุตสาหกรรมหลักทรัพย์ (ศูนย์รับฝากหลักทรัพย์) (การยกเว้น) ค.ศ. 2013",
+   "id": "Perintah Industri Sekuritas (Lembaga Penyimpanan Sentral) (Pembebasan) Tahun 2013",
+   "ms": "Perintah Industri Sekuriti (Depositori Pusat) (Pengecualian) 2013"
+  },
+  "MY-H3376": {
+   "zh": "2012年劳工（儿童与青少年的雇用）（沙巴）规则",
+   "vi": "Quy tắc về Lao động (Việc sử dụng lao động trẻ em và người trẻ) (Sabah) năm 2012",
+   "th": "กฎแรงงาน (การจ้างเด็กและเยาวชน) (ซาบาห์) ค.ศ. 2012",
+   "id": "Tata Tertib Tenaga Kerja (Pekerjaan Anak dan Orang Muda) (Sabah) Tahun 2012",
+   "ms": "Kaedah Buruh (Penggajian Kanak-Kanak dan Orang Muda) (Sabah) 2012"
+  },
+  "MY-H3392": {
+   "zh": "2012年劳工（儿童与青少年的雇用）（砂拉越）规则",
+   "vi": "Quy tắc về Lao động (Việc sử dụng lao động trẻ em và người trẻ) (Sarawak) năm 2012",
+   "th": "กฎแรงงาน (การจ้างเด็กและเยาวชน) (ซาราวัก) ค.ศ. 2012",
+   "id": "Tata Tertib Tenaga Kerja (Pekerjaan Anak dan Orang Muda) (Sarawak) Tahun 2012",
+   "ms": "Kaedah Buruh (Penggajian Kanak-Kanak dan Orang Muda) (Sarawak) 2012"
+  },
+  "MY-H3471": {
+   "zh": "2011年移民（豁免）（寻求庇护者）令",
+   "vi": "Lệnh về Xuất nhập cảnh (Miễn trừ) (Người xin tị nạn) năm 2011",
+   "th": "คำสั่งการตรวจคนเข้าเมือง (การยกเว้น) (ผู้ขอลี้ภัย) ค.ศ. 2011",
+   "id": "Perintah Imigrasi (Pembebasan) (Pencari Suaka) Tahun 2011",
+   "ms": "Perintah Imigresen (Pengecualian) (Pencari Suaka) 2011"
+  },
+  "MY-H3487": {
+   "zh": "2011年护照（豁免）（寻求庇护者）令",
+   "vi": "Lệnh về Hộ chiếu (Miễn trừ) (Người xin tị nạn) năm 2011",
+   "th": "คำสั่งหนังสือเดินทาง (การยกเว้น) (ผู้ขอลี้ภัย) ค.ศ. 2011",
+   "id": "Perintah Paspor (Pembebasan) (Pencari Suaka) Tahun 2011",
+   "ms": "Perintah Pasport (Pengecualian) (Pencari Suaka) 2011"
+  },
+  "MY-H3557": {
+   "zh": "2020年关税税则（东盟国家原产货物）（东盟统一关税术语与东盟货物贸易协定）（修正）（第3号）令",
+   "vi": "Lệnh về Thuế quan (Hàng hóa có xuất xứ từ các nước ASEAN) (Danh mục thuế quan hài hòa ASEAN và Hiệp định Thương mại Hàng hóa ASEAN) (Sửa đổi) (số 3) năm 2020",
+   "th": "คำสั่งอากรศุลกากร (สินค้าที่มีถิ่นกำเนิดในประเทศอาเซียน) (พิกัดอัตราศุลกากรฮาร์โมไนซ์อาเซียนและความตกลงการค้าสินค้าอาเซียน) (การแก้ไข) (ฉบับที่ 3) ค.ศ. 2020",
+   "id": "Perintah Bea Masuk (Barang Berasal dari Negara ASEAN) (Nomenklatur Tarif Harmonisasi ASEAN dan Persetujuan Perdagangan Barang ASEAN) (Perubahan) (Nomor 3) Tahun 2020",
+   "ms": "Perintah Duti Kastam (Barang Berasal dari Negara ASEAN) (Nomenklatur Tarif Diharmonikan ASEAN dan Perjanjian Perdagangan Barang ASEAN) (Pindaan) (Bilangan 3) 2020"
+  },
+  "MY-H3574": {
+   "zh": "2022年费用（护照与签证）（费用免除）令",
+   "vi": "Lệnh về Phí (Hộ chiếu và thị thực) (Miễn giảm phí) năm 2022",
+   "th": "คำสั่งค่าธรรมเนียม (หนังสือเดินทางและวีซ่า) (การงดเว้นค่าธรรมเนียม) ค.ศ. 2022",
+   "id": "Perintah Biaya (Paspor dan Visa) (Pembebasan Biaya) Tahun 2022",
+   "ms": "Perintah Fi (Pasport dan Visa) (Remisi Fi) 2022"
+  },
+  "MY-H358": {
+   "zh": "1991年证券业（中央存管机构）法",
+   "vi": "Luật về Ngành chứng khoán (Các tổ chức lưu ký trung tâm) năm 1991",
+   "th": "พระราชบัญญัติอุตสาหกรรมหลักทรัพย์ (ศูนย์รับฝากหลักทรัพย์) ค.ศ. 1991",
+   "id": "Undang-Undang Industri Sekuritas (Lembaga Penyimpanan Sentral) Tahun 1991",
+   "ms": "Akta Industri Sekuriti (Depositori Pusat) 1991"
+  },
+  "MY-H3666": {
+   "zh": "2020年合作社（接管 ANGKASA 回教融资合作社（KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD））（委任）令",
+   "vi": "Lệnh về Hợp tác xã (Tiếp nhận kiểm soát KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD) (Bổ nhiệm) năm 2020",
+   "th": "คำสั่งสหกรณ์ (การเข้าควบคุม KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD) (การแต่งตั้ง) ค.ศ. 2020",
+   "id": "Perintah Koperasi (Pengambilalihan Pengendalian KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD) (Pengangkatan) Tahun 2020",
+   "ms": "Perintah Koperasi (Pengambilalihan Kawalan KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD) (Pelantikan) 2020"
+  },
+  "MY-H3713": {
+   "zh": "2020年合作社（接管 柔佛南部小园主合作社（KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD））（委任）令",
+   "vi": "Lệnh về Hợp tác xã (Tiếp nhận kiểm soát KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (Bổ nhiệm) năm 2020",
+   "th": "คำสั่งสหกรณ์ (การเข้าควบคุม KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (การแต่งตั้ง) ค.ศ. 2020",
+   "id": "Perintah Koperasi (Pengambilalihan Pengendalian KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (Pengangkatan) Tahun 2020",
+   "ms": "Perintah Koperasi (Pengambilalihan Kawalan KOPERASI PEKEBUN KECIL WILAYAH JOHOR SELATAN BERHAD) (Pelantikan) 2020"
+  },
+  "MY-H3990": {
+   "zh": "2026年马来西亚证券委员会（附表1修正）令",
+   "vi": "Lệnh về Ủy ban Chứng khoán Malaysia (Sửa đổi Phụ lục 1) năm 2026",
+   "th": "คำสั่งคณะกรรมการกำกับหลักทรัพย์มาเลเซีย (การแก้ไขตารางที่ 1) ค.ศ. 2026",
+   "id": "Perintah Komisi Sekuritas Malaysia (Perubahan Lampiran 1) Tahun 2026",
+   "ms": "Perintah Suruhanjaya Sekuriti Malaysia (Pindaan Jadual 1) 2026"
+  },
+  "MY-H4058": {
+   "zh": "2019年柔佛港务局（收费表）（修正）附例",
+   "vi": "Quy chế về Cục Cảng Johor (Biểu phí) (Sửa đổi) năm 2019",
+   "th": "ข้อบัญญัติการท่าเรือยะโฮร์ (ตารางค่าบริการ) (การแก้ไข) ค.ศ. 2019",
+   "id": "Peraturan Daerah Otoritas Pelabuhan Johor (Skala Biaya) (Perubahan) Tahun 2019",
+   "ms": "Undang-Undang Kecil Lembaga Pelabuhan Johor (Skala Caj) (Pindaan) 2019"
+  },
+  "MY-H4123": {
+   "zh": "2026年民都鲁港务局（解散）（归属日期）令",
+   "vi": "Lệnh về Cục Cảng Bintulu (Giải thể) (Ngày chuyển giao) năm 2026",
+   "th": "คำสั่งการท่าเรือบินตูลู (การเลิก) (วันที่โอน) ค.ศ. 2026",
+   "id": "Perintah Otoritas Pelabuhan Bintulu (Pembubaran) (Tanggal Pelimpahan) Tahun 2026",
+   "ms": "Perintah Lembaga Pelabuhan Bintulu (Pembubaran) (Tarikh Pemberian) 2026"
+  },
+  "MY-H4130": {
+   "zh": "2018年最低工资（修正）令",
+   "vi": "Lệnh về Tiền lương tối thiểu (Sửa đổi) năm 2018",
+   "th": "คำสั่งค่าจ้างขั้นต่ำ (การแก้ไข) ค.ศ. 2018",
+   "id": "Perintah Upah Minimum (Perubahan) Tahun 2018",
+   "ms": "Perintah Upah Minimum (Pindaan) 2018"
+  },
+  "MY-H4159": {
+   "zh": "2013年劳工（兼职雇员）（沙巴）规则",
+   "vi": "Quy tắc về Lao động (Người lao động bán thời gian) (Sabah) năm 2013",
+   "th": "กฎแรงงาน (ลูกจ้างพาร์ทไทม์) (ซาบาห์) ค.ศ. 2013",
+   "id": "Tata Tertib Tenaga Kerja (Karyawan Paruh Waktu) (Sabah) Tahun 2013",
+   "ms": "Kaedah Buruh (Pekerja Sambilan) (Sabah) 2013"
+  },
+  "MY-H4172": {
+   "zh": "2013年劳工（兼职雇员）（砂拉越）规则",
+   "vi": "Quy tắc về Lao động (Người lao động bán thời gian) (Sarawak) năm 2013",
+   "th": "กฎแรงงาน (ลูกจ้างพาร์ทไทม์) (ซาราวัก) ค.ศ. 2013",
+   "id": "Tata Tertib Tenaga Kerja (Karyawan Paruh Waktu) (Sarawak) Tahun 2013",
+   "ms": "Kaedah Buruh (Pekerja Sambilan) (Sarawak) 2013"
+  },
+  "MY-H4248": {
+   "zh": "2016年联邦道路（私营管理）（通行费征收）（莎阿南大道）（修正）（第2号）令",
+   "vi": "Lệnh về Đường bộ liên bang (Quản lý tư nhân) (Thu phí đường bộ) (Đường cao tốc Shah Alam) (Sửa đổi) (số 2) năm 2016",
+   "th": "คำสั่งทางหลวงสหพันธ์ (การบริหารจัดการเอกชน) (การจัดเก็บค่าผ่านทาง) (ทางด่วนชาห์อาลัม) (การแก้ไข) (ฉบับที่ 2) ค.ศ. 2016",
+   "id": "Perintah Jalan Raya Federal (Pengelolaan Swasta) (Pemungutan Tol) (Jalan Tol Shah Alam) (Perubahan) (Nomor 2) Tahun 2016",
+   "ms": "Perintah Jalan Raya Persekutuan (Pengurusan Swasta) (Kutipan Tol) (Lebuh Raya Shah Alam) (Pindaan) (Bilangan 2) 2016"
+  },
+  "MY-H427": {
+   "zh": "1996年城市发展机构（解散）法",
+   "vi": "Luật về Tổng công ty Phát triển Đô thị (Giải thể) năm 1996",
+   "th": "พระราชบัญญัติองค์การพัฒนานคร (การเลิก) ค.ศ. 1996",
+   "id": "Undang-Undang Perbadanan Pembangunan Perkotaan (Pembubaran) Tahun 1996",
+   "ms": "Akta Perbadanan Pembangunan Bandar (Pembubaran) 1996"
+  },
+  "MY-H4296": {
+   "zh": "2019年合作社（接管 KOPERASI PENEROKA FELDA KEMAHANG (1) BERHAD）（委任与撤销委任）令",
+   "vi": "Lệnh về Hợp tác xã (Tiếp nhận kiểm soát KOPERASI PENEROKA FELDA KEMAHANG (1) BERHAD) (Bổ nhiệm và bãi bỏ bổ nhiệm) năm 2019",
+   "th": "คำสั่งสหกรณ์ (การเข้าควบคุม KOPERASI PENEROKA FELDA KEMAHANG (1) BERHAD) (การแต่งตั้งและการเพิกถอนการแต่งตั้ง) ค.ศ. 2019",
+   "id": "Perintah Koperasi (Pengambilalihan Pengendalian KOPERASI PENEROKA FELDA KEMAHANG (1) BERHAD) (Pengangkatan dan Pencabutan Pengangkatan) Tahun 2019",
+   "ms": "Perintah Koperasi (Pengambilalihan Kawalan KOPERASI PENEROKA FELDA KEMAHANG (1) BERHAD) (Pelantikan dan Pembatalan Pelantikan) 2019"
+  },
+  "MY-H4327": {
+   "zh": "2020年合作社（接管 KOPERASI SERBAUSAHA MAKMUR BERHAD）（委任）令",
+   "vi": "Lệnh về Hợp tác xã (Tiếp nhận kiểm soát KOPERASI SERBAUSAHA MAKMUR BERHAD) (Bổ nhiệm) năm 2020",
+   "th": "คำสั่งสหกรณ์ (การเข้าควบคุม KOPERASI SERBAUSAHA MAKMUR BERHAD) (การแต่งตั้ง) ค.ศ. 2020",
+   "id": "Perintah Koperasi (Pengambilalihan Pengendalian KOPERASI SERBAUSAHA MAKMUR BERHAD) (Pengangkatan) Tahun 2020",
+   "ms": "Perintah Koperasi (Pengambilalihan Kawalan KOPERASI SERBAUSAHA MAKMUR BERHAD) (Pelantikan) 2020"
+  },
+  "MY-H4393": {
+   "zh": "2012年彩票（博彩机登记与发牌）（修正）条例",
+   "vi": "Quy định về Xổ số (Đăng ký và cấp phép máy trò chơi) (Sửa đổi) năm 2012",
+   "th": "ข้อบังคับสลากกินแบ่ง (การขึ้นทะเบียนและการออกใบอนุญาตเครื่องเล่นเกม) (การแก้ไข) ค.ศ. 2012",
+   "id": "Peraturan Lotere (Registrasi dan Perizinan Mesin Permainan) (Perubahan) Tahun 2012",
+   "ms": "Peraturan Loteri (Pendaftaran dan Pelesenan Mesin Perjudian) (Pindaan) 2012"
+  },
+  "MY-H4420": {
+   "zh": "2013年货币服务业（马来西亚人民银行）（豁免）令",
+   "vi": "Lệnh về Dịch vụ kinh doanh tiền tệ (Bank Kerjasama Rakyat Malaysia Berhad) (Miễn trừ) năm 2013",
+   "th": "คำสั่งธุรกิจบริการเงินตรา (ธนาคารเคร็จาซามารายัตมาเลเซีย) (การยกเว้น) ค.ศ. 2013",
+   "id": "Perintah Usaha Jasa Keuangan (Bank Kerjasama Rakyat Malaysia Berhad) (Pembebasan) Tahun 2013",
+   "ms": "Perintah Perniagaan Perkhidmatan Wang (Bank Kerjasama Rakyat Malaysia Berhad) (Pengecualian) 2013"
+  },
+  "MY-H444": {
+   "zh": "1997年柔佛东南发展局（解散）法",
+   "vi": "Luật về Cơ quan Phát triển Đông Nam Johor (Giải thể) năm 1997",
+   "th": "พระราชบัญญัติองค์การพัฒนาจะโฮร์ตะวันออกเฉียงใต้ (การเลิก) ค.ศ. 1997",
+   "id": "Undang-Undang Lembaga Pengembangan Johor Tenggara (Pembubaran) Tahun 1997",
+   "ms": "Akta Lembaga Kemajuan Johor Tenggara (Pembubaran) 1997"
+  },
+  "MY-H4454": {
+   "zh": "2020年烟草产品管制（修正）条例",
+   "vi": "Quy định về Kiểm soát sản phẩm thuốc lá (Sửa đổi) năm 2020",
+   "th": "ข้อบังคับการควบคุมผลิตภัณฑ์ยาสูบ (การแก้ไข) ค.ศ. 2020",
+   "id": "Peraturan Pengendalian Produk Tembakau (Perubahan) Tahun 2020",
+   "ms": "Peraturan Kawalan Produk Tembakau (Pindaan) 2020"
+  },
+  "MY-H4474": {
+   "zh": "2011年娱乐（吉隆坡联邦直辖区）（宣告）令",
+   "vi": "Lệnh về Giải trí (Lãnh thổ Liên bang Kuala Lumpur) (Tuyên bố) năm 2011",
+   "th": "คำสั่งความบันเทิง (เขตการปกครองสหพันธ์กัวลาลัมเปอร์) (การประกาศ) ค.ศ. 2011",
+   "id": "Perintah Hiburan (Wilayah Persekutuan Kuala Lumpur) (Deklarasi) Tahun 2011",
+   "ms": "Perintah Hiburan (Wilayah Persekutuan Kuala Lumpur) (Pengisytiharan) 2011"
+  },
+  "MY-H453": {
+   "zh": "1998年费用（国家天文馆）（追认）法",
+   "vi": "Luật về Phí (Cung thiên văn Quốc gia) (Sự xác nhận hiệu lực) năm 1998",
+   "th": "พระราชบัญญัติค่าธรรมเนียม (ท้องฟ้าจำลองแห่งชาติ) (การรับรอง) ค.ศ. 1998",
+   "id": "Undang-Undang Biaya (Planetarium Nasional) (Pengesahan) Tahun 1998",
+   "ms": "Akta Fi (Planetarium Negara) (Pengesahan) 1998"
+  },
+  "MY-H4657": {
+   "zh": "2017年医疗器械（宣告）令",
+   "vi": "Lệnh về Trang thiết bị y tế (Tuyên bố) năm 2017",
+   "th": "คำสั่งเครื่องมือแพทย์ (การประกาศ) ค.ศ. 2017",
+   "id": "Perintah Alat Kesehatan (Deklarasi) Tahun 2017",
+   "ms": "Perintah Peranti Perubatan (Pengisytiharan) 2017"
+  },
+  "MY-H4726": {
+   "zh": "2005年证券委员会（附表1修正）令",
+   "vi": "Lệnh về Ủy ban Chứng khoán (Sửa đổi Phụ lục 1) năm 2005",
+   "th": "คำสั่งคณะกรรมการกำกับหลักทรัพย์ (การแก้ไขตารางที่ 1) ค.ศ. 2005",
+   "id": "Perintah Komisi Sekuritas (Perubahan Lampiran 1) Tahun 2005",
+   "ms": "Perintah Suruhanjaya Sekuriti (Pindaan Jadual 1) 2005"
+  },
+  "MY-H4898": {
+   "zh": "2022年合作社（接管 ANGKASA 回教融资合作社（KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD））（撤销委任）令",
+   "vi": "Lệnh về Hợp tác xã (Tiếp nhận kiểm soát KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD) (Bãi bỏ việc bổ nhiệm) năm 2022",
+   "th": "คำสั่งสหกรณ์ (การเข้าควบคุม KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD) (การเพิกถอนการแต่งตั้ง) ค.ศ. 2022",
+   "id": "Perintah Koperasi (Pengambilalihan Pengendalian KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD) (Pencabutan Pengangkatan) Tahun 2022",
+   "ms": "Perintah Koperasi (Pengambilalihan Kawalan KOPERASI PEMBIAYAAN SYARIAH ANGKASA BERHAD) (Pembatalan Pelantikan) 2022"
+  },
+  "MY-H493": {
+   "zh": "2003年国家土地法典（追认）法",
+   "vi": "Luật về Bộ luật Đất đai Quốc gia (Sự xác nhận hiệu lực) năm 2003",
+   "th": "พระราชบัญญัติประมวลกฎหมายที่ดินแห่งชาติ (การรับรอง) ค.ศ. 2003",
+   "id": "Undang-Undang Kitab Undang-Undang Tanah Nasional (Pengesahan) Tahun 2003",
+   "ms": "Akta Kanun Tanah Negara (Pengesahan) 2003"
+  },
+  "MY-H502": {
+   "zh": "2004年费用（马来西亚海洋公园）（追认）法",
+   "vi": "Luật về Phí (Các vườn quốc gia biển Malaysia) (Sự xác nhận hiệu lực) năm 2004",
+   "th": "พระราชบัญญัติค่าธรรมเนียม (อุทยานทางทะเลมาเลเซีย) (การรับรอง) ค.ศ. 2004",
+   "id": "Undang-Undang Biaya (Taman Laut Malaysia) (Pengesahan) Tahun 2004",
+   "ms": "Akta Fi (Taman Laut Malaysia) (Pengesahan) 2004"
+  },
+  "MY-H5025": {
+   "zh": "2019年马来西亚棕油局（附加征费）令",
+   "vi": "Lệnh về Ủy ban Dầu cọ Malaysia (Thuế bổ sung) năm 2019",
+   "th": "คำสั่งคณะกรรมการน้ำมันปาล์มมาเลเซีย (ภาษีส่วนเพิ่ม) ค.ศ. 2019",
+   "id": "Perintah Dewan Minyak Sawit Malaysia (Pungutan Tambahan) Tahun 2019",
+   "ms": "Perintah Lembaga Minyak Sawit Malaysia (Cukai Tambahan) 2019"
+  },
+  "MY-H5206": {
+   "zh": "2018年彩票（博彩机登记与发牌）（修正）条例",
+   "vi": "Quy định về Xổ số (Đăng ký và cấp phép máy trò chơi) (Sửa đổi) năm 2018",
+   "th": "ข้อบังคับสลากกินแบ่ง (การขึ้นทะเบียนและการออกใบอนุญาตเครื่องเล่นเกม) (การแก้ไข) ค.ศ. 2018",
+   "id": "Peraturan Lotere (Registrasi dan Perizinan Mesin Permainan) (Perubahan) Tahun 2018",
+   "ms": "Peraturan Loteri (Pendaftaran dan Pelesenan Mesin Perjudian) (Pindaan) 2018"
+  },
+  "MY-H5264": {
+   "zh": "2021年图书馆资料交存（附表1修正）令",
+   "vi": "Lệnh về Nộp lưu chiểu tài liệu thư viện (Sửa đổi Phụ lục 1) năm 2021",
+   "th": "คำสั่งการส่งมอบวัสดุห้องสมุด (การแก้ไขตารางที่ 1) ค.ศ. 2021",
+   "id": "Perintah Penyerahan Bahan Perpustakaan (Perubahan Lampiran 1) Tahun 2021",
+   "ms": "Perintah Penyerahan Bahan Perpustakaan (Pindaan Jadual 1) 2021"
+  },
+  "MY-H5270": {
+   "zh": "2012年养老金调整（最低养老金）令",
+   "vi": "Lệnh về Điều chỉnh lương hưu (Lương hưu thấp nhất) năm 2012",
+   "th": "คำสั่งการปรับเงินบำนาญ (เงินบำนาญต่ำสุด) ค.ศ. 2012",
+   "id": "Perintah Penyesuaian Pensiun (Pensiun Terendah) Tahun 2012",
+   "ms": "Perintah Pelarasan Pencen (Pencen Terendah) 2012"
+  },
+  "MY-H5346": {
+   "zh": "2020年联邦政府部长（第3号）（修正）（第2号）令",
+   "vi": "Lệnh về Các Bộ trưởng Chính phủ Liên bang (số 3) (Sửa đổi) (số 2) năm 2020",
+   "th": "คำสั่งรัฐมนตรีของรัฐบาลสหพันธ์ (ฉบับที่ 3) (การแก้ไข) (ฉบับที่ 2) ค.ศ. 2020",
+   "id": "Perintah Menteri Pemerintah Federal (Nomor 3) (Perubahan) (Nomor 2) Tahun 2020",
+   "ms": "Perintah Menteri Kerajaan Persekutuan (Bilangan 3) (Pindaan) (Bilangan 2) 2020"
+  },
+  "MY-H5463": {
+   "zh": "2011年战略贸易（修正）条例",
+   "vi": "Quy định về Thương mại chiến lược (Sửa đổi) năm 2011",
+   "th": "ข้อบังคับการค้ายุทธศาสตร์ (การแก้ไข) ค.ศ. 2011",
+   "id": "Peraturan Perdagangan Strategis (Perubahan) Tahun 2011",
+   "ms": "Peraturan Perdagangan Strategik (Pindaan) 2011"
+  },
+  "MY-H5510": {
+   "zh": "2011年外汇管制（货币兑换业务）（豁免）令",
+   "vi": "Lệnh về Kiểm soát ngoại hối (Nghiệp vụ đổi tiền) (Miễn trừ) năm 2011",
+   "th": "คำสั่งการควบคุมการแลกเปลี่ยนเงิน (ธุรกิจแลกเปลี่ยนเงิน) (การยกเว้น) ค.ศ. 2011",
+   "id": "Perintah Pengendalian Devisa (Usaha Penukaran Valuta) (Pembebasan) Tahun 2011",
+   "ms": "Perintah Kawalan Pertukaran Wang (Perniagaan Penukaran Wang) (Pengecualian) 2011"
+  },
+  "MY-H5521": {
+   "zh": "2011年外汇管制（批发货币业务）（豁免）令",
+   "vi": "Lệnh về Kiểm soát ngoại hối (Nghiệp vụ tiền tệ bán buôn) (Miễn trừ) năm 2011",
+   "th": "คำสั่งการควบคุมการแลกเปลี่ยนเงิน (ธุรกิจเงินตราขายส่ง) (การยกเว้น) ค.ศ. 2011",
+   "id": "Perintah Pengendalian Devisa (Usaha Valuta Grosir) (Pembebasan) Tahun 2011",
+   "ms": "Perintah Kawalan Pertukaran Wang (Perniagaan Mata Wang Borong) (Pengecualian) 2011"
+  },
+  "MY-H5971": {
+   "zh": "2011年证券委员会（审计监督委员会）（费用）（第2号）（修正）条例",
+   "vi": "Quy định về Ủy ban Chứng khoán (Ủy ban Giám sát Kiểm toán) (Phí) (số 2) (Sửa đổi) năm 2011",
+   "th": "ข้อบังคับคณะกรรมการกำกับหลักทรัพย์ (คณะกรรมการกำกับดูแลการตรวจสอบ) (ค่าธรรมเนียม) (ฉบับที่ 2) (การแก้ไข) ค.ศ. 2011",
+   "id": "Peraturan Komisi Sekuritas (Dewan Pengawas Audit) (Biaya) (Nomor 2) (Perubahan) Tahun 2011",
+   "ms": "Peraturan Suruhanjaya Sekuriti (Lembaga Pengawasan Audit) (Fi) (Bilangan 2) (Pindaan) 2011"
+  },
+  "MY-H6005": {
+   "zh": "2017年马来西亚证券委员会（审计监督委员会）（费用）条例",
+   "vi": "Quy định về Ủy ban Chứng khoán Malaysia (Ủy ban Giám sát Kiểm toán) (Phí) năm 2017",
+   "th": "ข้อบังคับคณะกรรมการกำกับหลักทรัพย์มาเลเซีย (คณะกรรมการกำกับดูแลการตรวจสอบ) (ค่าธรรมเนียม) ค.ศ. 2017",
+   "id": "Peraturan Komisi Sekuritas Malaysia (Dewan Pengawas Audit) (Biaya) Tahun 2017",
+   "ms": "Peraturan Suruhanjaya Sekuriti Malaysia (Lembaga Pengawasan Audit) (Fi) 2017"
+  },
+  "MY-H601": {
+   "zh": "2022年工厂与机械（废止）法",
+   "vi": "Luật về Nhà máy và máy móc (Bãi bỏ) năm 2022",
+   "th": "พระราชบัญญัติโรงงานและเครื่องจักร (การยกเลิก) ค.ศ. 2022",
+   "id": "Undang-Undang Pabrik dan Mesin (Pencabutan) Tahun 2022",
+   "ms": "Akta Kilang dan Jentera (Pemansuhan) 2022"
+  },
+  "MY-H6107": {
+   "zh": "2012年费用（护照与签证）（费用免除）令",
+   "vi": "Lệnh về Phí (Hộ chiếu và thị thực) (Miễn giảm phí) năm 2012",
+   "th": "คำสั่งค่าธรรมเนียม (หนังสือเดินทางและวีซ่า) (การงดเว้นค่าธรรมเนียม) ค.ศ. 2012",
+   "id": "Perintah Biaya (Paspor dan Visa) (Pembebasan Biaya) Tahun 2012",
+   "ms": "Perintah Fi (Pasport dan Visa) (Remisi Fi) 2012"
+  },
+  "MY-H6145": {
+   "zh": "2025年固体废物与公共清洁管理（社区服务类型与社区服务执行的监督方式）条例",
+   "vi": "Quy định về Quản lý chất thải rắn và vệ sinh công cộng (Loại hình phục vụ cộng đồng và cách thức giám sát việc thực hiện phục vụ cộng đồng) năm 2025",
+   "th": "ข้อบังคับการจัดการขยะมูลฝอยและการรักษาความสะอาดสาธารณะ (ประเภทงานบริการสังคมและวิธีการกำกับดูแลการปฏิบัติงานบริการสังคม) ค.ศ. 2025",
+   "id": "Peraturan Pengelolaan Sampah Padat dan Kebersihan Umum (Jenis Pelayanan Masyarakat dan Cara Pengawasan Pelaksanaan Pelayanan Masyarakat) Tahun 2025",
+   "ms": "Peraturan Pengurusan Sisa Pepejal dan Pembersihan Awam (Jenis Perkhidmatan Masyarakat dan Cara Penyeliaan Pelaksanaan Perkhidmatan Masyarakat) 2025"
+  },
+  "MY-H6223": {
+   "zh": "2016年费用（护照与签证）（费用免除）令",
+   "vi": "Lệnh về Phí (Hộ chiếu và thị thực) (Miễn giảm phí) năm 2016",
+   "th": "คำสั่งค่าธรรมเนียม (หนังสือเดินทางและวีซ่า) (การงดเว้นค่าธรรมเนียม) ค.ศ. 2016",
+   "id": "Perintah Biaya (Paspor dan Visa) (Pembebasan Biaya) Tahun 2016",
+   "ms": "Perintah Fi (Pasport dan Visa) (Remisi Fi) 2016"
+  },
+  "MY-H623": {
+   "zh": "2024年宣布民都鲁县某地区为联邦港口（废止）法",
+   "vi": "Luật về Tuyên bố một khu vực tại huyện Bintulu là cảng liên bang (Bãi bỏ) năm 2024",
+   "th": "พระราชบัญญัติการประกาศพื้นที่ในอำเภอบินตูลูเป็นท่าเรือสหพันธ์ (การยกเลิก) ค.ศ. 2024",
+   "id": "Undang-Undang Pernyataan Suatu Kawasan di Distrik Bintulu sebagai Pelabuhan Federal (Pencabutan) Tahun 2024",
+   "ms": "Akta Pengisytiharan Sesuatu Kawasan dalam Daerah Bintulu sebagai Pelabuhan Persekutuan (Pemansuhan) 2024"
+  },
+  "MY-H624": {
+   "zh": "2024年民都鲁港务局（解散）法",
+   "vi": "Luật về Cục Cảng Bintulu (Giải thể) năm 2024",
+   "th": "พระราชบัญญัติการท่าเรือบินตูลู (การเลิก) ค.ศ. 2024",
+   "id": "Undang-Undang Otoritas Pelabuhan Bintulu (Pembubaran) Tahun 2024",
+   "ms": "Akta Lembaga Pelabuhan Bintulu (Pembubaran) 2024"
+  },
+  "MY-H6413": {
+   "zh": "2021年合作社（接管 KOPERASI SERBAUSAHA MAKMUR BERHAD）（撤销委任）令",
+   "vi": "Lệnh về Hợp tác xã (Tiếp nhận kiểm soát KOPERASI SERBAUSAHA MAKMUR BERHAD) (Bãi bỏ việc bổ nhiệm) năm 2021",
+   "th": "คำสั่งสหกรณ์ (การเข้าควบคุม KOPERASI SERBAUSAHA MAKMUR BERHAD) (การเพิกถอนการแต่งตั้ง) ค.ศ. 2021",
+   "id": "Perintah Koperasi (Pengambilalihan Pengendalian KOPERASI SERBAUSAHA MAKMUR BERHAD) (Pencabutan Pengangkatan) Tahun 2021",
+   "ms": "Perintah Koperasi (Pengambilalihan Kawalan KOPERASI SERBAUSAHA MAKMUR BERHAD) (Pembatalan Pelantikan) 2021"
+  },
+  "MY-H6428": {
+   "zh": "2021年马来西亚棕油局（附加征费）（修正）令",
+   "vi": "Lệnh về Ủy ban Dầu cọ Malaysia (Thuế bổ sung) (Sửa đổi) năm 2021",
+   "th": "คำสั่งคณะกรรมการน้ำมันปาล์มมาเลเซีย (ภาษีส่วนเพิ่ม) (การแก้ไข) ค.ศ. 2021",
+   "id": "Perintah Dewan Minyak Sawit Malaysia (Pungutan Tambahan) (Perubahan) Tahun 2021",
+   "ms": "Perintah Lembaga Minyak Sawit Malaysia (Cukai Tambahan) (Pindaan) 2021"
+  },
+  "MY-H6435": {
+   "zh": "2015年费用（护照与签证）（费用免除）令",
+   "vi": "Lệnh về Phí (Hộ chiếu và thị thực) (Miễn giảm phí) năm 2015",
+   "th": "คำสั่งค่าธรรมเนียม (หนังสือเดินทางและวีซ่า) (การงดเว้นค่าธรรมเนียม) ค.ศ. 2015",
+   "id": "Perintah Biaya (Paspor dan Visa) (Pembebasan Biaya) Tahun 2015",
+   "ms": "Perintah Fi (Pasport dan Visa) (Remisi Fi) 2015"
+  },
+  "MY-H6540": {
+   "zh": "2019年持牌土地测量师（修正）条例",
+   "vi": "Quy định về Nhân viên đo đạc đất đai được cấp phép (Sửa đổi) năm 2019",
+   "th": "ข้อบังคับผู้สำรวจที่ดินที่ได้รับใบอนุญาต (การแก้ไข) ค.ศ. 2019",
+   "id": "Peraturan Juru Ukur Tanah Berlisensi (Perubahan) Tahun 2019",
+   "ms": "Peraturan Juruukur Tanah Berlesen (Pindaan) 2019"
+  },
+  "MY-H6607": {
+   "zh": "2018年养老金调整（最低养老金）令",
+   "vi": "Lệnh về Điều chỉnh lương hưu (Lương hưu thấp nhất) năm 2018",
+   "th": "คำสั่งการปรับเงินบำนาญ (เงินบำนาญต่ำสุด) ค.ศ. 2018",
+   "id": "Perintah Penyesuaian Pensiun (Pensiun Terendah) Tahun 2018",
+   "ms": "Perintah Pelarasan Pencen (Pencen Terendah) 2018"
+  },
+  "MY-H6634": {
+   "zh": "2021年马来西亚棕油局（附加征费）（修正）（废止）令",
+   "vi": "Lệnh về Ủy ban Dầu cọ Malaysia (Thuế bổ sung) (Sửa đổi) (Bãi bỏ) năm 2021",
+   "th": "คำสั่งคณะกรรมการน้ำมันปาล์มมาเลเซีย (ภาษีส่วนเพิ่ม) (การแก้ไข) (การเพิกถอน) ค.ศ. 2021",
+   "id": "Perintah Dewan Minyak Sawit Malaysia (Pungutan Tambahan) (Perubahan) (Pencabutan) Tahun 2021",
+   "ms": "Perintah Lembaga Minyak Sawit Malaysia (Cukai Tambahan) (Pindaan) (Pembatalan) 2021"
+  },
+  "MY-H6662": {
+   "zh": "2021年马来西亚棕油局（附加征费）（修正）（第2号）令",
+   "vi": "Lệnh về Ủy ban Dầu cọ Malaysia (Thuế bổ sung) (Sửa đổi) (số 2) năm 2021",
+   "th": "คำสั่งคณะกรรมการน้ำมันปาล์มมาเลเซีย (ภาษีส่วนเพิ่ม) (การแก้ไข) (ฉบับที่ 2) ค.ศ. 2021",
+   "id": "Perintah Dewan Minyak Sawit Malaysia (Pungutan Tambahan) (Perubahan) (Nomor 2) Tahun 2021",
+   "ms": "Perintah Lembaga Minyak Sawit Malaysia (Cukai Tambahan) (Pindaan) (Bilangan 2) 2021"
+  },
+  "MY-H6750": {
+   "zh": "2020年合作社（接管 KOPERASI PENEROKA FELDA KEMAHANG (1) BERHAD）（委任与撤销委任）令",
+   "vi": "Lệnh về Hợp tác xã (Tiếp nhận kiểm soát KOPERASI PENEROKA FELDA KEMAHANG (1) BERHAD) (Bổ nhiệm và bãi bỏ bổ nhiệm) năm 2020",
+   "th": "คำสั่งสหกรณ์ (การเข้าควบคุม KOPERASI PENEROKA FELDA KEMAHANG (1) BERHAD) (การแต่งตั้งและการเพิกถอนการแต่งตั้ง) ค.ศ. 2020",
+   "id": "Perintah Koperasi (Pengambilalihan Pengendalian KOPERASI PENEROKA FELDA KEMAHANG (1) BERHAD) (Pengangkatan dan Pencabutan Pengangkatan) Tahun 2020",
+   "ms": "Perintah Koperasi (Pengambilalihan Kawalan KOPERASI PENEROKA FELDA KEMAHANG (1) BERHAD) (Pelantikan dan Pembatalan Pelantikan) 2020"
+  },
+  "MY-H6831": {
+   "zh": "2026年劳工（雇用非居民雇员许可证）（沙巴）规则",
+   "vi": "Quy tắc về Lao động (Giấy phép sử dụng lao động không cư trú) (Sabah) năm 2026",
+   "th": "กฎแรงงาน (ใบอนุญาตจ้างลูกจ้างที่ไม่มีถิ่นพำนัก) (ซาบาห์) ค.ศ. 2026",
+   "id": "Tata Tertib Tenaga Kerja (Izin Mempekerjakan Karyawan Non-Residen) (Sabah) Tahun 2026",
+   "ms": "Kaedah Buruh (Lesen Menggaji Pekerja Bukan Pemastautin) (Sabah) 2026"
+  },
+  "MY-H6846": {
+   "zh": "2026年劳工（雇用非居民雇员许可证）（砂拉越）规则",
+   "vi": "Quy tắc về Lao động (Giấy phép sử dụng lao động không cư trú) (Sarawak) năm 2026",
+   "th": "กฎแรงงาน (ใบอนุญาตจ้างลูกจ้างที่ไม่มีถิ่นพำนัก) (ซาราวัก) ค.ศ. 2026",
+   "id": "Tata Tertib Tenaga Kerja (Izin Mempekerjakan Karyawan Non-Residen) (Sarawak) Tahun 2026",
+   "ms": "Kaedah Buruh (Lesen Menggaji Pekerja Bukan Pemastautin) (Sarawak) 2026"
+  },
+  "MY-H6862": {
+   "zh": "2015年费用（医疗）（全额付费病人）（修正）令",
+   "vi": "Lệnh về Phí (Y tế) (Bệnh nhân tự trả toàn bộ) (Sửa đổi) năm 2015",
+   "th": "คำสั่งค่าธรรมเนียม (การแพทย์) (ผู้ป่วยชำระเต็มจำนวน) (การแก้ไข) ค.ศ. 2015",
+   "id": "Perintah Biaya (Medis) (Pasien Bayar Penuh) (Perubahan) Tahun 2015",
+   "ms": "Perintah Fi (Perubatan) (Pesakit Bayar Penuh) (Pindaan) 2015"
+  },
+  "MY-H7022": {
+   "zh": "2017年朝圣基金局（存款与提款）（修正）条例",
+   "vi": "Quy định về Quỹ Hành hương (Tiền gửi và rút tiền) (Sửa đổi) năm 2017",
+   "th": "ข้อบังคับกองทุนฮัจญ์ (เงินฝากและการถอน) (การแก้ไข) ค.ศ. 2017",
+   "id": "Peraturan Dana Haji (Simpanan dan Penarikan) (Perubahan) Tahun 2017",
+   "ms": "Peraturan Lembaga Tabung Haji (Deposit dan Pengeluaran) (Pindaan) 2017"
+  },
+  "MY-H779": {
+   "zh": "2023年合作社（接管 KOPERASI SERBAUSAHA MAKMUR BERHAD）（委任）令",
+   "vi": "Lệnh về Hợp tác xã (Tiếp nhận kiểm soát KOPERASI SERBAUSAHA MAKMUR BERHAD) (Bổ nhiệm) năm 2023",
+   "th": "คำสั่งสหกรณ์ (การเข้าควบคุม KOPERASI SERBAUSAHA MAKMUR BERHAD) (การแต่งตั้ง) ค.ศ. 2023",
+   "id": "Perintah Koperasi (Pengambilalihan Pengendalian KOPERASI SERBAUSAHA MAKMUR BERHAD) (Pengangkatan) Tahun 2023",
+   "ms": "Perintah Koperasi (Pengambilalihan Kawalan KOPERASI SERBAUSAHA MAKMUR BERHAD) (Pelantikan) 2023"
+  },
+  "MY-H864": {
+   "zh": "2016年马来西亚证券委员会（附表1修正）令",
+   "vi": "Lệnh về Ủy ban Chứng khoán Malaysia (Sửa đổi Phụ lục 1) năm 2016",
+   "th": "คำสั่งคณะกรรมการกำกับหลักทรัพย์มาเลเซีย (การแก้ไขตารางที่ 1) ค.ศ. 2016",
+   "id": "Perintah Komisi Sekuritas Malaysia (Perubahan Lampiran 1) Tahun 2016",
+   "ms": "Perintah Suruhanjaya Sekuriti Malaysia (Pindaan Jadual 1) 2016"
+  },
+  "MY-H912": {
+   "zh": "2021年化学武器公约（附表1修正）令",
+   "vi": "Lệnh về Công ước Vũ khí Hóa học (Sửa đổi Phụ lục 1) năm 2021",
+   "th": "คำสั่งอนุสัญญาอาวุธเคมี (การแก้ไขตารางที่ 1) ค.ศ. 2021",
+   "id": "Perintah Konvensi Senjata Kimia (Perubahan Lampiran 1) Tahun 2021",
+   "ms": "Perintah Konvensyen Senjata Kimia (Pindaan Jadual 1) 2021"
+  },
+  "MY-H964": {
+   "zh": "2014年马来西亚橡胶局（发牌与许可证）条例",
+   "vi": "Quy định về Ủy ban Cao su Malaysia (Cấp phép và giấy phép) năm 2014",
+   "th": "ข้อบังคับคณะกรรมการยางมาเลเซีย (การออกใบอนุญาต) ค.ศ. 2014",
+   "id": "Peraturan Dewan Karet Malaysia (Perizinan dan Izin) Tahun 2014",
+   "ms": "Peraturan Lembaga Getah Malaysia (Pelesenan dan Permit) 2014"
+  }
+ }
+}

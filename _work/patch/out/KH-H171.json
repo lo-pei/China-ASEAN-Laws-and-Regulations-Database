@@ -1,0 +1,28 @@
+{
+ "lawId": "KH-H171",
+ "pack": "kh-p03",
+ "sourceLang": "km",
+ "targetLang": "en",
+ "titleEn": "Law on the Establishment of the Ministry of Education, Youth, and Sport",
+ "model": "deepseek-v4.1-flash",
+ "articles": [
+  {
+   "key": "1",
+   "no": 1,
+   "noLabel": "Article 1",
+   "en": "The Ministry of Education, Youth and Sport is hereby established under the Royal Government of Cambodia."
+  },
+  {
+   "key": "2",
+   "no": 2,
+   "noLabel": "Article 2",
+   "en": "The Ministry of Education, Youth and Sport shall have the competence to lead and administer the education, youth and sport sector of the Kingdom of Cambodia.\nArticle 3: The Ministry of Education, Youth and Sport shall be led by a Minister, who may be assisted by Secretaries of State and/or Under-Secretaries of State as necessary.\nArticle 4: The organisational structure and functioning of the Ministry of Education, Youth and Sport shall be determined by sub-decree."
+  },
+  {
+   "key": "5",
+   "no": 5,
+   "noLabel": "Article 5",
+   "en": "All provisions contrary to this Law shall be considered null and void.\nArticle 6: This Law is declared to be urgent.\nDone at Phnom Penh, 24 January 1996; respectfully submitted for the King’s signature: Norodom Sihanouk; First Prime Minister, Second Prime Minister; Norodom Ranariddh, Hun Sen."
+  }
+ ]
+}

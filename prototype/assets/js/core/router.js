@@ -14,8 +14,6 @@
     { path: '/country', view: 'country', param: 1 },
     { path: '/law', view: 'law', param: 1 },
     { path: '/treaty', view: 'treatyDetail', param: 1 },
-    { path: '/compare', view: 'compare' },
-    { path: '/terms', view: 'terms' },
     { path: '/assistant', view: 'assistant' },
     { path: '/about', view: 'about' },
     { path: '/sources', view: 'sources' }

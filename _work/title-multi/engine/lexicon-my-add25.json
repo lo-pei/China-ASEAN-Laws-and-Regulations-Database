@@ -1,0 +1,376 @@
+{
+  "_note": "MY 附属法规括号术语 · add25（剩余缺口括号 159-211）",
+  "brackets": {
+    "KUALA LUMPUR STOCK EXCHANGE": {
+      "zh": "吉隆坡证券交易所",
+      "vi": "Sở Giao dịch Chứng khoán Kuala Lumpur",
+      "th": "ตลาดหลักทรัพย์กัวลาลัมเปอร์",
+      "id": "Bursa Efek Kuala Lumpur",
+      "ms": "Bursa Saham Kuala Lumpur"
+    },
+    "THE GOVERNMENT OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION OF THE PEOPLE’S REPUBLIC OF CHINA": {
+      "zh": "中华人民共和国香港特别行政区",
+      "vi": "Chính phủ Đặc khu Hành chính Hồng Kông thuộc Cộng hòa Nhân dân Trung Hoa",
+      "th": "รัฐบาลเขตบริหารพิเศษฮ่องกงแห่งสาธารณรัฐประชาชนจีน",
+      "id": "Pemerintah Daerah Administratif Khusus Hong Kong Republik Rakyat Tiongkok",
+      "ms": "Kerajaan Kawasan Pentadbiran Khas Hong Kong Republik Rakyat China"
+    },
+    "THE GOVERNMENT OF BERMUDA": {
+      "zh": "百慕大政府",
+      "vi": "Chính phủ Bermuda",
+      "th": "รัฐบาลเบอร์มิวดา",
+      "id": "Pemerintah Bermuda",
+      "ms": "Kerajaan Bermuda"
+    },
+    "NOTICE OF TRUSTS": {
+      "zh": "信托通知",
+      "vi": "Thông báo về tín thác",
+      "th": "หนังสือแจ้งเกี่ยวกับทรัสต์",
+      "id": "Pemberitahuan Perwalian",
+      "ms": "Notis Amanah"
+    },
+    "PRESCRIBED QUALIFIED FINANCIAL AGREEMENT AND PRESCRIBED QUALIFIED FINANCIAL TRANSACTION": {
+      "zh": "规定合格金融协议及规定合格金融交易",
+      "vi": "Hợp đồng tài chính đủ điều kiện được quy định và giao dịch tài chính đủ điều kiện được quy định",
+      "th": "สัญญาการเงินที่เข้าเกณฑ์ตามที่กำหนดและธุรกรรมการเงินที่เข้าเกณฑ์ตามที่กำหนด",
+      "id": "Perjanjian Keuangan Memenuhi Syarat yang Ditetapkan dan Transaksi Keuangan Memenuhi Syarat yang Ditetapkan",
+      "ms": "Perjanjian Kewangan Layak yang Ditetapkan dan Urus Niaga Kewangan Layak yang Ditetapkan"
+    },
+    "AIRCRAFT": {
+      "zh": "航空器",
+      "vi": "Máy bay",
+      "th": "อากาศยาน",
+      "id": "Pesawat Udara",
+      "ms": "Pesawat Udara"
+    },
+    "RECTIFICATION OF AUDIT ACT 1957": {
+      "zh": "1957年审计法的更正",
+      "vi": "Đính chính Luật Kiểm toán 1957",
+      "th": "การแก้ไขข้อผิดพลาดพระราชบัญญัติการตรวจเงินแผ่นดิน ค.ศ. 1957",
+      "id": "Koreksi Undang-Undang Audit 1957",
+      "ms": "Pembetulan Akta Audit 1957"
+    },
+    "THE GOVERNMENT OF THE KINGDOM OF CAMBODIA": {
+      "zh": "柬埔寨王国政府",
+      "vi": "Chính phủ Vương quốc Campuchia",
+      "th": "รัฐบาลราชอาณาจักรกัมพูชา",
+      "id": "Pemerintah Kerajaan Kamboja",
+      "ms": "Kerajaan Kemboja"
+    },
+    "STATUTORY CEILING OF MONEYS RECEIVED": {
+      "zh": "所收款项的法定上限",
+      "vi": "Giới hạn luật định của các khoản tiền thu được",
+      "th": "เพดานตามกฎหมายของเงินที่ได้รับ",
+      "id": "Batas Maksimum Menurut Undang-Undang atas Uang yang Diterima",
+      "ms": "Siling Berkanun Wang yang Diterima"
+    },
+    "APPLICATION OF MONIES BORROWED FROM THE FEDERATION": {
+      "zh": "联邦借款款项的运用",
+      "vi": "Việc sử dụng các khoản tiền vay từ Liên bang",
+      "th": "การใช้เงินที่กู้ยืมจากสหพันธ์",
+      "id": "Penggunaan Uang yang Dipinjam dari Federasi",
+      "ms": "Penggunaan Wang yang Dipinjam daripada Persekutuan"
+    },
+    "ENFORCEMENT OF MAINTENANCE": {
+      "zh": "赡养义务的强制执行",
+      "vi": "Thi hành nghĩa vụ cấp dưỡng",
+      "th": "การบังคับให้ปฏิบัติตามหน้าที่อุปการะเลี้ยงดู",
+      "id": "Penegakan Kewajiban Nafkah",
+      "ms": "Penguatkuasaan Nafkah"
+    },
+    "CONSEQUENTIAL PROVISIONS": {
+      "zh": "相应条文",
+      "vi": "Các quy định kèm theo",
+      "th": "บทบัญญัติที่เกี่ยวข้อง",
+      "id": "Ketentuan Konsekuensial",
+      "ms": "Peruntukan Bersampingan"
+    },
+    "CONDITIONS OF SERVICE": {
+      "zh": "服务条件",
+      "vi": "Điều kiện phục vụ",
+      "th": "เงื่อนไขการปฏิบัติงาน",
+      "id": "Syarat Layanan",
+      "ms": "Syarat Perkhidmatan"
+    },
+    "EXTENSION AND MODIFICATION OF THE REGISTRATION OF PHARMACISTS ACT 1951": {
+      "zh": "1951年药剂师注册法的延伸与修改",
+      "vi": "Mở rộng và sửa đổi Luật Đăng ký Dược sĩ 1951",
+      "th": "การขยายใช้และการแก้ไขพระราชบัญญัติการขึ้นทะเบียนเภสัชกร ค.ศ. 1951",
+      "id": "Perluasan dan Modifikasi Undang-Undang Registrasi Apoteker 1951",
+      "ms": "Pelanjutan dan Pengubahsuaian Akta Pendaftaran Ahli Farmasi 1951"
+    },
+    "CESS ON EXPORT": {
+      "zh": "出口税捐",
+      "vi": "Thuế xuất khẩu",
+      "th": "ภาษีส่งออก",
+      "id": "Pungutan Ekspor",
+      "ms": "Cukai Eksport"
+    },
+    "NURSES REGISTRATION": {
+      "zh": "护士注册",
+      "vi": "Đăng ký y tá",
+      "th": "การขึ้นทะเบียนพยาบาล",
+      "id": "Registrasi Perawat",
+      "ms": "Pendaftaran Jururawat"
+    },
+    "REVISED-2021": {
+      "zh": "2021年修订版",
+      "vi": "Bản sửa đổi năm 2021",
+      "th": "ฉบับปรับปรุง 2021",
+      "id": "Disemak Semula 2021",
+      "ms": "Disemak Semula 2021"
+    },
+    "ELECTRONIC TRADE TRANSACTION": {
+      "zh": "电子贸易交易",
+      "vi": "Giao dịch thương mại điện tử",
+      "th": "ธุรกรรมการค้าอิเล็กทรอนิกส์",
+      "id": "Transaksi Perdagangan Elektronik",
+      "ms": "Urus Niaga Perdagangan Elektronik"
+    },
+    "PORT AUTHORITIES": {
+      "zh": "港务局",
+      "vi": "Các cảng vụ",
+      "th": "การท่าเรือ",
+      "id": "Otoritas Pelabuhan",
+      "ms": "Lembaga Pelabuhan"
+    },
+    "ELECTRONIC TRADE TRANSACTIONS": {
+      "zh": "电子贸易交易",
+      "vi": "Các giao dịch thương mại điện tử",
+      "th": "ธุรกรรมการค้าอิเล็กทรอนิกส์",
+      "id": "Transaksi-Transaksi Perdagangan Elektronik",
+      "ms": "Urus Niaga-Urus Niaga Perdagangan Elektronik"
+    },
+    "TEMPORARY JURISDICTION OF THE FEDERAL COURT": {
+      "zh": "联邦法院的临时管辖权",
+      "vi": "Thẩm quyền tạm thời của Tòa án Liên bang",
+      "th": "เขตอำนาจชั่วคราวของศาลสหพันธ์",
+      "id": "Yurisdiksi Sementara Pengadilan Federal",
+      "ms": "Bidang Kuasa Sementara Mahkamah Persekutuan"
+    },
+    "TRAINING AND CERTIFICATION": {
+      "zh": "培训与认证",
+      "vi": "Đào tạo và chứng nhận",
+      "th": "การฝึกอบรมและการรับรอง",
+      "id": "Pelatihan dan Sertifikasi",
+      "ms": "Latihan dan Pensijilan"
+    },
+    "REVISED-2025": {
+      "zh": "2025年修订版",
+      "vi": "Bản sửa đổi năm 2025",
+      "th": "ฉบับปรับปรุง 2025",
+      "id": "Disemak Semula 2025",
+      "ms": "Disemak Semula 2025"
+    },
+    "CENSUS": {
+      "zh": "人口普查",
+      "vi": "Tổng điều tra dân số",
+      "th": "สำมะโนประชากร",
+      "id": "Sensus",
+      "ms": "Banci"
+    },
+    "THIRD SCHEDULE": {
+      "zh": "第三附表",
+      "vi": "Phụ lục thứ ba",
+      "th": "ตารางผนวกที่สาม",
+      "id": "Lampiran Ketiga",
+      "ms": "Jadual Ketiga"
+    },
+    "PERIOD OF STAY": {
+      "zh": "停留期限",
+      "vi": "Thời hạn lưu trú",
+      "th": "ระยะเวลาพำนัก",
+      "id": "Jangka Waktu Tinggal",
+      "ms": "Tempoh Tinggal"
+    },
+    "RAW NATURAL RUBBER": {
+      "zh": "生天然橡胶",
+      "vi": "Cao su thiên nhiên nguyên liệu",
+      "th": "ยางธรรมชาติดิบ",
+      "id": "Karet Alam Mentah",
+      "ms": "Getah Asli Mentah"
+    },
+    "FEE FOR SECOND-HAND MOTOR VEHICLE INSPECTION REPORT": {
+      "zh": "二手机动车检验报告费",
+      "vi": "Phí báo cáo kiểm tra xe cơ giới đã qua sử dụng",
+      "th": "ค่าธรรมเนียมรายงานการตรวจสภาพยานยนต์มือสอง",
+      "id": "Biaya Laporan Pemeriksaan Kendaraan Bermotor Bekas",
+      "ms": "Fi Laporan Pemeriksaan Kenderaan Bermotor Terpakai"
+    },
+    "CRUDE PALM-OIL": {
+      "zh": "粗棕榈油",
+      "vi": "Dầu cọ thô",
+      "th": "น้ำมันปาล์มดิบ",
+      "id": "Minyak Sawit Mentah",
+      "ms": "Minyak Sawit Mentah"
+    },
+    "CERTIFICATE OF ANALYSIS": {
+      "zh": "分析证书",
+      "vi": "Giấy chứng nhận phân tích",
+      "th": "ใบรับรองผลการวิเคราะห์",
+      "id": "Sertifikat Analisis",
+      "ms": "Sijil Analisis"
+    },
+    "PROMOTED ACTIVITIES AND PROMOTED PRODUCTS FOR SELECTED INDUSTRIES": {
+      "zh": "选定行业的受促活动与受促产品",
+      "vi": "Hoạt động được khuyến khích và sản phẩm được khuyến khích cho các ngành được chọn",
+      "th": "กิจกรรมที่ได้รับการส่งเสริมและผลิตภัณฑ์ที่ได้รับการส่งเสริมสำหรับอุตสาหกรรมที่คัดเลือก",
+      "id": "Kegiatan yang Dipromosikan dan Produk yang Dipromosikan bagi Industri Terpilih",
+      "ms": "Aktiviti Digalakkan dan Produk Digalakkan bagi Industri Terpilih"
+    },
+    "SERVICE FEE": {
+      "zh": "服务费",
+      "vi": "Phí dịch vụ",
+      "th": "ค่าบริการ",
+      "id": "Biaya Jasa",
+      "ms": "Fi Perkhidmatan"
+    },
+    "NOISE EXPOSURE": {
+      "zh": "噪声暴露",
+      "vi": "Phơi nhiễm tiếng ồn",
+      "th": "การสัมผัสเสียงดัง",
+      "id": "Paparan Kebisingan",
+      "ms": "Pendedahan Bunyi Bising"
+    },
+    "PROMOTED ACTIVITIES AND PROMOTED PRODUCTS FOR REINVESTMENT": {
+      "zh": "再投资的受促活动与受促产品",
+      "vi": "Hoạt động được khuyến khích và sản phẩm được khuyến khích cho tái đầu tư",
+      "th": "กิจกรรมที่ได้รับการส่งเสริมและผลิตภัณฑ์ที่ได้รับการส่งเสริมสำหรับการลงทุนซ้ำ",
+      "id": "Kegiatan yang Dipromosikan dan Produk yang Dipromosikan bagi Investasi Ulang",
+      "ms": "Aktiviti Digalakkan dan Produk Digalakkan bagi Pelaburan Semula"
+    },
+    "PROMOTED ACTIVITIES AND PROMOTED PRODUCTS": {
+      "zh": "受促活动与受促产品",
+      "vi": "Hoạt động được khuyến khích và sản phẩm được khuyến khích",
+      "th": "กิจกรรมที่ได้รับการส่งเสริมและผลิตภัณฑ์ที่ได้รับการส่งเสริม",
+      "id": "Kegiatan yang Dipromosikan dan Produk yang Dipromosikan",
+      "ms": "Aktiviti Digalakkan dan Produk Digalakkan"
+    },
+    "PROMOTED ACTIVITIES AND PROMOTED PRODUCTS FOR SMALL SCALE COMPANIES": {
+      "zh": "小型公司的受促活动与受促产品",
+      "vi": "Hoạt động được khuyến khích và sản phẩm được khuyến khích cho công ty quy mô nhỏ",
+      "th": "กิจกรรมที่ได้รับการส่งเสริมและผลิตภัณฑ์ที่ได้รับการส่งเสริมสำหรับบริษัทขนาดเล็ก",
+      "id": "Kegiatan yang Dipromosikan dan Produk yang Dipromosikan bagi Perusahaan Skala Kecil",
+      "ms": "Aktiviti Digalakkan dan Produk Digalakkan bagi Syarikat Skala Kecil"
+    },
+    "PAYMENT OF ALLOWANCE TO TRAFFICKED PERSONS": {
+      "zh": "向被贩运人员支付津贴",
+      "vi": "Chi trả trợ cấp cho người bị buôn bán",
+      "th": "การจ่ายเบี้ยเลี้ยงให้ผู้ถูกค้ามนุษย์",
+      "id": "Pembayaran Tunjangan kepada Orang Korban Perdagangan",
+      "ms": "Pembayaran Elaun kepada Orang Diperdagangkan"
+    },
+    "EMPLOYEES’ MINIMUM STANDARDS OF HOUSING, ACCOMMODATIONS AND AMENITIES": {
+      "zh": "雇员住房、住宿及设施的最低标准",
+      "vi": "Tiêu chuẩn tối thiểu về nhà ở, chỗ ở và tiện nghi cho người lao động",
+      "th": "มาตรฐานขั้นต่ำด้านที่อยู่อาศัย ที่พัก และสิ่งอำนวยความสะดวกของพนักงาน",
+      "id": "Standar Minimum Perumahan, Akomodasi, dan Fasilitas bagi Karyawan",
+      "ms": "Piawaian Minimum Perumahan, Penginapan dan Kemudahan Pekerja"
+    },
+    "SAFETY HELMETS": {
+      "zh": "安全头盔",
+      "vi": "Mũ bảo hộ",
+      "th": "หมวกนิรภัย",
+      "id": "Helm Keselamatan",
+      "ms": "Topi Keledar Keselamatan"
+    },
+    "MALAYSIA": {
+      "zh": "马来西亚",
+      "vi": "Malaysia",
+      "th": "มาเลเซีย",
+      "id": "Malaysia",
+      "ms": "Malaysia"
+    },
+    "STATES OF MALAYA": {
+      "zh": "马来亚各州",
+      "vi": "Các bang Malaya",
+      "th": "รัฐมาลายา",
+      "id": "Negara-Negara Bagian Malaya",
+      "ms": "Negeri-Negeri Tanah Melayu"
+    },
+    "LICENSED PERSON": {
+      "zh": "持牌人",
+      "vi": "Người được cấp phép",
+      "th": "ผู้ได้รับใบอนุญาต",
+      "id": "Orang Berlisensi",
+      "ms": "Orang Berlesen"
+    },
+    "DIGITAL RECORDING OF PROCEEDINGS": {
+      "zh": "诉讼程序的数字录音",
+      "vi": "Ghi âm kỹ thuật số các phiên xét xử",
+      "th": "การบันทึกการดำเนินคดีด้วยระบบดิจิทัล",
+      "id": "Perekaman Digital Persidangan",
+      "ms": "Rakaman Digital Prosiding"
+    },
+    "LICENSING OF WHOLESALERS AND RETAILERS": {
+      "zh": "批发商与零售商发牌",
+      "vi": "Cấp phép cho nhà bán buôn và nhà bán lẻ",
+      "th": "การออกใบอนุญาตผู้ค้าส่งและผู้ค้าปลีก",
+      "id": "Perizinan Pedagang Besar dan Pengecer",
+      "ms": "Pelesenan Pemborong dan Peruncit"
+    },
+    "LICENSING OF RICE MILLS": {
+      "zh": "碾米厂发牌",
+      "vi": "Cấp phép nhà máy xay xát gạo",
+      "th": "การออกใบอนุญาตโรงสีข้าว",
+      "id": "Perizinan Penggilingan Padi",
+      "ms": "Pelesenan Kilang Beras"
+    },
+    "LICENSING OF IMPORTERS AND EXPORTERS": {
+      "zh": "进口商与出口商发牌",
+      "vi": "Cấp phép cho nhà nhập khẩu và nhà xuất khẩu",
+      "th": "การออกใบอนุญาตผู้นำเข้าและผู้ส่งออก",
+      "id": "Perizinan Importir dan Eksportir",
+      "ms": "Pelesenan Pengimport dan Pengeksport"
+    },
+    "LICENSING OF PADI PURCHASERS": {
+      "zh": "稻谷收购商发牌",
+      "vi": "Cấp phép cho người thu mua lúa",
+      "th": "การออกใบอนุญาตผู้รับซื้อข้าวเปลือก",
+      "id": "Perizinan Pembeli Padi",
+      "ms": "Pelesenan Pembeli Padi"
+    },
+    "EMPLOYMENT INFORMATION": {
+      "zh": "就业信息",
+      "vi": "Thông tin việc làm",
+      "th": "ข้อมูลการจ้างงาน",
+      "id": "Informasi Ketenagakerjaan",
+      "ms": "Maklumat Pekerjaan"
+    },
+    "EXTENSION BORNEO STATES": {
+      "zh": "婆罗洲各州的延伸",
+      "vi": "Mở rộng áp dụng cho các bang Borneo",
+      "th": "การขยายใช้กับรัฐบอร์เนียว",
+      "id": "Perluasan ke Negara-Negara Bagian Borneo",
+      "ms": "Pelanjutan ke Negeri-Negeri Borneo"
+    },
+    "PLANT REQUIRING CERTIFICATE OF FITNESS": {
+      "zh": "须持合格证的设备",
+      "vi": "Thiết bị cần giấy chứng nhận phù hợp",
+      "th": "เครื่องจักรที่ต้องมีใบรับรองความเหมาะสม",
+      "id": "Instalasi yang Memerlukan Sertifikat Kelayakan",
+      "ms": "Loji yang Memerlukan Sijil Kelayakan"
+    },
+    "VETERANS REGISTRATION AND VETERANS ASSOCIATIONS REGISTRATION": {
+      "zh": "退伍军人登记及退伍军人协会登记",
+      "vi": "Đăng ký cựu chiến binh và đăng ký hiệp hội cựu chiến binh",
+      "th": "การขึ้นทะเบียนทหารผ่านศึกและการขึ้นทะเบียนสมาคมทหารผ่านศึก",
+      "id": "Registrasi Veteran dan Registrasi Asosiasi Veteran",
+      "ms": "Pendaftaran Veteran dan Pendaftaran Persatuan Veteran"
+    },
+    "VICTORIA BAY PORT": {
+      "zh": "维多利亚湾港",
+      "vi": "Cảng Vịnh Victoria",
+      "th": "ท่าเรืออ่าววิกตอเรีย",
+      "id": "Pelabuhan Teluk Victoria",
+      "ms": "Pelabuhan Teluk Victoria"
+    },
+    "THE GOVERNMENT OF THE RUSSIAN FEDERATION": {
+      "zh": "俄罗斯联邦政府",
+      "vi": "Chính phủ Liên bang Nga",
+      "th": "รัฐบาลสหพันธรัฐรัสเซีย",
+      "id": "Pemerintah Federasi Rusia",
+      "ms": "Kerajaan Persekutuan Rusia"
+    }
+  }
+}

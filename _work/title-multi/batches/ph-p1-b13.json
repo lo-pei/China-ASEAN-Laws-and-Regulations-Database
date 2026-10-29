@@ -1,0 +1,1782 @@
+{
+ "batch": "ph-p1-b13",
+ "scope": "PH 设立类（学校 / 医院 / 机构）四语合成：Establishing|Creating + 机构名 + 地点链 + 拨款附句",
+ "items": {
+  "PH-H7402": {
+   "vi": "Đạo luật thành lập một Trường Trung học Quốc gia tại Barangay Calubcob I, Đô thị San Juan, Tỉnh Batangas, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาแห่งชาติ ในบารังไกย์ Calubcob I เทศบาล San Juan จังหวัด Batangas และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Menengah Nasional di Barangay Calubcob I, Kotamadya San Juan, Provinsi Batangas, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Menengah Kebangsaan di Barangay Calubcob I, Perbandaran San Juan, Wilayah Batangas, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7403": {
+   "vi": "Đạo luật thành lập Trường Trung học Nông nghiệp Palanas Quốc gia tại Đô thị Palanas, Tỉnh Masbate, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเกษตรศาสตร์ Palanas แห่งชาติ ในเทศบาล Palanas จังหวัด Masbate และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Pertanian Palanas Nasional di Kotamadya Palanas, Provinsi Masbate, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Pertanian Palanas Kebangsaan di Perbandaran Palanas, Wilayah Masbate, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7405": {
+   "vi": "Đạo luật chuyển đổi Trường Trung học Panique thành Trường Trung học Panique Quốc gia tại Barangay Panique, Đô thị Aroroy, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงเรียนมัธยมศึกษา Panique เป็น โรงเรียนมัธยมศึกษา Panique แห่งชาติ ในบารังไกย์ Panique เทศบาล Aroroy และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Sekolah Menengah Panique menjadi Sekolah Menengah Panique Nasional di Barangay Panique, Kotamadya Aroroy, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Sekolah Menengah Panique kepada Sekolah Menengah Panique Kebangsaan di Barangay Panique, Perbandaran Aroroy, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7407": {
+   "vi": "Đạo luật thành lập một Trường Trung học Quốc gia tại Barangay Ubao, Đô thị Aguinaldo, Tỉnh Ifugao, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาแห่งชาติ ในบารังไกย์ Ubao เทศบาล Aguinaldo จังหวัด Ifugao และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Menengah Nasional di Barangay Ubao, Kotamadya Aguinaldo, Provinsi Ifugao, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Menengah Kebangsaan di Barangay Ubao, Perbandaran Aguinaldo, Wilayah Ifugao, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7415": {
+   "vi": "Đạo luật thành lập một Trường Trung học Quốc gia tại Barangay Mostro, Đô thị Anilao, Tỉnh Iloilo, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาแห่งชาติ ในบารังไกย์ Mostro เทศบาล Anilao จังหวัด Iloilo และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Menengah Nasional di Barangay Mostro, Kotamadya Anilao, Provinsi Iloilo, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Menengah Kebangsaan di Barangay Mostro, Perbandaran Anilao, Wilayah Iloilo, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7550": {
+   "vi": "Đạo luật thành lập Trường Trung học Khoa học Ifugao Provincial tại Đô thị Lamut, Tỉnh Ifugao, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาวิทยาศาสตร์ Ifugao Provincial ในเทศบาล Lamut จังหวัด Ifugao และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Sains Ifugao Provincial di Kotamadya Lamut, Provinsi Ifugao, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Sains Ifugao Provincial di Perbandaran Lamut, Wilayah Ifugao, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7912": {
+   "vi": "Đạo luật thành lập Trường Trung học Thành phố Khoa học Las Pinas Quốc gia tại Barangay Dos, Đô thị Las Pinas City, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเมืองวิทยาศาสตร์ Las Pinas แห่งชาติ ในบารังไกย์ Dos เทศบาล Las Pinas City และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Kota Sains Las Pinas Nasional di Barangay Dos, Kotamadya Las Pinas City, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Bandar Sains Las Pinas Kebangsaan di Barangay Dos, Perbandaran Las Pinas City, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7997": {
+   "vi": "Đạo luật thành lập Trường Tích hợp Rizal Quốc gia tại Barangay Rizal, Thành phố Sorsogon, Tỉnh Sorsogon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนแบบบูรณาการ Rizal แห่งชาติ ในบารังไกย์ Rizal เมือง Sorsogon จังหวัด Sorsogon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Terpadu Rizal Nasional di Barangay Rizal, Kota Sorsogon, Provinsi Sorsogon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Bersepadu Rizal Kebangsaan di Barangay Rizal, Bandar Sorsogon, Wilayah Sorsogon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8012": {
+   "vi": "Đạo luật thành lập Trường Tích hợp Buhatan Quốc gia tại Barangay Buhatan, Thành phố Sorsogon, Tỉnh Sorsogon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนแบบบูรณาการ Buhatan แห่งชาติ ในบารังไกย์ Buhatan เมือง Sorsogon จังหวัด Sorsogon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Terpadu Buhatan Nasional di Barangay Buhatan, Kota Sorsogon, Provinsi Sorsogon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Bersepadu Buhatan Kebangsaan di Barangay Buhatan, Bandar Sorsogon, Wilayah Sorsogon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8015": {
+   "vi": "Đạo luật thành lập Trường Trung học Sagucan Quốc gia tại Barangay Sagucan, Đô thị Vincenzo Sagun, Tỉnh Zamboanga Del Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Sagucan แห่งชาติ ในบารังไกย์ Sagucan เทศบาล Vincenzo Sagun จังหวัด Zamboanga Del Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Sagucan Nasional di Barangay Sagucan, Kotamadya Vincenzo Sagun, Provinsi Zamboanga Del Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Sagucan Kebangsaan di Barangay Sagucan, Perbandaran Vincenzo Sagun, Wilayah Zamboanga Del Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8045": {
+   "vi": "Đạo luật thành lập một Trường Trung học Quốc gia tại Barangay Marayag, Đô thị Lupon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาแห่งชาติ ในบารังไกย์ Marayag เทศบาล Lupon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Menengah Nasional di Barangay Marayag, Kotamadya Lupon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Menengah Kebangsaan di Barangay Marayag, Perbandaran Lupon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8063": {
+   "vi": "Đạo luật thành lập Trường Trung học Abatan Quốc gia tại Barangay Abatan, Đô thị Bauko, Tỉnh to Be, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Abatan แห่งชาติ ในบารังไกย์ Abatan เทศบาล Bauko จังหวัด to Be และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Abatan Nasional di Barangay Abatan, Kotamadya Bauko, Provinsi to Be, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Abatan Kebangsaan di Barangay Abatan, Perbandaran Bauko, Wilayah to Be, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8076": {
+   "vi": "Đạo luật thành lập Trường Trung học San Leonardo Quốc gia tại Barangay Rizal, Đô thị San Leonardo, Tỉnh Nueva Ecija, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา San Leonardo แห่งชาติ ในบารังไกย์ Rizal เทศบาล San Leonardo จังหวัด Nueva Ecija และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah San Leonardo Nasional di Barangay Rizal, Kotamadya San Leonardo, Provinsi Nueva Ecija, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah San Leonardo Kebangsaan di Barangay Rizal, Perbandaran San Leonardo, Wilayah Nueva Ecija, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8080": {
+   "vi": "Đạo luật thành lập Trường Trung học Nông-công nghiệp Camarines Sur Quốc gia tại Barangay Comaguingking, Đô thị Calabanga, Tỉnh Camarines Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเกษตรอุตสาหกรรม Camarines Sur แห่งชาติ ในบารังไกย์ Comaguingking เทศบาล Calabanga จังหวัด Camarines Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Agro-Industri Camarines Sur Nasional di Barangay Comaguingking, Kotamadya Calabanga, Provinsi Camarines Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Agro-Industri Camarines Sur Kebangsaan di Barangay Comaguingking, Perbandaran Calabanga, Wilayah Camarines Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8089": {
+   "vi": "Đạo luật thành lập Trường Trung học Khoa học Davao Oriental Regional tại Thành phố Mati, Tỉnh Davao Oriental, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาวิทยาศาสตร์ Davao Oriental Regional ในเมือง Mati จังหวัด Davao Oriental และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Sains Davao Oriental Regional di Kota Mati, Provinsi Davao Oriental, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Sains Davao Oriental Regional di Bandar Mati, Wilayah Davao Oriental, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8126": {
+   "vi": "Đạo luật thành lập Trường Trung học Nông-công nghiệp Governor Felicisimo T. San Luis Quốc gia tại Barangay Kapatalan, Đô thị Siniloan, Tỉnh Laguna, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเกษตรอุตสาหกรรม Governor Felicisimo T. San Luis แห่งชาติ ในบารังไกย์ Kapatalan เทศบาล Siniloan จังหวัด Laguna และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Agro-Industri Governor Felicisimo T. San Luis Nasional di Barangay Kapatalan, Kotamadya Siniloan, Provinsi Laguna, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Agro-Industri Governor Felicisimo T. San Luis Kebangsaan di Barangay Kapatalan, Perbandaran Siniloan, Wilayah Laguna, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8130": {
+   "vi": "Đạo luật thành lập Trường Trung học Khoa học và Công nghệ Caloocan Quốc gia tại Thành phố Caloocan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาวิทยาศาสตร์และเทคโนโลยี Caloocan แห่งชาติ ในเมือง Caloocan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Sains dan Teknologi Caloocan Nasional di Kota Caloocan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Sains dan Teknologi Caloocan Kebangsaan di Bandar Caloocan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8146": {
+   "vi": "Đạo luật thành lập Văn phòng Kỹ thuật Ifugao Second District tại Tỉnh Ifugao, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานวิศวกรรมศาสตร์ Ifugao Second District ในจังหวัด Ifugao และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Teknik Ifugao Second District di Provinsi Ifugao, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Kejuruteraan Ifugao Second District di Wilayah Ifugao, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8147": {
+   "vi": "Đạo luật thành lập Văn phòng Kỹ thuật Sorsogon Second District tại Tỉnh Sorsogon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานวิศวกรรมศาสตร์ Sorsogon Second District ในจังหวัด Sorsogon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Teknik Sorsogon Second District di Provinsi Sorsogon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Kejuruteraan Sorsogon Second District di Wilayah Sorsogon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8149": {
+   "vi": "Đạo luật thành lập Văn phòng Kỹ thuật Sultan Kudarat Second District tại Tỉnh Sultan Kudarat, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานวิศวกรรมศาสตร์ Sultan Kudarat Second District ในจังหวัด Sultan Kudarat และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Teknik Sultan Kudarat Second District di Provinsi Sultan Kudarat, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Kejuruteraan Sultan Kudarat Second District di Wilayah Sultan Kudarat, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8150": {
+   "vi": "Đạo luật thành lập Văn phòng Kỹ thuật Misamis Occidental Second District tại Tỉnh Misamis Occidental, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานวิศวกรรมศาสตร์ Misamis Occidental Second District ในจังหวัด Misamis Occidental และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Teknik Misamis Occidental Second District di Provinsi Misamis Occidental, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Kejuruteraan Misamis Occidental Second District di Wilayah Misamis Occidental, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8157": {
+   "vi": "Đạo luật thành lập Văn phòng Kỹ thuật Ilocos Norte Third District tại Tỉnh Ilocos Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานวิศวกรรมศาสตร์ Ilocos Norte Third District ในจังหวัด Ilocos Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Teknik Ilocos Norte Third District di Provinsi Ilocos Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Kejuruteraan Ilocos Norte Third District di Wilayah Ilocos Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8330": {
+   "vi": "Đạo luật thành lập Trường Trung học Khoa học Biliran tại Đô thị Blliran, Tỉnh Blliran, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาวิทยาศาสตร์ Biliran ในเทศบาล Blliran จังหวัด Blliran และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Sains Biliran di Kotamadya Blliran, Provinsi Blliran, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Sains Biliran di Perbandaran Blliran, Wilayah Blliran, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8429": {
+   "vi": "Đạo luật thành lập Trường Trung học Lavigan Quốc gia tại Đô thị Governor Generoso, Tỉnh Davao Oriental, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Lavigan แห่งชาติ ในเทศบาล Governor Generoso จังหวัด Davao Oriental และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Lavigan Nasional di Kotamadya Governor Generoso, Provinsi Davao Oriental, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Lavigan Kebangsaan di Perbandaran Governor Generoso, Wilayah Davao Oriental, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8514": {
+   "vi": "Đạo luật thành lập Trường Trung học Nông nghiệp Sikatuna Quốc gia tại Barangay Sikatuna, Đô thị Talibon, Tỉnh Bohol, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเกษตรกรรม Sikatuna แห่งชาติ ในบารังไกย์ Sikatuna เทศบาล Talibon จังหวัด Bohol และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Pertanian Sikatuna Nasional di Barangay Sikatuna, Kotamadya Talibon, Provinsi Bohol, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Pertanian Sikatuna Kebangsaan di Barangay Sikatuna, Perbandaran Talibon, Wilayah Bohol, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8516": {
+   "vi": "Đạo luật thành lập Trường Trung học Tích hợp Tenani Quốc gia tại Barangay Tenani, Đô thị Paranas, Tỉnh Samar, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาแบบบูรณาการ Tenani แห่งชาติ ในบารังไกย์ Tenani เทศบาล Paranas จังหวัด Samar และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Terpadu Tenani Nasional di Barangay Tenani, Kotamadya Paranas, Provinsi Samar, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Bersepadu Tenani Kebangsaan di Barangay Tenani, Perbandaran Paranas, Wilayah Samar, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8547": {
+   "vi": "Đạo luật thành lập Bệnh viện Đô thị Aguinaldo tại Đô thị Aguinaldo, Tỉnh Ifugao, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลเทศบาล Aguinaldo ในเทศบาล Aguinaldo จังหวัด Ifugao และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Kotamadya Aguinaldo di Kotamadya Aguinaldo, Provinsi Ifugao, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Perbandaran Aguinaldo di Perbandaran Aguinaldo, Wilayah Ifugao, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8589": {
+   "vi": "Đạo luật thành lập Trường Trung học Thành phố Dạy nghề San Fernando Quốc gia tại Thành phố San Fernando, Tỉnh La Union, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเมืองอาชีวศึกษา San Fernando แห่งชาติ ในเมือง San Fernando จังหวัด La Union และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Kota Kejuruan San Fernando Nasional di Kota San Fernando, Provinsi La Union, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Bandar Vokasional San Fernando Kebangsaan di Bandar San Fernando, Wilayah La Union, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8590": {
+   "vi": "Đạo luật thành lập Trường Trung học Dạy nghề Luna Quốc gia tại Đô thị Luna, Tỉnh La Union, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาอาชีวศึกษา Luna แห่งชาติ ในเทศบาล Luna จังหวัด La Union และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Kejuruan Luna Nasional di Kotamadya Luna, Provinsi La Union, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Vokasional Luna Kebangsaan di Perbandaran Luna, Wilayah La Union, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8708": {
+   "vi": "Đạo luật thành lập Trường Trung học Nông-công nghiệp Bagumbayan tại Barangay Bagumbayan, Đô thị Lupon, Tỉnh Davao Oriental, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเกษตรอุตสาหกรรม Bagumbayan ในบารังไกย์ Bagumbayan เทศบาล Lupon จังหวัด Davao Oriental และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Agro-Industri Bagumbayan di Barangay Bagumbayan, Kotamadya Lupon, Provinsi Davao Oriental, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Agro-Industri Bagumbayan di Barangay Bagumbayan, Perbandaran Lupon, Wilayah Davao Oriental, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8721": {
+   "vi": "Đạo luật thành lập Trường Trung học Kỹ thuật - Dạy nghề Mayantoc Quốc gia tại Đô thị Mayantoc, Tỉnh Tarlac, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเทคนิค-อาชีวศึกษา Mayantoc แห่งชาติ ในเทศบาล Mayantoc จังหวัด Tarlac และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Teknik-Kejuruan Mayantoc Nasional di Kotamadya Mayantoc, Provinsi Tarlac, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Teknikal-Vokasional Mayantoc Kebangsaan di Perbandaran Mayantoc, Wilayah Tarlac, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8743": {
+   "vi": "Đạo luật thành lập Trường Trung học V & G Quốc gia tại Thành phố Tacloban, Tỉnh Leyte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา V & G แห่งชาติ ในเมือง Tacloban จังหวัด Leyte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah V & G Nasional di Kota Tacloban, Provinsi Leyte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah V & G Kebangsaan di Bandar Tacloban, Wilayah Leyte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8764": {
+   "vi": "Đạo luật thành lập Trường Trung học Kỹ thuật - Dạy nghề Liloan Quốc gia tại Barangay Poblacion, Đô thị Liloan, Tỉnh Southern Leyte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเทคนิค-อาชีวศึกษา Liloan แห่งชาติ ในบารังไกย์ Poblacion เทศบาล Liloan จังหวัด Southern Leyte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Teknik-Kejuruan Liloan Nasional di Barangay Poblacion, Kotamadya Liloan, Provinsi Southern Leyte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Teknikal-Vokasional Liloan Kebangsaan di Barangay Poblacion, Perbandaran Liloan, Wilayah Southern Leyte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8790": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Land Transportation Office thành Văn phòng Khu vực Regular LTO tại Thành phố Vườn Đảo Samal, Tỉnh Davao Del Norte, và phân bổ kinh phí cho mục đích này, và cho các mục đích khác",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Land Transportation Office เป็น สำนักงานเขต Regular LTO ในเมืองสวนเกาะ Samal จังหวัด Davao Del Norte และจัดสรรเงินทุนสำหรับการนี้ และเพื่อวัตถุประสงค์อื่น",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Land Transportation Office menjadi Kantor Distrik Regular LTO di Kota Taman Pulau Samal, Provinsi Davao Del Norte, dan mengalokasikan dana untuk itu, dan untuk tujuan lain",
+   "ms": "Akta menukar status Pejabat Lanjutan Land Transportation Office kepada Pejabat Daerah Regular LTO di Bandar Taman Pulau Samal, Wilayah Davao Del Norte, dan memperuntukkan dana untuk itu, dan untuk tujuan lain"
+  },
+  "PH-H8843": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Land Transportation Office thành Văn phòng Khu vực Regular LTO tại Đô thị Dapa, Tỉnh Surigao Del Norte, và phân bổ kinh phí cho mục đích này, và cho các mục đích khác",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Land Transportation Office เป็น สำนักงานเขต Regular LTO ในเทศบาล Dapa จังหวัด Surigao Del Norte และจัดสรรเงินทุนสำหรับการนี้ และเพื่อวัตถุประสงค์อื่น",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Land Transportation Office menjadi Kantor Distrik Regular LTO di Kotamadya Dapa, Provinsi Surigao Del Norte, dan mengalokasikan dana untuk itu, dan untuk tujuan lain",
+   "ms": "Akta menukar status Pejabat Lanjutan Land Transportation Office kepada Pejabat Daerah Regular LTO di Perbandaran Dapa, Wilayah Surigao Del Norte, dan memperuntukkan dana untuk itu, dan untuk tujuan lain"
+  },
+  "PH-H8912": {
+   "vi": "Đạo luật thành lập Trường Cabuan Primary tại Barangay Cabuan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียน Cabuan Primary ในบารังไกย์ Cabuan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Cabuan Primary di Barangay Cabuan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Cabuan Primary di Barangay Cabuan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8935": {
+   "vi": "Đạo luật thành lập Trường Calavera Primary tại Barangay Calavera, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียน Calavera Primary ในบารังไกย์ Calavera และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Calavera Primary di Barangay Calavera, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Calavera Primary di Barangay Calavera, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9323": {
+   "vi": "Đạo luật thành lập Trường Trung học Thành phố Khoa học và Công nghệ Antipolo Quốc gia tại Barangay San Jose, Thành phố Antipolo, Tỉnh Rizal, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเมืองวิทยาศาสตร์และเทคโนโลยี Antipolo แห่งชาติ ในบารังไกย์ San Jose เมือง Antipolo จังหวัด Rizal และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Kota Sains dan Teknologi Antipolo Nasional di Barangay San Jose, Kota Antipolo, Provinsi Rizal, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Bandar Sains dan Teknologi Antipolo Kebangsaan di Barangay San Jose, Bandar Antipolo, Wilayah Rizal, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9395": {
+   "vi": "Đạo luật thành lập một Trại giống Hải sản Đa loài tại Đô thị Guinayangan, Tỉnh Quezon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งฟาร์มเพาะพันธุ์สัตว์น้ำหลายชนิด ในเทศบาล Guinayangan จังหวัด Quezon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Balai Benih Laut Multi-Spesies di Kotamadya Guinayangan, Provinsi Quezon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Hatcheri Marin Pelbagai Spesies di Perbandaran Guinayangan, Wilayah Quezon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9428": {
+   "vi": "Đạo luật thành lập Trường Trung học SSS Quốc gia tại Barangay Concepcion Dos, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา SSS แห่งชาติ ในบารังไกย์ Concepcion Dos และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah SSS Nasional di Barangay Concepcion Dos, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah SSS Kebangsaan di Barangay Concepcion Dos, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9429": {
+   "vi": "Đạo luật thành lập Trường Trung học Thành phố Kỹ thuật - Dạy nghề Ligao Quốc gia tại Barangay Nasisi, Thành phố Ligao, Tỉnh Albay, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเมืองเทคนิค-อาชีวศึกษา Ligao แห่งชาติ ในบารังไกย์ Nasisi เมือง Ligao จังหวัด Albay และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Kota Teknik-Kejuruan Ligao Nasional di Barangay Nasisi, Kota Ligao, Provinsi Albay, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Bandar Teknikal-Vokasional Ligao Kebangsaan di Barangay Nasisi, Bandar Ligao, Wilayah Albay, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9454": {
+   "vi": "Đạo luật chuyển đổi Cao đẳng Thành phố Talisay thành Cao đẳng Bang Thành phố Talisay tại Thành phố Talisay, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะวิทยาลัยเมือง Talisay เป็น วิทยาลัยของรัฐเมือง Talisay ในเมือง Talisay และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Sekolah Tinggi Kota Talisay menjadi Sekolah Tinggi Negeri Kota Talisay di Kota Talisay, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Kolej Bandar Talisay kepada Kolej Negeri Bandar Talisay di Bandar Talisay, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9512": {
+   "vi": "Đạo luật chuyển đổi Văn phòng Land Transportation thành Văn phòng Khu vực LTO tại Đô thị Balayan",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงาน Land Transportation เป็น สำนักงานเขต LTO ในเทศบาล Balayan",
+   "id": "Undang-Undang mengubah status Kantor Land Transportation menjadi Kantor Distrik LTO di Kotamadya Balayan",
+   "ms": "Akta menukar status Pejabat Land Transportation kepada Pejabat Daerah LTO di Perbandaran Balayan"
+  },
+  "PH-H9550": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Land Transportation Office thành Văn phòng Khu vực Regular LTO tại Tỉnh Cebu, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Land Transportation Office เป็น สำนักงานเขต Regular LTO ในจังหวัด Cebu และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Land Transportation Office menjadi Kantor Distrik Regular LTO di Provinsi Cebu, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pejabat Lanjutan Land Transportation Office kepada Pejabat Daerah Regular LTO di Wilayah Cebu, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9599": {
+   "vi": "Đạo luật thành lập Văn phòng vệ tinh Land Transportation Office tại Tỉnh Masbate, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานดาวเทียม Land Transportation Office ในจังหวัด Masbate และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Satelit Land Transportation Office di Provinsi Masbate, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Satelit Land Transportation Office di Wilayah Masbate, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9600": {
+   "vi": "Đạo luật thành lập Văn phòng Khu vực Land Transportation Office tại Thành phố Valencia, Tỉnh Bukidnon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานเขต Land Transportation Office ในเมือง Valencia จังหวัด Bukidnon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Distrik Land Transportation Office di Kota Valencia, Provinsi Bukidnon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Daerah Land Transportation Office di Bandar Valencia, Wilayah Bukidnon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9601": {
+   "vi": "Đạo luật thành lập Văn phòng Khu vực Land Transportation Office tại Thành phố Sipalay, Tỉnh Negros Occidental, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานเขต Land Transportation Office ในเมือง Sipalay จังหวัด Negros Occidental และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Distrik Land Transportation Office di Kota Sipalay, Provinsi Negros Occidental, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Daerah Land Transportation Office di Bandar Sipalay, Wilayah Negros Occidental, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9700": {
+   "vi": "Đạo luật thành lập Trường Trung học Phổ thông Tandang Sora tại Barangay Tandang Sora, Đô thị Quezon City, Vùng Metro Manila, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาระดับมัธยมปลาย Tandang Sora ในบารังไกย์ Tandang Sora เทศบาล Quezon City เขตมหานครมะนิลา และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Menengah Atas Tandang Sora di Barangay Tandang Sora, Kotamadya Quezon City, Wilayah Metropolitan Manila, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Menengah Atas Tandang Sora di Barangay Tandang Sora, Perbandaran Quezon City, Wilayah Metropolitan Manila, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9704": {
+   "vi": "Đạo luật thành lập Trường Tích hợp Capuy Quốc gia tại Barangay Capuy, Thành phố Sorsogon, Tỉnh Sorsogon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนแบบบูรณาการ Capuy แห่งชาติ ในบารังไกย์ Capuy เมือง Sorsogon จังหวัด Sorsogon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Terpadu Capuy Nasional di Barangay Capuy, Kota Sorsogon, Provinsi Sorsogon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Bersepadu Capuy Kebangsaan di Barangay Capuy, Bandar Sorsogon, Wilayah Sorsogon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9922": {
+   "vi": "Đạo luật thành lập Văn phòng Kỹ thuật Third District tại Đô thị M'lang Province Cotabato, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานวิศวกรรมศาสตร์ Third District ในเทศบาล M'lang Province Cotabato และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Teknik Third District di Kotamadya M'lang Province Cotabato, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Kejuruteraan Third District di Perbandaran M'lang Province Cotabato, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9995": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Medina Extension thành Bệnh viện Đa khoa First Misamis Oriental tại Đô thị Medina, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาล Medina Extension เป็น โรงพยาบาลทั่วไป First Misamis Oriental ในเทศบาล Medina และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Rumah Sakit Medina Extension menjadi Rumah Sakit Umum First Misamis Oriental di Kotamadya Medina, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Hospital Medina Extension kepada Hospital Besar First Misamis Oriental di Perbandaran Medina, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H10166": {
+   "vi": "Đạo luật thành lập Văn phòng Khu vực Land Transportation tại Đô thị Manolo Fortich, Tỉnh Bukidnon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานเขต Land Transportation ในเทศบาล Manolo Fortich จังหวัด Bukidnon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Distrik Land Transportation di Kotamadya Manolo Fortich, Provinsi Bukidnon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Daerah Land Transportation di Perbandaran Manolo Fortich, Wilayah Bukidnon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H10172": {
+   "vi": "Đạo luật thành lập Văn phòng Khu vực Land Transportation Office tại Đô thị Laoang, Tỉnh Northern Samar, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานเขต Land Transportation Office ในเทศบาล Laoang จังหวัด Northern Samar และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Distrik Land Transportation Office di Kotamadya Laoang, Provinsi Northern Samar, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Daerah Land Transportation Office di Perbandaran Laoang, Wilayah Northern Samar, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H10250": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Land Transportation Office thành Văn phòng Khu vực Regular LTO tại Thành phố Passi, Tỉnh Iloilo, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Land Transportation Office เป็น สำนักงานเขต Regular LTO ในเมือง Passi จังหวัด Iloilo และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Land Transportation Office menjadi Kantor Distrik Regular LTO di Kota Passi, Provinsi Iloilo, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pejabat Lanjutan Land Transportation Office kepada Pejabat Daerah Regular LTO di Bandar Passi, Wilayah Iloilo, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H10513": {
+   "vi": "Đạo luật thành lập Văn phòng Khu vực Land Transportation Office tại Đô thị Sulop, Tỉnh Davao Del Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานเขต Land Transportation Office ในเทศบาล Sulop จังหวัด Davao Del Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Distrik Land Transportation Office di Kotamadya Sulop, Provinsi Davao Del Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Daerah Land Transportation Office di Perbandaran Sulop, Wilayah Davao Del Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H10514": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Land Transportation Office thành Văn phòng Khu vực Regular LTO tại Đô thị Gattaran, Tỉnh Cagayan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Land Transportation Office เป็น สำนักงานเขต Regular LTO ในเทศบาล Gattaran จังหวัด Cagayan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Land Transportation Office menjadi Kantor Distrik Regular LTO di Kotamadya Gattaran, Provinsi Cagayan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pejabat Lanjutan Land Transportation Office kepada Pejabat Daerah Regular LTO di Perbandaran Gattaran, Wilayah Cagayan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H10524": {
+   "vi": "Đạo luật thành lập Văn phòng Khu vực Land Transportation Office tại Đô thị Cordova, Tỉnh Cebu, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานเขต Land Transportation Office ในเทศบาล Cordova จังหวัด Cebu และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Distrik Land Transportation Office di Kotamadya Cordova, Provinsi Cebu, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Daerah Land Transportation Office di Perbandaran Cordova, Wilayah Cebu, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H10525": {
+   "vi": "Đạo luật thành lập Văn phòng Khu vực Land Transportation Office tại Đô thị Consolacion, Tỉnh Cebu, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานเขต Land Transportation Office ในเทศบาล Consolacion จังหวัด Cebu และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Distrik Land Transportation Office di Kotamadya Consolacion, Provinsi Cebu, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Daerah Land Transportation Office di Perbandaran Consolacion, Wilayah Cebu, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H10540": {
+   "vi": "Đạo luật thành lập Văn phòng Khu vực Land Transportation Office tại Đô thị Padre Garcia, Tỉnh Batangas, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานเขต Land Transportation Office ในเทศบาล Padre Garcia จังหวัด Batangas และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Distrik Land Transportation Office di Kotamadya Padre Garcia, Provinsi Batangas, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Daerah Land Transportation Office di Perbandaran Padre Garcia, Wilayah Batangas, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H10542": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Existing Land Transportation Office thành Văn phòng Khu vực Chính quy tại Đô thị San Pascual, Tỉnh Batangas, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Existing Land Transportation Office เป็น สำนักงานเขตปกติ ในเทศบาล San Pascual จังหวัด Batangas และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Existing Land Transportation Office menjadi Kantor Distrik Reguler di Kotamadya San Pascual, Provinsi Batangas, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pejabat Lanjutan Existing Land Transportation Office kepada Pejabat Daerah Biasa di Perbandaran San Pascual, Wilayah Batangas, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H10543": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Land Transportation Office thành Văn phòng Khu vực Regular LTO tại Đô thị Buug, Tỉnh Zamboanga Sibugay, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Land Transportation Office เป็น สำนักงานเขต Regular LTO ในเทศบาล Buug จังหวัด Zamboanga Sibugay และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Land Transportation Office menjadi Kantor Distrik Regular LTO di Kotamadya Buug, Provinsi Zamboanga Sibugay, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pejabat Lanjutan Land Transportation Office kepada Pejabat Daerah Regular LTO di Perbandaran Buug, Wilayah Zamboanga Sibugay, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H10549": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Existing Land Transportation Office thành Văn phòng Khu vực Chính quy tại Đô thị San Miguel, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Existing Land Transportation Office เป็น สำนักงานเขตปกติ ในเทศบาล San Miguel และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Existing Land Transportation Office menjadi Kantor Distrik Reguler di Kotamadya San Miguel, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pejabat Lanjutan Existing Land Transportation Office kepada Pejabat Daerah Biasa di Perbandaran San Miguel, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H10550": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Existing Land Transportation Office thành Văn phòng Khu vực Chính quy tại Đô thị Dolores, Tỉnh Eastern Samar, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Existing Land Transportation Office เป็น สำนักงานเขตปกติ ในเทศบาล Dolores จังหวัด Eastern Samar และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Existing Land Transportation Office menjadi Kantor Distrik Reguler di Kotamadya Dolores, Provinsi Eastern Samar, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pejabat Lanjutan Existing Land Transportation Office kepada Pejabat Daerah Biasa di Perbandaran Dolores, Wilayah Eastern Samar, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H10551": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Existing Land Transportation Office thành Văn phòng Khu vực Chính quy tại Đô thị Pili, Tỉnh Camarines Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Existing Land Transportation Office เป็น สำนักงานเขตปกติ ในเทศบาล Pili จังหวัด Camarines Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Existing Land Transportation Office menjadi Kantor Distrik Reguler di Kotamadya Pili, Provinsi Camarines Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pejabat Lanjutan Existing Land Transportation Office kepada Pejabat Daerah Biasa di Perbandaran Pili, Wilayah Camarines Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H1414": {
+   "vi": "Đạo luật chuyển đổi Trường Trung học Nông thôn Nueva Vizcaya thành Trường Nông nghiệp Nueva Vizcaya Quốc gia tại Đô thị Bayombong, Tỉnh Nueva Vizcaya, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงเรียนมัธยมศึกษาชนบท Nueva Vizcaya เป็น โรงเรียนเกษตรกรรม Nueva Vizcaya แห่งชาติ ในเทศบาล Bayombong จังหวัด Nueva Vizcaya และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Sekolah Menengah Pedesaan Nueva Vizcaya menjadi Sekolah Pertanian Nueva Vizcaya Nasional di Kotamadya Bayombong, Provinsi Nueva Vizcaya, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Sekolah Menengah Luar Bandar Nueva Vizcaya kepada Sekolah Pertanian Nueva Vizcaya Kebangsaan di Perbandaran Bayombong, Wilayah Nueva Vizcaya, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H1952": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Cấp cứu Pototan thành Bệnh viện Đa khoa Pototan tại Đô thị Pototan, Tỉnh Iloilo",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาลฉุกเฉิน Pototan เป็น โรงพยาบาลทั่วไป Pototan ในเทศบาล Pototan จังหวัด Iloilo",
+   "id": "Undang-Undang mengubah status Rumah Sakit Gawat Darurat Pototan menjadi Rumah Sakit Umum Pototan di Kotamadya Pototan, Provinsi Iloilo",
+   "ms": "Akta menukar status Hospital Kecemasan Pototan kepada Hospital Besar Pototan di Perbandaran Pototan, Wilayah Iloilo"
+  },
+  "PH-H2232": {
+   "vi": "Đạo luật thành lập các Barrio tại Tỉnh Zamboanga del Sur",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในจังหวัด Zamboanga del Sur",
+   "id": "Undang-Undang membentuk beberapa Barrio di Provinsi Zamboanga del Sur",
+   "ms": "Akta menubuhkan beberapa Barrio di Wilayah Zamboanga del Sur"
+  },
+  "PH-H2283": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Rosario, Tỉnh Batangas",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Rosario จังหวัด Batangas",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Rosario, Provinsi Batangas",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Rosario, Wilayah Batangas"
+  },
+  "PH-H2288": {
+   "vi": "Đạo luật thành lập các Barrio tại Tỉnh Pangasinan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในจังหวัด Pangasinan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Provinsi Pangasinan",
+   "ms": "Akta menubuhkan beberapa Barrio di Wilayah Pangasinan"
+  },
+  "PH-H2290": {
+   "vi": "Đạo luật thành lập các Barrio tại Tỉnh Batangas",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในจังหวัด Batangas",
+   "id": "Undang-Undang membentuk beberapa Barrio di Provinsi Batangas",
+   "ms": "Akta menubuhkan beberapa Barrio di Wilayah Batangas"
+  },
+  "PH-H2316": {
+   "vi": "Đạo luật thành lập các Barrio tại Tỉnh Davao",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในจังหวัด Davao",
+   "id": "Undang-Undang membentuk beberapa Barrio di Provinsi Davao",
+   "ms": "Akta menubuhkan beberapa Barrio di Wilayah Davao"
+  },
+  "PH-H2321": {
+   "vi": "Đạo luật thành lập các Barrio tại Tỉnh Palawan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในจังหวัด Palawan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Provinsi Palawan",
+   "ms": "Akta menubuhkan beberapa Barrio di Wilayah Palawan"
+  },
+  "PH-H2328": {
+   "vi": "Đạo luật thành lập các Barrio tại Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในจังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Wilayah Leyte"
+  },
+  "PH-H2364": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Cấp cứu Catarman thành Bệnh viện Đa khoa Northern Samar tại Đô thị Catarman, Tỉnh Samar, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาลฉุกเฉิน Catarman เป็น โรงพยาบาลทั่วไป Northern Samar ในเทศบาล Catarman จังหวัด Samar และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Rumah Sakit Gawat Darurat Catarman menjadi Rumah Sakit Umum Northern Samar di Kotamadya Catarman, Provinsi Samar, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Hospital Kecemasan Catarman kepada Hospital Besar Northern Samar di Perbandaran Catarman, Wilayah Samar, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H2437": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Cấp cứu Mambusao thành Bệnh viện Đa khoa Mambusao tại Đô thị Mambusao, Tỉnh Capiz",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาลฉุกเฉิน Mambusao เป็น โรงพยาบาลทั่วไป Mambusao ในเทศบาล Mambusao จังหวัด Capiz",
+   "id": "Undang-Undang mengubah status Rumah Sakit Gawat Darurat Mambusao menjadi Rumah Sakit Umum Mambusao di Kotamadya Mambusao, Provinsi Capiz",
+   "ms": "Akta menukar status Hospital Kecemasan Mambusao kepada Hospital Besar Mambusao di Perbandaran Mambusao, Wilayah Capiz"
+  },
+  "PH-H2749": {
+   "vi": "Đạo luật chuyển đổi Trung tâm Nuôi dạy trẻ thành Bệnh viện Cấp cứu tại Đô thị Maria Aurora, Tiểu tỉnh Aurora, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะศูนย์เลี้ยงดูเด็ก เป็น โรงพยาบาลฉุกเฉิน ในเทศบาล Maria Aurora กิ่งจังหวัด Aurora และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Pusat Puerikultur menjadi Rumah Sakit Gawat Darurat di Kotamadya Maria Aurora, Subprovinsi Aurora, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pusat Puerikultur kepada Hospital Kecemasan di Perbandaran Maria Aurora, Subwilayah Aurora, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H2859": {
+   "vi": "Đạo luật thành lập các Barrio tại Tỉnh Palawan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในจังหวัด Palawan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Provinsi Palawan",
+   "ms": "Akta menubuhkan beberapa Barrio di Wilayah Palawan"
+  },
+  "PH-H2868": {
+   "vi": "Đạo luật thành lập các Barrio tại Tỉnh Marinduque",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในจังหวัด Marinduque",
+   "id": "Undang-Undang membentuk beberapa Barrio di Provinsi Marinduque",
+   "ms": "Akta menubuhkan beberapa Barrio di Wilayah Marinduque"
+  },
+  "PH-H2956": {
+   "vi": "Đạo luật chuyển đổi Trung tâm Nuôi dạy trẻ thành Bệnh viện Cấp cứu Dumangas tại Đô thị Dumangas, Tỉnh Iloilo, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะศูนย์เลี้ยงดูเด็ก เป็น โรงพยาบาลฉุกเฉิน Dumangas ในเทศบาล Dumangas จังหวัด Iloilo และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Pusat Puerikultur menjadi Rumah Sakit Gawat Darurat Dumangas di Kotamadya Dumangas, Provinsi Iloilo, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pusat Puerikultur kepada Hospital Kecemasan Dumangas di Perbandaran Dumangas, Wilayah Iloilo, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H2987": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Olongapo thành Bệnh viện Cấp cứu Southern Zambales tại Đô thị Olongapo, Tỉnh Zambales, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาล Olongapo เป็น โรงพยาบาลฉุกเฉิน Southern Zambales ในเทศบาล Olongapo จังหวัด Zambales และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Rumah Sakit Olongapo menjadi Rumah Sakit Gawat Darurat Southern Zambales di Kotamadya Olongapo, Provinsi Zambales, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Hospital Olongapo kepada Hospital Kecemasan Southern Zambales di Perbandaran Olongapo, Wilayah Zambales, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H3002": {
+   "vi": "Đạo luật thành lập Trường Lapak Thủy sản Quốc gia tại Đô thị Siasi, Tỉnh Sulu, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียน Lapak ประมงแห่งชาติ ในเทศบาล Siasi จังหวัด Sulu และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Lapak Perikanan Nasional di Kotamadya Siasi, Provinsi Sulu, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Lapak Perikanan Kebangsaan di Perbandaran Siasi, Wilayah Sulu, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H3178": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Cấp cứu Naval thành Bệnh viện Đa khoa Naval tại Đô thị Naval, Tỉnh Leyte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาลฉุกเฉิน Naval เป็น โรงพยาบาลทั่วไป Naval ในเทศบาล Naval จังหวัด Leyte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Rumah Sakit Gawat Darurat Naval menjadi Rumah Sakit Umum Naval di Kotamadya Naval, Provinsi Leyte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Hospital Kecemasan Naval kepada Hospital Besar Naval di Perbandaran Naval, Wilayah Leyte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H3201": {
+   "vi": "Đạo luật thành lập Trường Trung học Toàn diện Roxas Quốc gia tại Đô thị Roxas, Tỉnh Palawan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาแบบครบวงจร Roxas แห่งชาติ ในเทศบาล Roxas จังหวัด Palawan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Terpadu Roxas Nasional di Kotamadya Roxas, Provinsi Palawan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Menyeluruh Roxas Kebangsaan di Perbandaran Roxas, Wilayah Palawan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H3446": {
+   "vi": "Đạo luật thành lập Trạm Trình diễn Thủy sản Marine tại Tỉnh Cagayan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสถานีสาธิตประมง Marine ในจังหวัด Cagayan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Stasiun Percontohan Perikanan Marine di Provinsi Cagayan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Stesen Demonstrasi Perikanan Marine di Wilayah Cagayan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H3655": {
+   "vi": "Đạo luật chuyển đổi Trung tâm Nuôi dạy trẻ thành Bệnh viện Cấp cứu La Paz tại Quận La Paz, Thành phố Iloilo, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะศูนย์เลี้ยงดูเด็ก เป็น โรงพยาบาลฉุกเฉิน La Paz ในเขต La Paz เมือง Iloilo และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Pusat Puerikultur menjadi Rumah Sakit Gawat Darurat La Paz di Distrik La Paz, Kota Iloilo, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pusat Puerikultur kepada Hospital Kecemasan La Paz di Daerah La Paz, Bandar Iloilo, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H3726": {
+   "vi": "Đạo luật thành lập Cao đẳng Teacher's tại Đô thị Makato, Tỉnh Aklan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งวิทยาลัย Teacher's ในเทศบาล Makato จังหวัด Aklan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Tinggi Teacher's di Kotamadya Makato, Provinsi Aklan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Kolej Teacher's di Perbandaran Makato, Wilayah Aklan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H3904": {
+   "vi": "Đạo luật thành lập Bệnh viện Cộng đồng Sapang Palay tại Đô thị San Jose Del Monte, Tỉnh Bulacan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลชุมชน Sapang Palay ในเทศบาล San Jose Del Monte จังหวัด Bulacan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Komunitas Sapang Palay di Kotamadya San Jose Del Monte, Provinsi Bulacan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Komuniti Sapang Palay di Perbandaran San Jose Del Monte, Wilayah Bulacan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H3908": {
+   "vi": "Đạo luật thành lập Bệnh viện Davao Oriental Quốc gia tại Đô thị Mati, Tỉnh Davao, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาล Davao Oriental แห่งชาติ ในเทศบาล Mati จังหวัด Davao และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Davao Oriental Nasional di Kotamadya Mati, Provinsi Davao, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Davao Oriental Kebangsaan di Perbandaran Mati, Wilayah Davao, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H3927": {
+   "vi": "Đạo luật thành lập Trạm Nhân giống Tigbauan tại Tỉnh Iloilo, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสถานีเพาะพันธุ์ Tigbauan ในจังหวัด Iloilo และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Stasiun Pembibitan Tigbauan di Provinsi Iloilo, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Stesen Pembiakan Tigbauan di Wilayah Iloilo, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H3994": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Cấp cứu Batac thành Bệnh viện Đa khoa Batac tại Đô thị Batac, Tỉnh Ilocos Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาลฉุกเฉิน Batac เป็น โรงพยาบาลทั่วไป Batac ในเทศบาล Batac จังหวัด Ilocos Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Rumah Sakit Gawat Darurat Batac menjadi Rumah Sakit Umum Batac di Kotamadya Batac, Provinsi Ilocos Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Hospital Kecemasan Batac kepada Hospital Besar Batac di Perbandaran Batac, Wilayah Ilocos Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4024": {
+   "vi": "Đạo luật thành lập một Bệnh viện Cấp cứu tại Đô thị San Jose, Tỉnh Occidental Mindoro",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน ในเทศบาล San Jose จังหวัด Occidental Mindoro",
+   "id": "Undang-Undang membentuk sebuah Rumah Sakit Gawat Darurat di Kotamadya San Jose, Provinsi Occidental Mindoro",
+   "ms": "Akta menubuhkan sebuah Hospital Kecemasan di Perbandaran San Jose, Wilayah Occidental Mindoro"
+  },
+  "PH-H4330": {
+   "vi": "Đạo luật thành lập Trường Trung học Dạy nghề Lupon tại Đô thị Lupon, Tỉnh Davao Oriental, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาอาชีวศึกษา Lupon ในเทศบาล Lupon จังหวัด Davao Oriental และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Kejuruan Lupon di Kotamadya Lupon, Provinsi Davao Oriental, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Vokasional Lupon di Perbandaran Lupon, Wilayah Davao Oriental, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4331": {
+   "vi": "Đạo luật thành lập Trường Trung học Nông thôn San Antonio tại Đô thị San Antonio, Tỉnh Northern Samar, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาชนบท San Antonio ในเทศบาล San Antonio จังหวัด Northern Samar และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Pedesaan San Antonio di Kotamadya San Antonio, Provinsi Northern Samar, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Luar Bandar San Antonio di Perbandaran San Antonio, Wilayah Northern Samar, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4346": {
+   "vi": "Đạo luật thành lập một Trường Trung học Nông nghiệp Quốc gia tại Đô thị Kinogitan, Tỉnh Misamis Oriental, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเกษตรกรรมแห่งชาติ ในเทศบาล Kinogitan จังหวัด Misamis Oriental และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Menengah Pertanian Nasional di Kotamadya Kinogitan, Provinsi Misamis Oriental, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Menengah Pertanian Kebangsaan di Perbandaran Kinogitan, Wilayah Misamis Oriental, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4488": {
+   "vi": "Đạo luật thành lập Trường Trung học Dạy nghề Cateel tại Đô thị Cateel, Tỉnh Davao Oriental, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาอาชีวศึกษา Cateel ในเทศบาล Cateel จังหวัด Davao Oriental และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Kejuruan Cateel di Kotamadya Cateel, Provinsi Davao Oriental, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Vokasional Cateel di Perbandaran Cateel, Wilayah Davao Oriental, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4501": {
+   "vi": "Đạo luật thành lập một Trường Trung học Nông nghiệp Quốc gia tại Đô thị Surallah, Tỉnh South Cotabato, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเกษตรกรรมแห่งชาติ ในเทศบาล Surallah จังหวัด South Cotabato และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Menengah Pertanian Nasional di Kotamadya Surallah, Provinsi South Cotabato, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Menengah Pertanian Kebangsaan di Perbandaran Surallah, Wilayah South Cotabato, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4504": {
+   "vi": "Đạo luật chuyển đổi Trường Trung học Nông thôn Bucay thành Trường Trung học Bucay National General tại Đô thị Bucay, Tỉnh Abra",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงเรียนมัธยมศึกษาชนบท Bucay เป็น โรงเรียนมัธยมศึกษา Bucay National General ในเทศบาล Bucay จังหวัด Abra",
+   "id": "Undang-Undang mengubah status Sekolah Menengah Pedesaan Bucay menjadi Sekolah Menengah Bucay National General di Kotamadya Bucay, Provinsi Abra",
+   "ms": "Akta menukar status Sekolah Menengah Luar Bandar Bucay kepada Sekolah Menengah Bucay National General di Perbandaran Bucay, Wilayah Abra"
+  },
+  "PH-H4509": {
+   "vi": "Đạo luật thành lập Trường Numancia Thủy sản Quốc gia tại Barrio Albasan, Đô thị Numancia, Tỉnh Aklan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียน Numancia ประมงแห่งชาติ ในบารังไกย์ Albasan เทศบาล Numancia จังหวัด Aklan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Numancia Perikanan Nasional di Barrio Albasan, Kotamadya Numancia, Provinsi Aklan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Numancia Perikanan Kebangsaan di Barrio Albasan, Perbandaran Numancia, Wilayah Aklan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4516": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Burauen tại Đô thị Burauen, Tỉnh Leyte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Burauen ในเทศบาล Burauen จังหวัด Leyte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Burauen di Kotamadya Burauen, Provinsi Leyte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Burauen di Perbandaran Burauen, Wilayah Leyte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4642": {
+   "vi": "Đạo luật thành lập Trạm Trình diễn Davao Oriental Soil Conservation tại Tỉnh Davao Oriental, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสถานีสาธิต Davao Oriental Soil Conservation ในจังหวัด Davao Oriental และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Stasiun Percontohan Davao Oriental Soil Conservation di Provinsi Davao Oriental, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Stesen Demonstrasi Davao Oriental Soil Conservation di Wilayah Davao Oriental, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4674": {
+   "vi": "Đạo luật thành lập Trạm Nhân giống Ozamis tại Thành phố Ozamis, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสถานีเพาะพันธุ์ Ozamis ในเมือง Ozamis และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Stasiun Pembibitan Ozamis di Kota Ozamis, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Stesen Pembiakan Ozamis di Bandar Ozamis, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4830": {
+   "vi": "Đạo luật thành lập một Bệnh viện Cấp cứu tại Đô thị Sinait, Tỉnh Ilocos Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน ในเทศบาล Sinait จังหวัด Ilocos Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Rumah Sakit Gawat Darurat di Kotamadya Sinait, Provinsi Ilocos Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Hospital Kecemasan di Perbandaran Sinait, Wilayah Ilocos Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4832": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Kitcharao tại Đô thị Kitcharao, Tỉnh Agusan Del Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Kitcharao ในเทศบาล Kitcharao จังหวัด Agusan Del Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Kitcharao di Kotamadya Kitcharao, Provinsi Agusan Del Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Kitcharao di Perbandaran Kitcharao, Wilayah Agusan Del Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4833": {
+   "vi": "Đạo luật thành lập Trạm Nhân giống Faire tại Đô thị Faire, Tỉnh Cagayan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสถานีเพาะพันธุ์ Faire ในเทศบาล Faire จังหวัด Cagayan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Stasiun Pembibitan Faire di Kotamadya Faire, Provinsi Cagayan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Stesen Pembiakan Faire di Perbandaran Faire, Wilayah Cagayan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4838": {
+   "vi": "Đạo luật thành lập một Trạm Nhân giống tại Đô thị Sabtang, Tỉnh Batanes, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสถานีเพาะพันธุ์ ในเทศบาล Sabtang จังหวัด Batanes และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Stasiun Pembibitan di Kotamadya Sabtang, Provinsi Batanes, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Stesen Pembiakan di Perbandaran Sabtang, Wilayah Batanes, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4845": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Catarman tại Đô thị Catarman, Tỉnh Camiguin Province, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Catarman ในเทศบาล Catarman จังหวัด Camiguin Province และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Catarman di Kotamadya Catarman, Provinsi Camiguin Province, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Catarman di Perbandaran Catarman, Wilayah Camiguin Province, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4847": {
+   "vi": "Đạo luật thành lập Trường San Joaquin Thủy sản tại Đô thị San Joaquin, Tỉnh Iloilo, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียน San Joaquin ประมง ในเทศบาล San Joaquin จังหวัด Iloilo และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah San Joaquin Perikanan di Kotamadya San Joaquin, Provinsi Iloilo, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah San Joaquin Perikanan di Perbandaran San Joaquin, Wilayah Iloilo, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4849": {
+   "vi": "Đạo luật thành lập Trạm Nhân giống Basud tại Đô thị Basud, Tỉnh Camarines Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสถานีเพาะพันธุ์ Basud ในเทศบาล Basud จังหวัด Camarines Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Stasiun Pembibitan Basud di Kotamadya Basud, Provinsi Camarines Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Stesen Pembiakan Basud di Perbandaran Basud, Wilayah Camarines Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4857": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Calbiga tại Đô thị Calbiga, Tỉnh Samar, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Calbiga ในเทศบาล Calbiga จังหวัด Samar และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Calbiga di Kotamadya Calbiga, Provinsi Samar, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Calbiga di Perbandaran Calbiga, Wilayah Samar, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4858": {
+   "vi": "Đạo luật thành lập Trạm Nhân giống Livestock tại Đô thị Pozorrubio, Tỉnh Pangasinan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสถานีเพาะพันธุ์ Livestock ในเทศบาล Pozorrubio จังหวัด Pangasinan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Stasiun Pembibitan Livestock di Kotamadya Pozorrubio, Provinsi Pangasinan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Stesen Pembiakan Livestock di Perbandaran Pozorrubio, Wilayah Pangasinan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4860": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Casiguran tại Đô thị Casiguran, Tỉnh Quezon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Casiguran ในเทศบาล Casiguran จังหวัด Quezon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Casiguran di Kotamadya Casiguran, Provinsi Quezon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Casiguran di Perbandaran Casiguran, Wilayah Quezon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4865": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Northern Antique tại Đô thị Pandan, Tỉnh Antique, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Northern Antique ในเทศบาล Pandan จังหวัด Antique และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Northern Antique di Kotamadya Pandan, Provinsi Antique, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Northern Antique di Perbandaran Pandan, Wilayah Antique, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4866": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu San Jose tại Thành phố San Jose, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน San Jose ในเมือง San Jose และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat San Jose di Kota San Jose, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan San Jose di Bandar San Jose, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4889": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Cấp cứu Calamba thành Bệnh viện Tưởng niệm Dr. Jose Rizal tại Đô thị Calamba, Tỉnh Laguna, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาลฉุกเฉิน Calamba เป็น โรงพยาบาลอนุสรณ์ Dr. Jose Rizal ในเทศบาล Calamba จังหวัด Laguna และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Rumah Sakit Gawat Darurat Calamba menjadi Rumah Sakit Memorial Dr. Jose Rizal di Kotamadya Calamba, Provinsi Laguna, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Hospital Kecemasan Calamba kepada Hospital Memorial Dr. Jose Rizal di Perbandaran Calamba, Wilayah Laguna, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4972": {
+   "vi": "Đạo luật thành lập một Bệnh viện Cấp cứu tại Đô thị Socorro, Tỉnh Oriental Mindoro, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน ในเทศบาล Socorro จังหวัด Oriental Mindoro และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Rumah Sakit Gawat Darurat di Kotamadya Socorro, Provinsi Oriental Mindoro, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Hospital Kecemasan di Perbandaran Socorro, Wilayah Oriental Mindoro, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4973": {
+   "vi": "Đạo luật thành lập một Bệnh viện Cấp cứu tại Đô thị Bansud, Tỉnh Oriental Mindoro, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน ในเทศบาล Bansud จังหวัด Oriental Mindoro และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Rumah Sakit Gawat Darurat di Kotamadya Bansud, Provinsi Oriental Mindoro, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Hospital Kecemasan di Perbandaran Bansud, Wilayah Oriental Mindoro, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4985": {
+   "vi": "Đạo luật thành lập Trạm Nhân giống Catubig Animal tại Đô thị Catubig, Tỉnh Northern Samar, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสถานีเพาะพันธุ์ Catubig Animal ในเทศบาล Catubig จังหวัด Northern Samar และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Stasiun Pembibitan Catubig Animal di Kotamadya Catubig, Provinsi Northern Samar, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Stesen Pembiakan Catubig Animal di Perbandaran Catubig, Wilayah Northern Samar, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4986": {
+   "vi": "Đạo luật thành lập Trung tâm Livestock Breeding tại Đô thị Coron, Tỉnh Palawan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งศูนย์ Livestock Breeding ในเทศบาล Coron จังหวัด Palawan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Pusat Livestock Breeding di Kotamadya Coron, Provinsi Palawan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pusat Livestock Breeding di Perbandaran Coron, Wilayah Palawan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4989": {
+   "vi": "Đạo luật thành lập Trạm Nhân giống Livestock tại Barrio Laoac, Đô thị Manaoag, Tỉnh Pangasinan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสถานีเพาะพันธุ์ Livestock ในบารังไกย์ Laoac เทศบาล Manaoag จังหวัด Pangasinan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Stasiun Pembibitan Livestock di Barrio Laoac, Kotamadya Manaoag, Provinsi Pangasinan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Stesen Pembiakan Livestock di Barrio Laoac, Perbandaran Manaoag, Wilayah Pangasinan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4990": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Talakag tại Đô thị Talakag, Tỉnh Bukidnon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Talakag ในเทศบาล Talakag จังหวัด Bukidnon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Talakag di Kotamadya Talakag, Provinsi Bukidnon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Talakag di Perbandaran Talakag, Wilayah Bukidnon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4993": {
+   "vi": "Đạo luật thành lập Trạm Trình diễn Soil Conservation tại Đô thị San Francisco, Tỉnh Agusan Del Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสถานีสาธิต Soil Conservation ในเทศบาล San Francisco จังหวัด Agusan Del Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Stasiun Percontohan Soil Conservation di Kotamadya San Francisco, Provinsi Agusan Del Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Stesen Demonstrasi Soil Conservation di Perbandaran San Francisco, Wilayah Agusan Del Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4998": {
+   "vi": "Đạo luật thành lập Trạm Trình diễn Soil Conservation tại Thành phố Puerto Princesa, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสถานีสาธิต Soil Conservation ในเมือง Puerto Princesa และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Stasiun Percontohan Soil Conservation di Kota Puerto Princesa, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Stesen Demonstrasi Soil Conservation di Bandar Puerto Princesa, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5004": {
+   "vi": "Đạo luật thành lập một Bệnh viện Cấp cứu tại Đô thị Samal, Tỉnh Davao Del Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน ในเทศบาล Samal จังหวัด Davao Del Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Rumah Sakit Gawat Darurat di Kotamadya Samal, Provinsi Davao Del Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Hospital Kecemasan di Perbandaran Samal, Wilayah Davao Del Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5018": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Nasipit tại Đô thị Nasipit, Tỉnh Agusan Del Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Nasipit ในเทศบาล Nasipit จังหวัด Agusan Del Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Nasipit di Kotamadya Nasipit, Provinsi Agusan Del Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Nasipit di Perbandaran Nasipit, Wilayah Agusan Del Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5028": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Cộng đồng Siargao thành Bệnh viện Đa khoa Siargao tại Đô thị Siargao, Tỉnh Surigao Del Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาลชุมชน Siargao เป็น โรงพยาบาลทั่วไป Siargao ในเทศบาล Siargao จังหวัด Surigao Del Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Rumah Sakit Komunitas Siargao menjadi Rumah Sakit Umum Siargao di Kotamadya Siargao, Provinsi Surigao Del Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Hospital Komuniti Siargao kepada Hospital Besar Siargao di Perbandaran Siargao, Wilayah Surigao Del Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5051": {
+   "vi": "Đạo luật thành lập một Bệnh viện Cấp cứu tại Đô thị Aparri, Tỉnh Cagayan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน ในเทศบาล Aparri จังหวัด Cagayan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Rumah Sakit Gawat Darurat di Kotamadya Aparri, Provinsi Cagayan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Hospital Kecemasan di Perbandaran Aparri, Wilayah Cagayan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5056": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Pantukan tại Đô thị Pantukan, Tỉnh Davao, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Pantukan ในเทศบาล Pantukan จังหวัด Davao และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Pantukan di Kotamadya Pantukan, Provinsi Davao, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Pantukan di Perbandaran Pantukan, Wilayah Davao, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5057": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Las Piñas tại Đô thị Las Piñas, Tỉnh Rizal, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Las Piñas ในเทศบาล Las Piñas จังหวัด Rizal และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Las Piñas di Kotamadya Las Piñas, Provinsi Rizal, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Las Piñas di Perbandaran Las Piñas, Wilayah Rizal, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5059": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Batac, Tỉnh Ilocos Norte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Batac จังหวัด Ilocos Norte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Batac, Provinsi Ilocos Norte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Batac, Wilayah Ilocos Norte"
+  },
+  "PH-H5064": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Northern Isabela thành Bệnh viện Đa khoa Milagros tại Đô thị Cabagan, Tỉnh Isabela, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาล Northern Isabela เป็น โรงพยาบาลทั่วไป Milagros ในเทศบาล Cabagan จังหวัด Isabela และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Rumah Sakit Northern Isabela menjadi Rumah Sakit Umum Milagros di Kotamadya Cabagan, Provinsi Isabela, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Hospital Northern Isabela kepada Hospital Besar Milagros di Perbandaran Cabagan, Wilayah Isabela, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5065": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Lobo tại Đô thị Lobo, Tỉnh Batangas, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Lobo ในเทศบาล Lobo จังหวัด Batangas และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Lobo di Kotamadya Lobo, Provinsi Batangas, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Lobo di Perbandaran Lobo, Wilayah Batangas, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5067": {
+   "vi": "Đạo luật thành lập một Bệnh viện Cấp cứu Quốc gia tại Đô thị Marihatag, Tỉnh Surigao Del Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉินแห่งชาติ ในเทศบาล Marihatag จังหวัด Surigao Del Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Rumah Sakit Gawat Darurat Nasional di Kotamadya Marihatag, Provinsi Surigao Del Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Hospital Kecemasan Kebangsaan di Perbandaran Marihatag, Wilayah Surigao Del Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5070": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Tỉnh thành Bệnh viện Đa khoa tại Đô thị Virac, Tỉnh Catanduanes, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาลจังหวัด เป็น โรงพยาบาลทั่วไป ในเทศบาล Virac จังหวัด Catanduanes และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Rumah Sakit Provinsi menjadi Rumah Sakit Umum di Kotamadya Virac, Provinsi Catanduanes, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Hospital Wilayah kepada Hospital Besar di Perbandaran Virac, Wilayah Catanduanes, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5071": {
+   "vi": "Đạo luật thành lập một Bệnh viện Cấp cứu tại Đô thị Balasan, Tỉnh Iloilo, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน ในเทศบาล Balasan จังหวัด Iloilo และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Rumah Sakit Gawat Darurat di Kotamadya Balasan, Provinsi Iloilo, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Hospital Kecemasan di Perbandaran Balasan, Wilayah Iloilo, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5072": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Lianga Quốc gia tại Đô thị Lianga, Tỉnh Surigao Del Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Lianga แห่งชาติ ในเทศบาล Lianga จังหวัด Surigao Del Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Lianga Nasional di Kotamadya Lianga, Provinsi Surigao Del Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Lianga Kebangsaan di Perbandaran Lianga, Wilayah Surigao Del Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5074": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Catigbian tại Đô thị Catigbian, Tỉnh Bohol, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Catigbian ในเทศบาล Catigbian จังหวัด Bohol และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Catigbian di Kotamadya Catigbian, Provinsi Bohol, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Catigbian di Perbandaran Catigbian, Wilayah Bohol, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5075": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Puyat tại Đô thị Inabanga, Tỉnh Bohol, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Puyat ในเทศบาล Inabanga จังหวัด Bohol และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Puyat di Kotamadya Inabanga, Provinsi Bohol, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Puyat di Perbandaran Inabanga, Wilayah Bohol, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5076": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Sta. Maria tại Đô thị Sta. Maria, Tỉnh Laguna, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Sta. Maria ในเทศบาล Sta. Maria จังหวัด Laguna และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Sta. Maria di Kotamadya Sta. Maria, Provinsi Laguna, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Sta. Maria di Perbandaran Sta. Maria, Wilayah Laguna, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5078": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Cấp cứu Central Ilocos Sur thành Bệnh viện Đa khoa Jacob-Laya tại Đô thị Narvacan, Tỉnh Ilocos Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาลฉุกเฉิน Central Ilocos Sur เป็น โรงพยาบาลทั่วไป Jacob-Laya ในเทศบาล Narvacan จังหวัด Ilocos Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Rumah Sakit Gawat Darurat Central Ilocos Sur menjadi Rumah Sakit Umum Jacob-Laya di Kotamadya Narvacan, Provinsi Ilocos Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Hospital Kecemasan Central Ilocos Sur kepada Hospital Besar Jacob-Laya di Perbandaran Narvacan, Wilayah Ilocos Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5081": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Cumadcad tại Barrio Cumadcad",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Cumadcad ในบารังไกย์ Cumadcad",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Cumadcad di Barrio Cumadcad",
+   "ms": "Akta menubuhkan Hospital Kecemasan Cumadcad di Barrio Cumadcad"
+  },
+  "PH-H5082": {
+   "vi": "Đạo luật thành lập một Bệnh viện Cấp cứu tại Đô thị Victoria, Tỉnh Tarlac, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน ในเทศบาล Victoria จังหวัด Tarlac และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Rumah Sakit Gawat Darurat di Kotamadya Victoria, Provinsi Tarlac, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Hospital Kecemasan di Perbandaran Victoria, Wilayah Tarlac, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5085": {
+   "vi": "Đạo luật thành lập Trường Dạy nghề Nasipit Quốc gia tại Đô thị Nasipit, Tỉnh Agusan Del Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนอาชีวศึกษา Nasipit แห่งชาติ ในเทศบาล Nasipit จังหวัด Agusan Del Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Kejuruan Nasipit Nasional di Kotamadya Nasipit, Provinsi Agusan Del Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Vokasional Nasipit Kebangsaan di Perbandaran Nasipit, Wilayah Agusan Del Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5087": {
+   "vi": "Đạo luật thành lập Trường Trung học Dạy nghề Tarlac Quốc gia tại Đô thị Paniqui, Tỉnh Tarlac, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาอาชีวศึกษา Tarlac แห่งชาติ ในเทศบาล Paniqui จังหวัด Tarlac และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Kejuruan Tarlac Nasional di Kotamadya Paniqui, Provinsi Tarlac, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Vokasional Tarlac Kebangsaan di Perbandaran Paniqui, Wilayah Tarlac, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5090": {
+   "vi": "Đạo luật thành lập Trường Malimono Thủy sản tại Đô thị Malimono, Tỉnh Surigao Del Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียน Malimono ประมง ในเทศบาล Malimono จังหวัด Surigao Del Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Malimono Perikanan di Kotamadya Malimono, Provinsi Surigao Del Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Malimono Perikanan di Perbandaran Malimono, Wilayah Surigao Del Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5091": {
+   "vi": "Đạo luật thành lập một Trường Thủy sản tại Đô thị Magallanes, Tỉnh Sorsogon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนประมง ในเทศบาล Magallanes จังหวัด Sorsogon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Perikanan di Kotamadya Magallanes, Provinsi Sorsogon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Perikanan di Perbandaran Magallanes, Wilayah Sorsogon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5096": {
+   "vi": "Đạo luật thành lập Trạm Nhân giống Animal tại Thành phố Butuan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสถานีเพาะพันธุ์ Animal ในเมือง Butuan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Stasiun Pembibitan Animal di Kota Butuan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Stesen Pembiakan Animal di Bandar Butuan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5098": {
+   "vi": "Đạo luật thành lập Trung tâm Artificial Breeding tại Đô thị Roxas, Tỉnh Oriental Mindoro, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งศูนย์ Artificial Breeding ในเทศบาล Roxas จังหวัด Oriental Mindoro และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Pusat Artificial Breeding di Kotamadya Roxas, Provinsi Oriental Mindoro, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pusat Artificial Breeding di Perbandaran Roxas, Wilayah Oriental Mindoro, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5099": {
+   "vi": "Đạo luật thành lập Trung tâm Artificial Breeding tại Đô thị San Pedro, Tỉnh Oriental Mindoro, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งศูนย์ Artificial Breeding ในเทศบาล San Pedro จังหวัด Oriental Mindoro และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Pusat Artificial Breeding di Kotamadya San Pedro, Provinsi Oriental Mindoro, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pusat Artificial Breeding di Perbandaran San Pedro, Wilayah Oriental Mindoro, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5104": {
+   "vi": "Đạo luật thành lập Trung tâm Artificial Breeding tại Đô thị Soccoro, Tỉnh Oriental Mindoro, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งศูนย์ Artificial Breeding ในเทศบาล Soccoro จังหวัด Oriental Mindoro และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Pusat Artificial Breeding di Kotamadya Soccoro, Provinsi Oriental Mindoro, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pusat Artificial Breeding di Perbandaran Soccoro, Wilayah Oriental Mindoro, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5109": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Dinagat tại Đô thị Dinagat, Tỉnh Surigao Del Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Dinagat ในเทศบาล Dinagat จังหวัด Surigao Del Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Dinagat di Kotamadya Dinagat, Provinsi Surigao Del Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Dinagat di Perbandaran Dinagat, Wilayah Surigao Del Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5115": {
+   "vi": "Đạo luật thành lập một Bệnh viện Cấp cứu tại Đô thị Biri, Tỉnh Northern Samar, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน ในเทศบาล Biri จังหวัด Northern Samar และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Rumah Sakit Gawat Darurat di Kotamadya Biri, Provinsi Northern Samar, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Hospital Kecemasan di Perbandaran Biri, Wilayah Northern Samar, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5117": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Badian tại Đô thị Badian, Tỉnh Cebu, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Badian ในเทศบาล Badian จังหวัด Cebu และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Badian di Kotamadya Badian, Provinsi Cebu, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Badian di Perbandaran Badian, Wilayah Cebu, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5118": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Oslob tại Đô thị Oslob, Tỉnh Cebu, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Oslob ในเทศบาล Oslob จังหวัด Cebu และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Oslob di Kotamadya Oslob, Provinsi Cebu, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Oslob di Perbandaran Oslob, Wilayah Cebu, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5119": {
+   "vi": "Đạo luật thành lập Bệnh viện Cấp cứu Arteche tại Đô thị Arteche, Tỉnh Eastern Samar, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน Arteche ในเทศบาล Arteche จังหวัด Eastern Samar และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Gawat Darurat Arteche di Kotamadya Arteche, Provinsi Eastern Samar, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Kecemasan Arteche di Perbandaran Arteche, Wilayah Eastern Samar, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5120": {
+   "vi": "Đạo luật thành lập Bệnh viện Đa khoa Naga tại Đô thị Naga, Tỉnh Cebu, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลทั่วไป Naga ในเทศบาล Naga จังหวัด Cebu และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Umum Naga di Kotamadya Naga, Provinsi Cebu, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Besar Naga di Perbandaran Naga, Wilayah Cebu, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5121": {
+   "vi": "Đạo luật thành lập một Bệnh viện Cấp cứu tại Đô thị Maripipi, Tỉnh Biliran, Tỉnh Leyte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลฉุกเฉิน ในเทศบาล Maripipi จังหวัด Biliran จังหวัด Leyte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Rumah Sakit Gawat Darurat di Kotamadya Maripipi, Provinsi Biliran, Provinsi Leyte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Hospital Kecemasan di Perbandaran Maripipi, Wilayah Biliran, Wilayah Leyte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H5801": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Cộng đồng Medicare thành Bệnh viện Huyện Manukan tại Đô thị Manukan, Tỉnh Zamboanga Del Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาลชุมชน Medicare เป็น โรงพยาบาลอำเภอ Manukan ในเทศบาล Manukan จังหวัด Zamboanga Del Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Rumah Sakit Komunitas Medicare menjadi Rumah Sakit Distrik Manukan di Kotamadya Manukan, Provinsi Zamboanga Del Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Hospital Komuniti Medicare kepada Hospital Daerah Manukan di Perbandaran Manukan, Wilayah Zamboanga Del Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6049": {
+   "vi": "Đạo luật chuyển đổi Bệnh viện Huyện Jesus M. Colmenares thành Bệnh viện Huyện Jesus M. Colmenares tại Đô thị Balasan, Tỉnh Iloilo, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงพยาบาลอำเภอ Jesus M. Colmenares เป็น โรงพยาบาลอำเภอ Jesus M. Colmenares ในเทศบาล Balasan จังหวัด Iloilo และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Rumah Sakit Distrik Jesus M. Colmenares menjadi Rumah Sakit Distrik Jesus M. Colmenares di Kotamadya Balasan, Provinsi Iloilo, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Hospital Daerah Jesus M. Colmenares kepada Hospital Daerah Jesus M. Colmenares di Perbandaran Balasan, Wilayah Iloilo, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6225": {
+   "vi": "Đạo luật thành lập Trường Trung học Tưởng niệm Toàn diện Datu Calaca Quốc gia tại Đô thị Marantao, Quận Province Lanao Del Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาอนุสรณ์แบบครบวงจร Datu Calaca แห่งชาติ ในเทศบาล Marantao เขต Province Lanao Del Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Memorial Terpadu Datu Calaca Nasional di Kotamadya Marantao, Distrik Province Lanao Del Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Memorial Menyeluruh Datu Calaca Kebangsaan di Perbandaran Marantao, Daerah Province Lanao Del Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6229": {
+   "vi": "Đạo luật thành lập một Trường Trung học Quốc gia tại Đô thị Mexico, Tỉnh Pampanga, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาแห่งชาติ ในเทศบาล Mexico จังหวัด Pampanga และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Menengah Nasional di Kotamadya Mexico, Provinsi Pampanga, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Menengah Kebangsaan di Perbandaran Mexico, Wilayah Pampanga, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6230": {
+   "vi": "Đạo luật thành lập Trường Trung học Pantar Quốc gia tại Đô thị Pantar, Quận Province Lanao Del Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Pantar แห่งชาติ ในเทศบาล Pantar เขต Province Lanao Del Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Pantar Nasional di Kotamadya Pantar, Distrik Province Lanao Del Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Pantar Kebangsaan di Perbandaran Pantar, Daerah Province Lanao Del Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6232": {
+   "vi": "Đạo luật thành lập Trường Trung học Lungib Quốc gia tại Đô thị Pilar, Tỉnh Sorsogon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Lungib แห่งชาติ ในเทศบาล Pilar จังหวัด Sorsogon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Lungib Nasional di Kotamadya Pilar, Provinsi Sorsogon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Lungib Kebangsaan di Perbandaran Pilar, Wilayah Sorsogon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6234": {
+   "vi": "Đạo luật thành lập một Trường Trung học Quốc gia tại Barangay Tagbitan-ag, Đô thị Samal, Tỉnh Davao, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาแห่งชาติ ในบารังไกย์ Tagbitan-ag เทศบาล Samal จังหวัด Davao และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Menengah Nasional di Barangay Tagbitan-ag, Kotamadya Samal, Provinsi Davao, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Menengah Kebangsaan di Barangay Tagbitan-ag, Perbandaran Samal, Wilayah Davao, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6235": {
+   "vi": "Đạo luật thành lập một Trường Trung học Quốc gia tại Barangay Sankanan, Đô thị Manolo Fortich, Tỉnh Bukidnon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาแห่งชาติ ในบารังไกย์ Sankanan เทศบาล Manolo Fortich จังหวัด Bukidnon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Menengah Nasional di Barangay Sankanan, Kotamadya Manolo Fortich, Provinsi Bukidnon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Menengah Kebangsaan di Barangay Sankanan, Perbandaran Manolo Fortich, Wilayah Bukidnon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6246": {
+   "vi": "Đạo luật thành lập Trường Trung học Oanari Quốc gia tại Đô thị Luna, Tỉnh La Union, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Oanari แห่งชาติ ในเทศบาล Luna จังหวัด La Union และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Oanari Nasional di Kotamadya Luna, Provinsi La Union, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Oanari Kebangsaan di Perbandaran Luna, Wilayah La Union, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6255": {
+   "vi": "Đạo luật thành lập Trường Trung học Bulan Quốc gia tại Đô thị Bulan, Tỉnh Sorsogon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Bulan แห่งชาติ ในเทศบาล Bulan จังหวัด Sorsogon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Bulan Nasional di Kotamadya Bulan, Provinsi Sorsogon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Bulan Kebangsaan di Perbandaran Bulan, Wilayah Sorsogon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6258": {
+   "vi": "Đạo luật thành lập Trường Trung học Paulino Dari tại Đô thị Pitogo, Tỉnh Zamboanga Del Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Paulino Dari ในเทศบาล Pitogo จังหวัด Zamboanga Del Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Paulino Dari di Kotamadya Pitogo, Provinsi Zamboanga Del Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Paulino Dari di Perbandaran Pitogo, Wilayah Zamboanga Del Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6292": {
+   "vi": "Đạo luật thành lập Trường Trung học San Antonio Quốc gia tại Đô thị Milaor, Tỉnh Camarines Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา San Antonio แห่งชาติ ในเทศบาล Milaor จังหวัด Camarines Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah San Antonio Nasional di Kotamadya Milaor, Provinsi Camarines Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah San Antonio Kebangsaan di Perbandaran Milaor, Wilayah Camarines Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6304": {
+   "vi": "Đạo luật thành lập Trường Trung học Toàn diện Mogpog Quốc gia tại Barangay Kapayang, Đô thị Mogpog, Tỉnh Marinduque, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาแบบครบวงจร Mogpog แห่งชาติ ในบารังไกย์ Kapayang เทศบาล Mogpog จังหวัด Marinduque และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Terpadu Mogpog Nasional di Barangay Kapayang, Kotamadya Mogpog, Provinsi Marinduque, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Menyeluruh Mogpog Kebangsaan di Barangay Kapayang, Perbandaran Mogpog, Wilayah Marinduque, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6322": {
+   "vi": "Đạo luật thành lập Trường Trung học Parañaque Quốc gia tại Đô thị Parañaque, Vùng Metro Manila, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Parañaque แห่งชาติ ในเทศบาล Parañaque เขตมหานครมะนิลา และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Parañaque Nasional di Kotamadya Parañaque, Wilayah Metropolitan Manila, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Parañaque Kebangsaan di Perbandaran Parañaque, Wilayah Metropolitan Manila, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6346": {
+   "vi": "Đạo luật thành lập Trường Trung học Olandang Quốc gia tại Đô thị Midsayap, Tỉnh North Cotabato, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Olandang แห่งชาติ ในเทศบาล Midsayap จังหวัด North Cotabato และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Olandang Nasional di Kotamadya Midsayap, Provinsi North Cotabato, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Olandang Kebangsaan di Perbandaran Midsayap, Wilayah North Cotabato, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6352": {
+   "vi": "Đạo luật thành lập Trường Trung học Dingalan Quốc gia tại Đô thị Dingalan, Tỉnh Aurora, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Dingalan แห่งชาติ ในเทศบาล Dingalan จังหวัด Aurora และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Dingalan Nasional di Kotamadya Dingalan, Provinsi Aurora, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Dingalan Kebangsaan di Perbandaran Dingalan, Wilayah Aurora, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6462": {
+   "vi": "Đạo luật thành lập một Trường Trung học Dạy nghề tại Đô thị San Gabriel, Tỉnh La Union, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาอาชีวศึกษา ในเทศบาล San Gabriel จังหวัด La Union และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Menengah Kejuruan di Kotamadya San Gabriel, Provinsi La Union, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Menengah Vokasional di Perbandaran San Gabriel, Wilayah La Union, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6471": {
+   "vi": "Đạo luật thành lập Trường Trung học Sibuyao Quốc gia tại Đô thị Torrijos, Tỉnh Marinduque, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Sibuyao แห่งชาติ ในเทศบาล Torrijos จังหวัด Marinduque และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Sibuyao Nasional di Kotamadya Torrijos, Provinsi Marinduque, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Sibuyao Kebangsaan di Perbandaran Torrijos, Wilayah Marinduque, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6619": {
+   "vi": "Đạo luật thành lập Trường Trung học Gogon Quốc gia tại Đô thị Donsol, Tỉnh Sorsogon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Gogon แห่งชาติ ในเทศบาล Donsol จังหวัด Sorsogon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Gogon Nasional di Kotamadya Donsol, Provinsi Sorsogon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Gogon Kebangsaan di Perbandaran Donsol, Wilayah Sorsogon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6711": {
+   "vi": "Đạo luật thành lập Trường Trung học Toàn diện Maasin Quốc gia tại Đô thị Maasin, Tỉnh Iloilo, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาแบบครบวงจร Maasin แห่งชาติ ในเทศบาล Maasin จังหวัด Iloilo และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Terpadu Maasin Nasional di Kotamadya Maasin, Provinsi Iloilo, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Menyeluruh Maasin Kebangsaan di Perbandaran Maasin, Wilayah Iloilo, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6739": {
+   "vi": "Đạo luật thành lập Trường Trung học Dạy nghề Sudipen tại Đô thị Sudipen, Tỉnh La Union, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาอาชีวศึกษา Sudipen ในเทศบาล Sudipen จังหวัด La Union และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Kejuruan Sudipen di Kotamadya Sudipen, Provinsi La Union, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Vokasional Sudipen di Perbandaran Sudipen, Wilayah La Union, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6800": {
+   "vi": "Đạo luật thành lập Trường Trung học Talakag Quốc gia tại Barangay San Isidro, Đô thị Talakag, Tỉnh Bukidnon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Talakag แห่งชาติ ในบารังไกย์ San Isidro เทศบาล Talakag จังหวัด Bukidnon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Talakag Nasional di Barangay San Isidro, Kotamadya Talakag, Provinsi Bukidnon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Talakag Kebangsaan di Barangay San Isidro, Perbandaran Talakag, Wilayah Bukidnon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6806": {
+   "vi": "Đạo luật thành lập Trường Trung học Bambang Quốc gia tại Đô thị Bambang, Tỉnh Nueva Vizcaya, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Bambang แห่งชาติ ในเทศบาล Bambang จังหวัด Nueva Vizcaya และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Bambang Nasional di Kotamadya Bambang, Provinsi Nueva Vizcaya, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Bambang Kebangsaan di Perbandaran Bambang, Wilayah Nueva Vizcaya, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6834": {
+   "vi": "Đạo luật thành lập Trường Trung học Cabugao tại Barangay Cabugao, Đô thị Donsol, Tỉnh Sorsogon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Cabugao ในบารังไกย์ Cabugao เทศบาล Donsol จังหวัด Sorsogon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Cabugao di Barangay Cabugao, Kotamadya Donsol, Provinsi Sorsogon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Cabugao di Barangay Cabugao, Perbandaran Donsol, Wilayah Sorsogon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6864": {
+   "vi": "Đạo luật thành lập Trường Trung học Kalayaan Quốc gia tại Thành phố Pasay, Vùng Metro Manila, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Kalayaan แห่งชาติ ในเมือง Pasay เขตมหานครมะนิลา และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Kalayaan Nasional di Kota Pasay, Wilayah Metropolitan Manila, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Kalayaan Kebangsaan di Bandar Pasay, Wilayah Metropolitan Manila, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6867": {
+   "vi": "Đạo luật thành lập Trường Trung học Tưởng niệm Dạy nghề Don Julio Leviste tại Đô thị Malvar, Tỉnh Batangas, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาอนุสรณ์อาชีวศึกษา Don Julio Leviste ในเทศบาล Malvar จังหวัด Batangas และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Memorial Kejuruan Don Julio Leviste di Kotamadya Malvar, Provinsi Batangas, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Memorial Vokasional Don Julio Leviste di Perbandaran Malvar, Wilayah Batangas, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6868": {
+   "vi": "Đạo luật thành lập Trường Trung học Pili tại Barangay Pili, Đô thị Magallanes, Tỉnh Sorsogon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Pili ในบารังไกย์ Pili เทศบาล Magallanes จังหวัด Sorsogon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Pili di Barangay Pili, Kotamadya Magallanes, Provinsi Sorsogon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Pili di Barangay Pili, Perbandaran Magallanes, Wilayah Sorsogon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6872": {
+   "vi": "Đạo luật thành lập Trường Trung học Nông-công nghiệp Sta. Maria tại Đô thị Sta. Maria, Tỉnh Bulacan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาเกษตรอุตสาหกรรม Sta. Maria ในเทศบาล Sta. Maria จังหวัด Bulacan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Agro-Industri Sta. Maria di Kotamadya Sta. Maria, Provinsi Bulacan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Agro-Industri Sta. Maria di Perbandaran Sta. Maria, Wilayah Bulacan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H6904": {
+   "vi": "Đạo luật thành lập Trường Trung học Munai Quốc gia tại Đô thị Munai, Tỉnh Lanao Del Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Munai แห่งชาติ ในเทศบาล Munai จังหวัด Lanao Del Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Munai Nasional di Kotamadya Munai, Provinsi Lanao Del Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Munai Kebangsaan di Perbandaran Munai, Wilayah Lanao Del Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7010": {
+   "vi": "Đạo luật thành lập Trường Trung học Bonliw Quốc gia tại Đô thị Torrijos, Tỉnh Marinduque, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Bonliw แห่งชาติ ในเทศบาล Torrijos จังหวัด Marinduque และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Bonliw Nasional di Kotamadya Torrijos, Provinsi Marinduque, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Bonliw Kebangsaan di Perbandaran Torrijos, Wilayah Marinduque, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7011": {
+   "vi": "Đạo luật thành lập một Trường Trung học Công lập tại Barangay Poblacion, Đô thị Pangantucan, Tỉnh Bukidnon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาสาธารณะ ในบารังไกย์ Poblacion เทศบาล Pangantucan จังหวัด Bukidnon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Menengah Negeri di Barangay Poblacion, Kotamadya Pangantucan, Provinsi Bukidnon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Menengah Awam di Barangay Poblacion, Perbandaran Pangantucan, Wilayah Bukidnon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7012": {
+   "vi": "Đạo luật thành lập Trường Trung học San Isidro Quốc gia tại Đô thị Bacon, Tỉnh Sorsogon, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา San Isidro แห่งชาติ ในเทศบาล Bacon จังหวัด Sorsogon และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah San Isidro Nasional di Kotamadya Bacon, Provinsi Sorsogon, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah San Isidro Kebangsaan di Perbandaran Bacon, Wilayah Sorsogon, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7037": {
+   "vi": "Đạo luật thành lập Trường Trung học Binakayan Quốc gia tại Đô thị Kawit, Tỉnh Cavite, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Binakayan แห่งชาติ ในเทศบาล Kawit จังหวัด Cavite และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Binakayan Nasional di Kotamadya Kawit, Provinsi Cavite, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Binakayan Kebangsaan di Perbandaran Kawit, Wilayah Cavite, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7135": {
+   "vi": "Đạo luật thành lập Trường Trung học Nanan Quốc gia tại Barangay Nanan Municipality Payao, Tỉnh Zamboanga Del Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Nanan แห่งชาติ ในบารังไกย์ Nanan Municipality Payao จังหวัด Zamboanga Del Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Nanan Nasional di Barangay Nanan Municipality Payao, Provinsi Zamboanga Del Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Nanan Kebangsaan di Barangay Nanan Municipality Payao, Wilayah Zamboanga Del Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7289": {
+   "vi": "Đạo luật thành lập một Trường Trung học Quốc gia tại Barangay Sta. Ana, Đô thị La Paz, Tỉnh Leyte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาแห่งชาติ ในบารังไกย์ Sta. Ana เทศบาล La Paz จังหวัด Leyte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Menengah Nasional di Barangay Sta. Ana, Kotamadya La Paz, Provinsi Leyte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Menengah Kebangsaan di Barangay Sta. Ana, Perbandaran La Paz, Wilayah Leyte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7349": {
+   "vi": "Đạo luật thành lập một Trường Trung học Quốc gia tại Đô thị San Joaquin, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษาแห่งชาติ ในเทศบาล San Joaquin และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk sebuah Sekolah Menengah Nasional di Kotamadya San Joaquin, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan sebuah Sekolah Menengah Kebangsaan di Perbandaran San Joaquin, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7380": {
+   "vi": "Đạo luật thành lập Trường Trung học Sultan Gumander Quốc gia tại Đô thị Sultan Gumander, Tỉnh Lanao Del Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Sultan Gumander แห่งชาติ ในเทศบาล Sultan Gumander จังหวัด Lanao Del Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Sultan Gumander Nasional di Kotamadya Sultan Gumander, Provinsi Lanao Del Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Sultan Gumander Kebangsaan di Perbandaran Sultan Gumander, Wilayah Lanao Del Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7385": {
+   "vi": "Đạo luật thành lập Trường Trung học Plaridel Quốc gia tại Barangay Plaridel, Đô thị Libjo, Tỉnh Surigao Del Norte, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียนมัธยมศึกษา Plaridel แห่งชาติ ในบารังไกย์ Plaridel เทศบาล Libjo จังหวัด Surigao Del Norte และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Menengah Plaridel Nasional di Barangay Plaridel, Kotamadya Libjo, Provinsi Surigao Del Norte, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Menengah Plaridel Kebangsaan di Barangay Plaridel, Perbandaran Libjo, Wilayah Surigao Del Norte, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H768": {
+   "vi": "Đạo luật chuyển đổi Trường Trung học Nông thôn Bañga thành Trường Nông nghiệp Panay Quốc gia tại Đảo Panay, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะโรงเรียนมัธยมศึกษาชนบท Bañga เป็น โรงเรียนเกษตรกรรม Panay แห่งชาติ ในเกาะ Panay และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Sekolah Menengah Pedesaan Bañga menjadi Sekolah Pertanian Panay Nasional di Pulau Panay, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Sekolah Menengah Luar Bandar Bañga kepada Sekolah Pertanian Panay Kebangsaan di Pulau Panay, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7689": {
+   "vi": "Đạo luật thành lập Văn phòng Kỹ thuật Separate District tại Tỉnh Sulu, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานวิศวกรรมศาสตร์ Separate District ในจังหวัด Sulu และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Teknik Separate District di Provinsi Sulu, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Kejuruteraan Separate District di Wilayah Sulu, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H7694": {
+   "vi": "Đạo luật thành lập Văn phòng Kỹ thuật Second District tại Tỉnh Capiz to be, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งสำนักงานวิศวกรรมศาสตร์ Second District ในจังหวัด Capiz to be และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Kantor Teknik Second District di Provinsi Capiz to be, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Pejabat Kejuruteraan Second District di Wilayah Capiz to be, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H8879": {
+   "vi": "Đạo luật thành lập Trường Inoburan Primary tại Barangay Inoburan, Thành phố Naga, Tỉnh Cebu, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงเรียน Inoburan Primary ในบารังไกย์ Inoburan เมือง Naga จังหวัด Cebu และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Sekolah Inoburan Primary di Barangay Inoburan, Kota Naga, Provinsi Cebu, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Sekolah Inoburan Primary di Barangay Inoburan, Bandar Naga, Wilayah Cebu, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9231": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Kabacan Land Transportation Office thành Văn phòng Khu vực Regular LTO tại Đô thị Kabacan, Tỉnh Cotabato",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Kabacan Land Transportation Office เป็น สำนักงานเขต Regular LTO ในเทศบาล Kabacan จังหวัด Cotabato",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Kabacan Land Transportation Office menjadi Kantor Distrik Regular LTO di Kotamadya Kabacan, Provinsi Cotabato",
+   "ms": "Akta menukar status Pejabat Lanjutan Kabacan Land Transportation Office kepada Pejabat Daerah Regular LTO di Perbandaran Kabacan, Wilayah Cotabato"
+  },
+  "PH-H9232": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Land Transportation Office thành Văn phòng Khu vực Chính quy tại Thành phố Tagaytay, Tỉnh Cavite, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Land Transportation Office เป็น สำนักงานเขตปกติ ในเมือง Tagaytay จังหวัด Cavite และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Land Transportation Office menjadi Kantor Distrik Reguler di Kota Tagaytay, Provinsi Cavite, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pejabat Lanjutan Land Transportation Office kepada Pejabat Daerah Biasa di Bandar Tagaytay, Wilayah Cavite, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9513": {
+   "vi": "Đạo luật chuyển đổi Trung tâm Land Transportation Office Licensing thành Trung tâm San Pablo City LTO, Licensing tại Thành phố San Pablo, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะศูนย์ Land Transportation Office Licensing เป็น ศูนย์ San Pablo City LTO, Licensing ในเมือง San Pablo และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Pusat Land Transportation Office Licensing menjadi Pusat San Pablo City LTO, Licensing di Kota San Pablo, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pusat Land Transportation Office Licensing kepada Pusat San Pablo City LTO, Licensing di Bandar San Pablo, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9871": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Land Transportation Office thành Văn phòng Khu vực Regular LTO tại Tỉnh Isabela, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Land Transportation Office เป็น สำนักงานเขต Regular LTO ในจังหวัด Isabela และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Land Transportation Office menjadi Kantor Distrik Regular LTO di Provinsi Isabela, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pejabat Lanjutan Land Transportation Office kepada Pejabat Daerah Regular LTO di Wilayah Isabela, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H9885": {
+   "vi": "Đạo luật chuyển đổi Văn phòng mở rộng Land Transportation Office thành Văn phòng Khu vực Regular LTO tại Đô thị Rosales, Tỉnh Pangasinan, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติเปลี่ยนสถานะสำนักงานขยาย Land Transportation Office เป็น สำนักงานเขต Regular LTO ในเทศบาล Rosales จังหวัด Pangasinan และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang mengubah status Kantor Perluasan Land Transportation Office menjadi Kantor Distrik Regular LTO di Kotamadya Rosales, Provinsi Pangasinan, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menukar status Pejabat Lanjutan Land Transportation Office kepada Pejabat Daerah Regular LTO di Perbandaran Rosales, Wilayah Pangasinan, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H1496": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Alitagtag, Tỉnh Batangas",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Alitagtag จังหวัด Batangas",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Alitagtag, Provinsi Batangas",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Alitagtag, Wilayah Batangas"
+  },
+  "PH-H1524": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Mayorga, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Mayorga จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Mayorga, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Mayorga, Wilayah Leyte"
+  },
+  "PH-H1537": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Calape, Tỉnh Bohol",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Calape จังหวัด Bohol",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Calape, Provinsi Bohol",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Calape, Wilayah Bohol"
+  },
+  "PH-H1538": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Mansalay, Tỉnh Oriental Mindoro",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Mansalay จังหวัด Oriental Mindoro",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Mansalay, Provinsi Oriental Mindoro",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Mansalay, Wilayah Oriental Mindoro"
+  },
+  "PH-H1551": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Gingoog, Tỉnh Misamis Oriental",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Gingoog จังหวัด Misamis Oriental",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Gingoog, Provinsi Misamis Oriental",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Gingoog, Wilayah Misamis Oriental"
+  },
+  "PH-H1553": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Tabango, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Tabango จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Tabango, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Tabango, Wilayah Leyte"
+  },
+  "PH-H1566": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Babatngon, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Babatngon จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Babatngon, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Babatngon, Wilayah Leyte"
+  },
+  "PH-H1576": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Macrohon, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Macrohon จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Macrohon, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Macrohon, Wilayah Leyte"
+  },
+  "PH-H1607": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Quezon, Tỉnh Palawan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Quezon จังหวัด Palawan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Quezon, Provinsi Palawan",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Quezon, Wilayah Palawan"
+  },
+  "PH-H1614": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị El Nido, Tỉnh Palawan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล El Nido จังหวัด Palawan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya El Nido, Provinsi Palawan",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran El Nido, Wilayah Palawan"
+  },
+  "PH-H1842": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Cagayancillo, Tỉnh Palawan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Cagayancillo จังหวัด Palawan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Cagayancillo, Provinsi Palawan",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Cagayancillo, Wilayah Palawan"
+  },
+  "PH-H1844": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Cateel, Tỉnh Davao",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Cateel จังหวัด Davao",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Cateel, Provinsi Davao",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Cateel, Wilayah Davao"
+  },
+  "PH-H1847": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Del Gallego, Tỉnh Camarines Sur",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Del Gallego จังหวัด Camarines Sur",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Del Gallego, Provinsi Camarines Sur",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Del Gallego, Wilayah Camarines Sur"
+  },
+  "PH-H1864": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Dapitan Province Zamboanga del Norte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Dapitan Province Zamboanga del Norte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Dapitan Province Zamboanga del Norte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Dapitan Province Zamboanga del Norte"
+  },
+  "PH-H1865": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị New Piñan, Tỉnh Zamboanga del Norte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล New Piñan จังหวัด Zamboanga del Norte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya New Piñan, Provinsi Zamboanga del Norte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran New Piñan, Wilayah Zamboanga del Norte"
+  },
+  "PH-H1880": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Bulan, Tỉnh Sorsogon",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Bulan จังหวัด Sorsogon",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Bulan, Provinsi Sorsogon",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Bulan, Wilayah Sorsogon"
+  },
+  "PH-H1882": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Sindangan, Tỉnh Zamboanga del Norte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Sindangan จังหวัด Zamboanga del Norte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Sindangan, Provinsi Zamboanga del Norte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Sindangan, Wilayah Zamboanga del Norte"
+  },
+  "PH-H1901": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Patnongon, Tỉnh Antique",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Patnongon จังหวัด Antique",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Patnongon, Provinsi Antique",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Patnongon, Wilayah Antique"
+  },
+  "PH-H1906": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Tabango, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Tabango จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Tabango, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Tabango, Wilayah Leyte"
+  },
+  "PH-H1911": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Malitbog, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Malitbog จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Malitbog, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Malitbog, Wilayah Leyte"
+  },
+  "PH-H1915": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Faire, Tỉnh Cagayan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Faire จังหวัด Cagayan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Faire, Provinsi Cagayan",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Faire, Wilayah Cagayan"
+  },
+  "PH-H1938": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Dapitan, Tỉnh Zamboanga del Norte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Dapitan จังหวัด Zamboanga del Norte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Dapitan, Provinsi Zamboanga del Norte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Dapitan, Wilayah Zamboanga del Norte"
+  },
+  "PH-H1941": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Polanco, Tỉnh Zamboanga del Norte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Polanco จังหวัด Zamboanga del Norte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Polanco, Provinsi Zamboanga del Norte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Polanco, Wilayah Zamboanga del Norte"
+  },
+  "PH-H1955": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Quinapundan, Tỉnh Samar",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Quinapundan จังหวัด Samar",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Quinapundan, Provinsi Samar",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Quinapundan, Wilayah Samar"
+  },
+  "PH-H1962": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Quezon, Tỉnh Palawan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Quezon จังหวัด Palawan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Quezon, Provinsi Palawan",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Quezon, Wilayah Palawan"
+  },
+  "PH-H2210": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Bagamanoc, Tỉnh Catanduanes",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Bagamanoc จังหวัด Catanduanes",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Bagamanoc, Provinsi Catanduanes",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Bagamanoc, Wilayah Catanduanes"
+  },
+  "PH-H2212": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Tagkawayan, Tỉnh Quezon",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Tagkawayan จังหวัด Quezon",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Tagkawayan, Provinsi Quezon",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Tagkawayan, Wilayah Quezon"
+  },
+  "PH-H2217": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Dimataling, Tỉnh Zamboanga del Sur",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Dimataling จังหวัด Zamboanga del Sur",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Dimataling, Provinsi Zamboanga del Sur",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Dimataling, Wilayah Zamboanga del Sur"
+  },
+  "PH-H2229": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Palompon, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Palompon จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Palompon, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Palompon, Wilayah Leyte"
+  },
+  "PH-H2233": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Aborlan, Tỉnh Palawan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Aborlan จังหวัด Palawan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Aborlan, Provinsi Palawan",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Aborlan, Wilayah Palawan"
+  },
+  "PH-H2237": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Lupon, Tỉnh Davao",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Lupon จังหวัด Davao",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Lupon, Provinsi Davao",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Lupon, Wilayah Davao"
+  },
+  "PH-H2257": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Bani, Tỉnh Pangasinan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Bani จังหวัด Pangasinan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Bani, Provinsi Pangasinan",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Bani, Wilayah Pangasinan"
+  },
+  "PH-H2267": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị DARaga, Tỉnh Albay",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล DARaga จังหวัด Albay",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya DARaga, Provinsi Albay",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran DARaga, Wilayah Albay"
+  },
+  "PH-H2269": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Olutanga, Tỉnh Zamboanga del Sur",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Olutanga จังหวัด Zamboanga del Sur",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Olutanga, Provinsi Zamboanga del Sur",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Olutanga, Wilayah Zamboanga del Sur"
+  },
+  "PH-H2270": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Liargao, Tỉnh Zamboanga del Sur",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Liargao จังหวัด Zamboanga del Sur",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Liargao, Provinsi Zamboanga del Sur",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Liargao, Wilayah Zamboanga del Sur"
+  },
+  "PH-H2281": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Hilongos, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Hilongos จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Hilongos, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Hilongos, Wilayah Leyte"
+  },
+  "PH-H2285": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Samal, Tỉnh Davao",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Samal จังหวัด Davao",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Samal, Provinsi Davao",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Samal, Wilayah Davao"
+  },
+  "PH-H2289": {
+   "vi": "Đạo luật thành lập các Barrio tại Tỉnh Zamboanga del Norte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในจังหวัด Zamboanga del Norte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Provinsi Zamboanga del Norte",
+   "ms": "Akta menubuhkan beberapa Barrio di Wilayah Zamboanga del Norte"
+  },
+  "PH-H2291": {
+   "vi": "Đạo luật thành lập các Barrio tại Tỉnh Samar",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในจังหวัด Samar",
+   "id": "Undang-Undang membentuk beberapa Barrio di Provinsi Samar",
+   "ms": "Akta menubuhkan beberapa Barrio di Wilayah Samar"
+  },
+  "PH-H2293": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Abuyog, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Abuyog จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Abuyog, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Abuyog, Wilayah Leyte"
+  },
+  "PH-H2303": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Buenavista, Tỉnh Quezon",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Buenavista จังหวัด Quezon",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Buenavista, Provinsi Quezon",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Buenavista, Wilayah Quezon"
+  },
+  "PH-H2471": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Monkayo, Tỉnh Davao",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Monkayo จังหวัด Davao",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Monkayo, Provinsi Davao",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Monkayo, Wilayah Davao"
+  },
+  "PH-H2505": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Sagnay, Tỉnh Camarines Sur",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Sagnay จังหวัด Camarines Sur",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Sagnay, Provinsi Camarines Sur",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Sagnay, Wilayah Camarines Sur"
+  },
+  "PH-H2517": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Virac, Tỉnh Catanduanes",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Virac จังหวัด Catanduanes",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Virac, Provinsi Catanduanes",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Virac, Wilayah Catanduanes"
+  },
+  "PH-H2522": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Tuao, Tỉnh Cagayan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Tuao จังหวัด Cagayan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Tuao, Provinsi Cagayan",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Tuao, Wilayah Cagayan"
+  },
+  "PH-H2526": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Almeria, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Almeria จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Almeria, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Almeria, Wilayah Leyte"
+  },
+  "PH-H2530": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Talibon, Tỉnh Bohol",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Talibon จังหวัด Bohol",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Talibon, Provinsi Bohol",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Talibon, Wilayah Bohol"
+  },
+  "PH-H2537": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Sogod, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Sogod จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Sogod, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Sogod, Wilayah Leyte"
+  },
+  "PH-H2538": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Minalin, Tỉnh Pampanga",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Minalin จังหวัด Pampanga",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Minalin, Provinsi Pampanga",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Minalin, Wilayah Pampanga"
+  },
+  "PH-H2541": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Casiguran, Tỉnh Sorsogon",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Casiguran จังหวัด Sorsogon",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Casiguran, Provinsi Sorsogon",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Casiguran, Wilayah Sorsogon"
+  },
+  "PH-H2547": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Bato, Tỉnh Catanduanes",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Bato จังหวัด Catanduanes",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Bato, Provinsi Catanduanes",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Bato, Wilayah Catanduanes"
+  },
+  "PH-H2548": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Panabo, Tỉnh Davao",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Panabo จังหวัด Davao",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Panabo, Provinsi Davao",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Panabo, Wilayah Davao"
+  },
+  "PH-H2551": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Palompon, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Palompon จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Palompon, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Palompon, Wilayah Leyte"
+  },
+  "PH-H2553": {
+   "vi": "Đạo luật thành lập các Barrio tại Tỉnh Zamboanga del Sur",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในจังหวัด Zamboanga del Sur",
+   "id": "Undang-Undang membentuk beberapa Barrio di Provinsi Zamboanga del Sur",
+   "ms": "Akta menubuhkan beberapa Barrio di Wilayah Zamboanga del Sur"
+  },
+  "PH-H2555": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Naujan, Tỉnh Oriental Mindoro",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Naujan จังหวัด Oriental Mindoro",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Naujan, Provinsi Oriental Mindoro",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Naujan, Wilayah Oriental Mindoro"
+  },
+  "PH-H2562": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Midsayap, Tỉnh Cotabato",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Midsayap จังหวัด Cotabato",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Midsayap, Provinsi Cotabato",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Midsayap, Wilayah Cotabato"
+  },
+  "PH-H2563": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Dumingag, Tỉnh Zamboanga del Sur",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Dumingag จังหวัด Zamboanga del Sur",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Dumingag, Provinsi Zamboanga del Sur",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Dumingag, Wilayah Zamboanga del Sur"
+  },
+  "PH-H2590": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Enrile, Tỉnh Cagayan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Enrile จังหวัด Cagayan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Enrile, Provinsi Cagayan",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Enrile, Wilayah Cagayan"
+  },
+  "PH-H2598": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Anilao, Tỉnh Iloilo",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Anilao จังหวัด Iloilo",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Anilao, Provinsi Iloilo",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Anilao, Wilayah Iloilo"
+  },
+  "PH-H2620": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Balangkayan, Tỉnh Samar",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Balangkayan จังหวัด Samar",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Balangkayan, Provinsi Samar",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Balangkayan, Wilayah Samar"
+  },
+  "PH-H2622": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Bobon, Tỉnh Samar",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Bobon จังหวัด Samar",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Bobon, Provinsi Samar",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Bobon, Wilayah Samar"
+  },
+  "PH-H2808": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Roxas, Tỉnh Palawan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Roxas จังหวัด Palawan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Roxas, Provinsi Palawan",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Roxas, Wilayah Palawan"
+  },
+  "PH-H2834": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Nuling, Tỉnh Cotabato",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Nuling จังหวัด Cotabato",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Nuling, Provinsi Cotabato",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Nuling, Wilayah Cotabato"
+  },
+  "PH-H2841": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Sierra-Bullones, Tỉnh Bohol",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Sierra-Bullones จังหวัด Bohol",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Sierra-Bullones, Provinsi Bohol",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Sierra-Bullones, Wilayah Bohol"
+  },
+  "PH-H2846": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Bonifacio, Tỉnh Misamis Occidental",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Bonifacio จังหวัด Misamis Occidental",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Bonifacio, Provinsi Misamis Occidental",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Bonifacio, Wilayah Misamis Occidental"
+  },
+  "PH-H2847": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Cateel, Tỉnh Davao",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Cateel จังหวัด Davao",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Cateel, Provinsi Davao",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Cateel, Wilayah Davao"
+  },
+  "PH-H2862": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Bauan, Tỉnh Batangas",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Bauan จังหวัด Batangas",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Bauan, Provinsi Batangas",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Bauan, Wilayah Batangas"
+  },
+  "PH-H2866": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Alaminos, Tỉnh Pangasinan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Alaminos จังหวัด Pangasinan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Alaminos, Provinsi Pangasinan",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Alaminos, Wilayah Pangasinan"
+  },
+  "PH-H2870": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Diffun, Tỉnh Nueva Vizcaya",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Diffun จังหวัด Nueva Vizcaya",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Diffun, Provinsi Nueva Vizcaya",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Diffun, Wilayah Nueva Vizcaya"
+  },
+  "PH-H2985": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Abulug, Tỉnh Cagayan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Abulug จังหวัด Cagayan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Abulug, Provinsi Cagayan",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Abulug, Wilayah Cagayan"
+  },
+  "PH-H2986": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Talibon, Tỉnh Bohol",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Talibon จังหวัด Bohol",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Talibon, Provinsi Bohol",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Talibon, Wilayah Bohol"
+  },
+  "PH-H3413": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Quinapundan, Tỉnh Samar",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Quinapundan จังหวัด Samar",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Quinapundan, Provinsi Samar",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Quinapundan, Wilayah Samar"
+  },
+  "PH-H3414": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Guiuan, Tỉnh Samar",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Guiuan จังหวัด Samar",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Guiuan, Provinsi Samar",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Guiuan, Wilayah Samar"
+  },
+  "PH-H3415": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Dolores, Tỉnh Samar",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Dolores จังหวัด Samar",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Dolores, Provinsi Samar",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Dolores, Wilayah Samar"
+  },
+  "PH-H3420": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị San Policarpio, Tỉnh Samar",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล San Policarpio จังหวัด Samar",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya San Policarpio, Provinsi Samar",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran San Policarpio, Wilayah Samar"
+  },
+  "PH-H3421": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị General Macarthur, Tỉnh Samar",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล General Macarthur จังหวัด Samar",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya General Macarthur, Provinsi Samar",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran General Macarthur, Wilayah Samar"
+  },
+  "PH-H3516": {
+   "vi": "Đạo luật thành lập các Barrio tại Thành phố Iligan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเมือง Iligan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kota Iligan",
+   "ms": "Akta menubuhkan beberapa Barrio di Bandar Iligan"
+  },
+  "PH-H3610": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Baclayon, Tỉnh Bohol",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Baclayon จังหวัด Bohol",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Baclayon, Provinsi Bohol",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Baclayon, Wilayah Bohol"
+  },
+  "PH-H4074": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Bogo, Tỉnh Cebu",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Bogo จังหวัด Cebu",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Bogo, Provinsi Cebu",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Bogo, Wilayah Cebu"
+  },
+  "PH-H4093": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Mawab, Tỉnh Davao",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Mawab จังหวัด Davao",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Mawab, Provinsi Davao",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Mawab, Wilayah Davao"
+  },
+  "PH-H4102": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Panabo, Tỉnh Davao",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Panabo จังหวัด Davao",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Panabo, Provinsi Davao",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Panabo, Wilayah Davao"
+  },
+  "PH-H4126": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Calubian, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Calubian จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Calubian, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Calubian, Wilayah Leyte"
+  },
+  "PH-H4356": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Anda, Tỉnh Bohol",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Anda จังหวัด Bohol",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Anda, Provinsi Bohol",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Anda, Wilayah Bohol"
+  },
+  "PH-H4358": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Lupon, Tỉnh Davao",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Lupon จังหวัด Davao",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Lupon, Provinsi Davao",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Lupon, Wilayah Davao"
+  },
+  "PH-H4364": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Monkayo, Tỉnh Davao",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Monkayo จังหวัด Davao",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Monkayo, Provinsi Davao",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Monkayo, Wilayah Davao"
+  },
+  "PH-H4365": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Bunawan, Tỉnh Agusan",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Bunawan จังหวัด Agusan",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Bunawan, Provinsi Agusan",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Bunawan, Wilayah Agusan"
+  },
+  "PH-H4382": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Espiritu",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Espiritu",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Espiritu",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Espiritu"
+  },
+  "PH-H4395": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Calubian, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Calubian จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Calubian, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Calubian, Wilayah Leyte"
+  },
+  "PH-H4766": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Espiritu",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Espiritu",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Espiritu",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Espiritu"
+  },
+  "PH-H4774": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Anda, Tỉnh Bohol",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Anda จังหวัด Bohol",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Anda, Provinsi Bohol",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Anda, Wilayah Bohol"
+  },
+  "PH-H4780": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Villaba, Tỉnh Leyte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Villaba จังหวัด Leyte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Villaba, Provinsi Leyte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Villaba, Wilayah Leyte"
+  },
+  "PH-H5388": {
+   "vi": "Đạo luật thành lập Bệnh viện Đô thị Don Marcelino tại Đô thị Don Marcelino, Tỉnh Davao Del Sur, và phân bổ kinh phí cho mục đích này",
+   "th": "พระราชบัญญัติจัดตั้งโรงพยาบาลเทศบาล Don Marcelino ในเทศบาล Don Marcelino จังหวัด Davao Del Sur และจัดสรรเงินทุนสำหรับการนี้",
+   "id": "Undang-Undang membentuk Rumah Sakit Kotamadya Don Marcelino di Kotamadya Don Marcelino, Provinsi Davao Del Sur, dan mengalokasikan dana untuk itu",
+   "ms": "Akta menubuhkan Hospital Perbandaran Don Marcelino di Perbandaran Don Marcelino, Wilayah Davao Del Sur, dan memperuntukkan dana untuk itu"
+  },
+  "PH-H4379": {
+   "vi": "Đạo luật thành lập các Barrio tại Đô thị Sergio Osmena, Tỉnh Sr., Tỉnh Zamboanga Del Norte",
+   "th": "พระราชบัญญัติจัดตั้งบาริโอหลายแห่ง ในเทศบาล Sergio Osmena จังหวัด Sr. จังหวัด Zamboanga Del Norte",
+   "id": "Undang-Undang membentuk beberapa Barrio di Kotamadya Sergio Osmena, Provinsi Sr., Provinsi Zamboanga Del Norte",
+   "ms": "Akta menubuhkan beberapa Barrio di Perbandaran Sergio Osmena, Wilayah Sr., Wilayah Zamboanga Del Norte"
+  }
+ }
+}

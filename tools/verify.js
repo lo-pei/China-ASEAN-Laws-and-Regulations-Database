@@ -30,7 +30,7 @@ function load(rel) {
 
 ['prototype/data/dataset-core.js', 'prototype/data/dataset-extra.js', 'prototype/data/i18n.js',
  'prototype/assets/js/core/util.js', 'prototype/assets/js/core/i18n.js', 'prototype/assets/js/core/store.js',
- 'prototype/assets/js/core/search.js', 'prototype/assets/js/core/compare.js', 'prototype/assets/js/core/terms.js',
+ 'prototype/assets/js/core/search.js', 'prototype/assets/js/core/terms.js',
  'prototype/assets/js/core/qa.js'].forEach(load);
 
 /* 官方全文层与全量法规目录：与原型 index.html 的加载顺序保持一致 */
@@ -42,7 +42,7 @@ load('prototype/data/cn-catalog.js');
 const CALR = global.CALR || {};
 const has = (o) => o && typeof o === 'object';
 
-ok('核心模块已加载', !!(CALR.util && CALR.store && CALR.search && CALR.compare && CALR.terms && CALR.qa));
+ok('核心模块已加载', !!(CALR.util && CALR.store && CALR.search && CALR.terms && CALR.qa));
 
 const store = CALR.store;
 store.init();
@@ -137,20 +137,7 @@ ok('英文检索有结果', s7.total > 0, 'total=' + s7.total);
 const s8 = search('đầu tư', 'keyword');
 log.push('INFO  越南语检索（đầu tư）命中 ' + s8.total + ' 部');
 
-/* ---------- 4. 比对逻辑 ---------- */
-const pair = [];
-store.laws().slice(0, 12).forEach(l => { if (l.articles[0]) pair.push(l.articles[0].id); });
-const rep = CALR.compare.report(pair.slice(0, 2));
-ok('比对报告可生成（2 条）', rep.ok === true, JSON.stringify(rep).slice(0, 120));
-ok('比对包含 5 个维度', rep.ok && rep.dimensions.length === 5, '实际 ' + (rep.dimensions || []).length);
-ok('比对包含相似度矩阵', rep.ok && Array.isArray(rep.matrix) && rep.matrix.length === 2);
-ok('比对包含制度衔接提示', rep.ok && rep.tips.length > 0, 'tips=' + (rep.tips || []).length);
-const rep3 = CALR.compare.report(pair.slice(0, 3));
-ok('比对报告可生成（3 条）', rep3.ok === true);
-const badRep = CALR.compare.report(['NOT-EXIST-1']);
-ok('无效条文比对被拒绝', badRep.ok === false);
-
-/* ---------- 5. 术语逻辑 ---------- */
+/* ---------- 4. 术语逻辑（跨语言比对页已下线） ---------- */
 const lawWithTerms = store.laws().filter(l => store.termsOfLaw(l).length > 0)[0];
 ok('存在含术语的法规', !!lawWithTerms, lawWithTerms && lawWithTerms.id);
 if (lawWithTerms) {

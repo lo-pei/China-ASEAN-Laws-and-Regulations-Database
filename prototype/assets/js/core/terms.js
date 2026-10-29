@@ -87,33 +87,67 @@
     return html;
   }
 
-  /** 术语弹窗内容 */
+  function t(key) {
+    return (CALR.i18n && CALR.i18n.t) ? CALR.i18n.t(key) : key;
+  }
+
+  /** 取术语在指定语种下的译名（无则空串） */
+  function valueIn(term, lang) {
+    if (!term || !lang) return '';
+    if (lang === 'zh') return term.zh || '';
+    if (lang === 'en') return term.en || '';
+    return (term.translations || {})[lang] || '';
+  }
+
+  /** 术语卡片的展示语种：当前界面语言 → 中文 → 英文（只取一种，不并列） */
+  function displayLangOf(term) {
+    var cur = (CALR.i18n && CALR.i18n.lang()) || 'zh';
+    if (valueIn(term, cur)) return cur;
+    if (term && term.zh) return 'zh';
+    if (term && term.en) return 'en';
+    return cur;
+  }
+
+  /** 单语释义：当前界面语言 → 中文 → 英文（不并列展示） */
+  function definitionOf(term, lang) {
+    var d = term && term.definition;
+    if (!d) return '';
+    return d[lang] || d.zh || d.en || '';
+  }
+
+  /** 单语概念解释：当前界面语言 → 中文 → 英文（不并列展示） */
+  function conceptNoteOf(term, lang) {
+    var n = term && term.conceptNote;
+    if (!n) return '';
+    return n[lang] || n.zh || n.en || '';
+  }
+
+  /** 术语弹窗内容：只展示当前界面语言下的术语与释义，不再多语并列 */
   function popupHtml(term) {
     if (!term) return '';
-    var rs = rows(term);
+    var lang = displayLangOf(term);
+    var label = valueIn(term, lang) || term.zh || term.en || '';
+    var def = definitionOf(term, lang);
+    var note = term.confidence === 'concept' ? conceptNoteOf(term, lang) : '';
     var conf = { high: '译法确定', medium: '译法较确定', concept: '无直接对应译法' }[term.confidence] || '译法确定';
+    var related = (term.lawIds || []).map(function (id) {
+      var l = S().law(id);
+      if (l) return '<a href="#/law/' + U().attr(id) + '">' + U().esc(U().tr(l.title)) + '</a>';
+      var x = S().treaty(id);
+      if (x) return '<span class="tag tag--outline">' + U().esc(U().tr(x.name)) + '</span>';
+      return '';
+    }).filter(Boolean);
     return '' +
       '<div class="term-pop__head">' +
-        '<span class="term-pop__zh">' + U().esc(term.zh) + '</span>' +
-        '<span class="term-pop__en">' + U().esc(term.en || '') + '</span>' +
+        '<span class="term-pop__zh">' + U().esc(label) + '</span>' +
+        '<span class="term-pop__en">' + U().esc(CALR.i18n.nativeName(lang)) + '</span>' +
         '<span class="tag tag--blue">' + U().esc(domainName(term.domain)) + '</span>' +
-        '<span class="tag tag--outline">' + U().esc(conf) + '</span>' +
+        '<span class="tag tag--outline">' + U().esc(t(conf)) + '</span>' +
       '</div>' +
-      '<ul class="term-pop__list">' + rs.map(function (r) {
-        var mark = r.code === CALR.i18n.lang() ? ' style="color:var(--calr-blue-600);font-weight:600"' : '';
-        return '<li><span class="term-pop__lang">' + U().esc(r.name) + '</span><span' + mark + '>' + U().esc(r.value) + '</span></li>';
-      }).join('') + '</ul>' +
-      (term.definition && term.definition.zh ? '<div class="term-pop__def"><b>释义：</b>' + U().esc(term.definition.zh) + '</div>' : '') +
-      (term.confidence === 'concept' && term.conceptNote && term.conceptNote.zh
-        ? '<div class="term-pop__def"><b>概念解释：</b>' + U().esc(term.conceptNote.zh) + '</div>' : '') +
-      ((term.lawIds || []).length
-        ? '<div class="term-pop__def"><b>相关法规与条约：</b>' + term.lawIds.map(function (id) {
-            var l = S().law(id);
-            if (l) return '<a href="#/law/' + U().attr(id) + '">' + U().esc(U().tr(l.title)) + '</a>';
-            var x = S().treaty(id);
-            if (x) return '<span class="tag tag--outline">' + U().esc(U().tr(x.name)) + '</span>';
-            return '';
-          }).filter(Boolean).join('、') + '</div>'
+      (def ? '<div class="term-pop__def"><b>' + U().esc(t('释义')) + '：</b>' + U().esc(def) + '</div>' : '') +
+      (note ? '<div class="term-pop__def"><b>' + U().esc(t('概念解释')) + '：</b>' + U().esc(note) + '</div>' : '') +
+      (related.length
+        ? '<div class="term-pop__def"><b>' + U().esc(t('相关法规与条约')) + '：</b>' + related.join('、') + '</div>'
         : '');
   }
 

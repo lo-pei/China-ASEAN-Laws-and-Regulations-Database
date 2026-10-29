@@ -125,24 +125,6 @@ const CASES = [
       return { 侧栏底色: bg, 亮度0到255: Math.round(lum), 期望: '亮度<90（深色）' };
     })()`,
     expect: { 亮度0到255: '<90' }
-  },
-  {
-    name: '条款比对页',
-    url: '#/compare',
-    check: `(function(){
-      var body = document.body.innerText || '';
-      return { 文字长度: body.replace(/\\s+/g,'').length, 出现异常: /页面渲染出现异常/.test(body), 期望: '文字长度>300, 出现异常=false' };
-    })()`,
-    expect: { 文字长度: '>300', 出现异常: false }
-  },
-  {
-    name: '术语页',
-    url: '#/terms',
-    check: `(function(){
-      var body = document.body.innerText || '';
-      return { 文字长度: body.replace(/\\s+/g,'').length, 术语卡: document.querySelectorAll('.term-card').length, 期望: '文字长度>1000, 术语卡>3' };
-    })()`,
-    expect: { 文字长度: '>1000', 术语卡: '>3' }
   }
 ];
 

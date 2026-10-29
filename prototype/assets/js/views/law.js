@@ -1,5 +1,12 @@
 /* ==========================================================================
-   CALR · views/law.js —— 法规详情页与阅读体验（M5）+ 术语即时翻译（M4 内联）
+   CALR · views/law.js —— 法规详情页与阅读体验 + 术语内联释义
+   --------------------------------------------------------------------------
+   2026-10-29 改版（用户要求）：
+     · 左栏只保留「条文目录」，右侧为法律主体内容；容器改用宽版并收窄目录列；
+     · 标题区只展示「当前界面语言主标题 + 小号浅色【原文名称】」，不再罗列语言别名；
+     · 标题下方新增一行「基本信息」：国旗、时效性、制定机关、文号、公布日期、施行日期；
+     · 「版本与变迁」时间线移到右侧正文列，每条历史版本可点击跳转到对应 lawId；
+     · 已下线的侧栏卡片及其 JS 事件绑定（导出/引用/术语表/比对入口等）一并移除。
    ========================================================================== */
 (function (root) {
   'use strict';
@@ -13,69 +20,55 @@
   var tr = function (f) { return CALR.i18n.field(f); };
 
   var LANG_NAME = { zh: '中文', en: 'English', vi: 'Tiếng Việt', th: 'ไทย', id: 'Bahasa Indonesia', ms: 'Bahasa Melayu', my: 'မြန်မာ', km: 'ខ្មែរ', lo: 'ລາວ' };
-  var SPEECH = { zh: 'zh-CN', en: 'en-US', vi: 'vi-VN', th: 'th-TH', id: 'id-ID', ms: 'ms-MY', my: 'my-MM', km: 'km-KH', lo: 'lo-LA' };
+
+  /* 各法域的官方文本语种（用于确定「原文」语种与原文名称） */
+  var COUNTRY_ORIG = {
+    CN: 'zh', VN: 'vi', TH: 'th', ID: 'id', MY: 'ms', SG: 'en',
+    PH: 'en', BN: 'ms', KH: 'km', LA: 'lo', MM: 'my', TL: 'pt'
+  };
+
+  /* 少量本页专用标签：数据语言包里没有对应键，按界面语言就地取词，缺当前语言回退英文 */
+  var LOCAL_LABELS = {
+    basic: { zh: '基本信息', en: 'Basic information', vi: 'Thông tin cơ bản', th: 'ข้อมูลพื้นฐาน', id: 'Informasi dasar', ms: 'Maklumat asas' },
+    currentVersion: { zh: '当前版本', en: 'Current version', vi: 'Phiên bản hiện hành', th: 'ฉบับปัจจุบัน', id: 'Versi saat ini', ms: 'Versi semasa' },
+    historyVersions: { zh: '历史版本', en: 'Historical versions', vi: 'Phiên bản trước', th: 'ฉบับก่อนหน้า', id: 'Versi sebelumnya', ms: 'Versi terdahulu' },
+    revisionLog: { zh: '修订记录', en: 'Revision history', vi: 'Lịch sử sửa đổi', th: 'ประวัติการแก้ไข', id: 'Riwayat revisi', ms: 'Sejarah pindaan' },
+    openVersion: { zh: '进入该版本', en: 'Open this version', vi: 'Mở phiên bản này', th: 'เปิดฉบับนี้', id: 'Buka versi ini', ms: 'Buka versi ini' },
+    noVersions: { zh: '暂无其他历史版本记录。', en: 'No other historical versions recorded.', vi: 'Chưa ghi nhận phiên bản trước nào.', th: 'ยังไม่มีบันทึกฉบับก่อนหน้า', id: 'Belum ada versi sebelumnya.', ms: 'Tiada versi terdahulu direkodkan.' }
+  };
+  function L(key) {
+    var m = LOCAL_LABELS[key] || {};
+    var lang = CALR.i18n.lang();
+    return m[lang] || m.en || m.zh || key;
+  }
 
   views.law = {
     render: function (main, params, query) {
       var id = params[0];
 
-  /* 版本与变迁（④）：数据现实是没有条文级修订记录，所以只做法规级时间线，
-         并列出「同标题的其他记录」—— 明确标注同名不等于同法，不替用户下结论。 */
-      function renderHistoryData() {
-        /* 注意：本文件下文有 var root = U().$('#law-body', main) || main;
-           那个 root 是 DOM 元素，不是 window。这里必须用 window 取 API 模式标记，
-           否则 root.__CALR_API_MODE 永远是 undefined，整段逻辑被静默跳过。 */
-        if (!((typeof window !== 'undefined' ? window.__CALR_API_MODE : null) &&
-              CALR.api && CALR.api.enabled && CALR.api.enabled() && CALR.api.lawHistory)) return;
-        CALR.api.lawHistory(id).then(function (h) {
-          if (!h) return;
-          var box = U().$('#law-history', main);
-          if (!box) return;
-          var ev = (h.events || []).map(function (e) {
-            return '<li class="hist__item"><span class="hist__dot"></span>' +
-              '<span class="hist__label">' + esc(e.label) + '</span>' +
-              '<span class="hist__val">' + esc(e.value) + '</span></li>';
-          }).join('');
-          var sib = (h.siblings || []).length ? (
-            '<div class="hist__sib"><div class="hist__sibtitle">' + esc(t('同标题的其他记录')) +
-            '（' + h.siblings.length + '）</div><ul class="hist__siblist">' +
-            h.siblings.map(function (x) {
-              return '<li><a href="#/law/' + esc(x.id) + '">' + esc(CALR.store.lawTitle({ title: { zh: x.title } })) +
-                '</a> <span class="mini">' + esc(x.id) + (x.promulgatedDate ? ' · ' + esc(String(x.promulgatedDate)) : '') +
-                '</span></li>';
-            }).join('') + '</ul>' +
-            '<p class="hist__note">' + esc(h.note || '') + '</p></div>') : '';
-          box.innerHTML = '<div class="card"><div class="card__head"><h2 class="card__title">' +
-            esc(t('版本与变迁')) + '</h2></div><div class="card__body">' +
-            (ev ? '<ul class="hist">' + ev + '</ul>' : '<p class="mini">' + esc(t('暂无版本时间信息')) + '</p>') +
-            sib + '</div></div>';
-        }).catch(function () {});
-      }
-
-
       var law = S().law(id);
       if (!law) {
 
-    /* API 模式兜底：store 里没有（compact 后台补齐尚未完成，或直接访问详情页链接），
-       就先向后端要这一部，拿到后写入 store 再重渲染。 */
-    if (root.__CALR_API_MODE && CALR.api && CALR.api.enabled && CALR.api.enabled() &&
-        CALR.api.law && !main.__calrLawFetching) {
-      main.__calrLawFetching = true;
-      CALR.api.law(id).then(function (full) {
-        if (full && full.id) {
-          if (CALR.store.addCompactLaws) CALR.store.addCompactLaws([full]);
-          if (CALR.store.addFullArticles) CALR.store.addFullArticles(full.id, full.articles || []);
+        /* API 模式兜底：store 里没有（compact 后台补齐尚未完成，或直接访问详情页链接），
+           就先向后端要这一部，拿到后写入 store 再重渲染。 */
+        if (root.__CALR_API_MODE && CALR.api && CALR.api.enabled && CALR.api.enabled() &&
+            CALR.api.law && !main.__calrLawFetching) {
+          main.__calrLawFetching = true;
+          CALR.api.law(id).then(function (full) {
+            if (full && full.id) {
+              if (CALR.store.addCompactLaws) CALR.store.addCompactLaws([full]);
+              if (CALR.store.addFullArticles) CALR.store.addFullArticles(full.id, full.articles || []);
+            }
+            main.__calrLawFetching = false;
+            views.law.render(main, params, query);
+          }).catch(function () {
+            main.__calrLawFetching = false;
+            views.law.render(main, params, query);
+          });
+          return;
         }
-        main.__calrLawFetching = false;
-        views.law.render(main, params, query);
-      }).catch(function () {
-        main.__calrLawFetching = false;
-        views.law.render(main, params, query);
-      });
-      return;
-    }
 
-    main.innerHTML = '<div class="container page">' + C().emptyState(CALR.ui.icon('print'), t('未找到该法规'), '', '<p><a class="btn" href="#/search">' + esc(t('返回检索')) + '</a></p>') + '</div>';
+        main.innerHTML = '<div class="container page">' + C().emptyState(CALR.ui.icon('print'), t('未找到该法规'), '', '<p><a class="btn" href="#/search">' + esc(t('返回检索')) + '</a></p>') + '</div>';
         return;
       }
       /* 条文尚未完整载入：先载入所属分卷/接口，再重新渲染。
@@ -92,7 +85,7 @@
       var _hasArts = !!(law.articles && law.articles.length);
       /* 该加载的情形（任一成立）：
            ① coverage 不是 full —— 说明手上最多只有摘录，需要取全文
-              （静态 core 里 CN-DATA-2021 就是 4 条摘录、coverage='excerpt'）
+               （静态 core 里 CN-DATA-2021 就是 4 条摘录、coverage='excerpt'）
            ② 条文为空但声称有条文数 —— API 模式下 compact 只给 articleCount 不给 articles
          不加载的情形：coverage='full' 且已有条文，说明已经加载好了。 */
       var _expectArts = (Number(law.articleCount) || 0) > 0 ||
@@ -164,13 +157,9 @@
       var arriveQ = (query.q || '').trim();
       if (['both', 'orig', 'trans'].indexOf(readMode) < 0) readMode = 'both';
       if (readMode === 'trans' && !transLang) readMode = 'orig';
-      var dl = origLang;   /* 保留给打印与引用 */
       var fontSize = query.fs || 'normal';
-      var related = S().related(law, 5);
-      var citedBy = S().citedByLaws(law);
       var revisions = S().revisionsOf(law);
-      var terms = S().termsOfLaw(law);
-      var chapters = U().uniq(law.articles.map(function (a) { return tr(a.chapter) || ''; }));
+      var chapters = U().uniq(law.articles.map(function (a) { return chapterOf(a); }));
       /* 条文目录分组：优先展示「章」，点击章再展开其下的条 */
       var tocGroups = buildTocGroups(law);
 
@@ -190,227 +179,180 @@
       window.addEventListener('scroll', onScroll, { passive: true });
       setTimeout(onScroll, 60);
 
-      var altTitles = U().altTitles(law.title, CALR.i18n.lang());
+      /* ---------- 标题区：当前界面语言主标题 + 原文名称 ---------- */
+      var td = titleDisplayOf(law);
 
-      /* 信息表字段：多版本记录（携带 versionDate）额外列出「版本日期」，用于区分同标题的新旧版本 */
-      var metaCells = [
-        { label: t('制定机关'), value: (CALR.ui.issuerLabel ? CALR.ui.issuerLabel(law.issuingBody) : tr(law.issuingBody)) },
-        { label: t('文号'), value: law.docNumber || '—' },
-        { label: t('公布日期'), value: U().fmtDate(law.promulgatedDate) },
-        { label: t('施行日期'), value: U().fmtDate(law.effectiveDate) }
+      /* ---------- 基本信息表格（用户要求恢复表格形态） ---------- */
+      var issuer = (CALR.ui.issuerLabel ? CALR.ui.issuerLabel(law.issuingBody) : tr(law.issuingBody)) || '—';
+      var artCount = law.articleCount || (law.articles || []).length || 0;
+      var metaRows = [
+        [t('国家 / 法域'), '<span class="law-meta__country">' + C().flagSvg(law.country, 'flag-mini') + esc(S().countryName(law.country)) + '</span>'],
+        [t('时效性'), C().statusTag(law.status)],
+        [t('制定机关'), esc(issuer)],
+        [t('文号'), esc(law.docNumber || '—')],
+        [t('公布日期'), esc(U().fmtDate(law.promulgatedDate))],
+        [t('施行日期'), esc(U().fmtDate(law.effectiveDate))],
+        [t('法律层级'), C().levelTag(law.level)],
+        [t('条文数量'), esc(artCount + ' ' + t('条'))],
+        [t('数据来源'), sourceCell(law)]
       ];
-      if (law.versionDate) metaCells.push({ label: t('版本日期'), value: U().fmtDate(law.versionDate) });
-      metaCells = metaCells.concat([
-        { label: t('时效性'), html: C().statusTag(law.status) },
-        { label: t('法律层级'), html: C().levelTag(law.level) },
-        { label: t('条文数量'), value: law.coverage === 'full' || law.coverage === 'catalog' ? (law.articleCount || law.articles.length) + ' ' + t('条') : '—' },
-        { label: t('数据来源'), html: sourceCell(law) }
-      ]);
+      if (law.versionDate) metaRows.splice(6, 0, [t('版本日期'), esc(U().fmtDate(law.versionDate))]);
+      var topicsHtml = C().topicTags(law, 4);
+
+      var mainCol = '' +
+        '<div class="law-head">' +
+          '<h1 class="law-title-zh">' + esc(td.main) + '</h1>' +
+          (td.orig ? '<div class="law-title-orig">【' + esc(td.orig) + '】</div>' : '') +
+          '<div class="law-meta-card">' +
+            '<div class="law-meta-grid" role="table" aria-label="' + esc(L('basic')) + '">' +
+              metaRows.map(function (r) {
+                return '<div class="law-meta-cell' + (r[0] === t('数据来源') ? ' law-meta-cell--wide' : '') + '" role="cell">' +
+                  '<span class="law-meta-label">' + esc(r[0]) + '</span>' +
+                  '<span class="law-meta-value">' + r[1] + '</span></div>';
+              }).join('') +
+            '</div>' +
+          '</div>' +
+          (topicsHtml ? '<div class="row law-topics">' + topicsHtml + '</div>' : '') +
+        '</div>' +
+
+        /* 已废止 / 尚未生效提示（版本说明已并入「版本与变迁」卡片，不重复展示） */
+        (law.status === 'repealed' && law.repealedDate
+          ? '<div class="banner banner--warn" style="margin-bottom:14px"><span class="banner__icon">' + CALR.ui.icon('alert') + '</span><div>' +
+            esc(t('本法规已于') + U().fmtDate(law.repealedDate) + t('废止，请在引用前核验现行有效版本。')) +
+            (law.repealedBy ? ' ' + esc(t('废止依据：')) + esc(law.repealedBy) : '') + '</div></div>'
+          : '') +
+        (law.status === 'pending'
+          ? '<div class="banner" style="margin-bottom:14px"><span class="banner__icon">⏳</span><div>' +
+            esc(t('尚未生效：预计') + U().fmtDate(law.effectiveDate) + t('施行（') + U().countdown(law.effectiveDate) + t('）。当前引用请以现行法为准。')) + '</div></div>'
+          : '') +
+
+        (showText
+          ? '<div class="reader-toolbar reader-toolbar--compact">' +
+              '<span class="reader-toolbar__group">' +
+                '<span class="btn-group">' +
+                  readModeBtn('both', t('原文+译文'), readMode, !!transLang) +
+                  readModeBtn('orig', t('仅原文'), readMode, true) +
+                  readModeBtn('trans', t('仅译文'), readMode, !!transLang) +
+                '</span>' +
+                '<span class="mini muted reader-toolbar__lang">' +
+                  esc(LANG_NAME[origLang] || origLang) +
+                  (transLang ? ' / ' + esc(LANG_NAME[transLang] || transLang)
+                             : ' / ' + esc(t('暂无当前语言译文'))) +
+                '</span></span>' +
+              '<span class="reader-toolbar__sep"></span>' +
+              /* 字号只保留两个：缩小 / 放大。默认档不占按钮，用组标题提示当前档 */
+              '<span class="reader-toolbar__group reader-toolbar__fz">' +
+                '<button class="btn btn--outline btn--sm law-fz__btn" data-fs-dir="-1" type="button" ' +
+                  'title="' + esc(t('缩小字号')) + '" aria-label="' + esc(t('缩小字号')) + '">A−</button>' +
+                '<button class="btn btn--outline btn--sm law-fz__btn" data-fs-dir="1" type="button" ' +
+                  'title="' + esc(t('放大字号')) + '" aria-label="' + esc(t('放大字号')) + '">A+</button>' +
+              '</span>' +
+              '<span class="reader-toolbar__sep"></span>' +
+              '<span class="reader-toolbar__group reader-toolbar__find">' +
+                '<span class="searchbox searchbox--sm law-find">' +
+                  '<span class="searchbox__icon" aria-hidden="true">' + CALR.ui.icon('search') + '</span>' +
+                  '<input class="searchbox__input" id="law-find-q" type="search" autocomplete="off" ' +
+                    'placeholder="' + esc(t('法条号 / 片段 / 关键词')) + '" aria-label="' + esc(t('在本文中查找')) + '">' +
+                '</span>' +
+                /* 命中计数：1/281 这种浏览器式显示 */
+                '<span class="law-find__stat" id="law-find-stat" role="status" aria-live="polite"></span>' +
+                /* 上一个 / 下一个 / 关闭 */
+                '<span class="law-find__nav" id="law-find-nav" hidden>' +
+                  '<button class="law-find__btn" id="law-find-prev" type="button" ' +
+                    'title="' + esc(t('上一处')) + '" aria-label="' + esc(t('上一处')) + '">' +
+                    '<svg viewBox="0 0 20 20" width="14" height="14" aria-hidden="true"><path d="M5 12l5-5 5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>' +
+                  '<button class="law-find__btn" id="law-find-next" type="button" ' +
+                    'title="' + esc(t('下一处')) + '" aria-label="' + esc(t('下一处')) + '">' +
+                    '<svg viewBox="0 0 20 20" width="14" height="14" aria-hidden="true"><path d="M5 8l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>' +
+                  '<button class="law-find__btn" id="law-find-close" type="button" ' +
+                    'title="' + esc(t('关闭查找')) + '" aria-label="' + esc(t('关闭查找')) + '">' +
+                    '<svg viewBox="0 0 20 20" width="14" height="14" aria-hidden="true"><path d="M6 6l8 8M14 6l-8 8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>' +
+                '</span>' +
+              '</span>' +
+            '</div>' +
+
+            '<div class="card card--pad" id="law-body">' +
+              '<div class="row" style="justify-content:space-between;margin-bottom:10px">' +
+                '<h2 style="margin:0;font-size:var(--fs-h2)">' + esc(t('法规正文')) +
+                  ' <span class="mini muted">' + esc(t('共')) + ' ' + law.articles.length + ' ' + esc(t('条')) + '</span></h2>' +
+                '<span class="mini muted" id="read-stat"></span>' +
+              '</div>' +
+              chapters.map(function (ch) {
+                var list = law.articles.filter(function (a) { return chapterOf(a) === ch; });
+                return (ch ? '<h3 style="margin-top:18px;color:var(--calr-blue-600)">' + esc(ch) + '</h3>' : '') +
+                  list.map(function (a) { return articleHtml(a, origLang, transLang, readMode); }).join('');
+              }).join('') +
+            '</div>'
+          : '') +
+
+        '<div class="card card--pad" style="margin-top:16px">' +
+          '<h3>' + esc(t('法规说明')) + '</h3>' +
+          '<p class="small muted">' + esc(tr(law.summary)) + '</p>' +
+          '<p class="mini muted" style="margin:0">' + esc(showText
+            ? t('本文本取自官方法律数据库；如与官方最新公布版本存在差异，以官方公布文本为准。')
+            : t('本平台已收录该法规的条目信息，条文文本正在校核，正式引用请以官方公布文本为准。')) + '</p>' +
+        '</div>' +
+        '';
+
+      /* ---------- 条文目录（左栏唯一卡片） ---------- */
+      var tocCard = '';
+      if (showText) {
+        tocCard = '<div class="card law-toc-card">' +
+          '<div class="card__head"><h3 class="card__title">' + esc(t('条文目录')) + '</h3>' +
+            '<span class="mini muted" style="margin-left:auto">' +
+              (tocGroups.length && tocGroups[0].title !== t('全部条文')
+                ? tocGroups.length + ' ' + esc(t('章')) + ' · '
+                : esc(t('原文未提供章节信息')) + ' · ') +
+              law.articles.length + ' ' + esc(t('条')) + '</span></div>' +
+          '<div class="card__body"><ul class="toc" id="toc">' +
+            tocGroups.map(function (g, gi) {
+              return '<li class="toc-group' + (tocGroups.length === 1 ? ' is-open' : '') + '" data-group="' + gi + '">' +
+                '<button type="button" class="toc-group__head" aria-expanded="' + (tocGroups.length === 1 ? 'true' : 'false') + '">' +
+                  '<span class="toc-group__caret" aria-hidden="true">▸</span>' +
+                  '<span class="toc-group__name">' + esc(g.title) + '</span>' +
+                  '<span class="toc-group__count">' + g.items.length + '</span>' +
+                '</button>' +
+                '<ul class="toc-group__list">' +
+                  g.items.map(function (a) {
+                    var subTag = a.__tocSub
+                      ? '<span class="toc__sub" title="' + esc(a.__tocSub) + '">' +
+                        esc(U().truncate(a.__tocSub, 20)) + '</span>'
+                      : '';
+                    return '<li><a href="#/law/' + esc(law.id) + '" data-anchor="' + esc(a.id) +
+                      '" title="' + esc(a.__tocSub || '') + '">' +
+                      esc(U().articleLabel(a)) + ' ' +
+                      esc(U().truncate(tr(a.heading), 16)) + subTag + '</a></li>';
+                  }).join('') +
+                '</ul>' +
+              '</li>';
+            }).join('') + '</ul></div></div>';
+      }
 
       main.innerHTML = '' +
-      '<div class="container page">' +
+      '<div class="container container--wide page law-page">' +
         '<div class="print-header"><strong>' + esc(tr(law.title)) + '</strong> · ' + esc(S().countryName(law.country)) + ' · ' +
           esc(law.docNumber || '') + '<br><span class="mini">' + esc(t('来源：中国—东盟法律法规数据库')) + '</span></div>' +
         C().breadcrumb([{ text: t('首页'), href: '#/' }, { text: S().countryName(law.country), href: '#/country/' + law.country },
           { text: S().levelName(law.level), href: '#/search?country=' + law.country + '&level=' + law.level }, { text: tr(law.title) }]) +
 
-        '<div class="layout-2col">' +
-          '<div>' +
-            '<div class="law-head">' +
-              '<h1 class="law-title-zh">' + esc(tr(law.title)) + '</h1>' +
-              (altTitles.length ? '<div class="law-title-alt">' + altTitles.map(function (a) {
-                return '<span>' + esc(t(LANG_NAME[a.lang] || a.lang)) + '：' + esc(a.text) + '</span>';
-              }).join('') + '</div>' : '') +
-              '<div class="row">' +
-                /* 层级 / 时效性 / 收录形态已在下方信息表中列明，此处不再重复 */
-                C().topicTags(law, 4) +
-              '</div>' +
-            '</div>' +
-
-            C().metaGrid(metaCells) +
-            /* 条文完整性说明条已按要求移除；收录情况在「数据来源」字段与数据来源页呈现 */
-            (law.coverage === 'excerpt'
-              ? '<div class="banner" style="margin-bottom:14px"><span class="banner__icon">' + CALR.ui.icon('info') + '</span><div>' +
-                    '</div></div>'
-              : '') +
-
-            /* 版本说明：多版本记录（B 层，携带 amendedNote）展示版本关系与施行信息 */
-            (law.amendedNote
-              ? '<div class="banner" style="margin-bottom:14px"><span class="banner__icon">' + CALR.ui.icon('info') + '</span><div>' +
-                esc(t('版本说明') + '：' + law.amendedNote) + '</div></div>'
-              : '') +
-
-            (law.status === 'repealed' && law.repealedDate
-              ? '<div class="banner banner--warn" style="margin-bottom:14px"><span class="banner__icon">' + CALR.ui.icon('alert') + '</span><div>' +
-                esc(t('本法规已于') + U().fmtDate(law.repealedDate) + t('废止，请在引用前核验现行有效版本。')) +
-                (law.repealedBy ? ' ' + esc(t('废止依据：')) + esc(law.repealedBy) : '') + '</div></div>'
-              : '') +
-            (law.status === 'pending'
-              ? '<div class="banner" style="margin-bottom:14px"><span class="banner__icon">⏳</span><div>' +
-                esc(t('尚未生效：预计') + U().fmtDate(law.effectiveDate) + t('施行（') + U().countdown(law.effectiveDate) + t('）。当前引用请以现行法为准。')) + '</div></div>'
-              : '') +
-
-            (showText
-              ? '<div class="reader-toolbar reader-toolbar--compact">' +
-                  '<span class="reader-toolbar__group">' +
-                    '<span class="btn-group">' +
-                      readModeBtn('both', t('原文+译文'), readMode, !!transLang) +
-                      readModeBtn('orig', t('仅原文'), readMode, true) +
-                      readModeBtn('trans', t('仅译文'), readMode, !!transLang) +
-                    '</span>' +
-                    '<span class="mini muted reader-toolbar__lang">' +
-                      esc(LANG_NAME[origLang] || origLang) +
-                      (transLang ? ' / ' + esc(LANG_NAME[transLang] || transLang)
-                                 : ' / ' + esc(t('暂无当前语言译文'))) +
-                    '</span></span>' +
-                  '<span class="reader-toolbar__sep"></span>' +
-                  /* 字号只保留两个：缩小 / 放大。默认档不占按钮，用组标题提示当前档 */
-                  '<span class="reader-toolbar__group reader-toolbar__fz">' +
-                    '<button class="btn btn--outline btn--sm law-fz__btn" data-fs-dir="-1" type="button" ' +
-                      'title="' + esc(t('缩小字号')) + '" aria-label="' + esc(t('缩小字号')) + '">A−</button>' +
-                    '<button class="btn btn--outline btn--sm law-fz__btn" data-fs-dir="1" type="button" ' +
-                      'title="' + esc(t('放大字号')) + '" aria-label="' + esc(t('放大字号')) + '">A+</button>' +
-                  '</span>' +
-                  '<span class="reader-toolbar__sep"></span>' +
-                  '<span class="reader-toolbar__group reader-toolbar__find">' +
-                    '<span class="searchbox searchbox--sm law-find">' +
-                      '<span class="searchbox__icon" aria-hidden="true">' + CALR.ui.icon('search') + '</span>' +
-                      '<input class="searchbox__input" id="law-find-q" type="search" autocomplete="off" ' +
-                        'placeholder="' + esc(t('法条号 / 片段 / 关键词')) + '" aria-label="' + esc(t('在本文中查找')) + '">' +
-                    '</span>' +
-                    /* 命中计数：1/281 这种浏览器式显示 */
-                    '<span class="law-find__stat" id="law-find-stat" role="status" aria-live="polite"></span>' +
-                    /* 上一个 / 下一个 / 关闭 */
-                    '<span class="law-find__nav" id="law-find-nav" hidden>' +
-                      '<button class="law-find__btn" id="law-find-prev" type="button" ' +
-                        'title="' + esc(t('上一处')) + '" aria-label="' + esc(t('上一处')) + '">' +
-                        '<svg viewBox="0 0 20 20" width="14" height="14" aria-hidden="true"><path d="M5 12l5-5 5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>' +
-                      '<button class="law-find__btn" id="law-find-next" type="button" ' +
-                        'title="' + esc(t('下一处')) + '" aria-label="' + esc(t('下一处')) + '">' +
-                        '<svg viewBox="0 0 20 20" width="14" height="14" aria-hidden="true"><path d="M5 8l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>' +
-                      '<button class="law-find__btn" id="law-find-close" type="button" ' +
-                        'title="' + esc(t('关闭查找')) + '" aria-label="' + esc(t('关闭查找')) + '">' +
-                        '<svg viewBox="0 0 20 20" width="14" height="14" aria-hidden="true"><path d="M6 6l8 8M14 6l-8 8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>' +
-                    '</span>' +
-                  '</span>' +
-                '</div>' +
-
-                '<div class="card card--pad" id="law-body">' +
-                  '<div class="row" style="justify-content:space-between;margin-bottom:10px">' +
-                    '<h2 style="margin:0;font-size:var(--fs-h2)">' + esc(t('法规正文')) +
-                      ' <span class="mini muted">' + esc(t('共')) + ' ' + law.articles.length + ' ' + esc(t('条')) + '</span></h2>' +
-                    '<span class="mini muted" id="read-stat"></span>' +
-                  '</div>' +
-                  chapters.map(function (ch) {
-                    var list = law.articles.filter(function (a) { return (tr(a.chapter) || '') === ch; });
-                    return (ch ? '<h3 style="margin-top:18px;color:var(--calr-blue-600)">' + esc(ch) + '</h3>' : '') +
-                      list.map(function (a) { return articleHtml(a, origLang, transLang, readMode); }).join('');
-                  }).join('') +
-                '</div>'
-              : '') +
-
-            '<div class="card card--pad" style="margin-top:16px">' +
-              '<h3>' + esc(t('法规说明')) + '</h3>' +
-              '<p class="small muted">' + esc(tr(law.summary)) + '</p>' +
-              '<p class="mini muted" style="margin:0">' + esc(showText
-                ? t('本文本取自官方法律数据库；如与官方最新公布版本存在差异，以官方公布文本为准。')
-                : t('本平台已收录该法规的条目信息，条文文本正在校核，正式引用请以官方公布文本为准。')) + '</p>' +
-            '</div>' +
-          '</div>' +
-
-          '<aside class="col-sidebar sticky-col">' +
-            (showText
-              ? '<div class="card" style="margin-bottom:16px"><div class="card__head"><h3 class="card__title">' + esc(t('条文目录')) + '</h3>' +
-                  '<span class="mini muted" style="margin-left:auto">' + tocGroups.length + ' ' + esc(t('章')) + ' · ' + law.articles.length + ' ' + esc(t('条')) + '</span></div>' +
-                  '<div class="card__body"><ul class="toc" id="toc">' +
-                    tocGroups.map(function (g, gi) {
-                      return '<li class="toc-group' + (tocGroups.length === 1 ? ' is-open' : '') + '" data-group="' + gi + '">' +
-                        '<button type="button" class="toc-group__head" aria-expanded="' + (tocGroups.length === 1 ? 'true' : 'false') + '">' +
-                          '<span class="toc-group__caret" aria-hidden="true">▸</span>' +
-                          '<span class="toc-group__name">' + esc(g.title) + '</span>' +
-                          '<span class="toc-group__count">' + g.items.length + '</span>' +
-                        '</button>' +
-                        '<ul class="toc-group__list">' +
-                          g.items.map(function (a) {
-                            var subTag = a.__tocSub
-                              ? '<span class="toc__sub" title="' + esc(a.__tocSub) + '">' +
-                                esc(U().truncate(a.__tocSub, 20)) + '</span>'
-                              : '';
-                            return '<li><a href="#/law/' + esc(law.id) + '" data-anchor="' + esc(a.id) +
-                              '" title="' + esc(a.__tocSub || '') + '">' +
-                              esc(U().articleLabel(a)) + ' ' +
-                              esc(U().truncate(tr(a.heading), 16)) + subTag + '</a></li>';
-                          }).join('') +
-                        '</ul>' +
-                      '</li>';
-                    }).join('') + '</ul></div></div>'
-              : '') +
-
-            /* 法规工具：跨语言条款比对与术语翻译入口（按规范由首页迁移至此） */
-            '<div class="card" style="margin-bottom:16px"><div class="card__head"><h3 class="card__title">' + esc(t('法规工具')) + '</h3></div>' +
-              '<div class="card__body"><div class="col">' +
-                '<a class="btn btn--outline btn--sm" href="' + esc('#/compare' + (showText && law.articles[0] ? '?s0=' + law.articles[0].id : '')) + '">' + CALR.ui.icon('scales') + ' ' + esc(t('加入跨语言条款比对')) + '</a>' +
-                '<a class="btn btn--outline btn--sm" href="#/terms">' + CALR.ui.icon('globe') + ' ' + esc(t('法律术语对照')) + '</a>' +
-                (showText ? '<button class="btn btn--outline btn--sm" id="export-terms3">' + CALR.ui.icon('list') + ' ' + esc(t('导出本法术语对照表')) + '</button>' : '') +
-              '</div>' +
-              '<p class="mini muted" style="margin:10px 0 0">' + esc(t('可与东盟其他国家条文并排比对，或查看法律术语在各国语言中的对照译法。')) + '</p></div></div>' +
-
-            '<div class="card" style="margin-bottom:16px"><div class="card__head"><h3 class="card__title">' + esc(t('相关法规推荐')) + '</h3></div>' +
-              '<div class="card__body">' + (related.length ? related.map(function (l) {
-                return '<div style="margin-bottom:10px"><a href="#/law/' + esc(l.id) + '">' + esc(tr(l.title)) + '</a>' +
-                  '<div class="mini muted">' + esc(S().countryName(l.country)) + ' · ' + esc(S().levelName(l.level)) + ' · ' + esc(U().fmtDate(l.promulgatedDate, false)) + '</div></div>';
-              }).join('') : '<p class="mini muted">' + esc(t('暂无相关法规')) + '</p>') + '</div></div>' +
-
-            '<div class="card" style="margin-bottom:16px"><div class="card__head"><h3 class="card__title">' + esc(t('被引用情况')) + '</h3>' +
-              '<span class="tag tag--outline" style="margin-left:auto">' + (law.citationCount || 0) + ' ' + esc(t('次')) + '</span></div>' +
-              '<div class="card__body">' + (citedBy.length ? citedBy.map(function (l) {
-                return '<div style="margin-bottom:8px"><a href="#/law/' + esc(l.id) + '">' + esc(tr(l.title)) + '</a></div>';
-              }).join('') : '<p class="mini muted">' + esc(t('暂未收录引用本法条的法规。')) + '</p>') + '</div></div>' +
-
-            '<div class="card" style="margin-bottom:16px" id="law-history-card"><div class="card__head"><h3 class="card__title">' + esc(t('版本与变迁')) + '</h3></div>' +
-              '<div class="card__body" id="law-history">' + (revisions.length
-                ? '<ul class="timeline">' + revisions.map(function (r) {
-                    return '<li><div class="timeline__date">' + esc(r.date || '') + '</div>' +
-                      '<div class="timeline__text">' + esc(tr(r.summary)) + '</div>' +
-                      ((r.changes || []).length ? '<button class="btn btn--ghost btn--sm" data-revision="' + esc(r.id) + '" style="margin-top:6px">' + esc(t('查看修订对照')) + '</button>' : '') + '</li>';
-                  }).join('') + '</ul>'
-                : '<p class="mini muted">' + esc(law.status === 'amended'
-                    ? t('本法已修订，修订对照记录将随官方公报版本同步补充；当前展示的为最新生效版本文本。')
-                    : t('暂无修订记录。')) + '</p>') + '</div></div>' +
-
-            '<div class="card" style="margin-bottom:16px"><div class="card__head"><h3 class="card__title">' + esc(t('本法术语')) + '</h3>' +
-              '<span class="mini muted" style="margin-left:auto">' + terms.length + ' ' + esc(t('条')) + '</span></div>' +
-              '<div class="card__body"><div class="row">' + terms.slice(0, 12).map(function (tm) {
-                return '<span class="tag tag--blue tag--clickable" data-term="' + esc(tm.id) + '">' + esc(tm.zh) + '</span>';
-              }).join('') + '</div>' +
-              '<p class="mini muted" style="margin:10px 0 0">' + esc(showText
-                ? t('正文中带下划虚线的词可悬停或点击查看东盟各国语言译法与释义。')
-                : t('可通过“法律术语对照”查看相关术语在各语种中的译法。')) + '</p></div></div>' +
-
-            '<div class="card"><div class="card__head"><h3 class="card__title">' + esc(t('下载与引用')) + '</h3></div>' +
-              '<div class="card__body"><div class="col">' +
-                '<button class="btn btn--outline btn--sm" id="export-pdf2">' + CALR.ui.icon('print') + ' ' + esc(t('导出 PDF（原文版/翻译版）')) + '</button>' +
-                '<button class="btn btn--outline btn--sm" id="export-terms2">' + CALR.ui.icon('list') + ' ' + esc(t('导出术语对照表（CSV）')) + '</button>' +
-                '<button class="btn btn--outline btn--sm" id="copy-cite2">' + CALR.ui.icon('copy') + ' ' + esc(t('复制本法规引用格式')) + '</button>' +
-              '</div>' +
-              /* 引注格式选择：四种规范/常用格式 */
-              '<div class="row" style="margin-top:12px;gap:6px;flex-wrap:wrap" id="cite-forms">' +
-                CITE_FORMS.map(function (f2) {
-                  return '<button class="btn btn--ghost btn--sm' + (f2.id === 'gbt' ? ' is-active' : '') +
-                    '" data-cite-form="' + f2.id + '" title="' + esc(f2.hint) + '">' + esc(f2.label) + '</button>';
-                }).join('') +
-              '</div>' +
-              '<div class="citation-box" style="margin-top:8px" id="cite-text">' + esc(citeOf(law, 'gbt')) + '</div>' +
-              '<p class="mini muted" style="margin:6px 0 0" id="cite-hint">' + esc(CITE_FORMS[0].hint) + '</p>' +
-              '</div></div>' +
-          '</aside>' +
+        '<div class="law-layout' + (showText ? '' : ' law-layout--single') + '">' +
+          (showText ? '<aside class="law-side sticky-col">' + tocCard + historyCard(law, revisions) + relatedCard(law) + '</aside>' : '') +
+          '<div class="law-main-col">' + mainCol + '</div>' +
         '</div>' +
+        '<button class="law-download" id="law-download" type="button" title="' + esc(t('下载全文')) + '" aria-label="' + esc(t('下载全文')) + '">' +
+          '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>' +
+          '<span>' + esc(t('下载全文')) + '</span></button>' +
       '</div>';
 
-      /* 版本与变迁：接口是异步的，HTML 就位后填进侧栏卡片 */
-      renderHistoryData();
-
       /* ---------- 交互 ---------- */
+      var dlBtn = U().$('#law-download', main);
+      if (dlBtn) U().on(dlBtn, 'click', function () {
+        var txt = lawPlainText(law, origLang, transLang);
+        var ok = U().download('CALR-' + String(law.id).replace(/[\\/:*?"<>|]/g, '_') + '.txt', txt, 'text/plain;charset=utf-8');
+        if (ok) U().toast(t('已下载全文（TXT）'), 'ok');
+        else U().toast(t('下载失败，请检查浏览器权限'), 'warn');
+      });
+
       /* 字号三档：normal（默认，无按钮）/ large / xlarge。
          A− / A+ 在档位之间步进，到边界就不再变。 */
       var FS_LEVELS = ['normal', 'large', 'xlarge'];
@@ -440,7 +382,7 @@
           if (next < 0 || next >= FS_LEVELS.length) return;
           var fs = FS_LEVELS[next];
           applyFontSize(fs);
-          CALR.router.go(CALR.router.buildUrl('/law/' + law.id, { lang: dl, fs: fs }));
+          CALR.router.go(CALR.router.buildUrl('/law/' + law.id, { fs: fs }));
         });
       });
       /* 阅读模式切换：原文+译文 / 仅原文 / 仅译文 */
@@ -449,27 +391,6 @@
           CALR.router.go(CALR.router.buildUrl('/law/' + law.id, { read: b.getAttribute('data-read'), fs: fontSize }));
         });
       });
-      U().on(U().$('#export-pdf2', main), 'click', function () { window.print(); });
-      var curForm = 'gbt';
-
-      /* 引注格式切换 */
-      var citeBox = U().$('#cite-text', main);
-      var citeHint = U().$('#cite-hint', main);
-      U().$$('[data-cite-form]', main).forEach(function (b) {
-        U().on(b, 'click', function () {
-          curForm = b.getAttribute('data-cite-form');
-          U().$$('[data-cite-form]', main).forEach(function (x) { x.classList.remove('is-active'); });
-          b.classList.add('is-active');
-          if (citeBox) citeBox.textContent = citeOf(law, curForm);
-          var hit = CITE_FORMS.filter(function (f2) { return f2.id === curForm; })[0];
-          if (citeHint && hit) citeHint.textContent = hit.hint;
-        });
-      });
-      U().on(U().$('#copy-cite', main), 'click', doCopy);
-      U().on(U().$('#copy-cite2', main), 'click', doCopy);
-      U().on(U().$('#export-terms2', main), 'click', exportTerms);
-      var terms3 = U().$('#export-terms3', main);
-      if (terms3) U().on(terms3, 'click', exportTerms);
 
       /* ---------- 文内查找：滚动到匹配位置；重复查找则依次向下 ---------- */
       var findState = { matches: [], idx: -1, query: '', mark: null };
@@ -493,9 +414,9 @@
       }
 
       function collectFindMatches(q) {
-        var root = U().$('#law-body', main) || main;
+        var rootEl = U().$('#law-body', main) || main;
         var out = [], nq = q.toLowerCase();
-        var w = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+        var w = document.createTreeWalker(rootEl, NodeFilter.SHOW_TEXT, {
           acceptNode: function (n) {
             if (!n.nodeValue || !n.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
             var tag = n.parentNode && n.parentNode.nodeName;
@@ -525,10 +446,10 @@
         }
       }
 
-      function scrollToRange(node) {
+      function scrollToRange(node, start, end) {
         var r = document.createRange();
-        r.setStart(node, 0);
-        r.setEnd(node, node.nodeValue ? node.nodeValue.length : 0);
+        r.setStart(node, start || 0);
+        r.setEnd(node, typeof end === 'number' ? end : (node.nodeValue ? node.nodeValue.length : 0));
         var rect = r.getBoundingClientRect();
         var head = U().$('.app-header');
         var off = (head ? head.offsetHeight : 0) + 18;
@@ -554,14 +475,13 @@
         }
         var same = (q === findState.query);
         var prevIdx = findState.idx;
-        /* 换了检索词才重扫；同一词只移动游标，避免每次重扫整篇（大法动辄数千条） */
-        if (!same || !findState.matches.length) {
-          clearFindMark();
-          findState.matches = collectFindMatches(q);
-          findState.query = q;
-        } else {
-          clearFindMark();
-        }
+        /* 每次跳转都重新扫描并重绘 mark。
+           旧实现同一检索词只移动游标、复用旧 match 节点；clearFindMark 的
+           normalize() 会合并文本节点，旧节点/偏移随即失效，导致跳转落点漂移、
+           当前词没有 mark，看起来像“没显示检索词、只能滚轮找”。 */
+        clearFindMark();
+        findState.matches = collectFindMatches(q);
+        findState.query = q;
         var total = findState.matches.length;
         if (!total) {
           findState.idx = -1;
@@ -601,10 +521,13 @@
             /* 跨节点等异常：跳过这一处，不影响其余 */
           }
         }
-        if (curNode) scrollToRange(curNode.firstChild || curNode);
-        else {
+        if (curNode) {
+          scrollToRange(curNode.firstChild || curNode, 0, (curNode.firstChild && curNode.firstChild.nodeValue) ? curNode.firstChild.nodeValue.length : 0);
+          /* 再兜底把当前命中放到视口中间，保证“下一处”一定看得见，不依赖手动滚轮 */
+          try { curNode.scrollIntoView({ block: 'center', inline: 'nearest', behavior: 'auto' }); } catch (e) {}
+        } else {
           var mc = findState.matches[findState.idx];
-          if (mc) scrollToRange(mc.node);
+          if (mc) scrollToRange(mc.node, mc.start, mc.end);
         }
         if (stat) stat.textContent = (findState.idx + 1) + '/' + total;
       }
@@ -708,7 +631,7 @@
         })();
       }
 
-      /* 术语弹窗（悬停 / 聚焦 / 点击） */
+      /* 术语内联释义（仅单击弹出；卡片只展示当前界面语言） */
       bindTermPopups(main);
 
       /* 修订对照 */
@@ -731,35 +654,203 @@
           });
         });
       });
-
-      /* TTS */
-      
-      function doCopy() {
-        U().copy(citationText(law)).then(function (ok) {
-          U().toast(ok ? t('引用格式已复制到剪贴板') : t('复制失败，请手动选择文本复制'), ok ? 'ok' : 'warn');
-        });
-      }
-
-      function exportTerms() {
-        var rows = CALR.terms.glossaryRows(law, ['zh', 'en', 'vi', 'th', 'id', 'ms']);
-        if (rows.length <= 1) { U().toast(t('本法暂无可导出的术语'), 'warn'); return; }
-        U().download('CALR-术语对照表-' + law.id + '.csv', U().toCsv(rows), 'text/csv;charset=utf-8');
-        U().toast(t('术语对照表已导出（CSV）'), 'ok');
-      }
     }
   };
+
+  /* 基本信息行中的一个键值项（valueHtml 需已转义 / 为组件 HTML） */
+  function infoItem(label, valueHtml) {
+    return '<span class="law-info__item"><span class="law-info__label">' + esc(label) + '</span>' +
+      '<span class="law-info__value">' + valueHtml + '</span></span>';
+  }
+
+  /**
+   * 标题展示：当前界面语言主标题 + 原文名称（仅两个，不罗列语言别名）。
+   * 原文名称优先取数据里的 title.orig，其次取该法域官方语种的标题；
+   * 与主标题完全一致时不再重复显示。
+   */
+  function titleDisplayOf(law) {
+    var f = law && law.title;
+    if (!f) return { main: law ? law.id : '', orig: null };
+    if (typeof f === 'string') return { main: f, orig: null };
+    var lang = CALR.i18n.lang();
+    var main = f[lang] || f.en || f.zh || '';
+    if (!main) {
+      for (var k in f) { if (Object.prototype.hasOwnProperty.call(f, k) && f[k]) { main = f[k]; break; } }
+    }
+    var ol = (law.country && COUNTRY_ORIG[law.country]) || null;
+    var orig = f.orig || (ol && f[ol]) || null;
+    if (orig && String(orig).trim() === String(main).trim()) orig = null;
+    return { main: main, orig: orig };
+  }
+
+  /* ---------------- 版本与变迁 ---------------- */
+
+  /** 归一化标题：去掉年份/修订说明括号与空白、书名号，用于判断「同名多版本」 */
+  function normTitleOf(s) {
+    return String(s || '')
+      .replace(/[（(][^）)]*[）)]/g, '')
+      .replace(/[\s\u3000《》〈〉「」『』"'“”]/g, '')
+      .trim();
+  }
+  /** 版本自身的日期：优先版本日期，其次施行/公布日期 */
+  function versionDateOf(l) {
+    return (l && (l.versionDate || l.effectiveDate || l.promulgatedDate)) || '';
+  }
+  /** 判重用的法规原标题（与界面语言无关，保证切换语言后分组稳定） */
+  function rawTitleOf(l) {
+    var f = l && l.title;
+    if (!f) return '';
+    if (typeof f === 'string') return f;
+    return f.orig || f.zh || f.en || '';
+  }
+  /**
+   * 收集同一部法的历史版本（按日期倒序，当前版本排最前）：
+   *   ① 本法 amendedNote 中显式点名的其他版本 lawId；
+   *   ② 其他法规的 amendedNote 反向点名的本法（说明本法是其替代版本）；
+   *   ③ 同法域、同标题、且带版本日期/已废止标记的记录（修复「同名不等于同法」误并：
+   *      要求双方至少一方带版本信息，且标题归一化后完全相等）。
+   */
+  function versionFamilyOf(law) {
+    var byId = {};
+    function add(l) { if (l && l.id && !byId[l.id]) byId[l.id] = l; }
+    add(law);
+    String(law.amendedNote || '').replace(/[A-Z]{2,3}-[A-Za-z0-9-]{2,}/g, function (mid) {
+      var l = S().law(mid);
+      if (l) add(l);
+      return mid;
+    });
+    var base = normTitleOf(rawTitleOf(law));
+    S().laws().forEach(function (l) {
+      if (!l || !l.id || l.id === law.id) return;
+      if (String(l.amendedNote || '').indexOf(law.id) >= 0) { add(l); return; }
+      if (!base || l.country !== law.country) return;
+      if (normTitleOf(rawTitleOf(l)) !== base) return;
+      if (!(l.versionDate || law.versionDate || l.status === 'repealed' || law.status === 'repealed')) return;
+      add(l);
+    });
+    var list = Object.keys(byId).map(function (k) { return byId[k]; });
+    /* 同日期同状态的重复记录（同一版本的重复登记）只保留一条，优先本法自身 */
+    var seen = {};
+    list = list.filter(function (l) {
+      var key = normTitleOf(rawTitleOf(l)) + '|' + versionDateOf(l) + '|' + (l.status || '');
+      if (seen[key] && l.id !== law.id) return false;
+      seen[key] = 1;
+      return true;
+    });
+    list.sort(function (a, b) { return String(versionDateOf(b)).localeCompare(String(versionDateOf(a))); });
+    return list.slice(0, 12);
+  }
+
+  /** 「版本与变迁」卡片：历史版本时间线（可点击跳转）+ 修订记录 */
+  function historyCard(law, revisions) {
+    revisions = revisions || [];
+    var versions = versionFamilyOf(law);
+    var versionsHtml = '<ul class="law-versions">' + versions.map(function (v) {
+      var isCur = v.id === law.id;
+      var vd = versionDateOf(v);
+      var dateText = vd ? U().fmtDate(vd) : '—';
+      return '<li class="law-version' + (isCur ? ' is-current' : '') + '">' +
+        '<div class="law-version__head">' +
+          '<span class="law-version__date">' + esc(dateText) + '</span>' +
+          C().statusTag(v.status) +
+          (isCur ? '<span class="tag tag--navy">' + esc(L('currentVersion')) + '</span>' : '') +
+        '</div>' +
+        '<div class="law-version__body">' +
+          (isCur
+            ? '<span class="law-version__title">' + esc(S().lawTitle(v)) + '</span>'
+            : '<a class="law-version__title" href="#/law/' + esc(v.id) + '" title="' + esc(L('openVersion')) + '">' +
+                esc(S().lawTitle(v)) + ' →</a>' +
+              '<span class="law-version__id mini muted">' + esc(v.id) + '</span>') +
+        '</div>' +
+        (v.amendedNote ? '<div class="law-version__note">' + esc(v.amendedNote) + '</div>' : '') +
+      '</li>';
+    }).join('') + '</ul>' +
+      (versions.length > 1 ? '' : '<p class="mini muted" style="margin:8px 0 0">' + esc(L('noVersions')) + '</p>');
+
+    var revisionsHtml = revisions.length
+      ? '<div class="law-history__sub">' +
+          '<div class="law-history__subtitle">' + esc(L('revisionLog')) + '（' + revisions.length + '）</div>' +
+          '<ul class="timeline">' + revisions.map(function (r) {
+            var lawId = r.lawId || law.id;
+            return '<li><div class="timeline__date">' + esc(r.date || '') + '</div>' +
+              '<div class="timeline__text">' + esc(tr(r.summary)) + '</div>' +
+              '<div class="row" style="gap:8px;margin-top:6px;flex-wrap:wrap">' +
+                '<a class="btn btn--ghost btn--sm" href="#/law/' + esc(lawId) + '">' + esc(L('openVersion')) + ' →</a>' +
+                ((r.changes || []).length
+                  ? '<button class="btn btn--ghost btn--sm" data-revision="' + esc(r.id) + '">' + esc(t('查看修订对照')) + '</button>'
+                  : '') +
+              '</div></li>';
+          }).join('') + '</ul>' +
+        '</div>'
+      : '';
+
+    return '<div class="card card--pad" style="margin-top:16px" id="law-history-card">' +
+      '<div class="card__head" style="padding:0 0 8px">' +
+        '<h3 style="margin:0">' + esc(t('版本与变迁')) + '</h3>' +
+        '<span class="mini muted" style="margin-left:auto">' +
+          esc(L('historyVersions')) + ' ' + versions.length + '</span>' +
+      '</div>' +
+      versionsHtml + revisionsHtml +
+    '</div>';
+  }
+
+  /* 下载全文：与页面一致，原文优先，附当前可用译文 */
+  function lawPlainText(law, origLang, transLang) {
+    var L = function (k) { return CALR.i18n.t(k); };
+    var out = [];
+    out.push(CALR.i18n.field(law.title) || law.id);
+    var origTitle = (law.title && (law.title.orig || law.title[origLang])) || '';
+    if (origTitle && origTitle !== CALR.i18n.field(law.title)) out.push('【' + origTitle + '】');
+    out.push('');
+    out.push(L('国家 / 法域') + '：' + S().countryName(law.country));
+    out.push(L('时效性') + '：' + S().statusName(law.status));
+    out.push(L('制定机关') + '：' + (CALR.ui.issuerLabel ? CALR.ui.issuerLabel(law.issuingBody) : tr(law.issuingBody)));
+    out.push(L('文号') + '：' + (law.docNumber || '—'));
+    out.push(L('公布日期') + '：' + U().fmtDate(law.promulgatedDate));
+    out.push(L('施行日期') + '：' + U().fmtDate(law.effectiveDate));
+    out.push(L('法律层级') + '：' + S().levelName(law.level));
+    out.push(L('条文数量') + '：' + (law.articleCount || law.articles.length) + ' ' + L('条'));
+    if (law.source && law.source.url) out.push(L('数据来源') + '：' + law.source.url);
+    out.push('');
+    out.push('————————————————————————————————————');
+    (law.articles || []).forEach(function (a) {
+      var label = U().articleLabel(a);
+      var heading = tr(a.heading);
+      out.push('');
+      out.push(label + (heading ? '  ' + heading : ''));
+      var body = tr(a.text, origLang);
+      if (body) out.push(body);
+      if (transLang && a.text && a.text[transLang]) {
+        out.push('');
+        out.push('【' + L('译文') + ' · ' + (LANG_NAME[transLang] || transLang) + '】');
+        out.push(a.text[transLang]);
+      }
+    });
+    out.push('');
+    out.push('—— ' + L('本平台提供的法规文本、译文与检索结果仅供法律研究与实务参考，正式引用请以各国官方公布的文本为准。'));
+    return out.join('\n');
+  }
+
+  /* 相关法规：沿用 store 的国别/主题/引用关系打分，取前 5 部 */
+  function relatedCard(law) {
+    var list = (S().related ? S().related(law, 5) : []).filter(function (l) {
+      return l && l.id !== law.id;
+    }).slice(0, 5);
+    if (!list.length) return '';
+    return '<div class="card card--pad law-related-card" id="law-related-card">' +
+      '<div class="card__head" style="padding:0 0 8px"><h3 style="margin:0">' + esc(t('相关法规')) + '</h3>' +
+        '<span class="mini muted" style="margin-left:auto">' + list.length + '</span></div>' +
+      '<ul class="law-related-list">' + list.map(function (l) {
+        return '<li><a href="#/law/' + esc(l.id) + '">' + esc(S().lawTitle(l)) + '</a>' +
+          '<span class="mini muted">' + esc(S().countryName(l.country)) + (l.docNumber ? ' · ' + esc(l.docNumber) : '') + '</span></li>';
+      }).join('') + '</ul></div>';
+  }
 
   /* 阅读模式按钮 */
   function readModeBtn(id, label, cur, enabled) {
     return '<button type="button" class="btn btn--sm' + (id === cur ? ' is-active' : '') + '" data-read="' + id + '"' +
       (enabled ? '' : ' disabled title="' + esc(CALR.i18n.t('暂无可用的译文')) + '"') + '>' + esc(label) + '</button>';
   }
-
-  /* 各法域的官方文本语种（用于确定「原文」语种） */
-  var COUNTRY_ORIG = {
-    CN: 'zh', VN: 'vi', TH: 'th', ID: 'id', MY: 'ms', SG: 'en',
-    PH: 'en', BN: 'ms', KH: 'km', LA: 'lo', MM: 'my', TL: 'en'
-  };
 
   /* ---------------- 条文 HTML ---------------- */
   /** 在可用语种中挑选一个最合适的原文语种 */
@@ -911,7 +1002,7 @@
         document.body.appendChild(pop);
       }
       pop.innerHTML = CALR.terms.popupHtml(tm) +
-        '<div class="row" style="margin-top:10px"><a class="btn btn--ghost btn--sm" href="#/terms?q=' + esc(tm.zh) + '">' + esc(t('在术语库中查看更多语言')) + '</a>' +
+        '<div class="row" style="margin-top:10px;justify-content:flex-end">' +
         '<button class="btn btn--ghost btn--sm" data-close-pop>' + esc(t('关闭')) + '</button></div>';
       var r = target.getBoundingClientRect();
       var top = r.bottom + window.scrollY + 8;
@@ -945,11 +1036,6 @@
       });
     });
 
-    var cards = U().$$('.tag--clickable[data-term]', main);
-    cards.forEach(function (el) {
-      U().on(el, 'click', function (e) { e.preventDefault(); pinned = false; show(el, el.getAttribute('data-term')); pinned = true; });
-    });
-
     U().on(document, 'click', function (e) {
       if (!pinned) return;
       if (pop && (pop.contains(e.target) || e.target.closest && e.target.closest('.term-ref, [data-term]'))) return;
@@ -967,10 +1053,24 @@
     var parts = String(title).split(/\s+[—–]\s+/);
     return { top: parts[0].trim(), sub: parts.slice(1).join(' · ').trim() };
   }
+
+  /* 章节信息来源不统一：优先 chapter 字段；缺失时从 heading / 正文首行识别「第X章」。
+     这样老批次中国法也能显示「第一章」，而不是全部落进「全部条文」。 */
+  var CHAPTER_RE = /^(第[一二三四五六七八九十百零〇\d]+章|Chapter\s+[IVXLC\d]+)/i;
+  function chapterOf(a) {
+    var raw = tr(a && a.chapter) || '';
+    if (raw) return raw;
+    var h = tr(a && a.heading) || '';
+    if (CHAPTER_RE.test(h)) return h;
+    var txt = tr(a && a.text) || '';
+    var first = String(txt).split(/\r?\n/)[0].trim();
+    if (CHAPTER_RE.test(first)) return first;
+    return '';
+  }
   function buildTocGroups(law) {
     var groups = [], index = {};
     law.articles.forEach(function (a) {
-      var raw = tr(a.chapter) || '';
+      var raw = chapterOf(a);
       var lv = raw ? tocTopLevel(raw) : { top: t('全部条文'), sub: '' };
       if (!(lv.top in index)) { index[lv.top] = groups.length; groups.push({ title: lv.top, items: [] }); }
       var it = a;
@@ -1010,119 +1110,5 @@
       ? CALR.ui.sourceLabel((law.source && law.source.name) || ft.sourceName, (law.source && law.source.url) || ft.sourceUrl)
       : ((law.source && law.source.name) || ft.sourceName);
     return esc(fallback || '—');
-  }
-
-  /* ==================== 规范引注格式 ====================
-     原来只有一句自然语言（且会重复国名：「中国《中华人民共和国民法典》」），
-     不符合任何学术规范。这里提供四种常用格式，并支持条级（第 X 条）引用。 */
-
-  var CITE_FORMS = [
-    { id: 'gbt',    label: 'GB/T 7714-2015', hint: '中文学术标准（法学论文、裁判文书）' },
-    { id: 'blue',   label: 'Bluebook',       hint: '英美法系（涉外业务、国际仲裁）' },
-    { id: 'short',  label: '简化式',          hint: '日常执业书写' },
-    { id: 'full',   label: '完整式',          hint: '含来源链接与访问日期，便于核验' }
-  ];
-
-  /** 去掉标题里的书名号与重复国名前缀，避免「中国《中华人民共和国民法典》」 */
-  function bareTitle(law) {
-    var T = law.title || {};
-    var name = tr(T);
-    if (name === null || name === undefined || name === '') name = law.id;
-    name = String(name).replace(/^[\s《]+|[\s》]+$/g, '');
-    /* 标题本身已含国名时不再前置 */
-    return name;
-  }
-
-  /** 带国名的书名号标题：标题本身已含国名时不重复前置，避免「中国《中华人民共和国民法典》」 */
-  function titled(law, name) {
-    var cn = S().countryName(law.country);
-    if (/^(中华人民共和国|中国)/.test(name) || name.indexOf(cn) === 0) {
-      return '《' + name + '》';
-    }
-    return cn + '《' + name + '》';
-  }
-
-  function podDate(d) {
-    if (!d) return '';
-    var m = String(d).match(/^(\d{4})[-年/]?(\d{2})?[-月/]?(\d{2})?/);
-    if (!m) return String(d);
-    return m[1] + (m[2] ? '-' + m[2] : '') + (m[3] ? '-' + m[3] : '');
-  }
-
-  function cnDate(d) {
-    if (!d) return '';
-    var m = String(d).match(/^(\d{4})[-年/]?(\d{2})?[-月/]?(\d{2})?/);
-    if (!m) return String(d);
-    var out = m[1] + '年';
-    if (m[2]) out += parseInt(m[2], 10) + '月';
-    if (m[3]) out += parseInt(m[3], 10) + '日';
-    return out;
-  }
-
-  function accessDate() {
-    var d = new Date();
-    return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') +
-      '-' + String(d.getDate()).padStart(2, '0');
-  }
-
-  /**
-   * 生成引注文本
-   * @param {object} law 法规对象
-   * @param {string} form gbt | blue | short | full
-   * @param {object} opt  { no: 条号, noLabel: '第三十二条', heading: '立法目的' }
-   */
-  function citeOf(law, form, opt) {
-    form = form || 'gbt';
-    opt = opt || {};
-    var name = bareTitle(law);
-    var cn = S().countryName(law.country);
-    var T = law.title || {};
-    var en = (T.en && T.en !== name) ? String(T.en) : '';
-    var org = tr(law.issuingBody) || cn + '立法机关';
-    var promul = podDate(law.promulgatedDate);
-    var effect = podDate(law.effectiveDate);
-    var docNo = law.docNumber ? String(law.docNumber) : '';
-    var art = opt.noLabel ? String(opt.noLabel) : (opt.no ? ('第' + opt.no + '条') : '');
-    var url = 'https://calr.example.org/#/law/' + law.id;
-
-    if (form === 'gbt') {
-      /* GB/T 7714-2015：主要责任者. 题名[文献类型标志]. 出版地: 出版者, 出版年: 引文页码.
-         法规按「[Z] 其他」处理（法学界通行做法） */
-      var g = org + '. ' + name + '[Z]';
-      if (promul) g += '. ' + promul;
-      if (art) g += ': ' + art;
-      return g + '.';
-    }
-
-    if (form === 'blue') {
-      /* Bluebook 21st ed. 外国法/法规：Title (Year), art. N. */
-      var b = en || name;
-      var yr = promul ? promul.slice(0, 4) : (effect ? effect.slice(0, 4) : '');
-      var bb = b + (yr ? ' (' + yr + ')' : '');
-      if (art) bb += ', ' + (opt.no ? 'art. ' + opt.no : 'art. ' + art);
-      return bb + '.';
-    }
-
-    if (form === 'short') {
-      /* 简化式：国名 + 书名号标题 + 条 + 文号（标题已含国名时不重复） */
-      var sh = titled(law, name);
-      if (docNo) sh += '（' + docNo + '）';
-      if (art) sh += art;
-      return sh + '。';
-    }
-
-    /* 完整式：含公布/施行、来源与访问日期 */
-    var f = titled(law, name) + (en ? '（' + en + '）' : '');
-    if (docNo) f += '，' + docNo;
-    if (promul) f += '，' + cnDate(promul) + '公布';
-    if (effect) f += '，' + cnDate(effect) + '施行';
-    if (art) f += '，' + art;
-    f += '。来源：中国—东盟法律法规数据库（CALR），' + url + '，访问日期 ' + accessDate() + '。';
-    return f;
-  }
-
-  /** 兼容旧调用点：默认给 GB/T 7714 */
-  function citationText(law) {
-    return citeOf(law, 'gbt');
   }
 })(typeof window !== 'undefined' ? window : globalThis);

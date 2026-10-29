@@ -40,14 +40,12 @@ const ROUTES = [
   { h: '#/law/CN-DATA-2021', name: '法规详情', sel: ['#law-body', '.article'], minText: 300 },
   { h: '#/systems', name: '法律体系', sel: ['.card, .table'], minText: 100 },
   { h: '#/country/CN', name: '国别', sel: ['.law-item, .card'], minText: 100 },
-  { h: '#/compare', name: '跨语言比对', sel: ['.page'], minText: 80 },
-  { h: '#/terms', name: '术语', sel: ['.page'], minText: 80 },
   { h: '#/assistant', name: 'AI 问答', sel: ['.ai-layout'], minText: 80 },
   { h: '#/about', name: '关于', sel: ['.page'], minText: 200 },
   { h: '#/sources', name: '数据来源', sel: ['.page'], minText: 200 },
   { h: '#/no-such-page', name: '404', sel: ['.empty, .page'], minText: 20 }
 ];
-const USE = QUICK ? [ROUTES[0], ROUTES[1], ROUTES[2], ROUTES[7]] : ROUTES;
+const USE = QUICK ? [ROUTES[0], ROUTES[1], ROUTES[2], ROUTES[5]] : ROUTES;
 
 const PROBE_JS = `
 <script>

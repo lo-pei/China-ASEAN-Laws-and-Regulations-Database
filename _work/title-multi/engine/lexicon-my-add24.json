@@ -1,0 +1,376 @@
+{
+  "_note": "MY 附属法规括号术语 · add24（剩余缺口括号 106-158）",
+  "brackets": {
+    "EXERCISE OF FUNCTIONS": {
+      "zh": "职能的行使",
+      "vi": "Thực hiện chức năng",
+      "th": "การใช้อำนาจหน้าที่",
+      "id": "Pelaksanaan Fungsi",
+      "ms": "Pelaksanaan Fungsi"
+    },
+    "MODIFICATIONS OF IMMIGRATION LAWS": {
+      "zh": "移民法律的修改",
+      "vi": "Sửa đổi các luật nhập cư",
+      "th": "การปรับปรุงกฎหมายคนเข้าเมือง",
+      "id": "Modifikasi Undang-Undang Keimigrasian",
+      "ms": "Pengubahsuaian Undang-Undang Imigresen"
+    },
+    "HAKAM": {
+      "zh": "全国人权协会",
+      "vi": "Hội Nhân quyền Quốc gia",
+      "th": "สมาคมสิทธิมนุษยชนแห่งชาติ",
+      "id": "Perhimpunan Hak Asasi Manusia Nasional",
+      "ms": "Persatuan Hak Asasi Manusia Kebangsaan"
+    },
+    "INCREASED PENALTIES": {
+      "zh": "提高的刑罚",
+      "vi": "Hình phạt tăng nặng",
+      "th": "โทษที่เพิ่มขึ้น",
+      "id": "Pidana yang Diperberat",
+      "ms": "Hukuman yang Dipertingkatkan"
+    },
+    "CONTROL OF BORROWING POWERS": {
+      "zh": "借款权力管制",
+      "vi": "Kiểm soát quyền vay nợ",
+      "th": "การควบคุมอำนาจการกู้ยืม",
+      "id": "Pengendalian Kewenangan Pinjaman",
+      "ms": "Kawalan Kuasa Meminjam"
+    },
+    "MINING": {
+      "zh": "采矿",
+      "vi": "Khai khoáng",
+      "th": "การทำเหมืองแร่",
+      "id": "Pertambangan",
+      "ms": "Perlombongan"
+    },
+    "EXPORT DUTY ON IRON ORE": {
+      "zh": "铁矿石出口税",
+      "vi": "Thuế xuất khẩu quặng sắt",
+      "th": "อากรส่งออกสินแร่เหล็ก",
+      "id": "Bea Ekspor Bijih Besi",
+      "ms": "Duti Eksport Bijih Besi"
+    },
+    "MINERAL ORES": {
+      "zh": "矿物矿石",
+      "vi": "Quặng khoáng sản",
+      "th": "สินแร่ธาตุ",
+      "id": "Bijih Mineral",
+      "ms": "Bijih Mineral"
+    },
+    "NURSERIES": {
+      "zh": "苗圃",
+      "vi": "Vườn ươm",
+      "th": "เรือนเพาะชำ",
+      "id": "Pembibitan",
+      "ms": "Tapak Semaian"
+    },
+    "FAMILY PROVISION": {
+      "zh": "家庭供养",
+      "vi": "Cấp dưỡng gia đình",
+      "th": "การจัดสรรทรัพย์สินให้ครอบครัว",
+      "id": "Penyediaan Keluarga",
+      "ms": "Peruntukan Keluarga"
+    },
+    "PUBLIC SWEEPSTAKES": {
+      "zh": "公众抽奖",
+      "vi": "Xổ số công cộng",
+      "th": "การจับรางวัลสาธารณะ",
+      "id": "Undian Umum",
+      "ms": "Cabutan Awam"
+    },
+    "WAGES REGULATION ORDER": {
+      "zh": "工资管制令",
+      "vi": "Lệnh Quy định Tiền lương",
+      "th": "คำสั่งควบคุมค่าจ้าง",
+      "id": "Perintah Pengaturan Upah",
+      "ms": "Perintah Peraturan Gaji"
+    },
+    "STATUTORY MINIMUM REMUNERATION OF PRIVATE SECURITY GUARD IN SARAWAK AND SABAH": {
+      "zh": "砂拉越与沙巴私人保安员法定最低报酬",
+      "vi": "Thù lao tối thiểu theo luật định của nhân viên bảo vệ tư nhân tại Sarawak và Sabah",
+      "th": "ค่าตอบแทนขั้นต่ำตามกฎหมายของพนักงานรักษาความปลอดภัยเอกชนในซาราวักและซาบาห์",
+      "id": "Remunerasi Minimum Menurut Undang-Undang bagi Satpam Swasta di Sarawak dan Sabah",
+      "ms": "Saraan Minimum Berkanun Pengawal Keselamatan Swasta di Sarawak dan Sabah"
+    },
+    "ASIAN DEVELOPMENT BANK": {
+      "zh": "亚洲开发银行",
+      "vi": "Ngân hàng Phát triển Châu Á",
+      "th": "ธนาคารเพื่อการพัฒนาแห่งเอเชีย",
+      "id": "Bank Pembangunan Asia",
+      "ms": "Bank Pembangunan Asia"
+    },
+    "INTERNATIONAL BANK": {
+      "zh": "国际银行",
+      "vi": "Ngân hàng Quốc tế",
+      "th": "ธนาคารระหว่างประเทศ",
+      "id": "Bank Internasional",
+      "ms": "Bank Antarabangsa"
+    },
+    "COLLISION REGULATIONS": {
+      "zh": "避碰规则",
+      "vi": "Quy định về phòng ngừa đâm va",
+      "th": "ข้อบังคับการหลีกเลี่ยงการชนกัน",
+      "id": "Peraturan Pencegahan Tabrakan",
+      "ms": "Peraturan Perlanggaran"
+    },
+    "THE GOVERNMENT OF THE SLOVAK REPUBLIC": {
+      "zh": "斯洛伐克共和国政府",
+      "vi": "Chính phủ Cộng hòa Slovakia",
+      "th": "รัฐบาลสาธารณรัฐสโลวัก",
+      "id": "Pemerintah Republik Slowakia",
+      "ms": "Kerajaan Republik Slovak"
+    },
+    "ROADS AND BRIDGES": {
+      "zh": "道路与桥梁",
+      "vi": "Đường sá và cầu",
+      "th": "ถนนและสะพาน",
+      "id": "Jalan dan Jembatan",
+      "ms": "Jalan dan Jambatan"
+    },
+    "MUAR": {
+      "zh": "麻坡",
+      "vi": "Muar",
+      "th": "เมืองมัวร์",
+      "id": "Muar",
+      "ms": "Muar"
+    },
+    "SAFETY STANDARDS FOR TOYS": {
+      "zh": "玩具安全标准",
+      "vi": "Tiêu chuẩn an toàn cho đồ chơi",
+      "th": "มาตรฐานความปลอดภัยของของเล่น",
+      "id": "Standar Keselamatan Mainan",
+      "ms": "Piawaian Keselamatan Permainan"
+    },
+    "INTERNATIONAL TIN BUFFER STOCK": {
+      "zh": "国际锡缓冲库存",
+      "vi": "Kho đệm thiếc quốc tế",
+      "th": "สต็อกกันชนดีบุกระหว่างประเทศ",
+      "id": "Stok Penyangga Timah Internasional",
+      "ms": "Stok Penampan Timah Antarabangsa"
+    },
+    "SPECIAL SCHEME OF INSPECTION": {
+      "zh": "特别检验计划",
+      "vi": "Chương trình kiểm tra đặc biệt",
+      "th": "โครงการตรวจสอบพิเศษ",
+      "id": "Skema Pemeriksaan Khusus",
+      "ms": "Skim Pemeriksaan Khas"
+    },
+    "THE GOVERNMENT OF THE STATE OF QATAR": {
+      "zh": "卡塔尔国政府",
+      "vi": "Chính phủ Nhà nước Qatar",
+      "th": "รัฐบาลรัฐกาตาร์",
+      "id": "Pemerintah Negara Qatar",
+      "ms": "Kerajaan Negara Qatar"
+    },
+    "ADMINISTRATION": {
+      "zh": "行政管理",
+      "vi": "Quản trị",
+      "th": "การบริหาร",
+      "id": "Administrasi",
+      "ms": "Pentadbiran"
+    },
+    "CENTRAL BANK OF MALAYSIA": {
+      "zh": "马来西亚国家银行",
+      "vi": "Ngân hàng Trung ương Malaysia",
+      "th": "ธนาคารกลางมาเลเซีย",
+      "id": "Bank Sentral Malaysia",
+      "ms": "Bank Negara Malaysia"
+    },
+    "SAFETY STANDARDS FOR PRIMARY BATTERIES": {
+      "zh": "原电池安全标准",
+      "vi": "Tiêu chuẩn an toàn cho pin sơ cấp",
+      "th": "มาตรฐานความปลอดภัยของแบตเตอรี่ปฐมภูมิ",
+      "id": "Standar Keselamatan Baterai Primer",
+      "ms": "Piawaian Keselamatan Bateri Primer"
+    },
+    "OPERATING COMPANY": {
+      "zh": "运营公司",
+      "vi": "Công ty vận hành",
+      "th": "บริษัทผู้ดำเนินงาน",
+      "id": "Perusahaan Operator",
+      "ms": "Syarikat Pengendali"
+    },
+    "INTERNATIONAL FUND FOR AGRICULTURAL DEVELOPMENT": {
+      "zh": "国际农业发展基金",
+      "vi": "Quỹ Phát triển Nông nghiệp Quốc tế",
+      "th": "กองทุนระหว่างประเทศเพื่อการพัฒนาการเกษตร",
+      "id": "Dana Internasional untuk Pembangunan Pertanian",
+      "ms": "Tabung Antarabangsa bagi Pembangunan Pertanian"
+    },
+    "TOTALIZATOR BOARD": {
+      "zh": "赛马投注管理局",
+      "vi": "Cục Cá cược Tổng hợp",
+      "th": "คณะกรรมการการพนันม้า",
+      "id": "Dewan Totalisator",
+      "ms": "Lembaga Totalisator"
+    },
+    "EXEMPTION FOR PLANT REQUIRING CERTIFICATE OF FITNESS AT THE PLACE OF WORK OF PETRONAS WITHIN MARITIME ZONES": {
+      "zh": "海域内国家石油工作场所须持合格证设备的豁免",
+      "vi": "Miễn trừ đối với thiết bị cần giấy chứng nhận phù hợp tại nơi làm việc của Petronas trong vùng biển",
+      "th": "การยกเว้นสำหรับเครื่องจักรที่ต้องมีใบรับรองความเหมาะสม ณ สถานที่ทำงานของเปโตรนาสในเขตทะเล",
+      "id": "Pengecualian bagi Instalasi yang Memerlukan Sertifikat Kelayakan di Tempat Kerja Petronas dalam Zona Maritim",
+      "ms": "Pengecualian bagi Loji yang Memerlukan Sijil Kelayakan di Tempat Kerja Petronas dalam Zon Maritim"
+    },
+    "OIL POLLUTION": {
+      "zh": "油污",
+      "vi": "Ô nhiễm dầu",
+      "th": "มลพิษน้ำมัน",
+      "id": "Pencemaran Minyak",
+      "ms": "Pencemaran Minyak"
+    },
+    "CONTROL OF RENT AND SECURITY OF TENURE": {
+      "zh": "租金管制与租住权保障",
+      "vi": "Kiểm soát tiền thuê và bảo đảm quyền thuê",
+      "th": "การควบคุมค่าเช่าและความมั่นคงในการถือครอง",
+      "id": "Pengendalian Sewa dan Kepastian Masa Sewa",
+      "ms": "Kawalan Sewa dan Jaminan Pemegangan"
+    },
+    "DOMESTIC SHIPPING LICENCE": {
+      "zh": "国内航运执照",
+      "vi": "Giấy phép vận tải biển nội địa",
+      "th": "ใบอนุญาตเดินเรือภายในประเทศ",
+      "id": "Lisensi Pelayaran Domestik",
+      "ms": "Lesen Perkapalan Dalam Negeri"
+    },
+    "ANNUAL FEE FOR LICENCE OF SERVICE UNDERTAKINGS AND PORT UNDERTAKINGS": {
+      "zh": "服务事业及港口事业执照年费",
+      "vi": "Phí hàng năm cho giấy phép doanh nghiệp dịch vụ và doanh nghiệp cảng",
+      "th": "ค่าธรรมเนียมรายปีสำหรับใบอนุญาตกิจการบริการและกิจการท่าเรือ",
+      "id": "Biaya Tahunan Lisensi Usaha Jasa dan Usaha Pelabuhan",
+      "ms": "Fi Tahunan Lesen Perusahaan Perkhidmatan dan Perusahaan Pelabuhan"
+    },
+    "CLASSIFICATION, LABELLING AND SAFETY DATA SHEET OF HAZARDOUS CHEMICALS": {
+      "zh": "危险化学品的分类、标签及安全数据表",
+      "vi": "Phân loại, dán nhãn và bảng dữ liệu an toàn của hóa chất nguy hiểm",
+      "th": "การจำแนกประเภท การติดฉลาก และเอกสารข้อมูลความปลอดภัยของสารเคมีอันตราย",
+      "id": "Klasifikasi, Pelabelan, dan Lembar Data Keselamatan Bahan Kimia Berbahaya",
+      "ms": "Pengelasan, Pelabelan dan Helaian Data Keselamatan Bahan Kimia Berbahaya"
+    },
+    "PROHIBITION AGAINST UNSAFE GOODS": {
+      "zh": "禁止不安全货物",
+      "vi": "Cấm hàng hóa không an toàn",
+      "th": "การห้ามสินค้าที่ไม่ปลอดภัย",
+      "id": "Larangan Barang Tidak Aman",
+      "ms": "Larangan Barang Tidak Selamat"
+    },
+    "RATES OF PAYMENT TO WITNESSES": {
+      "zh": "证人报酬标准",
+      "vi": "Mức chi trả cho nhân chứng",
+      "th": "อัตราการจ่ายให้พยาน",
+      "id": "Tarif Pembayaran kepada Saksi",
+      "ms": "Kadar Bayaran kepada Saksi"
+    },
+    "REPAIR AND MAINTENANCE": {
+      "zh": "修理与维护",
+      "vi": "Sửa chữa và bảo trì",
+      "th": "การซ่อมแซมและการบำรุงรักษา",
+      "id": "Perbaikan dan Pemeliharaan",
+      "ms": "Pembaikan dan Penyelenggaraan"
+    },
+    "ASSUMPTION OF CONTROL OF KOPERASI DESA LESTARI KAMPUNG SETERPA KOTA BHARU BERHAD": {
+      "zh": "接管哥打巴鲁塞特帕村永续乡村合作社有限公司",
+      "vi": "Tiếp nhận kiểm soát Hợp tác xã Desa Lestari Kampung Seterpa Kota Bharu Berhad",
+      "th": "การเข้าควบคุมสหกรณ์เดซาเลสตารีกัมปุงเซอเตอปาโกตาบาห์รูเบอร์ฮัด",
+      "id": "Pengambilalihan Kendali Koperasi Desa Lestari Kampung Seterpa Kota Bharu Berhad",
+      "ms": "Pengambilalihan Kawalan Koperasi Desa Lestari Kampung Seterpa Kota Bharu Berhad"
+    },
+    "CREDIT SALE": {
+      "zh": "赊销",
+      "vi": "Bán chịu",
+      "th": "การขายเชื่อ",
+      "id": "Penjualan Kredit",
+      "ms": "Jualan Kredit"
+    },
+    "FUMIGATION": {
+      "zh": "熏蒸",
+      "vi": "Khử trùng bằng hơi",
+      "th": "การอบรมด้วยสารรม",
+      "id": "Fumigasi",
+      "ms": "Pengasapan"
+    },
+    "SUCCESSION AND DISSOLUTION": {
+      "zh": "继承与解散",
+      "vi": "Thừa kế và giải thể",
+      "th": "การสืบสิทธิและการเลิกกิจการ",
+      "id": "Pewarisan dan Pembubaran",
+      "ms": "Pewarisan dan Pembubaran"
+    },
+    "ISLAMIC AFFAIRS OFFICERS": {
+      "zh": "伊斯兰事务官员",
+      "vi": "Viên chức các vấn đề Hồi giáo",
+      "th": "เจ้าหน้าที่กิจการอิสลาม",
+      "id": "Pejabat Urusan Islam",
+      "ms": "Pegawai Hal Ehwal Islam"
+    },
+    "THE GOVERNMENT OF THE REPUBLIC OF SOUTH AFRICA": {
+      "zh": "南非共和国政府",
+      "vi": "Chính phủ Cộng hòa Nam Phi",
+      "th": "รัฐบาลสาธารณรัฐแอฟริกาใต้",
+      "id": "Pemerintah Republik Afrika Selatan",
+      "ms": "Kerajaan Republik Afrika Selatan"
+    },
+    "EXCLUSION OF INCOME FOR MSC STATUS COMPANY": {
+      "zh": "多媒体超级走廊地位公司的收入豁免",
+      "vi": "Loại trừ thu nhập đối với công ty có quy chế MSC",
+      "th": "การยกเว้นเงินได้สำหรับบริษัทที่ได้รับสถานะ MSC",
+      "id": "Pengecualian Penghasilan bagi Perusahaan Berstatus MSC",
+      "ms": "Pengecualian Pendapatan bagi Syarikat Berstatus MSC"
+    },
+    "REGISTRATION AND LICENSING OF SHIPS": {
+      "zh": "船舶登记与发牌",
+      "vi": "Đăng ký và cấp phép tàu biển",
+      "th": "การจดทะเบียนและการออกใบอนุญาตเรือ",
+      "id": "Registrasi dan Perizinan Kapal",
+      "ms": "Pendaftaran dan Pelesenan Kapal"
+    },
+    "DETERMINATION OF ASSETS UNDER SECTION 29B IN RESPECT OF MSC STATUS COMPANIES": {
+      "zh": "第29B条项下多媒体超级走廊地位公司资产的确定",
+      "vi": "Xác định tài sản theo Điều 29B đối với công ty có quy chế MSC",
+      "th": "การกำหนดสินทรัพย์ตามมาตรา 29B สำหรับบริษัทที่ได้รับสถานะ MSC",
+      "id": "Penetapan Aset berdasarkan Pasal 29B bagi Perusahaan Berstatus MSC",
+      "ms": "Penentuan Aset di bawah Seksyen 29B bagi Syarikat Berstatus MSC"
+    },
+    "THE GOVERNMENT OF THE REPUBLIC OF INDIA": {
+      "zh": "印度共和国政府",
+      "vi": "Chính phủ Cộng hòa Ấn Độ",
+      "th": "รัฐบาลสาธารณรัฐอินเดีย",
+      "id": "Pemerintah Republik India",
+      "ms": "Kerajaan Republik India"
+    },
+    "POWER TO BORROW": {
+      "zh": "借款权力",
+      "vi": "Quyền vay nợ",
+      "th": "อำนาจการกู้ยืม",
+      "id": "Kewenangan Meminjam",
+      "ms": "Kuasa Meminjam"
+    },
+    "REGULATION OF EMPLOYMENT": {
+      "zh": "雇佣管制",
+      "vi": "Quy định về việc làm",
+      "th": "การควบคุมการจ้างงาน",
+      "id": "Pengaturan Ketenagakerjaan",
+      "ms": "Peraturan Penggajian"
+    },
+    "LICENSING FEES": {
+      "zh": "发牌费用",
+      "vi": "Phí cấp phép",
+      "th": "ค่าธรรมเนียมใบอนุญาต",
+      "id": "Biaya Perizinan",
+      "ms": "Fi Pelesenan"
+    },
+    "ROYAL ALLOWANCES": {
+      "zh": "王室津贴",
+      "vi": "Trợ cấp hoàng gia",
+      "th": "เบี้ยหวัดพระราชวงศ์",
+      "id": "Tunjangan Kerajaan",
+      "ms": "Elaun Diraja"
+    },
+    "PROHIBITION OF USE OF SUBSTANCE": {
+      "zh": "禁止使用某种物质",
+      "vi": "Cấm sử dụng chất",
+      "th": "การห้ามใช้สาร",
+      "id": "Larangan Penggunaan Zat",
+      "ms": "Larangan Penggunaan Bahan"
+    }
+  }
+}

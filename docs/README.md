@@ -1,6 +1,6 @@
 # 文档索引（docs/）
 
-本目录存放 CALR 项目的全部文档。**先看本页，再按需进入具体文档。**
+本目录存放 CALR 项目的**工程文档**（00–04 + `deploy/` 07–10）；比赛材料（05/06、报告、路演、提交物）在 [`materials/`](../materials/README.md)。**先看本页，再按需进入具体文档。**
 目录结构与维护规则见 [00-目录结构与维护指南.md](00-目录结构与维护指南.md)。
 
 ---
@@ -13,15 +13,17 @@
 | 01 | [项目总览](01-项目总览.md) | 定位、数据规模、功能矩阵、两种运行形态、关键设计取舍 | 现行 | ✅ |
 | 02 | [数据规范与治理](02-数据规范与治理.md) | 数据模型、入库流程、质量硬约束、已治理缺陷、数据红线 | 现行 | ✅ |
 | 03 | [技术架构与检索](03-技术架构与检索.md) | 架构图、三条检索链路、性能实测、安全设计、技术债 | 现行 | ✅ |
+| 03a | [RAG 检索评估与优化建议](03a-RAG检索评估与优化建议.md) | 向量覆盖实测、现有指标、算法缺陷、按 ROI 排序的改进路线（只读分析） | 建议 | — |
 | 04 | [交付验收与后续规划](04-交付验收与后续规划.md) | 校验体系、评测指标、已知问题、路线图、5 分钟复现 | 现行 | ✅ |
-| 05 | [演示视频脚本](05-演示视频脚本.md) | 4 分 30 秒分镜脚本、旁白全稿、答辩 PPT 大纲 | 内容冻结 | ✅ |
-| 06 | [项目申报书正文](06-项目申报书正文.md) | 大赛申报书五段正文（评分材料） | 内容冻结 | ✅ |
 | 07 | [云服务器部署指南](deploy/07-部署指南.md) | A/B/B+ 三形态、Docker、systemd、Nginx、验证清单 | 运维 | — |
 | 08 | [B+ 完整版部署](deploy/08-部署-B+完整版.md) | 含 bge-m3 模型的增量部署与性能预期 | 运维 | — |
 | 09 | [Windows 服务器部署](deploy/09-部署-Windows服务器.md) | 阿里云 Windows Server 2022 计划态部署步骤 | 运维 | — |
 | 10 | [Windows 阿里云实测复盘](deploy/10-部署-Windows阿里云实测复盘.md) | 实际部署后的修正与避坑（覆盖 09 中 onnxruntime 判断） | 运维·最新 | — |
 
-> 07–10 为运维文档，不单独出 docx；md 与 docx 的对应关系见 [deliverables/README.md](../deliverables/README.md)。
+> **05、06 是比赛材料，已迁至 [`materials/`](../materials/README.md)**：
+> [05 · 演示视频脚本](../materials/roadshow/05-演示视频脚本.md)（路演/拍摄）、
+> [06 · 项目申报书正文](../materials/reports/06-项目申报书正文.md)（申报评分材料）。
+> 07–10 为运维文档，不单独出 docx；docx 交付版与 md 的对应关系见 [materials/README.md](../materials/README.md)。
 
 ---
 
@@ -30,7 +32,7 @@
 | 读者 | 路径 |
 | :--- | :--- |
 | 评委 / 3 分钟 | [01 §二 数据规模](01-项目总览.md) → [04 §七 成果小结](04-交付验收与后续规划.md) |
-| 产品方案与使用 | [产品解决方案 Demo](../solution/提交物/产品解决方案Demo.pdf) · [产品使用说明书](../solution/提交物/产品使用说明书.pdf)（PDF，提交物） |
+| 产品方案与使用 | [产品解决方案 Demo](../materials/submission/产品解决方案Demo.pdf) · [产品使用说明书](../materials/submission/产品使用说明书.pdf)（PDF，提交物）· 源文件与交互页见 [materials/roadshow/](../materials/roadshow/README.md) |
 | 完整了解 | 01 → 02 → 03 → 04 |
 | 部署运维 | [deploy/README.md](deploy/README.md)（按平台与形态选路线） |
 | 数据供给 / 翻译 agent | [rules/README.md](../rules/README.md)（先读契约，再动手） |
@@ -44,17 +46,19 @@
 | 指标 | 权威值 | 来源 |
 | :--- | ---: | :--- |
 | 法域 | 12（中国 + 东盟十国 + 东帝汶） | `prototype/data/laws/index.json` |
-| 法规 | 42,120 部 | 同上 `meta.lawCount` |
-| 条文 | 564,127 条 | 同上 `meta.articleCount` |
-| 正文字符 | 602,143,441 | 同上 `meta.chars` |
-| 中文标题 | 28,319 部（67.23%） | `prototype/data/title-zh/titles.zh.json` |
+| 法规 | 42,121 部 | 同上 `meta.lawCount` |
+| 条文 | 564,579 条 | 同上 `meta.articleCount` |
+| 正文字符 | 602,209,705 | 同上 `meta.chars` |
+| 中文标题 | 30,664 部（72.80%） | `prototype/data/title-zh/titles.zh.json` |
 | 译文层 | 5,633 部 / 90,627 条 / 47 分卷（英 5,632 / 85,263；中 40 / 5,364） | `prototype/data/trans/manifest.js` |
 | 向量索引 | 18,861 部 / 334,779 条 | `backend/data/vectors/`（待按最新库重建） |
-| 界面语言键 | 870 键（vi/th/id/ms missing=0） | `node tools/check-i18n.js` |
-| SQLite 库 | 待按 42,120 部重建 | `backend/data/calr.db` |
+| 界面语言键 | 898 键（en/vi/th/id/ms 缺失 0） | `node tools/check-i18n.js` |
+| SQLite 库 | 已重建：42,121 部 / 564,579 条，2.1 GB | `backend/data/calr.db`（`built_at=2026-10-29T21:13:57`） |
 
 > **2026-10-29 数据口径已更新**：新入库 23,335 部法规（PH/MY/ID/VN/TH/LA）与 47 卷译文；
-> 条文 id 去重、`titles.zh.json` 导出同步。`docs/01–06` 与对应 docx 中的旧数字待下一轮统一同步。
+> 条文 id 去重、`titles.zh.json` 导出同步。`docs/01–04` 与对应 docx 中的旧数字已在本轮同步。
+> 同日完成：法律(1) 373 份 DOCX 的章/条重切（316 部就地更新、新增《刑法》2020 版 CN-LAW-9001）、
+> 界面 5 语补 30 余条缺失 key，以及 `_work` 已入库原始包/旧备份清理（约 27.2 GB，记录见 `_work/CLEANUP-2026-10-29.md`）。
 
 > 向量库比法规库多 76 部、条文少 4,572 条（因删改法规后尚未全量重建），详见 07/08/09 的说明。
 > **2026-10-25 已把 01–05 的 md 与 docx 同步到本表口径；06 待 owner 确认口径后处理。**
@@ -64,14 +68,15 @@
 ## 四、历史归档
 
 - [\_archive-2026-10-24/](_archive-2026-10-24/)：34 份旧版文档（00–33），**不入 git**，仅供追溯。
+- 历史交付物（旧 docx/pdf）：[\_archive-2026-10-24/](../materials/_archive-2026-10-24/)，**不入 git**，仅供追溯。
 - 查最新口径**不要**看归档；归档中的编号与现行编号不是一一对应关系。
 
 ---
 
 ## 五、维护约定
 
-1. **命名**：`NN-中文名.md`，NN 两位；md 与 docx 同号（01–06 一一对应）。
-2. **新增文档**：登记到本页总表；运维类放 `deploy/`，历史类放 `_archive-YYYY-MM-DD/`。
+1. **命名**：`NN-中文名.md`，NN 两位；md 与 docx 同号（01–04 在 `docs/`，05–06 在 `materials/`）。
+2. **新增文档**：工程文档登记到本页总表；比赛/路演/申报材料登记到 [materials/README.md](../materials/README.md)；运维类放 `deploy/`，历史类放 `_archive-YYYY-MM-DD/`。
 3. **改数字**：先改数据层，再同步本页表格、README 与 01–05 的 md 及对应 docx；评分材料 06 改动前先确认口径。
 4. **重出 docx**：当前**没有一条命令可跑通**的流水线（旧脚本 `_work/build_docs.py` 的 JOBS 已过期），重出前先修映射，详见 [_work/README.md](../_work/README.md) 的"已知陷阱"。
 
@@ -79,7 +84,7 @@
 
 ## 六、已知文档债
 
-- [06](06-项目申报书正文.md) 仍为旧口径（334,681 条 / 18,854 部 / 13,450 目录），属评分材料，待 owner 确认口径后重出 docx。
-- 两份归档副本 `docs/_archive-2026-10-24/`、`deliverables/_archive-2026-10-24/` 不入库，部分历史文档引用因而在全新 clone 中不可达。
+- [06](../materials/reports/06-项目申报书正文.md) 仍为旧口径（334,681 条 / 18,854 部 / 13,450 目录），属评分材料（在 `materials/reports/`），待 owner 确认口径后重出 docx。
+- 两份归档副本 `docs/_archive-2026-10-24/`、`materials/_archive-2026-10-24/` 不入库，部分历史文档引用因而在全新 clone 中不可达。
 - `_work/` 中约 4,657 处旧路径引用来自更早一次未同步的清理，不要据此重跑历史脚本。
 - 向量索引仍基于清理前数据（18,861 部 / 334,779 条），待按最新库重建。

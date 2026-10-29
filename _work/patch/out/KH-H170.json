@@ -1,0 +1,40 @@
+{
+ "lawId": "KH-H170",
+ "pack": "kh-p02",
+ "sourceLang": "km",
+ "targetLang": "en",
+ "titleEn": "Law on the Establishment of Office of the Council of Ministers",
+ "model": "deepseek-v4.1-flash",
+ "articles": [
+  {
+   "key": "1",
+   "no": 1,
+   "noLabel": "Article 1",
+   "en": "The Office of the Council of Ministers is hereby established under the Royal Government of Cambodia."
+  },
+  {
+   "key": "2",
+   "no": 2,
+   "noLabel": "Article 2",
+   "en": "The competence of the Office of the Council of Ministers is to manage and organise its own work and to coordinate the daily work of the Council of Ministers under the responsibility of the Prime Minister."
+  },
+  {
+   "key": "3",
+   "no": 3,
+   "noLabel": "Article 3",
+   "en": "The Office of the Council of Ministers shall be managed by Co-Ministers or a Minister, who may be assisted by Secretaries of State and Under-Secretaries of State, and shall also have a Secretary-General of the Royal Government.\nArticle 4: The organisational structure and functioning of the Office of the Council of Ministers shall be determined by sub-decree."
+  },
+  {
+   "key": "5",
+   "no": 5,
+   "noLabel": "Article 5",
+   "en": "Any provisions contrary to this Law shall be considered null and void."
+  },
+  {
+   "key": "6",
+   "no": 6,
+   "noLabel": "Article 6",
+   "en": "This Law is declared to be urgent.\nDone at Phnom Penh, 24 January 1996, and respectfully submitted for the Royal signature; Norodom Sihanouk; First Prime Minister, Second Prime Minister, Norodom Ranariddh, Hun Sen."
+  }
+ ]
+}

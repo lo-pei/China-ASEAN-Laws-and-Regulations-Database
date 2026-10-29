@@ -1,0 +1,28 @@
+{
+ "lawId": "KH-H173",
+ "pack": "kh-p03",
+ "sourceLang": "km",
+ "targetLang": "en",
+ "titleEn": "Royal Decree on the adjustment of Kep city to Kep province",
+ "model": "deepseek-v4.1-flash",
+ "articles": [
+  {
+   "key": "1",
+   "no": 1,
+   "noLabel": "Article 1",
+   "en": "Kep town (Krong Kep) is hereby converted into Kep province (Khet Kep).\nArticle 2.- The organisational structure and administrative management system of Kep province shall comply with the Law on the Administrative Management of the Capital, Provinces, Municipalities, Districts and Khans.\n.\nArticle 3.- All provisions whose content is contrary to this Royal Decree shall be considered null and void."
+  },
+  {
+   "key": "4",
+   "no": 4,
+   "noLabel": "Article 4",
+   "en": "- Samdech Akka Moha Sena Padei Techo Hun Sen, Prime Minister of the Kingdom of Cambodia, shall be responsible for implementing this Royal Decree."
+  },
+  {
+   "key": "5",
+   "no": 5,
+   "noLabel": "Article 5",
+   "en": "- This Royal Decree shall enter into force from the date of signature.\nSigned and sealed at the Royal Palace, Phnom Penh, [date illegible], 2008. Norodom Sihamoni."
+  }
+ ]
+}

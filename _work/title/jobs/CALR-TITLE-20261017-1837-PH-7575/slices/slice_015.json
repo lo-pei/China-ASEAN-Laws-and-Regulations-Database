@@ -1,0 +1,956 @@
+{
+ "jobId": "CALR-TITLE-20261017-1837-PH-7575",
+ "shard": 15,
+ "items": [
+  {
+   "id": "PH-H2313",
+   "en": "An Act Creating Certain Barrios in the Province of Negros Occidental",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1355",
+   "en": "An Act to Amend Certain Sections of the Charter of the City of Butuan",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3996",
+   "en": "An Act Creating the Municipality of Victoria in the Province of Samar",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6149",
+   "en": "An Act Declaring Mount Samat in the Province of Bataan a Tourist Spot",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7808",
+   "en": "An Act Prohibiting the Imposition of Death Penalty in the Philippines",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6376",
+   "en": "An Act Creating the Municipality of Sibunag in the Province of Guimaras",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H663",
+   "en": "An Act to Fix the Salaries of Physicians Under the Department of Health",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4240",
+   "en": "An Act Amending Sections Nine and Seventeen of the Judiciary Act of 1948",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H566",
+   "en": "An Act to Amend Sections Two and Three of Republic Act Numbered Sixty-Five",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4632",
+   "en": "An Act to Revise the Charter of the City of Manila, and for Other Purposes.",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4709",
+   "en": "An Act Creating the Municipality of San Pascual in the Province of Batangas",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6377",
+   "en": "An Act Creating the Municipality of San Lorenzo in the Province of Guimaras",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H906",
+   "en": "An Act to Regulate the Sale of Veterinary Biologics and Medical Preparations",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H915",
+   "en": "An Act Declaring the Bar and Board Examinations as Civil Service Examinations",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9522",
+   "en": "An Act Reapportioning the Province of Aklan Into Two (2) Legislative Districts",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4694",
+   "en": "An Act Increasing the Salaries of Officers and Employees of the Bureau of Posts",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6160",
+   "en": "An Act Creating the Municipality of Sofronio Española in the Province of Palawan",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9525",
+   "en": "An Act Reapportioning the Province of Isabela Into Six (6) Legislative Districts",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6303",
+   "en": "An Act Declaring Limasawa Island in the Province of Southern Leyte a Tourist Zone",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9124",
+   "en": "An Act Reapportioning the Province of Batangas Into Six (6) Legislative Districts",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H8626",
+   "en": "An Act Reapportioning the Province of Palawan Into Three (3) Legislative Districts",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H8637",
+   "en": "An Act Reapportioning the Province of Bukidnon Into Four (4) Legislative Districts",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4006",
+   "en": "An Act to Amend Certain Sections of Title IX of the National Internal Revenue Code.",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H8630",
+   "en": "An Act Reapportioning the Province of Cotabato into Three (3) Legislative Districts",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3809",
+   "en": "An Act Establishing Separate Officer Promotion Lists for the Philippine Constabulary",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2594",
+   "en": "An Act Creating Barrios in Certain Municipalities of the Province of Misamis Oriental",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4285",
+   "en": "An Act Constituting the Province of Camarines Sur Into Two Highway Engineering Districts",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H8199",
+   "en": "An Act Imposing a Logging Ban in the Third District to the Province of Negros Occidental",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9802",
+   "en": "An Act Recognizing the Observance of November 17 of Every Year as National Students’ Day",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9008",
+   "en": "An Act Declaring Every 27th Day of November as \"Araw ng Pagbasa\", a Regular Working Holiday",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H5659",
+   "en": "An Act to Promote the Development of the Farmers in the Virginia Tobacco-producing Provinces",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6538",
+   "en": "An Act Declaring Barangay Patag in Silay City, Province of Negros Occidental, a Tourist Zone",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6500",
+   "en": "An Act Declaring the Moriones Festival of the Province of Marinduque a Major Tourist Attraction",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7858",
+   "en": "An Act Redefining the term \"Veteran\" thereby amending Further Republic Act No. 6948, as amended",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H10509",
+   "en": "An Act Fixing the Term of Office of the Philippine Coast Guard Commandant and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H817",
+   "en": "An Act Amending and Repealing Certain Sections of Republic Act Numbered Five Hundred and Thirteen",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9827",
+   "en": "An Act Mandating Public and Private Educational Institutions to Provide Neutral Desks to Students",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1944",
+   "en": "An Act Prohibit the Importation of Rice and Corn and to Provide Penalties for the Violation Thereof",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9873",
+   "en": "An Act Recognizing the Observance of July 25 of Every Year as the National Campus Press Freedom Day",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H422",
+   "en": "An Act to Amend Certain Sections of Chapter Sixty-One of the Revised Administrative Code, as Amended",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4925",
+   "en": "An Act Creating a Third Sala in the City Court of the City of Cagayan De Oro and for Other Purposes.",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1826",
+   "en": "An Act Granting Life Pension and Franking Privilege to Widows of Former Presidents of the Philippines",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3958",
+   "en": "An Act Changing the Name of Cubao High School, Murphy Annex, in Quezon City to Juan Sumulong High School",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1208",
+   "en": "An Act Authorizing the Execution of Public Works Projects or Parts Thereof on Piece Work or “Takay” Basis",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9524",
+   "en": "An Act Mandating the Integration of the Maasin City College Into the Southern Leyte State University (SLSU)",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H8183",
+   "en": "An Act Providing for the Reapportionment of the Lone Legislative District of the Province of Camarines Norte",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2953",
+   "en": "An Act to Amend Sections Two (c) and (g), Three and Fourteen of Republic Act Numbered Eighty-Five, as Amended",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3430",
+   "en": "An Act Granting the Pamex Mining Co., Inc. a Temporary Permit to Operate and Maintain Radiotelephone Stations",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9643",
+   "en": "An Act Providing for the Reapportionment of the Province of Southern Leyte Into Two (2) Legislative Districts",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1035",
+   "en": "An Act to Amend and Repeal Certain Sections of Republic Act Numbered Four Hundred Nine, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3432",
+   "en": "An Act to Provide for Study of Problems of Public School Financing and Their Solutions, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4626",
+   "en": "An Act Requiring Courts to Give Preference to Criminal Cases Where the Party or Parties Involve Are Indigents.",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H8148",
+   "en": "An Act Establishing the Cagayan De Oro City First District Engineering Office and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1334",
+   "en": "An Act Granting the Philippine National Bank a Temporary Permit to Operate and Maintain Radiotelephone Stations",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4898",
+   "en": "An Act Standardizing the Salaries of Officers and Employees of the Bureau of Mines, and Providing Funds Therefor.",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3861",
+   "en": "An Act Increasing the Salaries of Officers and Employees of the Bureau of Internal Revenue, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4525",
+   "en": "An Act Granting Far Corporation a Franchise to Construct, Operate and Maintain Radio Broadcasting Stations in Luzon",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6501",
+   "en": "An Act Declaring the Municipalities of Boac, Buenavista, and Torrijos in the Province of Marinduque as Tourist Zones",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H5656",
+   "en": "An Act Converting the Philippine Normal College into a State University to be known as the Philippine Normal University",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9608",
+   "en": "An Act Declaring the Last Monday of January Every Year as a Special Working Holiday in Observance of National Bible Day",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3307",
+   "en": "An Act Granting the Municipality of Agoo, Province of La Union, a Franchise for an Electric Light, Heat and Power System",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3709",
+   "en": "An Act Creating a Revolving Special Trust Fund Under the Agricultural Credit Administration for Agricultural Development",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H339",
+   "en": "An Act Authorizing the Secretary of Finance to Borrow to Meet Public Expenditures Authorized by Law, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2373",
+   "en": "An Act Providing for Twelve, Instead of Eight Regional Offices for the Department of Labor, and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3519",
+   "en": "An Act Establishing a School for Philippine Craftsmen in Malinao, Aklan, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3872",
+   "en": "An Act Making the College of Public Administration of the University of the Philippines a More Effective Training Institution",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6479",
+   "en": "An Act Authorizing the Improvement and Development of the Ardent Spring in the Municipality of Mambajao, Province of Camiguin",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H673",
+   "en": "An Act to Re-enact Republic Act Six Hundred and Thirteen, Known as the Export Control to Amend Sections Four and Five Thereof",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1997",
+   "en": "An Act Repealing Republic Act Numbered Fourteen Hundred Ten Otherwise Known as the No-Dollar Import Law, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H380",
+   "en": "An Act Creating the Municipality of Molave in the Province of Zamboanga and Making Said Municipality the Capital of the Province",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1122",
+   "en": "An Act to Regulate the Planting, Gathering or Selling of “Tubli” and Other Poisonous Plants and to Penalize Any Violation Thereof",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1619",
+   "en": "An Act to Establish a School of Fisheries in the Province of Capiz and to Authorize the Appropriation of Necessary Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H5813",
+   "en": "An Act Providing for the Local Elections of the City Officials of Trece Martires City, Province of Cavite, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2105",
+   "en": "An Act Amending the Title and Sections One and Ten, and Repealing Section Three of Republic Act Numbered Two Thousand Thirty-Seven",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H221",
+   "en": "An Act to Provide for the Medical Inspection of Children Enrolled in Private Schools, Colleges and Universities in the Philippines",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H893",
+   "en": "An Act to Establish a School of Fisheries in the Province of Antique and to Authorize the Appropriation of Necessary Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H407",
+   "en": "An Act Providing for the Establishment of a School of Fisheries in Catbalogan, Samar, and Appropriating the Necessary Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4538",
+   "en": "An Act Standardizing the Salaries of All National Officials and Employees of the General Auditing Office and Providing Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4914",
+   "en": "An Act Amending Certain Sections of Republic Act Numbered Sixty-One Hundred Thirty-Four, Known as the Charter of the City of Surigao.",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H715",
+   "en": "An Act to Amend Sections One and Two of Republic Act Numbered Six Hundred and One, as Amended, Otherwise Known as the Exchange Tax Law",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2788",
+   "en": "An Act Reappropriating Certain Sums Provided for in Various Public Works Acts for Public Works Projects in the First District of Laguna",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1202",
+   "en": "An Act to Amend Certain Sections of Commonwealth Act Numbered Fifty-One, as Amended, Otherwise Known as the Charter of the City of Davao",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6332",
+   "en": "An Act Providing for the Improvement and Development of the Chocolate Hills Tourist Spot in the Municipality of Carmen, Province of Bohol",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4300",
+   "en": "An Act Amending Certain Sections of the Revised Charter of the City of Davao (Re Constitution and Organization of the City Council, Etc.).",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1294",
+   "en": "An Act to Amend Certain Sections of Republic Act Numbered One Hundred Eighty-Three Otherwise Known as the Charter of Pasay City, as Amended",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4580",
+   "en": "An Act Amending Republic Act Numbered Fifty-One Hundred Sixty-Five By Standardizing the Salaries of Officials in the Bureau of Public Works",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7016",
+   "en": "An Act Declaring the Site of Biak-Na-Bato in the Province of Bulacan a Historical Shrine and Tourist Spot, and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4574",
+   "en": "An Act Standardizing Salaries of Government Civil Engineers in the National Government Including Government Owned and Controlled Corporations",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H8613",
+   "en": "An Act Decriminalizing Vagrancy, Amending for this Purpose Article 202 of Act No. 3815, as Amended, Otherwise Known as the Revised Penal Code",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7479",
+   "en": "An Act Creating a Separate Engineering District in the Lone Congressional District of the Province of Benguet and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H111",
+   "en": "An Act Amending Articles One Hundred Forty-Six, Two Hundred Ninety-Five, Two Hundred Ninety-Six and Three Hundred Six of the Revised Penal Code",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3338",
+   "en": "An Act Granting Pablo R. Halili a Franchise for an Electric Light, Heat and Power System in the Municipality of Cabiao, Province of Nueva Ecija",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3851",
+   "en": "An Act Amending Republic Act Numbered Forty-One Hundred Fifty-Three by Standardizing the Salaries of Officials in the Bureau of Public Highways",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4962",
+   "en": "An Act Exempting From Certain Taxes the Southeast Asian Regional Center for Graduate Study and Research in Agriculture, and for Other Purposes.",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7472",
+   "en": "An Act Creating a Separate Engineering District in the Second Congressional District in the Province of Iloilo and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7690",
+   "en": "An Act Rationalizing the Excise Tax on Automobiles, Amending for the purpose the National Internal Revenue Code of 1997, and for other purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3444",
+   "en": "An Act Providing for the Establishment of Regional Branches of the Philippine Normal College and Authorizing the Appropriation of Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4136",
+   "en": "An Act Providing Funds for Buildings, Equipment, and Facilities of the Asian Center of the University of the Philippines, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H5457",
+   "en": "An Act to Vest Control, Jurisdiction and Administration of the Forest Reserve in Mount Makiling in the University of the Philippines in Los Baños",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6956",
+   "en": "An Act Upgrading the Camiguin Island Hospital to Tertiary Level II to Be Known as the Camiguin General Hospital, and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7519",
+   "en": "An Act Creating a Separate Engineering District in the Second Congressional District in the Province of Batangas and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H8153",
+   "en": "An Act Establishing the Zamboanga Sibugay First District Engineering Office in the Province of Zamboanga Sibugay and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1265",
+   "en": "An Act Granting to Rosiano Rodano a Franchise for an Electric Light, Heat and Power System in the Municipality of Malaybalay, Province of Bukidnon",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2692",
+   "en": "An Act Standardizing the Salaries of Justices of the Peace, Amending for the Purpose the Judiciary Act of 1948, as Amended, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6480",
+   "en": "An Act Providing for the Development of the Dalama Shoreline in the Municipality of Molundo, Province of Lanao Del Sur, Into a Public Beach Resort",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9006",
+   "en": "An Act Providing for the Establishment of a Division of City Schools in the City of Tagbilaran, Province of Bohol and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3281",
+   "en": "An Act Granting Antonia L. Alisangco a Franchise for an Electric Light, Heat and Power System in the Municipality of Bacnotan, Province of La Union",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2378",
+   "en": "An Act Providing for the Construction of the Jalaur Multi-Purpose Project in the Province of Iloilo and Governing its Operation After its Completion",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6751",
+   "en": "An Act Converting the Maningalao Barangay High School in Las Nieves, Agusan Del Norte, Into A National High School, and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3091",
+   "en": "An Act to Create the Hundred Islands Conservation and Development Authority, Defining its Powers, Duties and Responsibilities, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1983",
+   "en": "An Act to Authorized the Printing and Issue of Semi-Postal Stamps and a Souvenir Sheet to Commemorate and Help Raise Funds for the 10th World Jamboree",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H637",
+   "en": "An Act Creating the Subprovince of Aurora, Which Shall Comprise the Municipalities of Baler, Casiguran, Dipaculao and Maria Aurora, Province of Quezon",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H8152",
+   "en": "An Act Establishing the Sixth District Engineering Office in the Sixth Congressional District of the Province of Cebu and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1705",
+   "en": "An Act to Establish a School of Fisheries in the Municipality of Poro, Province of Cebu, and to Authorize the Appropriation of Necessary Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2350",
+   "en": "An Act to Amend Sections Thirty-Nine and Forty-Six of the Revised Charter of the City of Manila, as Amended by Republic Act Numbered Twelve Hundred One",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H989",
+   "en": "An Act to Amend Certain Items in Republic Act Numbered Nine Hundred and Twenty, Regarding Public Works and Projects for the Province of Negros Oriental",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H127",
+   "en": "An act Authorizing Municipalities to Contract Loans from the Agricultural and Industrial Bank for the Construction of Public Markets and Slaughterhouses",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H229",
+   "en": "An act to allow the members of the Government Service Insurance System option to convert their policies into paid-up policies and apply for new Insurance",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6379",
+   "en": "An Act Amending Section Four and Section Sixteen of Republic Act Numbered Four Thousand Seven Hundred Twenty-six, Otherwise Known as the Condominium Act\"",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7510",
+   "en": "An Act Creating a Separate Engineering District in the Second Congressional District in the Province of Zamboanga Del Sur and Appropriating Funds Thereof",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4971",
+   "en": "An Act Granting Cauayan Electric Corporation a Franchise for An Electric Light, Heat and Power System in the Municipality of Cauayan, Province of Isabela.",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H262",
+   "en": "An Act to Amend Certain Sections of Commonwealth Act Numbered One Hundred and Fifty-Eight, as Amended, Otherwise Known as the Charter of the City of Iloilo",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3330",
+   "en": "An Act to Amend Certain Sections of Republic Act Numbered Seven Hundred Sixty-Three, Otherwise Known as the Charter of the Mindanao Institute of Technology",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4481",
+   "en": "An Act Granting Mati Light and Power, Inc. a Franchise for An Electric Light, Heat and Power System in the Municipality of Mati, Province of Davao Oriental",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6672",
+   "en": "An Act Creating a Separate Engineering District in the First Congressional District of the Province of Zamboanga Del Norte and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4278",
+   "en": "An Act Fixing the Salary of Judges of the Courts of First Instance and of the Presiding Justice and Justices of the Court of Appeals, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9685",
+   "en": "An Act Reapportioning the First Legislative District of the Province of South Cotabato Thereby Creating the Lone Legislative District of General Santos City",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2397",
+   "en": "An Act to Amend Sections Five, Ten and Eleven of Republic Act Numbered Seven Hundred Twenty, Otherwise Known as the Rural Banks’ Act and Other Pertinent Laws",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3608",
+   "en": "An Act Granting the Banaag Electric a Franchise for an Electric Light, Heat and Power System in the Municipality of Pinamalayan, Province of Oriental Mindoro",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4853",
+   "en": "An Act Converting the Nueva Ecija Provincial Hospital Into a National Hospital to Be Known as the Dr. Paulino J. Garcia Memorial Research and Medical Center.",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6137",
+   "en": "An Act Requiring Government-Owned or Controlled Corporations to Declare Dividends Under Certain Conditions to the National Government, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3641",
+   "en": "An Act Granting Magalang Electric Plant Company a Franchise for an Electric Light, Heat and Power System in the Municipality of Magalang, Province of Pampanga",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3650",
+   "en": "An Act to Provide Funds for Buildings and Other Facilities of the Philippine Executive Academy Within the University of the Philippines and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9312",
+   "en": "An Act Defining Raw Sugar or Raw Cane Sugar, Amending Section 109(A) and (F) of the National Internal Revenue Code of 1997, as Amended, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1459",
+   "en": "An Act to Amend Certain Items in Republic Act Numbered Fourteen Hundred Eleven Regarding Public Works Projects for the Provinces of Negros Occidental and Lanao",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3452",
+   "en": "An Act to Provide Scholarships for the Study of Geodetic Engineering in the University of the Philippines, and to Authorize the Appropriation of Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H503",
+   "en": "An Act Providing for the Establishment of a School of Fisheries in the Municipality of Tabaco, Province of Albay, and Appropriating the Necessary Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2432",
+   "en": "An Act Prescribing the Duties and Qualifications, and Fixing the Number and Salaries, of the Members of the Legal Staff in the Office of the Secretary of Justice",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H5042",
+   "en": "An Act Granting Julio Benemerito a Franchise for An Electric Light, Heat and Power System in the Municipalities of Pagudpud and Bangui, Province of Ilocos Norte.",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H5305",
+   "en": "An Act Lowering the Age of Majority from Twenty-One to Eighteen Years, amending for the Purpose Executive Order Numbered Two Hundred Nine, and for other purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4546",
+   "en": "An Act Granting Franchise for An Electric Light, Heat and Power System to the Naguilian Electric Co., Inc., in the Municipality of Naguilian, Province of La Union",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7533",
+   "en": "An Act Converting the Sub-District Engineering Office in the City of Iligan Into a Regular Fully Constituted Engineering District and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9109",
+   "en": "An Act Separating the City of Biñan From the First Legislative District of the Province of Laguna to Constitute the Lone Legislative District of the City of Biñan",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9696",
+   "en": "An Act Separating the City of Mandaue from the Sixth Legislative District of the Province of Cebu to Constitute the Lone Legislative District of the City of Mandaue",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9830",
+   "en": "An Act Establishing a Provincial Fisheries and Aquatic Resources Training, Development, and Product Center in the Province of Aklan and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3407",
+   "en": "An Act Granting Camiguin Electric Company, Inc. a Franchise for an Electric Light, Heat and Power System in the Subprovince of Camiguin, Province of Misamis Oriental",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3883",
+   "en": "An Act Granting Ruben A. So a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipality of Monreal, Province of Masbate",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4585",
+   "en": "An Act Granting Zambales Electric Plant Corporation a Franchise for An Electric Light, Heat and Power System in the Municipality of San Antonio, Province of Zambales",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H5812",
+   "en": "An Act Increasing the Members of the Board of the Philippine Racing Commission, Amending for the Purpose Presidential Decree Numbered Four Hundred Twenty, as Amended",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H313",
+   "en": "An Act Amending Sections One Hundred Thirty-Three, One Hundred Thirty-Four, One Hundred Thirty-Five, and One Hundred Thirty-Seven of the National Internal Revenue Code",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H442",
+   "en": "An Act to Legalize Permissions to Use Human Organs or Any Portion or Portions of the Human Body for Medical, Surgical, or Scientific Purposes, Under Certain Conditions",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9523",
+   "en": "An Act Separating the City of Calamba From the Second Legislative District of the Province of Laguna to Constitute the Lone Legislative District of the City of Calamba",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9971",
+   "en": "An Act Granting Palawan Broadcasting Corporation a Franchise to Construct, Install, Operate, and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H8184",
+   "en": "An Act Separating the City of Lapu-Lapu from the Sixth Legislative District of the Province of Cebu to Constitute the Lone Legislative District of the City of Lapu-Lapu",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4609",
+   "en": "An Act Granting Eduardo Maruhom a Franchise to Install, Operate and Maintain An Electric Light and Power System in the Municipality of Maigo, Province of Lanao Del Norte",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H5226",
+   "en": "An Act Creating the Aurora National Science High School By Separating the Aurora Science High School From the Aurora Provincial High School, and Providing Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H8151",
+   "en": "An Act Reconstituting the Albay Engineering District Offices in the Province of Albay Into Three (3) Regular District Engineering Offices and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4268",
+   "en": "An Act Exempting the Trustees of the Press Foundation of Asia, Inc., and Its Grants From the Payment of Income, Gift, Compensating and Real Property Taxes, Duties and Fees",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7880",
+   "en": "An Act Increasing the Bed Capacity of the Amang Rodriguez Memorial Medical Center from One Hundred Fifty (150) to Three Hundred (300) Beds and appropriating funds therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H10067",
+   "en": "An Act Granting Good News Sorsogon Foundation, Inc., a Franchise to Construct, Install, Operate, and Maintain Radio and Television Broadcasting Stations in the Bicol Region",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H178",
+   "en": "An act to authorize the holding by the Philippine Charity Sweepstakes Office of Horse Races, with betting, on Saturday Afternoons, for charitable, relief and civic purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9273",
+   "en": "An Act Establishing Multi-Species Marine Hatcheries in Surigao City and the Municipality of Del Carmen in the Province of Surigao Del Norte and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9828",
+   "en": "An Act Separating the City of Santa Rosa from the First Legislative District of the Province of Laguna to Constitute the Lone Legislative District of the City of Santa Rosa",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1393",
+   "en": "An Act Providing for the Establishment of a School of Fisheries in Ambulong, Tanauan, Province of Batangas, and Authorizing the Appropriation of the Necessary Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6668",
+   "en": "An Act Granting Priority to Residents of the Barangay, Municipality or City Where the School Is Located, in the Appointment or Assignment of Classroom Public School Teachers",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H8182",
+   "en": "An Act Separating the City of Iligan from the First Legislative District of the Province of Lanao Del Norte to Constitute the Lone Legislative District of the City of Iligan",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H898",
+   "en": "An Act Granting Provincial Boards Greater Autonomy in the Preparation of the Provincial Budget, Amending for This Purpose Certain Sections of the Revised Administrative Code",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H194",
+   "en": "An Act to Amend Sections Thirty-One and Thirty-Two of Act Numbered Four Hundred and Ninety-Six, and Sections Seven and Eight of Act Numbered Twenty-Two Hundred and Fifty-Nine",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2137",
+   "en": "An Act to Convert the Bucay High School into a Rural High School to be Known as the Bucay High School, Authorizing the Appropriation of Funds Therefor, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9990",
+   "en": "An Act Increasing the Bed Capacity of the Sinait District Hospital in Sinait, Ilocos Sur From Twenty-Five (25) Beds to One Hundred (100) Beds and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3885",
+   "en": "An Act Granting Jesus B. Arevalo a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipality of San Fernando, Province of Masbate",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H10142",
+   "en": "An Act Reapportioning the Province of Agusan Del Norte into the Lone Legislative District of the City of Butuan and the Legislative District of the Province of Agusan Del Norte",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2348",
+   "en": "An Act Nationalizing the Medical and Dental Services of the Bureau of Public Schools, Department of Education, and Authorizing the Appropriation of the Necessary Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2627",
+   "en": "An Act Authorizing the Printing and Issue of Semi-Postal Stamps to Raise Funds to be Used for the Jose Rizal Centennial Celebration and Appropriating the Necessary Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2878",
+   "en": "An Act Providing for the Establishment of a School of Fisheries in the Municipality of Talisay, Province of Negros Occidental, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7363",
+   "en": "An Act Establishing a National High School At Marag Valley, Province of Apayao to Be Known as the Marag Valley Agricultural and Trade High School and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H1632",
+   "en": "An Act to Provide for the Sale of Lands Owned by the Government Located at the Municipality of Montalban, Province of Rizal, to Bona Fide Occupants Thereof, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4759",
+   "en": "An Act Amending Section Four of Republic Act Numbered Fifty-Four Hundred and Thirty-Five as Amended By Republic Act Numbered Sixty Hundred and Seventy-Six, and for Other Purposes.",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7764",
+   "en": "An Act Converting the Isaac Lopez Elementary School in Mandaluyong City into an Integrated School to be known as the Isaac Lopez Integrated School and appropriating funds therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7920",
+   "en": "An Act to Establish an Oyster, Mussel, Crab, Prawn and Shrimp Farm in the Municipality of Calabanga, Province of Camarines Sur, appropriating funds therefor and for other purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H9290",
+   "en": "An Act Converting the Hulo Elementary School in Barangay Hulo, City of Mandaluyong Into An Integrated School to Be Known as Hulo Integrated School and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2036",
+   "en": "An Act Providing for the Maintenance and Operation of a General Hospital in Ormoc City to be Known as the Ormoc General Hospital and Authorizing the Appropriation of Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H2138",
+   "en": "An Act to Convert the Pilar High School into a Rural High School to be Known as the Pilar Rural High School, Authorizing the Appropriation of Funds Therefor, and for Other Purposes",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6875",
+   "en": "An Act Providing for the Conversion of the Guiuan Municipal High School Into a National High School to Be Known as the Guiuan National High School, and Appropriating Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6866",
+   "en": "An Act Creating the Canumay National High School in Valenzuela, Metro Manila, By Separating the Canumay Annex From the Valenzuela Municipal High School, and Providing Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H7192",
+   "en": "An Act Creating the Malinta National High School in Valenzuela, Metro Manila, By Separating the Malinta Annex Prom the Valenzuela Municipal High School, and Providing Funds Therefor",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H3078",
+   "en": "An Act Authorizing the Appropriation of Twenty Million Pesos for the Purchase of Essential Classroom Supplies for Free Distribution to Individual Pupils in the Public Primary Schools",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6106",
+   "en": "An Act Integrating Drug Prevention and Control in the Intermediate and Secondary Curricula As Well As in the Nonformal, Informal and Indigenous Learning Systems and For Other Purpose",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H4974",
+   "en": "An Act Establishing the Office of Register of Deeds in Naga City as Separate and Distinct From the Provincial Register of Camarines Sur, and Appropriating the Necessary Funds Therefor.",
+   "hint": "5 条"
+  },
+  {
+   "id": "PH-H6032",
+   "en": "An Act Exempting All Prizes and Awards Gained From Local and International Sports Tournaments and Competitions From the Payment of Income and Other Forms of Taxes and For Other Purposes",
+   "hint": "5 条"
+  }
+ ]
+}

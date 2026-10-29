@@ -1,5 +1,39 @@
 # 变更记录
 
+## 2026-10-29 · 工程文档与比赛材料分离（materials/）
+
+> 说明：本日期之前的条目记录的是当时路径（如 `solution/`、`deliverables/`），
+> 这些目录已于本次归并到 `materials/`，历史条目不回改。
+
+### 目录结构
+
+- **工程文档与比赛材料分离**：`docs/` 只保留工程文档（00–04 + `deploy/` 07–10 + `_archive-*`）；比赛材料集中到新建 `materials/`。
+- 文档迁移：`docs/05-演示视频脚本.md` → `materials/roadshow/`；`docs/06-项目申报书正文.md` → `materials/reports/`；
+  `docs/07-标题多语种规范.md` → `rules/SKILL-法规标题多语种规范.md`（跨语种标题上位规范，与中译/英译/越南语/印尼语 SKILL 互补、非重复；rules 权威契约 6 → 7 份）。
+- 交付物归并：`deliverables/01`–`04`、`06` docx 与 `附件2-项目申报书（填写稿）.docx` → `materials/reports/`；
+  `05-演示视频脚本.docx` → `materials/roadshow/`（与 md 同目录）；`附件2` 去掉历史编号 `07-`（原与 `docs/deploy/07` 撞号）；
+  `deliverables/_archive-2026-10-24/` → `materials/_archive-2026-10-24/`；`deliverables/` 删除。
+- 路演材料归并：`solution/` → `materials/roadshow/`（index.html、assets、tools、产品 Demo/说明书 md/docx/pdf）；
+  `solution/提交物/*.pdf` → `materials/submission/`（仅两份提交物）；`solution/` 删除。
+- 临时目录归档：`_audit/`、`_out/` → `_work/_archive-2026-10-29/`（不入库）；27 条移动记录见
+  `_work/_archive-2026-10-29/repo-org/move-manifest-2026-10-29.csv`，旧交付物索引见同目录 `superseded-indexes/`。
+- 新增 `materials/README.md`（材料总索引）与 `materials/roadshow/README.md`（由 `solution/README.md` 改写）。
+- `.gitignore`：归档规则 `deliverables/_archive-*/` → `materials/_archive-*/`；顶部跟踪说明同步。
+
+### 引用与索引
+
+- 更新 `README.md`、`docs/README.md`、`docs/00-目录结构与维护指南.md`、`docs/01`、`docs/02`、`docs/04`、
+  `docs/deploy/README.md`、`rules/README.md`、`rules/SKILL-条文入库与译文分离规范.md` 的路径与目录说明。
+- `materials/roadshow/tools/build_docx.py`：截图目录改为按脚本位置解析（`materials/roadshow/assets/shots/`），docstring 同步。
+- 路演文档中的 `../docs`、`../prototype`、`提交物/` 等相对链接按新层级修正；`docs/00` 的调整记录补充 2026-10-29 批次。
+
+### 验证
+
+- Markdown 相对链接检查：79 个 md、176 条相对链接，**活动目录 0 断链**；
+  `docs/_archive-2026-10-24/` 与 `rules/_archive-2026-10-25/` 历史归档内 11 条旧链接保持原样（归档冻结，不作修改）。
+- `python -m py_compile materials/roadshow/tools/build_docx.py materials/roadshow/tools/md2docx.py` 通过；`index.html` 资源引用仍为相对路径。
+- 未改 `prototype/`、`backend/` 的代码与数据；未提交、未推送。
+
 ## 2026-10-29 · 新法规/译文/标题入库（42,120 部）与检索页修复
 
 - **法规**：新增 23,335 部，法规总数 18,785 → **42,120**，条文 335,689 → **564,127**，

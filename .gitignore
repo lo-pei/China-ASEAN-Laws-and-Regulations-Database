@@ -1,17 +1,20 @@
 # ==========================================================================
 # 中国—东盟法律法规数据库（CALR）· 仓库只收录可交付内容
 #
-# 跟踪：README.md、docs/、deliverables/、prototype/、backend/（代码）、
-#       rules/、tools/、.github/、docker-compose.yml
-# 不跟踪：_work/（本地工作区）、_out/（部署打包产物）、backend/data/（数据库与向量）
+# 跟踪：README.md、CHANGELOG.md、docs/、materials/、prototype/、backend/（代码）、
+#       rules/、tools/、.github/、docker-compose.yml、_work/（脚本/批次/台账/报告）
+# 不跟踪：_work/models/（bge-m3 权重约 2.18 GB）、backend/data/（数据库与向量）、
+#         _out/（已归档进 _work）
 #
 # 注意：本文件采用「显式排除」而非「默认忽略一切 + 白名单」。
 #       新增顶层目录/文件会以 untracked 形式出现在 git status（可见、可审查），
 #       不会被静默吞掉；大目录靠下面的显式规则挡住。
 # ==========================================================================
 
-# --- 本地工作区与生成物（体积大，永不入库）---
-_work/
+# --- 本地工作区与生成物（模型/数据库/向量体积大，不入库）---
+_work/models/
+_work/**/*.parts/
+_work/**/*.ckpt
 _out/
 _audit/
 .workbuddy/
@@ -21,7 +24,7 @@ backend/data/*
 
 # --- 历史归档（仅本地保留；rules/_archive-* 例外：为保住唯一 tracked 副本而入库）---
 docs/_archive-*/
-deliverables/_archive-*/
+materials/_archive-*/
 
 # --- Python 缓存与构建产物 ---
 __pycache__/

@@ -4,7 +4,7 @@
 > 任何 agent 在向本库补充法规条文、条约条文或大模型译文之前，必须先完整阅读本文件，
 > 并在交付前运行 `tools/verify-data.js` 自检通过。
 >
-> - 版本：v2.0（替代 `docs/06-全文数据规范.md` v1.0，v1.0 仅覆盖法域层，本文件覆盖全部四层）
+> - 版本：v2.0（替代 `docs/_archive-2026-10-24/06-全文数据规范.md` v1.0，v1.0 仅覆盖法域层，本文件覆盖全部四层）
 > - 建立日期：2026-10-06
 > - 适用对象：条文抓取 agent、翻译 agent、数据治理 agent
 > - 本项目的加载代码：`prototype/assets/js/core/fulltext.js`
@@ -96,15 +96,15 @@ node tools/test-trans-layer.js     # 译文层机制自测（当前显示「全�
 
 完整名单（含国家、公布日期、施行日期、修改日期、制定机关、法律层级、有效性、官方链接）：
 
-- **`docs/11-无本地原文清单.md`** — 可读的 Markdown 表格（按法规/修正案/条约分组）
-- **`deliverables/无本地原文清单.csv`** — 18 列完整字段，可直接用于任务分派
+- **`docs/_archive-2026-10-24/11-无本地原文清单.md`** — 可读的 Markdown 表格（按法规/修正案/条约分组）
+- **`materials/_archive-2026-10-24/无本地原文清单.csv`** — 18 列完整字段，可直接用于任务分派
 
 > 这两个文件是**自动生成**的，由 `_work/build-no-fulltext-inventory.js` 从数据层实时导出。
 > **不要手工编辑**；补入条文后重新运行该脚本即可。
 
 按法域分布：柬埔寨 **3,706** / 老挝 295 / 泰国 186 / 东帝汶 48 / 越南 39 / 马来西亚 39 / 缅甸 31 / 印度尼西亚 26 / 文莱 23 / 多边条约 18 / 新加坡 7。
 
-> 权威层副本：`prototype/data/laws/无本地原文清单.csv`（**无 BOM**）；交付副本 `deliverables/无本地原文清单.csv`（**带 BOM，便于 Excel 打开**，两者内容一致）。
+> 权威层副本：`prototype/data/laws/无本地原文清单.csv`（**无 BOM**）；交付副本 `materials/_archive-2026-10-24/无本地原文清单.csv`（**带 BOM，便于 Excel 打开**；本地归档，不入 git，两者内容一致）。
 
 ---
 
@@ -819,7 +819,7 @@ CALR.fulltext.transStats()                // → { packs, laws, articles, langs 
 ### 7.1 抓取官方原文（补充 A/B/C 层）
 
 ```
-1. 从 docs/11-无本地原文清单.md 或 deliverables/无本地原文清单.csv 认领条目
+1. 从 docs/_archive-2026-10-24/11-无本地原文清单.md 或 materials/_archive-2026-10-24/无本地原文清单.csv 认领条目
 2. 访问该条目的官方来源（清单中的「官方链接」列）
 3. 逐字提取条文 → 按 §4.1 / §4.2 组装对象
 4. 判断应落在哪一层：
@@ -931,13 +931,13 @@ Phase 1 · 条文翻译（多 agent 并行）
 | `tools/templates/trans-pack.template.js` | **译文分卷模板**（复制后填写） |
 | `tools/test-trans-layer.js` | 译文层机制自测（验证分离存储与条号合并） |
 | `_work/build-no-fulltext-inventory.js` | 生成无本地原文清单 |
-| `docs/11-无本地原文清单.md` | 无原文条目可读清单（自动生成） |
-| `deliverables/无本地原文清单.csv` | 无原文条目 18 列明细（自动生成） |
+| `docs/_archive-2026-10-24/11-无本地原文清单.md` | 无原文条目可读清单（自动生成） |
+| `materials/_archive-2026-10-24/无本地原文清单.csv` | 无原文条目 18 列明细（自动生成） |
 | `prototype/assets/js/core/fulltext.js` | 条文与译文的加载实现 |
 | `prototype/data/fulltext/manifest.js` | A 层索引 |
 | `prototype/data/intl/manifest.js` | C 层索引 |
 | `prototype/data/trans/manifest.js` | D 层（译文）索引 |
-| `docs/06-全文数据规范.md` | v1.0 旧规范（仅覆盖 A 层，已被本文件取代） |
+| `docs/_archive-2026-10-24/06-全文数据规范.md` | v1.0 旧规范（仅覆盖 A 层，已被本文件取代） |
 
 ---
 

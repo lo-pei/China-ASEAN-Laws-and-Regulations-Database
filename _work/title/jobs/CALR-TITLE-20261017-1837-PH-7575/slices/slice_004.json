@@ -1,0 +1,956 @@
+{
+ "jobId": "CALR-TITLE-20261017-1837-PH-7575",
+ "shard": 4,
+ "items": [
+  {
+   "id": "PH-H7123",
+   "en": "An Act Granting the Plaridel Service Cooperative a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipality of Plaridel, Province of Misamis Occidental",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7186",
+   "en": "An Act Granting the North Camarines Telephone Co., Inc. a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipality of Daet, Province of Camarines Norte",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H4502",
+   "en": "An Act Converting the Present Pangasinan Normal School Into the Central Luzon Teachers College, Providing for a Board of Trustees, Defining the Board's Responsibilities and Duties, and for Other Purposes",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7049",
+   "en": "An Act Granting the Continental Telecommunications System, Inc., a Franchise to Construct, Install, Maintain, Establish and Operate Local Exchange Network in the Provinces of Batangas, Laguna, and Masbate",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7067",
+   "en": "An Act Granting the Trento Telephone System, Incorporated a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipality of Trento, Province of Agusan Del Sur",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H6923",
+   "en": "An Act Granting the Marbel Telephone System, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Provinces of South Cotabato, Sultan Kudarat, and Sarangani",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H6815",
+   "en": "An Act Granting the Victorias Telephone System, Inc., A Franchise To Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipality of Victorias, Province of Negros Occidental",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7147",
+   "en": "An Act Granting the Radio Communications of the Philippines, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Wire And/or Wireless Telecommunications Systems Throughout the Philippines",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H9794",
+   "en": "An Act Ensuring the Continuous and Uninterrupted Transmission and Distribution of Electricity and the Protection of the Integrity and Reliability of Power Lines, and Providing Penalties for Violations Thereof",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7589",
+   "en": "An Act Granting the Weblink Multivision, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Province of Zamboanga Del Sur and Pagadian City",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7144",
+   "en": "An Act Granting the Bongao Nationwide Telephone System, Incorporated a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipality of Bongao, Province of Tawi-Tawi",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H6827",
+   "en": "An Act Granting the Butuan City Telephone Co., Inc., A Franchise To Construct, Establish, Install, Maintain and Operate Local Exchange Network in Butuan City and the Provinces of Agusan Del Sur and Agusan Del Norte",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7127",
+   "en": "An Act Granting the Transpacific Broadcast Group International, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Communications Systems for the Reception and Transmission of Messages Within the Philippines",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7174",
+   "en": "An Act Granting the Panay Telephone Corporation a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Provinces of Aklan and Antique and in the Municipality of Janiuay, Province of Iloilo",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H6924",
+   "en": "An Act Granting the Southern Telecommunications Company, Inc., a Franchise to Construct, Install, Maintain, Establish and Operate Local Exchange Network in the City of Cagayan De Oro and in the Provinces of Bukidnon, Cebu and Albay",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H3745",
+   "en": "An Act to Amend Republic Act Numbered Three Thousand Five Hundred Eighty-Eight, Providing for a Procedure for Validating the Permanent Registration of Voters Approved by Election Registrars and to Provide for Registration Boards, and for Other Purposes",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7076",
+   "en": "An Act Granting the Radio City Telephone Company, Inc., (Racitelco) a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipalities of Meycauayan, Sta. Maria, Marilao, Bocaue, and Abangan, Province of Bulacan",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7047",
+   "en": "An Act Granting the Southern Iloilo Telephone Company, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipalities of Miag-Ao, San Joaquin, Igbaras, Tubungan, Guimbal and Tigbauan, Province of Iloilo",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7592",
+   "en": "An Act Granting the Zenith Telecommunications Company, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Radio Communications Stations for the Transmission and Reception of Radio Telephone Communications Within and Outside the Philippines",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7035",
+   "en": "An Act Granting the Northern Telephone Company, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipalities of Agoo, Rosario, Aringay, Bauang, Naguilian, Tubao, Sto. Tomas, and Caba, Province of La Union",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7783",
+   "en": "An act granting the Claveria Agri-Based Multipurpose Cooperative (CABMPC) a franchise to construct, establish, install, maintain and operate local exchange network in the Municipalities of Claveria, Sta. Praxedes and Sanches Mira, all in the Province of Cagayan",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H6823",
+   "en": "An Act Granting the Rc Yulo Telephone System, Inc., A Franchise To Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipalities of Binalbagan, Hinigiran, Pontevedra, Murcia, Himamaylan, and Isabela, Province of Negros Occidental",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H8140",
+   "en": "An Act Granting the Panay Telephone Corporation (Pantelco III) a Franchise to Construct, Install, Establish, Operate and Maintain Local Exchange Network in the Municipalities of Cabatuan,.Janiuay, Calinog, Lambunao, Mina and Badiangan, All in the Prvince of Iloilo.",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H6816",
+   "en": "An Act Granting the San Carlos Telephone Company, Inc., A Franchise To Construct, Establish, Install, Maintain and Operate Local Exchange Network in the City of San Carlos and Municipalities of Malasiqui, Bayambang, Bautista, Alcala, and Basista, Province of Pangasinan",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7636",
+   "en": "An act granting the Seagull Marine Communication Network Corp. a Franchise to construct, install, establish, operate and maintain public radiotelephone coastal stations for the transmission and reception of radiotelephone communications within and outside the Philippines",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7080",
+   "en": "An Act Granting the Western Batangas Telephone System, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipalities of Balayan, Nasugbu, Lemery, Lian, Taal, Calatagan, Calaca, Agoncillo, San Luis, San Nicolas, Tuy, Province of Batangas",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H164",
+   "en": "An Act Providing for a Bill of Rights for Officers and Enlisted Men of the Philippine Army and of Recognized or Deserving Guerrilla Organizations, and Veterans of the Philippine Revolutions, Creating Therefor a Philippine Veterans Board in the Department of National Defense, and for other purposes",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H6825",
+   "en": "An Act Granting the Telecommunications Management and Services, Inc., A Franchise To Construct, Install, Maintain, Establish and Operate Local Exchange Network in the Provinces of Misamis Occidental, Lanao Del Norte, Siquijor, and in the City of Toledo and Municipality of Balamban, Province of Cebu",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H6756",
+   "en": "An Act Granting the Message Systems, Inc., A Franchise To Construct, Establish, Install, Maintain and Operate Commercial Mobile And/Fixed Wireless Telecommunications Systems and Satellite Terminal Station/S For Telecommunications With Satellite Facilities and Delivery To Common Carriers in the Philippines",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10102",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Mati Telephone Corporation Under Republic Act No.8675, Entitled \"An Act Granting the Mati Telephone Corporation a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Province of Davao Oriental\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10103",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Odiongan Telephone Corporation Under Republic Act No. 8956, Entitled \"An Act Granting the Odiongan Telephone Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Local Exchange Network in the Province of Romblon\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7675",
+   "en": "An Act Granting the Manila Electric Company a Franchise to Construct, Operate and Maintain a Distribution System for the Conveyance of Electric Power to the End-Users in the Cities/municipalities of Metro Manila, Bulacan, Cavite and Rizal, and Certain Cities/municipalities/barangays in Batangas, Laguna, Quezon and Pampanga",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H9448",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years of Franchise Granted to Beta Broadcasting System, Inc., Under Republic Act No. 8026, Entitled: \"An Act Granting the Beta Broadcasting System Corporation a Franchise to Construct , Operate and Maintain Radio Broadcasting Stations in the Island of Luzon, and for Other Purposes\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7106",
+   "en": "An Act Granting the General Telephone System, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Provinces of Quezon, Batangas and Laguna; Municipalities of Pasacao, Libmanan and Cabusao, Province of Camarines Sur; and the Municipality of Paracale, Province of Camarines Norte",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10186",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Sultan Kudarat Telephone System, Inc. Under Republic Act No. 8637, Entitled \"An Act Granting the Sultan Kudarat Telephone System, Inc. a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Province of Sultan Kudarat\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10107",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Bicol Telephone and Telegraph, Inc. Under Republic Act No. 8342, Entitled \"An Act Granting the Bicol Telephone and Telegraph, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Provinces of Albay and Sorsogon\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10258",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Lukban Telephone System, Inc., Under Republic Act No. 8564, Entitled \"An Act Granting the Lukban Telephone System, Inc., a Franchise to Construct, Install, Maintain, Establish and Operate Local Exchange Network in the Municipality of Lukban, Province of Quezon\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H2685",
+   "en": "An Act Amending Certain Sections of Republic Act Numbered One Thousand Seven Hundred Eighty-Nine, Entitled “An Act Prescribing the National Policy in the Procurement and Utilization of Reparations and Development Loans from Japan, Creating a Reparations Commission to Implement the Policy, Providing Funds Therefor, and for Other Purposes”",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H9445",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Subic Broadcasting Corporation Under Republic Act No. 7511, Entitled: \"An Act Granting the Subic Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines and for Other Purposes\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H9799",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Solidnorth Broadcasting System, Inc. Under Republic Act No. 8089, Entitled “An Act Granting the Solidnorth Broadcasting System a Franchise to Construct, Establish, Operate and Maintain Commercial Radio Broadcasting Stations in the Philippines, and for Other Purposes”",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10093",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Iriga Telephone Company, Inc. Under Republic Act No. 8962, Entitled \"An Act Granting the Iriga telephone Company, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Local Exchange Network in the Province of Camarines Sur and All the Cities Therein\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10185",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Independent Telephone Company, Inc. Under Republic Act No. 8615, Entitled \"An Act Granting the Independent Telephone Company Inc, a Franchise to Construct, Establish, Install, Maintain and Operate a Local Exchange Network in the Municipality of Biñan. Province of Laguna\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7160",
+   "en": "An Act Granting the Santos Telephone Corporation, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipalities of Calauag, Lopez, Tagkawayan, Guinayangan, Province of Quezon; the Municipality T of Sta. Elena, Province of Camarines Norte; and the Municipality of Majayjay, Province of Laguna",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H9946",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Tandag Electric and Telephone Company, Inc. Under Republic Act No. 8715, Entitled \"An Act Granting the Tandag Electric and Telephone Company, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Province of Surigao Del Sur\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10229",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Victorias Telephone System, Inc. Under Republic Act No. 8340, Entitled \"An Act Granting the Victorias Telephone System, Inc.A Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipality of Victorias, Province of Negros Occidental\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H6957",
+   "en": "An Act Granting the Camiguin Telephone Cooperative a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in Camiguin Island, and in Some Areas of Misamis Oriental Particularly the Municipalities of Balingasag, Lagonglong, Salay, Binuangan, Kinoguitan, Sugbongcogon, Balingoan, Talisayan, Medina, Magsaysay, and Gingoog City",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10105",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Marbel Telephone System, Inc. (MTSI) Under Republic Act No. 8449, Entitled \"An Act Granting the Marbel Telephone System, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Provinces of South-Cotabato, Sultan Kudarat, and * Sarangani\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10259",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Continental Telecommunications System Inc., Under the Republic Act No. 8579, Entitled \"an Act Granting the Continental Telecommunications System, Inc., a Franchise to Construct, Install, Maintain, Establish and Operate Local Exchange Network in the Provinces of Batangas, Laguna, and Masbate\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7146",
+   "en": "An Act Granting the Western Misamis Oriental Telephone Cooperative, Inc. (Wemortelco) a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipalities of Claveria, Jasaan, Villanueva, Tagoloan, Alubijid, El Salvador, Gitagum, Initao, Laguindingan, Libertad, Lugait, Manticao, Naawan and Opol, Province of Misamis Oriental",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H7190",
+   "en": "An Act Granting the Eastern Misamis Oriental Telephone Cooperative (EMORTELCO) a Franchise to Construct, Establish, Install, Maintain, and Operate Local Exchange Network in the Cities of Cagayan De Oro and Gingoog, and Municipalities of Magsaysay, Talisayan, Balingoan, Medina, Kinogitan, Sugbongcogon, Binuangan, Salay, Lagonglong, and Balingasag, Province of Misamis Oriental",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10202",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Calapan Telephone System, Inc., Formerly Known as the Calapan Telephone System, Inc., Under Republic Act No. 8351, Entitled \"An Act Granting the Calapan Telephone System, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Province of Oriental Mindoro\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H9419",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Sarraga Integrated and Management Corporation Under Republic Act No. 7478, Entitled: \"An Act Granting the Sarraga Integrated and Management Corporation a Franchise to Construct, Install, Operate and Maintain for Commercial Purposes Radio and Television Broadcasting Stations in the Philippines, and for Other Purposes\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10639",
+   "en": "An Act Enhancing the Fiscal Regime for the Large-scale Metallic Mining Industry, Amending for the Purpose Sections 34(B), 287, and the Subjects of Title VI and Chapter VII Thereof, and Creating New Sections 151-a, 151-b, 151-c, 151-d, and 287-a, All Under Republic Act No. 8424, Otherwise Known as the National Internal Revenue Code of 1997, as Amended, Appropriating Funds Therefor, and for Other Purposes",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10104",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to R.C. Yulo Telephone System, Inc. Under Republic Act No, 8348, Entitled \"An Act Granting the Rc Yulo Telephone System, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipalities of Binalbagan, Hinigaran Pontevedra, Murcia, Himamaylan, and Isabela, Province of -Negros Occidental\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H9446",
+   "en": "An Act Renewing for Another Twety-Five (25) Years the Franchise Granted to Filipinas Broadcasting Association, Inc., Presently Known as Word Broadcasting Corporation, Under Republic Act No. 7485, Entitled: An Act Granting the Filipinas Broadcasting Association, Inc., a Franchise to Construct, Operate and Maintain for Commercial Purposes Radio Broadcasting and Television Stations in the Visayas and Mindanao and for Other Purposes\"",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H4073",
+   "en": "An Act Converting the Pablo Borbon Memorial School of Arts and Trades into the Pablo Borbon Memorial Institute of Technology Giving it Corporate Existence, Providing for a Board of Trustees, Defining the Board's Responsibilities and Duties, Providing Higher Vocational, Professional, Technical and Technological Instruction and Training in Trade and Industrial Education, Offering of Technological and Engineering Courses, and for Other Purposes",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10201",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Panay Telephone Corporation Under Republic Act No.8704, Entitled \"An Act Granting the Panay Telephone Corporation, Inc. a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Provinces of Aklan and Antique and in the Municipality of Janiuay, Province of Iloilo\", Limiting the Area of Operation to the Provinces of Aklan and Antique",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H5429",
+   "en": "An Act Creating the Cooperative Development Authority to Promote the Viability and Growth of Cooperatives as Instruments of Equity, Social Justice and Economic Development, Defining its Powers, Functions and Responsibilities, Rationalizing Government Policies and Agencies with Cooperative Functions, Supporting Cooperative Development, Transferring the Registration and Regulation Functions of Existing Government Agencies on Cooperatives as Such and Consolidating the Same with the Authority, Appropriating Funds Therefor, and for Other Purposes",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H10264",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to General Telephone System, Inc. Under Republic Act No. 8636, Entitled \"An Act Granting the General Telephone System, Inc. a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Provinces of Quezon, Batangas and Laguna; Municipalities of Pasacao, Libmanan and Cabusao, Province of Camarines Sur; and the Municipality of Paracale, Province of Camarines Norte\", and Expanding Its Coverage to the Entire Provinces of Camarines Norte and Camarines Sur",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H9779",
+   "en": "An Act Increasing the Excise Tax on Tobacco Products, Imposing Excise Tax on Heated Tobacco Products and Vapor Products, Increasing the Penalties for Violations of Provisions on Articles Subject to Excise Tax, and Earmarking a Portion of the Total Excise Tax Collection from Sugar-Sweetened Beverages, Alcohol, Tobacco, Heated Tobacco and Vapor Products for Universal Health Care, Amending for this Purpose Sections 144, 145, 146, 147, 152, 164, 260, 262, 263, 265, 288, and 289, Repealing Section 288(B) and 288(C), and Creating New Sections 263-A, 265-B, and 288-A of the National Internal Revenue Code of 1997, as Amended by Republic Act No. 10963, and for Other Purposes",
+   "hint": "20 条"
+  },
+  {
+   "id": "PH-H5658",
+   "en": "Organ Donation Act of 1991",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7752",
+   "en": "Newborn Screening Act of 2004",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H3296",
+   "en": "Private Development Bank's Act",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H1823",
+   "en": "An Act to Promote Rice and Corn Production",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H5039",
+   "en": "An Act Preventing and Penalizing Carnapping",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H10326",
+   "en": "Ecological Solid Waste Management Act of 2000",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H8983",
+   "en": "National Electrification Administration Decree",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H3539",
+   "en": "An Act Establishing the Tarlac College of Technology",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H4647",
+   "en": "An Act to Institute a Charter for Barrio High Schools",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H2102",
+   "en": "An Act Granting Autonomy to Barrios of the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H5225",
+   "en": "Government Assistance to Students and Teachers in Private Education Act.",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H8600",
+   "en": "An Act Establishing The Philippine Tax Academy, Defining Its Powers and Functions",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H10453",
+   "en": "An Act Declaring the Maritime Zones Under the Jurisdiction of the Republic of the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9070",
+   "en": "An Act Establishing Rural Farm Schools as Alternative Delivery Mode of Secondary Education and Appropriating Funds Therefor",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H4690",
+   "en": "An Act Granting Enrique M. Reyes a Franchise to Install, Maintain and Operate a Telephone System in the Province of Davao Del Sur",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H2920",
+   "en": "An Act Granting the Leyte Telephone Company a Franchise to Install, Operate and Maintain a Telephone System in the Province of Leyte",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H8167",
+   "en": "An Act Establishing a Universal Newborn Hearing Screening Program for the Prevention, Early Diagnosis and Intervention of Hearing Loss",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7027",
+   "en": "An Act Establishing the Philippine Judicial Academy, Defining Its Powers and Functions, Appropriating Funds Therefor, and for other purposes",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H8111",
+   "en": "An Act Establishing Reforms in the Regulation of Rent of Certain Residential Units, Providing the Mechanisms therefor and for Other Purposes",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9843",
+   "en": "An Act Granting the MAGNUM.AIR(SKYJET) Inc. a Franchise to Establish, Operate and Maintain Domestic and International Air Transport Services",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H5784",
+   "en": "An Act Granting Davao Agritech, Inc., a Franchise to Establish, Operate and Maintain Domestic Air Spraying Services With Davao as Its Major Hub",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9216",
+   "en": "An Act Establishing a Comprehensive Philippine Plan of Action to Eliminate Tuberculosis as a Public Health Problem and Appropriating Fund Therefor",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9221",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Eagle Broadcasting Corporation as Provided Under Republic Act No. 7299",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H4589",
+   "en": "An Act Granting Kalibo Electric Co, a Franchise to Install, Operate and Maintain a Telephone System in the Municipality of Kalibo, Province of Aklan",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H1409",
+   "en": "An Act to Amend and Repeal Certain Sections of Republic Act Numbered Five Hundred Thirty-Seven, Otherwise Known as the Revised Charter of Quezon City",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H6389",
+   "en": "An Act Granting a Franchise to Pacific Airways Corporation to Establish and Maintain Rural Air Transport System and Allied Services in the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7075",
+   "en": "An Act Granting the Atlocom Wireless System, Inc., a Franchise to Install, Operate and Maintain a Commercial Cable Television System in the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9349",
+   "en": "An Act Granting the Pilipinas Asian Pearl Airways, Inc. a Franchise to Establish, Operate and Maintain Domestic and International Air Transport Services",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H6814",
+   "en": "An Act Granting Air Philippines Corporation (Air Philippines), A Franchise To Establish, Operate and Maintain Domestic and International Air Transport Services",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7175",
+   "en": "An Act Granting the Maasin Cable Television a Franchise to Install, Operate and Maintain a Commercial Cable Television System in the Province of Southern Leyte",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H6692",
+   "en": "An Act Granting Mr. Amado L. Ola a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H6440",
+   "en": "An Act Granting to Cruz Telephone Company, Inc. (CRUZTELCO), a Franchise to Install, Operate, and Maintain a Telecommunications Systems Throughout the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7053",
+   "en": "An Act Granting the Grand International Airways, Inc. (Grand Air), a Franchise to Establish, Operate and Maintain Domestic and International Air Transport Services",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H999",
+   "en": "An Act to Provide for Emergency Assistance to the Gold Mining Industry of the Philippines, to Authorize the Appropriation of Funds Therefor, and for Other Purposes",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H6696",
+   "en": "An Act Granting Capricom Production and Management, a Franchise to Construct, Install, Establish, Operate and Maintain Radio Broadcasting Stations in the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H3065",
+   "en": "An Act Granting the Dumlao Enterprises Co., Inc. a Franchise to Install, Operate and Maintain a Telephone System in the Municipality of Laoag, Province of Ilocos Norte",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7848",
+   "en": "An Act Granting the Itransmission Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7122",
+   "en": "An Act Granting Skytel Philippines, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Radio Paging System in the Philippines, and for Other Purposes",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H4706",
+   "en": "An Act Granting the Premiere Automatic Telephone Network a Franchise to Install, Operate and Maintain a Telephone System in the City of Tagbilaran and the Province of Bohol.",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H6821",
+   "en": "An Act Granting Kloche Communications, Inc., A Franchise To Construct, Establish, Install, Maintain and Operate Radio Paging System in the Philippines, and For Other Purposes",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H3995",
+   "en": "An Act Granting the Cagayan Valley Utilities Corporation a Franchise to Install, Operate and Maintain a Telephone System in the Provinces of Cagayan, Isabela and Nueva Vizcaya",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7459",
+   "en": "An Act to Establish the Batanes Group of Islands and Islets as a Protected Area, and Its Peripheral Waters as Buffer Zones, Providing for Its Management and for Other Purposes",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9725",
+   "en": "An Act Establishing and Institutionalizing the Seal of Good Local Governance for Local Government Units, and Allocating for This Purpose the Seal of Good Local Governance Fund",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7939",
+   "en": "An Act Granting the Free Air Broadcasting Network Corp. a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations Nationwide",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9238",
+   "en": "An Act Amending the Franchise of Aliw Broadcasting Corporation and Renewing/extending the Term Thereof to Another Twenty-Five (25) Years That Shall Take Effect on April 13, 2017",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9972",
+   "en": "An Act Granting the Highland Broadcasting Network Corp. a Franchise to Construct, Install, Establish, Operate, and Maintain Radio and Television Broadcasting Stations in Mindanao",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9845",
+   "en": "An Act Granting the Golden Nation Network Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations Within the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H6680",
+   "en": "An Act Granting Romeo Cabrestante Servando, a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Province of Palawan",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9333",
+   "en": "An Act Granting the Makinig Network, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Radio And/or Television Broadcasting Stations Throughout the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H6173",
+   "en": "An Act Granting to Bell Telecommunication Philippines, Inc., a Franchise to Install, Operate and Maintain Telecommunications Systems Throughout the Philippines and for Other Purposes",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H5790",
+   "en": "An Act Granting House of Travel, Incorporated, a Franchise to Establish, Operate and Maintain Domestic Passengers and Cargo Air Chartered Transport Services With Davao as Its Major Hub",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9638",
+   "en": "An Act Granting the Malindang Broadcasting Network Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in Mindanao",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7583",
+   "en": "An Act Granting the Community Media Network, Incorporated, a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9352",
+   "en": "An Act Granting the Pilipinas Radio Waves Corp. a Franchise to Construct, Install, Establish, Operate and Maintain Radio And/or Television Broadcasting Stations Throughout the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7079",
+   "en": "An Act Granting the Kabasalan Satellite Cable Television System, Inc., a Franchise to Install, Operate and Maintain a Commercial Cable Television System in the Province of Zamboanga Del Sur",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9347",
+   "en": "An Act Granting Veritas Media Arts Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Province of Bohol and the Visayas",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H6673",
+   "en": "An Act Granting the Destiny Cable, Inc., a Franchise to Establish, Construct, Install, Maintain and Operate for Commercial Purposes Cable/Community Antennae Television Systems in the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H8985",
+   "en": "An Act Enhancing the Philippine Basic Education System By Strengthening its Curriculum and Increasing the Number of Years for Basic Education, Appropriating Funds Therefor and for Other Purposes",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7699",
+   "en": "An Act Granting the Asian Multimedia &amp; Production Company, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9852",
+   "en": "An Act Granting the Cadiz Radio and Television Network, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Western Visayas Area",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7569",
+   "en": "An Act Granting the Tupi Telephone Cooperative, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Local Exchange Network in the Municipality of Tupi, Province of South Cotabato",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H5887",
+   "en": "An Act Further Amending Republic Act Numbered Three Thousand Five Hundred Ninety-one, As Amended, Otherwise Known As the Charter of the Philippine Deposit Insurance Corporation, and For Other Purposes",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9687",
+   "en": "An Act Granting Northeastern Broadcasting Services, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in Isabela Province and Region II",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9353",
+   "en": "An Act Requiring All Franchise Holders or Operators of Television Stations and Producers of Television Programs to Broadcast or Present Their Programs With Closed Captions Option, and for Other Purposes",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H2906",
+   "en": "An Act Creating the National Cottage Industries Development Authority (NACIDA) Under the Department of Commerce and Industry, Prescribing its Duties, Powers and Functions, and Appropriating Funds Therefore",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H3080",
+   "en": "An Act Granting the Northern Luzon Telephone Company a Franchise to Install, Operate and Maintain a Telephone System in the Provinces of Ilocos Sur, La Union, Cagayan, Abra, Isabela, Nueva Vizcaya and Nueva Ecija",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H6675",
+   "en": "An Act Granting the News and Entertainment Network Corporation, a Franchise to Establish, Construct, Install, Maintain, and Operate for Commercial Purposes Cable/Community Antennae Television Systems in the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7832",
+   "en": "An Act Granting the Muslim Mindanao Radio and Television Network Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Province of Lanao Del Sur",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7113",
+   "en": "An Act Granting the Globe Email Philippines, Inc., a Franchise to Construct, Install, Establish, Maintain and Operate Radio Communications Stations for International and Domestic Shipto-Shore and Air to Ground Communications in the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7955",
+   "en": "An Act Declaring the Mimbilisan Watershed Located in the Municipalities of Balingoan and Talisayan, Province of Misamis Oriental as a Protected Area under the Category of Protected Landscape, Providing for its Management and for other purposes",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7846",
+   "en": "An Act Granting the Puerto Princesa Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the City of Puerto Princesa and all the Municipalities in the Province of Palawan",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H6753",
+   "en": "An Act Granting the Pacific Cable and Dtu Systems, Inc., A Franchise To Establish, Construct, Install, Operate and Maintain For Commercial Purposes Cable/Community Antennae Television Systems And/Or Direct To User Satellite Systems Throughout the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H7090",
+   "en": "An Act Granting the Direct Broadcast Satellite Phil., Inc., a Franchise to Establish, Construct, Install, Operate and Maintain for Commercial Purposes Cable/community Antennae Television Systems And/or Direct to Home Satellite Systems Throughout the Philippines",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H4760",
+   "en": "An Act Declaring a National Policy on the Petroleum Industry, Regulating the Activities and Relations of Persons and Entities Engaged Therein, Establishing An Oil Industry Commission to Effectuate the Same, and Defining Its Functions, Powers and Objectives, and for Other Purposes.",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9751",
+   "en": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to Insular Broadcasting System, Inc. Under Republic Act No. 7964, Entitled “An Act Granting the Insular Broadcasting System, Inc. a Franchise to Install, Operate and Maintain Broadcasting Stations in the Philippines”",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9789",
+   "en": "An Act Renewing for Another Twenty Five (25) Years the Franchise Granted to Beacon Communications Systems, Inc. Under Republic Act No. 8063, Entitled “An Act Granting the Beacon Communications Systems, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Commercial Radio Stations in the Philippines”",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9850",
+   "en": "An Act Renewing for Another Twenty Five (25) Years the Franchise Granted to RT Broadcast Specialist Phil. Inc. Under Republic Act No. 8126, Entitled “An Act Granting the R.T. Broadcast Specialist Philippines a Franchise to Construct, Establish, Operate and Maintain Radio and Television Broadcasting Stations in Mindanao”",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H3980",
+   "en": "An Act Granting to the Manila Electric Company a Franchise to Construct, Maintain, and Operate an Electric Light, Heat, and Power System for the Purpose of Generating and Distributing Electric Light, Heat, and Power, for Sale Within the Limits of the Municipalities of Bacoor and Imus, Province of Cavite, and for Other Purposes",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9937",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Metro Manila Turf Club, Inc. Under Republic Act No.7978, Entitled \"An Act Granting the Metro Manila Turf Club, Inc. a Franchise to Construct, Operate and Maintain a Race Track for Horse Racing in the City of Kalookan\", as Amended By Republic Act No.8298",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9772",
+   "en": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to Cebu Broadcasting Company Under Republic Act No. 7963, Entitled “An Act Granting the Cebu Broadcasting Company a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations Within the Philippines, and for Other Purposes”",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9554",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Manila Broadcasting Company Under Republic Act No. 7816, Entitled: An Act Granting the Manila Broadcasting Company a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations Within the Philippines. and for Other Purposes\"",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9555",
+   "en": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to Bright Star Broadcasting Network Corporation Under Republic Act No. 7295, Entitled \"An Act Granting the Bright Star Broadcasting Network Corporation a Franchise to Construct, Install, Operate and Maintain for Commercial Purpo Ses Radio and Television Broadcasting Stations in the Philippines and for Other Purposes\"",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H9750",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to the Andres Bonifacio College Broadcasting System, Inc. Under Republic Act No. 8120, Entitled “An Act Granting the Andres Bonifacio College Broadcasting System, Inc., a Franchise to Construct, Maintain, and Operate Radio Broadcasting Stations and Stations for Television in the Island of Mindanao for Educational, Cultural, and Commercial Purposes”",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H10110",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Air Philippines Corporation, Doing Business Under Name and Style of Airphil Express, Pal Express, and Philippine Airlines, Under Republic Act No. 8339, as Amended by Republic Act No. 9215, Entitled \"An Act Granting Air Philippines Corporation (Air Philippines) a Franchise to Establish, Operate and Maintain Domestic and International Air Transport Services\"",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H5093",
+   "en": "An Act Further Amending Certain Sections of Republic Act Numbered Five Thousand Eighty-Eight, Entitled \"An Act Converting Eulogio Rodriguez Vocational High School Into the Eulogio Rodriguez Memorial School of Arts and Trades\" and Amending Certain Sections of Republic Act Numbered Four Thousand Seventy-Two, Entitled \"An Act Providing for the Establishment of a Vocational Technical Department of the Eulogio Rodriguez Vocational High School in the City of Manila.\"",
+   "hint": "19 条"
+  },
+  {
+   "id": "PH-H10699",
+   "en": "PQF Act",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7946",
+   "en": "Anti-Red Tape Act of 2007",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H5591",
+   "en": "Iron and Steel Industry Act",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7481",
+   "en": "The Philippine Quality Award Act",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9952",
+   "en": "Anti-Money Laundering Act of 2001",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6768",
+   "en": "Higher Education Modernization Act of 1997",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9149",
+   "en": "sports Benefits and Incentives Act of 2001",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9724",
+   "en": "An Act Providing for a Magna Carta of the Poor",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H3097",
+   "en": "An Act to Establish the Philippine Science High School",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H5155",
+   "en": "Cordillera Regional Consultative Commission Act of 1988.",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7645",
+   "en": "Barangay Micro Business Enterprises (BMBE's) Act of 2002.",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H8984",
+   "en": "An Act Institutionalizing the Philippine National Health Research System",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6104",
+   "en": "An Act Establishing the Nueva Vizcaya Science High School in Bayombong, Nueva Vizcaya",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9264",
+   "en": "An Act Providing for the Development and Promotion of Farm Tourism in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9748",
+   "en": "An Act Establishing a Community-Based Monitoring System and Appropriating Funds Therefor",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H1996",
+   "en": "An Act to Promote Economic Development by Giving Incentives to Marginal and Sub-Marginal Industries",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9116",
+   "en": "An Act Establishing the Open High School System in the Philippines and Appropriating Funds Therefor",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7728",
+   "en": "Bureau of Fire Protection and Bureau of Jail Management and Penology Professionalization Act of 2004",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9480",
+   "en": "An Act Institutionalizing the Balik Scientist Program, Appropriating Funds Therefor, and for Other Purpose",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9484",
+   "en": "An Act Institutionalizing the Electric Cooperatives Emergency and Resiliency Fund and Appropriating Funds Therefor",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9673",
+   "en": "An Act Providing for the Special Protection of Child Passengers in Motor Vehicles and Appropriating Funds Therefor",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10119",
+   "en": "An Act Creating the Office of the Judiciary Marshals, Defining Its Powers and Functions, and Appropriating Funds Therefor",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7551",
+   "en": "An Act Establishing the Sta. Rosa Science and Technology High School in Sta. Rosa, Laguna and Appropriating Funds Therefor",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10136",
+   "en": "An Act Creating the Metropolitan Davao Development Authority, Defining Its Powers and Functions, and Providing Funds Therefor",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10511",
+   "en": "An Act Institutionalizing the Expanded Tertiary Education Equivalency and Accreditation Program and Appropriating Funds Therefor",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H4324",
+   "en": "An Act Amending Certain Sections of Republic Act Numbered Twenty-Two Hundred Thirty-Four, Known as the Charter of the City of Legazpi",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7650",
+   "en": "An Act Granting the Asian Spirit, Inc. a Franchise to Establish, Operate and Maintain Domestic and International Air Transport Services",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6399",
+   "en": "An Act Granting Legal Residence Status to Certain Aliens Through a Social Integration Program in the Philippines Under Certain Conditions",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H2881",
+   "en": "An Act Amending Certain Sections of Commonwealth Act Numbered Five Hundred Forty-Seven, Otherwise Known as the Charter of the City of Cavite",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9898",
+   "en": "An Act Modifying the Salary Schedule for Civilian Government Personnel and Authorizing the Grant of Additional Benefits, and for Other Purposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9968",
+   "en": "An Act Granting the City Government of Davao a Franchise to Construct, Install, Operate, and Maintain Radio Broadcasting Stations in Davao City",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6082",
+   "en": "An Act Providing Incentives To All Government and Private Health Institutions With Rooming-in and Breastfeeding Practices and For Other Purposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H5472",
+   "en": "An Act Strengthening the Social Amelioration Program in the Sugar Industry, Providing the Mechanics for its Implementation, and for Other Purposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7648",
+   "en": "An act Granting the Provincial Airways Corporation a Franchise to Establish, Operate and Maintain Domestic and International Air Transport Services",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10010",
+   "en": "An Act Granting Christian Music Power, Inc. a Franchise to Construct, Establish, Operate, and Maintain Radio Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7830",
+   "en": "An Act Granting the Mindanao Jockey and Country Club, Inc., a Franchise to Construct, Operate and Maintain a Racetrack for Horse Racing in Davao City",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H2734",
+   "en": "An Act Granting Pacifico Araullo of the City of Cabanatuan a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations in the Said City",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7571",
+   "en": "An Act Granting the Laoag International Airlines, Inc. a Franchise to Establish, Operate and Maintain Domestic and International Air Transport Services",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H5954",
+   "en": "An Act Establishing the National Economic Research and Business Assistance Center of the Philippines, Appropriating Funds Therefor, and for Other Purposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7210",
+   "en": "An Act Granting the Cagayan De Oro College a Franchise to Construct, Install, Establish, Operate and Maintain Radio Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H5980",
+   "en": "An Act Amending Pertinent Provisions of the National Internal Revenue Code, As Amended, Relative To the Final Withholding Tax on Purely Compensation Income",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H3322",
+   "en": "An Act to Further Amend Certain Sections of Act Numbered Thirty-Four Hundred and Twenty-Eight, Otherwise Known as the Workmen's Compensation Act, as Amended",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7173",
+   "en": "An Act Granting the Avila Broadcasting Network, Incorporated a Franchise to Construct, Install, Establish, Operate and Maintain Radio Stations in the Visayas",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H4163",
+   "en": "An Act Granting Bello M. Casanova a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations and Radio Stations for Domestic Telecommunications",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7155",
+   "en": "An Act Granting the Pec Broadcasting Corporation, a Franchise to Construct, Install, Establish, Operate and Maintain Radio Stations Anywhere in the Philippines",
+   "hint": "18 条"
+  }
+ ]
+}

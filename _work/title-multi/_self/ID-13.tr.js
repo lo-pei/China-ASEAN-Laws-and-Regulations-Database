@@ -1,0 +1,136 @@
+// self-ID-13 译文表：仅含五语译文，印尼语原题由 build.js 从 pending-ID.json 回填
+module.exports = {
+  'ID-H2701': {
+    zh: '糖精、环己基氨基磺酸盐及含酒精香料制剂的进口规定',
+    en: 'Provisions on the Import of Saccharin, Cyclamate and Alcohol-Containing Fragrance Preparations',
+    vi: 'Các quy định nhập khẩu saccharin, cyclamate và chế phẩm hương liệu có chứa cồn',
+    th: 'ข้อกำหนดการนำเข้าแซกคาริน ไซคลาเมต และผลิตภัณฑ์น้ำหอมที่มีแอลกอฮอล์',
+    ms: 'Ketentuan Import Sakarin dan Siklamat serta Preparat Bau-Bauan Mengandungi Alkohol'
+  },
+  'ID-H2836': {
+    zh: '亚齐2018年第5号地方条例《关于投资》',
+    en: 'Aceh Qanun No. 5 of 2018 on Investment',
+    vi: 'Qanun Aceh số 5 năm 2018 về Đầu tư',
+    th: 'กานุนอาเจะห์ฉบับที่ 5 ปี 2018 ว่าด้วยการลงทุน',
+    ms: 'Qanun Aceh No. 5 Tahun 2018 tentang Pelaburan'
+  },
+  'ID-H3100': {
+    zh: '废止2014年第79号贸易部长条例《关于贸易部国家公务员职业发展路径》',
+    en: 'Revocation of Minister of Trade Regulation No. 79/M-DAG/PER/10/2014 on the Career Pattern of Civil Servants of the Ministry of Trade',
+    vi: 'Việc bãi bỏ Quy định của Bộ trưởng Bộ Thương mại số 79/M-DAG/PER/10/2014 về mô hình phát triển nghề nghiệp của công chức nhà nước Bộ Thương mại',
+    th: 'การยกเลิกข้อบังคับรัฐมนตรีว่าการกระทรวงการค้าเลขที่ 79/M-DAG/PER/10/2014 ว่าด้วยเส้นทางอาชีพของข้าราชการพลเรือนกระทรวงการค้า',
+    ms: 'Pembatalan Peraturan Menteri Perdagangan No. 79/M-DAG/PER/10/2014 tentang Pola Kerjaya Pegawai Perkhidmatan Awam Kementerian Perdagangan'
+  },
+  'ID-H441': {
+    zh: '1983/1984财政年度国家预算决算',
+    en: 'State Budget Accountability Report for the 1983/1984 Fiscal Year',
+    vi: 'Quyết toán ngân sách nhà nước năm ngân sách 1983/1984',
+    th: 'รายงานการปิดบัญชีงบประมาณแผ่นดิน ปีงบประมาณ 1983/1984',
+    ms: 'Penyata Perhitungan Anggaran Negara Tahun Bajet 1983/1984'
+  },
+  'ID-H445': {
+    zh: '外商在出口贸易领域的投资活动',
+    en: 'Activities of Foreign Investment in the Export Trade Sector',
+    vi: 'Hoạt động đầu tư nước ngoài trong lĩnh vực thương mại xuất khẩu',
+    th: 'กิจกรรมการลงทุนต่างประเทศในด้านการค้าส่งออก',
+    ms: 'Aktiviti Pelaburan Asing dalam Bidang Perdagangan Eksport'
+  },
+  'ID-H548': {
+    zh: '1990/1991财政年度国家收支预算的追加与调整',
+    en: 'Supplementary and Amended State Budget for the 1990/1991 Fiscal Year',
+    vi: 'Bổ sung và điều chỉnh Ngân sách Nhà nước năm ngân sách 1990/1991',
+    th: 'การเพิ่มเติมและการแก้ไขงบประมาณรายรับรายจ่ายแผ่นดิน ปีงบประมาณ 1990/1991',
+    ms: 'Tambahan dan Pindaan Anggaran Pendapatan dan Belanja Negara Tahun Bajet 1990/1991'
+  },
+  'ID-H566': {
+    zh: '禁止投资的业务领域清单',
+    en: 'List of Business Fields Closed to Investment',
+    vi: 'Danh mục các lĩnh vực kinh doanh bị đóng đối với đầu tư',
+    th: 'รายการสาขาธุรกิจที่ปิดสำหรับการลงทุน',
+    ms: 'Senarai Bidang Usaha yang Tertutup bagi Pelaburan'
+  },
+  'ID-H588': {
+    zh: '在日惹、班达楠榜和占碑设立宗教高等法院',
+    en: 'Law No. 20 of 1992 on the Establishment of Religious High Courts in Yogyakarta, Bandar Lampung and Jambi',
+    vi: 'Luật số 20 năm 1992 về việc thành lập Tòa án Tôn giáo Cấp cao tại Yogyakarta, Bandar Lampung và Jambi',
+    th: 'พระราชบัญญัติเลขที่ 20 ปี 1992 ว่าด้วยการจัดตั้งศาลศาสนาสูงที่ยกยาการ์ตา บันดาร์ลัมปุง และจัมบี',
+    ms: 'Akta No. 20 Tahun 1992 tentang Penubuhan Mahkamah Tinggi Agama di Yogyakarta, di Bandar Lampung dan di Jambi'
+  },
+  'ID-H612': {
+    zh: '将大地银行法律形式调整为国家全资公司（Persero）',
+    en: 'Law No. 23 of 1992 on the Adjustment of the Legal Form of Bank Bumi Daya into a State-Owned Company (Persero)',
+    vi: 'Luật số 23 năm 1992 về việc điều chỉnh hình thức pháp lý của Ngân hàng Bumi Daya thành Công ty Nhà nước (Persero)',
+    th: 'พระราชบัญญัติเลขที่ 23 ปี 1992 ว่าด้วยการปรับรูปแบบทางกฎหมายของธนาคารบูมีดายาให้เป็นบริษัทของรัฐ (Persero)',
+    ms: 'Akta No. 23 Tahun 1992 tentang Penyesuaian Bentuk Undang-Undang Bank Bumi Daya menjadi Perusahaan Perseroan (Persero)'
+  },
+  'ID-H613': {
+    zh: '将国家商业银行法律形式调整为国家全资公司（Persero）',
+    en: 'Law No. 20 of 1992 on the Adjustment of the Legal Form of Bank Dagang Negara into a State-Owned Company (Persero)',
+    vi: 'Luật số 20 năm 1992 về việc điều chỉnh hình thức pháp lý của Ngân hàng Dagang Negara thành Công ty Nhà nước (Persero)',
+    th: 'พระราชบัญญัติเลขที่ 20 ปี 1992 ว่าด้วยการปรับรูปแบบทางกฎหมายของธนาคารดากังเนอการาให้เป็นบริษัทของรัฐ (Persero)',
+    ms: 'Akta No. 20 Tahun 1992 tentang Penyesuaian Bentuk Undang-Undang Bank Dagang Negara menjadi Perusahaan Perseroan (Persero)'
+  },
+  'ID-H615': {
+    zh: '将印度尼西亚国家银行1946法律形式调整为国家全资公司（Persero）',
+    en: 'Law No. 19 of 1992 on the Adjustment of the Legal Form of Bank Negara Indonesia 1946 into a State-Owned Company (Persero)',
+    vi: 'Luật số 19 năm 1992 về việc điều chỉnh hình thức pháp lý của Ngân hàng Negara Indonesia 1946 thành Công ty Nhà nước (Persero)',
+    th: 'พระราชบัญญัติเลขที่ 19 ปี 1992 ว่าด้วยการปรับรูปแบบทางกฎหมายของธนาคารเนอการาอินโดนีเซีย 1946 ให้เป็นบริษัทของรัฐ (Persero)',
+    ms: 'Akta No. 19 Tahun 1992 tentang Penyesuaian Bentuk Undang-Undang Bank Negara Indonesia 1946 menjadi Perusahaan Perseroan (Persero)'
+  },
+  'ID-H617': {
+    zh: '将印度尼西亚人民银行法律形式调整为国家全资公司（Persero）',
+    en: 'Law No. 21 of 1992 on the Adjustment of the Legal Form of Bank Rakyat Indonesia into a State-Owned Company (Persero)',
+    vi: 'Luật số 21 năm 1992 về việc điều chỉnh hình thức pháp lý của Ngân hàng Rakyat Indonesia thành Công ty Nhà nước (Persero)',
+    th: 'พระราชบัญญัติเลขที่ 21 ปี 1992 ว่าด้วยการปรับรูปแบบทางกฎหมายของธนาคารรักยัตอินโดนีเซียให้เป็นบริษัทของรัฐ (Persero)',
+    ms: 'Akta No. 21 Tahun 1992 tentang Penyesuaian Bentuk Undang-Undang Bank Rakyat Indonesia menjadi Perusahaan Perseroan (Persero)'
+  },
+  'ID-H618': {
+    zh: '将国家储蓄银行法律形式调整为国家全资公司（Persero）',
+    en: 'Law No. 24 of 1992 on the Adjustment of the Legal Form of Bank Tabungan Negara into a State-Owned Company (Persero)',
+    vi: 'Luật số 24 năm 1992 về việc điều chỉnh hình thức pháp lý của Ngân hàng Tabungan Negara thành Công ty Nhà nước (Persero)',
+    th: 'พระราชบัญญัติเลขที่ 24 ปี 1992 ว่าด้วยการปรับรูปแบบทางกฎหมายของธนาคารทาบุงกันเนอการาให้เป็นบริษัทของรัฐ (Persero)',
+    ms: 'Akta No. 24 Tahun 1992 tentang Penyesuaian Bentuk Undang-Undang Bank Tabungan Negara menjadi Perusahaan Perseroan (Persero)'
+  },
+  'ID-H665': {
+    zh: '外商投资公司中持股的条件',
+    en: 'Law No. 50 of 1993 on the Requirements for Share Ownership in Foreign Investment Companies',
+    vi: 'Luật số 50 năm 1993 về các điều kiện nắm giữ cổ phần trong doanh nghiệp đầu tư nước ngoài',
+    th: 'พระราชบัญญัติเลขที่ 50 ปี 1993 ว่าด้วยข้อกำหนดการถือหุ้นในบริษัทลงทุนต่างประเทศ',
+    ms: 'Akta No. 50 Tahun 1993 tentang Syarat Pemilikan Saham dalam Syarikat Pelaburan Asing'
+  },
+  'ID-H670': {
+    zh: '外商投资公司',
+    en: 'Foreign Investment Companies',
+    vi: 'Doanh nghiệp Đầu tư Nước ngoài',
+    th: 'บริษัทลงทุนต่างประเทศ',
+    ms: 'Syarikat Pelaburan Asing'
+  },
+  'ID-H672': {
+    zh: '1992/1993财政年度国家收支预算的追加与调整',
+    en: 'Supplementary and Amended State Budget for the 1992/1993 Fiscal Year',
+    vi: 'Bổ sung và điều chỉnh Ngân sách Nhà nước năm ngân sách 1992/1993',
+    th: 'การเพิ่มเติมและการแก้ไขงบประมาณรายรับรายจ่ายแผ่นดิน ปีงบประมาณ 1992/1993',
+    ms: 'Tambahan dan Pindaan Anggaran Pendapatan dan Belanja Negara Tahun Bajet 1992/1993'
+  },
+  'ID-H729': {
+    zh: '公司为投资取得土地的程序',
+    en: 'Procedures for Land Acquisition by Companies in the Framework of Investment',
+    vi: 'Thủ tục để doanh nghiệp có được đất trong khuôn khổ đầu tư',
+    th: 'ขั้นตอนการได้มาซึ่งที่ดินของบริษัทในกรอบการลงทุน',
+    ms: 'Tatacara Perolehan Tanah bagi Syarikat dalam Rangka Pelaburan'
+  },
+  'ID-H784': {
+    zh: '1994/1995财政年度国家收支预算的追加与调整',
+    en: 'Supplementary and Amended State Budget for the 1994/1995 Fiscal Year',
+    vi: 'Bổ sung và điều chỉnh Ngân sách Nhà nước năm ngân sách 1994/1995',
+    th: 'การเพิ่มเติมและการแก้ไขงบประมาณรายรับรายจ่ายแผ่นดิน ปีงบประมาณ 1994/1995',
+    ms: 'Tambahan dan Pindaan Anggaran Pendapatan dan Belanja Negara Tahun Bajet 1994/1995'
+  },
+  'ID-H859': {
+    zh: '劳动者社会保险计划资金的管理与投资',
+    en: "Management and Investment of Funds of the Workers' Social Security Programme",
+    vi: 'Việc quản lý và đầu tư quỹ của Chương trình Bảo hiểm Xã hội cho Người lao động',
+    th: 'การบริหารและการลงทุนเงินทุนของโครงการประกันสังคมสำหรับแรงงาน',
+    ms: 'Pengurusan dan Pelaburan Dana Program Jaminan Sosial Tenaga Kerja'
+  }
+};
