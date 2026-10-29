@@ -55,7 +55,7 @@ pip install -r backend/requirements.txt
 uvicorn backend.app.main:app --host 0.0.0.0 --port 8000
 
 # 3) 浏览器打开
-#    http://127.0.0.1:8000/
+#    http://47.96.144.11:8000/#/
 ```
 
 **同一套前端代码自动识别**：`http(s)://` 打开走后端，`file://` 打开走纯静态。
