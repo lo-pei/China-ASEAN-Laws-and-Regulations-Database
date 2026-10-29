@@ -193,3 +193,4 @@ CI 见 [.github/workflows/data-checks.yml](.github/workflows/data-checks.yml)；
 
 本数据库仅用于学术研究与比赛演示。法规文本以各国官方公布版本为准；译文由 AI 辅助生成，
 仅供参考，不构成法律意见。使用前请核对官方原文。
+联系方式：carl_kent26@163.com
