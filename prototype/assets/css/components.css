@@ -183,6 +183,21 @@ html[data-theme="dark"] .sys-tag--mixed { color: #C4B5FD; background: #2A2340; }
 .toolbar__count b { color: var(--calr-blue-600); font-family: var(--font-mono); }
 .toolbar__right { margin-left: auto; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
 
+/* ---------- 结果区筛选/排序条 ---------- */
+.result-filter {
+  display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+  padding: 10px 14px; background: var(--bg-surface); border: 1px solid var(--border);
+  border-radius: var(--radius-md); margin-bottom: 14px;
+}
+.result-filter__label { font-size: var(--fs-small); font-weight: 600; color: var(--text-primary); }
+.result-filter__item { display: flex; align-items: center; gap: 6px; font-size: var(--fs-small); }
+.result-filter__spacer { margin-left: auto; }
+@media (max-width: 760px) {
+  .result-filter__spacer { margin-left: 0; }
+  .result-filter__item { flex: 1 1 46%; }
+  .result-filter__item .select { width: 100%; }
+}
+
 /* ---------- 分页 ---------- */
 .pager { display: flex; align-items: center; justify-content: center; gap: 6px; margin: 24px 0; }
 .pager button {

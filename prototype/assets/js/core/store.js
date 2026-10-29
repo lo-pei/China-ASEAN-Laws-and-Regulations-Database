@@ -112,13 +112,26 @@
             if (typeof existing.title === 'string') existing.title = { zh: existing.title, en: c.titleEn };
             else if (existing.title && !existing.title.en) existing.title.en = c.titleEn;
           }
+          /* 目录层的多语标题（规范 07）：原有记录一律补齐，保证语言切换后标题可读 */
+          if (c.titleI18n) {
+            if (typeof existing.title === 'string') existing.title = { zh: existing.title };
+            if (!existing.title || typeof existing.title !== 'object') existing.title = {};
+            for (var tk0 in c.titleI18n) {
+              if (c.titleI18n[tk0] && !existing.title[tk0]) existing.title[tk0] = c.titleI18n[tk0];
+            }
+          }
           return;
+        }
+        var cnTitle = c.titleEn ? { zh: c.title, en: c.titleEn } : { zh: c.title };
+        if (c.titleI18n) {
+          for (var tk1 in c.titleI18n) {
+            if (c.titleI18n[tk1]) cnTitle[tk1] = c.titleI18n[tk1];
+          }
         }
         baseLaws.push({
           id: c.id, country: 'CN', level: c.level || 'law', status: c.status || 'active',
-          topics: ['general'], title: c.titleEn ? { zh: c.title, en: c.titleEn } : { zh: c.title },
-          docNumber: c.docNumber || null,
-          issuingBody: c.issuingBody ? { zh: c.issuingBody } : null,
+          topics: ['general'], title: cnTitle,
+          docNumber: c.docNumber || null,          issuingBody: c.issuingBody ? { zh: c.issuingBody } : null,
           promulgatedDate: c.date || null,
           /* 施行日期：版本记录（带 versionDate）只采用「本版施行日」，不以原法公布日充当
              ——否则 2012 版会显示「施行 1993」这类错值，且与详情页（分卷加载后为「—」）矛盾。

@@ -330,5 +330,18 @@
     return parts.join('&');
   };
 
+  /** 条号标签本地化：优先用数据里的 noLabel，缺失时按界面语言生成，不再回退中文 */
+  util.articleLabel = function (a) {
+    var lang = (CALR.i18n && CALR.i18n.lang()) || 'zh';
+    var label = a && a.noLabel;
+    if (typeof label === 'string') return label;
+    if (label && label[lang]) return label[lang];
+    if (label && label.en) return label.en;
+    var n = a && a.no !== undefined && a.no !== null ? a.no : '';
+    if (lang === 'zh') return label && label.zh ? label.zh : (n !== '' ? '第 ' + n + ' 条' : '');
+    var prefix = { en: 'Article ', vi: 'Điều ', th: 'มาตรา ', id: 'Pasal ', ms: 'Seksyen ' }[lang] || 'Article ';
+    return n !== '' ? prefix + n : '';
+  };
+
   CALR.util = util;
 })(typeof window !== 'undefined' ? window : globalThis);

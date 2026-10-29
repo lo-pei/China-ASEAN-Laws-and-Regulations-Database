@@ -49,11 +49,7 @@
 
   /** 制定机关名的本地化显示 */
   function issuerLabel(name) {
-    if (CALR.i18n.lang() === 'zh' || !name) return name;
-    if (ISSUER_EN[name]) return ISSUER_EN[name];
-    var m = /^(.+?)官方发布渠道$/.exec(name);
-    if (m) return 'Official channel — ' + (COUNTRY_EN[m[1]] || m[1]);
-    return name;
+    return CALR.ui.issuerLabel ? CALR.ui.issuerLabel(name) : name;
   }
 
   function arr(v) { return v ? String(v).split(',').filter(Boolean) : []; }
@@ -73,6 +69,8 @@
     if ((query.topic && query.topic.length) || (query.issuer && query.issuer.length) ||
         (query.lang && query.lang.length) || query.from || query.to ||
         query.effFrom || query.effTo) return '';
+    /* 新增的排序（机关/层级/施行日期）后端未支持，走静态检索 */
+    if (['relevance', 'date', 'status'].indexOf(sort) < 0) return "";
     var mode = query.mode || 'keyword';
     if (mode === 'exact') return '';   /* 编号检索静态版更准 */
     return [q, page, size, sort, query.country || '', query.level || '', query.status || '',
@@ -266,6 +264,7 @@
                 '<a class="btn btn--outline btn--sm" href="#/systems">' + esc(t('法律体系对照')) + '</a>' +
               '</div>' +
             '</div>' +
+              resultFilterBar(type, query, size, sort) +
               '<div id="adv-panel" class="card card--pad" hidden style="margin-bottom:14px">' +
                 advPanel(type, query) +
               '</div>' +
@@ -288,6 +287,20 @@
       var modeSel = U().$('#s-mode', main);
       if (modeSel) U().on(modeSel, 'change', function () { go({ mode: modeSel.value, page: 1 }); });
       U().on(U().$('#s-sort', main), 'change', function (e) { go({ sort: e.target.value, page: 1 }); });
+      /* 结果区快捷筛选/排序（参考设计稿的横向工具条） */
+      [['rf-issuer', 'issuer'], ['rf-status', 'status'], ['rf-level', 'level']].forEach(function (pair) {
+        var sel = U().$('#' + pair[0], main);
+        if (sel) U().on(sel, 'change', function (e) {
+          var patch = { page: 1 }; patch[pair[1]] = e.target.value;
+          go(patch);
+        });
+      });
+      var rfSort = U().$('#rf-sort', main);
+      if (rfSort) U().on(rfSort, 'change', function (e) { go({ sort: e.target.value, page: 1 }); });
+      var rfReset = U().$('#rf-reset', main);
+      if (rfReset) U().on(rfReset, 'click', function () {
+        go({ issuer: '', status: '', level: '', sort: 'relevance', page: 1 });
+      });
       var sizeSel = U().$('#s-size', main);
       if (sizeSel) U().on(sizeSel, 'change', function (e) { go({ size: parseInt(e.target.value, 10), page: 1 }); });
       var kwClear = U().$('#kw-clear', main);
@@ -406,6 +419,60 @@
 
   function opt(v, label, cur) {
     return '<option value="' + esc(v) + '"' + (v === cur ? ' selected' : '') + '>' + esc(t(label)) + '</option>';
+  }
+
+  /** 结果区横向筛选/排序条：制定机关、时效性、层级 + 排序 */
+  function resultFilterBar(type, query, size, sort) {
+    if (type !== 'law') return '';
+    var pool = {};
+    S().laws().forEach(function (l) {
+      var n = tr(l.issuingBody);
+      if (n) pool[n] = (pool[n] || 0) + 1;
+    });
+    var issuers = Object.keys(pool).sort(function (a, b) { return pool[b] - pool[a]; });
+    var curIssuer = arr(query.issuer)[0] || '';
+    if (curIssuer && issuers.indexOf(curIssuer) < 0) issuers.unshift(curIssuer);
+    var curStatus = arr(query.status)[0] || '';
+    var curLevel = arr(query.level)[0] || '';
+
+    function sel(id, cur, items) {
+      return '<select class="select" id="' + id + '" style="width:auto;padding:5px 26px 5px 8px">' +
+        '<option value="">' + esc(t('全部')) + '</option>' +
+        items.map(function (it) {
+          return '<option value="' + U().attr(it.v) + '"' + (it.v === cur ? ' selected' : '') + '>' +
+            esc(it.label) + '</option>';
+        }).join('') + '</select>';
+    }
+
+    var statuses = S().statuses().map(function (s) { return { v: s.id, label: tr(s.name) }; });
+    var levels = S().levels().map(function (l) { return { v: l.id, label: tr(l.name) }; });
+    var sortOpts = [
+      { v: 'relevance', label: t('相关度') },
+      { v: 'level', label: t('法律层级') },
+      { v: 'issuer', label: t('制定机关') },
+      { v: 'status', label: t('时效性') },
+      { v: 'date', label: t('公布日期') },
+      { v: 'effective', label: t('施行日期') }
+    ];
+
+    return '<div class="result-filter" id="result-filter">' +
+      '<span class="result-filter__label">' + esc(t('筛选')) + '</span>' +
+      '<label class="result-filter__item"><span class="mini muted">' + esc(t('制定机关')) + '</span>' +
+        sel('rf-issuer', curIssuer, issuers.slice(0, 60).map(function (n) {
+          return { v: n, label: issuerLabel(n) + '（' + pool[n] + '）' };
+        })) + '</label>' +
+      '<label class="result-filter__item"><span class="mini muted">' + esc(t('时效性')) + '</span>' +
+        sel('rf-status', curStatus, statuses) + '</label>' +
+      '<label class="result-filter__item"><span class="mini muted">' + esc(t('法律层级')) + '</span>' +
+        sel('rf-level', curLevel, levels) + '</label>' +
+      '<span class="result-filter__spacer"></span>' +
+      '<label class="result-filter__item"><span class="mini muted">' + esc(t('排序')) + '</span>' +
+        '<select class="select" id="rf-sort" style="width:auto;padding:5px 26px 5px 8px">' +
+          sortOpts.map(function (o) {
+            return '<option value="' + esc(o.v) + '"' + (o.v === sort ? ' selected' : '') + '>' + esc(o.label) + '</option>';
+          }).join('') + '</select></label>' +
+      '<button class="btn btn--ghost btn--sm" id="rf-reset" type="button">' + esc(t('重置筛选')) + '</button>' +
+    '</div>';
   }
 
   function group(title, key, items, query) {

@@ -194,7 +194,7 @@
 
       /* 信息表字段：多版本记录（携带 versionDate）额外列出「版本日期」，用于区分同标题的新旧版本 */
       var metaCells = [
-        { label: t('制定机关'), value: (CALR.ui.orgLabel ? CALR.ui.orgLabel(tr(law.issuingBody)) : tr(law.issuingBody)) },
+        { label: t('制定机关'), value: (CALR.ui.issuerLabel ? CALR.ui.issuerLabel(law.issuingBody) : tr(law.issuingBody)) },
         { label: t('文号'), value: law.docNumber || '—' },
         { label: t('公布日期'), value: U().fmtDate(law.promulgatedDate) },
         { label: t('施行日期'), value: U().fmtDate(law.effectiveDate) }
@@ -338,7 +338,7 @@
                               : '';
                             return '<li><a href="#/law/' + esc(law.id) + '" data-anchor="' + esc(a.id) +
                               '" title="' + esc(a.__tocSub || '') + '">' +
-                              esc(tr(a.noLabel) || ('第 ' + a.no + ' 条')) + ' ' +
+                              esc(U().articleLabel(a)) + ' ' +
                               esc(U().truncate(tr(a.heading), 16)) + subTag + '</a></li>';
                           }).join('') +
                         '</ul>' +
@@ -723,7 +723,7 @@
               '<table class="table"><thead><tr><th>' + esc(t('条文')) + '</th><th>' + esc(t('修订前')) + '</th><th>' + esc(t('修订后')) + '</th></tr></thead><tbody>' +
               (r.changes || []).map(function (ch) {
                 var a = S().resolveArticle(ch.articleId);
-                return '<tr><td>' + esc(a ? (tr(a.noLabel) || ('第 ' + a.no + ' 条')) : ch.articleId) + '</td>' +
+                return '<tr><td>' + esc(a ? U().articleLabel(a) : ch.articleId) + '</td>' +
                   '<td style="background:var(--calr-danger-bg)">' + esc(tr(ch.before)) + '</td>' +
                   '<td style="background:var(--calr-success-bg)">' + esc(tr(ch.after)) + '</td></tr>';
               }).join('') + '</tbody></table>',
@@ -866,7 +866,7 @@
 
     var html = '<div class="article" id="' + esc(a.id) + '">' +
       '<div class="article__head">' +
-        '<span class="article__no">' + esc(tr(a.noLabel) || ('第 ' + a.no + ' 条')) +
+        '<span class="article__no">' + esc(U().articleLabel(a)) +
           /* 源文存在两套编号 / 同一编号多次出现时，用本地化标记区分（不改写原文标签） */
           (a.dupIndex ? ' <span class="article__dup">' + esc(t('第{n}处').replace('{n}', a.dupIndex)) + '</span>' : '') +
           (a.partIndex && a.partIndex > 1 ? ' <span class="article__dup">' + esc(t('第{n}套编号').replace('{n}', a.partIndex)) + '</span>' : '') +
@@ -991,18 +991,25 @@
     if (law.country === 'CN') {
       var url = /^https?:/i.test(ft.sourceUrl || '') ? ft.sourceUrl
         : (/^https?:/i.test((law.source && law.source.url) || '') ? law.source.url : '');
+      var cnLabel = CALR.ui.sourceLabel
+        ? CALR.ui.sourceLabel({ zh: CN_SOURCE_NAME, en: 'National Laws and Regulations Database' }, url)
+        : CN_SOURCE_NAME;
       return url
-        ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">' + esc(CN_SOURCE_NAME) + '</a>'
-        : esc(CN_SOURCE_NAME);
+        ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">' + esc(cnLabel) + '</a>'
+        : esc(cnLabel);
     }
     if (/^https?:/i.test(ft.sourceUrl || '')) {
-      return '<a href="' + esc(ft.sourceUrl) + '" target="_blank" rel="noopener noreferrer">' + esc(CALR.ui.orgLabel(ft.sourceName) || t('官方来源')) + '</a>' +
-        '';
+      var ftLabel = CALR.ui.sourceLabel ? CALR.ui.sourceLabel(ft.sourceName, ft.sourceUrl) : (ft.sourceName || t('官方来源'));
+      return '<a href="' + esc(ft.sourceUrl) + '" target="_blank" rel="noopener noreferrer">' + esc(ftLabel) + '</a>';
     }
     if (law.source && law.source.url) {
-      return '<a href="' + esc(law.source.url) + '" target="_blank" rel="noopener noreferrer">' + esc(law.source.name) + '</a>';
+      var srcLabel = CALR.ui.sourceLabel ? CALR.ui.sourceLabel(law.source.name, law.source.url) : (law.source.name || '');
+      return '<a href="' + esc(law.source.url) + '" target="_blank" rel="noopener noreferrer">' + esc(srcLabel) + '</a>';
     }
-    return esc(CALR.ui.orgLabel((law.source && law.source.name) || ft.sourceName) || '—');
+    var fallback = CALR.ui.sourceLabel
+      ? CALR.ui.sourceLabel((law.source && law.source.name) || ft.sourceName, (law.source && law.source.url) || ft.sourceUrl)
+      : ((law.source && law.source.name) || ft.sourceName);
+    return esc(fallback || '—');
   }
 
   /* ==================== 规范引注格式 ====================

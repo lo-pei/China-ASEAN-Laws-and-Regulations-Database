@@ -146,6 +146,126 @@
     'https://cicc.court.gov.cn': { zh: '最高人民法院国际商事法庭', en: 'China International Commercial Court' }
   };
 
+  /* ---------------- 制定机关 / 数据来源的本地化 ----------------
+     数据层很多字段只有中文（如「泰国国会」「印度尼西亚法律数据库…」）。
+     界面切到非中文时不能把中文原样塞进英文/越南文/泰文页面：
+     常见值走对照表，其余按规则回退英文，绝不在非中文界面回退中文。 */
+  var COUNTRY_EN = {
+    '中国': 'China', '越南': 'Vietnam', '泰国': 'Thailand', '印度尼西亚': 'Indonesia',
+    '马来西亚': 'Malaysia', '新加坡': 'Singapore', '菲律宾': 'the Philippines',
+    '文莱': 'Brunei', '柬埔寨': 'Cambodia', '老挝': 'Laos', '缅甸': 'Myanmar', '东帝汶': 'Timor-Leste'
+  };
+  var ISSUER_LABELS = {
+    '泰国国会': { en: 'National Assembly of Thailand', vi: 'Quốc hội Thái Lan', th: 'รัฐสภาแห่งประเทศไทย', id: 'Majelis Nasional Thailand', ms: 'Parlimen Thailand' },
+    '马来西亚国会（Dewan Rakyat）': { en: 'Parliament of Malaysia (Dewan Rakyat)', vi: 'Nghị viện Malaysia (Dewan Rakyat)', th: 'รัฐสภามาเลเซีย (เดวันรักยัต)', id: 'Parlemen Malaysia (Dewan Rakyat)', ms: 'Parlimen Malaysia (Dewan Rakyat)' },
+    '马来西亚国会': { en: 'Parliament of Malaysia', vi: 'Nghị viện Malaysia', th: 'รัฐสภามาเลเซีย', id: 'Parlemen Malaysia', ms: 'Parlimen Malaysia' },
+    '泰国国务委员会办公室（OCS）': { en: 'Office of the Council of State (Thailand)', vi: 'Văn phòng Hội đồng Nhà nước (Thái Lan)', th: 'สำนักงานคณะกรรมการกฤษฎีกา', id: 'Kantor Dewan Negara (Thailand)', ms: 'Pejabat Majlis Negara (Thailand)' },
+    '国会': { en: 'National Assembly', vi: 'Quốc hội', th: 'รัฐสภา', id: 'Majelis Nasional', ms: 'Parlimen' },
+    '东帝汶国民议会': { en: 'National Parliament of Timor-Leste', vi: 'Quốc hội Timor-Leste', th: 'รัฐสภาแห่งติมอร์-เลสเต', id: 'Parlemen Nasional Timor-Leste', ms: 'Parlimen Nasional Timor-Leste' },
+    '老挝国会': { en: 'National Assembly of Laos', vi: 'Quốc hội Lào', th: 'รัฐสภาลาว', id: 'Majelis Nasional Laos', ms: 'Parlimen Laos' },
+    '越南国会（Quốc hội）': { en: 'National Assembly of Vietnam (Quốc hội)', vi: 'Quốc hội Việt Nam', th: 'รัฐสภาเวียดนาม', id: 'Majelis Nasional Vietnam', ms: 'Parlimen Vietnam' },
+    '菲律宾国会': { en: 'Congress of the Philippines', vi: 'Quốc hội Philippines', th: 'รัฐสภาฟิลิปปินส์', id: 'Kongres Filipina', ms: 'Kongres Filipina' },
+    '缅甸保险业务监管局（IBRD）': { en: 'Insurance Business Regulatory Board (Myanmar)', vi: 'Cục Quản lý Kinh doanh Bảo hiểm (Myanmar)', th: 'คณะกรรมการกำกับธุรกิจประกันภัย (เมียนมา)', id: 'Dewan Pengawas Usaha Asuransi (Myanmar)', ms: 'Lembaga Pengawal Perniagaan Insurans (Myanmar)' },
+    '泰国数字经济与社会部 ETDA 发布；PDPC 为主管机关': { en: 'Ministry of Digital Economy and Society (Thailand) — published by ETDA; PDPC is the competent authority', vi: 'Bộ Kinh tế số và Xã hội Thái Lan — ETDA công bố; PDPC là cơ quan có thẩm quyền', th: 'กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม (ETDA เผยแพร่; PDPC เป็นหน่วยงานกำกับ)', id: 'Kementerian Ekonomi Digital dan Masyarakat Thailand — diterbitkan ETDA; PDPC adalah otoritas berwenang', ms: 'Kementerian Ekonomi Digital dan Masyarakat Thailand — diterbitkan ETDA; PDPC ialah pihak berkuasa' },
+    '见 official_source_url 所属机构': { en: 'Issuing body referenced in official_source_url' },
+    'king__of_the_kingdom_of_cambodia': { en: 'King of the Kingdom of Cambodia' },
+    'national_assembly': { en: 'National Assembly' },
+    'office_of_the_prime_minister': { en: 'Office of the Prime Minister' },
+    'royal_government_of_cambodia': { en: 'Royal Government of Cambodia' },
+    'council_of_ministers': { en: 'Council of Ministers' },
+    'royal_palace': { en: 'Royal Palace' },
+    'Ministry / Government': { en: 'Ministry / Government' },
+    'Implementing agency': { en: 'Implementing agency' },
+    'Constitutional Convention / Commission': { en: 'Constitutional Convention / Commission' }
+  };
+  var SOURCE_LABELS = {
+    '印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）': {
+      en: 'Indonesian legal databases (AsianLII / WorldLII and official ministry PDFs)',
+      vi: 'Cơ sở dữ liệu pháp luật Indonesia (AsianLII / WorldLII và PDF chính thức của các bộ)',
+      th: 'ฐานข้อมูลกฎหมายอินโดนีเซีย (AsianLII / WorldLII และ PDF ราชการของกระทรวง)',
+      id: 'Basis data hukum Indonesia (AsianLII / WorldLII dan PDF resmi kementerian)',
+      ms: 'Pangkalan data undang-undang Indonesia (AsianLII / WorldLII dan PDF rasmi kementerian)'
+    },
+    '泰国数字经济与社会部 ETDA 发布；PDPC 为主管机关': {
+      en: 'Ministry of Digital Economy and Society (Thailand) — published by ETDA; PDPC is the competent authority',
+      vi: 'Bộ Kinh tế số và Xã hội Thái Lan — ETDA công bố; PDPC là cơ quan có thẩm quyền',
+      th: 'กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม (ETDA เผยแพร่; PDPC เป็นหน่วยงานกำกับ)',
+      id: 'Kementerian Ekonomi Digital dan Masyarakat Thailand — diterbitkan ETDA; PDPC adalah otoritas berwenang',
+      ms: 'Kementerian Ekonomi Digital dan Masyarakat Thailand — diterbitkan ETDA; PDPC ialah pihak berkuasa'
+    },
+    '泰国国务委员会办公室（Office of the Council of State, สำนักงานคณะกรรมการกฤษฎีกา）法律检索系统': {
+      en: 'Office of the Council of State of Thailand — legal search system',
+      vi: 'Văn phòng Hội đồng Nhà nước Thái Lan — hệ thống tra cứu pháp luật',
+      th: 'สำนักงานคณะกรรมการกฤษฎีกา — ระบบค้นหากฎหมาย',
+      id: 'Kantor Dewan Negara Thailand — sistem pencarian hukum',
+      ms: 'Pejabat Majlis Negara Thailand — sistem carian undang-undang'
+    },
+    '泰国法律数据库（law.go.th）': { en: 'Thailand Law Database (law.go.th)', vi: 'Cơ sở dữ liệu pháp luật Thái Lan (law.go.th)', th: 'ฐานข้อมูลกฎหมายไทย (law.go.th)', id: 'Basis Data Hukum Thailand (law.go.th)', ms: 'Pangkalan Data Undang-undang Thailand (law.go.th)' },
+    '泰国法律数据库（law.go.th）皇家公报原文': { en: 'Thailand Law Database (law.go.th) — Royal Gazette original', vi: 'Cơ sở dữ liệu pháp luật Thái Lan (law.go.th) — bản Công báo Hoàng gia', th: 'ฐานข้อมูลกฎหมายไทย (law.go.th) — ต้นฉบับราชกิจจานุเบกษา', id: 'Basis Data Hukum Thailand (law.go.th) — naskah asli Berita Negara', ms: 'Pangkalan Data Undang-undang Thailand (law.go.th) — teks asal Warta Kerajaan' },
+    '越南法律数据库（vbpl.vn 官方公报文本）': { en: 'Vietnam Legal Database (VBPL, official gazette texts)', vi: 'Cơ sở dữ liệu pháp luật Việt Nam (VBPL, văn bản công báo)', th: 'ฐานข้อมูลกฎหมายเวียดนาม (VBPL, ข้อความราชกิจจานุเบกษา)', id: 'Basis Data Hukum Vietnam (VBPL, teks lembaran resmi)', ms: 'Pangkalan Data Undang-undang Vietnam (VBPL, teks warta rasmi)' },
+    '越南政府公报（congbao.chinhphu.vn）': { en: 'Vietnam Government Gazette (congbao.chinhphu.vn)', vi: 'Công báo Chính phủ Việt Nam (congbao.chinhphu.vn)', th: 'ราชกิจจานุเบกษารัฐบาลเวียดนาม (congbao.chinhphu.vn)', id: 'Lembaran Resmi Pemerintah Vietnam (congbao.chinhphu.vn)', ms: 'Warta Kerajaan Vietnam (congbao.chinhphu.vn)' },
+    '东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）': { en: 'Timor-Leste Official Gazette “Jornal da República” (Série I, Ministry of Justice)', vi: 'Công báo Timor-Leste “Jornal da República” (Série I, Bộ Tư pháp)', th: 'ราชกิจจานุเบกษาติมอร์-เลสเต “Jornal da República” (Série I, กระทรวงยุติธรรม)', id: 'Lembaran Resmi Timor-Leste “Jornal da República” (Série I, Kementerian Kehakiman)', ms: 'Warta Rasmi Timor-Leste “Jornal da República” (Série I, Kementerian Kehakiman)' },
+    '老挝司法部官方公报（Lao Official Gazette, ຈົດໝາຍເຫດທາງລັດຖະການ）': { en: 'Lao Official Gazette (Ministry of Justice)', vi: 'Công báo Lào (Bộ Tư pháp)', th: 'ราชกิจจานุเบกษาลาว (กระทรวงยุติธรรม)', id: 'Lembaran Resmi Laos (Kementerian Kehakiman)', ms: 'Warta Rasmi Laos (Kementerian Kehakiman)' },
+    '柬埔寨司法部法律法规检索平台（រាជកិច្ច, moj.gov.kh）': { en: 'Cambodia Ministry of Justice legal database (moj.gov.kh)', vi: 'Cơ sở dữ liệu pháp luật Bộ Tư pháp Campuchia (moj.gov.kh)', th: 'ฐานข้อมูลกฎหมายกระทรวงยุติธรรมกัมพูชา (moj.gov.kh)', id: 'Basis data hukum Kementerian Kehakiman Kamboja (moj.gov.kh)', ms: 'Pangkalan data undang-undang Kementerian Kehakiman Kemboja (moj.gov.kh)' },
+    'Open Development Cambodia 法规数据库（data.opendevelopmentcambodia.net，非 .gov.kh 官方域名，属第三方聚合平台）': { en: 'Open Development Cambodia legal database (third-party aggregator, not an official .gov.kh domain)', vi: 'Cơ sở dữ liệu pháp luật Open Development Cambodia (nền tảng tổng hợp bên thứ ba)', th: 'ฐานข้อมูลกฎหมาย Open Development Cambodia (แพลตฟอร์มรวบรวมของบุคคลที่สาม)', id: 'Basis data hukum Open Development Cambodia (agregator pihak ketiga)', ms: 'Pangkalan data undang-undang Open Development Cambodia (agregator pihak ketiga)' },
+    'LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）': { en: 'The LawPhil Project — Arellano Law Foundation', vi: 'Dự án LawPhil — Quỹ Luật Arellano', th: 'โครงการ LawPhil — มูลนิธิกฎหมาย Arellano', id: 'Proyek LawPhil — Yayasan Hukum Arellano', ms: 'Projek LawPhil — Yayasan Undang-undang Arellano' },
+    'The LawPhil Project — Arellano Law Foundation': { en: 'The LawPhil Project — Arellano Law Foundation' },
+    '用户提供的扫描件（Myanmar Law Library 复印件）': { en: 'User-provided scanned copy (Myanmar Law Library)' },
+    '既有批次（资源爬取 / 《东盟法律分类》归档）': { en: 'Existing batches (web harvest / ASEAN law classification archive)' },
+    '文莱官方发布渠道': { en: 'Official channel — Brunei Darussalam' },
+    '缅甸官方发布渠道': { en: 'Official channel — Myanmar' },
+    '马来西亚官方发布渠道': { en: 'Official channel — Malaysia' },
+    '越南官方发布渠道': { en: 'Official channel — Vietnam' },
+    '泰国官方发布渠道': { en: 'Official channel — Thailand' },
+    '泰国官方发布渠道（law.go.th）': { en: 'Official channel — Thailand (law.go.th)' },
+    '印度尼西亚官方发布渠道': { en: 'Official channel — Indonesia' },
+    '老挝官方发布渠道': { en: 'Official channel — Laos' }
+  };
+
+  /** 制定机关名的本地化显示（对象/字符串均可；非中文界面不返回中文） */
+  function issuerLabel(field) {
+    var lang = CALR.i18n.lang();
+    if (field === null || field === undefined || field === '') return '';
+    var raw = typeof field === 'object'
+      ? (field[lang] || field.en || field.zh || '')
+      : String(field);
+    if (lang === 'zh') return raw;
+    var key = typeof field === 'object' ? (field.zh || field.en || raw) : raw;
+    if (!key) return '';
+    var hit = ISSUER_LABELS[key];
+    if (hit) return hit[lang] || hit.en;
+    var m = /^(.+?)官方发布渠道/.exec(key);
+    if (m) return 'Official channel — ' + (COUNTRY_EN[m[1]] || m[1]);
+    if (typeof field === 'object' && field.en) return field.en;
+    if (/^[a-z0-9_]+$/i.test(key)) {
+      key = key.replace(/_+/g, ' ').replace(/\b[a-z]/g, function (c) { return c.toUpperCase(); });
+    }
+    if (/[\u4e00-\u9fff]/.test(key)) return CALR.i18n.t('制定机关');
+    return key;
+  }
+
+  /** 数据来源名的本地化显示（优先按 URL 命中官方门户对照表） */
+  function sourceLabel(field, url) {
+    var lang = CALR.i18n.lang();
+    var raw = typeof field === 'object'
+      ? (field[lang] || field.en || field.zh || '')
+      : (field == null ? '' : String(field));
+    if (lang === 'zh') return raw;
+    if (url) {
+      var lab = portalLabel(url, null);
+      if (lab && lab !== url) return lab;
+    }
+    var key = typeof field === 'object' ? (field.zh || field.en || raw) : raw;
+    if (!key) return CALR.i18n.t('官方来源');
+    var hit = SOURCE_LABELS[key];
+    if (hit) return hit[lang] || hit.en;
+    var m = /^(.+?)官方发布渠道/.exec(key);
+    if (m) return 'Official channel — ' + (COUNTRY_EN[m[1]] || m[1]);
+    if (typeof field === 'object' && field.en) return field.en;
+    if (/[\u4e00-\u9fff]/.test(key)) return CALR.i18n.t('官方来源');
+    return key;
+  }
+
   /** 生成式机构名（如「老挝官方发布渠道」）的本地化显示 */
   function orgLabel(name) {
     if (!name || CALR.i18n.lang() === 'zh') return name;
@@ -159,9 +279,33 @@
     return 'Official channel — ' + label;
   }
 
-  /** 官方门户名的本地化显示（中/英对照；其他语种回退英文） */
+  /** 官方门户名的本地化显示（中/英对照；支持按域名匹配任意路径；其他语种回退英文） */
+  var PORTAL_HOSTS = {
+    'vbpl.vn': { zh: '越南法律数据库（VBPL）', en: 'VBPL — Vietnam Legal Database' },
+    'ratchakitcha.soc.go.th': { zh: '泰国政府公报（Royal Gazette）', en: 'Royal Gazette of Thailand' },
+    'krisd.go.th': { zh: '泰国法律信息门户（KRISD）', en: 'KRISD — Thailand Law Information Portal' },
+    'law.go.th': { zh: '泰国法律数据库（law.go.th）', en: 'Thailand Law Database (law.go.th)' },
+    'peraturan.go.id': { zh: '印度尼西亚法律法规信息网络（JDIHN）', en: 'JDIHN — Indonesian Legal Information Network' },
+    'agc.gov.my': { zh: '马来西亚总检察署法律在线（AGC）', en: 'AGC Malaysia — Laws of Malaysia' },
+    'sso.agc.gov.sg': { zh: '新加坡法规在线（SSO）', en: 'Singapore Statutes Online' },
+    'lawphil.net': { zh: '菲律宾法律信息库（LawPhil）', en: 'LawPhil — Philippine Laws and Jurisprudence' },
+    'officialgazette.gov.ph': { zh: '菲律宾官方公报', en: 'Official Gazette of the Philippines' },
+    'agc.gov.bn': { zh: '文莱总检察署法规库', en: 'AGC Brunei — Laws of Brunei Darussalam' },
+    'moc.gov.kh': { zh: '柬埔寨商务部法律与法规门户', en: 'Cambodia Ministry of Commerce — Laws & Regulations' },
+    'laogazette.gov.la': { zh: '老挝政府公报', en: 'Lao Official Gazette' },
+    'moj.gov.mm': { zh: '缅甸司法部', en: 'Myanmar Ministry of Justice' },
+    'mj.gov.tl': { zh: '东帝汶司法部', en: 'Ministério da Justiça, Timor-Leste' },
+    'flk.npc.gov.cn': { zh: '国家法律法规数据库', en: 'National Laws and Regulations Database' },
+    'cicc.court.gov.cn': { zh: '最高人民法院国际商事法庭', en: 'China International Commercial Court' }
+  };
   function portalLabel(url, fallback) {
     var lab = PORTAL_LABELS[url];
+    if (!lab && url) {
+      try {
+        var host = new URL(url, 'https://example.invalid').hostname.replace(/^www\./i, '');
+        lab = PORTAL_HOSTS[host] || PORTAL_HOSTS[host.split('.').slice(-3).join('.')] || PORTAL_HOSTS[host.split('.').slice(-2).join('.')];
+      } catch (e) { /* 非绝对 URL 时忽略 */ }
+    }
     var zh = CALR.i18n.lang() === 'zh';
     if (lab) return zh ? lab.zh : lab.en;
     return fallback || url;
@@ -185,39 +329,50 @@
     return null;
   }
 
-  /** 法规标题的展示形态：英文界面显示「英文译名（源语言原名）」
-      · 中国法规：括号内为中文原名
-      · 印尼法规：括号内为印尼语原名
-      中文界面仍显示原名；无当前语言译名时回退原文（并带「暂无译名」提示） */
+  /** 法域的官方文本语种（决定标题括号里放哪份原文），规范 07 §3.2 */
+  var ORIG_LANG = {
+    CN: 'zh', BN: 'en', ID: 'id', KH: 'km', LA: 'lo', MM: 'my',
+    MY: 'ms', PH: 'en', SG: 'en', TH: 'th', TL: 'pt', VN: 'vi'
+  };
+
+  /** 法规标题展示形态（规范 07 §6.1）：
+      主标题 = 当前界面语种 → 英文 → 中文；【】内 = 该法域原文（title.orig，缺失时回退到原文语种键）。
+      用【】而不是（）区分原文标题，避免与译文正文里的括号混同。
+      中文界面看中国法、英文界面看英文法域时，主标题与原文相同，不重复显示。 */
   function lawTitleDisplay(law) {
     var f = law && law.title;
     var lang = CALR.i18n.lang();
-    if (f && typeof f === 'object') {
-      if (lang !== 'zh' && law.country === 'CN' && f.en && f.zh && /[\u4e00-\u9fa5]/.test(f.zh)) {
-        return { main: f.en, orig: f.zh, origLang: 'zh' };
-      }
-      if (lang === 'en' && law.country === 'ID' && f.en && f.id) {
-        return { main: f.en, orig: f.id, origLang: 'id' };
-      }
+    if (!f) return { main: '', orig: null, origLang: null };
+    if (typeof f === 'string') return { main: f, orig: null, origLang: null };
+
+    var main = f[lang] || f.en || f.zh || '';
+    if (!main) {
+      for (var k0 in f) if (f[k0]) { main = f[k0]; break; }
     }
-    return { main: CALR.i18n.field(f), orig: null, origLang: null };
+    var origLang = (law && law.country && ORIG_LANG[law.country]) || null;
+    var orig = f.orig || (origLang && f[origLang]) || null;
+    /* 主标题与原文完全一致时不必重复（中文界面看中国法、英文界面看英文法域） */
+    if (orig && String(orig).trim() === String(main).trim()) orig = null;
+    return { main: main, orig: orig, origLang: origLang };
   }
 
   function lawItem(law, opts) {
     opts = opts || {};
     var td = lawTitleDisplay(law);
     var title = td.main;
-    var alts = U().altTitles(law.title, CALR.i18n.lang(), 2).filter(function (a) {
-      /* 源语言原名已紧跟在英文译名后的括号里，不再作为并列标题重复展示 */
+    /* 检索结果只保留标题 + 国家/修正/公布/施行/收录条数，不显示别名标题、摘要、命中说明 */
+    var bare = !!opts.plain;
+    var alts = bare ? [] : U().altTitles(law.title, CALR.i18n.lang(), 2).filter(function (a) {
+      /* 源语言原名已紧跟在译名后的【】里，不再作为并列标题重复展示 */
       return !(td.orig && a.lang === td.origLang);
     });
     var tlang = titleLangOf(law.title);
     var terms = opts.terms || [];
     /* 有条文文本的法规显示摘要；纯目录条目仅呈现条目信息 */
-    var snippet = (opts.snippet !== undefined ? opts.snippet : null) ||
+    var snippet = bare ? '' : ((opts.snippet !== undefined ? opts.snippet : null) ||
       ((law.coverage === 'full' || law.coverage === 'excerpt')
-        ? U().highlight(U().truncate(U().plain(U().tr(law.summary)), 140), terms) : '');
-    var hit = opts.hitArticle;
+        ? U().highlight(U().truncate(U().plain(U().tr(law.summary)), 140), terms) : ''));
+    var hit = bare ? null : opts.hitArticle;
     return '' +
       /* 从检索结果进入详情页时把检索词带过去，详情页据此自动高亮（opt.q） */
       '<a class="law-item" href="#/law/' + esc(law.id) +
@@ -225,7 +380,7 @@
         '<div class="law-item__head">' +
           '<div style="min-width:0">' +
             '<h3 class="law-item__title">' + U().highlight(title, terms) +
-              (td.orig ? '（' + esc(td.orig) + '）' : '') +
+              (td.orig ? '【' + esc(td.orig) + '】' : '') +
               (tlang && tlang !== CALR.i18n.lang()
                 ? ' <span class="tag tag--outline" style="font-size:11px;font-weight:400;vertical-align:middle">' +
                   esc(CALR.i18n.t('原文标题 · 暂无当前语言译名')) + '</span>'
@@ -322,6 +477,8 @@
     flagSvg: flagSvg,
     portalLabel: portalLabel,
     orgLabel: orgLabel,
+    issuerLabel: issuerLabel,
+    sourceLabel: sourceLabel,
     treatyItem: treatyItem,
     statusTag: statusTag,
     levelTag: levelTag,

@@ -179,6 +179,9 @@
     var sort = params.sort || (mode === 'exact' ? 'relevance' : 'relevance');
     results.sort(function (a, b) {
       if (sort === 'date') return String(b.law.promulgatedDate || '').localeCompare(String(a.law.promulgatedDate || ''));
+      if (sort === 'effective') return String(b.law.effectiveDate || '').localeCompare(String(a.law.effectiveDate || ''));
+      if (sort === 'issuer') return String(U().tr(a.law.issuingBody) || '').localeCompare(String(U().tr(b.law.issuingBody) || '')) || b.score - a.score;
+      if (sort === 'level') return String(a.law.level || '').localeCompare(String(b.law.level || '')) || b.score - a.score;
       if (sort === 'status') {
         var order = { active: 0, amended: 1, pending: 2, repealed: 3 };
         var d = (order[a.law.status] || 9) - (order[b.law.status] || 9);
