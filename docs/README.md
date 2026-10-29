@@ -47,7 +47,7 @@
 | 法规 | 42,120 部 | 同上 `meta.lawCount` |
 | 条文 | 564,127 条 | 同上 `meta.articleCount` |
 | 正文字符 | 602,143,441 | 同上 `meta.chars` |
-| 中文标题 | 28,206 部（66.97%） | `prototype/data/title-zh/titles.zh.json` |
+| 中文标题 | 28,319 部（67.23%） | `prototype/data/title-zh/titles.zh.json` |
 | 译文层 | 5,633 部 / 90,627 条 / 47 分卷（英 5,632 / 85,263；中 40 / 5,364） | `prototype/data/trans/manifest.js` |
 | 向量索引 | 18,861 部 / 334,779 条 | `backend/data/vectors/`（待按最新库重建） |
 | 界面语言键 | 870 键（vi/th/id/ms missing=0） | `node tools/check-i18n.js` |
