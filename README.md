@@ -93,18 +93,29 @@ CALR（China–ASEAN Laws and Regulations Database）是一个可直接在浏览
 
 ### 4.1 总体结构
 
-```mermaid
-flowchart LR
-    U[浏览器] --> F[原生 JS SPA<br/>零构建 / 零框架]
-    F -->|file://| D[prototype/data<br/>JSON + 分卷]
-    F -->|http(s)://| A[FastAPI]
-    A --> DB[(SQLite<br/>calr.db ~2.1 GB)]
-    A --> B[BM25 倒排索引]
-    A --> V[bge-m3 ONNX<br/>DirectML / CPU]
-    V --> I[A/B/C 向量索引]
-    A --> R[RRF 融合 + 阈值 + 国别过滤]
-    R --> C[带条号引用的回答]
+```text
+浏览器（原生 JS SPA，零构建、零框架）
+│
+├─ file:// ─────────────▶ prototype/data
+│                        JSON + 分卷（离线运行）
+│
+└─ http(s):// ──────────▶ FastAPI
+                         │
+                         ├─ SQLite（calr.db，约 2.1 GB）
+                         ├─ BM25 倒排索引
+                         └─ bge-m3 ONNX（DirectML / CPU）
+                                │
+                                ▼
+                           A/B/C 向量索引
+                                │
+                                ▼
+                    RRF 融合 + 阈值 + 国别过滤
+                                │
+                                ▼
+                        带条号引用的回答
 ```
+
+两条路径共用同一套前端：`file://` 直接读取本地 JSON，`http(s)://` 通过后端 API 查询 SQLite、BM25 与向量索引。
 
 - **前端**：原生 JavaScript 单页应用，没有打包器；`file://` 可直接离线运行。
 - **后端**：FastAPI + SQLite，提供检索、详情、问答与数据接口；可选 API Key、限流、请求体上限。
