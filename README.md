@@ -93,7 +93,6 @@ CALR（China–ASEAN Laws and Regulations Database）是一个可直接在浏览
 
 ### 4.1 总体结构
 
-```mermaid
 flowchart LR
     U[浏览器] --> F[原生 JS SPA<br/>零构建 / 零框架]
     F -->|file://| D[prototype/data<br/>JSON + 分卷]
