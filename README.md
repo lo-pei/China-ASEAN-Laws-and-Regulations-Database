@@ -1,200 +1,319 @@
-# 中国—东盟法律法规数据库（CALR）
+<div align="center">
 
-> **东盟法律，一库通查** —— 面向东盟 11 国的多语种、AI 驱动的跨境法律法规数据库平台
-> 2026 年中国（广西）—东盟"AI+法律"应用创新大赛 · 高校学生赛道 · 面向东盟法律服务方向
-> 参赛队伍：上海对外经贸大学 一粒橡子队
+# CALR · 中国—东盟法律法规数据库
+
+**东盟法律，一库通查**
+
+面向中国、东盟十国与东帝汶共 **12 个法域**的多语种、可溯源、AI 增强法律检索平台
+
+[![Data Checks](https://github.com/lo-pei/China-ASEAN-Laws-and-Regulations-Database/actions/workflows/data-checks.yml/badge.svg)](https://github.com/lo-pei/China-ASEAN-Laws-and-Regulations-Database/actions/workflows/data-checks.yml)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-DirectML-005CED)
+![Status](https://img.shields.io/badge/RAG-C%20index%20building-yellow)
+
+[项目概览](#1-项目概览) · [数据资产](#2-数据资产) · [功能矩阵](#3-功能矩阵) · [系统架构](#4-系统架构) · [快速开始](#5-快速开始) · [目录结构](#6-目录结构) · [质量保障](#7-质量保障) · [文档导航](#8-文档导航)
+
+</div>
+
+> 2026 年中国（广西）—东盟“AI+法律”应用创新大赛 · 高校学生赛道 · 面向东盟法律服务方向  
+> 参赛队：上海对外经贸大学 · 一粒橡子队
 
 ---
 
+## 1. 项目概览
 
-> 部署到云服务器：见 [docs/deploy/](docs/deploy/)（[07 通用云服务器](docs/deploy/07-部署指南.md) · 08 B+ 完整版 · 09 Windows 服务器 · 10 Windows 实测复盘）。
-> 产品解决方案 Demo（PDF）与产品使用说明书（PDF）：见 [materials/submission/](materials/submission/)，均面向比赛评审/答辩；其余比赛材料见 [materials/](materials/README.md)。
+CALR（China–ASEAN Laws and Regulations Database）是一个可直接在浏览器运行的**多语种法律法规数据库**。它把中国、东盟十国与东帝汶的官方法规文本整理为统一的法条级结构，提供检索、详情阅读、正文术语释义与带引用的 AI 问答。
 
-## 一、这是什么
+项目不追求简单“把法规堆到网页上”，而是把三条约束做成系统能力：
 
-一个**可交互的 Web 产品**，把中国、东盟十国与东帝汶共 **12 个法域**的官方法规文本，做成可检索、可溯源、
-可多语种阅读、可规范引注的一站式工具。2026-10-29 起不再提供独立的“跨语言条款比对”和“术语库”页面：
-比对能力收敛为检索/详情中的多语阅读与规范引注，术语改为正文内联释义卡片。
-
-**核心理念**：不是"把法规堆在网页上"，而是把三件事做成工程约束 ——
-
-| 约束 | 含义 |
+| 约束 | 工程实现 |
 | :--- | :--- |
-| **可溯源** | 每部法规都能回答"从哪来、什么时候抓的、是否完整"，可点回官方页面核验 |
-| **跨语言** | 中文用户能读到泰文、越南文、印尼文法规；反之亦然 |
-| **AI 可解释** | 问答每条结论都附条文出处，可逐条回溯原文，不做推测性回答 |
+| **可溯源** | 每部法规带官方来源、抓取时间与收录形态，详情页可回到来源核验 |
+| **可阅读** | 6 种界面语言；条文目录、条号、机构与来源随界面语言本地化 |
+| **可核查** | AI 问答先检索后回答，逐条绑定条号与原文位置；依据不足时明确拒答 |
 
-### 数据规模
+### 1.1 项目状态
+
+| 模块 | 状态 | 说明 |
+| :--- | :---: | :--- |
+| 法规 / 条文数据 | ✅ 已完成 | 42,121 部 / 564,579 条 / 12 法域 |
+| 译文层 | ✅ 已完成 | 5,633 部 / 90,627 条 / 47 分卷 |
+| A 条文向量 | ✅ 已完成 | 564,578 条条文向量 |
+| B 法规向量 | ✅ 已完成 | 42,121 部法规向量，内容为标题 + 摘要 + 前两条 + 章节 |
+| C 条文切片向量 | 🟡 构建中 | 512-token / stride 128 / 单条最多 3 块；目标 623,915 块，支持 checkpoint 续跑 |
+| 混合 RAG 问答 | ✅ 可用 | BM25 + 向量 + RRF + 国别前置过滤 + 余弦阈值；C 完成前自动使用 A 条文向量 |
+
+> C 索引构建期间，问答仍可正常使用；检索/问答会自动回退到 A 条文向量，不会因 C 未完成而不可用。
+
+---
+
+## 2. 数据资产
+
+### 2.1 规模
 
 | 指标 | 数值 |
 | :--- | ---: |
-| 法域 | **12**（中国 + 东盟十国 + 东帝汶） |
+| 法域 | **12**（中国、东盟十国、东帝汶） |
 | 法规 | **42,121** 部 |
 | 条文 | **564,579** 条 |
-| 正文字符 | **6.02 亿**（602,209,705） |
-| 译文层 | **5,633 部 / 90,627 条 / 47 分卷**（英 5,632 部 / 85,263 条；中 40 部 / 5,364 条） |
-| 中文标题覆盖 | **72.80%**（30,664 部） |
-| 界面语言 | 中 / 英 / 越 / 泰 / 印尼 / 马来 |
+| 正文字符 | **602,209,705**（约 6.02 亿） |
+| 中文标题 | **30,664** 部（72.80%） |
+| 译文层 | **5,633** 部 / **90,627** 条 / **47** 分卷 |
+| 界面语言 | **6** 种：中、英、越、泰、印尼、马来 |
+| 官方来源渠道 | **14** 个 |
+
+### 2.2 数据原则
+
+1. **原文与译文物理分离**：译文独立成卷，按条号与原文合并渲染，引用永远可区分。
+2. **一部法规一个 JSON**：`prototype/data/laws/<法规ID>.json` 是唯一权威存储。
+3. **派生数据可重建**：SQLite、目录分卷、BM25 倒排与向量索引均由权威 JSON 重新生成。
+4. **缺口如实公开**：缺失原文逐部标注，并提供官方链接，不把目录记录伪装成全文。
+5. **每条数据可核验**：来源、抓取日期、收录形态、条号与版本均可追溯。
 
 ---
 
-## 二、快速开始
-
-### 方式一：纯静态（零依赖，最快）
-
-直接用浏览器打开 `prototype/index.html` 即可。不装任何东西、不联网。
-
-### 方式二：后端形态（推荐，检索质量与性能都更好）
-
-```bash
-# 1) 建库（42,121 部，首次约 12 分钟，产出 backend/data/calr.db 约 2.1 GB）
-python backend/build_db.py
-
-# 2) 装依赖并起服务
-pip install -r backend/requirements.txt
-uvicorn backend.app.main:app --host 0.0.0.0 --port 8000
-
-# 3) 浏览器打开
-#    http://127.0.0.1:8000/
-```
-
-**同一套前端代码自动识别**：`http(s)://` 打开走后端，`file://` 打开走纯静态。
-
-### 可选：向量检索与语义问答
-
-后端形态下的混合检索与条文级问答依赖 bge-m3 向量索引（旧索引约 310 MB，不入库）。
-**注意：当前仓库的向量索引是 10-23/24 旧库产物（18,861 部 / 334,779 条，条文覆盖约 58.5%），
-尚未覆盖 10-28 新增的 MY/ID 等法域**；未重建前，语义检索对新增法域会降级为 BM25。
-
-```bash
-python _work/phaseb/download.py                 # 下载模型
-python _work/phaseb/embed.py --level law        # 法规级（GPU 约 20 分钟）
-python _work/phaseb/embed.py --level article    # 条文级（GPU 约 4 小时）
-```
-
-没有向量索引时，检索自动降级为纯 BM25，功能不受影响。
-
----
-
-## 三、功能
+## 3. 功能矩阵
 
 | 功能 | 入口 | 说明 |
 | :--- | :--- | :--- |
-| **法规检索** | `#/search` | 关键词 / 自然语言 / 条号三种方式；国别、层级、时效性、主题筛选；**主题筛选置于侧栏底部**；高级检索以弹窗呈现 |
-| **法规详情** | `#/law/:id` | 标题（当前语言 + 原文名称）、基本信息条、原文/译文对照、左侧条文目录（随界面语言切换）、版本与变迁（可跳转历史版本） |
-| **术语解释** | 详情正文 | 专业术语虚线下划线，单击弹出当前界面语言的释义卡片（不再单设术语库页面） |
-| **AI 智能问答** | `#/assistant` | 条文级引用，每条结论可回溯原文；非法律问题/无结果时给出明确边界与操作建议；支持 BYOK |
-| **规范引注** | 详情页复制引用 | GB/T 7714-2015 · Bluebook · 简化式 · 完整式 |
-| **数据来源核验** | `#/sources` | 逐条标注官方来源、入库日期与收录形态 |
+| **法规检索** | `#/search` | 关键词 / 自然语言 / 法条编号三种模式；国别、层级、时效、主题、日期筛选；结果卡展示国家、时效性、制定机关、文号、公布/施行日期与条文数量 |
+| **法规详情** | `#/law/:id` | 左栏条文目录随界面语言切换；右侧表格化基本信息；下方版本与变迁时间线，历史版本可跳转；推荐 3–5 部相关法规；支持下载全文 TXT |
+| **正文术语** | 详情正文 | 专业术语虚线下划线，单击弹出当前界面语言释义；不设独立术语库页面 |
+| **AI 智能问答** | `#/assistant` | 先检索候选条文，再在受控上下文中作答；每条结论绑定条号与原文位置；相关度不足时明确说明；支持用户自带 OpenAI 兼容接口 |
+| **多语种界面** | 右上角语言菜单 | 中 / 英 / 越 / 泰 / 印尼 / 马来 6 种界面语言 |
+| **数据来源核验** | `#/sources` | 按法域查看官方来源与数据说明 |
+
+> 2026-10-29 起，产品不再提供独立的“跨语言条款比对”和“术语库”页面：阅读与对照能力收敛到检索结果、详情页和正文内联术语中。
 
 ---
 
-## 四、技术亮点
+## 4. 系统架构
 
-| 亮点 | 说明 |
+### 4.1 总体结构
+
+```mermaid
+flowchart LR
+    U[浏览器] --> F[原生 JS SPA<br/>零构建 / 零框架]
+    F -->|file://| D[prototype/data<br/>JSON + 分卷]
+    F -->|http(s)://| A[FastAPI]
+    A --> DB[(SQLite<br/>calr.db ~2.1 GB)]
+    A --> B[BM25 倒排索引]
+    A --> V[bge-m3 ONNX<br/>DirectML / CPU]
+    V --> I[A/B/C 向量索引]
+    A --> R[RRF 融合 + 阈值 + 国别过滤]
+    R --> C[带条号引用的回答]
+```
+
+- **前端**：原生 JavaScript 单页应用，没有打包器；`file://` 可直接离线运行。
+- **后端**：FastAPI + SQLite，提供检索、详情、问答与数据接口；可选 API Key、限流、请求体上限。
+- **推理**：bge-m3 使用 ONNX Runtime，DirectML 可调用任意 DirectX 12 显卡，无需 CUDA/PyTorch。
+- **部署**：纯静态、单机后端、Docker 三种形态。
+
+### 4.2 检索与问答链路
+
+```text
+用户问题
+  → 识别 / 前置国别过滤
+  → BM25 条文候选
+  → 条文切片向量候选（C）或条文向量候选（A）
+  → RRF 融合（k=60）
+  → 纯向量结果过余弦阈值（默认 0.30）
+  → 按正文前 80 字去重
+  → 回查原文与条号
+  → 生成带引用回答
+```
+
+关键参数：
+
+| 参数 | 默认值 | 作用 |
+| :--- | ---: | :--- |
+| `CALR_QA_VEC_MIN` | 0.30 | 向量结果最低余弦相似度 |
+| `CALR_QA_RRF_K` | 60 | RRF 融合常数 |
+| `CALR_QA_CHUNKS` | 1 | 是否优先使用 C 条文切片索引 |
+| C 切片长度 | 512 token | 单条条文窗口 |
+| C 切片步长 | 128 token | 窗口重叠 |
+| C 单条上限 | 3 块 | 控制索引体积 |
+
+### 4.3 技术栈
+
+| 层 | 技术 |
 | :--- | :--- |
-| **零构建零依赖 SPA** | 全部 classic `<script>`，无打包器；`file://` 可直接运行，评委只需浏览器 |
-| **混合检索** | 检索页 BM25 + bge-m3 向量 + RRF；`/api/qa` 2026-10-29 起改为 BM25 条文候选 + 向量候选 + RRF + 余弦阈值 + 国别前置过滤（离线测试 5/5）。旧库 106 题 P@3 5.7% → **16.7%**，国别准确 99.1%；42k 新库向量夜间按 `_work/rag/VECTOR-UPGRADE-PLAN.md` 增量重建后复测。详见 [RAG 检索评估与优化建议](docs/03a-RAG检索评估与优化建议.md) |
-| **多语种界面与标题** | 6 种界面语言；检索结果标题按当前语言展示，并附小号浅色【原文名称】；条文目录、条号、机构与来源均随界面语言本地化 |
-| **数据规模与自足** | 42,121 部 / 564,579 条全部落在 `prototype/data/laws/`，可整目录拷走运行；译文层 5,633 部 / 90,627 条物理分离 |
-| **ONNX 而非 PyTorch 推理** | 省掉 2.5 GB 依赖；配 DirectML 可直接用任意 DX12 显卡，无需装 CUDA |
-| **权威存储单一化** | `laws/<法规ID>.json` 是唯一权威，数据库与向量均为派生视图，随时可重建 |
-| **数据自足** | `prototype/` 单独拷走即可完整运行，不引用任何外部路径（有 11 项自动检查守门） |
-| **首屏 0.68 秒** | 按打开方式决定加载内容：API 模式跳过 15.9 MB catalog 与 3.7 MB IDF 表，首屏由 4.45 s 降到 0.68 s |
-| **7 数据校验器 + 全量语法检查** | 数据完整性、自足性、译文层一致性、i18n 完整性、项目红线；另有后端 13 项自测。前 7 项已接入 CI |
-| **移动端适配** | 390px / 768px 两档断点，5 个视图横向溢出为 0 |
+| 前端 | 原生 HTML / CSS / JavaScript，零构建 |
+| 后端 | Python、FastAPI、Uvicorn |
+| 数据库 | SQLite（只读连接、参数化查询） |
+| 检索 | BM25 + bge-m3 向量 + RRF |
+| 向量推理 | ONNX Runtime + DirectML（可选 CPU） |
+| 数据校验 | Node.js 校验脚本 + GitHub Actions |
 
 ---
 
-## 五、目录结构
+## 5. 快速开始
 
-> 完整说明与边界约定见 [docs/00-目录结构与维护指南.md](docs/00-目录结构与维护指南.md)。
-
-```
-prototype/            前端（零构建、零依赖，约 2 GB，可单独拷走运行）
-  index.html          入口；按打开方式决定是否加载完整 catalog
-  assets/js/          app.js + core/（store/search/qa/api/fulltext/i18n/router）+ views/ + ui/
-  assets/css/         tokens / base / components / views / home-v2 / mobile
-  assets/img/         站点图片与各国系统配图
-  data/laws/          权威存储：42,121 部 <法规ID>.json + index.json
-  data/{cn,intl,fulltext}/   条文分卷（按需加载）
-  data/trans/         译文层（47 分卷，与原文物理分离）
-  data/title-zh/      中文标题档案（30,664 部，含来源与引擎）
-  data/*.js           前端数据入口（dataset-core/extra、catalog、i18n、bm25-idf 等）
-
-backend/              后端（FastAPI + SQLite + ONNX 向量）
-  build_db.py         laws/*.json → calr.db（约 2.1 GB）
-  app/                main / db / search / vectors / hybrid / embedder / security
-  test_api.py         13 项后端自测
-  DEPLOY.md           后端 Docker 部署说明
-
-tools/                校验器、抓取脚本、评测快照与模板（正本；见 tools/README.md）
-rules/                数据契约与项目红线（7 份 SKILL-* 为权威；历史归档已标记）
-docs/                 工程文档（00 指南 + 01–04 交付 + deploy/ 07–10 运维 + _archive-* 历史）
-materials/            比赛材料（05 演示脚本 / 06 申报书 / 报告与申报 docx / 提交 PDF）
-.github/workflows/    CI：data-checks（7 个数据校验器 + 全量 JS 语法）
-_work/                本地工作区（模型、批次、历史脚本与归档的 _audit/_out；不入库）
-```
-
----
-
-## 六、文档
-
-文档与比赛材料共 **12 份**：工程文档 10 份在 [`docs/`](docs/)（00 指南 + 01–04 交付 + 03a RAG 评估 + 07–10 部署运维），
-比赛材料 05/06 在 [`materials/`](materials/README.md)（05 演示脚本在 `roadshow/`、06 申报书在 `reports/`）。
-完整索引见 [docs/README.md](docs/README.md)、[materials/README.md](materials/README.md)，目录结构与维护规则见 [docs/00-目录结构与维护指南.md](docs/00-目录结构与维护指南.md)。
-docx 交付版在 [`materials/reports/`](materials/reports/)（01–04、06、附件2）与 [`materials/roadshow/`](materials/roadshow/)（05）。
-
-| 文档 | 内容 | docx |
-| :--- | :--- | :---: |
-| [00 · 目录结构与维护指南](docs/00-目录结构与维护指南.md) | 目录用途与边界、命名规范、归档规则、关键文件清单 | — |
-| [01 · 项目总览](docs/01-项目总览.md) | 定位、数据规模、功能矩阵、两种运行形态、六个关键设计取舍 | ✅ |
-| [02 · 数据规范与治理](docs/02-数据规范与治理.md) | 数据模型、入库流程、9 条质量硬约束、五类已治理缺陷的完整记录、6 条数据红线 | ✅ |
-| [03 · 技术架构与检索](docs/03-技术架构与检索.md) | 架构图、三条检索链路、性能实测与瓶颈分析、安全设计、部署 | ✅ |
-| [03a · RAG 检索评估与优化建议](docs/03a-RAG检索评估与优化建议.md) | 向量覆盖实测、现有指标、算法缺陷、按 ROI 排序的改进路线 | — |
-| [04 · 交付验收与后续规划](docs/04-交付验收与后续规划.md) | 校验体系、评测指标、已知问题、路线图、5 分钟复现步骤 | ✅ |
-| [05 · 演示视频脚本](materials/roadshow/05-演示视频脚本.md) | 4 分 30 秒分镜脚本、旁白全稿、答辩 PPT 大纲 | ✅ |
-| [06 · 项目申报书正文](materials/reports/06-项目申报书正文.md) | 大赛申报书五段正文（评分材料） | ✅ |
-| [07 · 云服务器部署](docs/deploy/07-部署指南.md) | A/B/B+ 三形态、Docker、systemd、Nginx、验证清单 | — |
-| [08 · B+ 完整部署](docs/deploy/08-部署-B+完整版.md) | 含 bge-m3 模型的增量部署与性能预期 | — |
-| [09 · Windows 服务器部署](docs/deploy/09-部署-Windows服务器.md) | Windows Server 2022 计划态部署步骤 | — |
-| [10 · Windows 实测复盘](docs/deploy/10-部署-Windows阿里云实测复盘.md) | 实际部署后的修正与避坑（最新） | — |
-
----
-
-## 七、校验
+### 5.1 方式一：纯静态（最快，零依赖）
 
 ```bash
-# 7 个数据校验器 + 后端自测，全部应通过；前 7 项已接入 CI
-node tools/verify.js                  # 数据与引用完整性
-node tools/verify-data.js             # 逐文件统计一致性
-node tools/verify-data-home.js        # 11 项数据自足性（A1–A11）
-node tools/verify-fulltext.js         # 分卷与权威存储逐条比对
-node tools/test-trans-layer.js        # 译文层结构
-node tools/check-i18n.js              # 5 语种 × 870 键
-node tools/scan-forbidden2.js         # 项目红线禁用表述
-python backend/test_api.py            # 后端 13 项自测（需先起服务）
+git clone https://github.com/lo-pei/China-ASEAN-Laws-and-Regulations-Database.git
+cd China-ASEAN-Laws-and-Regulations-Database
+# 直接用浏览器打开：
+# prototype/index.html
 ```
 
-CI 见 [.github/workflows/data-checks.yml](.github/workflows/data-checks.yml)；工具索引见 [tools/README.md](tools/README.md)。
+静态模式不安装任何依赖、不联网，适合评审现场演示。
+
+### 5.2 方式二：后端形态（推荐）
+
+```bash
+# 1) 建库：42,121 部法规 → backend/data/calr.db（约 2.1 GB，首次约 12 分钟）
+python backend/build_db.py
+
+# 2) 安装依赖并启动
+pip install -r backend/requirements.txt
+uvicorn backend.app.main:app --host 0.0.0.0 --port 8000
+
+# 3) 浏览器访问
+# http://127.0.0.1:8000/
+```
+
+同一套前端会自动识别运行方式：`http(s)://` 走后端 API，`file://` 走本地静态数据。
+
+### 5.3 可选：重建向量索引
+
+向量索引体积较大，默认不随 Git 仓库分发。需要语义检索/混合问答时：
+
+```bash
+python _work/phaseb/download.py                         # 下载 bge-m3 ONNX 模型
+python _work/phaseb/embed.py --level law --law-content  # B：法规向量
+python _work/phaseb/embed_missing.py --level article    # A：条文增量向量
+# PowerShell：
+$env:CALR_MAX_LEN="512"
+python _work/phaseb/embed_chunks.py --batch 8           # C：512-token 条文切片
+```
+
+没有向量索引时，检索自动降级为 BM25，详情与数据浏览功能不受影响。C 索引支持断点续跑：`backend/data/vectors-chunks/chunk_missing.ckpt` 记录已完成位置。
+
+### 5.4 部署文档
+
+- [07 · 通用云服务器部署](docs/deploy/07-部署指南.md)
+- [08 · B+ 完整部署（含模型）](docs/deploy/08-部署-B+完整版.md)
+- [09 · Windows 服务器部署](docs/deploy/09-部署-Windows服务器.md)
+- [10 · Windows 阿里云实测复盘](docs/deploy/10-部署-Windows阿里云实测复盘.md)
 
 ---
 
-## 八、数据红线
+## 6. 目录结构
 
-1. **逐字照录**：不节选、不改写、不摘要原文
-2. **不编造**：不生成原文中不存在的内容；机器翻译必须标注引擎
-3. **来源可追溯**：每部法规必须有官方来源链接
-4. **译文与原文物理分离**：译文绝不写回原文正文
-5. **AI 辅助生成标注**：AI 生成内容必须标注「AI 辅助生成，仅供参考」
-6. **数据自足**：`prototype/` 单独拷走即可运行
+```text
+.
+├── prototype/                  # 前端：零构建 SPA + 权威数据
+│   ├── index.html              # 入口
+│   ├── assets/js/              # core / views / ui
+│   ├── assets/css/             # tokens / base / components / views
+│   └── data/
+│       ├── laws/               # 42,121 部法规 JSON + index.json
+│       ├── cn/ intl/ fulltext/ # 条文分卷（按需加载）
+│       ├── trans/              # 译文层（47 分卷）
+│       ├── title-zh/           # 中文标题档案
+│       └── *.js                # catalog / i18n / BM25 等数据入口
+├── backend/                    # FastAPI + SQLite + 向量检索
+│   ├── build_db.py             # laws/*.json → calr.db
+│   ├── app/                    # main / db / search / vectors / qa / security
+│   ├── test_api.py             # 后端自测
+│   └── requirements.txt
+├── tools/                      # 校验器、抓取与评测脚本
+├── rules/                      # 数据契约与项目红线
+├── docs/                       # 工程文档 + deploy/
+├── materials/                  # 比赛材料、说明书、摘要
+├── .github/workflows/          # CI：数据校验
+└── _work/                      # 本地工作区：模型、批次日志、脚本归档
+```
 
-详见 [`rules/`](rules/) 与 [`docs/02-数据规范与治理.md`](docs/02-数据规范与治理.md)。
+> `backend/data/`、`_work/models/` 与向量文件体积较大，不纳入 Git；请按第 5 节本地重建。
 
 ---
 
-## 九、许可与免责
+## 7. 质量保障
 
-本数据库仅用于学术研究与比赛演示。法规文本以各国官方公布版本为准；译文由 AI 辅助生成，
-仅供参考，不构成法律意见。使用前请核对官方原文。
-联系方式：carl_kent26@163.com
+### 7.1 校验与测试
+
+```bash
+node tools/verify.js             # 数据与引用完整性
+node tools/verify-data.js        # 逐文件统计一致性
+node tools/verify-data-home.js   # 数据自足性检查
+node tools/verify-fulltext.js    # 分卷与权威存储逐条比对
+node tools/test-trans-layer.js   # 译文层结构
+node tools/check-i18n.js         # 界面语言键完整性
+node tools/scan-forbidden2.js    # 项目红线禁用表述
+python backend/test_api.py       # 后端 13 项自测（需先启动服务）
+```
+
+| 保障项 | 当前结果 |
+| :--- | :--- |
+| 数据校验器 | 7 项，接入 GitHub Actions |
+| 后端接口自测 | 13 项 |
+| 混合问答离线测试 | 5/5 通过 |
+| 数据自足性 | `prototype/` 可独立拷走运行 |
+| 文档链接 | 相对链接检查通过 |
+
+### 7.2 评测基线
+
+旧库 106 题自建评测集上：
+
+| 指标 | BM25 | BM25 + 向量 + RRF |
+| :--- | ---: | ---: |
+| P@3 | 5.7% | **16.7%** |
+| 国别准确率 | 26.4% | **99.1%** |
+
+> 42k 新库的评测集正在扩充；旧库数字仅作为方法对比基线，不作为新库最终指标。
+
+---
+
+## 8. 文档导航
+
+| 文档 | 内容 |
+| :--- | :--- |
+| [00 · 目录结构与维护指南](docs/00-目录结构与维护指南.md) | 目录用途、命名规范、归档规则 |
+| [01 · 项目总览](docs/01-项目总览.md) | 定位、数据规模、功能矩阵、关键设计取舍 |
+| [02 · 数据规范与治理](docs/02-数据规范与治理.md) | 数据模型、入库流程、质量硬约束、缺陷治理记录 |
+| [03 · 技术架构与检索](docs/03-技术架构与检索.md) | 架构图、检索链路、性能实测、安全设计 |
+| [03a · RAG 检索评估与优化建议](docs/03a-RAG检索评估与优化建议.md) | 向量覆盖、评测指标、改进路线 |
+| [04 · 交付验收与后续规划](docs/04-交付验收与后续规划.md) | 校验体系、复现步骤、已知问题与路线图 |
+| [05 · 演示视频脚本](materials/roadshow/05-演示视频脚本.md) | 分镜、旁白与答辩大纲 |
+| [06 · 项目申报书正文](materials/reports/06-项目申报书正文.md) | 大赛申报书正文 |
+| [07–10 · 部署运维](docs/deploy/) | 云服务器、B+ 完整版、Windows 部署与实测复盘 |
+
+比赛材料索引：[materials/README.md](materials/README.md)  
+文档索引：[docs/README.md](docs/README.md)
+
+---
+
+## 9. 路线图
+
+- [x] 42k 法规 / 564k 条文全量入库
+- [x] 译文层与中文标题层补齐
+- [x] A 条文向量、B 法规向量重建
+- [ ] C 512-token 条文切片索引（构建中，断点续跑）
+- [ ] 42k 新库 300+ 题评测集与基线复测
+- [ ] 生产部署的监控、限流与 SLA 完善
+
+## 10. 数据来源、许可与免责
+
+- 法规原文来自中国法律法规数据库及东盟各国官方公报/法律门户，逐部标注来源链接。
+- 译文由 AI 辅助生成并标明引擎，未经人工逐条校对；引用前请核对官方原文。
+- 本项目仅用于学术研究、教学与竞赛演示，不构成法律意见，也不替代执业律师的专业判断。
+- 第三方模型（bge-m3、NLLB 等）遵循各自开源许可证；使用前请自行确认许可范围。
+
+## 11. 团队与联系
+
+**上海对外经贸大学 · 一粒橡子队**  
+负责人：王勃森  
+联系邮箱：carl_kent26@163.com
+
+---
+
+<div align="center">
+
+**CALR · 让每一条法条都能被读到、读懂、引用**
+
+</div>
