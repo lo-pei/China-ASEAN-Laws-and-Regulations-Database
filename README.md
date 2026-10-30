@@ -200,7 +200,7 @@ python _work/phaseb/embed_chunks.py --batch 8           # C：512-token 条文�
 - [09 · Windows 服务器部署](docs/deploy/09-部署-Windows服务器.md)
 - [10 · Windows 阿里云实测复盘](docs/deploy/10-部署-Windows阿里云实测复盘.md)
 
-不编造：不生成原文中不存在的内容；机器翻译必须标注引擎
+---
 
 ## 6. 目录结构
 
@@ -231,7 +231,7 @@ python _work/phaseb/embed_chunks.py --batch 8           # C：512-token 条文�
 
 > `backend/data/`、`_work/models/` 与向量文件体积较大，不纳入 Git；请按第 5 节本地重建。
 
-数据自足：prototype/ 单独拷走即可运行
+---
 
 ## 7. 质量保障
 
