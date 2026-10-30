@@ -7,7 +7,7 @@
 ---
 
 
-> 部署到云服务器：见 [docs/deploy/](docs/deploy/)（[07 通用云服务器](docs/deploy/07-部署指南.md) · 08 B+ 完整版 · 09 Windows 服务器 · 10 Windows 实测复盘）。
+> 部署到云服务器：见 [docs/deploy/](docs/deploy/)（[07 通用云服务器](docs/deploy/07-部署指南.md) · 08 B+ 完整版 · 09 Windows 服务器 · 10 Windows 实测复盘）。  
 > 产品解决方案 Demo（PDF）与产品使用说明书（PDF）：见 [materials/submission/](materials/submission/)，均面向比赛评审/答辩；其余比赛材料见 [materials/](materials/README.md)。
 
 ## 一、这是什么
