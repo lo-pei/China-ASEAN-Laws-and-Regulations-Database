@@ -196,30 +196,44 @@ html[data-theme="dark"] .sys-tag--mixed { color: #C4B5FD; background: #2A2340; }
   .law-item__basic { grid-template-columns: 1fr 1fr; gap: 5px 14px; }
   .law-item__basic > span { white-space: normal; }
 }
-/* 非中文界面的标签/机关名更长：改为两列自适应，避免「时效性」状态标签
-   被后续的颁布机关文本挤占/遮挡。 */
+/* 非中文界面的标签/机关名更长：单行 flex，不换行；状态标签不被列宽裁切。
+   窄屏优先保留「国家 + 时效性 + 制定机关」，隐藏文号/日期等次要列。 */
 html:not([lang="zh-CN"]) .law-item__basic {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 6px 14px;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 6px;
+  overflow: hidden;
 }
 html:not([lang="zh-CN"]) .law-item__basic > span {
-  white-space: normal;
-  overflow: visible;
-  text-overflow: clip;
+  flex: 0 1 auto;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
-/* 状态标签在非中文界面独占一整行，避免长译文被列宽裁切、机关名贴上来遮挡。 */
+html:not([lang="zh-CN"]) .law-item__basic > .law-item__country,
 html:not([lang="zh-CN"]) .law-item__basic > .law-item__status {
-  grid-column: 1 / -1;
-  white-space: normal;
-  overflow: visible;
+  flex: 0 0 auto;
+}
+html:not([lang="zh-CN"]) .law-item__basic > .law-item__issuer {
+  flex: 1 1 auto;
+  min-width: 70px;
 }
 html:not([lang="zh-CN"]) .law-item__status .status {
-  max-width: 100%;
-  white-space: normal;
+  gap: 3px;
+  padding: 1px 6px;
+  font-size: 10px;
+  white-space: nowrap;
 }
 html:not([lang="zh-CN"]) .filter-group__title {
   line-height: 1.5;
   overflow-wrap: anywhere;
+}
+@media (max-width: 720px) {
+  html:not([lang="zh-CN"]) .law-item__basic > span:nth-child(n+4) {
+    display: none;
+  }
 }
 .law-item__meta { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 8px; font-size: var(--fs-mini); color: var(--text-secondary); }
 .law-item__snippet { margin-top: 8px; font-size: var(--fs-small); color: var(--text-secondary); line-height: 1.7; }
