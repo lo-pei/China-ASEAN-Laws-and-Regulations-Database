@@ -1,0 +1,988 @@
+{
+ "meta": {
+  "generatedAt": "2026-10-31T12:36:29",
+  "total": 346,
+  "curated": 106,
+  "synthetic": 240,
+  "perCountrySynthetic": 20,
+  "topk": 5
+ },
+ "configs": {
+  "bm25": {
+   "elapsedSec": 489.5,
+   "latencyP50ms": 1397.4,
+   "latencyP90ms": 2152.6,
+   "all": {
+    "n": 346,
+    "P@3": 0.3487,
+    "R@5": 0.4172,
+    "MRR": 0.4004,
+    "Hit@5": 0.4393,
+    "ArticleP@3": 0.1204,
+    "ArticleR@5": 0.3633,
+    "ArticleMRR": 0.3123,
+    "ArticleHit@5": 0.3844,
+    "CountryAcc": 0.3873,
+    "countryN": 346
+   },
+   "bySource": {
+    "curated": {
+     "n": 106,
+     "P@3": 0.1069,
+     "R@5": 0.0409,
+     "MRR": 0.1132,
+     "Hit@5": 0.1132,
+     "ArticleP@3": 0.0566,
+     "ArticleR@5": 0.0256,
+     "ArticleMRR": 0.0881,
+     "ArticleHit@5": 0.0943,
+     "CountryAcc": 0.1132,
+     "countryN": 106
+    },
+    "synthetic": {
+     "n": 240,
+     "P@3": 0.4556,
+     "R@5": 0.5833,
+     "MRR": 0.5272,
+     "Hit@5": 0.5833,
+     "ArticleP@3": 0.1486,
+     "ArticleR@5": 0.5125,
+     "ArticleMRR": 0.4114,
+     "ArticleHit@5": 0.5125,
+     "CountryAcc": 0.5083,
+     "countryN": 240
+    }
+   },
+   "byCountry": {
+    "BN": {
+     "n": 28,
+     "P@3": 0.25,
+     "R@5": 0.3393,
+     "MRR": 0.3036,
+     "Hit@5": 0.3571,
+     "ArticleP@3": 0.0714,
+     "ArticleR@5": 0.2857,
+     "ArticleMRR": 0.2125,
+     "ArticleHit@5": 0.2857,
+     "CountryAcc": 0.2857,
+     "countryN": 28
+    },
+    "CN": {
+     "n": 30,
+     "P@3": 0.8,
+     "R@5": 0.6903,
+     "MRR": 0.85,
+     "Hit@5": 0.9,
+     "ArticleP@3": 0.3444,
+     "ArticleR@5": 0.6233,
+     "ArticleMRR": 0.7444,
+     "ArticleHit@5": 0.8333,
+     "CountryAcc": 0.8333,
+     "countryN": 30
+    },
+    "ID": {
+     "n": 30,
+     "P@3": 0.3444,
+     "R@5": 0.3375,
+     "MRR": 0.3667,
+     "Hit@5": 0.3667,
+     "ArticleP@3": 0.1222,
+     "ArticleR@5": 0.3338,
+     "ArticleMRR": 0.35,
+     "ArticleHit@5": 0.3667,
+     "CountryAcc": 0.3667,
+     "countryN": 30
+    },
+    "KH": {
+     "n": 28,
+     "P@3": 0.0714,
+     "R@5": 0.1071,
+     "MRR": 0.0804,
+     "Hit@5": 0.1071,
+     "ArticleP@3": 0.0119,
+     "ArticleR@5": 0.0714,
+     "ArticleMRR": 0.0268,
+     "ArticleHit@5": 0.0714,
+     "CountryAcc": 0.0714,
+     "countryN": 28
+    },
+    "LA": {
+     "n": 28,
+     "P@3": 0.131,
+     "R@5": 0.2143,
+     "MRR": 0.1875,
+     "Hit@5": 0.2143,
+     "ArticleP@3": 0.0476,
+     "ArticleR@5": 0.1786,
+     "ArticleMRR": 0.1518,
+     "ArticleHit@5": 0.1786,
+     "CountryAcc": 0.1786,
+     "countryN": 28
+    },
+    "MM": {
+     "n": 28,
+     "P@3": 0.131,
+     "R@5": 0.2857,
+     "MRR": 0.2054,
+     "Hit@5": 0.2857,
+     "ArticleP@3": 0.0595,
+     "ArticleR@5": 0.2857,
+     "ArticleMRR": 0.2054,
+     "ArticleHit@5": 0.2857,
+     "CountryAcc": 0.1786,
+     "countryN": 28
+    },
+    "MY": {
+     "n": 30,
+     "P@3": 0.1889,
+     "R@5": 0.4,
+     "MRR": 0.2483,
+     "Hit@5": 0.4,
+     "ArticleP@3": 0.0667,
+     "ArticleR@5": 0.3667,
+     "ArticleMRR": 0.2011,
+     "ArticleHit@5": 0.3667,
+     "CountryAcc": 0.2,
+     "countryN": 30
+    },
+    "PH": {
+     "n": 29,
+     "P@3": 0.4483,
+     "R@5": 0.5517,
+     "MRR": 0.5287,
+     "Hit@5": 0.5517,
+     "ArticleP@3": 0.1839,
+     "ArticleR@5": 0.5517,
+     "ArticleMRR": 0.5287,
+     "ArticleHit@5": 0.5517,
+     "CountryAcc": 0.5172,
+     "countryN": 29
+    },
+    "SG": {
+     "n": 30,
+     "P@3": 0.5111,
+     "R@5": 0.6333,
+     "MRR": 0.6333,
+     "Hit@5": 0.6333,
+     "ArticleP@3": 0.1556,
+     "ArticleR@5": 0.4667,
+     "ArticleMRR": 0.3389,
+     "ArticleHit@5": 0.4667,
+     "CountryAcc": 0.6333,
+     "countryN": 30
+    },
+    "TH": {
+     "n": 30,
+     "P@3": 0.2111,
+     "R@5": 0.2667,
+     "MRR": 0.2417,
+     "Hit@5": 0.2667,
+     "ArticleP@3": 0.0778,
+     "ArticleR@5": 0.2667,
+     "ArticleMRR": 0.2417,
+     "ArticleHit@5": 0.2667,
+     "CountryAcc": 0.2333,
+     "countryN": 30
+    },
+    "TL": {
+     "n": 25,
+     "P@3": 0.5867,
+     "R@5": 0.64,
+     "MRR": 0.64,
+     "Hit@5": 0.64,
+     "ArticleP@3": 0.1733,
+     "ArticleR@5": 0.52,
+     "ArticleMRR": 0.34,
+     "ArticleHit@5": 0.52,
+     "CountryAcc": 0.64,
+     "countryN": 25
+    },
+    "VN": {
+     "n": 30,
+     "P@3": 0.5,
+     "R@5": 0.5333,
+     "MRR": 0.5083,
+     "Hit@5": 0.5333,
+     "ArticleP@3": 0.1222,
+     "ArticleR@5": 0.4,
+     "ArticleMRR": 0.375,
+     "ArticleHit@5": 0.4,
+     "CountryAcc": 0.5,
+     "countryN": 30
+    }
+   }
+  },
+  "a_article": {
+   "elapsedSec": 592.2,
+   "latencyP50ms": 1564.8,
+   "latencyP90ms": 2539.0,
+   "all": {
+    "n": 346,
+    "P@3": 0.3266,
+    "R@5": 0.5825,
+    "MRR": 0.5204,
+    "Hit@5": 0.6503,
+    "ArticleP@3": 0.1773,
+    "ArticleR@5": 0.4769,
+    "ArticleMRR": 0.4081,
+    "ArticleHit@5": 0.5376,
+    "CountryAcc": 0.4364,
+    "countryN": 346
+   },
+   "bySource": {
+    "curated": {
+     "n": 106,
+     "P@3": 0.2044,
+     "R@5": 0.1279,
+     "MRR": 0.2547,
+     "Hit@5": 0.3491,
+     "ArticleP@3": 0.1352,
+     "ArticleR@5": 0.0566,
+     "ArticleMRR": 0.1851,
+     "ArticleHit@5": 0.2547,
+     "CountryAcc": 0.1981,
+     "countryN": 106
+    },
+    "synthetic": {
+     "n": 240,
+     "P@3": 0.3806,
+     "R@5": 0.7833,
+     "MRR": 0.6378,
+     "Hit@5": 0.7833,
+     "ArticleP@3": 0.1958,
+     "ArticleR@5": 0.6625,
+     "ArticleMRR": 0.5066,
+     "ArticleHit@5": 0.6625,
+     "CountryAcc": 0.5417,
+     "countryN": 240
+    }
+   },
+   "byCountry": {
+    "BN": {
+     "n": 28,
+     "P@3": 0.2976,
+     "R@5": 0.625,
+     "MRR": 0.5417,
+     "Hit@5": 0.6429,
+     "ArticleP@3": 0.1548,
+     "ArticleR@5": 0.4821,
+     "ArticleMRR": 0.3899,
+     "ArticleHit@5": 0.5,
+     "CountryAcc": 0.4643,
+     "countryN": 28
+    },
+    "CN": {
+     "n": 30,
+     "P@3": 0.7889,
+     "R@5": 0.7865,
+     "MRR": 1.0,
+     "Hit@5": 1.0,
+     "ArticleP@3": 0.4333,
+     "ArticleR@5": 0.696,
+     "ArticleMRR": 0.9167,
+     "ArticleHit@5": 0.9333,
+     "CountryAcc": 1.0,
+     "countryN": 30
+    },
+    "ID": {
+     "n": 30,
+     "P@3": 0.3889,
+     "R@5": 0.6194,
+     "MRR": 0.5417,
+     "Hit@5": 0.7333,
+     "ArticleP@3": 0.2556,
+     "ArticleR@5": 0.556,
+     "ArticleMRR": 0.475,
+     "ArticleHit@5": 0.7,
+     "CountryAcc": 0.4333,
+     "countryN": 30
+    },
+    "KH": {
+     "n": 28,
+     "P@3": 0.1905,
+     "R@5": 0.5679,
+     "MRR": 0.281,
+     "Hit@5": 0.6071,
+     "ArticleP@3": 0.131,
+     "ArticleR@5": 0.4777,
+     "ArticleMRR": 0.2363,
+     "ArticleHit@5": 0.5357,
+     "CountryAcc": 0.1071,
+     "countryN": 28
+    },
+    "LA": {
+     "n": 28,
+     "P@3": 0.1071,
+     "R@5": 0.3214,
+     "MRR": 0.1667,
+     "Hit@5": 0.3214,
+     "ArticleP@3": 0.0714,
+     "ArticleR@5": 0.2857,
+     "ArticleMRR": 0.1429,
+     "ArticleHit@5": 0.2857,
+     "CountryAcc": 0.0714,
+     "countryN": 28
+    },
+    "MM": {
+     "n": 28,
+     "P@3": 0.1548,
+     "R@5": 0.4286,
+     "MRR": 0.3393,
+     "Hit@5": 0.4286,
+     "ArticleP@3": 0.119,
+     "ArticleR@5": 0.4286,
+     "ArticleMRR": 0.3375,
+     "ArticleHit@5": 0.4286,
+     "CountryAcc": 0.2857,
+     "countryN": 28
+    },
+    "MY": {
+     "n": 30,
+     "P@3": 0.2778,
+     "R@5": 0.5875,
+     "MRR": 0.5233,
+     "Hit@5": 0.6333,
+     "ArticleP@3": 0.1444,
+     "ArticleR@5": 0.4667,
+     "ArticleMRR": 0.4067,
+     "ArticleHit@5": 0.4667,
+     "CountryAcc": 0.4667,
+     "countryN": 30
+    },
+    "PH": {
+     "n": 29,
+     "P@3": 0.4023,
+     "R@5": 0.6352,
+     "MRR": 0.6293,
+     "Hit@5": 0.7586,
+     "ArticleP@3": 0.2644,
+     "ArticleR@5": 0.6016,
+     "ArticleMRR": 0.5833,
+     "ArticleHit@5": 0.7241,
+     "CountryAcc": 0.5172,
+     "countryN": 29
+    },
+    "SG": {
+     "n": 30,
+     "P@3": 0.3667,
+     "R@5": 0.6542,
+     "MRR": 0.6194,
+     "Hit@5": 0.8,
+     "ArticleP@3": 0.1222,
+     "ArticleR@5": 0.4026,
+     "ArticleMRR": 0.2844,
+     "ArticleHit@5": 0.4667,
+     "CountryAcc": 0.4667,
+     "countryN": 30
+    },
+    "TH": {
+     "n": 30,
+     "P@3": 0.1222,
+     "R@5": 0.4667,
+     "MRR": 0.3139,
+     "Hit@5": 0.4667,
+     "ArticleP@3": 0.1222,
+     "ArticleR@5": 0.4667,
+     "ArticleMRR": 0.3139,
+     "ArticleHit@5": 0.4667,
+     "CountryAcc": 0.2333,
+     "countryN": 30
+    },
+    "TL": {
+     "n": 25,
+     "P@3": 0.4933,
+     "R@5": 0.7323,
+     "MRR": 0.7733,
+     "Hit@5": 0.84,
+     "ArticleP@3": 0.16,
+     "ArticleR@5": 0.4416,
+     "ArticleMRR": 0.416,
+     "ArticleHit@5": 0.52,
+     "CountryAcc": 0.72,
+     "countryN": 25
+    },
+    "VN": {
+     "n": 30,
+     "P@3": 0.3222,
+     "R@5": 0.5667,
+     "MRR": 0.5111,
+     "Hit@5": 0.5667,
+     "ArticleP@3": 0.1333,
+     "ArticleR@5": 0.4,
+     "ArticleMRR": 0.3667,
+     "ArticleHit@5": 0.4,
+     "CountryAcc": 0.4667,
+     "countryN": 30
+    }
+   }
+  },
+  "c_chunk": {
+   "elapsedSec": 562.3,
+   "latencyP50ms": 1591.3,
+   "latencyP90ms": 2367.6,
+   "all": {
+    "n": 346,
+    "P@3": 0.3247,
+    "R@5": 0.5863,
+    "MRR": 0.5154,
+    "Hit@5": 0.6474,
+    "ArticleP@3": 0.1705,
+    "ArticleR@5": 0.4773,
+    "ArticleMRR": 0.4079,
+    "ArticleHit@5": 0.5347,
+    "CountryAcc": 0.4306,
+    "countryN": 346
+   },
+   "bySource": {
+    "curated": {
+     "n": 106,
+     "P@3": 0.1981,
+     "R@5": 0.1306,
+     "MRR": 0.2464,
+     "Hit@5": 0.3302,
+     "ArticleP@3": 0.1101,
+     "ArticleR@5": 0.0485,
+     "ArticleMRR": 0.1586,
+     "ArticleHit@5": 0.2358,
+     "CountryAcc": 0.1981,
+     "countryN": 106
+    },
+    "synthetic": {
+     "n": 240,
+     "P@3": 0.3806,
+     "R@5": 0.7875,
+     "MRR": 0.6342,
+     "Hit@5": 0.7875,
+     "ArticleP@3": 0.1972,
+     "ArticleR@5": 0.6667,
+     "ArticleMRR": 0.5179,
+     "ArticleHit@5": 0.6667,
+     "CountryAcc": 0.5333,
+     "countryN": 240
+    }
+   },
+   "byCountry": {
+    "BN": {
+     "n": 28,
+     "P@3": 0.3214,
+     "R@5": 0.625,
+     "MRR": 0.5714,
+     "Hit@5": 0.6429,
+     "ArticleP@3": 0.1548,
+     "ArticleR@5": 0.5357,
+     "ArticleMRR": 0.4446,
+     "ArticleHit@5": 0.5357,
+     "CountryAcc": 0.5,
+     "countryN": 28
+    },
+    "CN": {
+     "n": 30,
+     "P@3": 0.7889,
+     "R@5": 0.805,
+     "MRR": 1.0,
+     "Hit@5": 1.0,
+     "ArticleP@3": 0.4222,
+     "ArticleR@5": 0.7016,
+     "ArticleMRR": 0.9,
+     "ArticleHit@5": 0.9333,
+     "CountryAcc": 1.0,
+     "countryN": 30
+    },
+    "ID": {
+     "n": 30,
+     "P@3": 0.3778,
+     "R@5": 0.6367,
+     "MRR": 0.5639,
+     "Hit@5": 0.7667,
+     "ArticleP@3": 0.2222,
+     "ArticleR@5": 0.5089,
+     "ArticleMRR": 0.4472,
+     "ArticleHit@5": 0.6333,
+     "CountryAcc": 0.4333,
+     "countryN": 30
+    },
+    "KH": {
+     "n": 28,
+     "P@3": 0.1548,
+     "R@5": 0.5071,
+     "MRR": 0.2232,
+     "Hit@5": 0.5357,
+     "ArticleP@3": 0.0952,
+     "ArticleR@5": 0.398,
+     "ArticleMRR": 0.1667,
+     "ArticleHit@5": 0.4286,
+     "CountryAcc": 0.0714,
+     "countryN": 28
+    },
+    "LA": {
+     "n": 28,
+     "P@3": 0.0952,
+     "R@5": 0.3214,
+     "MRR": 0.1887,
+     "Hit@5": 0.3214,
+     "ArticleP@3": 0.0595,
+     "ArticleR@5": 0.2857,
+     "ArticleMRR": 0.1363,
+     "ArticleHit@5": 0.2857,
+     "CountryAcc": 0.1071,
+     "countryN": 28
+    },
+    "MM": {
+     "n": 28,
+     "P@3": 0.1786,
+     "R@5": 0.4286,
+     "MRR": 0.3476,
+     "Hit@5": 0.4286,
+     "ArticleP@3": 0.119,
+     "ArticleR@5": 0.3929,
+     "ArticleMRR": 0.3405,
+     "ArticleHit@5": 0.3929,
+     "CountryAcc": 0.3214,
+     "countryN": 28
+    },
+    "MY": {
+     "n": 30,
+     "P@3": 0.2778,
+     "R@5": 0.5833,
+     "MRR": 0.5122,
+     "Hit@5": 0.6,
+     "ArticleP@3": 0.1556,
+     "ArticleR@5": 0.4697,
+     "ArticleMRR": 0.3844,
+     "ArticleHit@5": 0.5,
+     "CountryAcc": 0.4667,
+     "countryN": 30
+    },
+    "PH": {
+     "n": 29,
+     "P@3": 0.3908,
+     "R@5": 0.6711,
+     "MRR": 0.6379,
+     "Hit@5": 0.7586,
+     "ArticleP@3": 0.2414,
+     "ArticleR@5": 0.6361,
+     "ArticleMRR": 0.5718,
+     "ArticleHit@5": 0.7586,
+     "CountryAcc": 0.5517,
+     "countryN": 29
+    },
+    "SG": {
+     "n": 30,
+     "P@3": 0.3778,
+     "R@5": 0.6542,
+     "MRR": 0.6111,
+     "Hit@5": 0.8,
+     "ArticleP@3": 0.1444,
+     "ArticleR@5": 0.4026,
+     "ArticleMRR": 0.3261,
+     "ArticleHit@5": 0.4667,
+     "CountryAcc": 0.4333,
+     "countryN": 30
+    },
+    "TH": {
+     "n": 30,
+     "P@3": 0.1444,
+     "R@5": 0.4667,
+     "MRR": 0.3167,
+     "Hit@5": 0.4667,
+     "ArticleP@3": 0.1111,
+     "ArticleR@5": 0.4667,
+     "ArticleMRR": 0.3167,
+     "ArticleHit@5": 0.4667,
+     "CountryAcc": 0.2333,
+     "countryN": 30
+    },
+    "TL": {
+     "n": 25,
+     "P@3": 0.4667,
+     "R@5": 0.7323,
+     "MRR": 0.728,
+     "Hit@5": 0.84,
+     "ArticleP@3": 0.1733,
+     "ArticleR@5": 0.5228,
+     "ArticleMRR": 0.48,
+     "ArticleHit@5": 0.6,
+     "CountryAcc": 0.64,
+     "countryN": 25
+    },
+    "VN": {
+     "n": 30,
+     "P@3": 0.3111,
+     "R@5": 0.6,
+     "MRR": 0.475,
+     "Hit@5": 0.6,
+     "ArticleP@3": 0.1333,
+     "ArticleR@5": 0.4,
+     "ArticleMRR": 0.3611,
+     "ArticleHit@5": 0.4,
+     "CountryAcc": 0.4,
+     "countryN": 30
+    }
+   }
+  }
+ },
+ "sample": [
+  {
+   "id": "curated-000",
+   "source": "curated",
+   "cc": "CN",
+   "gold_laws": [
+    "CN-BUSINESS-ENV-2019",
+    "CN-FIL-2019",
+    "CN-FIL-REG-2019",
+    "CN-HAINAN-FTP-2021",
+    "CN-JI-0434",
+    "CN-LAW-0163",
+    "CN-LAW-0208",
+    "CN-REG-0100",
+    "CN-REG-0534"
+   ],
+   "gold_keys": [
+    [
+     "CN-BUSINESS-ENV-2019",
+     20,
+     null
+    ],
+    [
+     "CN-FIL-2019",
+     28,
+     null
+    ],
+    [
+     "CN-FIL-2019",
+     36,
+     null
+    ],
+    [
+     "CN-FIL-2019",
+     4,
+     null
+    ],
+    [
+     "CN-FIL-REG-2019",
+     33,
+     null
+    ],
+    [
+     "CN-FIL-REG-2019",
+     34,
+     null
+    ],
+    [
+     "CN-FIL-REG-2019",
+     4,
+     null
+    ],
+    [
+     "CN-HAINAN-FTP-2021",
+     19,
+     null
+    ],
+    [
+     "CN-JI-0434",
+     2,
+     null
+    ],
+    [
+     "CN-JI-0434",
+     3,
+     null
+    ],
+    [
+     "CN-JI-0434",
+     4,
+     null
+    ],
+    [
+     "CN-JI-0434",
+     5,
+     null
+    ],
+    [
+     "CN-LAW-0163",
+     54,
+     null
+    ],
+    [
+     "CN-LAW-0208",
+     10,
+     null
+    ],
+    [
+     "CN-REG-0100",
+     8,
+     null
+    ],
+    [
+     "CN-REG-0534",
+     74,
+     null
+    ]
+   ],
+   "citations": [
+    {
+     "lawId": "CN-FIL-REG-2019",
+     "lawTitle": {
+      "zh": "中华人民共和国外商投资法实施条例",
+      "en": "Regulations for the Implementation of the Foreign Investment Law of the People's Republic of China",
+      "orig": "中华人民共和国外商投资法实施条例"
+     },
+     "country": "CN",
+     "no": 4,
+     "noLabel": "第四条",
+     "heading": "",
+     "text": {
+      "zh": "外商投资准入负面清单（以下简称负面清单）由国务院投资主管部门会同国务院商务主管部门等有关部门提出，报国务院发布或者报国务院批准后由国务院投资主管部门、商务主管部门发布。\n国家根据进一步扩大对外开放和经济社会发展需要，适时调整负面清单。调整负面清单的程序，适用前款规定。"
+     },
+     "score": 0.031778,
+     "debug": {
+      "bm25Rank": 5,
+      "vecRank": 1,
+      "cosine": 0.7823
+     }
+    },
+    {
+     "lawId": "CN-FIL-2019",
+     "lawTitle": {
+      "zh": "中华人民共和国外商投资法",
+      "en": "Foreign Investment Law of the People's Republic of China",
+      "orig": "中华人民共和国外商投资法"
+     },
+     "country": "CN",
+     "no": 28,
+     "noLabel": "第二十八条",
+     "heading": "",
+     "text": {
+      "zh": "外商投资准入负面清单规定禁止投资的领域，外国投资者不得投资。\n外商投资准入负面清单规定限制投资的领域，外国投资者进行投资应当符合负面清单规定的条件。\n外商投资准入负面清单以外的领域，按照内外资一致的原则实施管理。"
+     },
+     "score": 0.031754,
+     "debug": {
+      "bm25Rank": 2,
+      "vecRank": 4,
+      "cosine": 0.7245
+     }
+    },
+    {
+     "lawId": "CN-FIL-2019",
+     "lawTitle": {
+      "zh": "中华人民共和国外商投资法",
+      "en": "Foreign Investment Law of the People's Republic of China",
+      "orig": "中华人民共和国外商投资法"
+     },
+     "country": "CN",
+     "no": 4,
+     "noLabel": "第四条",
+     "heading": "",
+     "text": {
+      "zh": "国家对外商投资实行准入前国民待遇加负面清单管理制度。\n前款所称准入前国民待遇，是指在投资准入阶段给予外国投资者及其投资不低于本国投资者及其投资的待遇；所称负面清单，是指国家规定在特定领域对外商投资实施的准入特别管理措施。国家对负面清单之外的外商投资，给予国民待遇。\n负面清单由国务院发布或者批准发布。\n中华人民共和国缔结或者参加的国际条约、协定对外国投资者准入待遇有更优惠规定的，可以按照相关规定执行。"
+     },
+     "score": 0.031754,
+     "debug": {
+      "bm25Rank": 4,
+      "vecRank": 2,
+      "cosine": 0.7524
+     }
+    },
+    {
+     "lawId": "CN-FIL-2019",
+     "lawTitle": {
+      "zh": "中华人民共和国外商投资法",
+      "en": "Foreign Investment Law of the People's Republic of China",
+      "orig": "中华人民共和国外商投资法"
+     },
+     "country": "CN",
+     "no": 36,
+     "noLabel": "第三十六条",
+     "heading": "",
+     "text": {
+      "zh": "外国投资者投资外商投资准入负面清单规定禁止投资的领域的，由有关主管部门责令停止投资活动，限期处分股份、资产或者采取其他必要措施，恢复到实施投资前的状态；有违法所得的，没收违法所得。\n外国投资者的投资活动违反外商投资准入负面清单规定的限制性准入特别管理措施的，由有关主管部门责令限期改正，采取必要措施满足准入特别管理措施的要求；逾期不改正的，依照前款规定处理。\n外国投资者的投资活动违反外商投资准入负面清单规定的，除依照前两款规定处理外，还应当依法承担相应的法律责任。"
+     },
+     "score": 0.031025,
+     "debug": {
+      "bm25Rank": 3,
+      "vecRank": 6,
+      "cosine": 0.703
+     }
+    },
+    {
+     "lawId": "CN-FIL-REG-2019",
+     "lawTitle": {
+      "zh": "中华人民共和国外商投资法实施条例",
+      "en": "Regulations for the Implementation of the Foreign Investment Law of the People's Republic of China",
+      "orig": "中华人民共和国外商投资法实施条例"
+     },
+     "country": "CN",
+     "no": 33,
+     "noLabel": "第三十三条",
+     "heading": "",
+     "text": {
+      "zh": "负面清单规定禁止投资的领域，外国投资者不得投资。负面清单规定限制投资的领域，外国投资者进行投资应当符合负面清单规定的股权要求、高级管理人员要求等限制性准入特别管理措施。"
+     },
+     "score": 0.030798,
+     "debug": {
+      "bm25Rank": 7,
+      "vecRank": 3,
+      "cosine": 0.7393
+     }
+    }
+   ],
+   "mode": "hybrid-rrf"
+  },
+  {
+   "id": "curated-001",
+   "source": "curated",
+   "cc": "CN",
+   "gold_laws": [
+    "CN-COMPANY-2023",
+    "CN-JI-0372",
+    "CN-LAW-0021",
+    "CN-MARKET-REG-2021"
+   ],
+   "gold_keys": [
+    [
+     "CN-COMPANY-2023",
+     227,
+     null
+    ],
+    [
+     "CN-COMPANY-2023",
+     228,
+     null
+    ],
+    [
+     "CN-COMPANY-2023",
+     47,
+     null
+    ],
+    [
+     "CN-COMPANY-2023",
+     55,
+     null
+    ],
+    [
+     "CN-JI-0372",
+     2,
+     null
+    ],
+    [
+     "CN-LAW-0021",
+     159,
+     null
+    ],
+    [
+     "CN-MARKET-REG-2021",
+     13,
+     null
+    ]
+   ],
+   "citations": [
+    {
+     "lawId": "CN-COMPANY-2023",
+     "lawTitle": {
+      "zh": "中华人民共和国公司法",
+      "en": "Company Law of the People's Republic of China",
+      "orig": "中华人民共和国公司法"
+     },
+     "country": "CN",
+     "no": 47,
+     "noLabel": "第四十七条",
+     "heading": "",
+     "text": {
+      "zh": "有限责任公司的注册资本为在公司登记机关登记的全体股东认缴的出资额。全体股东认缴的出资额由股东按照公司章程的规定自公司成立之日起五年内缴足。\n法律、行政法规以及国务院决定对有限责任公司注册资本实缴、注册资本最低限额、股东出资期限另有规定的，从其规定。"
+     },
+     "score": 0.032258,
+     "debug": {
+      "bm25Rank": 2,
+      "vecRank": 2,
+      "cosine": 0.7043
+     }
+    },
+    {
+     "lawId": "CN-REG-0158",
+     "lawTitle": {
+      "zh": "国务院关于实施《中华人民共和国公司法》注册资本登记管理制度的规定",
+      "en": "Provisions of the State Council on the Implementation of the Registered Capital Registration and Administration System of the Company Law of the People's Republic of China",
+      "orig": "国务院关于实施《中华人民共和国公司法》注册资本登记管理制度的规定"
+     },
+     "country": "CN",
+     "no": 6,
+     "noLabel": "第六条",
+     "heading": "",
+     "text": {
+      "zh": "公司未按照本规定调整出资期限、注册资本的，由公司登记机关责令改正；逾期未改正的，由公司登记机关在国家企业信用信息公示系统作出特别标注并向社会公示。"
+     },
+     "score": 0.030777,
+     "debug": {
+      "bm25Rank": 6,
+      "vecRank": 4,
+      "cosine": 0.6685
+     }
+    },
+    {
+     "lawId": "CN-REG-0158",
+     "lawTitle": {
+      "zh": "国务院关于实施《中华人民共和国公司法》注册资本登记管理制度的规定",
+      "en": "Provisions of the State Council on the Implementation of the Registered Capital Registration and Administration System of the Company Law of the People's Republic of China",
+      "orig": "国务院关于实施《中华人民共和国公司法》注册资本登记管理制度的规定"
+     },
+     "country": "CN",
+     "no": 3,
+     "noLabel": "第三条",
+     "heading": "",
+     "text": {
+      "zh": "公司出资期限、注册资本明显异常的，公司登记机关可以结合公司的经营范围、经营状况以及股东的出资能力、主营项目、资产规模等进行研判，认定违背真实性、合理性原则的，可以依法要求其及时调整。"
+     },
+     "score": 0.028898,
+     "debug": {
+      "bm25Rank": 5,
+      "vecRank": 14,
+      "cosine": 0.6313
+     }
+    },
+    {
+     "lawId": "CN-REG-0423",
+     "lawTitle": {
+      "zh": "证券公司监督管理条例",
+      "en": "Regulations on the Supervision and Administration of Securities Companies",
+      "orig": "证券公司监督管理条例"
+     },
+     "country": "CN",
+     "no": 16,
+     "noLabel": "第十六条",
+     "heading": "",
+     "text": {
+      "zh": "国务院证券监督管理机构应当对下列申请进行审查，并在下列期限内，作出批准或者不予批准的书面决定：\n(一)对在境内设立证券公司或者在境外设立、收购或者参股证券经营机构的申请，自受理之日起6个月；\n(二)对增加注册资本且股权结构发生重大调整，减少注册资本，合并、分立或者要求审查股东、实际控制人资格的申请，自受理之日起3个月；\n(三)对变更业务范围、公司章程中的重要条款或者要求审查高级管理人员任职资格的申请，自受理之日起45个工作日；\n(四)对设立、收购、撤销境内分支机构，或者停业、解散、破产的申请，自受理之日起30个工作日；\n(五)对要求审查董事、监事任职资格的申请，自受理之日起20个工作日。\n国务院证券监督管理机构审批证券公司及其分支机构的设立申请，应当考虑证券市场发展和公平竞争的需要。"
+     },
+     "score": 0.025382,
+     "debug": {
+      "bm25Rank": 23,
+      "vecRank": 15,
+      "cosine": 0.6284
+     }
+    },
+    {
+     "lawId": "CN-MARKET-REG-2021",
+     "lawTitle": {
+      "zh": "中华人民共和国市场主体登记管理条例",
+      "en": "Regulations of the People's Republic of China on the Administration of Market Entity Registration",
+      "orig": "中华人民共和国市场主体登记管理条例"
+     },
+     "country": "CN",
+     "no": 13,
+     "noLabel": "第十三条",
+     "heading": "",
+     "text": {
+      "zh": "除法律、行政法规或者国务院决定另有规定外，市场主体的注册资本或者出资额实行认缴登记制，以人民币表示。\n出资方式应当符合法律、行政法规的规定。公司股东、非公司企业法人出资人、农民专业合作社（联合社）成员不得以劳务、信用、自然人姓名、商誉、特许经营权或者设定担保的财产等作价出资。"
+     },
+     "score": 0.024615,
+     "debug": {
+      "bm25Rank": 26,
+      "vecRank": 17,
+      "cosine": 0.6275
+     }
+    }
+   ],
+   "mode": "hybrid-rrf"
+  }
+ ]
+}

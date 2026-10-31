@@ -58,10 +58,16 @@ def info() -> Dict[str, Any]:
 
 def search_articles(qvec: np.ndarray, topk: int = 100,
                     law_ids: Optional[List[str]] = None) -> List[Tuple[Dict[str, Any], float]]:
-    """返回条文级 [(meta, max cosine)]；同一 (law_id,no,dup_index) 取最高分。"""
+    """返回条文级 [(meta, max cosine)]；同一 (law_id,no,dup_index) 取最高分。
+
+    topk 按“条文”计；内部先取更多 chunk 再聚合，避免多个 chunk 属于同一条文
+    时候选条文数量不足（例如只看 top50 chunk 可能只聚合出 10 条条文）。
+    """
     if not load():
         return []
     Q, S, meta = _store["q"], _store["s"], _store["meta"]
+    # 每个条文最多 MAX_CHUNKS 块；多取 20 倍，保证聚合后仍有足量候选条文。
+    n_chunks = min(max(int(topk) * 20, 200), len(meta))
     if law_ids:
         want = set(law_ids)
         rows = np.array([i for i, m in enumerate(meta) if m["law_id"] in want], dtype=np.int64)
@@ -69,12 +75,12 @@ def search_articles(qvec: np.ndarray, topk: int = 100,
             return []
         sub_q, sub_s = Q[rows], S[rows]
         sims = (sub_q.astype(np.float32) @ qvec.astype(np.float32)) * sub_s
-        k = min(max(topk, 1), sims.shape[0])
+        k = min(n_chunks, sims.shape[0])
         idx = np.argsort(-sims)[:k]
         pairs = [(int(rows[int(i)]), float(sims[int(i)])) for i in idx]
     else:
         sims = (Q.astype(np.float32) @ qvec.astype(np.float32)) * S
-        k = min(max(topk, 1), sims.shape[0])
+        k = min(n_chunks, sims.shape[0])
         idx = np.argpartition(-sims, k - 1)[:k]
         idx = idx[np.argsort(-sims[idx])]
         pairs = [(int(i), float(sims[int(i)])) for i in idx]
@@ -84,4 +90,4 @@ def search_articles(qvec: np.ndarray, topk: int = 100,
         key = (m["law_id"], m.get("no"), m.get("dup_index"))
         if key not in best or sc > best[key][1]:
             best[key] = (m, sc)
-    return sorted(best.values(), key=lambda x: -x[1])
+    return sorted(best.values(), key=lambda x: -x[1])[:max(1, int(topk))]
