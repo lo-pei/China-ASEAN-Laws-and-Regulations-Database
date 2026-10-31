@@ -1,11 +1,17 @@
 # 夜间向量升级计划（2026-10-29）
 
-## 实际执行记录（2026-10-29 夜）
+## 实际执行记录（2026-10-29 夜 / 10-30 凌晨）
 
 - **B 已完成（22:47）**：`embed.py --level law --law-content --batch 8`，42,121 部法规向量，`lawContent=title+summary+first2+chapters`；旧索引备份在 `backend/data/vectors.before-upgrade/`。
-- **A 正在执行（23:33 约 17%）**：`embed_missing.py --level article --batch 8`，目标 234,624 条；约 16 条/秒，ETA 约 3.4 小时；parts/ckpt 在 `backend/data/vectors/article_missing.*`，中断可续跑。
-- 硬件限制：DirectML 在 512 token / batch32 下触发 `887A0005`（设备移除），因此 B/A 改用 **maxLen=160、batch=8**；C 的 512 切片必须改用更稳的 provider/分批策略，不能复用本次 batch。
-- **C 未开始**：等 A 完成后单独做 schema + 重嵌，预计 20 小时。
+- **A 第一轮已完成编码但落盘失败**：`_write_atomic` 的临时文件被 `np.save` 自动补 `.npy`，`os.replace` 找不到文件；已修复为显式 `.tmp.npy`，并把 parts 清理改到最终写盘成功之后。
+- **A 已完成（10-30 06:49）**：`embed_missing.py --level article --batch 8`，补齐 234,624 条；DB 唯一 `(law_id,no,dup_index)` 覆盖 563,794 / 563,794，manifest 条文 564,578。
+- **A 第一轮已完成编码但落盘失败**：`_write_atomic` 的临时文件被 `np.save` 自动补 `.npy`，`os.replace` 找不到文件；已修复为显式 `.tmp.npy`，并把 parts 清理改到最终写盘成功之后。
+- **C 已完成（10-31 10:27）**：`embed_chunks.py --batch 8`，输出 `backend/data/vectors-chunks/`：
+  - `chunk_vecs.i8.npy` 623,915 × 1024 int8；`chunk_scale.npy` 623,915；
+  - `chunk_meta.json` 623,915 条，覆盖 563,794 个唯一条文键、42,121 部法规；
+  - manifest：maxLen 512 / stride 128 / maxChunks 3 / count 623,915；
+  - 构建 parts 与 ckpt 已清理；`qa.retrieve` 实际返回 `mode=hybrid-rrf`、`vecReady=true`，`backend/test_qa_hybrid.py` 5/5 通过。
+- 硬件限制：DirectML 在 512 token / batch32 下触发 `887A0005`（设备移除），因此 B/A 用 **maxLen=160、batch=8**；C 需先小批量试 512，若仍触发需按 batch=1 或 CPU 分片执行。
 
 > 状态：`/api/qa` 的 BM25+向量 RRF、国别前置过滤、阈值已完成并测试。
 

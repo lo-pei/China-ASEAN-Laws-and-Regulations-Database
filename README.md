@@ -11,7 +11,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-DirectML-005CED)
-![Status](https://img.shields.io/badge/RAG-C%20index%20building-yellow)
+![Status](https://img.shields.io/badge/RAG-C%20index%20complete-brightgreen)
 
 [项目概览](#1-项目概览) · [数据资产](#2-数据资产) · [功能矩阵](#3-功能矩阵) · [系统架构](#4-系统架构) · [快速开始](#5-快速开始) · [目录结构](#6-目录结构) · [质量保障](#7-质量保障) · [文档导航](#8-文档导航)
 
@@ -42,10 +42,10 @@ CALR（China–ASEAN Laws and Regulations Database）是一个可直接在浏览
 | 译文层 | ✅ 已完成 | 5,633 部 / 90,627 条 / 47 分卷 |
 | A 条文向量 | ✅ 已完成 | 564,578 条条文向量 |
 | B 法规向量 | ✅ 已完成 | 42,121 部法规向量，内容为标题 + 摘要 + 前两条 + 章节 |
-| C 条文切片向量 | 🟡 构建中 | 512-token / stride 128 / 单条最多 3 块；目标 623,915 块，支持 checkpoint 续跑 |
-| 混合 RAG 问答 | ✅ 可用 | BM25 + 向量 + RRF + 国别前置过滤 + 余弦阈值；C 完成前自动使用 A 条文向量 |
+| C 条文切片向量 | ✅ 已完成 | 512-token / stride 128 / 单条最多 3 块；623,915 块，覆盖 563,794 个唯一条文键 |
+| 混合 RAG 问答 | ✅ 可用 | BM25 + 向量 + RRF + 国别前置过滤 + 余弦阈值；优先使用 C 切片索引，缺失时回退 A 条文向量 |
 
-> C 索引构建期间，问答仍可正常使用；检索/问答会自动回退到 A 条文向量，不会因 C 未完成而不可用。
+> C 索引已完成；若切片文件缺失或设置 `CALR_QA_CHUNKS=0`，检索/问答会自动回退到 A 条文向量，不会不可用。
 
 ---
 
@@ -202,7 +202,7 @@ $env:CALR_MAX_LEN="512"
 python _work/phaseb/embed_chunks.py --batch 8           # C：512-token 条文切片
 ```
 
-没有向量索引时，检索自动降级为 BM25，详情与数据浏览功能不受影响。C 索引支持断点续跑：`backend/data/vectors-chunks/chunk_missing.ckpt` 记录已完成位置。
+没有向量索引时，检索自动降级为 BM25，详情与数据浏览功能不受影响。C 索引已生成；如需回退 A 条文向量，设置 `CALR_QA_CHUNKS=0`。
 
 ### 5.4 部署文档
 
@@ -304,7 +304,7 @@ python backend/test_api.py       # 后端 13 项自测（需先启动服务）
 - [x] 42k 法规 / 564k 条文全量入库
 - [x] 译文层与中文标题层补齐
 - [x] A 条文向量、B 法规向量重建
-- [ ] C 512-token 条文切片索引（构建中，断点续跑）
+- [x] C 512-token 条文切片索引（623,915 块，2026-10-31 完成）
 - [ ] 42k 新库 300+ 题评测集与基线复测
 - [ ] 生产部署的监控、限流与 SLA 完善
 
