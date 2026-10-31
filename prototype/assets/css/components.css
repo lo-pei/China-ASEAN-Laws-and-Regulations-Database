@@ -207,6 +207,16 @@ html:not([lang="zh-CN"]) .law-item__basic > span {
   overflow: visible;
   text-overflow: clip;
 }
+/* 状态标签在非中文界面独占一整行，避免长译文被列宽裁切、机关名贴上来遮挡。 */
+html:not([lang="zh-CN"]) .law-item__basic > .law-item__status {
+  grid-column: 1 / -1;
+  white-space: normal;
+  overflow: visible;
+}
+html:not([lang="zh-CN"]) .law-item__status .status {
+  max-width: 100%;
+  white-space: normal;
+}
 html:not([lang="zh-CN"]) .filter-group__title {
   line-height: 1.5;
   overflow-wrap: anywhere;
