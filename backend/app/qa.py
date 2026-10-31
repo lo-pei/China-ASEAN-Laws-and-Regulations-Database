@@ -25,6 +25,7 @@ import threading
 from typing import Any, Dict, List, Optional, Tuple
 
 from . import db, search as search_mod, vectors as vec_mod, embedder
+from . import chunk_vectors as chunk_mod
 
 VEC_MIN = float(os.environ.get("CALR_QA_VEC_MIN", "0.30"))
 RRF_K = int(os.environ.get("CALR_QA_RRF_K", "60"))
@@ -125,8 +126,9 @@ def _bm25_article_rank(q: str, countries: List[str]) -> List[Tuple[Tuple[str, An
 
 
 def _vector_articles(q: str, countries: List[str], topk: int) -> Tuple[List[Tuple[Tuple[str, Any, Any], float]], bool, str]:
-    """向量条文候选；可传 law_ids 做国别前置过滤。"""
-    if not vec_mod.load():
+    """向量条文候选；优先 C 阶段 chunk 索引，未构建时回退 A 索引。"""
+    use_chunks = os.environ.get("CALR_QA_CHUNKS", "1") != "0" and chunk_mod.load()
+    if not use_chunks and not vec_mod.load():
         return [], False, "vector-index-unavailable"
     emb = embedder.get()
     if emb is None:
@@ -136,7 +138,10 @@ def _vector_articles(q: str, countries: List[str], topk: int) -> Tuple[List[Tupl
         law_ids = _law_ids_for(countries) if countries else None
         if countries and not law_ids:
             return [], True, "country-no-laws"
-        hits = vec_mod.search_articles(qv, topk=max(topk, 1), law_ids=law_ids)
+        if use_chunks:
+            hits = chunk_mod.search_articles(qv, topk=max(topk, 1), law_ids=law_ids)
+        else:
+            hits = vec_mod.search_articles(qv, topk=max(topk, 1), law_ids=law_ids)
         return [((m["law_id"], m.get("no"), m.get("dup_index")), float(s)) for m, s in hits], True, ""
     except Exception as e:
         return [], True, "vector-error:%s" % type(e).__name__

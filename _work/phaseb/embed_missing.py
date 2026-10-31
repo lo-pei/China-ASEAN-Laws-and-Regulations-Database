@@ -41,7 +41,8 @@ def _backup(path):
 
 
 def _write_atomic(path, arr):
-    tmp = path + ".tmp"
+    # np.save 会自动补 .npy：临时文件名必须显式带 .npy，replace 才能找到。
+    tmp = path + ".tmp.npy"
     np.save(tmp, arr)
     os.replace(tmp, path)
 
@@ -109,15 +110,22 @@ def encode_batched(emb, texts, label, batch=None, resume=True):
         return np.zeros((0, 1024), dtype=np.int8), np.zeros((0,), dtype=np.float32)
     Q = np.vstack([np.load(os.path.join(part_dir, f)) for f in ps])
     S = np.concatenate([np.load(os.path.join(part_dir, f)) for f in ss])
-    # 成功合并后才清理断点
+    return Q, S
+
+
+def clean_parts(label):
+    """最终索引成功写盘后再清 parts/ckpt；写失败时保留，重跑可继续。"""
+    part_dir = os.path.join(embed.OUT, label + "_missing.parts")
+    ckpt = os.path.join(embed.OUT, label + "_missing.ckpt")
     try:
-        for f in os.listdir(part_dir):
-            os.remove(os.path.join(part_dir, f))
-        os.rmdir(part_dir)
-        os.remove(ckpt)
+        if os.path.isdir(part_dir):
+            for f in os.listdir(part_dir):
+                os.remove(os.path.join(part_dir, f))
+            os.rmdir(part_dir)
+        if os.path.exists(ckpt):
+            os.remove(ckpt)
     except Exception:
         pass
-    return Q, S
 
 
 def main():
@@ -185,6 +193,7 @@ def main():
             os.replace(os.path.join(embed.OUT, "law_ids.json.tmp"), os.path.join(embed.OUT, "law_ids.json"))
             manifest["law"] = {"count": len(ids), "dim": int(Q.shape[1]),
                                "content": "title+summary+first2+chapters" if args.law_content else manifest.get("law", {}).get("content", "title+summary")}
+            clean_parts("law")
         else:
             print("法规：无缺失，跳过")
 
@@ -212,6 +221,7 @@ def main():
             json.dump(outmeta, open(os.path.join(embed.OUT, "article_meta.json.tmp"), "w", encoding="utf-8"), ensure_ascii=False)
             os.replace(os.path.join(embed.OUT, "article_meta.json.tmp"), os.path.join(embed.OUT, "article_meta.json"))
             manifest["article"] = {"count": len(outmeta), "dim": int(Q.shape[1])}
+            clean_parts("article")
 
     manifest.update({"model": "BAAI/bge-m3", "maxLen": embed.MAX_LEN,
                      "quant": "int8-symmetric-per-row",

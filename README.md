@@ -210,6 +210,7 @@ python _work/phaseb/embed_chunks.py --batch 8           # C：512-token 条文�
 - [08 · B+ 完整部署（含模型）](docs/deploy/08-部署-B+完整版.md)
 - [09 · Windows 服务器部署](docs/deploy/09-部署-Windows服务器.md)
 - [10 · Windows 阿里云实测复盘](docs/deploy/10-部署-Windows阿里云实测复盘.md)
+- [11 · C 索引产物与部署](docs/deploy/11-C索引产物与部署.md)
 
 ---
 

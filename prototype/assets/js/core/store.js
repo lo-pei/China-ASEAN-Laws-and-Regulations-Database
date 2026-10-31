@@ -175,6 +175,16 @@
         });
       });
     }
+    /* 静态模式下 CN/INTL 两套目录合起来就是权威数据全集；
+       过滤掉 dataset-core 里已不在权威存储的旧占位记录（否则首页会多出几十部、统计不准）。 */
+    if (catalog && catalog.laws && intl && intl.laws) {
+      var auth = {};
+      catalog.laws.forEach(function (c) { auth[c.id] = 1; });
+      intl.laws.forEach(function (c) { auth[c.id] = 1; });
+      Object.keys(metaOnly).forEach(function (id) { auth[id] = 1; });
+      baseLaws = baseLaws.filter(function (l) { return auth[l.id]; });
+    }
+
     var fullCount = 0, fullArticles = 0, catalogCount = 0;
     state.laws = baseLaws.map(function (law) {
       var ft = fullTextMap[law.id];
@@ -411,12 +421,15 @@
       state.countries.forEach(function (c) { byCountry[c.code] = idx.lawsByCountry[c.code].length; });
       var full = state.laws.filter(function (l) { return l.coverage === 'full'; });
       var catalogOnly = state.laws.filter(function (l) { return l.coverage === 'catalog'; });
+      var im = root.CALR_INDEX_META || {};
       return {
         countries: state.countries.length,
-        laws: state.laws.length,
-        articles: state.articles.length,
+        laws: im.lawCount || state.laws.length,
+        articles: im.articleCount || state.articles.length,
         /** 已收录条文总数（含按需加载的分卷目录条文） */
-        articlesTotal: state.articles.length + catalogOnly.reduce(function (n, l) { return n + (l.articleCount || 0); }, 0),
+        articlesTotal: im.articleCount || state.laws.reduce(function (n, l) {
+          return n + (l.articleCount || (l.articles && l.articles.length) || 0);
+        }, 0),
         terms: state.terms.length,
         treaties: state.treaties.length,
         cases: state.cases.length,
