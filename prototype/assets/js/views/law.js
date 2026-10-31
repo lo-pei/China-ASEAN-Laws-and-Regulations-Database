@@ -104,8 +104,11 @@
             if (ok) { CALR.app.refresh(); }
             else {
               var dir = (pack && pack.kind === 'intl') ? 'prototype/data/intl/' : 'prototype/data/cn/';
-              main.innerHTML = '<div class="container page">' + C().emptyState(CALR.ui.icon('alert'), t('全文暂未载入'),
-                t('该法规的全文分卷未能加载，请检查 ' + dir + ' 目录是否完整。')) + '</div>';
+              var apiMode = !!(CALR.api && CALR.api.enabled && CALR.api.enabled());
+              var msg = apiMode
+                ? t('后端条文接口暂时未能返回该法规（可能是限流或网络超时），请稍后重试。')
+                : t('该法规的全文分卷未能加载，请检查 ' + dir + ' 目录是否完整。');
+              main.innerHTML = '<div class="container page">' + C().emptyState(CALR.ui.icon('alert'), t('全文暂未载入'), msg) + '</div>';
             }
           });
           return;

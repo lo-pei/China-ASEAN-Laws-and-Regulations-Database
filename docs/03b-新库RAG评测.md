@@ -98,3 +98,5 @@ python _work/rag/eval300.py --eval --configs c_chunk
 - `_work/rag/questions-300.json`
 - `_work/rag/eval-300-result.json`
 - `_work/rag/eval-300-result-v1.json`（首次 C 结果，保留对照）
+
+> **2026-10-31 线上权重调整**：为修复“越南外商投资准入条件”被《劳动法》压过《投资法》的问题，线上 RRF 已改为 **BM25:向量 = 2:1**（`CALR_QA_BM25_WEIGHT=2.0`）。上文表格仍是 1:1 基线，加权后的 346 题指标待复测。

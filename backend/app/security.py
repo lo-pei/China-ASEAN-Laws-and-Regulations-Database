@@ -31,8 +31,8 @@ def _origins():
 CORS_ORIGINS = _origins()
 API_KEY = os.environ.get("CALR_API_KEY", "").strip()
 MAX_BODY = int(os.environ.get("CALR_MAX_BODY", str(256 * 1024)))
-RATE_PER_MIN = int(os.environ.get("CALR_RATE_PER_MIN", "120"))
-RATE_BURST = int(os.environ.get("CALR_RATE_BURST", "30"))
+RATE_PER_MIN = int(os.environ.get("CALR_RATE_PER_MIN", "600"))
+RATE_BURST = int(os.environ.get("CALR_RATE_BURST", "120"))
 
 _buckets: Dict[str, list] = {}
 

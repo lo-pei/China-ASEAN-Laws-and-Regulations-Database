@@ -29,6 +29,10 @@ from . import chunk_vectors as chunk_mod
 
 VEC_MIN = float(os.environ.get("CALR_QA_VEC_MIN", "0.30"))
 RRF_K = int(os.environ.get("CALR_QA_RRF_K", "60"))
+# 法规检索的精确标题/文号命中很强；等权 RRF 会让跨语言向量把“相关但不对题”的条文顶到前面。
+# 默认给 BM25 更高权重；可用环境变量回退到 1:1 做 A/B。
+BM25_WEIGHT = float(os.environ.get("CALR_QA_BM25_WEIGHT", "2.0"))
+VEC_WEIGHT = float(os.environ.get("CALR_QA_VEC_WEIGHT", "1.0"))
 BM25_LAWS = int(os.environ.get("CALR_QA_BM25_LAWS", "20"))
 BM25_ARTS = int(os.environ.get("CALR_QA_BM25_ARTS", "3"))
 
@@ -209,12 +213,12 @@ def retrieve(question: str, country: Optional[str] = None, topk: int = 5,
     # RRF：两路都按排名；没有向量的路不参与分母
     fused: Dict[Tuple[str, Any, Any], float] = {}
     for k in bm25_keys:
-        fused[k] = fused.get(k, 0.0) + 1.0 / (RRF_K + bm25_pos[k])
+        fused[k] = fused.get(k, 0.0) + BM25_WEIGHT / (RRF_K + bm25_pos[k])
     for k in vec_pos:
         # 阈值：BM25 没命中的纯向量结果必须过余弦门槛
         if k not in bm25_pos and vec_score.get(k, 0.0) < VEC_MIN:
             continue
-        fused[k] = fused.get(k, 0.0) + 1.0 / (RRF_K + vec_pos[k])
+        fused[k] = fused.get(k, 0.0) + VEC_WEIGHT / (RRF_K + vec_pos[k])
 
     ranked = sorted(fused.items(), key=lambda x: -x[1])
     cites: List[Dict[str, Any]] = []

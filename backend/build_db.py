@@ -138,6 +138,7 @@ CREATE TABLE laws (
   title_zh      TEXT,
   title_en      TEXT,
   title_orig    TEXT,
+  title_i18n    TEXT,
   layer         TEXT,
   pack          TEXT,
   language      TEXT,
@@ -235,6 +236,7 @@ def main():
             o.get("country"),
             o.get("countryName") or (o.get("countryName") if isinstance(o.get("countryName"), str) else None),
             tget(title, "zh"), tget(title, "en"), tget(title, "orig"),
+            junk(title, 1000),
             o.get("layer"), o.get("pack"), o.get("language"),
             o.get("level"), o.get("category"), o.get("status"),
             o.get("promulgatedDate"), o.get("effectiveDate"), o.get("versionDate"),
@@ -331,7 +333,7 @@ def main():
 
 
 LAW_COLS = (
-    "id,country,country_name,title_zh,title_en,title_orig,layer,pack,language,level,"
+    "id,country,country_name,title_zh,title_en,title_orig,title_i18n,layer,pack,language,level,"
     "category,status,promulgated,effective,version_date,amended_note,issuing_body,"
     "doc_number,official_code,topics,coverage,structure_mode,article_count,chars,"
     "source,summary,text_quality,numbering_conflict,raw"

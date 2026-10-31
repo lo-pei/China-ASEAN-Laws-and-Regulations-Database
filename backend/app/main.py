@@ -55,6 +55,16 @@ app = FastAPI(
 # ── 安全中间件：请求体上限 + 按 IP 限流（见 app/security.py） ────────────
 app.middleware("http")(security.security_middleware)
 
+
+@app.middleware("http")
+async def cache_headers(request, call_next):
+    """部署后浏览器必须重新校验 HTML/JS/CSS，避免继续使用旧界面/旧语言包。"""
+    response = await call_next(request)
+    path = request.url.path.lower()
+    if path in ("/", "/index.html") or path.endswith((".html", ".js", ".css")) or path.startswith("/api/laws/compact"):
+        response.headers["Cache-Control"] = "no-cache, must-revalidate"
+    return response
+
 # ── gzip 压缩 ────────────────────────────────────────────────────────────
 # 静态数据文件很大（intl-catalog.js 原始 15.9 MB），但压缩率极高：
 # 实测 21.1 MB 静态资源 gzip 后仅 3.40 MB（压掉 84%），
@@ -154,8 +164,9 @@ def laws_compact(page: int = Query(1, ge=1),
     w = ("WHERE " + " AND ".join(where)) if where else ""
     total = db.one("SELECT COUNT(*) FROM laws " + w, params, 0)
     rs = db.rows(
-        "SELECT id,country,country_name,title_zh,title_en,title_orig,level,status,"
-        "topics,promulgated,effective,article_count,coverage,pack "
+        "SELECT id,country,country_name,title_zh,title_en,title_orig,title_i18n,level,status,"
+        "topics,promulgated,effective,version_date,amended_note,issuing_body,doc_number,"
+        "official_code,source,summary,chars,structure_mode,article_count,coverage,pack,language "
         "FROM laws " + w + " ORDER BY id LIMIT ? OFFSET ?",
         params + [size, (page - 1) * size])
     items = []
@@ -164,16 +175,33 @@ def laws_compact(page: int = Query(1, ge=1),
             topics = json.loads(r["topics"]) if r["topics"] else []
         except Exception:
             topics = []
+        ti = db._j(r["title_i18n"], {})
+        title = {"zh": r["title_zh"], "en": r["title_en"], "orig": r["title_orig"]}
+        if isinstance(ti, dict):
+            for k, v in ti.items():
+                if v and not title.get(k):
+                    title[k] = v
         items.append({
             "id": r["id"],
             "country": r["country"],
             "countryName": r["country_name"],
-            "title": {"zh": r["title_zh"], "en": r["title_en"], "orig": r["title_orig"]},
+            "title": title,
+            "titleI18n": ti if isinstance(ti, dict) else {},
+            "language": r["language"],
             "level": r["level"],
             "status": r["status"],
             "topics": topics,
             "promulgatedDate": r["promulgated"],
             "effectiveDate": r["effective"],
+            "versionDate": r["version_date"],
+            "amendedNote": db._j(r["amended_note"], None),
+            "issuingBody": db._j(r["issuing_body"], None),
+            "docNumber": db._j(r["doc_number"], None),
+            "officialCode": db._j(r["official_code"], None),
+            "source": db._j(r["source"], None),
+            "summary": db._j(r["summary"], None),
+            "chars": r["chars"],
+            "structureMode": r["structure_mode"],
             "articleCount": r["article_count"],
             "coverage": r["coverage"],
             "pack": r["pack"],

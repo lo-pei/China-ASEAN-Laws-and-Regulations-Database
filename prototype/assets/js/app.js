@@ -365,14 +365,21 @@
           S().seedFromApi(bs);
           S().init();
           dispatch(CALR.router.current(), { silent: true });
-          /* 后台补齐：每页 2000 条，10 页约 10.7 MB JSON（gzip 1.33 MB） */
-          (function loadPage(page) {
-            CALR.api.lawsCompact({ size: 2000, page: page }).then(function (r) {
-              var added = S().addCompactLaws(r.items || []);
-              if (added) dispatch(CALR.router.current(), { silent: true });
-              if (page < (r.pages || 1)) loadPage(page + 1);
-            }).catch(function () {});
-          })(1);
+          /* 后台补齐：每页 5000 条（接口上限），约 9 页；先收集完再一次性 add + 一次静默刷新，
+             避免每页都 rebuild 42k 法规并重复渲染当前页面（页面跳转/全文加载卡顿的主因）。 */
+          (function loadPage(page, acc) {
+            CALR.api.lawsCompact({ size: 5000, page: page }).then(function (r) {
+              var next = acc.concat(r.items || []);
+              if (page < (r.pages || 1)) {
+                loadPage(page + 1, next);
+              } else if (next.length) {
+                if (S().addCompactLaws(next)) dispatch(CALR.router.current(), { silent: true });
+              }
+            }).catch(function (e) {
+              if (root.console) console.warn('[CALR] compact 分页失败，使用已加载部分：' + (e && e.message));
+              if (acc.length && S().addCompactLaws(acc)) dispatch(CALR.router.current(), { silent: true });
+            });
+          })(1, []);
         }).catch(function (e) {
           if (root.console) console.warn('[CALR] bootstrap 失败，使用已加载数据：' + (e && e.message));
         });

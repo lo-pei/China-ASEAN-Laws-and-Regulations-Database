@@ -79,7 +79,14 @@ def search_articles(qvec: np.ndarray, topk: int = 100,
         idx = np.argsort(-sims)[:k]
         pairs = [(int(rows[int(i)]), float(sims[int(i)])) for i in idx]
     else:
-        sims = (Q.astype(np.float32) @ qvec.astype(np.float32)) * S
+        # 分块计算，避免将 623,915×1024 的 int8 一次性转成 float32
+        # （约 2.5 GB），否则在 8 GB 服务器上会触发换页/长时间延迟。
+        sims = np.empty(len(Q), dtype=np.float32)
+        block = 8192
+        qf = qvec.astype(np.float32)
+        for start in range(0, len(Q), block):
+            end = min(len(Q), start + block)
+            sims[start:end] = (Q[start:end].astype(np.float32) @ qf) * S[start:end]
         k = min(n_chunks, sims.shape[0])
         idx = np.argpartition(-sims, k - 1)[:k]
         idx = idx[np.argsort(-sims[idx])]

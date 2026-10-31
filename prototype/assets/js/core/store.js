@@ -49,8 +49,8 @@
       statuses: core.statuses || flat.statuses || [],
       countries: core.countries || flat.countries || [],
       /* API 模式下 intl-catalog.js 不再加载，法规由 /api/laws/compact 后台补齐，
-         暂存在 root.CALR_API_LAWS 里，这里合并进来，build() 会一并建索引。 */
-      laws: (core.laws || flat.laws || []).concat(root.CALR_API_LAWS || []),
+         暂存在 root.CALR_API_LAWS 里；build() 负责把它覆盖到核心记录上。 */
+      laws: (core.laws || flat.laws || []),
       terms: extra.terms || flat.terms || [],
       treaties: extra.treaties || flat.treaties || [],
       cases: extra.cases || flat.cases || [],
@@ -58,6 +58,24 @@
       qa: extra.qa || flat.qa || { curated: [], outOfScope: '' },
       demoQueries: extra.demoQueries || flat.demoQueries || []
     };
+  }
+
+  /* 把 compact 的权威字段补到核心/目录记录上；只填空值，不覆盖已有正文与标注。 */
+  function mergeApiFields(law, it) {
+    var out = Object.assign({}, law);
+    ["issuingBody", "docNumber", "officialCode", "promulgatedDate", "effectiveDate",
+      "versionDate", "amendedNote", "source", "summary", "level", "status", "language"
+    ].forEach(function (k) {
+      var v = it[k];
+      if (v !== undefined && v !== null && v !== '' &&
+          (out[k] === undefined || out[k] === null || out[k] === '')) out[k] = v;
+    });
+    out.title = Object.assign({}, it.titleI18n || {}, out.title || {}, it.title || {});
+    if (it.titleI18n) out.titleI18n = it.titleI18n;
+    if (it.articleCount && !out.articleCount) out.articleCount = it.articleCount;
+    if (!out.coverage && it.coverage) out.coverage = it.coverage;
+    if (!out.pack && it.pack) out.pack = it.pack;
+    return out;
   }
 
   function build() {
@@ -82,6 +100,19 @@
     var metaOnly = root.CALR_FULLTEXT_META || {};
     var catalog = root.CALR_CN_CATALOG || null;
     var baseLaws = (raw.laws || []).slice();
+    /* API compact 是后端权威元数据：覆盖到核心记录，并补入核心层没有的法规。 */
+    var apiLaws = root.CALR_API_LAWS || [];
+    var apiById = {};
+    apiLaws.forEach(function (it) { if (it && it.id) apiById[it.id] = it; });
+    baseLaws = baseLaws.map(function (l) {
+      var it = l && apiById[l.id];
+      return it ? mergeApiFields(l, it) : l;
+    });
+    var baseIds = {};
+    baseLaws.forEach(function (l) { if (l && l.id) baseIds[l.id] = 1; });
+    apiLaws.forEach(function (it) {
+      if (it && it.id && !baseIds[it.id]) { baseLaws.push(it); baseIds[it.id] = 1; }
+    });
     /* 允许 fulltext 文件补充「只登记元数据 + 全文」的新法规，避免多个数据文件互相改写 */
     Object.keys(metaOnly).forEach(function (id) {
       if (!baseLaws.some(function (l) { return l.id === id; })) {
@@ -363,32 +394,31 @@
       return articles.length;
     },
 
-    /** 把 /api/laws/compact 的轻量法规并入 store，并重建索引 */
+    /** 把 /api/laws/compact 的轻量法规并入 store，并重建索引。
+        compact 同时是“权威元数据覆盖层”：核心层已有的 1,600 多部也要补字段，
+        否则详情页会出现制定机关/日期缺失、语言切换标题缺失。 */
     addCompactLaws: function (items) {
       if (!items || !items.length) return 0;
       var arr = root.CALR_API_LAWS = root.CALR_API_LAWS || [];
-      var have = {};
-      /* 必须把 store 里已有的法规也登记进去：dataset-core / cn-catalog 里已经有 1,600 多部，
-         只对 CALR_API_LAWS 内部去重会让这些法规重复计入，国别卡片数字会偏大
-         （实测中国 1,594 而真实 1,586）。 */
-      var cur = state.laws || [];
-      for (var i = 0; i < cur.length; i++) if (cur[i] && cur[i].id) have[cur[i].id] = 1;
-      for (var i2 = 0; i2 < arr.length; i2++) have[arr[i2].id] = 1;
-      var added = 0;
+      var byId = {};
+      for (var i = 0; i < arr.length; i++) if (arr[i] && arr[i].id) byId[arr[i].id] = arr[i];
+      var changed = 0;
       for (var j = 0; j < items.length; j++) {
         var it = items[j];
-        if (!it || !it.id || have[it.id]) continue;
-        /* 补上 build() 需要的字段（compact 接口已给大部分，这里补齐默认值） */
+        if (!it || !it.id) continue;
+        if (it.titleI18n && typeof it.titleI18n === 'object') {
+          it.title = Object.assign({}, it.titleI18n, it.title || {});
+        }
         it.articles = it.articles || [];
         it.languages = it.languages || [];
         it.summary = it.summary || { zh: '' };
         it.source = it.source || null;
-        arr.push(it);
-        have[it.id] = 1;
-        added++;
+        if (byId[it.id]) Object.assign(byId[it.id], it);
+        else { arr.push(it); byId[it.id] = it; }
+        changed++;
       }
-      if (added) build();
-      return added;
+      if (changed) build();
+      return changed;
     },
 
     /** 统计（用于首页与文档口径）

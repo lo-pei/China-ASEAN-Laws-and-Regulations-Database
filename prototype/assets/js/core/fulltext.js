@@ -80,17 +80,24 @@
   var apiInflight = {};
   function apiArticlesOf(lawId) {
     if (apiInflight[lawId]) return apiInflight[lawId];
-    apiInflight[lawId] = root.CALR.api.lawArticles(lawId).then(function (d) {
-      var items = (d && d.items) || [];
-      if (!items.length) return false;
-      root.CALR_FULLTEXT = root.CALR_FULLTEXT || {};
-      root.CALR_FULLTEXT[lawId] = { articles: items, from: 'api', count: items.length };
+    function once() {
+      return root.CALR.api.lawArticles(lawId).then(function (d) {
+        var items = (d && d.items) || [];
+        if (!items.length) return false;
+        root.CALR_FULLTEXT = root.CALR_FULLTEXT || {};
+        root.CALR_FULLTEXT[lawId] = { articles: items, from: 'api', count: items.length };
+        emit();
+        return true;
+      });
+    }
+    apiInflight[lawId] = once().catch(function () {
+      /* 429/瞬时网络失败：延迟重试一次；仍失败则交给页面提示。 */
+      return new Promise(function (resolve) { setTimeout(resolve, 900); })
+        .then(once)
+        .catch(function () { return false; });
+    }).then(function (ok) {
       delete apiInflight[lawId];
-      emit();
-      return true;
-    }).catch(function () {
-      delete apiInflight[lawId];
-      return false;
+      return ok;
     });
     return apiInflight[lawId];
   }

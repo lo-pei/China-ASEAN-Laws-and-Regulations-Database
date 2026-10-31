@@ -72,11 +72,21 @@ def _j(v, default):
 
 
 def law_dict(r: sqlite3.Row, with_articles: bool = False) -> Dict[str, Any]:
+    title = {"zh": r["title_zh"], "en": r["title_en"], "orig": r["title_orig"]}
+    try:
+        ti = _j(r["title_i18n"], {})
+    except (KeyError, IndexError):
+        ti = {}
+    if isinstance(ti, dict):
+        for k, v in ti.items():
+            if v and not title.get(k):
+                title[k] = v
     d = {
         "id": r["id"],
         "country": r["country"],
         "countryName": r["country_name"],
-        "title": {"zh": r["title_zh"], "en": r["title_en"], "orig": r["title_orig"]},
+        "title": title,
+        "titleI18n": ti if isinstance(ti, dict) else {},
         "layer": r["layer"],
         "pack": r["pack"],
         "language": _j(r["language"], None),
