@@ -60,6 +60,14 @@
     };
   }
 
+  /* 数据层出现但 levels 字典未覆盖的层级；避免界面直接显示 rule/directive 等内部值。 */
+  var LEVEL_FALLBACK = {
+    rule: { zh: '规章 / 规则', en: 'Rule', vi: 'Quy tắc', th: 'กฎ', id: 'Peraturan', ms: 'Peraturan' },
+    directive: { zh: '指令', en: 'Directive', vi: 'Chỉ thị', th: 'คำสั่ง', id: 'Petunjuk', ms: 'Arahan' },
+    admin: { zh: '行政规定', en: 'Administrative Rule', vi: 'Quy định hành chính', th: 'กฎการบริหาร', id: 'Aturan Administratif', ms: 'Peraturan Pentadbiran' },
+    '': { zh: '未分类', en: 'Unclassified', vi: 'Chưa phân loại', th: 'ไม่จำแนก', id: 'Belum diklasifikasi', ms: 'Tidak dikelaskan' }
+  };
+
   /* 把 compact 的权威字段补到核心/目录记录上；只填空值，不覆盖已有正文与标注。 */
   function mergeApiFields(law, it) {
     var out = Object.assign({}, law);
@@ -85,7 +93,12 @@
     state.meta = raw.meta || {};
     state.languages = raw.languages;
     state.topics = raw.topics;
-    state.levels = raw.levels;
+    state.levels = (raw.levels || []).slice();
+    var levelIds = {};
+    state.levels.forEach(function (l) { levelIds[l.id] = 1; });
+    ["rule", "directive", "admin"].forEach(function (id, i) {
+      if (!levelIds[id]) state.levels.push({ id: id, order: 90 + i, name: LEVEL_FALLBACK[id] });
+    });
     state.statuses = raw.statuses;
     state.countries = raw.countries || [];
     state.treaties = raw.treaties || [];
@@ -342,7 +355,9 @@
     },
     levelName: function (id) {
       var lv = state.levels.filter(function (x) { return x.id === id; })[0];
-      return lv ? CALR.i18n.field(lv.name) : id;
+      if (lv) return CALR.i18n.field(lv.name);
+      var fb = LEVEL_FALLBACK[id] || LEVEL_FALLBACK[''];
+      return fb ? CALR.i18n.field(fb) : (id || '未分类');
     },
     statusName: function (id) {
       var st = state.statuses.filter(function (x) { return x.id === id; })[0];
